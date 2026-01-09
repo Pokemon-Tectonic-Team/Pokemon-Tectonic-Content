@@ -1,3 +1,4 @@
 Name         = Tectonic Content Scripts
 Credits      = Zinnia
-Requires	 = Chasm Battle,Chasm Other
+Requires	 = Chasm Battle
+Requires 	 = Chasm Other
