@@ -1,0 +1,3 @@
+Name         = Chasm Other
+Credits      = Essentials v19 Team,Zinnia,Divock
+Requires	 = Chasm Battle
