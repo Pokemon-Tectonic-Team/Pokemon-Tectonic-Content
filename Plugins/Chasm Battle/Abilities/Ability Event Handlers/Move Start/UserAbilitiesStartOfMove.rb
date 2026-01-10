@@ -34,13 +34,6 @@ BattleHandlers::UserAbilityStartOfMove.add(:REFRACTIVE,
     moveUseTypeChangeAbility(ability, user, move, battle, true) if move.lightMove?
   }
 )
-
-BattleHandlers::UserAbilityEndOfMove.add(:RAGEMANEUVERS,
-  proc { |ability, user, targets, move, battle|
-    next unless move.rampagingMove?
-    user.applyEffect(:RampageLocked)
-  }
-)
   
 BattleHandlers::UserAbilityStartOfMove.add(:RAINBOWTRAIL,
   proc { |ability, user, targets, move, battle|

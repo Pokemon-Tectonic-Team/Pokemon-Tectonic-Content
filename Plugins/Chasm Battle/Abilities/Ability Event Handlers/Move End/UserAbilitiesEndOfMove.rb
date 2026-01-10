@@ -740,3 +740,10 @@ BattleHandlers::UserAbilityEndOfMove.add(:HEROSJOURNEY,
     user.applyEffect(:HerosJourneyStatus) if move.statusMove?
   }
 )
+
+BattleHandlers::UserAbilityEndOfMove.add(:RAGEMANEUVERS,
+  proc { |ability, user, targets, move, battle|
+    next unless move.rampagingMove?
+    user.applyEffect(:RampageLocked)
+  }
+)
