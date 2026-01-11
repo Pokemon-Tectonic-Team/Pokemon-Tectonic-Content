@@ -128,6 +128,10 @@ class PokeBattle_Move_HitTwoToFiveTimesTwiceThenExhaust < PokeBattle_Move_HitTwo
         super
         @exhaustionTracker = :HyperBeam
     end
+
+    def exhaustionTracker
+        return @exhaustionTracker
+    end
     
     def pbEffectAfterAllHits(user, target)
         unless user.effectActive?(:SprayAndPray)
