@@ -2667,3 +2667,13 @@ def checkHerosJourney(battle, battler)
     battler.pbChangeForm(1, _INTL("{1} transformed!",battler.pbThis))
     battler.hideMyAbilitySplash
 end
+
+GameData::BattleEffect.register_effect(:Battler, {
+    :id => :BypassExhaustion,
+    :real_name => "Bypass Exhaustion",
+    :info_displayed => false,
+    :apply_proc => proc do |_battle, battler, _value|
+        battler.currentMove = nil
+    end,
+    :sub_effects => [:HyperBeam],
+})

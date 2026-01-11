@@ -110,7 +110,6 @@ module BattleHandlers
     TargetAbilityKnockedBelowHalf       = AbilityHandlerHash.new
     EndOfMoveItem                       = ItemHandlerHash.new   # Leppa Berry
     EndOfMoveStatRestoreItem            = ItemHandlerHash.new   # White Herb
-    UserAbilityEndOfExhaustingMove      = AbilityHandlerHash.new # Remanent Voltage
     UserAbilityEndOfTrappingMove        = AbilityHandlerHash.new # Denticle Debris
     UserAbilityOnSemiInvulnerable       = AbilityHandlerHash.new
     # Experience and EV gain
@@ -564,10 +563,6 @@ module BattleHandlers
     def self.triggerEndOfMoveStatRestoreItem(item, battler, battle, forced)
         ret = EndOfMoveStatRestoreItem.trigger(item, battler, battle, forced)
         return !ret.nil? ? ret : false
-    end
-
-    def self.triggerUserAbilityEndOfExhaustingMove(ability, user, targets, move, battle)
-        UserAbilityEndOfExhaustingMove.trigger(ability, user, targets, move, battle)
     end
 
     def self.triggerUserAbilityEndOfTrappingMove(ability, user, target, move, battle)

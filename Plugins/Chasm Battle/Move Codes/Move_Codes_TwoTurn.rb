@@ -7,6 +7,8 @@ class PokeBattle_Move_TwoTurnAttack < PokeBattle_Move
         @exhaustionTracker = :HyperBeam
     end
 
+    def exhaustingMove?; return true; end
+
     def pbEffectGeneral(user)
         if user.hasActiveItem?(:ENERGYHERB)
             @battle.pbCommonAnimation("UseItem", user)
