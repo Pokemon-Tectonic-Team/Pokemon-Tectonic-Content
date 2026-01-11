@@ -751,8 +751,7 @@ BattleHandlers::UserAbilityEndOfMove.add(:RAGEMANEUVERS,
 BattleHandlers::UserAbilityEndOfMove.add(:REMANENTVOLTAGE,
   proc { |ability, user, targets, move, battle|
     next unless move.exhaustingMove?
-    next if defined?(move.exhaustionTracker).nil? # Return unless move has exhaustionTracker defined
-    next unless user.effectActive(move.exhaustionTracker)
+    next unless user.effectActive?(move.exhaustionTracker)
     user.applyEffect(:BypassExhaustion)
     user.applyEffect(:TypeRestricted, :ELECTRIC)
     user.applyEffect(:TypeRestrictedTurns, 2)
