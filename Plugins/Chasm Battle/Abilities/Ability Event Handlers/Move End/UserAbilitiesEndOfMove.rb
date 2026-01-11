@@ -736,13 +736,13 @@ BattleHandlers::UserAbilityEndOfMove.add(:DISCOMBOBULATOR,
 BattleHandlers::UserAbilityEndOfMove.add(:HEROSJOURNEY,
   proc { |ability, user, targets, move, battle, _switchedBattlers|
     next if battle.pbAllFainted?(user.idxOpposingSide)
-    if (targets.any? { |b| b.damageState.fainted && b.opposes?(user) })
+    if (targets.any? { |b| b.damageState.fainted && b.opposes?(user) }) && !user.pbOwnSide.effectActive?(:HerosJourneyKO)
       battle.pbShowAbilitySplash(user, ability)
       battle.pbDisplay(_INTL("{1} vanquishes its opponents!", user.pbThis))
       user.pbOwnSide.applyEffect(:HerosJourneyKO)
       battle.pbHideAbilitySplash(user)
     end
-    if move.statusMove?
+    if move.statusMove? && !user.pbOwnSide.effectActive?(:HerosJourneyStatus)
       battle.pbShowAbilitySplash(user, ability)
       battle.pbDisplay(_INTL("{1} draws strength from wisdom!", user.pbThis))
       user.pbOwnSide.applyEffect(:HerosJourneyStatus)
