@@ -781,7 +781,7 @@ BattleHandlers::UserAbilityEndOfMove.add(:REMANENTVOLTAGE,
     next unless move.exhaustingMove?
     next unless user.effectActive?(move.exhaustionTracker)
     battle.pbShowAbilitySplash(user, ability)
-    battle.pbDisplay(_INTL("Leftover energy runs through {1}, shaking off its exhaustion!", user.pbThis(true)))
+    battle.pbDisplay(_INTL("Leftover energy runs through {1} despite exhaustion!", user.pbThis(true)))
     user.applyEffect(:BypassExhaustion)
     user.applyEffect(:TypeRestricted, :ELECTRIC)
     user.applyEffect(:TypeRestrictedTurns, 2)
