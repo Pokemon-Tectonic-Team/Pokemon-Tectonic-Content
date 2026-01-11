@@ -17,3 +17,7 @@ Description = Heals for 1/4th of its HP at the end of every turn.
 [PRIMEVALSLOWSTART]
 Name = Primeval Slow Start
 Description = Attack and Speed are halved.
+#-------------------------------
+[PRIMEVALBREAKTHROUGH]
+Name = Primeval Break Through
+Description = Moves ignore immunities due to typing and deal half damage to opponents that protect instead of being blocked.
