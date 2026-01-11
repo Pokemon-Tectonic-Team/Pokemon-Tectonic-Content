@@ -142,6 +142,22 @@ BattleHandlers::EOREffectAbility.add(:FLOURISHING,
   }
 )
 
+BattleHandlers::EOREffectAbility.add(:PRIMEVALFLOURISHING,
+  proc { |ability, battler, battle|
+      # A Pokémon's turnCount is 0 if it became active after the beginning of a
+      # round
+      next if battler.turnCount == 0
+      next unless %i[PUMPKABOO GOURGEIST].include?(battler.species)
+      next if battler.form == 3
+      battle.pbShowAbilitySplash(battler, ability)
+      formChangeMessage = _INTL("{1} grows one size bigger!", battler.pbThis)
+      battler.pbChangeForm(battler.form + 1, formChangeMessage)
+      battler.pbRaiseMultipleStatSteps(ALL_STATS_1, battler, ability: ability)
+      battle.pbDisplay(_INTL("{1} is fully grown!", battler.pbThis)) if battler.form == 3
+      battle.pbHideAbilitySplash(battler)
+  }
+)
+
 NOXIOUS_DAMAGE_FRACTION = 1.0/12.0
 
 BattleHandlers::EOREffectAbility.add(:NOXIOUS,

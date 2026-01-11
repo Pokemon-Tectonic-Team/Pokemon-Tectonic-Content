@@ -2635,3 +2635,12 @@ GameData::BattleEffect.register_effect(:Battler, {
     end,
     :sub_effects => [:HyperBeam],
 })
+
+GameData::BattleEffect.register_effect(:Battler, {
+    :id => :HitsThisTurn,
+    :real_name => "Hit This Turn",
+    :type => :Integer,
+    :eor_proc => proc do |battle, battler, _value|
+        battler.disableEffect(:HitsThisTurn)
+    end,
+})

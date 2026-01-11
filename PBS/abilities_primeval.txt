@@ -21,3 +21,7 @@ Description = Attack and Speed are halved.
 [PRIMEVALBREAKTHROUGH]
 Name = Primeval Break Through
 Description = Moves ignore immunities due to typing and deal half damage to opponents that protect instead of being blocked.
+#-------------------------------
+[PRIMEVALFLOURISHING]
+Name = Primeval Flourishing
+Description = Everytime the Pokemon grows, it raises all of its stats by 1 step. If it is damaged 3 times in one turn, reverts back to the smallest form and loses stats.
