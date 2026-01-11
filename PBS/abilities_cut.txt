@@ -175,6 +175,10 @@ Description = Boosts all of the Pokémon's move damage by 25% during eclipse.
 Name = Cautionary
 Description = Raises Def and Sp. Def by three steps each when its HP is lowered below half.
 #-------------------------------
+[CLAUSTROPHOBIA]
+Name = Claustrophobia
+Description = If there is an active Room, enemies which swap in take Psychic-type damage equal to 1/6th their HP.
+#-------------------------------
 [CLEAVING]
 Name = Cleaving
 Description = Ignores screens, Substitute, and Abilities that would affect its moves.

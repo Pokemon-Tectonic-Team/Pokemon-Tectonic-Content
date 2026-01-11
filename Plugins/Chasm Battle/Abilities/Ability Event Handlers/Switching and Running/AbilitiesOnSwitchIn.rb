@@ -1400,3 +1400,11 @@ BattleHandlers::AbilityOnSwitchIn.add(:INKSPRAY,
     battle.pbHideAbilitySplash(battler)
   }
 )
+
+BattleHandlers::AbilityOnSwitchIn.add(:INSCRUTABLEORDERS,
+  proc { |ability, battler, battle, aiCheck|
+    battle.pbShowAbilitySplash(battler, ability)
+    battler.applyEffect(:Torment)
+    battle.pbHideAbilitySplash(battler)
+  }
+)
