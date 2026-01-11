@@ -228,7 +228,7 @@ class PokeBattle_Battler
             return false
         end
 
-        if effectActive?(:HyperBeam) && !effectActive(:BypassExhaustion) # Intentionally before Truant
+        if effectActive?(:HyperBeam) && !effectActive?(:BypassExhaustion) # Intentionally before Truant
             if aiCheck
                 echoln("\t\t[AI FAILURE CHECK] #{pbThis} rejects the move #{move.id} due to exhaustion failure (Hyperbeam, etc.)")
             else
@@ -236,7 +236,7 @@ class PokeBattle_Battler
             end
             return false
         end
-        if effectActive?(:AttachedTo) && !effectActive(:BypassExhaustion)
+        if effectActive?(:AttachedTo) && !effectActive?(:BypassExhaustion)
             if aiCheck
                 echoln("\t\t[AI FAILURE CHECK] #{pbThis} rejects the move #{move.id} due to attachment failure")
             else

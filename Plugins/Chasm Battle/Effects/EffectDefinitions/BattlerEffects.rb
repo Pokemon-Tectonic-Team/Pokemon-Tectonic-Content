@@ -1035,7 +1035,6 @@ GameData::BattleEffect.register_effect(:Battler, {
     :expire_proc => proc do |battle, battler|
         battle.pbDisplay(_INTL("{1} spun down from its rampage.", battler.pbThis))
         battler.currentMove = nil
-        battler.disableEffect(:RampageLocked) if battler.effectActive?(:RampageLocked)
         if battler.effectActive?(:WillFaintAfterRampage)
             battle.pbDisplay(_INTL("Exhaustion finally catches up with {1}!", battler.pbThis(true)))
             battler.pbReduceHP(battler.hp,false,false)
@@ -1056,6 +1055,7 @@ GameData::BattleEffect.register_effect(:Battler, {
     :id => :RampageLocked,
     :real_name => "Rampage Locked",
     :info_displayed => false,
+    :sub_effects => [:Rampaging]
 })
 
 GameData::BattleEffect.register_effect(:Battler, {
