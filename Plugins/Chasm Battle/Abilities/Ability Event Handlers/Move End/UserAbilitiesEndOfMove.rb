@@ -769,6 +769,7 @@ end
 BattleHandlers::UserAbilityEndOfMove.add(:RAGEMANEUVERS,
   proc { |ability, user, targets, move, battle|
     next unless move.rampagingMove?
+    next unless user.effectActive?(:Rampaging)
     battle.pbShowAbilitySplash(user, ability)
     battle.pbDisplay(_INTL("{1} keeps cool, and can switch between rampaging moves!", user.pbThis))
     user.applyEffect(:RampageLocked)
