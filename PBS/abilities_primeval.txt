@@ -25,3 +25,7 @@ Description = This Pokémon's moves deal 20% more damage, ignore immunities due 
 [PRIMEVALFLOURISHING]
 Name = Primeval Flourishing
 Description = Everytime the Pokemon grows, it raises all of its stats by 1 step. If it is damaged 3 times in one turn, reverts back to the smallest form and loses stats.
+#-------------------------------
+[PRIMEVALHARDAS]
+Name = Primeval Hard As
+Description = If the Pokemon takes over 120 damage from an attack, the attacker becomes fractured.
