@@ -738,13 +738,13 @@ BattleHandlers::UserAbilityEndOfMove.add(:HEROSJOURNEY,
     next if battle.pbAllFainted?(user.idxOpposingSide)
     if (targets.any? { |b| b.damageState.fainted && b.opposes?(user) })
       battle.pbShowAbilitySplash(user, ability)
-      battle.pbDisplay(_INTL("{1} vanquishes its opponents!"))
+      battle.pbDisplay(_INTL("{1} vanquishes its opponents!", user.pbThis))
       user.pbOwnSide.applyEffect(:HerosJourneyKO)
       battle.pbHideAbilitySplash(user)
     end
     if move.statusMove?
       battle.pbShowAbilitySplash(user, ability)
-      battle.pbDisplay(_INTL("{1} draws strength from wisdom!"))
+      battle.pbDisplay(_INTL("{1} draws strength from wisdom!", user.pbThis))
       user.pbOwnSide.applyEffect(:HerosJourneyStatus)
       battle.pbHideAbilitySplash(user)
     end
