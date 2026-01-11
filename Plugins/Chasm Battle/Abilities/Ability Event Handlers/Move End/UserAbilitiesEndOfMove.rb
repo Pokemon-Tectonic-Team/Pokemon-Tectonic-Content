@@ -744,7 +744,10 @@ BattleHandlers::UserAbilityEndOfMove.add(:HEROSJOURNEY,
 BattleHandlers::UserAbilityEndOfMove.add(:RAGEMANEUVERS,
   proc { |ability, user, targets, move, battle|
     next unless move.rampagingMove?
+    battle.pbShowAbilitySplash(user, ability)
+    battle.pbDisplay(_INTL("{1} keeps cool, and can switch between rampaging moves!", user.pbThis))
     user.applyEffect(:RampageLocked)
+    battle.pbHideAbilitySplash(user)
   }
 )
 
@@ -752,8 +755,11 @@ BattleHandlers::UserAbilityEndOfMove.add(:REMANENTVOLTAGE,
   proc { |ability, user, targets, move, battle|
     next unless move.exhaustingMove?
     next unless user.effectActive?(move.exhaustionTracker)
+    battle.pbShowAbilitySplash(user, ability)
+    battle.pbDisplay(_INTL("Leftover energy runs through {1}, shaking off its exhaustion!", user.pbThis(true)))
     user.applyEffect(:BypassExhaustion)
     user.applyEffect(:TypeRestricted, :ELECTRIC)
     user.applyEffect(:TypeRestrictedTurns, 2)
+    battle.pbHideAbilitySplash(user)
   }
 )
