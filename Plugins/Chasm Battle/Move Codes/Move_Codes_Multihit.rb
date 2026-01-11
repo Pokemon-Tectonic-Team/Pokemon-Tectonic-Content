@@ -132,6 +132,10 @@ class PokeBattle_Move_HitTwoToFiveTimesTwiceThenExhaust < PokeBattle_Move_HitTwo
     def exhaustionTracker
         return @exhaustionTracker
     end
+
+    def exhaustingMove?
+        return true
+    end
     
     def pbEffectAfterAllHits(user, target)
         unless user.effectActive?(:SprayAndPray)
