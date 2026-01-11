@@ -48,8 +48,8 @@ class PokeBattle_Battler
 
     # AI method to predict if user can act this turn
     def canActThisTurn?
-        return false if effectActive?(:HyperBeam) && !effectActive(:BypassExhaustion)
-        return false if effectActive?(:Attached) && !effectActive(:BypassExhaustion)
+        return false if effectActive?(:HyperBeam) && !effectActive?(:BypassExhaustion)
+        return false if effectActive?(:Attached) && !effectActive?(:BypassExhaustion)
         return false if effectActive?(:Truant)
         return false if hasAbility?(:PACIFIST)
         return false if willStayAsleepAI?
