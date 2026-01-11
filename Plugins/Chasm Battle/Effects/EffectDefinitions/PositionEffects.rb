@@ -191,11 +191,12 @@ GameData::BattleEffect.register_effect(:Position, {
     :entry_proc => proc do |battle, _index, position, battler|
         if battler.hasActiveAbility?(:HEROSJOURNEY)
             koPasser = battler.ownerParty[position.effects[:PassingKO]]
+            koPasserName = battle.pbThisEx(battler.index, position.effects[:PassingKO])
             if koPasser
-                battle.pbShowAbilitySplash(user, ability)
-                battle.pbDisplay(_INTL("{1} comes to avenge {2}!", battler.pbThis, statPasserName))
+                battle.pbShowAbilitySplash(battler, ability)
+                battle.pbDisplay(_INTL("{1} comes to avenge {2}!", battler.pbThis, koPasserName))
                 battler.pbOwnSide.applyEffect(:HerosJourneyRevenge)
-                battle.pbHideAbilitySplash(user)
+                battle.pbHideAbilitySplash(battler)
                 position.disableEffect(:PassingKO)
                 checkHerosJourney(battle, battler)
             end

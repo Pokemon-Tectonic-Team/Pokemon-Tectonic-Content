@@ -738,13 +738,13 @@ BattleHandlers::UserAbilityEndOfMove.add(:HEROSJOURNEY,
     next if battle.pbAllFainted?(user.idxOpposingSide)
     if (targets.any? { |b| b.damageState.fainted && b.opposes?(user) })
       battle.pbShowAbilitySplash(user, ability)
-      battle.pbDisplay(_INTL("{1} vanquishes its opponents!"))
+      battle.pbDisplay(_INTL("{1} vanquishes its opponents!", user.pbThis))
       user.pbOwnSide.applyEffect(:HerosJourneyKO)
       battle.pbHideAbilitySplash(user)
     end
     if move.statusMove?
       battle.pbShowAbilitySplash(user, ability)
-      battle.pbDisplay(_INTL("{1} draws strength from wisdom!"))
+      battle.pbDisplay(_INTL("{1} draws strength from wisdom!", user.pbThis))
       user.pbOwnSide.applyEffect(:HerosJourneyStatus)
       battle.pbHideAbilitySplash(user)
     end
@@ -769,6 +769,7 @@ end
 BattleHandlers::UserAbilityEndOfMove.add(:RAGEMANEUVERS,
   proc { |ability, user, targets, move, battle|
     next unless move.rampagingMove?
+    next unless user.effectActive?(:Rampaging)
     battle.pbShowAbilitySplash(user, ability)
     battle.pbDisplay(_INTL("{1} keeps cool, and can switch between rampaging moves!", user.pbThis))
     user.applyEffect(:RampageLocked)
@@ -781,7 +782,7 @@ BattleHandlers::UserAbilityEndOfMove.add(:REMANENTVOLTAGE,
     next unless move.exhaustingMove?
     next unless user.effectActive?(move.exhaustionTracker)
     battle.pbShowAbilitySplash(user, ability)
-    battle.pbDisplay(_INTL("Leftover energy runs through {1}, shaking off its exhaustion!", user.pbThis(true)))
+    battle.pbDisplay(_INTL("Leftover energy runs through {1} despite exhaustion!", user.pbThis(true)))
     user.applyEffect(:BypassExhaustion)
     user.applyEffect(:TypeRestricted, :ELECTRIC)
     user.applyEffect(:TypeRestrictedTurns, 2)
