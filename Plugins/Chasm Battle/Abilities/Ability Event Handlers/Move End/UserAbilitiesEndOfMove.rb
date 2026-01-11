@@ -736,10 +736,35 @@ BattleHandlers::UserAbilityEndOfMove.add(:DISCOMBOBULATOR,
 BattleHandlers::UserAbilityEndOfMove.add(:HEROSJOURNEY,
   proc { |ability, user, targets, move, battle, _switchedBattlers|
     next if battle.pbAllFainted?(user.idxOpposingSide)
-    user.applyEffect(:HerosJourneyKO) if targets.any? { |b| b.damageState.fainted && b.opposes?(user) }
-    user.applyEffect(:HerosJourneyStatus) if move.statusMove?
+    if (targets.any? { |b| b.damageState.fainted && b.opposes?(user) })
+      battle.pbShowAbilitySplash(user, ability)
+      battle.pbDisplay(_INTL("{1} vanquishes its opponents!"))
+      user.pbOwnSide.applyEffect(:HerosJourneyKO)
+      battle.pbHideAbilitySplash(user)
+    end
+    if move.statusMove?
+      battle.pbShowAbilitySplash(user, ability)
+      battle.pbDisplay(_INTL("{1} draws strength from wisdom!"))
+      user.pbOwnSide.applyEffect(:HerosJourneyStatus)
+      battle.pbHideAbilitySplash(user)
+    end
+    checkHerosJourney(battle, user)
   }
 )
+
+def checkHerosJourney(battle, battler)
+  return unless battler.hasActiveAbility?(:HEROSJOURNEY)
+  return unless battler.countsAs?(:KELDEO)
+  return unless battler.form == 0
+  return unless battler.pbOwnSide.effectActive?(:HerosJourneyKO)
+  return unless battler.pbOwnSide.effectActive?(:HerosJourneyStatus)
+  return unless battler.pbOwnSide.effectActive?(:HerosJourneyRevenge)
+  battler.showMyAbilitySplash(:HEROSJOURNEY)
+  battle.pbDisplay(_INTL("A fierce resolution gathers around {1}!", battler.pbThis))
+  battler.applyFractionalHealing(1.0)
+  battler.pbChangeForm(1, _INTL("{1} transformed!",battler.pbThis))
+  battler.hideMyAbilitySplash
+end
 
 BattleHandlers::UserAbilityEndOfMove.add(:RAGEMANEUVERS,
   proc { |ability, user, targets, move, battle|
