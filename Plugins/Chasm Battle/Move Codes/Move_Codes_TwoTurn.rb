@@ -7,6 +7,10 @@ class PokeBattle_Move_TwoTurnAttack < PokeBattle_Move
         @exhaustionTracker = :HyperBeam
     end
 
+    def exhaustionTracker
+        return @exhaustionTracker
+    end
+
     def exhaustingMove?; return true; end
 
     def pbEffectGeneral(user)
