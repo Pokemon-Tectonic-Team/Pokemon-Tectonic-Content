@@ -20,7 +20,7 @@ Description = Attack and Speed are halved.
 #-------------------------------
 [PRIMEVALBREAKTHROUGH]
 Name = Primeval Break Through
-Description = Moves ignore immunities due to typing and deal half damage to opponents that protect instead of being blocked.
+Description = This Pokémon's moves deal 20% more damage, ignore immunities due to typing and deal half damage to opponents that protect instead of being blocked.
 #-------------------------------
 [PRIMEVALFLOURISHING]
 Name = Primeval Flourishing
