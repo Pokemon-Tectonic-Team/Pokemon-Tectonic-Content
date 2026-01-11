@@ -29,3 +29,7 @@ Description = Everytime the Pokemon grows, it raises all of its stats by 1 step.
 [PRIMEVALHARDAS]
 Name = Primeval Hard As
 Description = If the Pokemon takes over 120 damage from an attack, the attacker becomes fractured.
+#-------------------------------
+[PRIMEVALBOULDERNEST]
+Name = Primeval Boulder Nest
+Description = Lays a hazard of levitating stones around the opponent when its HP is lowered below 75% HP.

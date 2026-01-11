@@ -28,6 +28,7 @@ module BattleHandlers
     # Battler's HP changed
     HPHealItem                          = ItemHandlerHash.new
     AbilityOnHPDroppedBelowHalf         = AbilityHandlerHash.new
+    AbilityOnHPDropped                  = AbilityHandlerHash.new
     # Battler's status problem
     StatusCheckAbilityNonIgnorable      = AbilityHandlerHash.new   # Comatose
     StatusImmunityAbility               = AbilityHandlerHash.new
@@ -210,6 +211,11 @@ module BattleHandlers
 
     def self.triggerAbilityOnHPDroppedBelowHalf(ability, user, battle)
         ret = AbilityOnHPDroppedBelowHalf.trigger(ability, user, battle)
+        return !ret.nil? ? ret : false
+    end
+
+    def self.triggerAbilityOnHPDropped(ability, user, battle, old_fraction, new_fraction)
+        ret = AbilityOnHPDropped.trigger(ability, user, battle)
         return !ret.nil? ? ret : false
     end
 
