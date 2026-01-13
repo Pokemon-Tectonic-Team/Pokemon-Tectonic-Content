@@ -1090,6 +1090,7 @@ BattleHandlers::TargetAbilityOnHit.add(:PRIMEVALFLOURISHING,
         else
             battle.pbDisplay(_INTL("{1}'s growth was stunted!", target.pbThis))
             target.applyEffect(:HitsThisTurn, 1)
+        end
         target.hideMyAbilitySplash
     }
 )
