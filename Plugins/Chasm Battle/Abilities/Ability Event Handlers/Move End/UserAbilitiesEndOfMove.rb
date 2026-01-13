@@ -789,3 +789,15 @@ BattleHandlers::UserAbilityEndOfMove.add(:REMANENTVOLTAGE,
     battle.pbHideAbilitySplash(user)
   }
 )
+
+BattleHandlers::UserAbilityEndOfMove.add(:PRIMEVALMEGALAUNCHER,
+  proc { |ability, user, targets, move, battle|
+  next unless move.pulseMove?
+    targets.each do |t|
+      next if t.damageState.fainted
+      next if t.damageState.unaffected
+      t.applyEffect(:IncomingDamageTurns, 2)
+      t.applyEffect(:IncomingDamageAmount, (t.damageState.totalHPLost/10.0).ceil)
+    end
+  }
+)

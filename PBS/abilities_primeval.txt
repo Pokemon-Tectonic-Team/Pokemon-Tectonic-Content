@@ -33,3 +33,7 @@ Description = If the Pokemon takes over 120 damage from an attack, the attacker 
 [PRIMEVALBOULDERNEST]
 Name = Primeval Boulder Nest
 Description = Lays a hazard of levitating stones around the opponent when its HP is lowered below 75% HP.
+#-------------------------------
+[PRIMEVALMEGALAUNCHER]
+Name = Primeval Mega Launcher
+Description = The target of a pulse attack takes 10% of the original attack's damage on the next turn.
