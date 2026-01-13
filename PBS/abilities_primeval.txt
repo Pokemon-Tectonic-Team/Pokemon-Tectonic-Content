@@ -1,26 +1,17 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[PRIMEVALDISGUISE]
-Name = Primeval Disguise
-Description = The Pokemon starts as a very convincing Pikachu!
-Flags = Uncopyable,Immutable
-#-------------------------------
-[PRIMEVALIMPOSTER]
-Name = Primeval Imposter
-Description = Transforms into the entire enemy team, except buffed!
-Flags = Uncopyable
-#-------------------------------
-[PRIMEVALREGENERATOR]
-Name = Primeval Regenerator
-Description = Heals for 1/4th of its HP at the end of every turn.
-#-------------------------------
-[PRIMEVALSLOWSTART]
-Name = Primeval Slow Start
-Description = Attack and Speed are halved.
+[PRIMEVALBOULDERNEST]
+Name = Primeval Boulder Nest
+Description = Lays a hazard of levitating stones around the opponent when its HP is lowered below 75% HP.
 #-------------------------------
 [PRIMEVALBREAKTHROUGH]
 Name = Primeval Break Through
 Description = This Pokémon's moves deal 20% more damage, ignore immunities due to typing and deal half damage to opponents that protect instead of being blocked.
+#-------------------------------
+[PRIMEVALDISGUISE]
+Name = Primeval Disguise
+Description = The Pokemon starts as a very convincing Pikachu!
+Flags = Uncopyable,Immutable
 #-------------------------------
 [PRIMEVALFLOURISHING]
 Name = Primeval Flourishing
@@ -30,10 +21,19 @@ Description = Everytime the Pokemon grows, it raises all of its stats by 1 step.
 Name = Primeval Hard As
 Description = If the Pokemon takes over 120 damage from an attack, the attacker becomes fractured.
 #-------------------------------
-[PRIMEVALBOULDERNEST]
-Name = Primeval Boulder Nest
-Description = Lays a hazard of levitating stones around the opponent when its HP is lowered below 75% HP.
+[PRIMEVALIMPOSTER]
+Name = Primeval Imposter
+Description = Transforms into the entire enemy team, except buffed!
+Flags = Uncopyable
 #-------------------------------
 [PRIMEVALMEGALAUNCHER]
 Name = Primeval Mega Launcher
 Description = The target of a pulse attack takes 10% of the original attack's damage on the next turn.
+#-------------------------------
+[PRIMEVALREGENERATOR]
+Name = Primeval Regenerator
+Description = Heals for 1/4th of its HP at the end of every turn.
+#-------------------------------
+[PRIMEVALSLOWSTART]
+Name = Primeval Slow Start
+Description = Attack and Speed are halved.
