@@ -103,6 +103,9 @@ class PokeBattle_Battler
     # Used for Emergency Exit/Wimp Out.
     def pbAbilitiesOnDamageTaken(oldHP, newHP = -1)
         newHP = @hp if newHP < 0
+        eachActiveAbility(true) do |ability|
+            BattleHandlers.triggerAbilityOnHPDropped(ability, self, @battle, oldHP.to_f/@totalhp.to_f, newHP.to_f/@totalhp.to_f)
+        end
         return false if oldHP < @totalhp / 2 || newHP >= @totalhp / 2 # Didn't drop below half
         ret = false
         eachActiveAbility(true) do |ability|

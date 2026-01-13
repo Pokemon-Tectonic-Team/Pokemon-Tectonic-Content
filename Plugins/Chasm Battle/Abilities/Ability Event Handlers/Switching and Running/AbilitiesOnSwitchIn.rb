@@ -356,6 +356,15 @@ BattleHandlers::AbilityOnSwitchIn.add(:BREAKTHROUGH,
   }
 )
 
+BattleHandlers::AbilityOnSwitchIn.add(:PRIMEVALBREAKTHROUGH,
+  proc { |ability, battler, battle, aiCheck|
+      next 0 if aiCheck
+      battle.pbShowAbilitySplash(battler, ability)
+      battle.pbDisplay(_INTL("{1} overpowers type immunities and protections!", battler.pbThis))
+      battle.pbHideAbilitySplash(battler)
+  }
+)
+
 BattleHandlers::AbilityOnSwitchIn.add(:DYNAMICENTRANCE,
   proc { |ability, battler, battle, aiCheck|
       next 0 if aiCheck
@@ -1397,6 +1406,14 @@ BattleHandlers::AbilityOnSwitchIn.add(:INKSPRAY,
       end
     end
     next score if aiCheck
+    battle.pbHideAbilitySplash(battler)
+  }
+)
+
+BattleHandlers::AbilityOnSwitchIn.add(:INSCRUTABLEORDERS,
+  proc { |ability, battler, battle, aiCheck|
+    battle.pbShowAbilitySplash(battler, ability)
+    battler.applyEffect(:Torment)
     battle.pbHideAbilitySplash(battler)
   }
 )

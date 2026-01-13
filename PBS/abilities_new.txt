@@ -306,10 +306,6 @@ Name = City Razer
 Description = After knocking out any Pokémon with Waterfall, transforms into its Rampage form. Ability becomes Juggernaut.
 Flags = Immutable
 #-------------------------------
-[CLAUSTROPHOBIA]
-Name = Claustrophobia
-Description = If there is an active Room, enemies which swap in take Psychic-type damage equal to 1/6th their HP.
-#-------------------------------
 [CLEANFREAK]
 Name = Clean Freak
 Description = Boosts move damage by 50% while it has a non-volatile status condition. It suffers double effect from such status conditions.
@@ -1095,6 +1091,10 @@ Description = Upon entry, blinds all foes.
 Name = Inner Heat
 Description = Summons sunshine for four turns when hit by an attack.
 Flags = SunshineSynergy
+#-------------------------------
+[INSCRUTABLEORDERS]
+Name = Inscrutable Orders
+Description = This Pokémon deals 30% more move damage, but is inflicted with Torment upon entry.
 #-------------------------------
 [INSECTCOLLECTOR]
 Name = Insect Collector

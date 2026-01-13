@@ -2635,3 +2635,38 @@ GameData::BattleEffect.register_effect(:Battler, {
     end,
     :sub_effects => [:HyperBeam],
 })
+
+GameData::BattleEffect.register_effect(:Battler, {
+    :id => :HitsThisTurn,
+    :real_name => "Hit This Turn",
+    :type => :Integer,
+    :eor_proc => proc do |battle, battler, _value|
+        battler.disableEffect(:HitsThisTurn)
+    end,
+})
+
+GameData::BattleEffect.register_effect(:Battler, {
+    :id => :IncomingDamageTurns,
+    :real_name => "Incoming Damage Turns",
+    :type => :Integer,
+    :ticks_down_eor => true,
+    :info_displayed => false,
+    :expire_proc => proc do |battle, battler|
+        raise _INTL("No incoming damage number was associated to the incoming damage event.") unless battler.effectActive?(:IncomingDamageAmount)
+        battle.pbDisplay(_INTL("A pulse bounced back to {1}!", battler.pbThis(true)))
+        oldHP = battler.hp
+        damageTaken = battler.effects[:IncomingDamageAmount]
+        battler.damageState.displayedDamage = damageTaken
+        battle.scene.pbDamageAnimation(battler)
+        battler.pbReduceHP(damageTaken, false)
+        battler.pbHealthLossChecks(oldHP)
+    end
+})
+
+GameData::BattleEffect.register_effect(:Battler, {
+    :id => :IncomingDamageAmount,
+    :real_name => "Incoming Damage Amount",
+    :type => :Integer,
+    :info_displayed => false,
+    :sub_effects => [:IncomingDamageTurns]
+})

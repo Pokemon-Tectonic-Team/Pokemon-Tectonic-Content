@@ -17,3 +17,23 @@ Description = Heals for 1/4th of its HP at the end of every turn.
 [PRIMEVALSLOWSTART]
 Name = Primeval Slow Start
 Description = Attack and Speed are halved.
+#-------------------------------
+[PRIMEVALBREAKTHROUGH]
+Name = Primeval Break Through
+Description = This Pokémon's moves deal 20% more damage, ignore immunities due to typing and deal half damage to opponents that protect instead of being blocked.
+#-------------------------------
+[PRIMEVALFLOURISHING]
+Name = Primeval Flourishing
+Description = Everytime the Pokemon grows, it raises all of its stats by 1 step. If it is damaged 3 times in one turn, reverts back to the smallest form and loses stats.
+#-------------------------------
+[PRIMEVALHARDAS]
+Name = Primeval Hard As
+Description = If the Pokemon takes over 120 damage from an attack, the attacker becomes fractured.
+#-------------------------------
+[PRIMEVALBOULDERNEST]
+Name = Primeval Boulder Nest
+Description = Lays a hazard of levitating stones around the opponent when its HP is lowered below 75% HP.
+#-------------------------------
+[PRIMEVALMEGALAUNCHER]
+Name = Primeval Mega Launcher
+Description = The target of a pulse attack takes 10% of the original attack's damage on the next turn.
