@@ -843,9 +843,6 @@ module Compiler
                         existing_species.instance_variable_set(:@sticky_items, contents["StickyItems"]) if contents["StickyItems"]
                         existing_species.instance_variable_set(:@notes, contents["Notes"]) if contents["Notes"]
                         existing_species.instance_variable_set(:@tribes, contents["Tribes"]) if contents["Tribes"]
-                        # Clear cached move data since properties may have changed
-                        existing_species.instance_variable_set(:@levelMoves, nil)
-                        existing_species.instance_variable_set(:@learnableMoves, nil)
                         # Don't call register - we've modified the existing object in-place
                         # Just continue to next species
                         species_names.push(existing_species.real_name)
