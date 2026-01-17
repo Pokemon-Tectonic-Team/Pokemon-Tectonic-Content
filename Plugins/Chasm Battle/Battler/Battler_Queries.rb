@@ -697,7 +697,7 @@ class PokeBattle_Battler
             end
             return !hasAlly? || allAlliesBelowHalfHP
         end
-        return false if fainted?
+        return false if @hp <= 0 # Used instead of fainted? to avoid recursion error
         ownerParty.each_with_index do |partyMember, i|
             next unless partyMember
             battler = @battle.pbFindBattler(i, self)
