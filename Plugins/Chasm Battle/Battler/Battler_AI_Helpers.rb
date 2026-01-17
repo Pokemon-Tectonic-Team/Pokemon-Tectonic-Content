@@ -52,6 +52,7 @@ class PokeBattle_Battler
         return false if effectActive?(:Attached) && !effectActive?(:BypassExhaustion)
         return false if effectActive?(:Truant)
         return false if hasAbility?(:PACIFIST)
+        return false if hasAbility?(:EXOSPHERICDESCENT) && !isLastWithMoreThanHalfHP
         return false if willStayAsleepAI?
         return true
     end

@@ -236,6 +236,8 @@ class PokeBattle_Scene
         if cmdSwitch >= 0 && command==cmdSwitch        # Switch In
           if modParty[idxParty].hasAbility?(:PACIFIST)
             pbMessage(_INTL("{1} refuses to join the battle. It's a pacifist!", modParty[idxParty].name))
+          elsif modParty[idxParty].hasAbility?(:EXOSPHERICDESCENT)
+            pbMessage(_INTL("{1} refuses to join the battle, as it deems its presence not required!", modParty[idxParty].name))
           else
             idxPartyRet = -1
             partyPos.each_with_index do |pos,i|

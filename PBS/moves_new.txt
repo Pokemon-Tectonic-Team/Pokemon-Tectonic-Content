@@ -1060,6 +1060,19 @@ Flags = CanProtect
 Description = A reckless rushing attack from the air. The user also takes 25% recoil.
 Animation = BRAVEBIRD
 #-------------------------------
+[ATMOSPHERICBURST]
+Name = Atmospheric Burst
+Type = FLYING
+Category = Physical
+Power = 100
+Accuracy = 100
+TotalPP = 8
+Target = NearOther
+FunctionCode = DamageBoost30PercentSuperOrHyperEffective
+Flags = CanProtect
+Description = The user compresses air around the target to impossible density. If the move is super-effective or hyper-effective, damage is increased by 30%.
+Animation = TEMPEST
+#-------------------------------
 [BIRDSEYEVIEW]
 Name = Bird's-Eye View
 Type = FLYING

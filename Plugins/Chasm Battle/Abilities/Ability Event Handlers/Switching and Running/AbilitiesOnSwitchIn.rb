@@ -1417,3 +1417,15 @@ BattleHandlers::AbilityOnSwitchIn.add(:INSCRUTABLEORDERS,
     battle.pbHideAbilitySplash(battler)
   }
 )
+
+
+BattleHandlers::AbilityOnSwitchIn.add(:EXOSPHERICDESCENT,
+  proc { |ability, battler, battle, aiCheck|
+    next -100 unless battler.isLastWithMoreThanHalfHP?
+    next 0 unless battler.form == 0
+    next 100 if aiCheck
+    battle.pbShowAbilitySplash(battler, ability)
+    battler.pbChangeForm(1, _INTL("{1} flies in like a comet!", battler.pbThis))
+    battle.pbHideAbilitySplash(battler)
+  }
+)

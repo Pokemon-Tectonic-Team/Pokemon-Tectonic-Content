@@ -593,3 +593,16 @@ class PokeBattle_Move_DoubleDamageMoneyTargetStatused < PokeBattle_Move
         user.generateMoney(money)
     end
 end
+#===============================================================================
+# Power is increased by 30% if the move is super-effective or hyper-effective. (Atmospheric Burst)
+#===============================================================================
+class PokeBattle_Move_DamageBoost30PercentSuperOrHyperEffective < PokeBattle_Move
+    def pbBaseDamage(baseDmg, user, target)
+        baseDmg *= 1.3 if target.damageState.typeMod == Effectiveness::SUPER_EFFECTIVE
+        return baseDmg
+    end
+
+    def shouldHighlight?(user, target)
+        return pbCalcTypeMod(:FLYING, user, target, true) == Effectiveness::SUPER_EFFECTIVE
+    end
+end
