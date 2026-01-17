@@ -283,6 +283,20 @@ class PokeBattle_Battler
             end
         end
 
+        # Exospheric Descent
+        if hasActiveAbility?(:EXOSPHERICDESCENT)
+            if aiCheck
+                echoln("\t\t[AI FAILURE CHECK] #{pbThis} rejects the move #{move.id} due to it being predicted to refuse to move (Exospheric Descent)")
+                return false
+            else
+                showMyAbilitySplash(:EXOSPHERICDESCENT)
+                @battle.pbDisplay(_INTL("{1} refuses to battle!", pbThis))
+                onMoveFailed(move)
+                hideMyAbilitySplash
+                return false
+            end
+        end
+
         # Truant
         if hasActiveAbility?(:TRUANT)
             if aiCheck

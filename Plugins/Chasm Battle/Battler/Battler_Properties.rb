@@ -56,7 +56,7 @@ class PokeBattle_Battler
     end
 
     def fainted?
-        return @hp <= 0 || afraid? || hasAbility?(:PACIFIST)
+        return @hp <= 0 || afraid? || hasAbility?(:PACIFIST) || (hasAbility?(:EXOSPHERICDESCENT) && !isLastWithMoreThanHalfHP)
     end
     alias isFainted? fainted?
 
