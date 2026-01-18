@@ -1155,6 +1155,10 @@ Flags = MoldBreaking
 Name = Karma
 Description = If an attack lowers this Pokémon's HP below half, the attacker becomes jinxed.
 #-------------------------------
+[KARMICBALANCE]
+Name = Karmic Balance
+Description = After attacks, lower Attack and Sp. Atk by two steps, and raise Defense and Sp. Def by two steps. After status moves, do the opposite.
+#-------------------------------
 [KELPLINK]
 Name = Kelp Link
 Description = Boosts Defense by 20%. When this Pokémon takes its second physical hit from the same attacker, they become leeched.
@@ -1731,6 +1735,10 @@ Flags = SunshineSynergy
 [REFUGE]
 Name = Refuge
 Description = Pokémon that swap in for this have their non-volatile status conditions healed, and take 30% less damage that turn.
+#-------------------------------
+[REJUVENATE]
+Name = Rejuvenate
+Description = At the end of each turn, heals from every volatile status condition.
 #-------------------------------
 [RELUCTANTWARRIOR]
 Name = Reluctant Warrior

@@ -740,3 +740,16 @@ BattleHandlers::UserAbilityEndOfMove.add(:HEROSJOURNEY,
     user.applyEffect(:HerosJourneyStatus) if move.statusMove?
   }
 )
+
+BattleHandlers::UserAbilityEndOfMove.add(:KARMICBALANCE,
+  proc { |ability, user, targets, move, battle, _switchedBattlers|
+        next if battle.pbAllFainted?(user.idxOpposingSide)
+        if user.effectActive?(:ChoseAttack)
+          user.pbLowerMultipleStatSteps(ATTACKING_STATS_2, user, ability: ability)
+          user.pbRaiseMultipleStatSteps(DEFENDING_STATS_2, user, ability: ability)
+        elsif user.effectActive?(:ChoseStatus)
+          user.pbLowerMultipleStatSteps(DEFENDING_STATS_2, user, ability: ability)
+          user.pbRaiseMultipleStatSteps(ATTACKING_STATS_2, user, ability: ability)
+        end
+  }
+)
