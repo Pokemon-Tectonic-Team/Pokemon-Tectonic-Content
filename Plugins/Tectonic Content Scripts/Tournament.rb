@@ -144,21 +144,6 @@ class RandomTournament
         flags.push("cursed") if @cursed_wins == FINAL_ROUND
         teamSnapshot("Makyan Champion", flags)
     end
-
-    # Save conversion helper function
-    def updateTrainerTypes
-        for match in @matches
-            trainerType = match[0].to_s
-            if trainerType.start_with?("LEADER_") && trainerType.end_with?("_2")
-                newTrainerType = trainerType[0..-3].to_sym
-                if GameData::TrainerType.exists?(newTrainerType)
-                    match[0] = newTrainerType
-                else
-                    echoln("Warning: Unable to find updated TrainerType #{newTrainerType} for #{trainerType}")
-                end
-            end
-        end
-    end
 end
 
 def tournamentBattle()
