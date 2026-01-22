@@ -476,6 +476,18 @@ Flags = CanProtect,CanMagicCoat
 Description = The user adorns itself or the target with precious stones, changing it to your choice of Fairy, Dragon, or Steel-type.
 Animation = LUCKYCHANT
 #-------------------------------
+[RELICRECITAL]
+Name = Relic Recital
+Type = NORMAL
+Category = Adaptive
+Power = 110
+Accuracy = 100
+TotalPP = 15
+Target = AllNearFoes
+FunctionCode = Basic
+Flags = CanProtect,Sound,Dance
+Description = The user performs a long-forgotten song and dance. This is both a Sound and Dance move.
+#-------------------------------
 [RETREAT]
 Name = Retreat
 Type = NORMAL

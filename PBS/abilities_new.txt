@@ -1193,6 +1193,14 @@ Flags = Immutable
 Name = Lauoho Lasso
 Description = On the first turn, its special attacks trap the target and damage it for three turns.
 #-------------------------------
+[LEADDANCER]
+Name = Lead Dancer
+Description = The user's dance moves have increased priority.
+#-------------------------------
+[LEADSINGER]
+Name = Lead Singer
+Description = Boosts power of sound-based moves by 30%. After using a sound move, all enemy attacks target the user this turn.
+#-------------------------------
 [LEAPFROMBELOW]
 Name = Leap from Below
 Description = This Pokémon's Speed is doubled while using charging moves.
