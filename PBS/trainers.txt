@@ -7804,8 +7804,8 @@ Pokemon = MGOLDEEN,15
 #-------------------------------
 [CHALLENGER_Vanya,Vanya,1]
 Flags = NoPerfect
-Pokemon = GULPIN,20
-    AbilityIndex = 0 # Pile On
+Pokemon = SKRELP,20
+    AbilityIndex = 1 # Water Absorb
 Pokemon = MROGGENROLA,20
     AbilityIndex = 0 # Time Interloper
 Pokemon = BARBOACH,20
