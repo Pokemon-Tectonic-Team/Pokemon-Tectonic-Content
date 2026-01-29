@@ -1,0 +1,4 @@
+Name         = May's Easy Mode
+Version      = 1.0.0
+Credits      = Xava,May
+Requires	 = Chasm Battle
