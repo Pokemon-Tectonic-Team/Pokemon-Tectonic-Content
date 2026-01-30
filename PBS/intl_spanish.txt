@@ -41234,6 +41234,38 @@ Clear Amulet
 Amuleto Puro
 Belue Berry
 Baya Andano
+Syrupy Apple
+Manzana Melosa
+Eldritch Fossil
+Fósil Sobrenatural
+Pinwheel
+Molinete
+Insoles
+Plantillas
+Protein Shake
+Batido Proteíco
+Stress Ball
+Bola de Estrés
+Whitening Paste
+Pasta Dental
+Flash Bulb
+Bombilla
+Adamant Crystal
+Gran Diamansfera
+Lustrous Globe
+Gran Lustresfera
+Griseous Core
+Gran Griseosfera
+Smart Phone
+Celular
+VS Recorder
+Cámara Lucha
+Primal Bead
+Montículo Primitivo
+Crystal Caliburn
+Caliburn Cristalina
+Unnamed
+Sin Nombre
 [8]
 Courage Badges
 Medallas Valor
@@ -42009,6 +42041,28 @@ Spelon Berries
 Bayas Wikano
 Belue Berries
 Bayas Andano
+Syrupy Apples
+Manzanas Melosas
+Eldritch Fossils
+Fósiles Sobrenaturales
+Pinwheels
+Molinetes
+Insoles
+Plantillas
+Protein Shakes
+Batidos Proteícos
+Stress Balls
+Bolas de Estrés
+Whitening Pastes
+Pastas Dentales
+Flash Bulbs
+Bombillas
+Adamant Crystals
+Gran Diamansferas
+Lustrous Globes
+Gran Lustresferas
+Griseous Cores
+Gran Griseosferas
 [9]
 A many-colored stone that makes a lot of Pokémon evolve. Can be used in place of any evolution stone.
 Una piedra colorida que hace que muchos Pokémon evolucionan. Puede ser usada en lugar de cualquier piedra evolutiva.
@@ -42082,28 +42136,28 @@ A beautiful floral wreath from Alola that makes certain species of Pokémon evol
 Una hermosa corona floral de Alola que hace evolucionar a ciertas especies de Pokémon.
 A wreath made from woven- Galarica Twigs. It makes certain species of Pokémon evolve.
 Una corona floral proveniente de Galar. Hace evolucionar a ciertas especies de Pokémon.
-A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a seashell.
-Un fósil de un antiguo Pokémon que vivía en el océano. Parece ser parte de una concha de mar.
-A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a shell.
-Un fósil de un antiguo Pokémon que vivía en el océano. Parece ser parte de un caparazón.
-A piece of amber that contains the genes of an ancient Pokémon. It is clear with a reddish tint.
-Un pedazo de ámbar que contiene los genes de un antiguo Pokémon. Tiene un tinte rojizo.
-A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a plant root.
-Un fósil de un antiguo Pokémon que vivía en el océano. Parece ser parte de la raíz de una planta.
-A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a claw.
-Un fósil de un antiguo Pokémon que vivía en el océano. Parece ser parte de una garra.
-A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a head.
-Un fósil de un Pokémon prehistórico que vivía en la tierra. Parece ser parte de su cabeza.
-A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar.
-Un fósil de un Pokémon prehistórico que vivía en la tierra. Parece ser parte de un cuello.
-A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its back.
-Un fósil de un antiguo Pokémon que vivía en el océano. Parece ser parte de su espalda.
-A fossil of an ancient Pokémon that flew in the sky in ancient times. It appears to be part of its wing.
-Un fósil de un Pokémon antiguo que volaba por los cielos en tiempos antiguos. Parece ser parte de su ala.
-A fossil from a prehistoric Pokémon that once lived on the land. It appears to be part of a large jaw.
-Un fósil de un Pokémon prehistórico que alguna vez pisó los suelos. Parece ser parte de una gran mandíbula.
-A fossil from a prehistoric Pokémon that once lived on the land. It looks like the impression from a skin sail.
-Un fósil de un Pokémon prehistórico que alguna vez pisó los suelos. Parece ser parte de una aleta.
+A fossil of an ancient Pokémon that lived in the sea. It resembles Omanyte.
+Un fósil de un antiguo Pokémon que vivía en el océano. Se asemeja a Omanyte.
+A fossil of an ancient Pokémon that lived in the sea. It resembles Kabuto.
+Un fósil de un antiguo Pokémon que vivía en el océano. Se asemeja a Kabuto. 
+A piece of amber that contains the genes of an Aerodactyl. It is clear with a reddish tint.
+Un pedazo de ámbar que contiene los genes de un Aerodactly. Tiene un tinte rojizo.
+A fossil of an ancient Pokémon that lived in the sea. It resembles Lileep.
+Un fósil de un antiguo Pokémon que vivía en el océano. Se asemeja a Lileep.
+A fossil of an ancient Pokémon that lived in the sea. It resembles Anorith.
+Un fósil de un antiguo Pokémon que vivía en el océano. Se asemeja a Anorith.
+A fossil from a prehistoric Pokémon that lived on the land. It resembles Cranidos.
+Un fósil de un Pokémon prehistórico que vivía en la tierra. Se asemeja a Cranidos.
+A fossil from a prehistoric Pokémon that lived on the land. It resembles Shieldon.
+Un fósil de un Pokémon prehistórico que vivía en la tierra. Se asemeja a Shieldon.
+A fossil of an ancient Pokémon that lived in the sea in ancient times. It resembles Tirtouga.
+Un fósil de un antiguo Pokémon que vivía en el océano. Se asemeja a Tirtouga.
+A fossil of an ancient Pokémon that flew in the sky in ancient times. It resembles Archen.
+Un fósil de un Pokémon antiguo que volaba por los cielos en tiempos antiguos. Se asemeja a Archen.
+A fossil from a prehistoric Pokémon that once lived on the land. It resembles Tyrunt.
+Un fósil de un Pokémon prehistórico que alguna vez pisó los suelos. Se asemeja a Tyrunt.
+A fossil from a prehistoric Pokémon that once lived on the land. It resembles Amaura.
+Un fósil de un Pokémon prehistórico que alguna vez pisó los suelos. Se asemeja a Amaura.
 A beautiful feather. It can be sold to shops for $1500.
 Una bonita pluma. Puede venderse en tiendas por $1500.
 A small and rare mushroom. It can be sold to shops for $250.
@@ -42204,7 +42258,7 @@ An item to be held by a Pokémon. Protective screens will be effective for 3 mor
 Al ser equipado, las barreras protectoras serán prolongadas por tres turnos.
 An item to be held by a Pokémon. It extends the duration of Rooms created by the holder.
 Al ser equipada, extiende la duración de una Zona creada por el portador.
-A Pokémon held item that doubles the duration of multiturn trapping attacks.
+A Pokémon held item that doubles the duration of binding moves and abilities.
 Duplica la duración de ataques multiturno si la lleva un Pokémon.
 A band that doubles the damage dealt each turn by binding moves when held.
 Una banda que duplica la potencia de los movimientos que estrujan al rival al ser equipada por un Pokémon.
@@ -42248,10 +42302,10 @@ A well-worn belt that boosts the holder's supereffective moves by 20%.
 Un cinturón que potencia los movimientos superefectivos del portador un 20%.
 A Pokémon held item that boosts a move used consecutively by 20% more each time. This resets if another move is used.
 Un objeto equipable que potencia un movimiento usado consecutivamente un 20% cada vez. Esto es reiniciado si otro movimiento es usado.
-An item to be held by a Pokémon. It is a headband that boosts the power of physical moves by 10%.
-Un objeto equipable. Esta cinta potencia los movimientos físicos un 10%.
-An item to be held by a Pokémon. It is a thick pair of glasses that boosts the power of special moves by 10%.
-Un objeto equipable. Este par de lentes gruesos potencia los movimientos especiales un 10%.
+An item to be held by a Pokémon. It is a headband that boosts the power of physical moves by 15%.
+Un objeto equipable. Esta cinta potencia los movimientos físicos un 15%.
+An item to be held by a Pokémon. It is a thick pair of glasses that boosts the power of special moves by 15%.
+Un objeto equipable. Este par de lentes gruesos potencia los movimientos especiales un 15%.
 An item to be held by a Pokémon. They are boots that boost Speed by 10%.
 Un objeto equipable. Estas botas potencian la Velocidad un 10%.
 A held item. Doubles the holder's critical-hit chance.
@@ -42346,7 +42400,7 @@ A held item. It changes the holder's type in battle. You can change which type b
 Un objeto equipable. Cambia el tipo del portador en combate. Puedes elegir el tipo deseado fuera de combate.
 A set of memory discs, one for each type. If held by a Silvally, you can change its type between battles.
 Un set de discos de memoria, uno por cada tipo. Si lo sostiene Silvally, puedes cambiar su tipo fuera de combate.
-A tablet that boosts same-type attacks by 20%. If held by Arceus, you can change its type between battles.
+A tablet that boosts same-type moves by 20%. If held by Arceus, you can change its type between battles.
 Una tabla que potencia los movimientos del mismo tipo un 20%. Si lo sostiene Arceus, puedes cambiar su tipo fuera de combate.
 An item to be held by a Pokémon. It counts as a member of every tribe.
 Un objeto equipable. El Pokémon que la lleve equipada contará como un miembro de cada clan. 
@@ -42596,7 +42650,7 @@ Raises Speed sharply when a Pokémon misses with a move because of accuracy.
 Aumenta la Velocidad cuatro grados cuando un Pokémon falla un movimiento debido a su precisión. 
 An item to be held by a Pokémon. When the holder's stats are lowered, it will be switched out of battle.
 Un objeto equipable. Cuando las stats del portador son disminuidas, este será cambiado por otro del equipo.
-These boots prevent the effects of traps set on the battlefield.
+These boots prevent the effects of hazards set on the battlefield.
 Estas botas previenen los efectos de trampas puestas en el campo.
 Raises Sp. Atk by two steps when the Pokémon uses a sound move the first time each battle.
 Aumenta el Ataque Especial por dos grados cuando el Pokémon usa un movimiento de sonido por primera vez en el combate.
@@ -42614,18 +42668,18 @@ A candy that is packed with energy. When consumed, it will grant a single Pokém
 Un caramelo rebosante de energía. Al ser consumido, el Pokémon ganará 16000 Puntos de Experiencia.
 A candy that is packed with energy. When consumed, it will grant a single Pokémon 50,000 Exp. Points.
 Un caramelo rebosante de energía. Al ser consumido, el Pokémon ganará 50000 Puntos de Experiencia.
-The fossil of an ancient Pokémon that once soared through the sky. What it looked like is a mystery.
-El fósil de un antiguo Pokémon que alguna vez voló por los cielos. Cómo se veía es un misterio.
-The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.
-El fósil de un antiguo Pokémon que alguna vez vivió en el mar. Cómo se veía es un misterio.
-The fossil of an ancient Pokémon that once roamed the land. What it looked like is a mystery.
-El fósil de un antiguo Pokémon que alguna vez deambulaba por la tierra. Cómo se veía es un misterio.
-The fossil of an ancient Pokémon that once lived in the sea. What it looked like is a mystery.
-El fósil de un antiguo Pokémon que alguna vez vivió en el mar. Cómo se veía es un misterio.
-It is said that a hero used this shield to halt a terrible disaster in ancient times. But it's grown rusty and worn.
-Cuenta una leyenda que un héroe asió este escudo para hacer frente a un cataclismo, pero ahora está oxidado y en un estado lamentable.
-It is said that a hero used this sword to halt a terrible disaster in ancient times. But it's grown rusty and worn.
-Cuenta una leyenda que un héroe blandió esta espada para hacer frente a un cataclismo, pero ahora está oxidada y en un estado lamentable.
+The fossil of an ancient Pokémon that once soared through the sky. Is it Arctozolt or Dracozolt...?
+El fósil de un antiguo Pokémon que alguna vez voló por los cielos. ¿Es un Arctozolt o Dracozolt...?
+The fossil of an ancient Pokémon that once lived in the sea. Is it Arctovish or Dracovish...?
+El fósil de un antiguo Pokémon que alguna vez vivió en el mar. ¿Es un Arctovish o Dracovish...?
+The fossil of an ancient Pokémon that once roamed the land. Is it Dracozolt or Dracovish...?
+El fósil de un antiguo Pokémon que alguna vez deambulaba por la tierra. ¿Es un Dracozolt o Dracovish...?
+The fossil of an ancient Pokémon that once lived in the sea. Is it Arctozolt or Arctovish...?
+El fósil de un antiguo Pokémon que alguna vez vivió en el mar. ¿Es un Arctozolt o Arctovish...?
+Used by a hero to halt a terrible disaster. If given to Zamazenta, turns it into its Crowned form.
+Usado por un héroe para detener un terrible desastre. Si Zamazenta lo porta, se convierte en su forma Escudo Supremo.
+Used by a hero to halt a terrible disaster. If given to Zacian, turns it into its Crowned form.
+Usada por un héroe para detener un terrible desastre. Si Zacian la porta, se convierte en su forma Escudo Supremo.
 Reins that people presented to the king. They enable Calyrex to connect and communicate with its beloved steed.
 Riendas que se entregaron como ofrenda al rey. Permiten el entendimiento mutuo entre aquellos que están unidos y separan a Calyrex de su amado corcel.
 A charm that increases the Exp. Points that Pokémon can get by 10%. A machine-like object is inside the charm.
@@ -42634,14 +42688,14 @@ A charm that doubles the chance of getting a critical catch.
 Amuleto que duplica las posibilidades de conseguir una captura crítica.
 A long, durable rope. Use it to escape instantly from a cave or a dungeon.
 Cuerda larga y resistente que sirve para huir de cuevas y sitios cerrados en general. 
-A token which can be exchanged for a Grass-type at the Starter Store.
-Una ficha que puede ser cambiada por un tipo Planta en la Tienda Inicial.
-A token which can be exchanged for a Water-type at the Starter Store.
-Una ficha que puede ser cambiada por un tipo Agua en la Tienda Inicial.
+A token which can be exchanged for a Grass-type at the Starter Store in Novo Town.
+Una ficha que puede ser cambiada por un tipo Planta en la Tienda Inicial en Pueblo Novo.
+A token which can be exchanged for a Water-type at the Starter Store in Novo Town.
+Una ficha que puede ser cambiada por un tipo Agua en la Tienda Inicial en Pueblo Novo.
 A peculiar ore that makes certain species of Pokémon evolve. Associated with Arceus.
 Un mineral peculiar que hace evolucionar a ciertas especies de Pokémon. Es asociado con Arceus. 
-A token which can be exchanged for a Fire-type at the Starter Store.
-Una ficha que puede ser cambiada por un tipo Fuego en la Tienda Inicial.
+A token which can be exchanged for a Fire-type at the Starter Store in Novo Town.
+Una ficha que puede ser cambiada por un tipo Fuego en la Tienda Inicial en Pueblo Novo.
 An abandoned Dratini egg that is cold and calm. Only an expert would be able to hatch it.
 Un huevo de Dratini abandonado, está frío y apenas se mueve. Sólo un experto sería capaz de eclosionarlo.
 An abandoned Bagon egg that is cold and calm. Only an expert would be able to hatch it.
@@ -42724,8 +42778,8 @@ The right half of the sigil of an ancient order of knights.
 La mitad derecha de un sello perteneciente a una antigua orden de caballeros.
 An ancient sigil of the Carnation Knights. You feel it pulling you towards another place.
 Un sello antiguo de los Caballeros Clavel. Sientes que te tira hacia otro lugar. 
-A lump of ancient clay. It glows with a soft golden color.
-Una masa de una antigua arcilla. Brilla con un color dorado suave. 
+A lump of ancient clay. Allows you to summon any number of Pokemon from resonating totems.
+Una masa de una antigua arcilla. Úsalo para invocar Pokémon de tótems resonantes indefinidamente.
 A mysterious data storage device which can be used to upgrade your PC.
 Un misterioso dispositive de almacenamiento que puedes usar para mejorar tu PC.
 Unlocks the UB Containment Room at Novo Academy.
@@ -42802,8 +42856,8 @@ When held by a Pokémon who can still evolve, reduces move damage taken by 33%. 
 Cuando la sostiene un Pokémon que puede evolucionar, reduce el daño de ataques 33%. Impide la evolución.
 A Pokémon held item. When the holder summons rainstorm, it lasts twice as long.
 Un objeto equipable. Cuando el portador invoca tormenta de lluvia, esta dura el doble.
-A held item. The holder recovers 30% more HP from draining moves, Ingrain, Aqua Ring, and leech.
-Un objeto equipable. El portador recupera un 30% más de PS de parte de movimientos que drenan, Arraigo, Acua Aro y la infección.
+A held item. The holder recovers 30% more HP from draining moves, Aqua Ring, and leech.
+Un objeto equipable. El portador recupera un 30% más de PS de parte de movimientos que drenan, Acua Aro y la infección.
 A sinister, eerie tag that boosts the holder's Ghost-type moves by 20%.
 Un amuleto espeluzante que potencia un 20% los ataques Fantasma del portador.
 A gleaming feather that boosts the holder's Fairy-type moves by 20%.
@@ -42864,6 +42918,46 @@ An item to be held by a Pokémon. Ensures a random additional effect activates o
 Un objeto equipable. Asegura que un efecto secundario aleatorio se active una vez por combate.
 A special Poké Ball with 5x strength against Ultra Beasts.
 Un Poké Ball especial que es 5x veces más efectiva contra Ultra Entes.
+A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally syrupy.
+Una manzana peculiar que hace evolucionar a ciertas especies de Pokémon. Es excepcionalmente melosa.
+A fossil from a strange Pokémon that once lived on the land. It resembles Makyan Omanyte.
+Un fósil de un Pokémon prehistórico que vivía en la tierra. Se asemeja a Omanyte de Makya.
+A held item. If the wielder enters a battle, money and coins generated in that battle are increased by 50%.
+Un objeto equipable. Si el portador entra en combate, dinero y monedas generadas en combate son aumentados 50%.
+A held item. Boosts the power of a special move by 15% and makes it physical, once per battle.
+Un objeto equipable. Potencia un movimiento especial un 15% y lo hace físico, una vez por combate.
+A held item. Boosts the power of a physical move by 15% and makes it special, once per battle.
+Un objeto equipable. Potencia un movimiento físico un 15% y lo hace físico, una vez por combate.
+Raises Speed by two steps when the Pokémon uses a wind move the first time each battle.
+Aumenta Velocidad dos grados cuando el Pokémon usa un movimiento de viento por primea vez en combate.
+Raises Speed by two steps when the Pokémon uses a kicking move the first time each battle.
+Aumenta Velocidad dos grados cuando el Pokémon usa un movimiento de patada por primea vez en combate.
+Consumed to heal for one third of max HP when the Pokémon uses a punching move. This can overheal.
+Es consumido para recuperar un tercio de los PS máximos del Pokémon al usar un movimiento de puño. Puede sobrecurar.
+Consumed to heal for one third of max HP when the Pokémon uses a pulse move. This can overheal.
+Es consumido para recuperar un tercio de los PS máximos del Pokémon al usar un movimiento de pulso. Puede sobrecurar.
+Blinds all foes when the Pokémon uses a biting move the first time each battle.
+Ciega a todos los rivales cuando el Pokémon usa un movimiento de mordida por primera vez en combate.
+Blinds all foes when the Pokémon uses a light move the first time each battle.
+Ciega a todos los rivales cuando el Pokémon usa un movimiento de luz por primera vez en combate.
+A held item. Moves used against the holder deal 10% less move damage and can't trigger random added effects.
+Un objeto equipable. Movimientos usados contra el portador lidian un 10% menos de daño y no pueden activar efectos secundarios aleatorios.
+When used on Dialga, this large, glowing gem wells with power and allows the Pokémon to change form.
+Al ser usado en Dialga, esta gran gema brillante rebosa de poder y permite al Pokémon cambiar de forma.
+When used on Palkia, this large, glowing orb wells with power and allows the Pokémon to change form.
+Al ser usado en Palkia, este gran orbe brillante rebosa de poder y permite al Pokémon cambiar de forma.
+When used on Giratina, this large, glowing gem wells with power and allows the Pokémon to change form.
+Al ser usado en Giratina, esta gran gema brillante rebosa de poder y permite al Pokémon cambiar de forma.
+The Poke ball that contains Arceus. Unable to be replicated by humans, so how did you see this description.
+La Poké Ball que contiene a Arcues. No puede ser replicada por humanos, entonces cómo carajo estás viendo esto
+A smart phone. Use it to take selfies.
+Un celular. Úsalo para tomar selfies.
+A hi-tech battle recording device. Use it to manage and replay past battles.
+Un dispositivo de grabación de combate de alta tecnología. Úsalo para gestionar y reproducir combates pasados.
+A drop of ancient clay. Use it to summon a Pokemon from a resonating totem.
+Una pizca de arcilla antigua. Úsala para invocar un Pokémon de un tótem resonante una vez.
+A lump of ancient clay. Allows you to summon any number of Pokemon from resonating totems.
+Un montón de arcilla antigua. Úsala para invocar Pokémon de tótems resonantes.
 [10]
 Backwash
 Inundación
@@ -44349,25 +44443,265 @@ Pacifist
 Pacifista
 Reclamation
 Reclamo
+Action Star
+Estrella de Acción
+Apathetic
+Apatético
+Beaming
+Luminoso
+Bird of Prey
+Ave de Presa
+Bitey
+Mordedor
+Blinding
+Cegador
+Bounce Back
+Rebotar
+Caffeine Rush
+Choque de Cafeína
+Calming Scute Charm
+Amuleto Caparazón
+Canid Crusher
+Can Letal
+Castellan
+Regente
+Catastrophic
+Catastrófico
+Celebration
+Celebración
+Claustrophobia
+Claustrofobia
+Color Collector
+Multipigmentación
+Creeping Horror
+Horror Inminente
+Deadbeat
+Irresponsable
+Dead of Winter
+Invierno Letal
+Denticle Debris
+Escombros Dentículos
+Disaster Response
+Reacción al Desastre
+Discombobulator
+Atolondrar
+Distorted Gravity
+Gravedad Distorsionada
+Emanation
+Emanación
+Empathfinder
+Inspección
+Evenhanded
+Manolarga
+Event Horizon
+Horizonte Final
+False Front
+Fachada
+Field of Death
+Terreno de la Muerte
+Field of Life
+Terreno de la Vida
+Fiery Glow
+Brillo Ardiente
+Forewarning
+Advertencia
+Frightening Fangs
+Colmillo Pavoroso
+Galloping Storm
+Tormenta Galopante
+Galvanic Wings
+Alas Galvánicas
+Glacial Wings
+Alas Glaciales
+Gossamer Gale
+Brisa Delicada
+Gravity Well
+Pozo de Gravedad
+Hadean Rage
+Ira del Tártaro
+Hailstone Helm
+Gema Glacial
+Hand Off
+Sujetar
+Heat Death
+Muerte Térmica
+Hero's Journey
+Periplo del Héroe
+High Judge
+Juez Supremo
+Hive Mind
+Mente Colmena
+Hopping Mad
+Brincos Furiosos
+Horde Tactics
+Unión Manada
+Hull Hunger
+Devora-Cascos
+Infamous
+Infamia
+Ink Spray
+Disparo de Tinta
+Inner Heat
+Calor Interno
+Insect Collector
+Insecto Usurero
+Inversion
+De Cabeza
+Ionized Alloy
+Aleación Ionizada
+Lauoho Lasso
+Lazo Lauoho
+Leap from Below
+Acechador Marino
+Live and Lurk
+Vive y Acecha
+Lucky Charm
+Amuleto de la Suerte
+Magma Trail
+Rastro de Lava
+Mending Feather Charm
+Amuleto Alado
+Mist Form
+Forma Nebulosa
+Mist Trail
+Rastro de Niebla
+Modus Switch
+Cambio de Modo
+Moon Prism Power
+Brío Lunar
+Multiheaded
+Multi-cabezas
+Multitasker
+Onda Expansiva
+Oscillation
+Oscilación
+Otherworldly
+Extranatural
+Phantasmal
+Fantasmal
+Piercing Poison
+Veneno Penetrante
+Pin Down
+Sujeción
+Power Pinch
+Prensar
+Preeminence
+Preeminencia
+Protective Instinct
+Instinto Protector
+Purest Light
+Luz Pura
+Rage Maneuvers
+Control de Ira
+Raging Scale Charm
+Amuleto Escamas
+Rainbow Guardian
+Guardián Arcoíris
+Rainbow Trail
+Rastro Arcoíris
+Rapid Onset
+Ataque Sorpresa
+Rapid Refresh
+Renovación
+Refreshing
+Refrescante
+Reluctant Warrior
+Guerrero Reticente
+Remanent Voltage
+Voltaje Remanente
+Rending Fang Charm
+Amuleto Colmillo
+Repetition
+Repetición
+Roaring Flame
+Llama Rugiente
+Room Lock
+Zona Permanente
+Saltation Surge
+Saltación
+Searing Wings
+Alas Ardientes
+Seer
+Vidente
+Show Off
+Alardear
+Simpleton
+Bobalicón
+Slumber Force
+Fuerza Onírica
+Snorer
+Roncador
+Spacial Distortion
+Distorsión Espacial
+Spiny Ruse
+Treta Espinosa
+Stern
+Austero
+Stone Symbol
+Símbolo de Piedra
+Storm Trail
+Tormenta Venidera
+Sugarcoated
+Endulzado
+Summer's Zenith
+Cénit Veraniego
+Swarm Instinct
+Instinto de Enjambre
+Tangling Vines
+Lianas Rebeldes
+Temporal Distortion
+Distorsión Temporal
+Tenebrous Canter
+Galope Tenebroso
+Thermostasis
+Termólisis
+Tooth and Claw
+Garra y Diente
+Umbral Tenacity
+Tenacidad Cánida
+Umbral Wake
+Despertar Lunar
+Undying Rage
+Furia Inmortal
+Vicious Cycle
+Ciclo Vicioso
+Void Warranty
+Garantía Agotada
+Waning Willpower
+Voluntad Menguante
+Warding
+Impenetrable
+Warm Up
+Calentamiento
+Well Rounded
+Equilibrado
+Wish of Autumn
+Deseo Otoñal
+Wish of Spring
+Deseo Primaveral
+Wish of Summer
+Deseo Veraniego
+Wish of Winter
+Deseo Invernal
 [11]
 Upon entry, consumes scattered coins to heal for 1/10th the amount consumed. This can overheal.
 Al entrar al campo, consume monedas para curase por 1/10 de la cantidad consumida. Esto puede sobrecurar.
-The Pokémon refuses to fight. However, it gathers extra candy when trainers flee.
+This Pokémon refuses to fight. However, it gathers extra candy when trainers flee.
 El Pokémon se niega a combatir. Sin embargo, reúne caramelos extra cuando entrenadores huyan.
 After knocking out any Pokémon, regenerates its previously-used item.
 Al debilitar cualquier Pokémon, regenera su objeto previamente usado.
-The Pokémon gains twice as many stats from leveling up.
+This Pokémon gains twice as many stats from leveling up.
 El Pokémon obtiene el doble de estadísticas al subir de nivel.
-While the Pokémon is below half health, its attacks poisons those hit.
+While this Pokémon is below half health, its attacks poisons those hit.
 Al tener la mitad de sus PS o menos, sus ataques envenenan a sus objetivos.
 Special attacks against the Pokémon have a 30% chance to waterlog the attacker.
 Cuando el Pokémon es alcanzado por un movimiento especial, tiene un 30% de probabilidad de embeber al atacante.
-When the Pokémon eats a Berry, it will regurgitate that Berry at the end of the next turn and eat it one more time.
+When this Pokémon eats a Berry, it will regurgitate that Berry at the end of the next turn and eat it one more time.
 Cuando el Pokémon come una Baya, regurgita esa Baya al final del siguiente turno y la come una vez más.
 Attacks have a 50% chance to cause the target to flinch.
 Los ataques tienen un 50% de probabilidad de amedrentar al objetivo
-Summons rainstorm for 4 turns when it enters battle.
-Invoca tormenta de lluvia por 4 turnos cuando entra a la batalla.
+Summons rainstorm for four turns upon entry.
+Invoca tormenta de lluvia por cuatro turnos cuando entra a la batalla.
 Speed is raised by two steps at the end of each of its turns.
 La Velocidad es aumentada por dos grados al final de cada uno de sus turnos.
 It can't be knocked out with one hit.
@@ -44396,24 +44730,24 @@ Only super-effective moves will hit.
 Sólo es vulnerable a movimientos súper efectivos.
 Gives full immunity to all Ground-type moves.
 Otorga inmunidad total a movimientos tipo Tierra. 
-When the Pokémon is given a non-volatile status condition by another Pokémon, that Pokemon also gets that condition.
+When this Pokémon is given a non-volatile status condition by another Pokémon, that Pokémon also gets that condition.
 Cuando es afectado por un problema de estado no-volátil a causa de otro Pokémon, este también recibe esa condición.
 Prevents other Pokémon from lowering its stat steps.
 No permite que otros Pokémon disminuyan sus estadísticas.
-All non-volatile status conditions heal when it switches out.
+All non-volatile status conditions heal when switched out.
 Cura cualquier problema de estado no-volátil al cambiar.
 Doubles the likelihood of the user's random added effects activating.
 Duplica la probabilidad de que los efectos secundarios aleatorios del usuario se activen.
-Doubles the Pokémon's Speed in rainstorm.
+Doubles this Pokémon's Speed in rainstorm.
 Duplica la Velocidad del Pokémon bajo lluvia.
-Doubles the Pokémon's Speed in sunshine.
+Doubles this Pokémon's Speed in sunshine.
 Duplica la Velocidad del Pokémon bajo el sol.
-Raises the Pokémon's Attack by 50%, including Style Values and other bonuses.
+Raises this Pokémon's Attack by 50%, including Style Values and other bonuses.
 Aumenta el Ataque del Pokémon un 50%, incluyendo Puntos de Estilo y otros bonuses.
 Physical attacks against the Pokémon have a 30% chance to poison the attacker.
 Cuando el Pokémon es atacado por un movimiento físico, hay un 30% de probabilidad de que envenene al atacante.
 The Pokémon is protected from flinching, Intimidate, Fascinate, and Frustrate.
-El Pokémon no puede ser amedrentado, Intimidado, Fascinado ni Frustrado.
+This Pokémon is protected from flinching, Intimidate, Fascinate, and Frustrate.
 Prevents the use of self-destructing moves.
 Anula los efectos de movimientos de explosión.
 The Pokémon may gather Honey from somewhere.
@@ -44422,15 +44756,15 @@ The Pokémon can check a foe's held item. Makes wild Pokémon have items more of
 El Pokémon puede averigual el objeto del rival. Hace que Pokémon salvajes tengan objetos equipados más seguido.
 Heals 1/8th of its max HP each turn if in rain.
 Recupera 1/8 de sus PS máximos cada turno bajo lluvia.
-Summons a sandstorm for 4 turns when it enters battle.
+Summons a sandstorm for four turns upon entry.
 Invoca una tormenta de arena por 4 turnos al entrar al combate.
-The Pokémon raises the foe's PP usage.
+This Pokémon raises the foe's PP usage.
 El Pokémon duplica el uso de los PP del rival.
 Takes half damage from Fire- and Ice-type moves.
 Movimientos tipo Fuego y Hielo lo dañan por la mitad.
 Physical moves against the Pokémon have a 30% chance to burn the attacker.
 Cuando el Pokémon es atacado por un movimiento físico, hay un 30% de probabilidad de que queme al atacante.
-Every other turn, the Pokémon can't use any move but Slack Off.
+Every other turn, this Pokémon can't use any move but Slack Off.
 Cada dos turnos, el Pokémon sólo podrá usar Relajo.
 Boosts move damage by 50%, but lowers Accuracy by 20%.
 Incrementa el daño de todo movimiento por 50%, pero disminuye la Precisión un 20%.
@@ -44440,11 +44774,11 @@ At the end of each turn, heals from every non-volatile status condition (except 
 Se recupera de cualquier problema de estado no-volátil, con excepción del mareo o sueño, al final de cada turno.
 Powers up Bug-type moves in a pinch.
 Potencia movimientos tipo Bicho en un apuro.
-Protects the Pokémon from recoil damage.
+Protects this Pokémon from recoil damage.
 El Pokémon es invulnerable al retroceso de movimientos.
 Turns the weather to sunshine for 4 turns when it enters battle.
 Invoca la luz solar por 4 turnos al entrar al combate.
-Prevents the Pokémon from falling asleep.
+Prevents this Pokémon from falling asleep.
 El Pokémon no puede ser dormido.
 Suppresses the effects of weather.
 Suprime los efectos del clima.
@@ -44452,11 +44786,11 @@ Grants immunity to Electric-type moves and boosts Speed when hit by one.
 El Pokémon es inmune a movimientos tipo Eléctrico y su Velocidad es aumentada al ser alcanzado por uno.
 Eats pinch berries earlier than normal.
 Consume bayas antes de lo normal.
-Doubles the Pokémon's Speed if its held item is consumed or lost.
+Doubles this Pokémon's Speed if its held item is consumed or lost.
 Duplica la Velocidad del Pokémon si su objeto equipable es consumido o perdido.
 Stat changes in the Pokemon are doubled.
 Si un cambio de estadísticas afecta al Pokémon, este es duplicado.
-Heals 1/8 HP in rainstorm, 1/4 when hit by Water-type moves. Loses 1/8 in sunshine, takes 25% more from Fire-type moves.
+Heals 1/8th HP in rainstorm, 1/4th when hit by Water-type moves. Loses 1/8th in sunshine, Fire-type moves do 25% more.
 Cura 1/8 PS bajo lluvia, 1/4 al recibir un movimiento Agua. Pierde 1/8 bajo sol, recibe 25% más daño por Fuego. 
 Boosts one Attacking stat by two steps according to the foe's defenses.
 Aumenta una stat ofensiva por dos grados de acuerdo a la defensa mjs baja del rival.
@@ -44464,15 +44798,15 @@ Boosts the power of punching moves by 30%.
 Potencia movimientos de puño un 30%.
 Powers up moves of the same type by 33%.
 Potencia movimientos del mismo tipo un 33%.
-Maximizes the frequency of multi-strike moves.
+Maximizes the frequency of "two to five" multi-hit moves.
 Maximiza las veces que movimientos que golpean múltiples veces pueden hacerlo.
 Heals non-volatile status conditions each turn if in rainstorm.
 Se cura cualquier problema de estado no-volátil cada turno si está lloviendo.
-In sunshine, Sp. Atk is boosted by 50%, but the Pokémon is hurt for 1/10th HP each turn.
+In sunshine, Sp. Atk is boosted by 50%, but this Pokémon is hurt for 1/10th HP each turn.
 Bajo sol, el Ataque Especial es potenciado un 50%, pero pierde 1/10 de sus PS máximos cada turno.
 Non-Normal moves become Normal-type and are powered up by 50%.
 Movimientos de otros tipos pasan a ser tipo Normal y son potenciados un 50%.
-The Pokémon only takes damage from attacks.
+This Pokémon only takes damage from attacks.
 El Pokémon es invulnerable a todo daño no directo.
 Ensures attacks by or against the Pokémon land.
 Asegura que tanto los ataques use como los que reciba siempre acierten.
@@ -44492,8 +44826,8 @@ Doubles the damage of "not very effective" moves.
 Duplica el daño de movimientos "no muy efectivos".
 Reduces damage from super-effective attacks by 25%.
 Reduce el daño de movimientos súper efectivos un 25%.
-Halves Attack and Speed for 3 turns.
-Durante 3 turnos, su Ataque y Velocidad son divididos por la mitad.
+Halves Attack and Speed for three turns.
+Durante tres turnos, su Ataque y Velocidad son divididos por la mitad.
 Heals 1/8th of its max HP each turn in a hailstorm.
 Recupera 1/8 de su PS máximos cada turno bajo granizo.
 Summons a hail for 4 turns when it enters battle.
@@ -44502,7 +44836,7 @@ Powers up moves that have recoil damage by 30%.
 Potencia movimientos que infligen retroceso un 30%.
 Changes type to match the held Plate.
 Cambia de tipo de acuerdo a la Tabla equipada.
-In sunshine boosts its and allies' Attack and Sp. Def by 50%.
+In sunshine, boosts its and allies' Attack and Sp. Def by 50%.
 Potencia su Ataque y Defensa Especial y el de sus aliados un 50% bajo sol. 
 Reduces a sleeping foe's HP by 1/8 at the end of a round.
 Al final de cada turno, inflige 1/8 de sus PS totales a oponentes que estén dormidos.
@@ -44520,9 +44854,9 @@ Heals ally's status conditions at the end of turn.
 Cura los problemas de estado de sus aliados al final de cada turno.
 Reduces damage done to allies by 25%.
 Reduce el daño que reciben sus aliados un 25%.
-Physical attacks against the Pokémon raise its Speed by two steps but lower its Defense.
-Cuando es alcanzado por un movimiento físico aumenta su Velocidad dos grados pero aumenta su Defensa.
-Doubles the Pokémon's weight.
+Physical attacks against this Pokémon raise its Speed by two steps but lower its Defense.
+Cuando es alcanzado por un movimiento físico aumenta su Velocidad dos grados pero disminuye su Defensa.
+Doubles this Pokémon's weight.
 Duplica el peso del Pokémon.
 Reduces move damage taken by 50% when HP is full.
 Reduce el daño que recibe un 50% cuando sus PS están al máximo.
@@ -44532,13 +44866,13 @@ Raises one attacking or defending stat by three steps and lowers another by 1 at
 Aumenta una stat ofensiva o defensiva por tres grados y baja otra por uno al final de cada turno.
 Physical moves have a 30% chance to poison targets.
 Los movimientos físicos del Pokémon tienen un 30% de probabilidad de envenenar al objetivo.
-Restores 25% of max HP when withdrawn from battle.
-Recupera un 25% de sus PS máximos al regresar a su Poké Ball.
-Doubles the Pokémon's Speed in a sandstorm.
+Restores 25% of max HP when switched out.
+Recupera un 25% de sus PS máximos al cambiar.
+Doubles this Pokémon's Speed in a sandstorm.
 Duplica la Velocidad del Pokémon en tormenta de arena.
-Boosts move power when the Pokémon moves last by 30%.
+Boosts move power when this Pokémon moves last by 30%.
 Potencia sus movimientos un 30% al moverse último.
-Comes out disguised as the Pokémon in back.
+Comes out disguised as this Pokémon in back.
 Se hace pasar por el Pokémon en el último lúgar del equipo.
 It transforms itself into the Pokémon it is facing.
 Se transforma inmediatamente en el Pokémon que esté enfrentando.
@@ -44548,7 +44882,7 @@ Physical moves against the Pokémon spread this Ability.
 Cuando el Pokémon es alcanzado por un movimiento físico, convierte la habilidad del atacante en Momia.
 Raises Attack after knocking out any Pokémon.
 Aumenta el Ataque un grado al debilitar cualquier Pokémon.
-Reflects enemy status moves that target the Pokémon or create hazards around it.
+Reflects enemy status moves that target this Pokémon or create hazards around it.
 Refleja movimientos de estado rivales que le afecten directamente o que pongan trampas a su alrededor.
 Immune to Grass-type moves, and raises Attack and Sp. Atk when hit by one.
 Inmune a movimientos tipo Planta, y aumenta ambas stats ofensivas al ser alcanzado por uno.
@@ -44562,11 +44896,11 @@ Doubles the Accuracy of its allies and itself.
 Duplica su Precisión y la de sus aliados.
 Protects Grass-type allies from status conditions or stat lowering by enemies.
 Protege a aliados de tipo Planta de problemas de estado y de que sus stats sean reducidas por sus enemigos.
-When the Pokémon eats a Berry, it restores 33% of its max health.
+When this Pokémon eats a Berry, it restores 33% of its max health.
 Cuando el Pokémon come una baya, recupera el 33% de sus PS totales.
 It changes type to that of the move it's about to use.
 Antes de usar un movimiento, cambia al mismo tipo que este.
-Doubles the Pokémon's Defense.
+Doubles this Pokémon's Defense.
 Duplica la Defensa del Pokémon.
 Steals the held item of a Pokémon it hits.
 Si no tiene un objeto equipado, roba el del Pokémon rival luego de atacarlo.
@@ -44588,23 +44922,23 @@ Normal-type moves become Flying-type and power up by 30%.
 Movimientos tipo Normal pasan a ser tipo Volador y son potenciados un 30%.
 Child attacks after the parent, for 25% of the previous damage.
 La hija ataca luego de la madre, usando el mismo ataque pero con sólo el 25% de potencia.
-Powers up each Pokémon's Dark-type moves.
-Potencia los movimientos tipo Siniestro de cada Pokémon en el campo.
-Powers up each Pokémon's Fairy-type moves.
-Potencia los movimientos tipo Hada de cada Pokémon en el campo.
+Powers up each Pokémon's Dark-type moves by 33%.
+Potencia un 33% los movimientos tipo Siniestro de cada Pokémon en el campo.
+Powers up each Pokémon's Fairy-type moves by 33%.
+Potencia un 33% los movimientos tipo Hada de cada Pokémon en el campo.
 Reverses Aura Abilities to weaken affected moves.
 Invierte Habilidades de Aura, debilitando los movimientos de los tipos respectivos.
-Changes the weather to Heavy Rain, which nullifies Fire-type moves. Lingers for 3 turns after leaving.
-Cambia el clima a Diluvio, nulificando movimientos de tipo Fuego. Perdura por 3 turnos luego de regresar a su Poké Ball.
-Changes the weather to Harsh Sunlight, which nullifies Water-type moves. Lingers for 3 turns after leaving.
-Cambia el clima a Sol Abrasador, nulificando movimientos de tipo Agua. Perdura por 3 turnos luego de regresar a su Poké Ball.
-Changes the weather to Strong Winds, which remove Flying-type's weaknesses. Lingers for 3 turns after leaving.
-Cambia el clima a Turbulencias, que remueve las debilidades del tipo Volador. Perdura por 3 turnos luego de que regrese a la Poké Ball.
-Boosts Defense by two steps when hit by an attack.
-Aumenta la Defensa por dos grados si es alcanzado por un ataque.
-Cowardly switches out if its HP becomes half or less.
+Summons Heavy Rain, which prevents most moves' random added effects. Lingers for three turns after leaving.
+Invoca Diluvio, nulificando movimientos de tipo Fuego. Perdura por 3 turnos luego de regresar a su Poké Ball.
+Summons Harsh Sunlight, which prevents most moves from critting. Lingers for three turns after leaving.
+Invoca Sol Abrasador, nulificando movimientos de tipo Agua. Perdura por 3 turnos luego de regresar a su Poké Ball.
+Summons Strong Winds, which remove Flying-type's weaknesses. Lingers for three turns after leaving.
+Invoca Turbulencias, que remueve las debilidades del tipo Volador. Perdura por 3 turnos luego de que regrese a la Poké Ball.
+Raises Defense when hit by an attack.
+Aumenta la Defensa si es alcanzado por un ataque.
+Cowardly switches out if its HP is lowered below half.
 Escapa de la batalla si pierde la mitad de sus PS o más.
-Switches out if its HP becomes half or less.
+Switches out if its HP is lowered below half.
 Si pierde la mitad de sus PS o más, el Pokémon regresa a su Poké Ball.
 Its attacks are critical against poisoned targets.
 Sus ataques son críticos contra objetivos envenenados.
@@ -44614,7 +44948,7 @@ Weakens incoming Fire-type moves, and doubles Water-type damage.
 Es resistente a movimientos tipo Fuego, y la potencia de sus movimientos tipo Agua es duplicada.
 Raises Atk and Sp. Atk by two steps each when its HP is lowered below half.
 Aumenta el Ataque y Ataque Especial por dos grados una vez pierda la mitad de sus PS.
-Doubles the Pokémon's Speed stat in a hail.
+Doubles this Pokémon's Speed stat in a hail.
 Duplica la Velocidad del Pokémon bajo granizo.
 Gives +3 priority to healing and draining moves.
 Los movimientos de curación y drenaje obtienen +3 de prioridad.
@@ -44638,13 +44972,13 @@ Repeats another Pokémon's dance move immediately.
 Inmediatamente repite un movimiento de baile de otro Pokémon.
 Powers up ally Pokémon's special moves by 30%.
 Potencia movimientos especiales de Pokémon aliados un 30%.
-Doubles Defense. The Pokémon takes double damage from Fire-type moves.
+Doubles Defense. This Pokémon takes double damage from Fire-type moves.
 Duplica la Defensa, pero el Pokémon es doblemente vulnerable a movimientos de tipo Fuego.
 Boosts Sp. Atk each time a Pokémon faints.
 Aumenta su Ataque Especial cada vez que un Pokémon sea debilitado.
 Physical moves against it lower the attacker's Speed by three steps.
 Cada vez que sea golpeado por un movimiento físico disminuye la Velocidad del atacante por tres grados.
-When an ally faints, the Pokémon also gains their ability or abilities.
+When an ally faints, this Pokémon also gains their ability or abilities.
 Cuando un aliado se debilita, el Pokémon también gana su habilidad o habilidades.
 Copies the Ability of a defeated ally.
 Copia la Habilidad de un aliado derrotado.
@@ -44664,15 +44998,15 @@ Lowers everyone else's Speed by two steps when hit by an attack.
 Baja la Velocidad de todos los Pokémon por dos grados al ser atacado.
 Raises Defense when the Pokémon enters a battle.
 Aumenta la Defensa cuando el Pokémon entra al combate.
-Boosts Attack by 50% but the user is locked into the first move they use.
-Aumenta el Ataque un 50%, pero el usuario no puede dejar de usar su primer movimiento.
+Boosts Attack by 40% but the user is locked into the first move they use.
+Aumenta el Ataque un 40%, pero el usuario no puede dejar de usar su primer movimiento.
 Attacks with prey caught when using Surf, Dive, or Depth Charge.
 Ataca con la presa atrapado luego de usar Surf, Buceo o Arremetida Submarina.
 It alternates between an Electric-type Mode and a Dark-type Mode.
 Alterna entre sus formas tipo Eléctrico y tipo Siniestro cada turno.
 Prevents a physical attack. Restored if its hailing when it enters, or when hail begins.
 Su cara de hielo absorbe el primer ataque físico. Es restaurada al entrar en granizo, o cuando el granizo empieza.
-Doubles the Pokémon's Sp. Def.
+Doubles this Pokémon's Sp. Def.
 Duplica la Defensa Especial del Pokémon.
 Raises Attack when the Pokémon enters a battle.
 Aumenta el Ataque cuando el Pokémon entra al combate.
@@ -44684,7 +45018,7 @@ Abilities will be nullified or will not be triggered.
 Anula o desactiva Habilidades de todos los Pokémon en el campo.
 When it takes a hit, both Pokémon faint after 3 turns.
 Al recibir un golpe, ambos Pokémon se debilitarán en 3 turnos.
-Powers up nearby allies moves by 30%.
+Powers up nearby allies' moves by 30%.
 Potencia movimientos de aliados un 30%.
 Ripens Berries and doubles their effect.
 Duplica el efecto de Bayas equipadas.
@@ -44714,7 +45048,7 @@ Possesses two Abilities: Unnerve and Grim Neigh.
 Tiene dos Habilidades: Nerviosismo y Relincho Blanco.
 Takes 25% less damage in a hail.
 Recibe 25% menos de daño bajo granizo.
-Moves used on the Pokémon are disabled for two turns.
+Moves used on this Pokémon are disabled for two turns.
 Al ser atacado, anula el movimiento del atacante durante dos turnos.
 Boosts power of sound-based moves by 30%.
 Potencia movimientos de sonido un 30%.
@@ -44728,7 +45062,7 @@ Powers up Ice-type moves by 50%.
 Potencia movimientos tipo Hielo un 50%.
 Powers up Steel-type moves by 50%.
 Potencia movimientos tipo Acero un 50%.
-Powers up the Pokémon's Dark-type moves by 50% in sunshine.
+Powers up this Pokémon's Dark-type moves by 50% in sunshine.
 Potencia movimientos tipo Siniestro un 50% bajo sol.
 Immune to weather downsides, and takes 20% less damage from attacks during weather.
 Inmune a los aspectos negativos de los climas, y recibe 20% menos de daño si cualquier clima está presente.
@@ -44740,15 +45074,15 @@ Powers up Poison-type moves by 50%.
 Potencia movimientos tipo Veneno un 50%.
 Takes 30% less damage from Pokémon that are trapped.
 Recibe 30% menos de daño de Pokémon que estén atrapados.
-Doubles the Pokémon's Defense in a sandstorm.
+Doubles this Pokémon's Defense in a sandstorm.
 Duplica su Defensa en tormenta de arena.
-Raises the Pokémon's Sp. Atk by 50%, including Style Values and other bonuses.
+Raises this Pokémon's Sp. Atk by 50%, including Style Values and other bonuses.
 Aumenta el Ataque Especial del Pokémon un 50%, incluyendo Puntos de Estilo y otros bonuses.
 Grants immunity to Poison-type moves and restores HP if hit by one.
 Inmune a movimientos tipo Veneno y recupera PS cuando es alcanzado por uno. 
 Grants immunity to Flying-type moves and raises Speed if hit by one.
 Inmune a movimientos tipo Volador y aumenta su Velocidad cuando es alcanzado por uno. 
-Doubles Sp. Atk, but the Pokémon becomes dizzy after attacking.
+Doubles Sp. Atk, but this Pokémon becomes dizzy after attacking.
 Duplica el Ataque Especial, pero el Pokémon es mareado luego de atacar.
 Self-destructing at full health leaves it at 1 HP.
 Auto-destruirse con todos sus PS lo deja a 1.
@@ -44762,13 +45096,13 @@ Grants immunity to Bug-type moves, and raises Attack and Sp. Atk when hit by one
 Inmune a movimientos tipo Bicho y aumenta ambas stats ofensivas cuando es alcanzado por uno. 
 Boosts Sp. Def by two steps when hit by an attack.
 Aumenta su Defensa Especial por dos grados al ser alcanzado por un ataque. 
-Boosts the Pokémon's Attack by 30% in sunshine.
+Boosts this Pokémon's Attack by 30% in sunshine.
 Potencia su Ataque un 30% bajo el sol.
 Powers up super-effective moves by 30%.
 Potencia movimientos súper efectivos un 30%.
 Powers up moves different than the last move by 50%.
 Potencia movimientos diferentes al último movimiento un 50%.
-When a foe hits the Pokémon, they are warned. If they do it again, they become cursed.
+When a foe hits this Pokémon, they are warned. If they do it again, they become cursed.
 Cuando un rival ataca al Pokémon, este es advertido. Si lo hace de nuevo, es maldecido.
 Flying-type attacks have a 40% chance to frostbite.
 Ataques de tipo Volador tienen un 40% de probabilidad de helar.
@@ -44776,9 +45110,9 @@ Flying-type attacks have a 40% chance to numb.
 Ataques de tipo Volador tienen un 40% de probabilidad de aturdir.
 Flying-type attacks have a 40% chance to burn.
 Ataques de tipo Volador tienen un 40% de probabilidad de quemar.
-Releases a layer of Spikes when hit by an attack.
+Releases a hazard layer of Spikes when hit by an attack.
 Pone una capa de Púas al ser alcanzado por un ataque.
-The Pokémon's Speed is doubled while using Sound-based moves.
+This Pokémon's Speed is doubled while using Sound-based moves.
 La Velocidad del usuario es duplicada mientras usa movimientos de Sonido.
 Special attacks against the Pokémon have a 30% chance to poison the attacker.
 Cuando el Pokémon es atacado por un movimiento especial, tiene un 30% de probabilidad de envenenar al atacante.
@@ -44790,11 +45124,11 @@ Boosts Sp. Atk and Speed by 30% in rainstorm.
 Potencia su Ataque Especial y Velocidad un 30% bajo lluvia.
 The user raises the related defensive stat by two steps after each hit taken.
 Al ser atacado, el usuario aumenta la stat defensiva correspondiente por dos grados.
-Boosts the Pokémon's Speed by 50% in sandstorm. Can't miss during sandstorm.
+Boosts this Pokémon's Speed by 50% in sandstorm. Can't miss during sandstorm.
 Aumenta su Velocidad un 50% en tormenta de arena. No puede fallar dentro de esta.
 The user's critical hit chance raises or lowers with its Speed.
 El índice de golpe crítico del usuario aumenta o baja de acuerdo a su Velocidad.
-When entering battle, heals self and allies for 25% of their max health.
+Upon entry, heals self and allies for 25% of their max health.
 Al entrar al campo, se cura a sí mismo y a sus aliados por un 25% de sus PS totales.
 Physical moves against the Pokémon have a 30% chance to frostbite the attacker.
 Cuando el Pokémon es alcanzado por un movimiento físico, tiene un 30% de probabilidad de helar al atacante.
@@ -44818,15 +45152,15 @@ Immune to Fighting-type moves, and raises Attack and Sp. Atk if hit by one.
 Inmune a movimientos tipo Lucha y aumenta ambas stats ofensivas si es alcanzado por uno.
 Boosts the Accuracy of its allies and itself by 50%.
 Aumenta su Precisión y la de sus aliados un 50%.
-The Pokémon can't be Taunted, Encored, Tormented, Heal Blocked, Disabled, Barred, Dizzied, or Flinched.
+This Pokémon can't be Taunted, Encored, Tormented, Heal Blocked, Disabled, Barred, Dizzied, or Flinched.
 El Pokémon es inmune a los efectos de Mofa, Otra Vez, Tormento, Anticura, Anulación, Veto. No puede ser Mareado o Amedrentado.
-Moves ignore immunities due to typing.
-Sus movimientos ignoran inmunidades por tipos.
+This Pokémon's moves deal 20% more damage and ignore immunities due to typing.
+Sus movimientos ignoran inmunidades por tipos y son potenciados un 20%.
 When attacked with a special move, inflicts 1/8th max HP damage on the attacker.
 Si le alcanza un movimiento especial, daña al rival por 1/8 de sus PS máximos.
 Physical attacks against the Pokémon have a 30% chance to dizzy the attacker.
 Cuando es alcanzado por un movimiento físico, tiene un 30% de marear al rival.
-Doubles Sp. Def. The Pokémon takes double damage from Psychic-type moves.
+Doubles Sp. Def. This Pokémon takes double damage from Psychic-type moves.
 Duplica su Defensa Especial. Los movimientos tipo Psíquico le dañan el doble.
 Boosts the power of blade moves by 30%.
 Potencia movimientos de corte un 30%.
@@ -44836,20 +45170,20 @@ Raises Speed by four steps when its HP is lowered below half.
 Aumenta su Velocidad cuatro grados cuando pierde la mitad de sus PS o más.
 Restores 1/4th health after any foe faints.
 Recupera 1/4 de sus PS luego de que cualquier rival sea debilitado.
-Sets a Light Screen for 4 turns upon entering the battle.
-Pone una Pantalla de Luz por 4 turnos al entrar al campo.
-Sets a Reflect for 4 turns upon entering the battle.
-Pone un Reflejo por 4 turnos al entrar al campo.
+Sets a Light Screen for four turns upon entry.
+Pone una Pantalla de Luz por cuatro turnos al entrar al campo.
+Sets a Reflect for four turns upon entry.
+Pone un Reflejo por cuatro turnos al entrar al campo.
 Creates a Safeguard upon entry, protecting from status conditions for 10 turns.
 Crea un Velo Sagrado al entrar al campo, protegiendo al equipo de problemas de estado durante 10 turnos.
-Raises other allies' Speed by two steps upon entering the battle.
+Raises other allies' Speed by two steps upon entry.
 Aumenta la Velocidad de sus aliados dos grados al entrar al campo.
 Heals by 1/8th of its max HP each turn if in sunshine.
 Recupera 1/8 de sus PS máximos cada turno bajo sol.
-Summons a hail for four turns when hit by an attack.
+Summons a hailstorm for four turns upon entry.
 Invoca un granizo durante cuatro turnos al ser atacado.
-Foretold moves hit two turns quicker and deal 30% more damage.
-Movimientos augurados golpean dos turnos antes y lidian un 30% más de daño.
+Foretelling moves hit two turns quicker and deal 30% more damage.
+Movimientos presagiados golpean dos turnos antes y lidian un 30% más de daño.
 Sets a Lucky Chant upon entering the battle, protecting from critical hits for 10 turns.
 Invoca un Conjuro al entrar al campo, protegiendo a su equipo de los golpes críticos durante 10 turnos.
 Summons sunshine for four turns when hit by an attack.
@@ -44860,7 +45194,7 @@ Inflicts 1/6th max HP damage to the foe when damaged during rainstorm.
 Daña al rival por 1/6 de sus PS totales al ser atacado durante la lluvia.
 Lowers priority of status moves used by any Pokémon.
 Baja la prioridad de todo movimiento de estado usado por cualquier Pokémon.
-Completely protects allies from foes' multi-target moves.
+Completely protects allies from foes' spread moves.
 Protege por completo a sus aliados de ataques de múltiple objetivo de los rivales.
 All Pokémon deal 40% more move damage.
 Todos los Pokémon lidian un 40% más de daño con sus movimientos.
@@ -44868,7 +45202,7 @@ Take 30% less damage from attacks on turns when it hasn't moved yet.
 Recibe 30% menos de daño por ataques en turnos en los que aún no ha usado un movimiento.
 Boosts Attack by 30% in hail.
 Aumenta su Ataque un 30% bajo granizo.
-The Pokémon is immune to Ground-type moves and takes 20% less damage in sandstorm.
+This Pokémon is immune to Ground-type moves and takes 20% less damage in sandstorm.
 Inmune a movimientos tipo Tierra. Recibe 20% menos de daño en una tormenta de arena.
 Special moves against the Pokémon have a 30% chance to frostbite the attacker.
 Cuando el Pokémon es alcanzado por un movimiento especial, tiene un 30% de probabilidad de helar al atacante.
@@ -44904,7 +45238,7 @@ Physical moves have a 30% chance to numb targets.
 Los movimientos físicos del Pokémon tienen un 30% de probabilidad de aturdir a su objetivo.
 Special moves have a 30% chance to numb targets.
 Los movimientos especiales del Pokémon tienen un 30% de probabilidad de aturdir a su objetivo.
-After an attack reduces its HP to half or less, deals 1/4 of the attacker's HP back to the attacker.
+After an attack reduces its HP below half, deals 1/4th of the attacker's HP back to the attacker.
 Luego de perder la mitad de sus PS o más debido a un atacante, daña al atacante por un 1/4 de sus PS totales. 
 Causes sandstorm to deal double damage and increase Sp. Def of Rock-types by 2.0x instead of 1.5x.
 Duplica el daño causado por la tormenta de arena e incrementa la Defensa Especial de los tipo Roca por 2.0x en vez de 1.5x.
@@ -44912,13 +45246,13 @@ Causes hail to deal double damage and increase Defense of Ice-types by 2.0x inst
 Duplica el daño causado por el granizo e incrementa la Defensa de los tipo Hielo por 2.0x en vez de 1.5x.
 Draws in moves from foes with base power 100 or more.
 Atrae movimientos rivales que tengan 100 de potencia o más.
-The Pokémon's moves have priority against single targets with increased stats.
+This Pokémon's moves have priority against single targets with increased stats.
 Los movimientos del usuario tienen prioridad contra Pokémon con stats aumentadas.
 Special attacks against the Pokémon have a 30% chance to cause numbing.
 Cuando el Pokémon es atacado por un movimiento especial, tiene un 30% de probabilidad de aturdir al atacante.
 Sound-based attacks turn Ice-type and are boosted by 30%.
 Movimientos de sonido pasan a ser tipo Hielo y son potenciados un 30%.
-Turns the held item of a Pokémon it hits into gold coins for you to take.
+Turns the held item of a Pokémon it hits into scattered gold coins for you to take.
 Al atacar a un Pokémon, convierte su objeto en monedas de oro, que luego puedes tomar.
 At end of turn, heals 1/8th HP if holding a clothing item.
 Al final de cada turno, recupera 1/8 de sus PS totales si tiene equipado un objeto de vestimenta.
@@ -44930,15 +45264,15 @@ Turns to Finale Form when only unfainted on team. Ability becomes Synchronize.
 Al quedar como el último Pokémon en pie del equipo, se transforma a su Forma Clímax. Su Habilidad pasa a ser Sincronía.
 Turns to Finale Form when only unfainted on team. Ability becomes Inner Focus.
 Al quedar como el último Pokémon en pie del equipo, se transforma a su Forma Clímax. Su Habilidad pasa a ser Fuerza Mental.
-Summons moonglow for four turns when it enters battle.
+Summons moonglow for four turns upon entry.
 Invoca el brillo lunar durante cuatro turnos al entrar al campo.
 Summons moonglow for four turns when hit by an attack.
 Invoca el brillo lunar durante cuatro turnos al ser atacado.
-Summons eclipse for four turns when it enters battle.
+Summons eclipse for four turns upon entry.
 Invoca un eclipse durante cuatro turnos al entrar al campo.
 Summons eclipse for four turns when hit by an attack.
 Invoca un eclipse durante cuatro turnos al ser atacado.
-The Pokémon's moves deal 50% more damage if they're a different type than last.
+This Pokémon's moves deal 50% more damage if they're a different type than last.
 Los movimientos del Pokémon son un 50% más fuerte si son de un tipo diferente al último.
 Deals 50% more damage to targets who have already taken damage this turn.
 Los movimientos del Pokémon son un 50% más fuertes si ya fueron dañados en el mismo turno.
@@ -44952,12 +45286,12 @@ Powers up Psychic-type moves by 50%.
 Potencia movimientos tipo Psíquico un 50%.
 Has a 30% chance to dizzy targets when using physical moves.
 Al usar un movimiento físico, tiene un 30% de probabilidad de marear al objetivo.
-Doubles Attack, but the Pokémon becomes dizzy after attacking.
+Doubles Attack, but this Pokémon becomes dizzy after attacking.
 Duplica el Ataque, pero el Pokémon es mareado luego de atacar.
 Sets a Tailwind for four turns upon entering the battle, increasing Speed.
 Levanta un Viento Afín durante cuatro turnos al entrar al campo, aumentando la Velocidad de tu equipo.
-Becomes energy charged when hit by an attack, doubling the power of its next Electric-type attack.
-Al ser alcanzado por un ataque, el usuario obtiene un carga, que duplica la potencia de su siguiente movimiento de tipo Eléctrico.
+Becomes energized when hit by an attack, doubling the power of its next Electric-type attack.
+Al ser alcanzado por un ataque, el usuario es energizado, lo que duplica la potencia de su siguiente movimiento de tipo Eléctrico.
 Immune to Fairy-type moves and restores 25% of max HP if hit by one. This can overheal.
 Inmune a movimientos tipo Hada y recupera 25% de sus PS máximos cuando es alcanzado por uno. Esto puede sobrecurar.
 Immune to Ice-type moves, and raises Attack and Sp. Atk if hit by one.
@@ -44966,11 +45300,11 @@ Its attacks are critical against frostbitten targets.
 Sus ataques son críticos contra objetivos helados.
 Can't be poisoned, burned, or frostbitten.
 No puede ser envenenado, quemado ni helado.
-Upon entry, creates a Puzzle Room for four turns, swapping base Attack and Sp. Atk.
+Upon entry, creates a Puzzle Room for four turns, swapping unmodified Attack and Sp. Atk.
 Crea una Zona Enigmática durante cuatro turnos al entrar al campo, intercambiando ambos Ataques base de todos los Pokémon.
 It can avoid being knocked out by sacrificing its held item.
 Puede evitar ser debilitado, sacrificando su objeto en el proceso. 
-The Pokémon's attacks are always critical if there is an active Room.
+This Pokémon's attacks are always critical if there is an active Room.
 Los ataques del Pokémon siempre son críticos si hay una Zona activa.
 When hit with a physical move, hits back instantly with Leafage.
 Al ser atacado por un movimiento físico, contraataca inmediatamente usando Follaje.
@@ -44980,21 +45314,21 @@ Immune to Steel-type moves and raises Speed if hit by one.
 Inmune a movimientos tipo Acero y aumenta su Velocidad cuando es alcanzado por uno. 
 Slips past hazards. On the first turn, its attacks are always critical.
 Esquiva trampas en el campo. En el primer turno, sus ataques siempre serán críticos.
-Attackers lose 1/10th of their HP. If the Pokémon is below half health, attackers lose 1/5th instead.
+Attackers lose 1/10th of their HP. If this Pokémon is below half health, attackers lose 1/5th instead.
 Los atacantes pierden 1/10 de sus PS máximos. Si el Pokémon tiene menos de la mitad de PS, los atacantes pierden 1/5 de estos.
-Each turn, raises Speed by three steps and loses HP. If Speed was maxed, instead Speed and HP are reset.
-Cada turno, aumenta su Velocidad tres grados y pierde PS. Si la Velocidad está al máximo, la Velocidad y PS son reiniciados.
+Each turn, raises Speed by three steps and loses 1/8th max HP. If Speed was maxed, instead Speed and HP are reset.
+Cada turno, aumenta su Velocidad tres grados y pierde 1/8 de PS totales. Si la Velocidad está al máximo, la Velocidad y PS son reiniciados.
 When targeted by a status move, the offending Pokémon becomes poisoned.
 Al ser alcanzado por un movimiento de estado, envenena al Pokémon que lo haya usado.
 Immune to Dragon-type moves. Deals double damage to Dragon-types.
 Inmune a movimientos tipo Dragón. Sus movimientos hacen el doble de daño a tipos Dragón.
-Negates enemy status moves that target the Pokémon or create hazards around it.
+Negates enemy status moves that target this Pokémon or create hazards around it.
 Niega todo movimiento de estado de los rivales, incluyendo los que crean trampas.
 Immune to Flying-type moves and deals 50% more damage with them.
 Sus movimientos tipo Volador son potenciados un 50%, además, es inmune a otros ataque de este tipo.
-Lays a trap of levitating stones around the opponent when its HP is lowered below half.
+Lays a hazard of levitating stones around the opponent when its HP is lowered below half.
 Cuando pierde la mitad de sus PS o más, coloca una trampa de rocas levitantes alrededor del oponente.
-Hits opponent with Gust when withdrawn from battle.
+Hits opponent with Gust when switched out.
 Golpea al oponente usando Tornado al regresar a su Poké Ball.
 Upon entry, creates an Odd Room for four turns, swapping offensive and defensive stats.
 Crea una Zona Anómala durante cuatro turnos al entrar al campo, intercambiando ambos Ataques base de todos los Pokémon.
@@ -45014,29 +45348,29 @@ Powers up Fairy-type moves by 50% in rainstorm.
 Potencia movimientos tipo Hada un 50% bajo lluvia.
 Restores HP based on damage taken by others from hail.
 Restaura sus PS basado en el daño que otros reciben por granizo.
-The Pokémon and its allies are immune to weather downsides.
+This Pokémon and its allies are immune to weather downsides.
 Se protege a sí mismo y a sus aliados de las desventajas del clima.
 On the first turn, its attacks burn the target.
 En su primer turno, sus ataques siempre queman al objetivo.
-When the Pokémon eats a Berry, it raises its Attack and Sp. Atk by two steps.
+When this Pokémon eats a Berry, it raises its Attack and Sp. Atk by two steps.
 Cuando el Pokémon come una Baya, aumenta ambas stats ofensivas dos grados.
 In sunshine, gets a 25% boost to Sp. Atk and Sp. Def.
 Aumenta su Ataque Especial y Defensa Especial un 25% bajo sol.
-In sandstorm, the Pokémon's Attack is boosted by 30%.
+In sandstorm, this Pokémon's Attack is boosted by 30%.
 Aumenta su Ataque un 30% en tormenta de arena.
-HP-fraction-based damage effects deal 50% more damage to opponents.
-Efectos de daño que se basan en fracciones de los PS del rival son un 50% más fuertes.
+HP-fraction-based damage effects deal 35% more damage to opponents.
+Efectos de daño que se basan en fracciones de los PS del rival son un 35% más fuertes.
 Uses Power Split upon entry or when hit by a move.
 Usa Isofuerza al apenas entrar al combate o al ser golpeado por un movimiento.
 Powers up Ground-type moves by 50%.
 Potencia movimientos tipo Tierra un 50%.
 When hit with a physical move, hits back instantly with Bind.
 Al ser atacado por un movimiento físico, contraataca inmediatamente usando Atadura.
-The Pokémon benefits twice as much from style points.
+This Pokémon benefits twice as much from style points.
 Los puntos de estilo afectan x2 a este Pokémon.
 Gets 50% more healing from all sources.
 Se cura un 50% más mediante cualquier método curativo.
-Restores 1/8 HP in sunshine, 1/4 when hit by Fire-type moves. Loses 1/8 in rainstorm, takes 25% more from Water-type moves.
+Heals 1/8th HP in sunshine, 1/4th when hit by Fire-type moves. Loses 1/8th in rainstorm, Water-type moves do 25% more.
 Restaura 1/8 de sus PS bajo sol, 1/4 al recibir un movimiento Fuego. Pierde 1/8 bajo lluvia, recibe 25% más daño por Agua.
 The user's Speed is doubled while using recoil moves.
 La Velocidad del usuario es duplicada mientras usa movimientos de retroceso.
@@ -45048,7 +45382,7 @@ Boosts the power of wind-based moves by 50%.
 Potencia los movimientos de viento un 50%.
 Double the Pokémon's weight, and boost its Attack by 20%.
 Duplica el peso del Pokémon, y aumenta su Ataque un 20%.
-Double the Pokémon's Speed if any enemy is below half health.
+Double this Pokémon's Speed if any enemy is below half health.
 Duplica la Velocidad del Pokémon si cualquier enemigo pierde la mitad de sus PS.
 Protected from random added effects. Takes 30% less damage from moves with random added effects.
 Anula los efectos secundarios aleatorios de los movimientos rivales. Recibe un 30% menos de daño de estos.
@@ -45058,7 +45392,7 @@ Heals 1/12th HP per turn if there's a weather. Immune to weather downsides.
 Recupera 1/12 se sus PS totales cada turno si hay un clima presente, además, es inmune a las desventajas de este.
 Room-creating moves have priority.
 Los movimientos que crean Zonas tienen prioridad aumentada.
-Increases Attack by 50%, but the Pokémon is hurt for 1/10th HP each turn.
+Increases Attack by 50%, but this Pokémon is hurt for 1/10th HP each turn.
 Aumenta su Ataque un 50%, pero pierde 1/10 de sus PS totales cada turno.
 Raises Sp. Atk by two steps whenever any battler falls asleep.
 Aumenta su Ataque Especial dos grados cada vez que un Pokémon sea dormido.
@@ -45072,7 +45406,7 @@ Raises Speed by two steps after knocking out any Pokémon.
 Aumenta la Velocidad dos grados al debilitar cualquier Pokémon.
 Upon entry during sunshine, heals the lowest HP ally or self by 33%.
 Se cura a sí mismo o a su aliado un 33%, dependiendo de cuál tenga menos PS, al entrar al campo bajo sol.
-Punching moves change secondary type and their power is boosted by 30%.
+Punching moves change this Pokémon's secondary type and their power is boosted by 30%.
 Cambia de tipo secundario de acuerdo al movimiento de puño que use, además, estos son potenciados un 30%.
 Rather than take recoil damage, it swaps out, and its replacement takes that damage.
 En vez de recibir daño de retroceso, regresa a su Poké Ball, y su reemplazo recibe ese daño. 
@@ -45084,9 +45418,9 @@ Special moves against the Pokémon have a 30% chance to leech the attacker.
 Cuando el Pokémon es alcanzado por un movimiento especial, tiene un 30% de probabilidad de infectar al atacante.
 Has a 30% chance to leech targets when using physical moves.
 Al usar un movimiento físico, tiene un 30% de probabilidad de infectar al objetivo.
-If an attack lowers its HP to half or less, leeches the attacker.
+If an attack lowers its HP below half, leeches the attacker.
 Si pierde la mitad de sus PS o más, infecta a su atacante.
-Uses Dragon Dance if an attack lowers its HP to half or below.
+Uses Dragon Dance if an attack lowers its HP below half.
 Usa Danza Dragón si pierde la mitad de sus PS o más.
 When it attacks from underground in sandstorm, it'll transform into Reaper form.
 Al atacar bajo tierra en una tormenta de arena, se transformá a su forma Guadaña.
@@ -45112,12 +45446,12 @@ Multi-hit moves can hit up to twice as many times.
 Movimientos que golpean múltiples veces pueden llegar a hacerlo el doble.
 Dive and Depth Charge deal 50% more damage.
 Buceo y Arremetida Submarina son potenciados un 50%.
-User and allies take 25% less move damage during moonglow.
+This Pokémon and its allies take 25% less move damage during moonglow.
 Bajo el brillo lunar, hace que tanto sí mismo como su aliado reciban 25% menos de daño. 
 User heals by 25% after taking a special attack.
 El usuario recupera un 25% de sus PS totales luego recibir un ataque especial.
-Boosts Speed by 50% but the Pokémon is locked into the first move they use.
-Aumenta la Velocidad un 50%, pero el usuario no puede dejar de usar su primer movimiento.
+Boosts Speed by 40% but the Pokémon is locked into the first move they use.
+Aumenta la Velocidad un 40%, pero el usuario no puede dejar de usar su primer movimiento.
 Draws in attacks from enemies with below half health.
 Atrae ataques de rivales que tengan menos de la mitad de sus PS.
 Prevents half the self-damage from recoil and Self-Destruct/Explosion.
@@ -45130,13 +45464,13 @@ Can't be leeched, drained, or trapped.
 No puede ser infectado, drenado ni atrapado.
 Doubles the damage and recoil of recoil moves.
 Duplica la potencia y el retroceso de los movimientos con retroceso.
-Creates Grey Mist for three turns when entering the battlefield.
+Creates Grey Mist for three turns upon entry.
 Crea una Niebla Gris por tres turnos al entrar al campo.
 Doubled Sp. Def in sunshine.
 Duplica la Defensa Especial bajo sol.
 Physical moves have a 30% chance to frostbite targets.
 Los movimientos Físicos del Pokémon tienen un 30% de probabilidad de helar a su objetivo.
-Between each turn there's another turn where no one moves.
+Every two turns, another turn happens where no one moves.
 Cada dos turnos, ninguno de los Pokémon podrá moverse.
 Takes 35% less damage in eclipse, except in total eclipse.
 Recibe 35% menos de daño en un eclipse, a no ser que ocurra un eclipse total.
@@ -45164,7 +45498,7 @@ During eclipse, can't miss and always activates its moves random added effects.
 Durante un eclipse, sus movimientos no pueden fallar y siempre activarán sus efectos secundarios aleatorios.
 When a Total Eclipse occurs, heals for 50% max HP and uses Heal Bell.
 Recupera un 50% de sus PS totales y usa Cascabel Cura cada vez que un Eclipse Total ocurra.
-Boosts all of the Pokémon's move damage by 25% during eclipse.
+Boosts all of this Pokémon's move damage by 25% during eclipse.
 Potencia todos sus movimientos un 25% durante un eclipse.
 Upon entry during eclipse, lowers foe's Attack and Sp. Atk by two steps.
 Disminuye ambos Ataques de los rivales dos grados al entrar al campo durante un eclipse.
@@ -45188,17 +45522,17 @@ When hit in moonglow, steals the attacker's item, or knocks it away.
 Al ser atacado bajo brillo lunar, roba o remueve el objeto del rival. 
 During moonglow, Speed is boosted by 50% and twice as likely to crit.
 Su Velocidad es aumentada un 50% y duplica su índice de golpe crítico bajo brillo lunar.
-In moonglow, Attack is boosted by 50%, but the Pokémon is hurt for 1/10th HP each turn.
+In moonglow, Attack is boosted by 50%, but this Pokémon is hurt for 1/10th HP each turn.
 Bajo brillo lunar, su Ataque es aumentado un 50% a cambio de perder 1/10 de sus PS máximos cada turno.
 Transforms into Midnight Form at the Full Moon. Ability becomes No Guard.
 Se transforma a su Forma Nocturna en la Luna Llena. Su Habilidad pasa a ser Indefenso.
 Special moves have a 30% chance to poison targets.
 Los movimientos especiales del Pokémon tienen un 30% de probabilidad de envenenar a su objetivo.
-Whenever it uses a status move, becomes energy charged, doubling the power of its next Electric-type attack.
-Al usar un movimiento de estado, se carga, duplicando el poder de su siguiente ataque tipo Eléctrico.
+Whenever it uses a status move, becomes energized, doubling the power of its next Electric-type attack.
+Al usar un movimiento de estado, es energizado, duplicando el poder de su siguiente ataque tipo Eléctrico.
 Doubled Speed while charged.
 Duplica su Velocidad al estar cargada.
-Leaves two layers of spikes after it self-destructs.
+Leaves two hazard layers of Spikes after it self-destructs.
 Deja dos capas de púas luego de autodestuirse.
 Upon entry, traps each opponent in a whirlpool for two turns.
 Atrapa al oponente en un remolino durante dos turnos al entrar al campo.
@@ -45206,14 +45540,14 @@ Uses Wish after knocking out any Pokémon.
 Usa Deseo al debilitar cualquier Pokémon.
 Upon entry in sunshine, regenerates its used berry.
 Recupera una baya que ya haya sido usada al entrar al campo bajo sol.
-Heals the Pokémon's non-volatile status conditions each turn if in sunshine.
+Heals this Pokémon's non-volatile status conditions each turn if in sunshine.
 Se cura cualquier problema de estado no-volátil cada turno bajo sol.
 Heals 1/12th HP every turn. Protected against critical hits.
 Recupera 1/12 de sus PS totales cada turno. Es inmune a golpes críticos.
 Moves that hit multiple targets deal 25% more damage instead of 25% less.
 Movimientos que golpean múltiples objetivos dañan un 25% más en vez de un 25% menos.
-Upon entry, creates a substitute from 1/4th of its HP.
-Crea un sustituto con 1/4 de sus PS máximos al entrar al campo.
+Upon entry, creates a Substitute from 1/4th of its HP.
+Crea un Sustituto con 1/4 de sus PS máximos al entrar al campo.
 At the end of each turn, itself and each ally heals for 1/16th of their HP.
 Al final de cada turno, recupera 1/16 de sus PS totales y el de sus aliados.
 Uses Snatch upon entry, stealing self-targeting status moves.
@@ -45270,29 +45604,29 @@ Ignores screens, Substitute, and Abilities that would affect its moves.
 Ignora pantallas, Sustitutos y Habilidades que afectarían sus movimientos.
 At the beginning of each turn, gives clues about a foe's plan.
 Da pistas sobre el plan del rival al inicio de cada turno.
-Special attacks against the Pokémon raise its Speed by two steps but lower its Sp. Def.
+Special attacks against this Pokémon raise its Speed by two steps but lower its Sp. Def.
 Al ser alcanzado por un movimiento especial, su Velocidad aumenta dos grados pero disminuye su Def. Es.
 Prevents foes with non-volatile status conditions from fleeing.
 No permite que rivales con problemas de estado no-volátiles huyan.
 Boosts the power of wind-based moves by 30%.
 Potencia sus movimientos de viento un 30%.
-Becomes energy charged upon entry, doubling the power of its next Electric-type attack.
-Se carga apenas entrar al campo, duplicando el poder de su siguiente ataque de tipo Eléctrico.
+Becomes energized upon entry, doubling the power of its next Electric-type attack.
+Es energizado al entrar al campo, duplicando el poder de su siguiente ataque de tipo Eléctrico.
 Disables the opponent's most recently-used move for two turns upon hitting it.
 Al atacar a un oponete, anula el movimiento que acaba de usar durante dos turnos.
 On the first turn, its attacks frostbite the target.
 En su primer turno, sus ataques helan al objetivo.
 Prevents the foe from escaping during hail.
 No permite que un rival escape bajo granizo.
-During sandstorm, the Pokémon's Speed is boosted by 50% and twice as likely to crit.
+During sandstorm, this Pokémon's Speed is boosted by 50% and twice as likely to crit.
 Aumenta su Velocidad un 50% y su índice de golpe crítico es duplicado en tormenta de arena. 
-Powers up Dark-type moves by 50% in sandstorm.
+Powers up this Pokémon's Dark-type moves by 50% in sandstorm.
 Potencia movimientos tipo Siniestro un 50% en tormenta de arena.
 Upon entry during sandstorm, lowers foe's Attack and Sp. Atk by two steps.
 Disminuye ambos ataques del rival dos grados al entrar al campo en tormenta de arena.
 Prevents foes whose Sp. Atk is less than its from fleeing.
 No permite que rivales con menor Ataque Especial que el usuario escapen.
-Restores the Pokémon's HP based on damage taken by others from sandstorm.
+Restores this Pokémon's HP based on damage taken by others from sandstorm.
 Restaura sus PS basado en el daño que otros reciben de la tormenta de arena.
 Upon entry in sandstorm, turns its shell into a levitating stone trap.
 Al entrar al campo en tormenta de arena, convierte su coraza en una trampa de rocas levitantes.
@@ -45320,7 +45654,7 @@ Eats pinch berries earlier than normal. Gets a random pinch berry at the end of 
 Consume bayas antes de lo normal. Obtiene una baya de apuro aleatoria al final de cada turno si no tiene ningún objeto. 
 Immune to Poison-type moves, and boosts Defense and Sp. Def when hit by one.
 Inmune a movimientos tipo Veneno y aumenta ambas stats defensivas cuando es alcanzado por uno. 
-The Pokémon and its allies are protected from flinching, Intimidate, Fascinate, and Frustrate.
+This Pokémon and its allies are protected from flinching, Intimidate, Fascinate, and Frustrate.
 El Pokémon y sus aliados no pueden ser amedrentados, Intimidados, Fascinados ni Frustrados.
 Grows at the end of each turn, slowing down but improving other stats.
 Crece al final de cada turno, ralentizándose pero mejorando sus otras stats.
@@ -45336,16 +45670,16 @@ Using or being hit by a physical move leaves a rock on the field. Status moves c
 Al usar o ser alcanzado por un movimiento físico deja una roca en el campo. Las recolecta al usar un movimiento de estado, curándose 1/4 por cada roca presente.
 Raises Defense and Sp. Def whenever any Pokémon uses a dance move. Caps out at +4.
 Aumenta ambas stats defensivas cada vez que cualquier Pokémon use un movimiento de baile. Máximo de +4.
-Slips past all types of spikes. Deals 50% more damage to targets that switched in this turn.
+Slips past all types of Spikes hazards. Deals 50% more damage to targets that switched in this turn.
 Ignora todo tipo de púas en el campo. Potencia sus ataques un 50% contra enemigos que hayan cambiado en el turno.
-After fainting from exploding, revives after six turns.
-Al debilitarse luego de explotar, revivirá después de seis turnos.
+After fainting from exploding, revives after five turns.
+Al debilitarse luego de explotar, revivirá después de five turnos.
 Powers up Grass-type moves of itself and its allies by 50%.
 Potencia sus movimientos tipo Planta y los de sus aliados un 50%.
 After being attacked, uses Parting Shot to switch out.
 Al ser atacado, inmediatamente usa Última palabra, regresando a su Poké Ball.
-Hits opponent with Thief when withdrawn from battle.
-Ataca al oponente con Ladrón al regresar a su Poké Ball.
+Hits opponent with Covet when switched out.
+Ataca al oponente con Antojo al regresar a su Poké Ball.
 It avoids hazards and can't be knocked out with one hit.
 Esquiva trampas y no puede ser debilitado en un golpe.
 Immune to Fire-type moves and raises Defense and Sp. Def if hit by one.
@@ -45356,12 +45690,12 @@ Its special attacks reduce the target's Sp. Def.
 Sus ataques especiales disminuyen la Defensa Especial del objetivo.
 Attacks this Pokémon uses that don't share a type with it are boosted by 50%. It can't use attacks of its own types.
 Potencia ataques que no sean de su propio tipo un 50%, sin embargo, no puede usar ataques de su propio tipo.
-Boosts Attack by 75%, but the Pokémon becomes burned after attacking.
+Boosts Attack by 75%, but this Pokémon becomes burned after attacking.
 Aumenta el Ataque un 75%, pero el Pokémon es quemado luego de atacar.
-Boosts Sp. Attack by 75%, but the Pokémon becomes frostbitten after attacking.
+Boosts Sp. Atk by 75%, but this Pokémon becomes frostbitten after attacking.
 Aumenta el Ataque Especial un 75%, pero el Pokémon es helado luego de atacar.
-Upon entry, intensifies gravity for five turns.
-Intensifica la gravedad durante cinco turnos al entrar al campo.
+Upon entry, intensifies gravity for four turns.
+Intensifica la gravedad durante cuatro turnos al entrar al campo.
 Before using a status move against a single foe, lowers their Defense by two steps.
 Antes de usar un movimiento de estado a un solo rival, disminuye su Defensa dos grados.
 Before using a status move against a single foe, lowers their Sp. Def by two steps.
@@ -45378,7 +45712,7 @@ Increase the EXP gained from battles in which it participates by 50%.
 Aumenta la Experiencia ganada en batallas en las que participa un 50%.
 Wild Pokémon are more likely to hold items and to be species you've never caught before.
 Los Pokémon salvajes tienen no sólo más probabilidad de sostener objetos, sino de ser de especies que no hayas atrapado.
-Increases Sp. Atk by 50%, but the Pokémon is hurt for 1/10th HP each turn.
+Increases Sp. Atk by 50%, but this Pokémon is hurt for 1/10th HP each turn.
 Aumenta el Ataque Especial un 50%, pero pierde 1/10 de sus PS totales cada turno.
 Makes the foe nervous and unable to eat Berries or Leftovers.
 Pone al oponente nervioso, haciendo que no pueda comer ni sus Bayas o Restos.
@@ -45386,7 +45720,7 @@ Makes foes stressed and unable to use their items.
 Pone al oponente estresado, haciendo que no pueda usar su objeto.
 When this Pokémon gains a non-volatile status condition, its Attack is raised by three steps.
 Al recibir un problema de estado no-volátil, su Ataque es aumentado tres grados.
-When this Pokémon gains a non-volatile status condition, its Attack is raised by three steps.
+When this Pokémon gains a non-volatile status condition, its Sp. Atk is raised by three steps.
 Al recibir un problema de estado no-volátil, su Ataque Especial es aumentado tres grados.
 Fly and Dive Bomb deal 50% more damage.
 Vuelo y Caída en Picado son potenciados un 50%.
@@ -45418,13 +45752,13 @@ Deals 30% more move damage to Pokémon that are taller than it.
 Sus movimientos son potenciados un 30% si ataca a un Pokémon más alto.
 Takes 30% less move damage from Pokémon that are shorter than it.
 Sus movimientos son potenciados un 30% si ataca a un Pokémon más bajo.
-Whenever a foe's poison worsens, the Pokémon heals for 25% max HP.
+Whenever a foe's poison worsens, this Pokémon heals for 25% max HP.
 Cada vez que el veneno de un oponente empeore, recupera un 25% de sus PS máximos.
 At the first chance, copies an opponent's species' legal Abilities.
 A la primera oportunidad, copia ambas Habilidades legales del oponente.
 Can hold two different items, if both are Herbs.
 Puedes equiparle dos objetos diferentes, si ambos son Hierbas.
-Foes whose stats are lowered by the Pokémon keep those lowered stats even after switching.
+Foes whose stats are lowered by this Pokémon keep those lowered stats even after switching.
 Enemigos que tengan sus stats reducidas por el usuario mantienen esas stats reducidas incluso después de cambiar.
 Raises Attack by two steps after dealing not-very-effective or barely-effective damage.
 Si ataca de forma no muy o apenas efectiva, aumenta su Ataque dos grados.
@@ -45446,57 +45780,57 @@ Can hold two items, but drops one when swapping out.
 Puedes equiparle dos objetos, pero suelta uno al regresar a su Poké Ball.
 Immune to Psychic-type moves, and raises Attack and Sp. Atk if hit by one.
 Inmune a movimientos tipo Psíquico y aumenta ambas stats ofensivas si es alcanzado por uno.
-Boosts the Pokémon's Speed by 50% in sandstorm or hail.
+Boosts this Pokémon's Speed by 50% in sandstorm or hail.
 Aumenta su Velocidad un 50% en tormenta de arena o granizo.
 Uses Rapid Spin after its first attack to clear hazards, raise Speed, and deal damage.
 Usa Giro Rápido luego de su primer ataque para quitar trampas, aumentar su Velocidad y causar daño.
 When hit by a move with 95 or more base power, hits back instantly with Nuzzle.
 Cuando es alcanzado por un movimiento con 95 o más de potencia, contraataca inmediatamente usando Moflete Estático.
-Attacks against the Pokémon deal 50% more damage, but the attacker takes 100% recoil.
+Attacks against this Pokémon deal 50% more damage, but the attacker takes 100% recoil.
 Ataques contra el Pokémon son un 50% más fuertes, pero el atacante recibe 100% de daño de retroceso.
 Boosts Sp. Atk by 30%, but lowers Sp. Atk after using a special move.
 Aumenta Ataque Especial un 30%, pero baja su Ataque Especial luego de usar un movimiento especial.
 Ignores Abilities that would affect its moves. Its attacks can't be redirected to new targets.
 Ignora Habilidades que afectarían sus movimientos. Sus ataques no pueden ser redirigidos.
-Doubles Speed. Dashes to avoid hazards when entering.
+Doubles Speed. Dashes to avoid hazards upon entry.
 Duplica su Velocidad. Esquiva trampas al entrar al campo.
 Protected from critical hits. Can't be burned or frostbitten.
 Protegido de golpes críticos. No puede ser quemado ni helado.
-Doubles Sp. Def, but the Pokémon can't use status moves.
+Doubles Sp. Def, but this Pokémon can't use status moves.
 Duplica su Defensa Especial, pero no puede usar movimientos de estado.
-Whenever a foe raises their stats, the Pokémon follows suit.
+Whenever a foe raises their stats, this Pokémon follows suit.
 Si un oponente aumenta sus stats, el Pokémon copia sus aumentos.
-While the Pokémon is below half health, its attacks leech those hit.
+While this Pokémon is below half health, its attacks leech those hit.
 Mientras el Pokémon tenga menos de la mitad de sus PS, sus ataques siempre infectan.
-Boosts the Pokémon's Attack by 50%, but its attacks cannot faint the target.
+Boosts this Pokémon's Attack by 50%, but its attacks cannot faint the target.
 Aumenta Ataque un 50%, pero sus ataques no pueden debilitar al objetivo.
 Immune to Dark-type moves, and boosts Attack and Sp. Atk when hit by one.
 Inmune a movimientos tipo Siniestro y aumenta ambas stats ofensivas cuando es alcanzado por uno. 
 Raises Speed whenever any Pokémon uses a dance move.
 Aumenta Velocidad cada vez que cualquier Pokémon use un movimiento de baile.
-Uses Lightning Dance if an attack lowers its HP to half or below.
+Uses Lightning Dance if an attack lowers its HP below half.
 Usa Danza Relámpago si pierde la mitad de sus PS o más.
 Boosts the power of punching moves by 50%.
 Potencia sus movimientos de puño un 50%.
 After using a sound move, lowers one of each foe's Attack and Sp. Atk, whichever is higher.
 Luego de usar un movimiento de sonido, disminuye la stat ofensiva mayor del oponente.
-Upon entry, summons a Misdirecting Fog on the Pokémon's side for 6 turns.
-Invoca una Niebla Ilusoria en el lado aliado durante 6 turnos al entrar al campo.
-Upon entry, summons a Primal Forest on the Pokémon's side for 6 turns.
-Invoca un Bosque Primitivo en el lado aliado durante 6 turnos al entrar al campo.
-Upon entry, summons a Cruel Cocoon on the Pokémon's side for 6 turns.
-Invoca una Crisálida Cruel en el lado aliado durante 6 turnos al entrar al campo.
-Upon entry, summons a Turbulent Sky on the Pokémon's side for 6 turns.
-Invoca un Cielo Turbulento en el lado aliado durante 6 turnos al entrar al campo.
-It changes type to that of the move it's about to use. This works only once each time the Pokémon enters battle.
+Upon entry, summons a Misdirecting Fog on this Pokémon's side for six turns.
+Invoca una Niebla Ilusoria en el lado aliado durante seis turnos al entrar al campo.
+Upon entry, summons a Primal Forest on this Pokémon's side for six turns.
+Invoca un Bosque Primitivo en el lado aliado durante seis turnos al entrar al campo.
+Upon entry, summons a Cruel Cocoon on this Pokémon's side for six turns.
+Invoca una Crisálida Cruel en el lado aliado durante seis turnos al entrar al campo.
+Upon entry, summons a Turbulent Sky on this Pokémon's side for six turns.
+Invoca un Cielo Turbulento en el lado aliado durante seis turnos al entrar al campo.
+It changes type to that of the move it's about to use. This works only once each time this Pokémon enters battle.
 Cambia al tipo del movimiento que esté a punto de usar. Esto sólo funciona una vez por cada vez que el Pokémon entre al campo.
-When hit while asleep, hits back instantly with Snore.
-Al ser atacado mientras esté dormido, contraataca inmediatamente usando Ronquido.
-Boosts power of the Pokémon's sound-based moves by 50%.
+When hit while asleep, hits back instantly with Snore at half power.
+Al ser atacado mientras esté dormido, contraataca inmediatamente usando Ronquido con la mitad de potencia.
+Boosts power of this Pokémon's sound-based moves by 50%.
 Potencia los movimientos de sonido un 50%.
 If its stats would be changed, instead they're changed half as much in the opposite direction (rounded up).
 Invierte los cambios de stats, pero sólo por la mitad (redondeado por arriba).
-Maximizes the frequency of multi-strike moves. Always deals critical hits.
+Maximizes the frequency of multi-hit moves. Always deals critical hits.
 Maximiza la frecuencia de movimientos que golpean múltiples veces. Sus ataques siempre son críticos.
 Raises all of its stats whenever it knocks out a Pokémon with a critical hit.
 Aumenta todas sus stats cada vez que debilite a un Pokémon con un golpe crítico.
@@ -45506,7 +45840,7 @@ Takes 30% less damage until it uses an attack.
 Recibe 30% menos de daño hasta que use un ataque.
 Deals more damage to targets the faster it is than them. Up to a 50% bonus at double Speed.
 Sus ataques son más fuertes hacia objetivos más lentos. Puede llegar a un 50% más de potencia si su Velocidad es el doble.
-Random added effects of bite attacks are +50% more likely likely to occur.
+Random added effects of bite attacks are +50% more likely to occur.
 Efectos secundarios aleatorios de movimientos de mordida tienen +50% de probabilidad de ocurrir.
 Two-turn retreat moves such as Dig deal double damage.
 Duplica la potencia de movimientos de dos turnos en los que el Pokémon se retire del campo, como Excavar.
@@ -45524,7 +45858,7 @@ Powers up Fighting-type moves by 50%.
 Potencia movimientos tipo Lucha un 50%.
 The random added effects of moves by all battlers always activate.
 Los efectos secundarios aleatorios de movimientos de todos los combatientes siempre son activados.
-Right before the Pokémon is attacked, the attacker's stat changes are reset.
+Right before this Pokémon is attacked, the attacker's stat changes are reset.
 Justo antes de ser atacado, reinicia los cambios de stats del atacante.
 Boosts one defending stat by two steps according to the foe's Attack and Sp. Atk.
 Aumenta una stat defensiva dos grados acorde a la stat ofensiva del rival más alta.
@@ -45536,7 +45870,7 @@ Dig and Undermine deal 50% more damage.
 Excavar y Socavar son un 50% más fuertes.
 Reduces move damage taken by 50% when HP is full. Can't be dizzied.
 Reduce el daño que recibe por movimientos un 50% cuando sus PS están al máximo. No puede ser mareado.
-The Pokémon is also Steel-type, but it takes 15% more damage from moves.
+This Pokémon is also Steel-type, but it takes 15% more damage from moves.
 El Pokémon tiene el tipo Acero como tercer tipo, pero todos los ataques lo dañan un 15% más.
 Takes 50% less damage from Water-type moves. Raises Speed by four steps when hit by one.
 Recibe 50% menos de daño de movimientos tipo Agua. Aumenta su Velocidad cuatro grados al ser alcanzado por uno.
@@ -45550,13 +45884,13 @@ When hit with a special move, hits back instantly with Breach.
 Al ser atacado por un movimiento especial, contraataca inmediatamente con Arrastre.
 Takes 40% less damage from attacks by Pokémon who have a non-volatile status condition.
 Recibe 40% menos de daño por los Pokémon que tengan un problema de estado no-volátil.
-Raises defenses after using a Grass-, Ground-, or Steel-type move. Caps out at +4.
-Aumenta ambas defensas luego de usar movimiento tipo Planta, Tierra o Acero. Máximo de +4.
+This Pokémon is healed for 1/5th HP after using a Grass-, Ground-, or Steel-type move. Can overheal.
+El Pokémon recupera 1/5 de sus PS totales al usar un movimiento de tipo Planta, Tierra o Acero. Puede sobrecurar.
 Fighting-type moves have +1 priority.
 Los movimientos tipo lucha tienen +1 prioridad.
 Takes no damage from non-volatile status conditions.
 No recibe daño por problemas de estado no-volátiles.
-The Pokémon changes type to that of the move it's about to use. However, it's 20% less accurate.
+This Pokémon changes type to that of the move it's about to use. However, it's 20% less accurate.
 El Pokémon cambia de tipo al movimiento que esté a punto de usar. Sin embargo, tiene un 20% de precisión.
 Attack is boosted by 50% if a Tailwind is blowing.
 Aumenta su Ataque un 50% si hay un Viento Afín soplando.
@@ -45566,21 +45900,21 @@ Reduces each other Pokémon's HP by 1/12th at the end of each turn.
 Reduce los PS de cada Pokémon por 1/12 de sus PS máximos al final de cada turno.
 Takes 30% less move damage if a Tailwind is blowing.
 Recibe 30% menos de daño si hay un Viento Afín soplando.
-The Pokémon and other battlers don't benefit from same-type attacking bonus.
+This Pokémon and other battlers don't benefit from same-type attacking bonus.
 Tanto el usuario como otros Pokémon no se benefician del bonus del mismo tipo.
 Draws in moves from foes with base power 100 or more. Takes 15% less move damage.
 Atrae movimientos de rivales con 100 de potencia o más. Recibe 15% menos daño directo.
 Whenever a foe fails or misses, they take 1/8th HP damage.
 Cada vez que un rival falle un movimiento, pierden 1/8 de sus PS totales.
-33% of all move damage taken by the Pokémon is instead taken at the end of the next turn.
+33% of all move damage taken by this Pokémon is instead taken at the end of the next turn.
 33% de todo daño de ataques es recibido al final del siguiente turno.
 Deals 30% more damage to targets that have an item. After attacking a foe, destroys their clothing items.
 Potencia sus ataques 30% contra objetivos que tengan un objeto. Luego de atacar, destruye su objeto de vestimenta.
 Draining moves deal 30% more damage. Can overheal when draining.
 Sus movimientos de drenado son potenciados un 30%. Puede sobrecurarse al drenar.
-The Pokémon is Mutant-type.
+This Pokémon is Mutant-type.
 El Pokémon es tipo Mutante.
-Whenever the Pokémon falls asleep, each other battler becomes drowsy.
+Whenever this Pokémon falls asleep, each other battler becomes drowsy.
 Cada vez que el Pokémon duerma, cada otro Pokémon es adormecido.
 If an attack lowers its HP to half or less, the attacker becomes drowsy.
 Si pierde la mitad de sus PS o más, el atacante es adormecido.
@@ -45590,14 +45924,14 @@ Ignores Abilities that would affect its moves. Dizzies opponents that it hits be
 Ignora Habilidades que afectarían sus movimientos. Marea a oponentes que deje menos de la mitad de vida.
 Immune to the type of the memory disc it holds.
 Inmune al tipo del disco que tenga equipado.
-The Pokémon is also Bug-type, but its Speed is halved.
+This Pokémon is also Bug-type, but its Speed is halved.
 El Pokémon es también de tipo Bicho, pero su Velocidad es reducida a la mitad.
 Foes aren't released from its trapping moves even when the Pokémon leaves the field.
 Los enemigos no son liberados de sus movimientos atrapantes incluso cuando el Pokémon no esté en el campo.
-Changes the weather to ring eclipse, which heralds the total ring eclipse. Lingers for 3 turns after leaving.
-Cambia el clima a un eclipse de anillo, que proclama el eclipse de anillo total. Permanece durante 3 turnos.
-Changes the weather to Blood Moon, which heralds the Full Blood Moon. Lingers for 3 turns after leaving.
-Cambia el clima a la Luna de Sangre, que proclama la Luna Llena de Sangre. Permanece durante 3 turnos luego de regresar a su Poké Ball.
+Changes the weather to Ring Eclipse, which heralds the total Ring Eclipse. Lingers for three turns after leaving.
+Invoca Eclipse de Anillo, que proclama el Eclipse de Anillo Total. Permanece durante tres turnos.
+Changes the weather to Blood Moon, which heralds the Full Blood Moon. Lingers for three turns after leaving.
+Cambia el clima a la Luna de Sangre, que proclama la Luna Llena de Sangre. Permanece durante tres turnos.
 Immune to Fire-type moves, and raises Attack and Sp. Atk if hit by one.
 Inmune a movimientos tipo Fuego, y aumenta ambas stats ofensivas si es alcanzado por uno.
 Falls asleep upon entry, but raises all of its stats by two steps.
@@ -45606,17 +45940,17 @@ Prevents foes whose Attack is less than its from fleeing.
 Atrapa a oponentes que tengan menos Ataque que el usuario.
 Foes suffer 50% more move damage reduction from burn, frostbite, and numb.
 Los oponentes sufren una reducción de daño un 50% mayor al sufrir una quemadura, heladura o aturdimiento.
-After attacking any foe, the Pokémon immediately uses Rest.
+After attacking any foe, this Pokémon immediately uses Rest.
 Luego de atacar a un oponente, el Pokémon usa inmediatamente Descanso.
 It changes form to match the move it selected.
 Cambia de forma para adaptarse al movimiento que ha seleccionado.
 Upon entry, creates a Trick Room for four turns, inverting the effect of Speed.
 Al entrar, crea una Zona Rara durante cuatro turnos, invirtiendo el efecto de la Velocidad.
-The user's Speed is doubled while using kicking moves.
+This Pokémon's Speed is doubled while using kicking moves.
 La Velocidad del usuario es duplicada mientras usa movimientos de patada.
-The Pokémon is also Ghost-type.
+This Pokémon is also Ghost-type.
 El Pokémon también es de tipo Fantasma.
-Upon entry, the Pokémon heals itself for 1/4th max HP. This can overheal.
+Upon entry, this Pokémon heals itself for 1/4th max HP. This can overheal.
 Al entrar al campo, el Pokémon se cura 1/4 de sus PS máximos. Puede sobrecurarse.
 Its same-type attack bonus is based on its party members rather than itself.
 Su bonificación de ataque del mismo tipo se basa en los miembros de su equipo y no en sí mismo.
@@ -45630,26 +45964,26 @@ Upon entry, creates a Polarized Room for four turns, exaggerating type matchups.
 Al entrar, crea una Zona Polarizada durante cuatro turnos, exagerando las efectividades de tipo.
 Upon entry, creates an Insight Room for four turns, giving everyone a fifth move.
 Al entrar, crea una Zona Esclarecedora durante cuatro turnos, dando a todos un quinto movimiento.
-Upon entry, creates an Emotion Room for four turns, switching Abilities every turn.
-Al entrar, crea una Zona Emocional durante cuatro turnos, que cambia Habilidades cada turno.
+Upon entry, creates an Emotion Room for four turns, which swaps each Pokémon's ability to its other ability each turn.
+Al entrar, crea una Zona Emocional durante cuatro turnos, que cambia la habilidad de cada Pokémon a su otra habilidad cada turno.
 Upon entry, creates a Willful Room for four turns, reducing all hits by 30 damage.
 Al entrar, crea una Zona Voluntad durante cuatro turnos, reduciendo un 30 de daño todos los ataques.
 Boosts Speed by 50%, but the Pokémon is hurt for 1/10th HP each turn.
 Aumenta la Velocidad un 50%, pero el Pokémon pierde 1/10 de sus PS máximos cada turno.
-Receives 33% less move damage, but the Pokémon is hurt for 1/10th HP each turn.
+Receives 33% less move damage, but this Pokémon is hurt for 1/10th HP each turn.
 Recibe un 33% menos de daño de movimiento, pero el Pokémon pierde 1/10 de sus PS máximos cada turno.
 Your Poké Balls are 50% more effective.
 Tus Poké Balls son un 50% más efectivas.
-If the Pokémon faints from Perish Song, it is revived in a new form.
+If this Pokémon faints from Perish Song, it is revived in a new form.
 Si el Pokémon es debilitado por Canto Mortal, revive con una nueva forma.
-If an attacker would activate a random added effect on the Pokémon, that effect is placed on the attacker instead.
+If an attacker would activate a random added effect on this Pokémon, that effect is placed on the attacker instead.
 Si un atacante activaría un efecto secundario aleatorio sobre el Pokémon, ese efecto se aplica al atacante en su lugar.
 Copies the Ability of the Pokémon it switches in to replace.
 Copia la habilidad del Pokémon al que sustituye.
-Healing on the Pokémon is reversed.
+Healing on this Pokémon is reversed.
 La curación del Pokémon es invertida.
-While the Pokémon is unfainted (in battle or switched out), poisoned foes also suffer from dizzy.
-Mientras el Pokémon no esté debilitado (en combate o cambiado), los enemigos envenenados también estarán mareados.
+While this Pokémon is unfainted (in battle or switched out), poisoned foes cannot use the same move twice in a row.
+Mientras el Pokémon no esté debilitado (en combate o cambiado), los enemigos envenenados no pueden usar el mismo movimiento dos veces seguidas.
 Pokémon take damage from non-volatile status conditions even while switched out.
 Los Pokémon reciben daño de los problemas de estado no-volátiles incluso cuando no están en combate.
 At the end of every turn, its stats shift position (Attack-> Defense -> Sp. Atk -> Sp. Def -> Speed -> Attack...)
@@ -45666,13 +46000,13 @@ Deals no damage to a target while they are using a status move.
 No inflige daño a un objetivo mientras esté usando un movimiento de estado.
 At the end of each turn, its Sp. Atk is lowered. Then, you choose to raise its Speed or heal it for 1/5th HP.
 Al final de cada turno, su Ataque Especial se reduce. A continuación, puedes elegir entre aumentar su Velocidad o curarlo por 1/5 de sus PS.
-At the beginning of every 5th turn, the Pokémon forcibly switches into battle. It chooses which move it will use that turn.
+At the beginning of every 5th turn, this Pokémon forcibly switches into battle. It chooses which move it will use that turn.
 Al inicio de cada quinto turno, el Pokémon entra al combate por la fuerza. Elige qué movimiento va a usar ese turno.
 Raises Def and Sp. Def by three steps each when its HP is lowered below half.
 Aumenta ambas Defensas 3 grados cuando sus PS se reducen por debajo de la mitad.
 Immune to non-volatile status conditions due to its hard shell. Boosts Sp. Atk and Speed by 30% in sandstorm.
 Inmune a problemas de estado debido a su caparazón. Aumenta su Ataque Especial y Velocidad un 30% en tormenta de arena.
-Copies the base stats of the Pokémon it switches in to replace.
+Copies the unmodified stats of the Pokémon it switches in to replace.
 Copia las stats base del Pokémon que entra a reemplazar.
 Punches, Kicks, and Bites combo together to create special effects.
 Puños, Patadas y Mordiscos son combinados para crear efectos especiales.
@@ -45686,13 +46020,13 @@ Uses Aromatherapy if an attack lowers its HP to half or below.
 Usa Aromaterapia si un ataque disminuyo sus PS a la mitad o menos.
 Boosts the power of kicking moves by 30%. Immune to hazards.
 Potencia movimientos de patada un 30%. Inmune a trampas en el campo.
-Cannot take damage or be switched out. Hears Perish Song upon entering, ensuring its demise.
+Cannot take damage or be switched out. Hears Perish Song upon entry, ensuring its demise.
 No puede recibir daño o ser cambiado. Escucha el Canto Mortal al entrar al campo, asegurando su fin.
 Reverses "Aura" Abilities to weaken affected moves.
 Invierte habilidades de "Aura" para debilitar movimientos afectados.
-The Pokémon receives 25% less move damage from super-effective attacks.
+This Pokémon receives 25% less move damage from super-effective attacks.
 Reduce un 25% daño de ataques súper efectivos.
-Protects the Pokémon from recoil damage. The Pokémon doesn't trigger items, abilities, or effects of targets it hits.
+Protects this Pokémon from recoil damage. This Pokémon doesn't trigger items, abilities, or effects of targets it hits.
 Protege al Pokémon del daño de retroceso. El Pokémon no activa objetos, habilidades o efectos del objetivo que golpee.
 Raises Attack whenever any Pokémon uses a dance move.
 Aumenta el Ataque cada vez que un Pokémon use un movimiento de baile.
@@ -45712,13 +46046,13 @@ Boosts Sp. Atk after knocking out any Pokémon.
 Aumenta Ataque Especial al debilitar cualquier Pokémon.
 Heals 1/8th of its max HP each turn in a hail.
 Recupera 1/8 de sus PS máximos cada turno bajo granizo.
-Attacks by or against the Pokémon can't miss.
-Ataques por o contra el Pokémon no pueden fallar.
+Attacks by or against this Pokémon can't miss and hit hidden Pokémon.
+Ataques por o contra el Pokémon no pueden fallar, incluso contra Pokémon ocultos.
 Heals 1/8th of its max HP each turn if in rainstorm.
 Recupera 1/8 de sus PS máximos cada turno bajo lluvia.
 Immune to non-volatile status conditions while it has its shell. Below half HP, its shell breaks and it turns aggressive.
 Inmune a problemas de estado no-volátil con su caparazón. Al perder la mitad de vida, este se rompe y se vuelve agresivo.
-Stat changes in the Pokémon are doubled.
+Stat changes in this Pokémon are doubled.
 Cambios de estadísticas en el Pokémon son duplicados.
 Prevents other Pokémon from lowering its stats.
 Impide que otros Pokémon disminuyan sus estadísticas.
@@ -45730,15 +46064,15 @@ Speed is doubled on the first turn.
 Su velocidad es duplicada en el primer turno.
 Takes 30% less damage in a rainstorm.
 Recibe 30% menos de daño bajo lluvia.
-Upon entry, summons Natural Protection for 4 turns.
-Invoca una Protección Natural por 4 turnos al entrar al campo.
-If an attack lowers the Pokémon's HP to half or less, the attacker becomes fractured.
+Upon entry, summons Natural Protection for four turns.
+Invoca una Protección Natural por cuatro turnos al entrar al campo.
+If an attack lowers this Pokémon's HP below half, the attacker becomes fractured.
 Si un ataque disminuye los PS del Pokémon a la mitad o más, el atacante es fracturado.
-Doubles the Pokémon's Sp. Def in sunshine.
+Doubles this Pokémon's Sp. Def in sunshine.
 Duplica su Defensa Especial bajo sol.
-If an attack lowers the Pokémon's HP to half or less, the attacker becomes jinxed.
+If an attack lowers this Pokémon's HP below half, the attacker becomes jinxed.
 Si un ataque disminuye los PS del Pokémon a la mitad o más, el atacante es embrujado.
-If an attack lowers the Pokémon's HP to half or less, the attacker becomes cursed.
+If an attack lowers this Pokémon's HP below half, the attacker becomes cursed.
 Si un ataque disminuye los PS del Pokémon a la mitad o más, el atacante es maldito.
 Physical moves have a 30% chance to waterlog targets.
 Los movimientos Físicos del Pokémon tienen un 30% de probabilidad de embeber a su objetivo.
@@ -45746,7 +46080,7 @@ If an attack lowers its HP to half or less, waterlogs the attacker.
 Si un ataque disminuye los PS del Pokémon a la mitad o más, el atacante es embebido.
 On the first turn, its attacks cause the target to flinch.
 En su primer turno, sus ataques siempre amedrentan al objetivo.
-The Pokémon receives 33% less move damage if there is an active Room.
+This Pokémon receives 33% less move damage if there is an active Room.
 Recibe 33% menos de daño por movimientos si hay una Zona activa.
 Sets screens for two more turns.
 Las pantallas que invoque durarán dos turnos más.
@@ -45784,9 +46118,9 @@ Protects Grass-type allies from non-volatile status conditions or stat reduction
 Protege a aliados tipo Planta de problemas de estado no-volátiles o disminuciones de stats (excepto cuando auto-inflingido).
 Immune to Ground-type moves. Immune to grounded hazards.
 Inmune a movimientos tipo Tierra. Inmune a trampas en el suelo.
-When the Pokémon is hit by an attack, the attacker's ability becomes Mummy.
+When this Pokémon is hit by an attack, the attacker's ability becomes Mummy.
 Cuando el Pokémon sea golpeado por un ataque, la habilidad del atacante se vuelve Momia.
-When the Pokémon is hit by an attack, the Pokémon and the attacker switch abilities.
+When this Pokémon is hit by an attack, this Pokémon and the attacker switch abilities.
 Cuando el Pokémon sea golpeado por un ataque, el Pokémon y el atacante cambian habilidades.
 Immune to Dragon-type, Fairy-type and Ghost-type attacks.
 Inmune a ataques tipo Dragón, Hada y Fantasma.
@@ -45798,17 +46132,17 @@ Wild Pokémon are more likely to appear in pairs and to be species you've never 
 Es más probable que los Pokémon salvajes aparezcan en pares y que sean de especies que nunca has atrapado.
 Prevents stat steps from being lowered (except when self-inflicted). Protects from critical hits.
 Impide que las estadísticas del Pokémon sean disminuidas (excepto cuando auto-inflingido). Impide golpes críticos.
-The Pokémon is also Grass-type. When hit by an attack, the attacker's ability becomes Infected.
+This Pokémon is also Grass-type. When hit by an attack, the attacker's ability becomes Infected.
 El Pokémon también es de tipo Planta. Al ser atacado, la habilidad del atacante se vuelve Infectado.
 When hit by another Pokémon, destroys one of their items.
 Al ser golpeado por otro Pokémon, destruye uno de sus objetos.
-Prevents stat steps from being lowered (except when self-inflicted). The Pokémon's weight is doubled.
+Prevents stat steps from being lowered (except when self-inflicted). This Pokémon's weight is doubled.
 Impide que las stats del Pokémon sean disminuidas (excepto cuando auto-inflingido). El peso del Pokémon es duplicado.
-The Pokémon's hits deal half damage unless they are critical.
+This Pokémon's hits deal half damage unless they are critical.
 Los ataques del Pokémon tienen la mitad de potencia a no ser que sean críticos.
 During eclipse, immune to status conditions and having its stats lowered.
 Durante un eclipse, es inmune a problemas de estado y sus stats no pueden ser disminuidas.
-The Pokémon's Dragon-type hits deal additional damage equal to half the Pokémon's level.
+This Pokémon's Dragon-type hits deal additional damage equal to half this Pokémon's level.
 Los ataques tipo Dragón del Pokémon hacen un daño adicional igual a la mitad del nivel del Pokémon.
 Immune to Dark-type and Bug-type moves.
 Inmune a movimientos tipo Siniestro y Bicho.
@@ -45822,7 +46156,7 @@ At the end of each round, lowers other waterlogged Pokémon's Attack and Sp. Atk
 Al final de cada turno, disminuye el Ataque y Ataque Especial de otros Pokémon embebidos cada turno.
 Prevents stat steps from being lowered (except when self-inflicted). Immune to weather downsides.
 Impide que las stats del Pokémon sean disminuidas (excepto cuando auto-inflingido). Inmune a desventajas del clima.
-By sacrificing a held item the Pokémon didn't start with, it can negate one attack against it.
+By sacrificing a held item this Pokémon didn't start with, it can negate one attack against it.
 Sacrificando un objeto equipable con el que el Pokémon no empezó, puede negar un ataque en su contra.
 Boosts the power of rampaging moves by 30%, and makes them physical or special based on which would be more effective.
 Potencia movimientos arrasadores (como Enfado) un 30%, y son físicos o especiales según lo qué sería más efectivo.
@@ -45836,14 +46170,14 @@ Immune to Fighting-type and Rock-type moves. Prevents Stealth Rock damage.
 Inmune a movimientos tipo Lucha y Roca. Impide el daño de Trampa Rocas.
 Twice as likely for moves to be critical. Restores HP for half the damage it does with critical hits.
 Sus ataques tienen el doble de probabilidad de ser críticos. Restaura la mitad de los PS que cause con críticos.
-The Pokémon and its allies' moves are twice as likely to be critical.
-Sus movimientos y los de sus aliados tienen el doble de probabilidad de ser críticos.
+This Pokémon and its allies' moves are twice as likely to be critical.
+Sus movimientos y los de sus aliados tienen el doble de índice de golpe crítico.
 Raises Attack and Sp. Atk by two steps when its HP is lowered below half.
 Aumenta el Ataque y Ataque Especial dos grados cuando PS es reducido a la mitad o más.
 Boosts either Attack or Sp. Atk by two steps according to the foe's defenses.
 Aumenta ya sea el Ataque o Ataque Especial dos grados de acuerdo a las defensas del enemigo.
-When it takes a hit, the Pokémon and the attacker both faint after 3 turns.
-Al ser atacado, tanto el Pokémon como su atacante son debilitados luego de 3 turnos.
+When it takes a hit, this Pokémon and the attacker both faint after three turns.
+Al ser atacado, tanto el Pokémon como su atacante son debilitados luego de tres turnos.
 Doubles the Accuracy, critical hit rate, and chance to activate random added effects for its allies and itself.
 Duplica la precisión, índice de golpe crítico, y probabilidad de efectos secundarios aleatorios para sus aliados y sí mismo.
 After being hit, the Pokémon raises either Defense or Sp. Def based on the attack's category. Caps out at +4.
@@ -45852,8 +46186,8 @@ Raises Defense and Sp. Def by three steps when its HP is lowered below half.
 Aumenta ambas stats defensivas tres grados cuando sus PS son reducidos a la mitad o más.
 Boosts the power of blade moves by 30%. Blade moves ignore the target's modified Defense and Sp. Def.
 Potencia movimientos de corte un 30%. Movimientos de corte ignoran las Defensas modificadas del objetivo.
-When hit with a physical move, traps and damages the attacker for three turns.
-Al ser alcanzado por un movimiento físico, atrapa y daña al atacante durante tres turnos.
+When hit with a physical move, traps and binds the attacker for three turns. Fails on turns the user switched in.
+Al ser alcanzado por un movimiento físico, atrapa y daña al atacante durante tres turnos. Falla en el turno que el usuario entre al campo.
 Changes to the form of your choosing after switching out.
 Cambia a una forma a tu elección luego de regresar a su Poké Ball.
 Heals 1/16th HP every turn. Protected from being numbed or waterlogged.
@@ -45882,13 +46216,13 @@ The Pokémon's critical hit chance raises or lowers with its Speed.
 El índice de golpe crítico del Pokémon aumenta o disminuye de acuerdo a su Velocidad.
 The Pokémon's Speed is doubled while using kicking moves.
 La Velocidad del Pokémon es duplicada al usar movimientos de patada.
-The Pokémon's Speed is doubled while using recoil moves.
+This Pokémon's Speed is doubled while using recoil moves.
 La Velocidad del Pokémon es duplicada al usar movimientos de retroceso.
 Boosts the power of sound moves by 30%. Sound moves ignore the target's modified Defense and Sp. Def.
 Potencia movimientos de sonido un 30%. Movimientos de corte ignoran las Defensas modificadas del objetivo.
 Whenever this Pokémon attacks a trapped foe, it is healed for half of the damage dealt.
 Cada vez que este Pokémon ataque a un enemigo atrapado, es curado por la mitad del daño que cause.
-Doubles the Pokémon's Speed in Rooms.
+Doubles this Pokémon's Speed in Rooms.
 Duplica la Velocidad del Pokémon dentro de una Zona.
 Takes 40% less damage while using a status move.
 Recibe 40% menos daño al usar un movimiento de estado.
@@ -45896,21 +46230,21 @@ Doubles the critical hit chance of random crit moves. Powers up critical hits by
 Duplica el índice de golpe crítico. Potencia los movimientos críticos un 50%.
 Quadruples the critical hit chance of random crit moves.
 Cuadruplica el índice de golpe crítico.
-Heals from trapping damage it deals. Takes 25% less damage from Pokémon that are trapped.
+Heals from binding damage it deals. Takes 25% less damage from Pokémon that are trapped.
 Recupera salud cuando un Pokémon atrapado pierde salud. Recibe 25% menos de daño de Pokémon que estén atrapados.
 Powers up the Pokémon's Dark-type moves by 50% in sandstorm.
 Potencia movimientos de tipo Siniestro un 50% en tormenta de arena.
-Comes out disguised as the Pokémon in back. While disguised, copies its ability.
+Comes out disguised as this Pokémon in back. While disguised, copies its ability.
 Se disfraza como el Pokémon en el último lugar de tu equipo. Mientras esté dsifrazado, copia su habilidad.
 Protected against critical hits. Heals 1/12th HP every turn if hit by an attack.
 Impide ataques críticos. Recupera 1/12 de sus PS máximos cada turno si es golpeado por un ataque.
-Slips past hazards. Takes 50% less damage if it switched in this turn.
-Inmune a trampas. Recibe un 50% menos de daño en el turno en el que entra al campo.
+Slips past hazards. Takes one third less damage if it switched in this turn.
+Inmune a trampas. Recibe un tercio menos de daño en el turno en el que entra al campo.
 Doubles critical hit chance. Restores HP for half the damage it does with critical hits.
 Duplica su índice de golpe crítico. Recupera la mitad de los PS que lidie con ataques críticos.
-The Pokémon takes 30% less move damage in hail.
+This Pokémon takes 30% less move damage in hail.
 El Pokémon recibe un 30% menos de daño en granizo.
-Boosts the Pokémon's Sp. Atk and Sp. Def by 30% in sunshine.
+Boosts this Pokémon's Sp. Atk and Sp. Def by 30% in sunshine.
 Aumenta el Ataque Especial y Defensa Especial un 30% bajo sol.
 Doubles critical hit chance for each Speed step up. All moves can random critical hit.
 Duplica su índice de golpe crítico por cada grado aumentado de Velocidad. Todos sus movimientos pueden ser críticos.
@@ -45918,6 +46252,306 @@ Moves ignore Abilities that would affect its moves or activate after hitting the
 Ignora Habilidades que afectarían sus movimientos o se activarían luego de atacar al objetivo, e inmunidades por tipos.
 Doubles the critical hit chance of random crit moves. The Pokémon's Speed is doubled while using them.
 Duplica el índice de golpe críticos aleatorios. La Velocidad del Pokémon es duplicada al usarlos.
+Raises Defense upon entry.
+Aumenta Defensa al entrar al campo.
+Its shroud protects it from an attack once.
+Su disfraz lo protege de un ataque una vez.
+Summons sunshine for four turns upon entry.
+Invoca luz solar durante cuatro turnos al entrar al campo.
+Boosts Defense by 20%. When this Pokémon takes its second physical hit from the same attacker, they become burned.
+Aumenta Defensa un 20%. Cuando este Pokémon recibe un segundo ataque físico del mismo atacante, este es quemado.
+Raises Attack upon entry.
+Aumenta Ataque al entrar al campo.
+Boosts Defense by 20%. When this Pokémon takes its second physical hit from the same attacker, they become poisoned.
+Aumenta Defensa un 20%. Cuando este Pokémon recibe un segundo ataque físico del mismo atacante, este es envenenado.
+Boosts Defense by 20%. When this Pokémon takes its second physical hit from the same attacker, they become numbed.
+Aumenta Defensa un 20%. Cuando este Pokémon recibe un segundo ataque físico del mismo atacante, este es aturdido.
+After landing a super-effective or hyper-effective hit, deals 30% more damage on its next Normal-type move.
+Luego de asestar un movimiento súper o híper efectivo, potencia un 30% su siguiente movimiento tipo Normal.
+This Pokémon moves after all other Pokémon do.
+Este Pokémon se mueve al final de cada turno.
+Boosts Sp. Def by 20%. When this Pokémon takes its second special hit from the same attacker, they become waterlogged.
+Aumenta Defensa Especial un 20%. Cuando este Pokémon recibe un segundo ataque especial del mismo atacante, este es embebido.
+Boosts power of light-based moves by 30%.
+Potencia movimientos de Luz un 30%.
+Deals 30% more damage to targets that are below half health or that swapped in this turn.
+Sus ataques son potenciados un 30% contra objetivos con menos de la mitad de su salud o que hayan entrado al campo.
+Boosts the power of biting moves by 30%.
+Potencia movimientos de mordida un 30%.
+After using a light move, lowers each foe's Sp. Def.
+Luego de usar un movimiento de luz, disminuye la Defensa Especial de cada rival.
+When hit with an attack, uses Pain Split on the attacker if its HP is lower than the attacker.
+Al ser atacado, usa Divide Dolor si tiene menos PS que el atacante.
+If an attack lowers its HP below half, lowers all of the attacker's stats.
+Si un ataque disminuye sus PS a la mitad o más, disminuye todas las stats del atacante.
+During hail, this Pokémon's Speed is boosted by 50% and twice as likely to crit.
+Bajo granizo, su Velocidad es aumentada un 50% y su índice de golpe crítico es duplicado.
+After this Pokémon is hit thrice, a Sanctuary is set on its side for 5 turns. The attacker becomes drowsy.
+Luego de ser atacado tres veces, un Santuario es colocado en su lado por 5 turnos. El atacante es adormecido.
+On the first turn, its attacks fracture the target.
+En su primer turno, sus ataques fracturan el objetivo.
+Boosts Attack and Sp. Atk by 30% in rooms.
+Aumenta su Ataque y Ataque Especial un 30% en zonas.
+The user's damaging attacks hit all other Pokémon on the field and always activate their random effects.
+Los ataques el usuario golpean a todos los Pokémon en el campo y siempre activan sus efectos secundarios aleatorios.
+Heals by 1/5th HP whenever any Pokémon uses a dance move. Can overheal.
+Recupera 1/5 de sus PS máximos cada vez que algún Pokémon use un movimiento de baile. Puede sobrecurar.
+This Pokémon's Speed is doubled while using light-based moves.
+Su Velocidad es duplicada al usar movimientos de Luz.
+Boosts Defense by 20%. When this Pokémon takes its second physical hit from the same attacker, they become frostbitten.
+Aumenta Defensa un 20%. Cuando este Pokémon recibe un segundo ataque físico del mismo atacante, este es helado.
+If there is an active Room, enemies which swap in take Psychic-type damage equal to 1/6th their HP.
+Si hay una Zona activa, enemigos que entren al campo reciban daño de tipo Psíquico igual a 1/6 de sus PS totales.
+Traps foes with non-volatile status conditions.
+Atrapa a oponentes con problemas de estados no-volátiles.
+When hit with an attack, gains that attack's type.
+Al ser atacado, gana el tipo de ese ataque.
+Foretelling moves take one turn longer to attack but deal 50% more damage.
+Movimientos presagiados toman un turno más para atacar pero son potenciados un 50%.
+After knocking out any Pokémon, summons hail for four turns.
+Invoca granizo durante cuatro turnos al debilitar cualquier Pokémon.
+When this Pokémon traps and binds a target, one hazard layer of Spikes is placed around the target.
+Cuando este Pokémon atrapa y daña a un objetivo, una capa de Púas es colocada en el objetivo.
+This Pokemon gains an extra turn whenever it gains a non-volatile status condition or becomes trapped.
+Este Pokémon gana un turno extra cuando obtiene un problema de estado no-volátil o es atrapado.
+When this Pokémon flinches a target that has already moved, it will flinch next turn.
+Cuando este Pokémon amedrenta a un objetivo que ya se ha movido, será amedrentado en el siguiente turno.
+While Gravity is active, deals damage to all foes. While this Pokémon is active, Gravity does not decay.
+Mientras la Gravedad esté activa, lidia daño a todos los rivales. Mientras este Pokémon esté activo, la Gravedad no se deteriorará.
+If an attack lowers its HP below half, the attacker becomes drowsy.
+Si un atacante disminuye sus PS a la mitad o más, el atacante es adormecido.
+Boosts the power of pulse moves by 30%.
+Potencia los movimientos de pulso un 30%.
+When a foe switches to replace a fainted Pokémon, gives information about the switch and lets you switch beforehand.
+Cuando un rival va a reemplazar un Pokémon debilitado, da información sobre el reemplazo y te deja cambiar antes.
+This Pokémon's Fighting-type attacks become spread and deal 35% more damage.
+Los ataques de tipo Lucha del Pokémon atacan a todo el lado contrario y son potenciados un 35%.
+Changes the weather to Star Storm, which increases its damage over time. Lingers for three turns after leaving.
+Invoca Tormenta Estelar, que aumenta su daño cada turno. Permanece tres turnos luego de cambiar.
+Upon entry, gains your choice of Fighting-, Dark-, or Fairy-type.
+Al entrar al campo, gana un tipo a tu elección entre el tipo Lucha, Siniestro o Hada.
+While this Pokémon is on the field, all attacks restore their user's HP by 30% of damage dealt.
+Mientras este Pokémon está en el campo, todos los ataques recuperan un 30% de los PS que lidien. 
+While this Pokémon is on the field, all healing is boosted by 20% and can overheal.
+Mientras este Pokémon está en el campo, toda la curación es aumentada un 20% y puede sobrecurar.
+This Pokémon is also Fire-type.
+Este Pokémon también es de tipo Fuego.
+Boosts Sp. Def by 20%. When this Pokémon takes its second special hit from the same attacker, they become burned.
+Aumenta Defensa Especial un 20%. Cuando este Pokémon recibe un segundo ataque especial del mismo atacante, este es quemado.
+Foretelling moves also hit for half power on the turn they are used.
+Movimientos presagiados también atacan por la mitad de su potencia en el turno que son usados.
+After using a Bite move, lowers the target's highest attacking stat by 2 steps.
+Luego de usar un movimiento de Mordida, disminuye la stat ofensiva más alta del objetivo dos grados. 
+After knocking out any Pokémon, summons rainstorm for four turns.
+Luego de invocar cualquier Pokémon, invoca tormenta de lluvia durante cuatro turnos.
+Foes that become numbed are severely so. This Pokémon's Flying-type moves have a 30% chance to severely numb.
+Si un enemigo es aturdido, el estado es severo. Los movimientos Voladores tienen un 30% de probabilidad de aturdir severamente.
+Foes that become frostbitten are severely so. This Pokémon's Flying-type moves have a 30% chance to severely frostbite.
+Si un enemigo es helado, el estado es severo. Los movimientos Voladores tienen un 30% de probabilidad de helar severamente.
+This Pokémon's Speed is doubled while using wind-based moves.
+La Velocidad del Pokémon es duplicada al usar movimientos de viento.
+Intensifies gravity for four turns when hit by an attack.
+Intensifica gravedad durante cuatro turnos al ser atacado.
+Moves that trap and bind the opponent deal 50% more damage on the initial hit.
+Movimientos que atrapan y dañan al oponente son potenciados un 50% en el primer golpe.
+Raises Sp. Def when hit by an attack.
+Aumenta Defensa Especial al ser atacado.
+Raises Attack and Sp. Atk whenever any Pokémon uses a dance move.
+Aumenta ambos Ataques cada vez que un Pokémon use un movimiento de baile.
+When suffering from recoil, this Pokémon cannot go below 1 HP.
+Al sufrir daño de retroceso, los PS de este Pokémon no pueden bajar de 1.
+During hail, this Pokémon takes 50% less move damage, but its Speed is halved.
+Bajo granizo, este Pokémon recibe menos 50% daño de ataques, pero su Velocidad es reducida a la mitad.
+Trapping and binding effects against an enemy are passed over to an ally that swaps in for this Pokémon.
+Efectos que atrapan y dañan al enemigo son conservados cuando un aliado reemplaza este Pokémon.
+Changes the weather to Ice Age, which damages and prevents healing. Lingers for three turns after leaving.
+Invoca Era Glacial, que daña e impide curación. Permanece durante tres turnos luego de cambiar.
+After switching in for a fainted ally, using a status move and knocking out a foe, heals to full and transforms.
+Luego de reemplazar a un aliado debilitado, usar un movimiento de estado y debilidar a un enemigo, recupera toda su vida y se transforma.
+Has Judgment as its 5th move.
+Tiene Sentencia como un quinto movimiento.
+Powers up Bug-type moves of itself and its allies by 50%.
+Potencia sus movimientos tipo Bicho y el de sus aliados un 50%.
+This Pokémon's Speed is doubled while using rampaging moves.
+La Velocidad del Pokémon es duplicada al usar movimientos que arrasan.
+This Pokémon's Normal-type attacks become spread and drain 33% HP.
+Los ataques de tipo Normal del Pokémon atacan a todo el lado contrario y drenan un 33% de PS.
+On the first turn, its attacks jinx the target.
+En su primer turno, sus ataques siempre embrujan al objetivo.
+Upon entry, blinds all foes.
+Al entrar al campo, ciega a todos los rivales.
+Takes 30% less damage until the first time it uses an attacking move.
+Recibe 30% menos de daño hasta que use un ataque por primera vez.
+This Pokémon gains the Electric-type in rainstorm.
+Este Pokémon gana el tipo Eléctrico bajo lluvia.
+This Pokémon's moves deal 20% more damage and ignore abilities that would affect them.
+Los movimientos de este Pokémon son potenciados un 20% e ignoran habilidades que lo afectarían.
+Boosts Defense by 20%. When this Pokémon takes its second physical hit from the same attacker, they become leeched.
+Aumenta Defensa un 20%. Cuando este Pokémon recibe un segundo ataque físico del mismo atacante, este es infectado.
+Pokémon can't raise their stats. Pokémon that dance take damage equal to 1/4th their HP.
+Ningún Pokémon puede aumentar sus stats. Pokémon que bailen reciben daño igual a 1/4 de sus PS totales.
+On the first turn, its special attacks trap the target and damage it for three turns.
+En su primer turno, sus ataques especiales atrapan y dañan al objetivo durante tres turnos.
+This Pokémon's Speed is doubled while using charging moves.
+La Velocidad del Pokémon es duplicada al usar movimientos que necesitan dos turnos.
+When this Pokémon charges and becomes hidden, it heals for 25% HP. This can overheal.
+Cuando este Pokémon carga y se vuelve oculto, recupera un 25% de sus PS totales. Puede sobrecurar.
+Boosts Speed by 50%, but this Pokémon is hurt for 1/10th HP each turn.
+Aumenta Velocidad un 50%, pero este Pokémon pierde 1/10 de sus PS totales cada turno.
+Sets a Sanctuary for four turns upon entry.
+Invoca un Santuario por cuatro turnos al entrar al campo.
+Pokémon that swap in for this have their Attack and Sp. Atk raised.
+Si es reemplazado, aumenta ambos Ataques del Pokémon que tome su lugar.
+When hit with a special move, traps and binds the attacker for three turns. Fails on turns the user switched in.
+Al ser alcanzado por un movimiento especial, atrapa y daña al atacante durante tres turnos. Falla en el turno que el usuario entre al campo.
+When this Pokémon is hit thrice, all party members heal for 1/8th HP. The attacker is forced to switch out.
+Al ser atacado tres veces, todo tu equipo recupera 1/8 de sus PS totales. El atacante es forzado a regresar a su Poké Ball.
+Pokémon that swap in for this have their Defense and Sp. Defense raised.
+Si es reemplazado, aumenta ambas Defensas del Pokémon que tome su lugar.
+When using Techno Blast, the user can choose the move's type, switching to that form.
+Al usar Tecno Shock, el usuario puede elegir el tipo del movimiento, cambiando a esa forma.
+If an attack lowers its HP below half, waterlogs the attacker.
+Si un atacante disminuye sus PS a la mitad o más, el atacante es embebido.
+When the Full Moon rises, heals for 50% of its total HP. This can overheal.
+Al aparecer la Luna Llena, recupera la mitad de sus PS totales. Esto puede sobrecurar.
+While this Pokémon is below half health, takes 33% less damage from attacks.
+Cuando este Pokémon tiene menos de la mitad de sus PS, recibe un 33% menos de daño.
+This Pokémon's Psychic-type attacks become spread and deal 35% more damage.
+Los ataques de tipo Psíquico del Pokémon atacan a todo el lado contrario y son potenciados un 35%.
+Traps foes when they are below half health.
+Atrapa oponentes que hayan perdido la mitad o más de su salud.
+This Pokémon's stat steps are inverted at the end of every turn.
+Los cambios de stats de este Pokémon son invertidos al final de cad aturno.
+This Pokémon is also Fairy-type.
+Este Pokémon también es de tipo Hada.
+Boosts Sp. Def by 20%. When this Pokémon takes its second special hit from the same attacker, they become numbed.
+Aumenta Defensa Especial un 20%. Cuando este Pokémon recibe un segundo ataque especial del mismo atacante, este es aturdido.
+Moves that make the user become hidden deal 30% more move damage and deal 50% damage to protecting targets.
+Movimientos que hacen invulnerable al Pokémon por un turno son potenciados un 30%, o 50% si el objetivo se proteje.
+Poison-type foes can be poisoned. Poison applied to foes starts already worsened.
+Enemigos de tipo Veneno pueden ser envenenados. El veneno aplicado a oponentes empieza ya empeorado.
+The user's moves cannot miss against trapped targets. Takes 20% less damage from Pokémon that are trapped.
+Los movimientos del usuario no fallan contra objetitvos atrapados. Recibe 20% menos de daño de Pokémon atrapados.
+Deals 30% more damage to trapped foes.
+Sus ataques son potenciados un 30% contra oponentes atrapados.
+Boosts Sp. Def by 20%. When this Pokémon takes its second special hit from the same attacker, they become poisoned.
+Aumenta Defensa Especial un 20%. Cuando este Pokémon recibe un segundo ataque especial del mismo atacante, este es envenenado.
+On the first turn, its physical attacks trap the target and damage it for three turns.
+En su primer turno, sus ataques físicos dañan y atrapan al objetivo durante tres turnos.
+Deals 30% more move damage to Pokémon slower than it.
+Sus ataques son potenciados un 30% contra Pokémon más lentos.
+While this Pokémon has an ally that isn't fully evolved, both Pokémon take 33% less move damage.
+Si su aliado no está completamente evolucionado, ambos Pokémon reciben un 33% menos de daño.
+Boosts Sp. Def by 20%. When this Pokémon takes its second special hit from the same attacker, they become leeched.
+Aumenta Defensa Especial un 20%. Cuando este Pokémon recibe un segundo ataque especial del mismo atacante, este es infectado.
+Has Light That Burns the Sky as its 5th move.
+Tiene Fotodestrucción Apocalíptica como un quinto movimiento.
+Boosts power of light-based moves by 50%.
+Potencia un 50% movimientos de luz. 
+When this Pokémon is rampaging, it can choose the rampage moves it uses.
+Si este Pokémon está arrasando, puede elegir otro movimiento de la misma categoría.
+When this Pokémon is hit thrice, a Live Wire is set on the foe's side. The attacker hits itself in a rage.
+Al ser atacado tres veces, un Cablevivo es colocado en el lado rival. El atacante se golpea a sí mismo.
+Reduces move damage taken by allies by 33% while this Pokémon is using a status move.
+Reduce el daño de ataques aliados un 33% mientras este Pokémon está usando un movimiento de estado.
+Loses its Fire type. Whenever it uses a move, it gains that move's type.
+Pierde su tipo Fuego. Al usar un movimiento, gana el tipo de ese movimiento.
+On the first turn, its attacks poison the target.
+En su primer turno, sus ataques envenenan al objetivo.
+Restores 50% of max HP and heals all non-volatile status conditions when switched out.
+Recupera un 50% de sus PS totales y recupera sus problemas de estado no-volátiles al regresar a su Poké Ball.
+Light moves change this Pokémon's secondary type and their power is boosted by 30%.
+Movimientos de Luz son potenciados un 30% cambian el tipo secundario del Pokémon.
+This Pokémon's moves heal for 25% more.
+Los movimientos de este Pokémon recuperan un 25% más de salud.
+Below half health, it has a doubled crit chance and has +30% attack.
+Al tener la mitad o más de sus PS, tiene el doble de índice de golpe crítico y un +30% de ataque.
+This Pokémon can use Electric-type moves when recharging from an exhausting move, but cannot switch out during them.
+Este Pokémon puede usar movimientos de tipo Eléctrico al recargar un movimiento que lo deje exhausto, pero sin poder cambiar.
+When this Pokémon is hit thrice, two layers of Spikes are set on the foe's side. The attacker will flinch next turn.
+Al ser atacado tres veces, dos capas de Púas son colocadas en el lado rival. El atacante se amedrentará en el siguiente turno.
+"Two to five" multi-hit moves hit an additional time.
+Movimientos que golpean entre dos a cinco veces lo hacen una vez más.
+Spread moves hitting multiple targets deal 50% more damage.
+Movimientos que golpean múltiples oponentes son potenciados un 50% al hacerlo.
+While this Pokémon is active, Rooms do not decay.
+Mientras este Pokémon esté activo, las Zonas no se desgastarán.
+After knocking out any Pokémon, summons sandstorm for four turns.
+Al debilitar a un Pokémon, invoca tormenta de arena durante cuatro turnos.
+Foes that become burned are severely so. This Pokémon's Flying-type moves have a 30% chance to severely burn.
+Si un enemigo es quemado, el estado es severo. Los movimientos Voladores tienen un 30% de probabilidad de quemar severamente.
+Foretelling moves deal 50% more damage.
+Movimientos presagiados son potenciados un 50%.
+Doubles the critical hit chance of random crit moves. This Pokémon's Speed is doubled while using them.
+Duplica el índice de golpe crítico de movimientos que puedan serlo. Su Velocidad es duplicada al usarlos.
+When this Pokémon charges and becomes hidden, it lowers the Attack and Sp. Atk of all foes.
+Cuando este Pokémon se vuelve invulnerable con un movimiento de dos turnos, disminuye ambos Ataques del lado rival.
+Takes 30% less damage from all tagged moves.
+Recibe 30% menos de daño de movimientos que posean una clase.
+This Pokémon deals double damage with moves that cause the user to become hidden.
+Los movimientos que vuelven al Pokémon invulnerable por un turno son potenciados el doble.
+Its attacks deal 50% more move damage against sleeping targets.
+Sus ataques son potenciados un 50% contra objetivos dormidos.
+Boosts Defense by 20%. When this Pokémon takes its second physical hit from the same attacker, they become waterlogged.
+Aumenta Defensa un 20%. Cuando este Pokémon recibe un segundo ataque físico del mismo atacante, este es embebido.
+Your attacks become spread.
+Todos los ataques del Pokémon atacan a todo el lado rival.
+Foes that attack this Pokémon while it is hidden take 25% HP damage.
+Si el Pokémon es invulnerable por un movimiento de dos turnos y lo atacan, este pierde un cuarto de sus PS totales.
+Its attacks are critical against waterlogged targets.
+Sus ataques son críticos contra objetivos embebidos.
+During sandstorm, immune to non-volatile status conditions and stat reductions.
+Bajo tormenta de arena, es inmune a todo problema de estado no-volátil y sus stats no pueden ser disminuidas por el rival.
+Pokémon that swap in for this have their Speed raised.
+Si es reemplazado, aumenta Velocidad del Pokémon que tome su lugar.
+Boosts Sp. Def by 20%. When this Pokémon takes its second special hit from the same attacker, they become frostbitten.
+Aumenta Defensa Especial un 20%. Cuando este Pokémon recibe un segundo ataque especial del mismo atacante, este es helado.
+Uses Rapid Spin if an attack lowers its HP below half.
+Usa Giro Rápido si un ataque le quita la mitad o más de sus PS.
+If an attack lowers its HP below half, the attacker enters a sugar rush. Their speed is doubled, but they take double damage from moves.
+Si un ataque le quita la mitad o más de sus PS, el ataque obtiene un subidón de azúcar. Este duplica su velocidad, pero ataques le quitan el doble.
+After knocking out any Pokémon, summons sunshine for four turns.
+Al debilitar a un Pokémon, invoca luz solar durante cuatro turnos.
+Boosts this Pokémon's Speed by 50% and reduces recoil taken by 50% in sunshine
+Aumenta la Velocidad del Pokémon un 50% y reduce el daño de retroceso un 50% bajo sol.
+Doubles the speed of allied Pokémon.
+Duplica la velocidad de Pokémon aliados.
+When an ally switches in, this Pokémon's Speed is increased.
+Si un aliado entra al campo, la Velocidad del Pokémon es incrementada.
+When hit, the attacker's Speed is reduced, and this Pokémon's next attack against them is boosted by 30%.
+Al ser atacado, la Velocidad del atacante es reducida, y el siguiente ataque del Pokémon contra este será potenciado un 30%.
+Every three turns it gets to move twice.
+Cada tres turnos obtiene un turno extra.
+After knocking out any Pokémon, summons eclipse for four turns.
+Al debbilitar a un Pokémon, invoca eclipse durante cuatro turnos.
+Flinching moves always activate their random effects. However, this Pokémon deals 10% less move damage.
+Movimientos que amedrentan siempre activan sus efectos secundarios. Pero los ataques del Pokémon son un 10% más débiles.
+Heals 1/16th HP every turn. Takes half damage from Fire- and Ice-type moves.
+Recupera 1/16 de sus PS totales cada turno. Movimientos tipo Fuego y Hielo lo dañan por la mitad.
+Non-biting attacks deal 50% more damage if this Pokémon used a biting move last turn.
+Potencia movimientos que no sean de mordida un 50% si el Pokémon usó un movimiento de mordida en el turno anterior.
+During moonglow, take 35% less damage from attacks that aren't Steel-type.
+Bajo brillo lunar, recibe 35% menos daño de ataques que no sean de tipo Acero.
+After knocking out any Pokémon, summons moonglow for four turns.
+Al debilitar a un Pokémon, invoca brillo lunar durante cuatro turnos.
+This Pokémon cannot faint while rampaging, and rampages for an additional turn.
+Este Pokémon no puede ser debilitado mientras arrasa, y arrasa durante un turno adicional.
+This Pokémon's Dragon-type attacks become spread and drain 33% HP.
+Los ataques de tipo Dragón del Pokémon atacan a todo el lado contrario y drenan un 33% de PS.
+Changes into another form of your choosing when its HP is lowered below half.
+Cambia en otra forma a tu elección cuando sus PS son reducidos a la mitad o menos.
+During the Full Moon, this Pokémon saps the enemy Pokémon of their vitality, leeching them.
+Durante una Luna Llena, el Pokémon infecta a los Pokémon enemigos.
+Powers up all tagged moves by 20%.
+Potencia movimientos de cualquier clase un 20%.
+Upon entry, summons Autumn Harvests on this Pokémon's side for four turns.
+Al entrar al campo, invoca Cosechas de Otoño en el lado del Pokémon durante cuatro turnos.
+Upon entry, summons Spring Plantings on this Pokémon's side for four turns.
+Al entrar al campo, invoca Siembras de Privamera en el lado del Pokémon durante cuatro turnos.
+Upon entry, summons Summer Festivals on this Pokémon's side for four turns.
+Al entrar al campo, invoca Festivales de Verano en el lado del Pokémon durante cuatro turnos.
+Upon entry, summons Winter Hunts on this Pokémon's side for four turns.
+Al entrar al campo, invoca Cazas de Invierno en el lado del Pokémon durante cuatro turnos.
 [12]
 0
 Normal
