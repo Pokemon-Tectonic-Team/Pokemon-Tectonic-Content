@@ -140,6 +140,11 @@ Description = When free from non-volatile status conditions, non-damaging moves 
 Name = Bad Omen
 Description = Foretelling moves hit two turns quicker and deal 30% more damage.
 #-------------------------------
+[BAITFISH]
+Name = Bait Fish
+Description = Draws in moves from foes.
+Flags = Immutable
+#-------------------------------
 [BALLLIGHTNING]
 Name = Ball Lightning
 Description = Deals more damage to targets the faster it is than them. Up to a 50% bonus at double Speed.
@@ -151,10 +156,6 @@ Description = Your Poké Balls are 50% more effective.
 [BARRIERMAKER]
 Name = Barrier Maker
 Description = Sets a Reflect for four turns upon entry.
-#-------------------------------
-[BATTLEHARDENED]
-Name = Battle-Hardened
-Description = Raises Defense and Sp. Def by three steps when its HP is lowered below half.
 #-------------------------------
 [BEAMING]
 Name = Beaming
@@ -462,7 +463,7 @@ Description = At the end of each turn, its Sp. Atk is lowered. Then, you choose 
 #-------------------------------
 [DISASTERRESPONSE]
 Name = Disaster Response
-Description = This Pokemon gains an extra turn whenever it gains a non-volatile status condition or becomes trapped.
+Description = This Pokémon gains an extra turn whenever it gains a non-volatile status condition or becomes trapped.
 #-------------------------------
 [DISCOMBOBULATOR]
 Name = Discombobulator
@@ -757,6 +758,10 @@ Description = Doubles this Pokémon's Speed in Rooms.
 Name = Forewarning
 Description = Foretelling moves also hit for half power on the turn they are used.
 #-------------------------------
+[FORTIFIED]
+Name = Fortified
+Description = Take 30% less damage from attacks on turns when it hasn't moved yet.
+#-------------------------------
 [FREERIDE]
 Name = Free Ride
 Description = Raises other allies' Speed by two steps upon entry.
@@ -772,7 +777,7 @@ Flags = Immutable
 #-------------------------------
 [FRIGHTENINGFANGS]
 Name = Frightening Fangs
-Description = After using a Bite move, lowers the target's highest attacking stat by 2 steps.
+Description = After using a Bite move, lowers the target's highest attacking stat by two steps.
 #-------------------------------
 [FRIGIDREFLECTION]
 Name = Frigid Reflection
@@ -794,7 +799,7 @@ Description = Upon entry, lowers the foe's Speed stat by two steps.
 #-------------------------------
 [FUELHUNGRY]
 Name = Fuel Hungry
-Description = Boosts Attack by 30%, but lowers Attack after using a physical move.
+Description = Boosts move damage by 50%, but lowers the attacking stat that was used by two steps.
 #-------------------------------
 [FULLBLUBBER]
 Name = Full Blubber
@@ -891,14 +896,14 @@ Flags = HailSynergy
 Name = Hand Off
 Description = Trapping and binding effects against an enemy are passed over to an ally that swaps in for this Pokémon.
 #-------------------------------
+[HAPHAZARD]
+Name = Haphazard
+Description = This Pokémon deals 30% more damage with "two to five" multi-hit moves and moves with less than 100% accuracy.
+#-------------------------------
 [HARBINGER]
 Name = Harbinger
 Description = Summons eclipse for four turns upon entry.
 Flags = EclipseSynergy
-#-------------------------------
-[HARDAS]
-Name = Hard As
-Description = If an attack lowers this Pokémon's HP below half, the attacker becomes fractured.
 #-------------------------------
 [HARDFALL]
 Name = Hard Fall
@@ -1234,6 +1239,10 @@ Description = Multi-hit moves can hit up to twice as many times.
 Name = Long Receiver
 Description = Copies the Ability of this Pokémon it switches in to replace.
 #-------------------------------
+[LONGTERMVIEW]
+Name = Long-term View
+Description = Effects placed by this Pokemon last 50% longer.
+#-------------------------------
 [LOUD]
 Name = Loud
 Description = Boosts power of sound-based moves by 30%.
@@ -1520,10 +1529,6 @@ Description = This Pokémon's hits deal half damage unless they are critical.
 Name = Perfect Luck
 Description = Maximizes the frequency of multi-hit moves. Always deals critical hits.
 #-------------------------------
-[PERSISTENTGROWTH]
-Name = Persistent Growth
-Description = At the end of each of its turns, Speed is lowered but every other stat is raised.
-#-------------------------------
 [PESTILENT]
 Name = Pestilent
 Description = While this Pokémon is below half health, its attacks leech those hit.
@@ -1547,6 +1552,10 @@ Description = This Pokémon's moves deal 50% more damage if they're a different 
 [PIERCINGPOISON]
 Name = Piercing Poison
 Description = Poison-type foes can be poisoned. Poison applied to foes starts already worsened.
+#-------------------------------
+[PILEON]
+Name = Pile On
+Description = Every three turns, this Pokémon gains a stockpile.
 #-------------------------------
 [PINDOWN]
 Name = Pin Down
@@ -1688,7 +1697,7 @@ Description = On the first turn, its attacks poison the target.
 #-------------------------------
 [RAPIDREFRESH]
 Name = Rapid Refresh
-Description = Restores 50% of max HP and heals all non-volatile status conditions when switched out.
+Description = Heals 1/8th HP every turn if hit by an attack.
 #-------------------------------
 [RATTLEEM]
 Name = Rattle 'Em
@@ -2206,6 +2215,10 @@ Description = When an ally switches in, this Pokémon's Speed is increased.
 [SWIFTSTOMPS]
 Name = Swift Stomps
 Description = This Pokémon's Speed is doubled while using kicking moves.
+#-------------------------------
+[SWORDBREAKER]
+Name = Sword Breaker
+Description = If an attack lowers this Pokémon's HP below half, the attacker becomes fractured.
 #-------------------------------
 [SWORDPLAY]
 Name = Swordplay

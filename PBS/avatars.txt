@@ -55,7 +55,7 @@ Turns = 1
 HPMult = 2.0
 #-------------------------------
 [REMORAID]
-Ability = JUGGERNAUT
+Ability = INKSPRAY
 Moves1 = BRINE
 Turns = 1
 HPMult = 2.0
@@ -275,7 +275,7 @@ Moves3 = STRATOSPHERESCREAM,FLING,ACROBATICS,ZENHEADBUTT
 HPMult = 12.0
 #-------------------------------
 [RHYPERIOR]
-Ability = HARDAS
+Ability = HAPHAZARD
 Moves1 = TRAMPLE,ROCKAPULT,PRIMEVALIGNITE
 Moves2 = FIREBLAST,STONEEDGE
 Item = LAGGINGTAIL

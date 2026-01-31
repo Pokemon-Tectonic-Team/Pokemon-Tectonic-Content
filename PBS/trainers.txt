@@ -73,7 +73,7 @@ Pokemon = CHEWTLE,10
 [NINJABOY,Matthew]
 Pokemon = BONSLY,12
     Moves = SLINGSHOT,VALORBOLT,EMBRITTLE
-    AbilityIndex = 0 # Desiccate
+    AbilityIndex = 1 # Prankster
 Pokemon = NINCADA,12
     Moves = FEEDON,HARDEN,RUMBLE,BITE
     AbilityIndex = 0 # Speed Boost
@@ -104,7 +104,7 @@ Pokemon = AZURILL,14
 Pokemon = WINGULL,14
     AbilityIndex = 0 # Cheek Pouch
 Pokemon = TEPIG,14
-    Moves = KINDLE,LEER,SCUFFLE
+    Moves = KINDLE,LEER,TREADON,SCUFFLE
     AbilityIndex = 0 # Roast
 #-------------------------------
 [LADY2,Rebecca]
@@ -2073,8 +2073,8 @@ Pokemon = TROPIUS,38
     AbilityIndex = 1 # Berry Bunch
     Item = YACHEBERRY,OCCABERRY
 Pokemon = SWALOT,39
-    Moves = STELLARATE,CLEARSMOG,ENCORE,YAWN
-    AbilityIndex = 0 # Thick Fat
+    Moves = SPITUP,CLEARSMOG,ENCORE,YAWN
+    AbilityIndex = 0 # Pile On
 #-------------------------------
 [CEO,Beatrice]
 Policies = PRESERVE_LAST_POKEMON
@@ -2294,8 +2294,8 @@ Pokemon = SWANNA,40
     AbilityIndex = 0 # Intimidate
     Item = FAIRYGEM
 Pokemon = RHYDON,40
-    Moves = DRILLRUN,BEDROCKBREAKER,ACCELEROCK,STEALTHROCK
-    AbilityIndex = 0 # Reckless
+    Moves = DRILLRUN,BEDROCKBREAKER,SHATTERSHOT,STEALTHROCK
+    AbilityIndex = 0 # Fortified
 #-------------------------------
 [SMASHER,Stella]
 Pokemon = SHUCKLE,40
@@ -2340,7 +2340,7 @@ Pokemon = CHANDELURE,70
 Pokemon = CROBAT,70
     AbilityIndex = 0 # Inner Focus
 Pokemon = SWALOT,70
-    AbilityIndex = 0 # Thick Fat
+    AbilityIndex = 0 # Pile On
 Pokemon = HYDREIGON,70
     AbilityIndex = 0 # Vicious Cycle
 #-------------------------------
@@ -2566,7 +2566,7 @@ Pokemon = FALINKS,70
 Pokemon = EXPLOUD,70
     AbilityIndex = 0 # Echo
 Pokemon = RHYPERIOR,70
-    AbilityIndex = 0 # Reckless
+    AbilityIndex = 0 # Fortified
 Pokemon = YANMEGA,70
     AbilityIndex = 1 # Tinted Lens
 Pokemon = DHELMISE,70
@@ -2937,7 +2937,7 @@ Pokemon = SUDOWOODO,40
     EV = 20,10,10,0,10,10
 Pokemon = BASTIODON,40
     Moves = SHIELDINGBASH,BODYPRESS,STOMPINGTANTRUM,WIDEGUARD
-    AbilityIndex = 1 # Battle-Hardened
+    AbilityIndex = 1 # Sword Breaker
     Item = AIRBALLOON
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 20,0,20,0,0,10
@@ -3998,8 +3998,8 @@ Pokemon = VILEPLUME,43
     Moves = POISONIVY,GIGADRAIN,SLUDGEWAVE,ALLERGY
     AbilityIndex = 0 # Sickening
 Pokemon = RHYPERIOR,44
-    Moves = DRILLRUN,ADAMANTINEPRESS,ACCELEROCK,POISONJAB
-    AbilityIndex = 1 # Hard As
+    Moves = SEISMICWAVE,ADAMANTINEPRESS,DIG,POISONJAB
+    AbilityIndex = 0 # Fortified
     Item = LUCKHERB
 #-------------------------------
 [BEAUTY3,Ester]
@@ -5739,9 +5739,9 @@ Pokemon = WORNET,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 10,20,0,20,20,0
 Pokemon = SWALOT,70
-    Moves = BUBBLEBLASTER,ACIDSPRAY,CLEARSMOG,SHADOWBALL
-    AbilityIndex = 0 # Thick Fat
-    Item = STRIKEVEST
+    Moves = STOCKPILE,SWALLOW,SPITUP,CLEARSMOG
+    AbilityIndex = 0 # Pile On
+    Item = LEFTOVERS
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 20,0,15,0,0,15
 Pokemon = BRAVIARY,70
@@ -5751,7 +5751,7 @@ Pokemon = BRAVIARY,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 10,20,0,20,20,0
 #-------------------------------
-[LEADER_Samorn_2,Samorn,2]
+[LEADER_Samorn,Samorn,2]
 Flags = NoPerfect
 Pokemon = RUNERIGUS,70
     Moves = STEALTHROCK,SIXFEETUNDER,PAINSPLIT,WILLOWISP
@@ -5789,7 +5789,7 @@ Pokemon = WORNET,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 0,20,10,20,20,0
 #-------------------------------
-[LEADER_Samorn_2,Samorn,3]
+[LEADER_Samorn,Samorn,3]
 ExtendsVersion = 2
 Policies = CURSE_SUPER_ITEMS
 Pokemon = RUNERIGUS,70
@@ -5806,7 +5806,7 @@ Pokemon = GOLEM,70
 Pokemon = WORNET,70
     Item = STRIKECORSET
 #-------------------------------
-[LEADER_Lambert_2,Lambert,2]
+[LEADER_Lambert,Lambert,2]
 Flags = NoPerfect
 Pokemon = ZOROARK,70
     Moves = DREAMDANCE,BLACKOUT,MASSDESTRUCTION,PSYCHIC
@@ -5844,7 +5844,7 @@ Pokemon = AEGISLASH,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 20,20,5,0,20,5
 #-------------------------------
-[LEADER_Lambert_2,Lambert,3]
+[LEADER_Lambert,Lambert,3]
 ExtendsVersion = 2
 Policies = CURSE_SUPER_ITEMS
 Pokemon = ZOROARK,70
@@ -5863,7 +5863,7 @@ Pokemon = INFERNAPE,70
 Pokemon = AEGISLASH,70
     Item = SPELLBELL
 #-------------------------------
-[LEADER_Eko_2,Eko,2]
+[LEADER_Eko,Eko,2]
 Flags = NoPerfect
 Pokemon = INCINEROAR,70
     Moves = DARKESTLARIAT,FLAMESPIKES,PARTINGSHOT,FLAREBLITZ
@@ -5901,7 +5901,7 @@ Pokemon = ARAICHU,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 10,20,0,20,20,0
 #-------------------------------
-[LEADER_Eko_2,Eko,3]
+[LEADER_Eko,Eko,3]
 ExtendsVersion = 2
 Policies = CURSE_SUPER_ITEMS
 Pokemon = INCINEROAR,70
@@ -6127,7 +6127,7 @@ Pokemon = OCTILLERY,70
 Pokemon = SLOWBRO,70
     Item = SITREONBERRY
 #-------------------------------
-[LEADER_Helena_2,Helena,2]
+[LEADER_Helena,Helena,2]
 Flags = NoPerfect
 Pokemon = PINCURCHIN,70
     Moves = POISONSPIKES,THUNDERBOLT,EXPLOSION,ELECTROWEB
@@ -6165,7 +6165,7 @@ Pokemon = ARCLAMOR,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 10,20,0,20,20,0
 #-------------------------------
-[LEADER_Helena_2,Helena,3]
+[LEADER_Helena,Helena,3]
 ExtendsVersion = 2
 Policies = CURSE_SUPER_ITEMS
 Pokemon = PINCURCHIN,70
@@ -6182,7 +6182,7 @@ Pokemon = FEAROW,70
 Pokemon = ARCLAMOR,70
     Item = LEADBALLOON
 #-------------------------------
-[LEADER_Bence_2,Bence,2]
+[LEADER_Bence,Bence,2]
 Flags = NoPerfect
 Pokemon = ARCHEOPS,70
     Moves = STEALTHROCK,TAILWIND,PARTINGSHOT,POWERGEM
@@ -6220,7 +6220,7 @@ Pokemon = DRAGONITE,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 20,20,0,10,20,0
 #-------------------------------
-[LEADER_Bence_2,Bence,3]
+[LEADER_Bence,Bence,3]
 ExtendsVersion = 2
 Policies = CURSE_SUPER_ITEMS
 Pokemon = ARCHEOPS,70
@@ -7477,10 +7477,10 @@ Pokemon = RELICANTH,60
     Moves = HARBORBREAKER,BEDROCKBREAKER,WILDCHARGE,FLOODGATE
     AbilityIndex = 0 # Trench Carver
     Item = ROCKGEM
-Pokemon = CORSOLA,60
-    Moves = RECOVER,MOONBLAST,SLAMSHUT,PROTECT
-    AbilityIndex = 0 # Persistent Growth
-    Item = LEFTOVERS
+Pokemon = CURESOLA,60
+    Moves = RECOVER,SUPERSTITION,GLIMMERPULSE,CORALOVERGROWTH
+    AbilityIndex = 0 # Long-term View
+    Item = FAIRYGEM
 Pokemon = HITMONLEE,60
     Moves = WHIRLWINDKICK,WHIPKICK,BLAZEKICK,STOMPINGTANTRUM
     AbilityIndex = 0 # Iron Heel
@@ -7804,8 +7804,8 @@ Pokemon = MGOLDEEN,15
 #-------------------------------
 [CHALLENGER_Vanya,Vanya,1]
 Flags = NoPerfect
-Pokemon = GULPIN,20
-    AbilityIndex = 0 # Thick Fat
+Pokemon = SKRELP,20
+    AbilityIndex = 1 # Water Absorb
 Pokemon = MROGGENROLA,20
     AbilityIndex = 0 # Time Interloper
 Pokemon = BARBOACH,20
@@ -7947,7 +7947,7 @@ Pokemon = MANERGETIC,70
 [POKEMONMASTER_Vanya,Vanya,4]
 Flags = NoPerfect
 Pokemon = BASTIODON,70
-    AbilityIndex = 1 # Battle-Hardened
+    AbilityIndex = 1 # Sword Breaker
 Pokemon = SAWSBUCK,70
     Form = 3 # Winter Form
     AbilityIndex = 0 # Serene Grace
@@ -9005,7 +9005,7 @@ Pokemon = CARNIVINE,70
     Item = STRIKEVEST
 Pokemon = BASTIODON,70
     Moves = CURLUP,SHOREUP,FARADAYCAGE,BODYPRESS
-    AbilityIndex = 1 # Battle-Hardened
+    AbilityIndex = 1 # Sword Breaker
     Item = SITRUSBERRY
 Pokemon = SCRAFTY,70
     Moves = DRAGONDANCE,BROWBEAT,DRAINPUNCH,IRONHEAD
