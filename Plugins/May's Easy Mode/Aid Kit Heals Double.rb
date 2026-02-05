@@ -1,0 +1,3 @@
+# Aid kit heals more
+AID_KIT_BASE_HEALING = 50
+HEALING_UPGRADE_AMOUNT = 20
