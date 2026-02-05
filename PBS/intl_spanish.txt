@@ -3526,7 +3526,7 @@ The Tournament has been growing in size and prestige every year.
 El Torneo ha estado creciendo en tamaño y prestigio cada año.
 Makyans have been battling here ever since Trainers became a thing.
 La gente de Makya ha estado combatiendo aquí desde la existencia de los Entrenadores.
-However, it got seriously large and respected once LuxTech started pumped in a bunch of sponsor money.
+However, it got seriously large and respected once LuxTech started pumping in a bunch of sponsor money.
 Sin embargo, pasó a ser especialmente grande y respetado una vez LuxTech empezó a poner un montón de dinero como patrocinador.
 Wow, a wallhacker! #content
 Tremendo, ¡Un atravesador de paredes! #contenido
@@ -4167,7 +4167,7 @@ First, you should restore your Pokémon to full health.
 Primero, deberías curar a tus Pokémon por completo.
 We hope you excel!
 ¡Te deseamos suerte!
-After beating the seventh gym, I decided that me and the team needed a vacation.
+After beating the seventh gym, I decided that the team and I needed a vacation.
 Después de vencer al séptimo gimnasio, decidí que mi equipo y yo necesitamos unas vacaciones.
 Need to be rested up before the championship, right?
 Hay que estar descansados antes del campeonato, ¿No?
@@ -6862,6 +6862,8 @@ A Glaceon used Aurora Veil and Frost Breath in sequence.
 Un Glaceon acaba de usar Velo Aurora y Vaho Gélido de forma seguida.
 The live audience is enraptured by the spectacular display!
 ¡El público es fascinado por la espectacular demostración!
+I'll trade you for any Normal-type Pokemon.
+Te intercambiaré cualquier Pokémon tipo Normal.
 [Map72]
 
 I was attacked by an avatar a few weeks ago.
@@ -7531,6 +7533,8 @@ Guides on teambuilding lay atop pages of basic arithmetic homework.
 Guías de teambuilding cubren páginas de tarea de aritmética básica.
 Need I remind you--knowledge is its own reward.
 Debo recordarte--el conocimiento es su propia recompensa.
+Looks like you prevailed against our most skilled staff in this facility. Great work!
+Parece que te hiciste frente a nuestros empleados más habilidosos. ¡Bien hecho!
 [Map80]
 
 Oh, hey. Didn't see you there. Nice to meet you.
@@ -8946,10 +8950,12 @@ If not, forgive this flight of fancy wasting your time. Remember: SHE came up wi
 Si no, perdona esta elucubración por hacer perder tu tiempo. Recuerda: a ELLA se le ocurrió la idea.
 Hmm… maybe this trip was worth more than that changeling imagines.
 Hmm… Quizás este viaje valió más que esa imaginación de un cambio.  
-If you ever find yourself in the <imp>urban expanse</imp> with naught to do, find me.
-Si te encuentras a ti mismo en la <imp>extensión urbana</imp> con nada que hacer, encuéntrame.
+If you ever find yourself in the <imp>urban expanse</imp> of Prizca with naught to do, find me.
+Si te encuentras a ti mismo en la <imp>extensión urbana</imp> de Prizca sin nada que hacer, encuéntrame.
 I’ll be in the <imp>business sector</imp>, like as not. I have plans involving you and yours.
 Estaré en el <imp>sector urbano</imp>, como si nada. Tengo planes que te involucran.
+I’ll be at the riverside, like as not. I have plans involving you and yours.
+Estaré al lado del río, como si nada. Tengo planes que te involucran.
 Whoa! Is all well?
 ¡Wow! ¿Está todo bien?
 Here – I suppose I can spare some supplies. Let us get your team in shape, shall we?
@@ -10654,7 +10660,7 @@ It's slightly slick to the --
 Es ligeramente escurridizo al --
 The Lickitung is unable to move, and in obvious distress.
 El Lickitung no puede moverse, y obviamente estresado.
-You apply the Moomoo Milk to the Lickitung, In an instant, it breaks free, shaking off bits of stone.
+You apply the Moomoo Milk to the Lickitung. In an instant, it breaks free, shaking off bits of stone.
 Le aplicas la Leche Mu-mu al Lickitung, en un instante, se libera, sacudiéndose pedazos de piedra.
 Lickitung brings over the Pokeball and enters it in front of you.
 Lickitung trae la Poké Ball y entra en ella en frente de ti.
@@ -12512,6 +12518,12 @@ Hmm.... should I go make a different team? Agh, I'm not sure...
 Hmm.... ¿debería hacer un equipo diferente? Ahh, no lo sé...
 If only I had chosen different moves. Maybe I could have won that one.
 Si tan solo hubiera elegido diferentes movimientos. Quizás podría haber ganado en ese momento.
+That being said... where has Michi gone off to? She was here a moment ago...
+Dicho esto... ¿a dónde fue Michi? Estaba aquí hasta solo hace un momento...
+There you are! Come on Michi, we have a job to do.
+¡Aquí estás! Vamos Michi, tenemos trabajo que hacer.
+I gotta skedaddle, but if you wanna meet up, I'll be in <imp>Whitebloom Town</imp>.
+Debo salir pitando, pero si quieres verme, estaré en <imp>Pueblo Whitebloom</imp>.
 [Map157]
 
 The destruction of the bridge over at the Eleig River Crossing has really put a hamper on things.
@@ -19624,120 +19636,6 @@ First-rate Trainers gather here as a proving ground of sorts.
 Entrenadores del más alto nivel se juntan aquí para ponerse a prueba. 
 If you're trying to head to Whitebloom, good luck getting through it all.
 Si estás intentando llegar a Whitebloom, buena suerte en atravesar todo eso.
-Hey!
-¡Hey!
-Hey hey hey hey!
-¡Hey hey hey hey!
-OK, so, like, I know what you’re thinking: "Wow, Candy, you’re, like,
-Ok, entonces, sí, sé lo que estás pensando: "Wow, Candy, eres, como,
-super-cool for hanging out in such a super-cool place full of dangerous trainers." And, uh, yeah, thank you for noticing, I totally am.
-super-genial por estar en un lugar super-genial lleno de entrenadores peligrosos." Y, eh, seh, gracias por notarlo, realmente lo soy.
-But I’ve got a reason, and it’s not even illegal!
-Pero tengo un motivo, ¡Y ni siquiera es ilegal!
-So, apparently Tamarind shows up in Whitebloom Town every few months to like check in or whatever, and I just did a li'l recon and...
-Así que, aparentemente Tamarind aparece en Pueblo Whitebloom cada varios meses para ver qué tal o lo que sea, así que hice un pequeño reconocimiento y...
-OK, maybe it was actually a little illegal.
-Ok, quizás sí fue un poco ilegal.
-No, shh, I can feel you, like, being judgy right now, and I totally don’t need that energy in my life right now.
-No, shh, puedo sentir que estás siendo, como, muy juzgón, y realmente no necesito esa energía en mi vida ahora mismo.
-Because she’s the second-in-command of all Team Chasm! Like, duh!
-¡Porque ella es la segunda al mando de todo Team Chasm! ¡Osea, duh!
-She’s probably at the top of my hit list – I kinda forgot where I put it and now I can’t find it anymore but it’s almost 100 percent got her name in
-Ella probablemente está en lo más arriba de mi lista negra – medio que olvidé donde la puse y ya no puedo encontrarla pero es casi 100 por cien seguro que tengo su nombre en
-big letters at the top!
-grandes letras en lo alto!
-Ugh, I can’t believe how on the same wavelength we are. You are like my buddy cop soulmate.
-Ugh, no puedo creer cómo estamos en la misma onda. Eres como mi alma gemela pero como mi compañero en robos.
-Oh, uh, yeah, sorry, hi, love you too. Cool?
-Oh, eh, sí, lo siento, hola, también te amo. ¿Bien?
-Cool. Let’s talk about the interesting stuff!
-Bien. ¡Hablemos de las cosas interesantes!
-So, I broke into the abandoned lab and rooted around in there – which, it’s like mega-abandoned and super unsafe but, um, who cares – and found these.
-Entonces, entré al laboratorio abandonado y me quedé allí – el cual, está como mega-abandonado y es súper peligroso pero, em, a quién le importa – y encontra estos.
-Um, which is the part where I’d show you the stuff I’d found but I kinda shoved it in my backpack and that place is a total mess.
-Em, esta es la parte en la que te mostraría lo que encontré pero lo puse en mi mochila y ese lugar es todo un desastre.
-So, uh, instead of digging it out, just take my word on it!
-Así que, eh, en vez de buscarlo, ¡Sólo confía en mí!
-It’s this like dossier on a whole bunch of old Team Chasm operations that Tamarind must’ve left in there and forgot about!
-¡Es como un expediente en un montón de operaciones antiguas del Team Chasm que Tamarind debió dejar ahí y olvidar luego!
-Oh, all kinds of stuff with these, like, killer names.
-Oh, hay de todo aquí, tipo, tremendos nombres.
-Like “Operation Vagabond Plumage” or “Operation Cardinal Sin” or “Project Theodicy.” It gives me happy chills just thinking about it!
-Como "Operación Plumaje Vagabundo" o "Operación Pecado Cardinal" o "Proyecto Teodicea." ¡Me pone la piel de gallina de solo pensarlo!
-Yeah, but she’s like totally on that grindset 24/7 with running ex-Chasm stuff plus Professor work plus bureaucracy.
-Seh, pero ella está totalmente en esa rutina de 24/7 entre manejar a los ex-Chasm más trabajo de Profesor más burocracia.
-I knew she had to slip up eventually! Can’t just chug coffee forever!
-¡Sabía que tenía que meter la pata eventualmente! ¡No puede atragantarse con café para siempre!
-What? No! No way!
-¿Qué? ¡No! ¡Ni hablar!
-OK, wait, like, maybe that’s a good idea?
-Ok, espera, de hecho, ¿Quizás sí es una buena idea?
-Like, if I’ve already got everything I need to know, I can totally get her to lower her guard by giving it back.
-Bien, si ya tengo todo lo que tengo que saber, puedo realmente bajar su guarda al devolverlo.
-Anyways, the main thing I actually, like,
-Como sea, lo que realmente, tipo,
-care about is \nthis after-action report for something called “Project Testament.” Y’know how Velenz is, like, this total ghost town?
-me importa es \neste reporte para algo llamado "Proyecto Testamento". Ya sabes como Velenz es, tipo, ¿Todo un pueblo fantasma?
-Well if I’m reading this right – and I had to look up a few words but I think I am – Team Chasm caused that!
-Bueno si estoy leyendo esto correctamente – y tuve que buscar un par de palabras pero creo que lo estoy – ¡El Team Chasm causó eso!
-They found some way to make avatars show up and secretly made them swarm the town, ‘cause apparently Velenz was super-resistant to helping.
-Encontraron una forma para que los avatares aparezcan y secretamente hicieron que vayan al pueblo 'porque aparentemente Velenz fue súper-resistente a ayudar.
-Then they, like, intentionally lured avatars into the caves around there to mess up the foundations, and the whole thing started to sink into the mud!
-Entonces ellos, tipo, intencionalmente atrayeron avatares a las cuevas alrededor para arruinar los cimientos, ¡Y todo el pueblo empezó a hundirse en el lodo!
-Seriously, it’s screwed-up!
-En serio, ¡Es demasiado jodido!
-Yeah! Like, this is the stuff Team Chasm did, and people are still, like, totally OK with them running around!
-¡Sí! Osea, estas son las cosas que el Team Chasm hizo, y la gente todavía está, como, ¡Totalmente bien que ellos sigan por ahí! 
-Um... not completely sure, but I’m absolutely certain they did some evil stuff there, OK?
-Em... no estoy completamente segura, pero estoy absolutamente convencida de que hicieron cosas malvadas allí, ¿Ok? 
-I don’t know how they did it, or if the whole, uh, what was it called... “soil liquefication?”
-No sé cómo lo hicieron, o si toda esa, eh, cómo se llamaba... "¿Licuación del suelo?"
-Yeah, I dunno if that was intentional or not, but the report is pretty damn happy about it!
-Seh, no sé si eso fue intencional o no, ¡Pero estos reportas están muy contentos al respecto!
-I mean, like, kinda? The report doesn’t really get into the hows or whys that much, but, like, c’mon!
-Osea, tipo, ¿Más o menos? El reporte no detalla los cómos o porqués, pero, osea, ¡Vamos!
-If you don’t like these people, just, like, fight them? This is messed up.
-Si no te gusta esta gente, sólo, osea, ¿Combate contra ellos? Esto es jodido.
-No!
-¡No! 
-No, no, no. No talking.
-No, no, no. Nada de hablar.
-I know you’re friends with Tamarind, and, like, yeah, she did you a favor, and she’s cool. But this lady has done some evil stuff.
-Sé que Tamarind es tu amiga, y, osea, sí, te hizo un favor, y ella es genial. Pero esta señorita ha hecho cosas malvadas.
-I’ve got a plan to confront her, and I want your help, alright?
-Tengo un plan para enfrentarla, y quiero tu ayuda, ¿Bien?
-Once the tournament is about to start, pretty much everybody is gonna be there, so there’s gonna be way less goons just out and about.
-Una vez que el torneo esté a punto de empezar, prácticamente todos van a estar ahí, así que habrá menos matones de un lado para el otro.
-I’ll send her an anonymous li’l letter – ooh, I can cut up the dossiers for letters and glue them together! That’s awesome!
-¡Le enviaré una una cartita anónima – ooh, ¡éuedo recortar las letras del expediente y pegarlas juntas! ¡Eso es increíble!
-Anyways, yeah, send her a letter, tell her to come to the <imp>sewer maintenance building on the river banks</imp>. She’ll be there.
-Como sea, seh, mándale una carta, dile que venga al <imp>edificio de mantenimiento de las alcantarillas en la ribera</imp>. Ellá estará allí.
-Then you and me – we get some justice.
-Después tú y yo – conseguiremos justicias.
-Alright? Alright! Great, cool, not gonna let you respond to that because honestly you can’t change my mind!
-¿Bien? ¡Bien! Genial, perfecto, no te dejaré responderme a eso porque la verdad no puedes hacerme cambiar de opinión!
-You’re my friend and partner in crime and definitely not the minion of an evil mastermind! Toodles!
-¡Eres mi amigo y cómplice y definitivamente no el lacayo de un genio del mal! ¡Adiosito!
-Candy...
-Candy...
-Why Tamarind?
-¿Por qué Tamarind?
-Cool. What'd you find?
-Genial. ¿Qué encontrastE!
-Good to see you too.
-Es bueno verte.
-Like what?
-¿Cómo qué?
-Sloppy.
-Descuidado.
-Give it back.
-Devuélvelo.
-That's... horrible.
-Eso es... horrible.
-Are you sure?
-¿Segura?
-Impressive.
-Impresivo.
 I gotta talk to Tamarind.
 Debo hablar con Tamarind.
 HELP ME, LAINIE! HELP ME!
@@ -21116,6 +21014,12 @@ Don't give coffee.
 No dar café.
 Give coffee.
 Dar café.
+Exploring ruins is my hobby, my passion... my life.
+Explorar ruinas es mi hobby, mi pasión... mi vida.
+But I've already explored all the legal ones. And most of the illegal ones.
+Pero ya he explorado todas las legales. Y la mayoría de ilegales.
+Maybe you could do me a favor and... make a few more?
+Quizás podrías hacerme un favor y... ¿crear un par más?
 [Map293]
 
 Me and sister are much better battlers than our parents.
@@ -22574,6 +22478,123 @@ The trash can is filled entirely with old paperwork.
 El cubo de basura está lleno con papeleo antiguo.
 With the lack of light, you can't make out the book titles.
 Al no haber luz, no puedes ver los títulos de los libros.
+Hey!
+¡Hey!
+Hey hey hey hey!
+¡Hey hey hey hey!
+OK, so, like, I know what you’re thinking: "Wow, Candy, it’s super cool that we’re like right next door to where the girl who defeated Team Chasm grew up."
+Osea, entonces, sí, sé lo que estás pensando: "Wow Candy, es súper genial que estemos justo al lado de la casa de la chica que venció al Team Chasm."
+And, uh, yeah, it totally is.
+Y, eh, sí, lo es.
+But I’ve got a reason, and it’s not even illegal!
+Pero tengo un motivo, ¡Y ni siquiera es ilegal!
+So, apparently Tamarind shows up in Whitebloom Town every few months to like check in or whatever, and I just did a li'l recon and...
+Así que, aparentemente Tamarind aparece en Pueblo Whitebloom cada varios meses para ver qué tal o lo que sea, así que hice un pequeño reconocimiento y...
+OK, maybe it was actually a little illegal.
+Ok, quizás sí fue un poco ilegal.
+No, shh, I can feel you, like, being judgy right now, and I totally don’t need that energy in my life right now.
+No, shh, puedo sentir que estás siendo, como, muy juzgón, y realmente no necesito esa energía en mi vida ahora mismo.
+Because she’s the second-in-command of all Team Chasm! Like, duh!
+¡Porque ella es la segunda al mando de todo Team Chasm! ¡Osea, duh!
+She’s probably at the top of my hit list – I kinda forgot where I put it and now I can’t find it anymore but it’s almost 100 percent got her name in
+Ella probablemente está en lo más arriba de mi lista negra – medio que olvidé donde la puse y ya no puedo encontrarla pero es casi 100 por cien seguro que tengo su nombre en
+big letters at the top!
+grandes letras en lo alto!
+Ugh, I can’t believe how on the same wavelength we are. You are like my buddy cop soulmate.
+Ugh, no puedo creer cómo estamos en la misma onda. Eres como mi alma gemela pero como mi compañero en robos.
+Oh, uh, yeah, sorry, hi, love you too. Cool?
+Oh, eh, sí, lo siento, hola, también te amo. ¿Bien?
+Cool. Let’s talk about the interesting stuff!
+Bien. ¡Hablemos de las cosas interesantes!
+So, I broke into the abandoned lab and rooted around in there – which, it’s like mega-abandoned and super unsafe but, um, who cares – and found these.
+Entonces, entré al laboratorio abandonado y me quedé allí – el cual, está como mega-abandonado y es súper peligroso pero, em, a quién le importa – y encontra estos.
+Um, which is the part where I’d show you the stuff I’d found but I kinda shoved it in my backpack and that place is a total mess.
+Em, esta es la parte en la que te mostraría lo que encontré pero lo puse en mi mochila y ese lugar es todo un desastre.
+So, uh, instead of digging it out, just take my word on it!
+Así que, eh, en vez de buscarlo, ¡Sólo confía en mí!
+It’s this like dossier on a whole bunch of old Team Chasm operations that Tamarind must’ve left in there and forgot about!
+¡Es como un expediente en un montón de operaciones antiguas del Team Chasm que Tamarind debió dejar ahí y olvidar luego!
+Oh, all kinds of stuff with these, like, killer names.
+Oh, hay de todo aquí, tipo, tremendos nombres.
+Like “Operation Vagabond Plumage” or “Operation Cardinal Sin” or “Project Theodicy.” It gives me happy chills just thinking about it!
+Como "Operación Plumaje Vagabundo" o "Operación Pecado Cardinal" o "Proyecto Teodicea." ¡Me pone la piel de gallina de solo pensarlo!
+Yeah, but she’s like totally on that grindset 24/7 with running ex-Chasm stuff plus Professor work plus bureaucracy.
+Seh, pero ella está totalmente en esa rutina de 24/7 entre manejar a los ex-Chasm más trabajo de Profesor más burocracia.
+I knew she had to slip up eventually! Can’t just chug coffee forever!
+¡Sabía que tenía que meter la pata eventualmente! ¡No puede atragantarse con café para siempre!
+What? No! No way!
+¿Qué? ¡No! ¡Ni hablar!
+OK, wait, like, maybe that’s a good idea?
+Ok, espera, de hecho, ¿Quizás sí es una buena idea?
+Like, if I’ve already got everything I need to know, I can totally get her to lower her guard by giving it back.
+Bien, si ya tengo todo lo que tengo que saber, puedo realmente bajar su guarda al devolverlo.
+Anyways, the main thing I actually, like,
+Como sea, lo que realmente, tipo,
+care about is \nthis after-action report for something called “Project Testament.” Y’know how Velenz is, like, this total ghost town?
+me importa es \neste reporte para algo llamado "Proyecto Testamento". Ya sabes como Velenz es, tipo, ¿Todo un pueblo fantasma?
+Well if I’m reading this right – and I had to look up a few words but I think I am – Team Chasm caused that!
+Bueno si estoy leyendo esto correctamente – y tuve que buscar un par de palabras pero creo que lo estoy – ¡El Team Chasm causó eso!
+They found some way to make avatars show up and secretly made them swarm the town, ‘cause apparently Velenz was super-resistant to helping.
+Encontraron una forma para que los avatares aparezcan y secretamente hicieron que vayan al pueblo 'porque aparentemente Velenz fue súper-resistente a ayudar.
+Then they, like, intentionally lured avatars into the caves around there to mess up the foundations, and the whole thing started to sink into the mud!
+Entonces ellos, tipo, intencionalmente atrayeron avatares a las cuevas alrededor para arruinar los cimientos, ¡Y todo el pueblo empezó a hundirse en el lodo!
+Seriously, it’s screwed-up!
+En serio, ¡Es demasiado jodido!
+Yeah! Like, this is the stuff Team Chasm did, and people are still, like, totally OK with them running around!
+¡Sí! Osea, estas son las cosas que el Team Chasm hizo, y la gente todavía está, como, ¡Totalmente bien que ellos sigan por ahí! 
+Um... not completely sure, but I’m absolutely certain they did some evil stuff there, OK?
+Em... no estoy completamente segura, pero estoy absolutamente convencida de que hicieron cosas malvadas allí, ¿Ok? 
+I don’t know how they did it, or if the whole, uh, what was it called... “soil liquefication?”
+No sé cómo lo hicieron, o si toda esa, eh, cómo se llamaba... "¿Licuación del suelo?"
+Yeah, I dunno if that was intentional or not, but the report is pretty damn happy about it!
+Seh, no sé si eso fue intencional o no, ¡Pero estos reportas están muy contentos al respecto!
+I mean, like, kinda? The report doesn’t really get into the hows or whys that much, but, like, c’mon!
+Osea, tipo, ¿Más o menos? El reporte no detalla los cómos o porqués, pero, osea, ¡Vamos!
+If you don’t like these people, just, like, fight them? This is messed up.
+Si no te gusta esta gente, sólo, osea, ¿Combate contra ellos? Esto es jodido.
+No!
+¡No! 
+No, no, no. No talking.
+No, no, no. Nada de hablar.
+I know you’re friends with Tamarind, and, like, yeah, she did you a favor, and she’s cool. But this lady has done some evil stuff.
+Sé que Tamarind es tu amiga, y, osea, sí, te hizo un favor, y ella es genial. Pero esta señorita ha hecho cosas malvadas.
+I’ve got a plan to confront her, and I want your help, alright?
+Tengo un plan para enfrentarla, y quiero tu ayuda, ¿Bien?
+Once the tournament is about to start, pretty much everybody is gonna be there, so there’s gonna be way less goons just out and about.
+Una vez que el torneo esté a punto de empezar, prácticamente todos van a estar ahí, así que habrá menos matones de un lado para el otro.
+I’ll send her an anonymous li’l letter – ooh, I can cut up the dossiers for letters and glue them together! That’s awesome!
+¡Le enviaré una una cartita anónima – ooh, ¡éuedo recortar las letras del expediente y pegarlas juntas! ¡Eso es increíble!
+Anyways, yeah, send her a letter, tell her to come to the <imp>sewer maintenance building on the river banks</imp>. She’ll be there.
+Como sea, seh, mándale una carta, dile que venga al <imp>edificio de mantenimiento de las alcantarillas en la ribera</imp>. Ellá estará allí.
+Then you and me – we get some justice.
+Después tú y yo – conseguiremos justicias.
+Alright? Alright! Great, cool, not gonna let you respond to that because honestly you can’t change my mind!
+¿Bien? ¡Bien! Genial, perfecto, no te dejaré responderme a eso porque la verdad no puedes hacerme cambiar de opinión!
+You’re my friend and partner in crime and definitely not the minion of an evil mastermind! Toodles!
+¡Eres mi amigo y cómplice y definitivamente no el lacayo de un genio del mal! ¡Adiosito!
+Candy...
+Candy...
+Why Tamarind?
+¿Por qué Tamarind?
+Cool. What'd you find?
+Genial. ¿Qué encontrastE!
+Good to see you too.
+Es bueno verte.
+Like what?
+¿Cómo qué?
+Sloppy.
+Descuidado.
+Give it back.
+Devuélvelo.
+That's... horrible.
+Eso es... horrible.
+Are you sure?
+¿Segura?
+Impressive.
+Impresivo.
+
+
+
 [Map311]
 
 You decide not to pet it.
@@ -23368,7 +23389,7 @@ I've learned a thing or two watching you battle. It was so eye-opening!
 Aprendí un par de cosas observando tus combates. ¡Fue muy revelador!
 Next year, I know I can at least make it to the semi- finals!
 ¡En el siguiente año, sé que podré al menos llegar a las semifinales!
-Me and my Pokemon might be at a disadvantage since the Tournament is only single battles.
+My Pokémon and I might be at a disadvantage since the Tournament is only single battles.
 Mis Pokémon y yo podremos estar en desventaja ya que el Torneo es exclusivamente en combates individuales.
 It matters not! We will fight through with pure determination!
 ¡No importa! ¡Nos abriremos paso con pura determinación!
@@ -23380,8 +23401,8 @@ Another successful day of guard duty.
 Otro día exitoso como guardia.
 The Emolga is too focused on battling to notice you.
 El Emolga está demasiado concentrado como para prestarte atención.
-Next year, me and my Minccino are gonna enter.
-El siguiente año, Minccino y yo vamos a entrar.
+Next year, my Minccino and I are gonna enter.
+El año que viene, Minccino y yo vamos a entrar.
 I can tell she's THIS close to evolving. We'll be unstoppable when we get a team together.
 Puedo asegurarte que está ASÍ de evolucionar. Seremos imparables una vez formemos un equipo juntas.
 Just you wait! Minccino and I are gunning for your spot!
@@ -25028,8 +25049,8 @@ I – yeah, that’s how it goes. Never was as good as you. Any of you hotshots.
 Entonces – seh, así es como es. Siempre fui peor que tú. Que cualquiera de ustedes.
 Pushed my Pokémon hard to try and get there, and now look at me. Trying to make up for all of it.
 Empujé a mis Pokémon demasiado para llegar allí, y ahora mírame. Intentando enmendarlo todo.
-Sorry, everyone. Sorry, Manaphy. I guess that was it.
-Lo siento, a todos. Lo siento, Manaphy. Supongo que eso fue todo.
+Sorry, everyone. Sorry, Phione. I guess that was it.
+Lo siento, a todos. Lo siento, Phione. Supongo que eso fue todo.
 Let’s get y’all back to a Pokécenter, OK? Get you fixed up... I’m sorry...
 Vayamos a un Centro Pokémon, ¿Ok? Para que vuelvan a estar bien… lo siento… 
 Ugh! I’m – fine! Ow. I think I took a stray shot... oof.
@@ -25640,6 +25661,42 @@ Thank you for this!
 ¡Gracias por esto!
 Yes
 Sí
+Welcome to the party! Want a moon rock?
+¡Bienvenido a la fiesta! ¿Quieres una roca espacial?
+No, seriously. I was on the space shuttle launch in Alola last month - we brought all kinds of Pokémon back with us!
+No, en serio. Estaba en el lazamiento del transbordador espacial en el mes pasado - ¡trajimos todo tipo de Pokémon con nosotros! 
+These ones didn't wind up being useful for research, so I've just been handing them out as party favors.
+Estos no terminaron siendo muy útiles para mi investigación, así que los he estado regalando como souvenirs.
+I've got Solrock and Lunatone. Which do you want?
+Tengo un Solrock y un Lunatone. ¿Cuál quieres?
+You sure? These rocks're pretty far from home. Could use a good friend.
+¿Seguro? Estas rocas están muy lejos de casa. Les vendría bien un amigo.
+We could all use a good friend.
+A todos nos vendría bien un amigo.
+Well, let me know if you change your mind. Enjoy the party!
+Bueno, dime si cambias de opinión. ¡Disfruta la fiesta!
+Here you are! One Solrock, fresh from the far reaches of space.
+¡Aquí tienes! Un Solrock, fresco de los confines del espacio.
+Here you are! One Lunatone, straight from the lunar surface.
+¡Aquí tienes! Un Solrock, fresco de la superficie lunar.
+Good memories on that mission, you know. Lots of new friends.
+Hice buenos recuerdos en esa misión, sabes. Hice muchos amigos.
+Like Lainie. I wonder what she's up to now?
+Como Lainie. ¿Me pregunto qué estará haciendo ahora?
+What? Where am I?
+¿Qué? ¿Dónde estoy?
+What- oh... oh god...
+Qué- oh... oh dios...
+Space was so dark... so cold, and so very dark...
+El espacio era tan oscuro... tan frío, demasiado oscuro...
+I need to go. I need to see the sun.
+Tengo que irme. Tengo que ver el sol.
+Maybe later.
+Quizás luego.
+I'll take a Solrock.
+Tomaré a Solrock.
+I'll take a Lunatone.
+Tomaré a Lunatone.
 [Map347]
 
 I used to do maintanence on the bridge that crosses the Eleig river to the west of here.
@@ -27318,29 +27375,6 @@ It snows there year round and there are plenty of places to ice skate!
 ¡Allí cae nieve todo el año y varios lugares donde puedes patinar sobre hielo!
 I don't recommend going to the Barren Crater. It's rather unsightly.
 No recomiendo ir al Cráter Desértico. No es muy vistoso.
-I was just given a Minccino from my family. I appreciate the thought, but this creature here just ain't it.
-Mi familia me acaba de dar este Minccino. Aprecio la idea, pero esta criatura no me va.
-It ain't suited to all the dirt me and my team get on us. Doesn't seem too happy with it's circumstance.
-No es apto para toda la tierra que nos cubre a mi equipo. No parece muy feliz con sus circunstancias.
-Tell you what Trainer, I'll give you the 'mon free of charge, so long as you promise to take care of it.
-Sabes qué Entrenador, te daré el 'mon sin cargos, siempre y cuando prometas que vas a cuidar de él.
-That's fair enough. Needs to feel like a good fit.
-Eso es justo. Necesita poder encajar. 
-I take those promises seriously. Make sure it gets something out of ya.
-Me tomo esas promesas en serio. Asegúrate de que te aporte algo de valor.
-Take care, Trainer.
-Cuídate, Entrenador.
-Word of advice. If it cares about it's fur routine, don't run it on a weather team.
-Un consejo. Si le importa su rutina de pelaje, no lo uses en un equipo climático.
-No thanks.
-No gracias.
-I promise.
-Lo prometo.
-If you're looking to explore more of southern Makya I recommend you go visit Svait.
-Si buscas explorar más de la parte sur de Makya te recomiendo visitar a Svait.
-They're offering evolution items for anyone who can beat them all in a battle.
-Ofrecen objetos evoluti
-[Map396]
 I was just given a Minccino from my family.
 Mi familia me acaba de dar este Minccino.
 I appreciate the thought, but this creature here just ain't it.
@@ -28437,8 +28471,8 @@ In order to fund further research, I want to find a buyer for this extremely rar
 Para financiar investigaciones futuras, quiero encontrar un comprador para esa sustancia extremadamente rara.
 You seem like the kind of person that'd like shiny Pokemon.
 Pareces ser el tipo de persona que le gustaría un Pokémon variocolor.
-Interested in purchasing this vial of Gleam Powder? Estimated costs total at 250,000.
-¿Te interesa comprar este vial de Polvo Brillante? Los costos estimados suman a 250.000.
+Interested in purchasing this vial of Gleam Powder?  Estimated costs total at $250,000.
+¿Te interesa comprar este vial de Polvo Brillante? Los costos estimados suman a $250.000.
 I've had sponsors with that kind of money.
 He tenido patrocinadores con esa cantidad de dinero.
 I'm not surprised that you don't.
@@ -28741,6 +28775,38 @@ It looks you in the eyes with unexpected clarity and nods.
 Te mira a los ojos con una claridad inesperada y asiente.
 Sure.
 Seguro.
+Oh? It's a Crabrawler!
+¿Oh? ¡Es un Crabrawler!
+Half-eaten berries are scattered in the grass around it.
+Puedes ver montones de bayas a medio comer en el paso a su alrededor.
+It takes a quick snap towards your bag.
+Rápidamente mira hacia a tu mochila.
+Its claws are snapping aimlessly at the air.
+Está moviendo sus garras en el aire sin dirección alguna.
+Its eyes are glazed over, and it's staring up towards the sky.
+Sus ojos están vidriosos, y está observando hacia el cielo.
+It seems to be suffering from a severely altered mental state.
+Parece estar sufriendo de un estado mental severalmente alterado.
+You could use a Moomoo Milk or a Full Restore to clear its mind.
+Podrías usar una Leche Mu-mu o un Restaurar Todo para despejar su mente.
+You apply the Moomoo Milk to the Crabrawler. It blinks twice, then relaxes.
+Aplicas la Leche Mu-mu al Crabrawler. Parpadea dos veces, y se relaja.
+You don't have a Moomoo Milk to use.
+No tienes ninguna Leche Mu-mu.
+You apply the Full Restore to the Crabrawler. It blinks twice, then relaxes.
+Aplicas el Restaurar Todo al Crabrawler. Parpadea dos veces, y se relaja.
+You don't have a Full Restore to use.
+No tienes ningún Restaurar Todo.
+You notice an open Pokeball hidden in the grass.
+Notas una Poké Ball abierta escondida entre la hierba.
+The Crabrawler tosses the Pokeball into your hand and hops right in.
+El Crabrawler lanza la Poké Ball directo hacia tu mano y salta dentro.
+Leave it.
+Dejarlo.
+Use a Moomoo Milk.
+Usar una Leche Mu-mu.
+Use a Full Restore.
+Usar un Restaurar Todo.
 [Map431]
 You might want to slow down, Trainer. These ships are dangerous.
 Puede que quieras detenerte, Entrenador. Estos barcos son peligrosos.
@@ -33276,7 +33342,7 @@ Food rots and milk curdles in their presence. Because of this, they're commonly 
 La comida se pudre y la leche se corta en su presencia. Dado a esto, comúnmente escapan de Pokémon enojados como Miltank o Alcremie.
 It pelts houses with hail that sounds like knocking, trying to get those inside to open a door or window. People used to import Skarmory to defend against them.
 Bombardea a casas con un poderoso granizo, intentando que aquellos dentro abran una puerta o ventana. Las personas solían importar Skarmory para defenderse de ellos.
-This Pokemon likes to team up with the strongest Pokémon it can find. Some researchers fear its dormant power.
+This Pokémon likes to team up with the strongest Pokémon it can find. Some researchers fear its dormant power.
 A este Pokémon le gusta juntarse con los Pokémon más fuertes que puede encontrar. Investigadores temen su poder latente.
 Some people claim this Pokémon ruled over an unnatural subterranean realm long ago. It resembles an enemy from a popular video game.
 Algunas personas aseguran que este Pokémon gobernó un reino subterráneo antinatural hace mucho tiempo. Se asemeja a un enemigo de un popular videojuego.
@@ -33288,7 +33354,7 @@ According to legend, the Buneary of Makya came from the moon. They have incredib
 Según las leyendas, los Buneary de Makya vienen de la luna. Tienen un gran control de sus orejas prensiles.
 The blue crystals that adorn Makyan Lopunny's fur resemble saccharite, but analysis shows that they're structurally distinct.
 Los cristales azules que adornan su pelaje se asemejan a la sacarita, pero análisis muestran que son estructuralmente distintos.
-A wanderer, Makyan Haerobic has a deep sense of justice and will use the full force of its lunar powers to rescue weaker Pokemon.
+A wanderer, Makyan Haerobic has a deep sense of justice and will use the full force of its lunar powers to rescue weaker Pokémon.
 Errando por el mundo, Haerobic de Makya tiene un gran sentido de justicia y usa toda la fuerza de sus poderes lunaras para rescatar a Pokémon más débiles.
 When the weather gets hot, these Pokémon turn into water vapor. Cryscross are almost never seen during summer.
 Cuando el clima se vuelve cálido, estos Pokémon se convierten en vapor. Casi nunca ves Cryscross en el verano.
@@ -33320,6 +33386,8 @@ The DNA from the original Mew has grown exponentially in this form. It has gaine
 El ADN del Mew original ha crecido exponencialmente en esta forma. Posee suficiente poder psíquico para controlar las mentes de las personas más obstinadas.
 This special Ursaluna can see in the dark with its left eye and protects itself with mud that is as hard as iron.
 Este Ursaluna tan particular se protege el cuerpo con una capa de barro tan dura como el hierro. Su ojo izquierdo le permite ver en la oscuridad.
+It will regrow any branches that break off its head. People keep particularly beautiful Curesola branches as charms to promote safe childbirth.
+Las ramas que le brotan de la cabeza se regeneran si se rompen. Las más bellas se emplean como amuleto en los partos.
 [4]
 Bloodmoon
 Luna Carmesí
@@ -33711,6 +33779,8 @@ Harvest
 Cosecha
 White-Striped
 Raya Blanca
+Meteoric
+Meteórico
 [5]
 Suffocate
 Sofocar
@@ -36616,6 +36686,16 @@ Primeval Pacify
 Pacificar Primitivo
 Primeval Frost Spikes
 Púas Heladas Primitivas
+Atmospheric Burst
+Choque Atmosférico
+Mach Pulse
+Pulso Mach
+Thrust Pulse
+Pulso Explosivo
+Synaptic Unlock
+Desbloqueo Sináptico
+Coral Overgrowth
+Coral Exuberante
 [6]
 The user spends 50% HP to create a Substitute. If successful, the user's Speed is raised by four steps.
 El usuario usa el 50% de sus PS máximos para crear un sustituto. Al hacerlo, la Velocidad del usuario es aumentada cuatro grados.
@@ -36702,6 +36782,8 @@ El usuario le grita al objetivo, disminuyendo su Ataque Especial dos grados.
 If the user moves after the target, this attack's power will be doubled.
 Si el usuario ataca luego del objetivo, la potencia del movimiento es duplicada.
 The user darkly follows the target before striking. Inflicts double damage on a target that is switching out.
+Inflicts double damage on a target that is switching out.
+Duplica la potencia del movimiento si el objetivo está a punto de cambiar.
 El usuario sigue al objetivo antes de atacar. Duplica la potencia del movimiento si el objetivo está a punto de cambiar.
 The user gets all the party Pokémon to attack the foe. The more party Pokémon, the more damage.
 El usuario hace que todos los Pokémon del equipo ataquen al objetivo. Cuantos más Pokémon haya en el equipo, más fuerte será el movimiento.
@@ -37039,6 +37121,8 @@ Attacks with energy from jealousy. All opposing Pokémon with stat boosts get bu
 El usuario ataca de forma celosa. Todos los objetivos con aumentos en stats son quemados.
 The user tucks in its wings and strikes from a low altitude. The user also takes 33% recoil.
 El usuario extiende sus alas y ataca desde una baja altura. El usuario recibe un 33% de daño de retroceso.
+The user tucks in its wings and charges from a low altitude. The user also takes 33% recoil.
+El usuario extiende sus alas y ataca desde una baja altura. El usuario recibe un 33% de daño de retroceso.
 The user soars upward and drops at high speeds. This lowers the user's Defense and Sp. Def by two steps.
 El usuario se eleva hacia el cielo y cae a alta velocidad. Disminuye las stats defensivas del usuario.
 A vortex of air is shot at the target to inflict damage. Can random critical hit.
@@ -37349,7 +37433,9 @@ The user approaches the target, then steals their item. Items stolen from wild P
 El usuario se acerca al objetivo, luego roba su objeto. Objetos robados a Pokémon salvajes son guardados.
 A unique attack that varies in type and intensity depending on the Pokémon using it.
 Un ataque único que varía de tipo y fuerza dependiendo del Pokémon que lo use.
-Makes everyone's hearts beat together. Others can join in the Round and make the attack do greater damage..
+The user attacks with a song. Others can join in the Round and make the attack do greater damage.
+El usuario ataca con una canción. Otros pueden unirse al Canon, duplicando su potencia.
+Makes everyone's hearts beat together. Others can join in the Round and make the attack do greater damage.
 Hace que los corazones de todos latan como uno. Otros pueden unirse al Canon, duplicando su potencia.
 Star-shaped rays are shot at the target. Can't miss and skips protections.
 El usuario dispara rayos con forma de estrella al objetivo. Siempre acierta y atraviesa protecciones.
@@ -37547,8 +37633,8 @@ The user lets out a damaging belch at the target. The user must eat a held Berry
 El usuario eructa con fuerza en contra del objetivo. El usuario debe haber comido su Baya para usar este movimiento.
 The user shoots filthy garbage at the target to attack. It has a 10% chance to poison.
 El usuario le lanza basura al objetivo. Tiene un 10% de probabilidad de envenenar al objetivo.
-It swamps the area around the user with a giant sludge wave. It has a 10% chance to poison.
-El usuario inunda el area a su alrededor con una onda venenosa. Tiene un 10% de probabilidad de envenenar a sus objetivos.
+It swamps the area around the user with a giant sludge wave, poisoning everyone struck.
+El usuario inunda el area a su alrededor con una onda venenosa. Envenenando a quienes ataca.
 The target is stabbed with a tentacle or arm seeped with poison. It has a 10% chance to poison.
 El objetivo apuñala con sus tentáculos o brazos llenos de veneno. Tiene un 10% de probabilida de envenenar al objetivo.
 A slashing attack with a poisonous blade that has a 20% chance to poison. Can random critical hit.
@@ -38115,6 +38201,8 @@ The user attacks the target while dashing skillfully past it.
 El usuario ataca rápidamente al objetivo yendo a su costado.
 The user shoots a pulse of neutral particles at the target.
 El usuario dispara un pulso de partículos neutras al objetivo.
+The user shoots a pulse of diffuse energy at the target.
+El usuario dispara un pulso de energía difusa al objetivo.
 The user shoots a pulse of uncharged particles at the target.
 El usuario dispara un pulso de partículas sin cargar al objetivo.
 A barrage of star-shaped rays are shot at the opposing team, never missing.
@@ -38751,8 +38839,8 @@ The user summons hail for five turns. This lowers every foe's Speed by two steps
 El usuario invoca un granizo durante 5 turnos, disminuye la Velocidad del lado contrario dos grados, y se vuelve tipo Hielo.
 The user raises its Attack and Defense by two steps, gains a lot of weight. User becomes Fighting-type.
 El usuario aumenta su Ataque y Defensa dos grados y se vuelve much omás pesado. El usuario se vuelve tipo Lucha.
-The user lays 3 hazard layers of Spikes on the foe's side. User becomes Ground-type.
-El usuario coloca 3 capas de púas en el lado contrario, y se vuelve tipo Tierra.
+The user lays three hazard layers of Spikes on the foe's side. User becomes Ground-type.
+El usuario coloca tres capas de púas en el lado contrario, y se vuelve tipo Tierra.
 The user ups the Speed and attack count of itself and allies, and becomes Flying-type.
 El aumenta la Velocidad y Ataque de sí mismo y sus aliados, y se vuelve tipo Volador.
 The user raises its Sp. Atk and Sp. Def by two steps and maximizes its Accuracy. User becomes Psychic-type.
@@ -38851,8 +38939,8 @@ A two-turn attack. The user gathers light, then blasts all near foes on the seco
 El usuario concentra luz en el primer turno, luego ataca al lado contrario en el seguno turno.
 The user attacks with a sparkling gem-like ray, dizzying the target.
 El usario ataca con una rayo brillante como una gema, mareando al objetivo.
-The user forcefully shoots 6 seeds in rapid succession, spread among nearby enemies.
-El usuario dispara 6 semillas de forma seguida, entre todo el lado contrario.
+The user forcefully shoots six seeds in rapid succession, spread among nearby enemies.
+El usuario dispara seis semillas de forma seguida, entre todo el lado contrario.
 The user attacks twice using Dreepy, spreading the hits.
 El usuario ataca dos veces usando sus Dreepy.
 A nutrient-draining attack. The user's HP is restored by all the damage taken by the target.
@@ -38863,8 +38951,8 @@ It swamps the area around the user with a giant wave of toxic sludge.
 Una ola de veneno ataca a todos los Pokémon a su alrededo.
 The user exhales a mighty gust that inflicts damage and numbs the target.
 El usuario exhala un fuerte tornado que daña y aturde al objetivo.
-The user strikes the target with 3 punches like bullets. This move always goes first.
-El usuario ataca 3 veces rápido como una bala. Siempre va primero.
+The user strikes the target with three punches like bullets. This move always goes first.
+El usuario ataca tres veces rápido como una bala. Siempre va primero.
 The user attacks by breathing a special, hot fire. This lowers the target's Sp. Atk stat by six steps.
 El usuario ataca con un aliento ígneo especial. Disminuye el Ataque Especial del objetivo seis grados.
 A move that only the avatar of Rayquaza can use. All enemies struck lose their flinch immunity.
@@ -39065,8 +39153,8 @@ The user blows up to inflict damage on all Pokémon in battle. The user faints u
 El usuario explota para infligir daño a todos los Pokémon en combate. El usuario se debilita al usar este movimiento.
 The user's edges become sharper, raising its Attack stat by three steps.
 Las puntas del usuario se afilan, aumentando su Ataque tres grados.
-The user stockpiles power and raises its Defense and Sp. Def by two steps. The move can be stacked twice.
-El usuario reserva poder y aumenta su Defensa y Defensa Especial dos grados. Puedes acumularlo dos veces.
+The user stockpiles power, reducing move damage taken by 30%. This can be stacked twice.
+El usuario reserva poder, reduciendo daño de movimientos un 30%. Puedes acumularlo dos veces.
 The user eats its held Berry, then raises Defense and Sp. Def by one step each.
 El usuario come la Baya que tenga equipada, luego aumenta sus stats defensivas un grado.
 The user spends 25% HP to create a doll to protect it from move damage, additional effects, and status moves.
@@ -39443,8 +39531,8 @@ The user chomps hard, cutting the target's HP by 50%, and the user's HP is resto
 El usuario muerde fuertemente, quitándole al objetivo el 50% de sus PS, y el usuario recupera el 50% de eso.
 The user submerges the target in water, then bludgeons them repeatedly. This has a 10% chance to waterlog.
 El usuario sumerge al objetivo, luego lo aporrea repetidamente. Esto tiene un 10% de probabilidad de embeber.
-The target is pranked with a huge bucket of water. This has a 50% chance to waterlog it.
-El usuario hace una broma con un gran cubo de agua. Tiene un 50% de probabilidad de embeber al objetivo.
+The target is pranked with a huge bucket of water. This has a 30% chance to waterlog it.
+El usuario hace una broma con un gran cubo de agua. Tiene un 30% de probabilidad de embeber al objetivo.
 An enchanting outcry. This attack never misses and skips protections.
 Un grito encantador. Este ataque nunca falla y atraviesa protecciones.
 The user makes a fool out of the target. This has a 50% chance of jinxing them.
@@ -39639,9 +39727,9 @@ The target is immersed in water. This has a 30% chance to waterlog.
 El usuario sumerge al objetivo en agua, con un 30% de probabilidad de embeber al objetivo.
 The user scatters bursts of spores to induce sleep on all foes. User becomes Grass-type.
 El usuario esparce esporas para dormir a todos los rivales, y luego se vuelve de tipo Planta.
-Bounces back status moves for the next 3 turns. User becomes Psychic-type.
-Rebota ataques de estado durante los siguientes 3 turnos, y el usuario se vuelve de tipo Psíquico.
-The user absorbs energy and raises all of its stats by two steps on the next turn.
+Bounces back status moves for the next three turns. User becomes Psychic-type.
+Rebota ataques de estado durante los siguientes tres turnos, y el usuario se vuelve de tipo Psíquico.
+The user charges with energy and raises all of its stats by two steps on the next turn.
 El usuario absorbe energía y aumenta todas sus estadísticas dos grados en el siguiente turno.
 The user pulses powerful dark light to expose the target's motives. This lower's their Sp. Def by two steps.
 El usuario ataca con un poderoso pulso oscuro que expone los motivos del objetivo. Esto disminuye la Defensa Especial del objetivo dos grados.
@@ -39911,7 +39999,7 @@ The user sets a powerful tailwind for 6 turns, which also increases move damage 
 El usuario levanta un poderoso viento afín durante 6 turnos, que también aumenta el daño un 30%. El usuario se vuelve tipo Volador.
 The user raises its Attack, Defense, and Accuracy by two steps. Additionally, the user summons an ally Ekans. User becomes Poison-type.
 El usuario aumenta su Ataque, Defensa, y Precisión dos grados. Además, el usuario invoca un Ekans aliado. El usuario se vuelve de tipo Veneno.
-The user lays 2 hazard layers of poison spikes on the foe's side. User becomes Poison-type.
+The user lays two hazard layers of poison spikes on the foe's side. User becomes Poison-type.
 El usuario coloca dos capas púas venenosas en el lado contrario. El usuario se vuelve de tipo Veneno.
 Boulders are hurled at all near enemies, preventing their movement. This lowers their Speed by four steps.
 El usuario le lanza peñascos al lado rival. También disminuye la Velocidad del objetivo cuatro grados.
@@ -39923,13 +40011,13 @@ The target is obliterated by a meteoric strike. This raises the user's Attack by
 El objetivo es obliterado por un golpea meteórico. Esto aumenta el Ataque del usuario dos grados.
 The user attacks by breathing a special, hot fire. This lowers the target's Sp. Atk by six steps.
 El usuario ataca con un ardiente fuego especial. Esto disminuye el Ataque Especial seis grados.
-The user lays 2 hazard layers of burning spikes on the foe's side. User becomes Fire-type.
+The user lays two hazard layers of burning spikes on the foe's side. User becomes Fire-type.
 El usuario esparce 2 capas de púas ardientes en el lado contrario, y se vuelve de tipo Fuego.
 The user inflicts burns on all nearby foes. User becomes Fire-type.
 El usuario quema al lado rival. El usuario se vuelve de tipo Fuego.
-A spray of bubbles is forcefully ejected at all nearby foes. This lowers their Speed by 3 steps.
-Un rayo de burbujas es disparado con fuerza a rivales cercanos. Esto disminuye su Velocidad 3 grados.
-The user enters a state of Total Focus, prevents stat steps from being lowered, raises Attack. and Sp. Def, and becomes Water-type.
+A spray of bubbles is forcefully ejected at all nearby foes. This lowers their Speed by three steps.
+Un rayo de burbujas es disparado con fuerza a rivales cercanos. Esto disminuye su Velocidad tres grados.
+The user enters a state of total focus, prevents stat steps from being lowered, raises Attack and Sp. Def, and becomes Water-type.
 El usuario se concentra por completo, impidiendo que sus stats sean reducidas, aumenta Ataque, Defensa Especial, y se vuelve tipo Agua.
 The user inflicts waterlog on all nearby foes. User becomes Water-type.
 El usuario embebe a rivales cercanos. El usuario se vuelve tipo Agua.
@@ -39937,12 +40025,36 @@ The user charges by gathering light, then blasts all near foes on the second tur
 El usuario carga reuniendo luz, luego la dispara a los rivales cercanos en el segundo turno.
 The user inflicts numb on all nearby foes. User becomes Electric-type.
 El usuario aturde a los rivales cercanos, y se vuelve tipo Eléctrico.
-The user employs hypnotic suggestion to make a statused target fall into a deep sleep. User becomes Psychic-type.
-El usuario emplea sugestión hipnótica para que un objetivo con un problema de estado para dormirlo. El usuario se vuelve de tipo Psíquico.
-The user lays 2 hazard layers of frozen spikes on the foe's side. User becomes Ice-type.
+The user employs hypnotic suggestion to make all nearby statused foes fall into a deep sleep. User becomes Psychic-type.
+El usuario emplea sugestión hipnótica para que todos los objetivos con un problema de estado sean dormidos. El usuario se vuelve de tipo Psíquico.
+The user lays two hazard layers of frozen spikes on the foe's side. User becomes Ice-type.
 El usuario coloca dos capas púas heladas en el lado contrario. El usuario se vuelve de tipo Hielo.
 The user crushes all near foes with evil intent. This deals double damage to targets with a non-volatile status condition.
 El usuario aplasta a rivales cercanos con malas intenciones. Duplica su daño contra objetivos con problemas de estado no-volátiles.
+The user blocks the target's way with arms splayed wide to trap the target.
+El usuario bloquea el camino del objetivo con sus brazos estirados para atrapar al objetivo.
+The user performs a spirited dance for its allies and itself, raising their Speed and raising their Accuracy by four steps.
+El usuario realiza una danza animada para sí mismo y sus aliados, aumentando su Velocidad y aumentando su Precisión cuatro grados.
+The user performs a long-forgotten song and dance. This is both a Sound and Dance move.
+El usuario realiza una canción y danza olvidadas. Es un movimiento de Sonido y Baile a la vez.
+The user throws away up to 1000 scattered coins to bless its side, blocking random added effects and healing for 1/16th HP each turn. Lasts one turn per 100 coins.
+El usuario lanza un máximo de 1000 monedas esparcidas para bbendecir su lado, bloqueando efectos secundarios aleatorios y recuperando 1/16 de PS totales cada turno. Dura 1 turno por 100 monedas.
+The user compresses air around the target to impossible density. If the move is super-effective or hyper-effective, damage is increased by 30%.
+El usuario comprime aire alrededor de su objetivo a densidades imposibles. Si el movimiento es súper efectivo o híper efectivo, es potenciado un 30%.
+The user launches a pulse in the form of a shock wave. It has a 20% chance to raise Speed.
+EL usuario lanza un pulso en forma de onda expansiva. Tiene un 20% de probabilidad de aumentar Velocidad.
+The user shoots out a pulse of driving energy. Building up more power, it raises the user's Speed.
+El usuario dispara un puslo de energía torrencial. Aumenta la Velocidad del objetivo.
+Halves attack damage taken this turn. Burns any attackers. Fails if used successively.
+Divide a la mitad el daño recibido por un turno. Quema a cualquier atacante. Falla si es usado sucesivamente.
+The user sends up to two barrages of fire, each hitting two to five times. If two barrages were sent, the user is exhausted on the next turn.
+El usuario dispara dos ráfagas de fuego, cada una golpeando entre dos a cinco veces seguidas. Si envía dos ráfagas, el usuario es exhausto en el siguiente turno.
+The user connects to the target's brainwaves to stabilize its mind, curing its dizziness, and granting it the legal ability it does not currently have.
+El usuario conecta las ondas cerebrales del objetivo para estabilizar su mente, curando su marea, y añadiéndole su otra habilidad legal.
+Healing coral forms on the foe's side. For the next four turns, attacks on foes heal the user for 33% of the damage dealt. This can overheal.
+Coral curativo es formado en el lado rival. Durante los siguientes cuatro turnos, ataques al oponente drenan el 33% del daño causado. Esto puede sobrecurar.
+Two turns after this move is used, a hunk of psychic energy attacks the target.
+Dos turnos después de que este movimiento sea usado, energía psíquica ataca al objetivo.
 [7]
 Pearl of Wisdom
 Pearl Sabiduría
