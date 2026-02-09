@@ -1,6 +1,7 @@
 # Level caps aren't used
 # But the variable is still silently incremented for the purposes of scaled Pokemon gifts
 def giveBattleReport
-  $game_variables[LEVEL_CAP_VAR] += 5
+  increaseLevelCap(5)
 end
-LEVEL_CAPS_USED = false
+LEVEL_CAPS_PREVENT_BATTLE_EXP = false
+LEVEL_CAPS_PREVENT_RARE_CANDIES = false
