@@ -153,7 +153,7 @@ ItemHandlers::UseOnPokemon.add(:SWEETHEART, proc { |_item, pkmn, scene|
 })
 
 ItemHandlers::UseOnPokemon.add(:VANILLATULUMBA, proc { |item, pkmn, scene|
-    level_cap = LEVEL_CAPS_USED ? getLevelCap : MAX_LEVEL_CAP
+    level_cap = (LEVEL_CAPS_USED && LEVEL_CAPS_PREVENT_EXP_CANDY) ? getLevelCap : MAX_LEVEL_CAP
     if pkmn.fainted? || (pkmn.hp == pkmn.totalhp && pkmn.level >= level_cap)
         pbSceneDefaultDisplay(_INTL("It won't have any effect."), scene)
         next false
