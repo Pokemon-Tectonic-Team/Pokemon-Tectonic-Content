@@ -41378,6 +41378,8 @@ Crystal Caliburn
 Caliburn Cristalina
 Unnamed
 Sin Nombre
+Technique Booster
+Potenciador Técnico
 [8]
 Courage Badges
 Medallas Valor
@@ -42355,7 +42357,7 @@ Este objeto aumenta el Ataque Especial del portador un 40%, pero permite el uso 
 Held item which boosts Speed by 40% but allows the use of only one move.
 Este objeto aumenta la Velocidad del portador un 40%, pero permite el uso de un sólo movimiento.
 A Pokémon held item. When the holder summons sunshine, it lasts twice as long.
-Un objeto equipable. Cuando el portador invoca luz solar, esta dura el doble.
+Un objeto equipable. Cuando el portador invoca luz solar, este dura el doble.
 A Pokémon held item. When the holder summons rain, it lasts twice as long.
 Un objeto equipable. Cuando el portador invoca la lluvia, esta dura el doble.
 A Pokémon held item. When the holder summons a sandstorm, it lasts twice as long.
@@ -59366,6 +59368,8 @@ You've been offered a gauntlet of scientists to try to get past. How difficult c
 Se te ha prestado la oportunidad de vencer a un montón de científicos. ¿Qué tan duros podrían ser estos cerebritos de todos modos? 
 Overview:
 Resumen:
+Misc. Held Items
+Equipables Misc.
 [26]
 [27]
 [27]
@@ -59391,20 +59395,20 @@ Encantador
 Deceiver
 Farsante
 7
+Esoteric
+Esotérico
+8
 Fortune
 Suertudo
-8
+9
 Harmonic
 Armónico
-9
+10
 Industrious
 Diligente
-10
+11
 Loyal
 Leal
-11
-Mystic
-Místico
 12
 Noble
 Noble
@@ -59435,6 +59439,9 @@ Tiránico
 21
 Warrior
 Guerrero
+22
+Mystic
+Místico
 [28]
 0
 Your team members take one third less damage from sources that aren't attacks.
@@ -59455,53 +59462,56 @@ Tu equipo recupera 1/10 de sus PS al cambiar. Tu Botiquín cura un 25% más.
 Your team takes 20% less move damage on the turns they enter.
 Tu equipo recibe un 20% menos de daño en los turnos que entren al campo.
 6
-Enemy trainers majorly overestimate how much damage their moves do.
-Los rivales sobreestiman demasiado el daño que sus movimientos hacen. 
+Your team deals 15% more move damage with attacks that don't share a type with their species.
+Los movimientos de tu equipo son potenciados un 15% si no comparten tipo con la especie.
 7
-Your moves have a +20% chance to activate their moves' additional effects.
-Tus movimientos tienen un +20% de probabilidad de activar sus efectos secundarios.
+Whenever a member of your team uses a status move, they'll deal 25% more move damage next turn.
+Cuando un miembro de tu equipo usa un movimiento de estado, sus ataques serán potenciados un 25% en el siguiente turno.
 8
+Your team members' moves have a +30% chance to activate their additional effects.
+Tus movimientos tienen un +30% de probabilidad de activar sus efectos secundarios.
+9
 Your team take 10% less move damage.
 Tu equipo recibe un 10% menos de daño por movimientos.
-9
-You gain 10% more money from battles. If you have more than $100,000, your team gets a boost to all of their stats (before modifiers). This bonus scales with the level cap and is currently {b1}.
-Consigues un 10% más de dinero por batallas. Si tienes más de $100.000, tu equipo recibe un aumento en todas sus stats (antes de modificadores). Este bonus aumenta con tu límite de nivel y ahora mismo es {b1}.
 10
-Your team members gain 10% more EXP in battles. They also get a small boost to all of their stats (before modifiers). This bonus scales with the level cap and is currently {b}.
-Tu equipo gana un 10% más de EXP en batallas. También reciben un pequeño aumento en todas sus stats (antes de modificadores). Este bonus aumenta con tu límite de nivel y ahora mismo es {b}.
+You gain 10% more money and coins in battles. If you have more than $100,000, your team gets a boost to Attack, Defense, Sp. Atk, and Sp. Def (before modifiers). This bonus scales with the level cap and is currently {b1}.
+Consigues un 10% más de dinero y monedas en batallas. Si tienes más de $100.000, tu equipo recibe un aumento en Ataque, Defensa, Ataque Especial y Defensa Especial (antes de modificadores). Este bonus aumenta con tu límite de nivel y ahora mismo es {b1}.
 11
-Whenever a member of your team uses a status move, they'll deal 25% more move damage next turn.
-Cuando un miembro de tu equipo use un movimiento de estado, su siguiente ataque será potenciado un 25%.
+Your team members gain 10% more EXP in battles. They also get a small boost to Attack, Defense, Sp. Atk, and Sp. Def (before modifiers). This bonus scales with the level cap and is currently {b}.
+Tu equipo gana un 10% más de EXP en batallas. También reciben un pequeño aumento en Ataque, Defensa, Ataque Especial y Defensa Especial (antes de modificadores). Este bonus aumenta con tu límite de nivel y ahora mismo es {b}.
 12
-Your team members take 12% less move damage if they're using a status move this turn.
-Tu equipo recibe un 12% menos de daño si están usando un movimiento de estado en el mismo turno.
+Your team members take 15% less move damage if they're using a status move this turn.
+Tu equipo recibe un 15% menos de daño si están usando un movimiento de estado en el mismo turno.
 13
-Your team has 20% increased Sp. Def. Foes can't lower your team's Sp. Def.
-Tu equipo tiene su Defensa Especial un 20%. Los rivales no podrán disminuir su Defensa Especial.
+Your team has 30% increased Sp. Def. Foes can't lower your team's Sp. Def.
+Tu equipo tiene su Defensa Especial un 30%. Los rivales no podrán disminuir su Defensa Especial.
 14
-Your team members berries heal them for 25% more (multiplicative) and their gem-boosted attacks deal 25% more damage (multiplicative).
-Las bayas de tu equipo lo curarán un 25% más (multiplicativo) y sus ataques potenciados por gemas lo estarán un 25% más (multiplicativo).
+Your team members berries heal them for 50% more (multiplicative) and their gem-boosted attacks deal 25% more damage (multiplicative).
+Las bayas de tu equipo lo curarán un 50% más (multiplicativo) y sus ataques potenciados por gemas lo estarán un 25% más (multiplicativo).
 15
 Your able party members and battlers heal for 1/10th HP whenever a foe faints.
 Tu equipo y combatientes recuperan 1/10 de sus PS cada vez que un rival sea debilitado.
 16
-Your team has 20% increased Defense. Foes can't lower your team's Defense.
-Tu equipo tiene su Defensa un 20%. Los rivales no podrán disminuir su Defensa.
+Your team has 30% increased Defense. Foes can't lower your team's Defense.
+Tu equipo tiene su Defensa un 30%. Los rivales no podrán disminuir su Defensa.
 17
-Enemy Pokemon's chance to activate their additional effects against your team members is halved.
-La probabilidad de los Pokémon rivales de activar sus efectos secundarios contra tu equipo es dividida a la mitad.
+Effects placed by your Pokémon last 50% longer (rounded down).
+Los efectos colocados en tus Pokémon duran un 50% más (redondeado para abajo).
 18
-Your team members take 12% less move damage if they're using an attack this turn.
-Tu equipo recibe un 12% menos de daño si están usando un ataque en el mismo turno.
+Your team has 15% increased Speed.
+Tu equipo tiene un 15% más de Velocidad.
 19
-Protects your team members from critical hits.
-Protege a tu equipo de movimientos críticos.
+Your Pokemon deal 15% more damage to targets that haven’t moved yet this turn. Your priority attacks and priority status moves have doubled PP.
+Tus Pokémon son potenciados un 15% en objetivos que aún no se hayan movido. Tus ataques y movimientos de estado con prioridad tienen el doble de PP.
 20
-Ignore the first time each battle that one of your team members would flinch or get a status condition.
-Ignora la primera vez en batalla que alguien de tu equipo sea amedrentado u obtenga un problema de estado.
+Ignore the first time each battle that one of your team members would flinch or get a non-volatile status condition.
+Ignora la primera vez en batalla que alguien de tu equipo sea amedrentado u obtenga un problema de estado no-volátil.
 21
-Your team's 'Super Effective' moves deals 12% more damage.
-Los movimientos “Súper Efectivos” de tu equipo son potenciados un 12%.
+Your team members take 15% less move damage if they choose an attack this turn.
+Tu equipo recibe un 15% menos de daño si están usando un ataque en el mismo turno.
+22
+Whenever a member of your team uses a status move, they'll deal 25% more move damage next turn.
+Si tus Pokémon usan un movimiento de estado, sus ataques serán potenciados un 25% en el siguiente turno.
 [29]
 0
 Abrasive
