@@ -713,7 +713,7 @@ sp.form) && !Settings::DEX_SHOWS_ALL_FORMS
         # Or of any of its evolutions
         if isSTAB
             moveName = "<b>#{moveName}</b>"
-        elsif move_data.category < 2 && isAnyEvolutionOfType(fSpecies, move_data.type)
+        elsif move_data.category != 2 && isAnyEvolutionOfType(fSpecies, move_data.type)
             moveName = "<i>#{moveName}</i>"
         end
 
@@ -729,16 +729,6 @@ sp.form) && !Settings::DEX_SHOWS_ALL_FORMS
             shadow = MessageConfig.pbDefaultTextShadowColor
         end
         return moveName, color, shadow
-    end
-
-    def isAnyEvolutionOfType(species_data, type)
-        ret = false
-        species_data.get_evolutions.each do |evolution_data|
-            evoSpecies_data = GameData::Species.get_species_form(evolution_data[0], @form)
-            ret = true if [evoSpecies_data.type1, evoSpecies_data.type2].include?(type)
-            ret = true if isAnyEvolutionOfType(evoSpecies_data, type) # Recursion!!
-        end
-        return ret
     end
 
     MAX_LENGTH_MOVE_LIST = 6
