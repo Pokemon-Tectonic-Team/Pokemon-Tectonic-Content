@@ -59657,6 +59657,198 @@ Enamorus: Wish of Spring
 Enamorus: Deseo Primaveral
 Raises the side's Sp. Def by 50%. On the final turn, that side is cured of non-volatile status conditions and mental conditions.
 Aumenta la Defensa Especial un 50%. En el turno final, este es curado de problemas de estado no-volátiles y condiciones mentales.
+Swap Box
+Mover Cajas
+Can't swap boxes while you have a Pokémon in your hand!
+¡No puedes mover cajas mientras estás sosteniendo un Pokémon!
+Swap with which Box?
+¿Moverla por cualquier Caja?
+That's the current box!
+¡Esa es la caja actual!
+{1} has swapped position with {2}!
+¡{1} cambió de posiciones con {2}!
+Do you want to delete this save file?
+¿Quieres borrar este archivo de guardado?
+Fight her in Novo Town.
+Combate contra ella en Pueblo Novo
+Fight him in East Tunnel.
+Combate contra él en Túnel Oriental
+East Tunnel
+Túnel Oriental
+A flower keeper at the south entrance of Novo Town says she'll give you a reward to celebrate completing your 4th gym. You won't forget her, right?
+Una florista en la entrada sur de Pueblo Novo dice que te dará una recompensa para celebrar tu victoria ante tu cuarto gimnasio. No la olvidarás, ¿cierto?
+The Bucket List
+Lista de Deseos
+Old Lady
+Señora
+Show her a legendary.
+Muéstrale un legendario.
+East-Peaks Gatehouse
+Portería Oriental-Picos
+An elderly lady notices your strength and status, and figures you may have a legendary Pokémon. She only wishes to see it and admire it. How about humoring her request? I'm sure there is something powerful in this region that you could find.
+Una mujer mayor quiere ver tu fuerza y estatus, y piensa que debes tener un Pokémon legendario. Ella solo desea admirarlo. ¿Y si decides mostrarle uno?
+Dr. Hekata heard of your dealings in the Chamber of Regigigas, and wants you to return there to find a magical artifact.
+Dr. Hekata escuchó sobre tus escapadas en la Cámara de Regigigas, y quiere que regreses allí para encontrar un artefacto mágico.
+You've found the Primal Clay, the artifact that Dr. Hekata was interested in. Return to her house to show it to her.
+Has encontrado la Arcilla Primitiva, el artefacto en el que Dr. Hekata estaba interesada. Regresa a su hogar para mostrárselo.
+To Train Your Dragons
+Entrenar a tus Dragones
+Fully evolve every Dragon Egg.
+Evoluciona a todos tus Huevos Dragón.
+It appears Chara is your next target, found in Sweetrock. You're certain this won't be any more challenging than your previous fight.
+Parece que Chara es tu siguiente objetivo, encontrada en Sweetrock. Claramente no será más desafiante que tu combate anterior.
+But it failed, since the opposing side already has {1} layers of {2}!
+¡Pero falló, ya que el lado contrario ya tiene {1} capas de {2}!
+{1} gives a taste of what's to come!
+¡{1} muestra una pizca de lo que se viene!
+{1} weaves a tale of woe and horror!
+¡{1} teje una historia de infortunio y calamidad!
+{1} knows when {1}'s time will run out!
+¡{1} sabe cuando el tiempo de {1} terminará!
+{1} feels a chill on the air... winter is coming!
+¡{1} siente un escalofrío... el invierno se acerca!
+{1} is fully charged. It's about to explode!
+{1} está completamente cargado. ¡Está a punto de explotar!
+{1} is generating a repulsion field!
+¡{1} está generando un campo de repulsión!
+{1} yearns for a high-quality room!
+¡{1} anhela una zona de alta calidad!
+Cruel Cocoon is continually active on the opposing side.
+Crisálida Cruel está continuamente activo en el lado contrario.
+Misdirecting Fog is continually active on the opposing side.
+Niebla Ilusoria está continuamente activo en el lado contrario.
+Turbulent Sky is continually active on the opposing side.
+Cielo Turbulento está continuamente activo en el lado contrario.
+Primal Forest is continually active on the opposing side.
+Bosque Primitivo está continuamente activo en el lado contrario.
+{1} is crushed by the distorted gravity!
+¡{1} es aplastado por la gravedad distorsionada!
+{1} turns upside down! Its stat steps are inverted!
+¡{1} se da la vuelta! ¡Sus cambios de estadísticas son invertidos!
+{1} caramelizes slightly in the heat.
+{1} es caramelizado en el calor.
+Ions in the atmosphere react to {1}!
+¡Los iones en la atmósfera reaccionan a {1}!
+The ions around {1} settled down.
+Los iones alrededor de {1} se estabilizan.
+{1} is pierced by spines hidden near {2}!
+¡{1} es atravesado por espinas cerca de {2}!
+{1} anchors itself in the ground!
+¡{1} se clava en la tierra!
+{1} gathered up material.
+{1} reunió materiales.
+But {1} is already energized...
+Pero {1} ya está energizado...
+{1} scattered debris that became Spikes!
+¡{1} escombros que se convirtieron en Púas!
+{1}'s rainbows shine with an aura of {2}!
+¡Los arcoíris de {1} brillan con un aura de {2}!
+{1} is being magnetized!
+¡{1} está siendo magnetizado!
+{1} heals its party members!
+¡{1} cura a sus compañeros!
+{1} hurt itself in an extreme rage!
+¡{1} es lastimado en su ira extrema!
+{1} collected the {2} type!
+¡{1} colecciona el tipo {2}!
+{1} is caught in the pincers!
+¡{1} es atrapado en las tenazas!
+{1} is caught in a lasso!
+¡{1} es atrapado en un lazo!
+{1} takes on a new machine!
+¡{1} posee una nueva máquina!
+{1} prepares its response!
+¡{1} prepara su respuesta!
+{1} steals the energy from its moonstruck enemies!
+¡{1} extrae la energía de los enemigos!
+{1} is restored by the full moon!
+¡{1} es restaurado por la luna llena!
+{1} regenerates in safety.
+{1} se regenera en su seguridad.
+{1} bonds with its younger allies!
+¡{1} protege a sus jóvenes aliados!
+{1} is immune to the pressure of the walls!
+¡{1} es inmune a la presión de las paredes!
+The walls close in on {1}!
+¡Las paredes se cierran en {1}!
+{1} is a killjoy! Stats can't be raised!
+¡{1} es un aguafiestas! ¡Las estadísticas no pueden ser aumentadas!
+{1} is quick onto the scene!
+¡{1} entrá rápido a la escena!
+{1} is hopping mad!
+¡{1} salta furioso!
+{1} is shining with light speed!
+¡{1} brilla a la velocidad de la luz!
+{1} is quick on the draw!
+¡{1} dispara rápidamente!
+{1} is ferocious!
+¡{1} es feroz!
+{1} tricks the eye!
+¡{1} es engañoso!
+{1} saturates the field with death!
+¡{1} satura el campo con muerte!
+{1} saturates the field with life!
+¡{1} satura el campo con vida!
+{1} prevents rooms from decaying!
+¡{1} impide que las zonas decaigan!
+Which type should {1} fake?
+¿Qué tipo debería {1} fingir?
+{1} twists the dimensions!
+¡{1} retuerce las dimensiones!
+{1} is trailing rainbows behind it!
+¡Un rastro de arcoíris sigue a {1}!
+Stardust churns all around.
+Polvo estelar inunda el campo.
+An ice age is here.
+La era glacial está aquí.
+The star storm continues!
+¡La tormenta estelar continúa!
+The ice age may go on forever!
+¡La era glacial podría ser eterna!
+Stardust is churning around!
+¡Polvo estelar inunda el campo!
+An ice age began!
+¡La era glacial comienza!
+The star storm ceases!
+¡La tormenta estelar cesa!
+The ice age makes way!
+¡La era glacial finaliza!
+The barrage of stardust shows signs of stopping!
+¡La ráfaga de polvo estelar parece detenerse!
+The ice age begins to end!
+¡La edad glacial llega a su final!
+The star storm is unstoppable!
+¡La tormenta estelar es imparable!
+The ice age is still in control!
+¡La edad glacial aún está en control!
+The stardust expands! Its damage has doubled!
+¡La tormenta estelar se expande! ¡Su daño es duplicado!
+The stardust expands yet again!
+¡La tormenta estelar es expandidad una vez más!
+{1} is shredded by gigantic particles of iron stardust!
+¡{1} es destrozado por partículas gigantes de polvo estelar férreo!
+{1} is buffeted by gigantic particles of stardust!
+¡{1} es lastimado por partículas gigantes de polvo estelar!
+{1} is shredded by large particles of iron stardust!
+¡{1} es destrozado por grandes partículas de polvo estelar férreo!
+{1} is buffeted by large particles of stardust!
+¡{1} es lastimado por grandes partículas de polvo estelar!
+{1} is shredded by iron stardust!
+¡1} es lastimado por polvo estelar férreo!
+{1} is buffeted by stardust!
+¡{1} es lastimado por polvo estelar!
+{1} is pummeled by the bitterly cold shards of ice!
+¡{1} es apaleado por fragmentos de hielo!
+{1} is buffeted by shards of ice!
+¡{1} es lastimado por fragmentos de hielo!
+Rampaging Pokémon can't be switched out!
+¡No puedes cambiar un Pokémon que esté arrasando!
+{1} is about to send in {2}. Will you switch out {3}?
+{1} está a punto de enviar a {2}. ¿Quieres cambiar a {3}?
+{1} absorbed a layer of the {2}!
+¡{1} absorbió una capa de {2}!
+{1} takes control of time itself!
+¡{1} toma control del tiempo!
 [26]
 [27]
 [27]
