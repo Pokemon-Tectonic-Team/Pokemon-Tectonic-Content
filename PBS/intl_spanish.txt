@@ -40065,7 +40065,7 @@ The user dives down with its beak wide open. Transforms into Gulping or Gorging 
 El usuario bucea con su boca completamente abierta. Se transforma en su forma Tragatodo o Engulletodo.
 [7]
 Pearl of Wisdom
-Pearl Sabiduría
+Perla Sabiduría
 Repel
 Repelente
 Honey
@@ -43086,6 +43086,7 @@ A drop of ancient clay. Use it to summon a Pokemon from a resonating totem.
 Una pizca de arcilla antigua. Úsala para invocar un Pokémon de un tótem resonante una vez.
 A lump of ancient clay. Allows you to summon any number of Pokemon from resonating totems.
 Un montón de arcilla antigua. Úsala para invocar Pokémon de tótems resonantes.
+An item to be held by a Pokémon. Signature attacks made by the holder are boosted by 40%.
 Uh objeto equipable. Movimientos característicos son potenciados un 40%.
 If held by a Pokémon and a physical attack hits it, raises the holder's Defense by four steps.
 Si es alcanzado por un ataque físico, aumenta la Defensa del portador cuatro grados.
@@ -46748,7 +46749,7 @@ Potencia movimientos de cualquier clase un 20%.
 Upon entry, summons Autumn Harvests on this Pokémon's side for four turns.
 Al entrar al campo, invoca Cosechas de Otoño en el lado del Pokémon durante cuatro turnos.
 Upon entry, summons Spring Plantings on this Pokémon's side for four turns.
-Al entrar al campo, invoca Siembras de Privamera en el lado del Pokémon durante cuatro turnos.
+Al entrar al campo, invoca Siembras de Primavera en el lado del Pokémon durante cuatro turnos.
 Upon entry, summons Summer Festivals on this Pokémon's side for four turns.
 Al entrar al campo, invoca Festivales de Verano en el lado del Pokémon durante cuatro turnos.
 Upon entry, summons Winter Hunts on this Pokémon's side for four turns.
@@ -59522,13 +59523,13 @@ Equipables Misc.
 Candy
 Caramelos
 Evolution Items
-Objetos Evolutivos
+Obj. Evolutivos
 Passive Tools
-Herramientas Pasivas
+Herr. Pasivas
 Active Tools
-Herramientas Activas
+Herr. Activas
 Held Berries
-Objetos Equipables
+Obj. Equipables
 Held Gems
 Gemas
 Held Herbs
@@ -59849,6 +59850,686 @@ Rampaging Pokémon can't be switched out!
 ¡{1} absorbió una capa de {2}!
 {1} takes control of time itself!
 ¡{1} toma control del tiempo!
+You cannot mass-move Pokémon into a Donation Box.
+No puedes mover Pokémon en masa a una Caja de Donaciones.
+Move Selection
+Mover Selección
+Clear Selection
+Quitar Selección
+Do what with your {1} selected Pokémon?
+¿Qué vas a hacer con tus {1} Pokémon seleccionados?
+You cannot multi-select Pokémon that are in a Donation Box.
+No puedes seleccionar múltiples Pokémon que estén en una Caja de Donación.
+Cannot multi-select more than a box's worth of Pokémon.
+No puedes seleccionar más Pokémon de los que hay en una caja.
+Cannot mass move into an occupied spot.
+No puedes mover en masa hacia un espacio ocupado.
+Cannot move all able Pokémon out of your party.
+No puedes mover todos los Pokémon en tu equipo.
+Cannot mass move to this spot.
+No puedes mover en masa hacia este lugar.
+{1} open slots are needed, and there are only {2} here.
+{1} espacios vacíos son necesarios, y solo hay {2}.
+ERROR! Party ended up higher than the size maximum.
+¡ERROR! El equipo es mayor al tamaño máximo.
+{1} Pokémon have been mass moved to your party.
+{1} Pokémon han sido movidos en masa a tu equipo.
+ERROR! Couldn't move all Pokémon in a mass move.
+¡ERROR! No puedieron ser movidos en masa todos los Pokémon.
+{1} Pokémon have been mass moved to {2}.
+{1} Pokémon han sido movidos en masa a {2}.
+View Moves
+Ver Movimientos
+View Items
+Ver Objetos
+View Item
+Ver Objetos
+View which information?
+¿Qué quieres ver?
+View which item?
+¿Cuál objetos quieres ver?
+Take All Items
+Tomar Objetos
+Has Prevo and Evo
+Tiene Prevo y Evo
+Non-4-Tempo
+No-Ritmo-de-4
+Ends before value
+Termina antes de
+Too Many 1s
+Muchos 1s
+Above 70
+Más de 70
+No Pre-16 Stab
+No STAB Pre-16
+No 16-31 Stab
+No STAB 16-31
+No 32-44 Stab
+No STAB 32-44
+Duplicate Moves
+Duplicar Movimientos
+Not Legendary
+No Legendarios
+Save & Quit to Menu
+Guardar y Salir al Menú
+Save & Quit to Desktop
+Guardar y Salir al Escritorio
+Quit to Menu
+Salir al Menú
+{1}'s positive stat changes were eliminated!
+¡Los cambios de stats positivos de {1} fueron eliminados!
+It'll take one third recoil from its own attacks
+Recibirá un tercio del daño de retroceso de sus ataques
+Frostbite damage is double below half health
+El daño de la heladura es duplicado al perder la mitad de ps
+Its highest stat is lowered each turn
+Su stat más alta es disminuida cada turno
+{1} was severely burned! {2}!
+¡{1} fue severamente quemado! ¡{2}!
+{1} is severely numbed! {2}!
+¡{1} fue severamente aturdido! ¡{2}!
+{1} was severely frostbitten! {2}!
+¡{1} fue severamente helado! ¡{2}!
+{1} was severely burned!
+¡{1} fue severamente quemado!
+{1} is severely numbed!
+¡{1} fue severamente aturdido!
+{1} was severely frostbitten!
+¡{1} fue severamente helado!
+A neurotoxin emitter is in the opposing party!
+¡Un emisor de neurotoxinas está en el lado rival!
+Due to {1}, {2} will be unable to use the same move twice in a row.
+Debido a {1}, {2} no podrá usar el mismo movimiento dos veces seguidas.
+The poison starts already doubled!
+¡El veneno ya empieza duplicado!
+{1}'s poison worsened! The damage will be doubled until it leaves the field.
+¡El veneno de {1} empeoró! El damaño será duplicado hasta que salga del campo.
+{1}'s poison doubled yet again!
+¡El veneno de {1} es duplicado una vez más!
+{1} was hurt by its severe burn!
+¡{1} fue lastimado por su quemadura severa!
+{1} was intensely hurt by severe frostbite!
+¡{1} fue intensamente lastimado por su heladura severa!
+{1} was hurt by severe frostbite!
+¡{1} fue lastimado por su heladura severa!
+{1} cringes from their severe burn!
+¡{1} se resiente de su quemadura severa!
+{1} got too rowdy!
+¡{1} hace demasiado ruido!
+{1} was punished for its joy!
+¡{1} fue castigado por su alegría!
+The {1} supplemented {2}'s power and made it {3}!
+¡{1} suplementó el poder de {2} e hizo {3}!
+{1} used its energy to empower {2}!
+¡{1} uso su energía para empoderar {2}!
+{1} lands a flashy hit!
+¡{1} consigue final de película!
+The tangling vines strengthened the hit!
+¡Las lianas potenciaron el golpe!
+{1} is blinded, and partially misses!
+¡{1} está cegado, y falla parcialmente!
+{1} can't use the same move twice in a row due to the neurotoxin!
+¡{1} no puede usar el mismo movimiento dos veces seguidas por su neurotoxina!
+{1} can only use {2}-type moves!
+¡{1} solo puedo usar movimientos de tipo {2}!
+{1} can't use this attack while rampaging!
+¡{1} no puede usar este ataque mientras arrasa!
+{1} was flooded by {2}!
+¡{1} fue inundado por {2}!
+{1} was burned by {2}!
+¡{1} fue quemado por {2}!
+{1} was frostbitten by {2}!
+¡{1} fue helado por {2}!
+{1} lines up metal shards!
+¡{1} alinea fragmentos de metal!
+Ancient cold crystallizes around {1}!
+¡Frío antiguo se cristaliza alrededor de {1}!
+{1} begins to energize!
+¡{1} empieza a energizarse!
+The next physical hit from {1} will numb.
+El siguiente ataque físico de {1} aturdirá.
+The next special hit from {1} will numb.
+El siguiente ataque especial de {1} aturdirá.
+The next physical hit from {1} will poison.
+El siguiente ataque físico de {1} envenenará.
+The next special hit from {1} will poison.
+El siguiente ataque especial de {1} envenenará.
+The next physical hit from {1} will burn.
+El siguiente ataque físico de {1} quemará.
+The next special hit from {1} will burn.
+El siguiente ataque especial de {1} quemará.
+The next physical hit from {1} will frostbite.
+El siguiente ataque físico de {1} helará
+The next special hit from {1} will frostbite.
+El siguiente ataque especial de {1} helará.
+The next physical hit from {1} will dizzy.
+El siguiente ataque físico de {1} mareará.
+The next special hit from {1} will dizzy.
+El siguiente ataque especial de {1} mareará.
+The next physical hit from {1} will leech.
+El siguiente ataque físico de {1} infectará.
+The next special hit from {1} will leech.
+El siguiente ataque especial de {1} infectará.
+The next physical hit from {1} will waterlog.
+El siguiente ataque físico de {1} embebará.
+The next special hit from {1} will waterlog.
+El siguiente ataque especial de {1} embebará.
+{1} will flinch next turn!
+¡{1} será aturdido en el siguiente turno!
+{1} is stuck! It can't be moved!
+¡{1} está estancado! ¡No puede moverse!
+{1} is no longer stuck.
+{1} ya no está estancado.
+{1} spun down from its rampage.
+{1} ya no está arrasando.
+Exhaustion finally catches up with {1}!
+¡{1} está finalmente exhausto!
+{1} is no longer being type-restricted.
+{1} ya no está siendo restringido.
+{1} is no longer trapped by {2}!
+¡{1} ya no está atrapado por {2}!
+{1} is beginning to shrink down!
+¡{1} está empezando a reducirse!
+{1} is cured of its shrinking!
+¡{1} fue curado de su reducimiento!
+{1} is no longer shrinking down!
+¡{1} ya no está reduciéndose!
+{1} got smaller! Its highest stat is going down!
+¡{1} es más pequeño! ¡Su stat más alta se está reduciendo!
+{1} is experiencing a sugar rush!
+¡{1} está experimentando un subidón de azúcar!
+It'll take double move damage and have doubled speed, for {1} more turns!
+¡Recibirá el doble de daño y su velocidad será duplicada durante {1} turnos más!
+{1} was forced out of its sugar rush!
+¡{1} ya no sufre un subidón de azúcar!
+{1} calmed down from its sugar rush!
+¡El subidón de azúcar {1} terminó!
+{1} is blinded!
+¡{1} fue cegado!
+It'll deal half as much damage on its next attack!
+¡Su próximo ataque tendrá la mitad de potencia!
+{1} is no longer blinded.
+{1} ya no está cegado.
+{1} is bound in {2}'s tangling vines!
+¡{1} está atrapado en las lianas de {2}!
+{1} is no longer bound in tangling vines.
+{1} ya no está atrapado por las lianas.
+The spotlight will boost {1}'s next Normal-type attack!
+¡El foco potenciará el siguiente ataque de tipo Normal de {1}!
+{1} is carried off by feathers!
+¡{1} fue arrastrado por plumas!
+{1} was placed under quarantine!
+¡{1} fue puesto en cuarentena!
+The quarantine around {1} was lifted!
+¡{1} fue liberado de su cuarentena!
+The quarantine around {1} ended!
+¡La cuarentena de {1} terminó!
+{1} vanquishes its opponents!
+¡{1} aniquila a sus oponentes!
+{1} draws strength from patience!
+¡La paciencia de {1} da frutos!
+A fierce resolution gathers around {1}!
+¡Una fuerte resolución se concentra alrededor de {1}!
+This will last for the rest of the battle!
+¡Esto durará por el resto del combate!
+{1} comes to avenge {2}!
+¡{1} llega para vengar a {2}!
+{1} was powered up by the trail of stormy energy left by {2}!
+¡{1} fue potenciado por un rastro de energía tormentosa dejado por {2}!
+{1} was enwrapped by the trail of mist left by {2}!
+¡{1} fue envuelto en el rastro de niebla dejado por {2}!
+{1} was enraged by the trail of magma left by {2}!
+¡{1} fue enfurecido por el rastro de magma dejado de {2}!
+The ground below {1} was surrounded by rocky shards!
+¡La tierra debajo de {1} fue rodeada por fragmentos rocosos!
+{1} is hurt by the rocky shards!
+¡{1} es lastimado por los fragmentos rocosos!
+The rocky shards surrounding {1} were sent away.
+¡Los fragmentos rocosos alrededor de {1} fueron eliminados.
+The rocky shards surrounding {1} crumbled away.
+Los fragmentos rocosos alrededor de {1} se desmoronaron.
+{1} is protected by a blessed wall of light!
+¡{1} es protegido por una muro de luz bendito!
+{1}'s Sanctuary was removed!
+¡El Santuario de {1} fue removido!
+{1} is no longer protected by Sanctuary.
+{1} ya no está protegido por el Santuario.
+The fog on {1}'s side dissipated.
+La niebla en el lado de {1} se ha disipado.
+{1} began the spring plantings!
+¡{1} empieza las siembras de primavera!
+Their Sp. Def will be raised by 50 percent for {1} more turns!
+¡Su Defensa Especial será aumentada un 50 porciento durante {1} turnos más!
+{1} cancelled their spring plantings.
+{1} canceló sus siembras de primavera.
+{1} completed their spring plantings!
+¡{1} completo sus siembras de primavera!
+{1}'s spring plantings are finishing!
+¡Las siembras de primavera de {1} están finalizando!
+{1} is refreshed of physical and mental ailments!
+¡{1} se recuperó de sus condiciones físicas y mentales!
+{1} began the summer festivals!
+¡{1} empezó las festividades de verano!
+Their Speed will be raised by 50 percent for {1} more turns!
+¡Su Velocidad será aumentada un 50 porciento durante {1} turnos más!
+{1} cancelled their summer festivals.
+{1} canceló sus festividades de verano.
+{1} completed their summer festivals!
+¡{1} completó sus festividades de verano!
+{1}'s summer festivals are finishing!
+¡Las festividades de verano de {1} están finalizando!
+They'll deal 50 percent more move damage this turn, but take 25 percent recoil!
+¡Su daño es potenciado un 50 porciento este turno, pero recibirá 25 porciento de daño de retroceso!
+{1} began the autumn harvests!
+¡{1} empezó las cosechas de otoño!
+Their Defense will be raised by 50 percent for {1} more turns!
+¡Su Defensa será aumentada un 50 durante {1} turnos más!
+{1} cancelled their autumn harvests.
+¡{1} canceló las cosechas de otoño.
+{1} completed their autumn harvests!
+¡{1} completó las cosechas de otoño!
+{1}'s autumn harvests are finishing!
+¡Las cosechas de otoño de {1} están finalizando!
+They receive a healthy bounty!
+¡Recibe un aumento de salud!
+{1} began the winter hunts!
+¡{1} empieza las cacerías de invierno!
+Their Accuracy will be raised by 50 percent for {1} more turns!
+¡Su Precisión será aumentada un 50 porciento durante {1} turnos más!
+{1} cancelled their winter hunts.
+{1} canceló las cacerías de invierno.
+{1} completed their winter hunts!
+¡{1} completó las cacerías de invierno!
+{1}'s winter hunts are finishing!
+¡Las cacerías de invierno de {1} está finalizando!
+They'll have +1 priority this turn!
+¡Tendrán +1 de prioridad este turno!
+A Primeval Tailwind blew from behind {1}!
+¡Un Viento Afín Primitivo sopla detrás de {1}!
+{1}'s Primeval Tailwind was stopped!
+¡El Viento Afín de {1} fue detenido!
+{1}'s Primeval Tailwind petered out.
+El Viento Afín de {1} amainó.
+A feather fell to the ground around {1}.
+Una pluma cae al suelo alrededor de {1}.
+The second feather fell to the ground around {1}.
+Una segunda pluma cae al suelo alrededor de {1}.
+The third and final feather fell to the ground around {1}.
+La tercera y última pluma cae al suelo alrededor de {1}.
+{1} feathers fell to the ground around {2}.
+{1} pluman caen al suelo alrededor de {2}.
+The feathers around {1} were absorbed!
+¡Las plumas alrededor de {1} fueron absorbidas!
+A scale fell to the ground around {1}.
+Una escama cayó al suelo alrededor de {1}.
+The second scale fell to the ground around {1}.
+Una segunda escama cayó al suelo alrededor de {1}.
+The third and final scale fell to the ground around {1}.
+La tercera y última escama cayó al suelo alrededor de {1}.
+{1} scales fell to the ground around {2}.
+{1} escamas cayeron al suelo alrededor de {2}.
+The scales around {1} were absorbed!
+¡Las escamas alrededor de {1} fueron absorbidas!
+A fang fell to the ground around {1}.
+Un colmillo cayó al suelo alrededor de {1}.
+The second fang fell to the ground around {1}.
+Un segundo colmillo cayó al suelo alrededor de {1}.
+The third and final fang fell to the ground around {1}.
+El tercer y último colmillo cayó al suelo alrededor de {1}.
+{1} fang fell to the ground around {2}.
+{1} colmillos cayeron al suelo alrededor de {2}.
+The fangs around {1} were absorbed!
+¡Los colmillos alrededor de {1} fueron absorbidos!
+A scute fell to the ground around {1}.
+Una placa cayó al suelo alrededor de {1}.
+The second scute fell to the ground around {1}.
+Una segunda placa cayó al suelo alrededor de {1}.
+The third and final scute fell to the ground around {1}.
+La tercera y última placa cayó al suelo alrededor de {1}.
+{1} scutes fell to the ground around {2}.
+{1} placas cayeron al suelo alrededor de {2}.
+The scutes around {1} were absorbed!
+¡Las placas alrededor de {1} fueron absorbidas!
+{1} is blessed by the Wishing Well!
+¡{1} es bendecido por la Fuente de los Deseos!
+It'll block random added effects for {1} turns !
+¡Impedirá efectos secundarios aleatorios durante {1} turnos!
+{1} was healed by the Wishing Well!
+¡{1} fue curado por la Fuente de los Deseos!
+{1} is no longer blessed by the Wishing Well.
+{1} ya no está bendecido por la Fuente de los Deseos.
+{1} is veiled with crystal! It's a {2}-type!
+¡{1} está cubierto de cristales! ¡Es de tipo {2}!
+Balanced
+Balanceado
+There are still Style Points points left to assign!
+¡Aún quedan Puntos de Estilo que asignar!
+The harsh sunlight prevents the hit from being critical!
+¡El sol abrasador impide que el golpe sea crítico!
+The blessing around {1} prevented the hit from being critical!
+¡La bendición alrededor de {1} impide que el golpe sea crítico!
+The sanctuary around {1} prevented the hit from being critical!
+¡El santuario alrededor de {1} impide que el golpe sea crítico!
+The heavy rain prevents a random added effect!
+¡El diluvio impide el efecto secundario aleatorio!
+The Wishing Well protects {1} from a random added effect!
+¡La Fuente de los Deseos protege a {1} de un efecto secundario aleatorio!
+{1} is too powerful to be compelled to rest!
+¡{1} es demasiado poderoso para forzarlo a descansar!
+Heals more the heavier the user is.
+Cura más dependiendo del peso del usuario.
+<u>{1} {2} and more:</u> 100%
+<u>{1} {2} y más:</u> 100%
+<u>{1} {2} and less:</u> 6.25%
+<u>{1} {2} y menos:</u> 6.25%
+But it failed, since {1} has no team members to heal!
+¡Pero falló, ya que {1} no tiene compañeros a los que curar!
+A bell rings out! Dinner is on!
+¡Una campana suena! ¡La cena está lista!
+{1} used Light That Burns the Sky!
+¡{1} usó Fotodestrucción Apocalíptica!
+Bright lights bursts out of {1}!
+¡{1} expulsa luz por todas partes!
+But it failed, since there are not enough coins on the field!
+¡Pero falló, ya que no hay suficientes monedas en el campo!
+{1} coins were thrown in the Wishing Well!
+¡{1} monedas fueron lanzadas a la Fuente de los Deseos!
+There were no coins to throw in the Wishing Well...
+No habían monedas que lanzar a la Fuente de los Deseos...
+{1} sends another volley!
+¡{1} envía otra ráfaga!
+{1} created a golden pyre!
+¡{1} creó una llama dorada!
+{1} emerged from the pyre!
+¡{1} emergió de las llamas!
+{1} became ensnared by electricity!
+¡{1} es envuelto en electricidad!
+{1} takes a curative nap!
+¡{1} se toma una siesta curativa!
+{1} disappears into mist!
+¡{1} desaparece entre la niebla!
+{1} hid in the darkness!
+¡{1} se esconde en la oscuridad!
+{1} melded into the foliage!
+¡{1} se camufla en el follage!
+Does more damage the lower the user's HP is. Range 100-800
+Cuantos menos PS tenga el usuario, más daño hace. Rango 100-800
+<u>100% HP:</u> 100 BP
+<u>100% PS:</u> 100 PB
+<u>50% HP:</u> 200 BP
+<u>50% PS:</u> 200 PB
+<u>30% HP:</u> 280 BP
+<u>30% PS:</u> 280 PB
+<u>20% HP:</u> 400 BP
+<u>20% PS:</u> 400 PB
+<u>15% HP:</u> 480 BP
+<u>15% PS:</u> 480 PB
+<u>10% HP:</u> 660 BP
+<u>10% PS:</u> 660 PB
+<u>7.5% HP:</u> 800 BP
+<u>7.5% PS:</u> 800 PB
+{1} gathered energy!
+¡{1} reunió energía!
+{1} started singing!
+¡{1} empezó a contar!
+But it failed, since the Bug-type doesn't exist!
+¡Pero falló, ya que el tipo Bicho no existe!
+<u>No Machine</u>: Numb
+<u>Sin Máquina</u>: Aturdir
+Turns into a different move depending on the environment.
+Se convierte en un movimiento distinto dependiendo del ambiente.
+<u>Grassy</u>: Energy Ball
+<u>Frondoso</u>: Energibola
+<u>Water</u>: Bubble Blaster
+<u>Agua</u>: Cañón Burbuja
+<u>Caves</u>: Power Gem
+<u>Cuevas</u>: Joya de Luz
+<u>Rocky, Sandy</u>: Earth Power
+<u>Rocoso, Arenoso</u>: Tierra Viva
+<u>Snowy, Icy</u>: Ice Beam
+<u>Nevado, Helado</u>: Rayo Hielo
+<u>Volcanos</u>: Flamethrower
+<u>Volcanes</u>: Lanzallamas
+<u>Graveyards</u>: Shadow Ball
+<u>Cementerios</u>: Bola Sombra
+<u>In The Sky</u>: Air Slash
+<u>En el Cielo</u>: Tajo Aéreo
+<u>Space</u>: Draco Meteor
+<u>Espacio</u>: Meteoro Draco
+<u>Ultraspace</u>: Psycho Boost
+<u>Ultraespacio</u>: Psicoataque
+<u>Everywhere Else</u>: Ruin
+<u>Otros Lugares</u>: Ruina
+Which drive should {1} use?
+¿Cuál ROM debería usar {1}?
+{1} loaded a {2}!
+¡{1} cargó {2}!
+But it failed, since the target is already under quarantine!
+¡Pero falló, ya que el objetivo ya está en cuarentena!
+But it failed, since the target is already trapped and can't be disabled!
+¡Pero falló, ya que el objetivo ya está atrapado y no puede ser anulado!
+But it failed, since {1} is already blinded!
+¡Pero falló, ya que {1} ya estña cegado!
+But it failed, since {1} is already shrinking!
+¡Pero falló, ya que {1} ya está reduciéndose!
+But it failed, since there are already rocky shards on the ground beneath {1}!
+¡Pero falló, ya que ya hay fragmentos rocosos en la tierra debajo de {1}!
+{1} will revive in five turns!
+¡{1} revivirá en cinco turnos!
+Does more damage the more HP the user has left. Affected by Overhealing.
+Cuantos más PS tenga el usuario, más daño hace. Afectado por la Sobrecuración.
+Range 65-195
+Rango 65-195
+<u>50% HP:</u> 65 BP
+<u>50% PS:</u> 65 PB
+<u>75% HP:</u> 95 BP
+<u>75% PS:</u> 95 PB
+<u>100% HP:</u> 130 BP
+<u>100% PS:</u> 130 PB
+<u>125% HP:</u> 160 BP
+<u>125% PS:</u> 160 PB
+<u>150% HP:</u> 195 BP
+<u>150% PS:</u> 195 PB
+Does more damage the slower the user is compared to the target. Range 40-150
+Cuanto más lento sea el usuario comparado al objetivo, más daño hace. Rango 40-150
+<u>1/2 of the target's speed:</u> 50 BP
+<u>1/2 de la velocidad rival:</u> 50 PB
+<u>1/3 of the target's speed:</u> 75 BP
+<u>1/3 de la velocidad rival:</u> 75 PB
+<u>1/4 of the target's speed:</u> 100 BP
+<u>1/4 de la velocidad rival:</u> 100 PB
+<u>1/5 of the target's speed:</u> 125 BP
+<u>1/5 de la velocidad rival:</u> 125 PB
+<u>1/6 of the target's speed:</u> 150 BP
+<u>1/6 de la velocidad rival:</u> 150 PB
+Does more damage the lower the user's HP is. Range 25-200
+Cuanto menos PS tenga el usuario, más daño hace. Rango 25-200
+<u>100% HP:</u> 25 BP
+<u>100% PS:</u> 25 PB
+<u>50% HP:</u> 50 BP
+<u>50% PS:</u> 50 PB
+<u>30% HP:</u> 70 BP
+<u>30% PS:</u> 70 PB
+<u>20% HP:</u> 100 BP
+<u>20% PS:</u> 100 PB
+<u>15% HP:</u> 120 BP
+<u>15% PS:</u> 120 PB
+<u>10% HP:</u> 165 BP
+<u>10% PS:</u> 165 PB
+<u>7.5% HP:</u> 200 BP
+<u>7.5% PS:</u> 200 PB
+Does more damage the faster the user is compared to the target. Range 40-150
+Cuanto más veloz sea el usuario comparado al objetivo, más daño hace. Rango 40-150
+<u>Slower than target:</u> 40 BP
+<u>Más lento que el objetivo:</u> 40 PB
+<u>Same Speed as target:</u> 45 BP
+<u>Misma Velocidad que el objetivo:</u> 45 PB
+<u>1.5x faster than target:</u> 60 BP
+<u>1.5x más rapido que el objetivo:</u> 60 PB
+<u>2x faster than target:</u> 80 BP
+<u>2x más rapido que el objetivo:</u> 80 PB
+<u>3x faster than target:</u> 115 BP
+<u>3x más rapido que el objetivo:</u> 115 PB
+<u>4x faster than target:</u> 150 BP
+<u>4x más rapido que el objetivo:</u> 150 PB
+Does more damage the heavier the target is. Range 20-195
+Cuanto más pesado el objetivo sea, más daño hace. Rango 20-195
+<u>Less than {1} {2}:</u> 20 BP
+<u>Menos que {1} {2}:</u> 20 PB
+<u>{1} - {2} {3}:</u> 25 BP
+<u>{1} - {2} {3}:</u> 25 BP
+<u>{1} - {2} {3}:</u> 50 BP
+<u>{1} - {2} {3}:</u> 50 PB
+<u>{1} - {2} {3}:</u> 100 BP
+<u>{1} - {2} {3}:</u> 100 PB
+<u>{1} - {2} {3}:</u> 140 BP
+<u>{1} - {2} {3}:</u> 140 PB
+<u>>{1} {2}:</u> 160 BP
+<u>>{1} {2}:</u> 160 PB
+Does more damage the heavier the user is compared to the target. Range 40-125
+Cuanto más pesado sea el usuario comparado al objetivo, más daño hace. Rango 40-125
+<u>1/5 of target's weight:</u> 40 BP
+<u>1/5 del peso rival:</u> 40 PB
+<u>Same weight as target:</u> 55 BP
+<u>Mismo peso que el objetivo:</u> 55 PB
+<u>2x heavier than target:</u> 65 BP
+<u>2x más pesado que el objetivo:</u> 65 PB
+<u>5x heavier than target:</u> 90 BP
+<u>5x más pesado que el objetivo:</u> 90 PB
+<u>10x heavier than target:</u> 125 BP
+<u>10x más pesado que el objetivo:</u> 125 PB
+Does more damage the higher any ally's Defense is. Range 40-200
+Cuanta más Defensa tengo el aliado, más daño hace. Rango 40-200
+<u>No ally:</u> 40 BP
+<u>Sin aliado:</u> 40 PB
+<u>Ally Defense 44 or less:</u> 40 BP
+<u>Defensa del Aliado 44 o menos:</u> 40 PB
+<u>Ally Defense 45-49:</u> 45 BP
+<u>Defensa del Aliado 45-49:</u> 45 PB
+<u>Ally Defense 100-104:</u> 100 BP
+<u>Defensa del Aliado 100-104:</u> 100 PB
+<u>Ally Defense 200 or more:</u> 200 BP
+<u>Defensa del Aliado 200 o más:</u> 200 PB
+Does more damage the taller the user is compared to the target. Range 40-125
+Cuanto más alto sea el usuario comparado al objetivo, más daño hace. Rango 40-125
+<u>Target 5x taller than user:</u> 40 BP
+<u>Objetivo 5x más alto que el usuario:</u> 40 BP
+<u>Same height as target:</u> 55 BP
+<u>Misma altura que el objetivo:</u> 55 BP
+<u>2x taller than target:</u> 65 BP
+<u>2x más alto que el objetivo:</u> 65 BP
+<u>5x taller than target:</u> 90 BP
+<u>5x más alto que el objetivo:</u> 90 BP
+<u>10x taller than target:</u> 125 BP
+<u>10x más alto que el objetivo:</u> 125 BP
+{1} blew away the {2} on the other side of the field!
+¡{1} levantó a {2} en el otro lado del campo!
+The {1} was blown to the other side of the field!
+¡{1} fue arrrastrada al otro lado del campo!
+But it failed, since {1} can't be given a Black Sludge!
+¡Pero falló, ya que {1} no puede recibir un Lodo Negro!
+{1} was gifted an {2}!
+¡Un {2} fue otorgado a {1}!
+<u>300 BP</u>: Pearl of Wisdom
+<u>300 PB</u>: Perla Sabiduría
+<u>Burn</u>: Flame Orb
+<u>Quemar</u>: Llamasfera
+But {1} can't hold the {2}!
+¡Pero {1} no puede sostener {2}!
+{1} draws the {2} from the stone!
+¡{1} remueve {2} de la piedra!
+{1} swapped its unmodified speed stats with the target!
+¡{1} intercambió su velocidad con el objetivo!
+{1} gathers a new mind!
+¡{1} reune una nueva mente!
+But it failed, since {1} isn't statused!
+¡Pero falló, ya que {1} no tiene ningún problema de estado!
+But it failed, since {1} can't be waterlogged and {2} already has an Aqua Ring!
+¡Pero falló, ya que {1} no puede ser embebido y {2} ya tiene un Acua Aro!
+You clamber into the den!
+¡Te metes dentro del nido!
+Loyalty
+Lealtad
+Perseverance
+Perseverancia
+Patience
+Paciencia
+Reverence
+Reverencia
+Solidarity
+Solidaridad
+Clarity
+Claridad
+Generosity
+Generosidad
+Mercy
+Piedad
+\i[EXPEZDISPENSER]You have {1} EXP stored in the EXP-EZ Dispenser.
+\i[EXPEZDISPENSER]Tienes {1} EXP almacenada en el Dispensador EXP-EZ.
+\i[EXPEZDISPENSER]You can make {1} Medium, {2} Small and {3} Extra-Small candies. Would you like to?
+\i[EXPEZDISPENSER]Puedes hacer {1} caramelos Medios, {2} Pequeños y {3} Extra-pequeños. ¿Te gustaría?
+\i[EXPEZDISPENSER]You can make {1} Large, {2} Medium and {3} Small candies. Would you like to?
+\i[EXPEZDISPENSER]Puedes hacer {1} caramelos Grandes, {2} Medios y {3} Pequeños. ¿Te gustaría?
+\i[EXPEZDISPENSER]That's not enough to make any candies.
+\i[EXPEZDISPENSER]Eso no es suficiente para hacer caramelos.
+It has no effect on Pokémon other than Giratina.
+No tiene efectos en Pokémon que no sean Giratina.
+It has no effect on Pokémon other than Palkia.
+No tiene efectos en Pokémon que no sean Palkia.
+It has no effect on Pokémon other than Dialga.
+No tiene efectos en Pokémon que no sean Dialga.
+\i[OMINOUSEGG]...the next stage requires...
+\i[OMINOUSEGG]...la siguiente etapa requiere...
+\i[OMINOUSEGG]...{1} feedings...
+\i[OMINOUSEGG]...{1} alimentos...
+\i[OMINOUSEGG]...metamorphosis complete...
+\i[OMINOUSEGG]...metamorfosis completa...
+{1} is holding {2} {3}. Would you like to take it before transferring?
+{1} está sosteniendo {2} {3}. ¿Quieres tomarlo antes de transferirlo?
+{1} is looking at {2} with a determined gleam in its eye.
+{1} observa a {2} con determinación.
+{1} wants to catch a snowflake in its mouth.
+{1} quiere atrapar un copo de nieve en su boca.
+{1} suddenly started to sing! It seems to be feeling great.
+¡{1} empezó a cantar! Se está sintiendo genial.
+{1} has an intense look on its face.
+{1} tiene una mirada intensa.
+{1} seems to be trying to communicate with its eye(s).
+{1} parece intentar comunicarse con su mirada.
+{1} is doing its best to keep up with {2}.
+{1} hace lo que puede para mantener el ritmo de {2}.
+{1} started wriggling its entire body with excitement!
+¡{1} empezó a menear todo su cuerpo de la emoción!
+{1} bumps its head gently against {2}'s hand.
+{1} apoya gentilmente la mano de {2} con su cabeza.
+I... don't think I understand this fossil. Maybe try asking my assistant for help.
+Creo... que no entiendo este fósil. Quizás intenta pedirle ayuda a mi asistente.
+Error! Could not determine how to revive the given fossil.
+¡Error! No se pudo determinar cómo revivir el fósil dado.
+What!? You want me to make a combo fossil? Not a chance.
+¿¡Qué!? ¿Quieres darme un fósil de combinación? Ni hablar.
+Maybe someone else is interested in creative torture, but I sure am not.
+Quizás alguien más esté interesado en tortura creativa, pero no yo.
+I uh... can't actually revive this. Haven't completed the relevant coursework yet.
+No... puedo revivir esto. Aún no completo el curso relevante.
+Go talk to my supervisor. She can help you.
+Ve a hablar con mi supervisor. Ella te puede ayudar.
+Is that...? Very intriguing.
+¿Es eso...? Intrigante.
+Feels... familiar. Something I played long ago...
+Se siente... familiar. Algo que jugué hace mucho tiempo...
+I'll see what I can do.
+Veré lo que puedo hacer.
+Yes! It's aliiiiiiive! Muahahahahaha!
+¡Sí! ¡Esta viiiiivo! ¡Muajajajaja!
+Okay, now go away. I won't suffer any more EXP waste.
+Ok, ahora vete. No desperdiciaré más EXP.
+I've got the tools. Just don't tell anyone.
+Tengo las herramientas. Pero no se lo digas a nadie.
+Trust me, nobody needs these more than you.
+Confía en mí, nadie necesita estas más que tú.
+All the Pokéballs you could ever need.
+Todas las Poké Balls que podrías necesitar.
 [26]
 [27]
 [27]
