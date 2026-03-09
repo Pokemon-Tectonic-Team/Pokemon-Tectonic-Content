@@ -491,10 +491,12 @@ def fossilSell()
 		FOSSILIZEDFISH
 		FOSSILIZEDDRAKE
 		FOSSILIZEDDINO
+		ELDRITCHFOSSIL
+		ALIENFOSSIL
 	]
 	pbPokemonMart(
 		fossilStock,
-		_INTL("Do you like anything you see?"),
+		_INTL("Maybe you'll be the one to bring them back?"),
 		!CAN_SELL_IN_VENDORS
 	)
 end
