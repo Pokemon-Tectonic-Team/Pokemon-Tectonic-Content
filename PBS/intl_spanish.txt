@@ -7946,6 +7946,16 @@ En una portada puedes ver a Rhyperior y Gigachu listos para pelear.
 "Un inicio rocoso. Una derrota electrificante. Todas las estadísticas que te interesan a TI."
 This is a recreation area for LuxTech employees. The maintenance entrance is just north of this building.
 Esta es un área de recreación para empleados de LuxTech. La entrada de mantenimiento está al norte de este edificio.
+I got a crate of this fancy LuxTech brand whitening toothpaste for my Totodile. Figured it'd give her a leg up in contests back home.
+Compré una caja de este dentífrico marca LuxTech para mi Totodile. Supuse que le daría un empujón para sus concursos en casa.
+Instead she's just eating it straight from the tube! Keeps hunting it down, too, no matter where I hide it.
+¡Pero en su lugar lo está comiendo directamente del tubo! Y siempre los encuentra, no importa dónde los esconda.
+This is the last one. Quick, take it before she spots you - it's for the best.
+Este es el último. Rápido, antes de que te vea - es lo mejor para ella.
+Don't know what they put in that stuff that makes her go crazy over it. Wonder if they make mint-flavored Pokéblocks...
+No sé qué le ponen a esa cosa para que le encante tanto. Me pregunto si hacen Pokécubos con sabor de menta...
+...then goes back to slurping toothpaste straight from the tube.
+...y de nuevo a comer dentífrico.
 [Map88]
 My pal here eats the sludge the other workers track in.
 Mi compañero aquí come los residuos que los otros trabajadores encuentran.
@@ -8134,6 +8144,16 @@ Man, it sure is cold out there, huh?
 Viejo, sí que hace frío aquí, ¿eh?
 Not sure why I'm surprised. They did call this a "lodge", after all.
 No sé por qué me sorprende. Supongo que lo llamaron un "hospedaje", después de todo.
+Ahh, I've done it now...
+Ahh, finalmente lo hice...
+I was so excited for this vacation, I blew my whole paycheck on camera supplies.
+Tenía muchas ganas de estas vacaciones, así que gasté todo mi cheque en suministros para cámaras.
+I spent so much I didn't have enough to buy a camera... I can't even afford a ticket for the raffle downstairs...
+Gasté tanto que no tuve suficiente para comprar una cámara... ni siquiera me puedo permitir un ticket para la rifa...
+Take this away from me. I can't even look at it anymore.
+Toma esto. Ya ni siquiera puedo mirarlo.
+I was going to take so many pictures of Patrat... at least it's having fun playing with all the lenses.
+Estaba por tomar tantas fotos al Patrat... al menos es divertido jugar con todos los lentes.
 [Map93]
 
 In order to fight the climate, you have to keep you and your Pokemon in tip-top shape.
@@ -8980,6 +9000,8 @@ Let's go.
 Vamos allá.
 If you ever find yourself in the urban expanse with naught to do, find me.
 Si algún día te encuentras en la expansión urbana sin nada que hacer, encuéntrame.
+If you ever find yourself in the <imp>urban expanse</imp> with naught to do, find me.
+Si algún día te encuentras en la <imp>expansión urbana</imp> sin nada que hacer, encuéntrame.
 [Map119]
 
 The storage PC in the Pokemon Center here is busted, so we set up an impromptu one here.
@@ -11612,6 +11634,52 @@ I'm not sure, but I swear I saw a sparring match, where the two seemed identical
 No estoy segura, pero juraría haber visto un combate de prueba, donde los dos parecían idénticos...
 The berry plant is growing.
 El árbol de bayas está creciendo.
+Beyond elemental types, Pokémon species are defined by a second affinity.
+Además de los tipos elementales, las especies de Pokémon están definidas por una segunda afinidad.
+These are known as <imp>tribes</imp>.
+A estos se le llaman <imp>clanes</imp>.
+Unlike types, a Pokémon's tribes have no effect on their own.
+A diferencia de los tipos, los clanes de un Pokémon no tienen efectos por sí solos.
+But if you choose your Pokémon carefully, bringing together those that share a tribe...
+Pero si decides tus Pokémon con cuidado, y reúnes a aquellos que compartan un clan...
+They'll do fascinating things together!
+¡Y harán cosas fascinantes juntos!
+Back in my youth, I couldn't choose which Pokémon to use. It was too overwhelming.
+En mi juventud , no podía decidir qué Pokémon usar. Era muy abrumador.
+My wife said "Pick a tribe, and stick to it!"
+Mi esposa dijo "¡Elije un clan, y quédate con el!"
+So I restricted myself to Warriors, my favorite tribe. Problem solved!
+Así que me limité a usar Guerreros, mi clan favorito. ¡Problema solucionado!
+It's <i>usually</i> best to listen to her, I've found.
+Me di cuenta que <i>generalmente</i> es mejor hacerle caso.
+Got time to battle?
+¿Tienes tiempo para un combate?
+I'll be challenging Lambert's gym soon, but I need more practice with this team.
+Pronto voy a desafiar el gimnasio de Lambert, pero necesito practicar más con este equipo.
+Put it together just recently. Custom built to counter that ruffian.
+Lo formé hace poco. Hecho a la medida para contrarrestar a ese rufián.
+Gotta put in the work if I'm gonna perfect him!
+¡Debo ponerme a trabajar si quiero perfeccionarlo!
+I'm much too fun to deprive you of my presence so easily.
+No voy a privarte de mi divertida presencia tan fácilmente.
+If my personality isn't enough of an incentive, I've also got this backpack full of sweets.
+Si mi personalidad no es incentivo suficiente, también tengo esta mochila llena de caramelos.
+I'll give you some <imp>EXP Candy</imp> every time you manage to beat me.
+Te daré algunos <imp>Caramelos EXP</imp> cada vez que me derrotes.
+Sound good? Hit me up when you wanna try a battle!
+¿Suena bien? ¡Háblame cuando quieras un combate!
+Each Pokemon has their own Personality Traits.
+Cada Pokémon tiene sus propios Rasgos de Personalidad.
+Bonding with a Pokemon, and discovering what makes them unique, can be such a source of joy.
+Vincularse con un Pokémon, y descubrir qué los hace únicos, puede ser una fuente de felicidad.
+Don't worry about your battles. No matter the personality, any Pokemon can be an excellent battler.
+No te preocupes por tus combates. No importa su personalidad, cualquier Pokémon puede ser un excelente combatiente.
+Use whatever Pokemon you connect with the most.
+Usa cualquier Pokémon con el que más conectes.
+That's a lesson that my dear wife taught me.
+Esa es una lección que mi querida esposa me enseñó.
+She's correct <i>almost</i> all of the time!
+¡Ella tiene razón <i>casi</i> siempre!
 [Map137]
 
 I'm a safety minded person.
@@ -25049,8 +25117,8 @@ I – yeah, that’s how it goes. Never was as good as you. Any of you hotshots.
 Entonces – seh, así es como es. Siempre fui peor que tú. Que cualquiera de ustedes.
 Pushed my Pokémon hard to try and get there, and now look at me. Trying to make up for all of it.
 Empujé a mis Pokémon demasiado para llegar allí, y ahora mírame. Intentando enmendarlo todo.
-Sorry, everyone. Sorry, Phione. I guess that was it.
-Lo siento, a todos. Lo siento, Phione. Supongo que eso fue todo.
+Sorry, everyone. Sorry, Manaphy. I guess that was it.
+Lo siento, a todos. Lo siento, Manaphy. Supongo que eso fue todo.
 Let’s get y’all back to a Pokécenter, OK? Get you fixed up... I’m sorry...
 Vayamos a un Centro Pokémon, ¿Ok? Para que vuelvan a estar bien… lo siento… 
 Ugh! I’m – fine! Ow. I think I took a stray shot... oof.
@@ -27369,7 +27437,7 @@ I heard a group of nerds roleplaying in a cave in Repora Forest.
 Escuché que un grupo de nerds están haciendo roleplay en el Bosque Repora.
 ...Do you think they'd let me join?
 ¿...Crees que me van a dejar unirme a ellos?
-If you're looking to explore more of southern Makya I recommend you got visit Svait.
+If you're looking to explore more of southern Makya I recommend you go visit Svait.
 Si buscas explorar más de la parte sur de Makya recomiendo que visites Svait.
 It snows there year round and there are plenty of places to ice skate!
 ¡Allí cae nieve todo el año y varios lugares donde puedes patinar sobre hielo!
@@ -28471,7 +28539,7 @@ In order to fund further research, I want to find a buyer for this extremely rar
 Para financiar investigaciones futuras, quiero encontrar un comprador para esa sustancia extremadamente rara.
 You seem like the kind of person that'd like shiny Pokemon.
 Pareces ser el tipo de persona que le gustaría un Pokémon variocolor.
-Interested in purchasing this vial of Gleam Powder?  Estimated costs total at $250,000.
+Interested in purchasing this vial of Gleam Powder? Estimated costs total at $250,000.
 ¿Te interesa comprar este vial de Polvo Brillante? Los costos estimados suman a $250.000.
 I've had sponsors with that kind of money.
 He tenido patrocinadores con esa cantidad de dinero.
@@ -29452,6 +29520,30 @@ M. Mantyke
 Mantyke M.
 M. Mantine
 Mantine M.
+M. Omanyte
+Omanyte M.
+M. Omastar
+Omastar M.
+M. Kabuto
+Kabuto M.
+M. Kabutops
+Kabutops M.
+M. Mudkip
+Mudkip M.
+M. Marshtomp
+Marshtomp M.
+M. Swampert
+Swampert M.
+M. Buneary
+Buneary M.
+M. Lopunny
+Lopunny M.
+M. Haerobic
+Haerobic M.
+M. Feebas
+Feebas M.
+M. Milotic
+Milotic M.
 [2]
 Seed
 Semilla
@@ -31139,6 +31231,14 @@ Candy Apple
 Manzamelo
 Apple Hydra
 Manzanhidra
+Facehugger
+Depredador
+Omnivore
+Omnívoro
+Coral Reef
+Arrecífe
+Lush Cave
+Exuberante
 [3]
 While it is young, it uses the nutrients that are stored in the seed on its back in order to grow.
 Se le puede ver durmiendo la siesta a la luz del sol. Hay una semilla en su espalda. Al absorber los rayos del sol, la semilla crece progresivamente.
@@ -33388,6 +33488,16 @@ This special Ursaluna can see in the dark with its left eye and protects itself 
 Este Ursaluna tan particular se protege el cuerpo con una capa de barro tan dura como el hierro. Su ojo izquierdo le permite ver en la oscuridad.
 It will regrow any branches that break off its head. People keep particularly beautiful Curesola branches as charms to promote safe childbirth.
 Las ramas que le brotan de la cabeza se regeneran si se rompen. Las más bellas se emplean como amuleto en los partos.
+Its fossils were found in the depths of Makyan caves. However, it is alien to anything from the same time. It resembles a monster from a popular video game.
+Sus fósiles fueron encontrados en lo profundo de las cuevas de Makya. Pero no se parece en nada a criaturas de su era. Se asemeja a un monstruo de un popular videojuego. 
+After evolution, this Pokémon began to resemble other extinct Pokémon of their time. They multiply by converting native biomass into more Kabuto.
+Al evolucionar, este Pokémon empezó a asemejarse a otros Pokémon extintos de su tiempo. Se multiplican al convertir biomasa nativa en más Kabuto.
+This Pokémon was only found recently, as upheavals unsealed ancient caves rife with old life, where it promptly hid from sight in narrow spaces.
+Este Pokémon fue descubierto recientemente, luego de que se abrieran cuevas antiguas llenas de vida antigua, donde se escondía en espacios angostos.
+This Pokémon is much stronger than before, yet lazy. It is quick to make friends, but it might eat them in a pinch.
+Este Pokémon es mucho más fuerte que antes, pero perezoso. Hace amigos fácilmente, pero podrías comerlos en un apuro.
+Living in underwater caves with no light has given this Pokémon great sensitivity to vibrations. It pinpoints prey with extreme precision.
+Al vivir en cuevas submarinas sin iluminación, este Pokémon ha desarrollado gran sensibilidad a las vibraciones. Ubica presas con extrema precisión.
 [4]
 Bloodmoon
 Luna Carmesí
@@ -36700,6 +36810,10 @@ Relic Recital
 Recital Arcaico
 Gulping Dive
 Atragantar
+Life Drain
+Devoravida
+Dragomast Waves
+Ondas Dragomasto
 [6]
 The user spends 50% HP to create a Substitute. If successful, the user's Speed is raised by four steps.
 El usuario usa el 50% de sus PS máximos para crear un sustituto. Al hacerlo, la Velocidad del usuario es aumentada cuatro grados.
@@ -40063,6 +40177,10 @@ Inflicts double damage on a target that is switching out.
 Duplica su potencia contra un objetivo que está a punto de cambiar.
 The user dives down with its beak wide open. Transforms into Gulping or Gorging form.
 El usuario bucea con su boca completamente abierta. Se transforma en su forma Tragatodo o Engulletodo.
+The user stabs the target with a sharp spike to drain its life force. The user's HP is restored by 50% of the damage dealt. This can overheal.
+El usuario apuñala al objetivo para drenar su fuerza vital. El usuario recupera la mitad de los PS que le quite al objetivo. Esto puede sobrecurar.
+Sends cloying waves of energy forward, lowering hit foes Evasion by four steps.
+El usuario ataca con olas de energía, disminuyendo la Evasión de los objetivos cuatro grados.
 [7]
 Pearl of Wisdom
 Perla Sabiduría
@@ -43049,7 +43167,7 @@ Un Poké Ball especial que es 5x veces más efectiva contra Ultra Entes.
 A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally syrupy.
 Una manzana peculiar que hace evolucionar a ciertas especies de Pokémon. Es excepcionalmente melosa.
 A fossil from a strange Pokémon that once lived on the land. It resembles Makyan Omanyte.
-Un fósil de un Pokémon prehistórico que vivía en la tierra. Se asemeja a Omanyte de Makya.
+Un fósil de un Pokémon extraño que vivía en la tierra. Se asemeja a Omanyte de Makya.
 A held item. If the wielder enters a battle, money and coins generated in that battle are increased by 50%.
 Un objeto equipable. Si el portador entra en combate, dinero y monedas generadas en combate son aumentados 50%.
 A held item. Boosts the power of a special move by 15% and makes it physical, once per battle.
@@ -43100,6 +43218,10 @@ Used by a hero to halt a terrible disaster. The wielder takes 10% less move dama
 Usado por un héroe para detener una calamidad. El portador recibe 10% menos daño.
 Used by a hero to halt a terrible disaster. The wielder deals 10% more move damage.
 Usada por un héroe para detener una calamidad. Los ataques del portador son potenciados un 10%.
+Rare contraband. Use it to become invisible to average solo trainers for 30 steps.
+Objeto de contrabando. Úsalo para volverte invisible para entrenadores individuales durante 30 pasos.
+A fossil from a strange Pokémon that once lived on the land. It resembles Makyan Kabuto.
+Un fósil de un Pokémon extraño que vivía en la tierra. Se asemeja a Omanyte de Makya.
 [10]
 Backwash
 Inundación
