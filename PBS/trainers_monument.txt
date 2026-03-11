@@ -465,8 +465,8 @@ Pokemon = ARIADOS,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 20,0,20,0,0,10
 Pokemon = CLAWITZER,70
-    Moves = AURASPHERE,ENERGYBALL,BUBBLEBLASTER,SHATTEREDLIGHT
-    AbilityIndex = 0 # Mega Launcher
+    Moves = AURASPHERE,ENERGYBALL,CAVITATION,SHATTEREDLIGHT
+    AbilityIndex = 0 # Loose Cannon
     Item = WATERGEM
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 10,20,0,10,20,10
@@ -841,9 +841,9 @@ Pokemon = KABUTOPS,70
 #-------------------------------
 [GENTLEMAN,Eolis]
 Pokemon = MAGMORTAR,70
-    Moves = TEPHRACANNON,OVERHEAT,AURASPHERE,IGNITE
-    AbilityIndex = 0 # Mega Launcher
-    Item = FOCUSSASH
+    Moves = TEPHRACANNON,OVERHEAT,AURASPHERE,GEYSER
+    AbilityIndex = 0 # Strike Corona
+    Item = STRIKEVEST
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 20,20,0,0,20,10
 Pokemon = APPLETUN,70
@@ -1165,8 +1165,8 @@ Pokemon = SCOLIPEDE,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 5,20,15,10,20,0
 Pokemon = HONCHKROW,70
-    Moves = AIRSLASH,DARKPULSE,NEURALPULSE,BUBBLEBLASTER
-    AbilityIndex = 0 # Rattle 'Em
+    Moves = MACHPULSE,DARKPULSE,NEURALPULSE,CAVITATION
+    AbilityIndex = 0 # Let 'Em Have It
     Item = CHOICESCARF
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 0,20,0,20,20,10
