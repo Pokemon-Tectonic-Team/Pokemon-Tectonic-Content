@@ -40178,7 +40178,7 @@ Duplica su potencia contra un objetivo que está a punto de cambiar.
 The user dives down with its beak wide open. Transforms into Gulping or Gorging form.
 El usuario bucea con su boca completamente abierta. Se transforma en su forma Tragatodo o Engulletodo.
 The user stabs the target with a sharp spike to drain its life force. The user's HP is restored by 50% of the damage dealt. This can overheal.
-El usuario apuñala al objetivo para drenar su fuerza vital. El usuario recupera la mitad de los PS que le quite al objetivo. Esto puede sobrecurar.
+El usuario apuñala al objetivo, recuperando la mitad de los PS que le quite al objetivo. Esto puede sobrecurar.
 Sends cloying waves of energy forward, lowering hit foes Evasion by four steps.
 El usuario ataca con olas de energía, disminuyendo la Evasión de los objetivos cuatro grados.
 [7]
@@ -60652,6 +60652,34 @@ Trust me, nobody needs these more than you.
 Confía en mí, nadie necesita estas más que tú.
 All the Pokéballs you could ever need.
 Todas las Poké Balls que podrías necesitar.
+You've been offered a gauntlet of scientists to try to get past. Can your team hold up against their clever tactics?
+Te has encontrado un grupo de científicos que derrotar. ¿Tu equipo estará a la altura de sus ingeniosas tácticas?
+May I Have This Dance?
+¿Me Concedes Esta Pieza?
+A secret lab deep in the sewer, guarded by frantic scientists. If you can overcome them, what might you find within?
+Un laboratorio secreto en las alcantarillas, protegido por científicos. ¿Qué podrías encontrar si los derrotas?
+Nora's on the trail of a mystery—its threads lead to Luxtech, and from there to parts unknown. If you help her on her hunt, what secrets will you two uncover?
+Nora está investigando un misterio—sus pistas la llevan a Luxtech, y el resto es un misterio. Si la ayudas en su cacería, ¿qué podrán descubrir?
+Find and free the four legends.
+Busca y encuentra los cuatro legendarios.
+Jovan's asked for your help—a gang called the Drillers is wreaking havoc in the depths of the cave. If you can find and free the imprisoned legendaries within, it should loosen their hold.
+Jovan te pidió ayuda—una banda llamada los Excavadores está haciendo destrozos en la cueva. Si puedes encontrar y liberar a los legendarios atrapados, darían su brazo a torcer.
+You've crossed paths with some of the former champions of Makya. Overcoming them will hone your skills, and may even earn you some rewards...
+Te has encontrado con algunos de los antiguos campeones de Makya. Vencerlos podría mejorar tus habilidaes, e incluso podrías conseguir recompensas.
+This former champion prefers spectating to fighting nowadays. If you can prove you're on his level, though, he'll put his team back in the ring.
+Este antiguo campeón prefier espectar antes que combatir. Pero si puedes demostrar que estás a su nivel, retirará a su equipo de su retiro.
+Ansel's given you an opportunity to meet up with the former champion Praveen. Is he up for a battle?
+Ansel te ha dado una oportunidad para encontrarte con el antigo campeón Praveen. ¿Estará listo para un combate?
+Scilla runs a dojo in Prizca East—if you prove yourself against her disciples, you might earn the chance to go up against her.
+Scilla opera un dojo en Prizca Oriental—si demuestras tu valía contra sus discípulos, podrías tener la posibilidad de desafiarla.
+Scilla's sister Chara keeps a lighthouse in Sweetrock. See if she's down for a challenge.
+Chara, la hermana de Scilla, tiene un faro en Sweetrock. Ve a ver si puedes desafiarla.
+Elise has claims on both a royal and a championship title—she should be quite the prestigious opponent.
+Elisia reclama un título de campeona y uno real—debería ser un oponente muy prestigioso.
+Elise mentioned Vincent likes finding strong trainers to fight. Bring him down and you'll make his day.
+Elise mencionó que a Vincent le gusta encontrar entrenadores fuerte. Aplástalo y le alegrará su día.
+Living on top of a nest of avatars can't be easy, but if anyone could manage it, it'd be a former champion. Still, Casey needs your help.
+Vivir a lo alto de un nido de avatares no debe ser fácil, pero si alguien puede hacerlo, sería un antiguo campeón. Aún así, Casey necesita tu ayuda.
 [26]
 [27]
 [27]
