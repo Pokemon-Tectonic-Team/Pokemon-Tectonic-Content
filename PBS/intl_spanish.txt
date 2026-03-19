@@ -9837,6 +9837,8 @@ Silver Ninjask isn't going to be happy...
 Silver Ninjask no va a estar feliz...
 Now this job's gone completely sideways. Thanks a lot.
 Ahora este trabajo se fue por los suelos. Te lo agradezco.
+You better watch your back when you walk away or I might snatch those TMs from you after all.
+Ten cuidado al darte la vuelta o podría robarte esas MTs después de todo.
 [Map123]
 
 I brought some family heirlooms with me from Galar.
@@ -36814,6 +36816,20 @@ Life Drain
 Devoravida
 Dragomast Waves
 Ondas Dragomasto
+Shattered Light
+Refracción
+Broil
+Asar
+Flare
+Fulgor
+Aqua Shock
+Acuashock
+Cavitation
+Cavitación
+Neural Pulse
+Pulso Neural
+Harsh Vibes
+Malas Vibras
 [6]
 The user spends 50% HP to create a Substitute. If successful, the user's Speed is raised by four steps.
 El usuario usa el 50% de sus PS máximos para crear un sustituto. Al hacerlo, la Velocidad del usuario es aumentada cuatro grados.
@@ -39635,7 +39651,7 @@ The user whips up a tornado to tear at the target. It has a 40% chance to make t
 El usuario levanta un tornado para atacar al objetivo. Tiene un 40% de probabilidad de amedrentar.
 The user insults the target using a compliment. The target's attacking stats are raised by 3 steps, but they hurt themselves in confusion.
 El usuario insulta al objetivo usando un cumplido. Las stats ofensivas del objetivo son aumentadas 3 grados, pero se daña a sí mismo confundido.  
-The user disarms the target's blade. The target cannot use blade-based moves for two turns.
+The user disarms the target's blade. The target cannot use slice-based moves for two turns.
 El usuario desarma el filo del objetivo. El objetivo no puede usar movimiento de corte durante dos turnos.
 The target is forced underwater for a brief time, waterlogging it.
 El objetivo fuerza debajo del rival al objetivo por un momento, embebiéndolo.
@@ -40083,7 +40099,7 @@ The user sacrifices their ally to cover all near foes in total darkness, making 
 El usuario sacrifica su aliado para cubrir al lado rival en oscuridad, adormeciéndolos. Falla si el usuario no tiene aliado.
 The user hides stealthily, charging and becoming hidden, then strikes from a blind spot on the second turn.
 El usuario se oculta, volviéndose invulnerable, y luego golpea desde un punto ciego en el segundo turno.
-The user draws the Crystal Caliburn, which empowers Light and Blade moves and transforms the holder into Royal form.
+The user draws the Crystal Caliburn, which empowers light and slice moves and transforms the holder into Royal form.
 El usuario desenvaina la Caliburn Cristalina, que potencia movimientos de Luz y Corte y transforma al usuario en su forma Real.
 The user disappears in a cloud of mist, charging and becoming hidden. On the next turn, the target becomes jinxed and frostbitten.
 El usuario desaparece en una nube de niebla, volviéndose invulnerable. En el siguiente turno, el objetivo es Embrujado y Helado.
@@ -40181,6 +40197,36 @@ The user stabs the target with a sharp spike to drain its life force. The user's
 El usuario apuñala al objetivo, recuperando la mitad de los PS que le quite al objetivo. Esto puede sobrecurar.
 Sends cloying waves of energy forward, lowering hit foes Evasion by four steps.
 El usuario ataca con olas de energía, disminuyendo la Evasión de los objetivos cuatro grados.
+A cloud of poison gas is sprayed in the face of the target, poisoning it.
+El usuario rocía un gas venenoso a la cara del objetivo, envenenándolo.
+The user attacks by exhaling hot breath on the opposing team. It has a 20% chance to burn.
+El usuario ataca con un aliento ardiente en el lado rival. Tiene un 20% de probabilidad de quemar al objetivo.
+The target is struck from all angles by light like gemstones. Deals double damage if the user has used a gem this battle.
+El usuario ataca con luz que viene por todas partes. Duplica su potencia si el usuario ha usado una gema en el combate.
+The user uses explosive force to shoot shards of its own body at the target. The user loses 1/8th of its max HP.
+El usuario dispara fragmentos de su propio cuerpo con energía explosiva. El usuario pierde 1/8 de sus PS totales.
+The user shoots shards of its own body at the target. The user loses 1/8th of its max HP.
+El usuario dispara fragmentos de su propio cuerpo al objetivo. El usuario pierde 1/8 de sus PS totales.
+The user shreds off bits of its own body to launch at the target. The user loses 1/8th of its max HP.
+El usuario dispara pequeños fragmentos de su objetivo. El usuario pierde 1/8 de sus PS totales.
+The user attacks by sending a wave of hot air towards the target. It has a 30% chance to burn.
+El usuario ataca con una onda de aire caliente al objetivo. Tiene un 30% de probabilidad de quemar al objetivo.
+The user flashes with a burst of intensely bright flame. Can random critical hit.
+El usuario ataca con una explosión de llamas brillantes. Puede ser un golpe crítico.
+The user launches a concentrated ball of searing, bright white flame. Can random critical hit.
+El usuario dispara una bola concentrada de llamas blancas. Puede ser un golpe crítico.
+The user rapidly changes water pressure, creating a pulsing shockwave. The user loses 1/8th of its max HP.
+El usuario cambia rápidamente la presión del agua, creando una onda de choque. El usuario pierde 1/8 de sus PS totales.
+A water vacuum is induced and rapidly collapsed, generating an intense pulsing water blast. The user loses 1/8th of its max HP.
+Un vacío de agua es generado y colapsado, generando un pulso intenso de agua. El usuario pierde 1/8 de sus PS totales.
+The user slices with claws of light that have a 50% chance to numb. Can random critical hit. Counts as a Light and Slice move.
+El usuario ataca con garras de luz que tienen un 50% de probabilidad de aturdir. Puede ser golpe crítico. Es un movimiento de Luz y Corte.
+The user summons a wind that drains vitality from all nearby foes. This has a 20% chance to frostbite them.
+El usuario invoca un viento que drena la vitalidad de rivales cercanos. Tiene un 20% de helar a sus objetivos.
+The user sprays the target with a shrinking liquid. For the next three turns, the target's highest stat will be reduced by two steps.
+El usuario rocía al objetivo con un líquido reductor. Durante los siguientes tres turnos, la stat más alta del objetivo será reducida dos grados.
+The target is attacked with a pulse of negative feelings. It has a 40% chance to make the target flinch.
+El usuario ataca con un pulso de sentimientos negativos. Tiene el 40% de probabilidad de amedrentar al objetivo.
 [7]
 Pearl of Wisdom
 Perla Sabiduría
@@ -41510,7 +41556,17 @@ Light Stone
 Orbe Claro
 Dark Stone
 Orbe Oscuro
+Stealth Spray
+Espray Oculto
+Alien Fossil
+Fósil Alien
+Empty Stone
+Orbe Hueco
 [8]
+Stealth Spray
+Esprays Ocultos
+Alien Fossils
+Fósiles Alien
 Technique Boosters
 Potenciadores Técnicos
 Courage Badges
@@ -42900,7 +42956,7 @@ These boots prevent the effects of hazards set on the battlefield.
 Estas botas previenen los efectos de trampas puestas en el campo.
 Raises Sp. Atk by two steps when the Pokémon uses a sound move the first time each battle.
 Aumenta el Ataque Especial por dos grados cuando el Pokémon usa un movimiento de sonido por primera vez en el combate.
-Raises Attack by two steps when the Pokémon uses a blade move the first time each battle.
+Raises Attack by two steps when the Pokémon uses a slice move the first time each battle.
 Aumenta el Ataque por dos grados cuando el Pokémon usa un movimiento de corte por primera vez en el combate.
 A held item. The holder is protected from the negative effects of weather.
 Un objeto equipable. El portador es protegido de los efectos negativos del clima.
@@ -45005,6 +45061,24 @@ Primeval Mega Launcher
 Megadisparador Primitivo
 Primeval Sword-Breaker
 Macizo Primitivo
+Biohazard
+Riesgo Biológico
+Fickle Union
+Unión Veleidosa
+Let 'Em Have It
+Ejecución
+Loose Cannon
+Cañón Fugaz
+Manifestation
+Manifestación
+Mindless
+Bestial
+Strike Corona
+Corona Impacto
+Tremor Sense
+Sentido Telúrico
+Ultra Buster
+Ultracañón
 [11]
 Upon entry, consumes scattered coins to heal for 1/10th the amount consumed. This can overheal.
 Al entrar al campo, consume monedas para curase por 1/10 de la cantidad consumida. Esto puede sobrecurar.
@@ -45486,7 +45560,7 @@ Physical attacks against the Pokémon have a 30% chance to dizzy the attacker.
 Cuando es alcanzado por un movimiento físico, tiene un 30% de marear al rival.
 Doubles Sp. Def. This Pokémon takes double damage from Psychic-type moves.
 Duplica su Defensa Especial. Los movimientos tipo Psíquico le dañan el doble.
-Boosts the power of blade moves by 30%.
+Boosts the power of slice moves by 30%.
 Potencia movimientos de corte un 30%.
 Has a 30% chance to burn targets when using special moves.
 Tiene un 30% de probabilidad de quemar al objetivo al usar un movimiento especial.
@@ -45652,6 +45726,8 @@ Immune to Flying-type moves and deals 50% more damage with them.
 Sus movimientos tipo Volador son potenciados un 50%, además, es inmune a otros ataque de este tipo.
 Lays a hazard of levitating stones around the opponent when its HP is lowered below 75% HP.
 Cuando pierde el 75% de sus PS o más, coloca una trampa de rocas levitantes alrededor del oponente.
+Lays a hazard of levitating stones around the opponent when its HP is lowered below half.
+Cuando pierde la mitad de sus PS o más, coloca una trampa de rocas levitantes alrededor del oponente.
 Hits opponent with Gust when switched out.
 Golpea al oponente usando Tornado al regresar a su Poké Ball.
 Upon entry, creates an Odd Room for four turns, swapping offensive and defensive stats.
@@ -45760,7 +45836,7 @@ Speed is raised each turn. Speed is reset when hit, but the attacker takes 1/8th
 Velocidad aumenta cada turno. Es reiniciada al ser golpeado, pero el atacante pierde 1/8 PS totales por cada grado perdido.
 Powers up Ice-type moves by 50%.
 Potencia movimientos tipo Hielo un 50%.
-Boosts the power of blade moves by 30%. They're twice as likely to crit.
+Boosts the power of slice moves by 30%. They're twice as likely to crit.
 Potencia movimientos de corte un 30%, además, índice de golpe crítico es duplicado.
 If an attack lowers its HP to half or less, curses the attacker.
 Si pierde la mitad de sus PS o más, maldice al atacante.
@@ -46100,8 +46176,8 @@ After knocking out any Pokémon, raises its Attack and Defense.
 Al debilitar cualquier Pokémon, aumenta tanto su Ataque como Defensa un grado.
 After knocking out any Pokémon, raises its Sp. Atk and Sp. Def.
 Al debilitar cualquier Pokémon, aumenta tanto su Ataque Especial como Defensa Especial un grado.
-Can hold two items, but drops one when swapping out.
-Puedes equiparle dos objetos, pero suelta uno al regresar a su Poké Ball.
+Can hold two different items, but drops one when swapping out.
+Puedes equiparle dos objetos diferentes, pero suelta uno al regresar a su Poké Ball.
 Immune to Psychic-type moves, and raises Attack and Sp. Atk if hit by one.
 Inmune a movimientos tipo Psíquico y aumenta ambas stats ofensivas si es alcanzado por uno.
 Boosts this Pokémon's Speed by 50% in sandstorm or hail.
@@ -46508,7 +46584,7 @@ After being hit, the Pokémon raises either Defense or Sp. Def based on the atta
 Al ser alcanzado por un ataque, el Pokémon aumenta la stat defensiva correspondiente a la categoría del ataque. Máximo de +4.
 Raises Defense and Sp. Def by three steps when its HP is lowered below half.
 Aumenta ambas stats defensivas tres grados cuando sus PS son reducidos a la mitad o más.
-Boosts the power of blade moves by 30%. Blade moves ignore the target's modified Defense and Sp. Def.
+Boosts the power of slice moves by 30%. Slice moves ignore the target's modified Defense and Sp. Def.
 Potencia movimientos de corte un 30%. Movimientos de corte ignoran las Defensas modificadas del objetivo.
 When hit with a physical move, traps and binds the attacker for three turns. Fails on turns the user switched in.
 Al ser alcanzado por un movimiento físico, atrapa y daña al atacante durante tres turnos. Falla en el turno que el usuario entre al campo.
@@ -46928,7 +47004,7 @@ Leaves two hazard layers of Spikes after self-destructing.
 Deja dos capas de Púas al explotar.
 After attacking the same foe twice, they become trapped for three turns, and this Pokémon heals 33% HP. This can overheal.
 Al atacar al mismo oponente dos veces, lo atrapa durante tres turnos, y recupera el 33% de sus PS totales. Puede sobrecurarse.
-Blade moves always crit. However, their damage is dealt at the end of the round.
+Slice moves always crit. However, their damage is dealt at the end of the round.
 Los movimientos de corte siempre son críticos. Sin embargo, su daño no se aplica hasta el final del turno.
 After attacking the same foe twice, they become numbed, and a Sanctuary is set on this Pokémon's side for three turns.
 Al atacar al mismo oponente dos veces, es aturdido, y un Santuario es colocado en el lado del usuario durante tres turnos.
@@ -46938,6 +47014,44 @@ Prevents half the self-damage from recoil and self-destructing.
 Lays a hazard of levitating stones around the opponent when its HP is lowered below 75% HP.
 This Pokémon's moves deal 20% more damage, ignore immunities due to typing and deal half damage to protected targets.
 Sus ataques son potenciados un 20%, ignoran inmundades de tipos y golpean a objetivos protegidos por la mitad del daño.
+After using a sound move, all foes are Tormented.
+Luego de usar un movimiento de sonido, todos los rivales son Atormentados.
+If an attack lowers its HP below half, lowers the attacker's highest stat by four steps.
+Si un ataque disminuye la mitad o más de los PS del objetivo, le disminuye su stat más alta durante cuatro turnos.
+During hail, this Pokémon is twice as likely to crit and its Speed is boosted by 50%.
+Bajo granizo, el índice de golpes críticos del Pokémon es duplicado y su Velocidad es aumentada un 50%.
+Pulse moves multi-hit two to five times at 30% power.
+Movimientos de pulso golpean entre dos a cinco veces con el 30% de su potencia.
+After using a biting move, lowers the target's highest attacking stat by two steps.
+Luego de usar un movimiento de mordida, disminuye la stat más alta del objetivo dos grados.
+This Pokémon deals 30% more move damage, but is continually Tormented.
+Los ataques del Pokémon son potenciados un 30%, pero está permanentemente Atormentado.
+This Pokémon's pulse attacks become spread and deal 25% more damage.
+Los ataques de pulso del Pokémon atacan a todo el lado rival y son potenciados un 25%.
+This Pokémon's Speed is doubled while using pulse moves.
+La Velocidad del Pokémon es duplicada al usar movimientos de pulso.
+Boosts the power of pulse moves by 50%, and makes them physical when that would be more effective.
+Potencia los movimientos de pulso un 50% y los hace físicos en caso de ser más efectivo. 
+This Pokémon is immune to mental effects and can't be Dizzied, or Flinched.
+Este Pokémon es inmune a efectos mentales y no puede ser Mareado ni Amedrentado.
+Immune to Psychic-type moves and mental effects.
+Inmune a movimientos Psíquico y efectos mentales.
+During moonglow, this Pokémon is twice as likely to crit and its Speed is boosted by 50%.
+Bajo brillo lunar, el índice de golpes críticos del Pokémon es duplicado y su Velocidad es aumentada un 50%.
+During sandstorm, this Pokémon is twice as likely to crit and its Speed is boosted by 50%.
+En tormenta de arena, el índice de golpes críticos del Pokémon es duplicado y su Velocidad es aumentada un 50%.
+This Pokémon's moves deal 20% more damage and ignore abilities that would affect them. Its moves can't be redirected.
+Los movimientos del Pokémon son potenciados un 20% e ignoran habilidades que los afectarían, tampoco pueden ser redirigidos.
+Doubles Defense, but this Pokémon can't use status moves.
+Duplica Defensa, pero no puede usar movimientos de estado.
+If an attack lowers its HP below half, the attacker enters a sugar rush for four turns.
+Si el Pokémon pierde la mitad de sus PS o más, el atacante entra en un subidón de azúcar durante cuatro turnos. 
+Whenever a grounded foe attacks, this Pokémon gains priority against them on the next turn.
+Cuando un Pokémon sobre el suelo ataca, este Pokémon obtiene prioridad en su contra en el siguiente turno.
+Boosts the power of punch and pulse moves by 50%.
+Potencia movimientos de puño y pulso un 50%.
+This Pokémon's random crit moves are always critical if there is an active Room.
+Los movimiento del Pokémon que pueden ser críticos siempre lo son si hay una Zona activa.
 [12]
 0
 Normal
