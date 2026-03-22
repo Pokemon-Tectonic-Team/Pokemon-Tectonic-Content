@@ -54668,8 +54668,8 @@ Defeat Rafael, leader of Velenz Gym. Velenz is west of Repora Forest. He can be 
 Vence a Rafael, líder del Gimnasio de Velenz. Velenz está al oeste del Bosque Repora. Puede ser encontrado por una escalera al noroeste del pueblo. 
 Defend Grouz from the Avatar!
 ¡Defiende a Grouz del Avatar!
-Professor Tamarind called, informing you of an Avatar of Steelix which is rampaging in the Grouz Mine Yard. She's promised a reward if you can defeat the Avatar.
-La Profesora Tamarind llamó, informándote de un Avatar de Steelix que está suelta en la Mina Grouz. Te prometió una recompensa si puedes vencer al Avatar.
+Professor Tamarind called, informing you of an Avatar of Titanix which is rampaging in the Grouz Mine Yard. She's promised a reward if you can defeat the Avatar.
+La Profesora Tamarind llamó, informándote de un Avatar de Titanix que está suelto en la Mina Grouz. Te prometió una recompensa si puedes vencer al Avatar.
 Visit Tamarind at Helena's House
 Visita a Tamarind en la Casa de Helena
 Go to the County Park and find Helena's House, where Professor Tamarind is waiting for you with a reward. Helena's house can be found North West of the lake, very close to it.
@@ -60794,6 +60794,232 @@ Elise mentioned Vincent likes finding strong trainers to fight. Bring him down a
 Elise mencionó que a Vincent le gusta encontrar entrenadores fuerte. Aplástalo y le alegrará su día.
 Living on top of a nest of avatars can't be easy, but if anyone could manage it, it'd be a former champion. Still, Casey needs your help.
 Vivir a lo alto de un nido de avatares no debe ser fácil, pero si alguien puede hacerlo, sería un antiguo campeón. Aún así, Casey necesita tu ayuda.
+{1} is carried by a swift breeze!
+¡{1} es arrastrado por una rápida brisa!
+{1}'s {2} reflected a blinding glare!
+¡{2} de {1} reflejó un destello cegador!
+{1}'s {2} burst in a blinding flash!
+¡{2} de {1} emite un gran destello!
+{1} is invulnerable to all damage!
+¡{1} es invulnerable a todo daño!
+{1} can't hold a {2} while its ability is {3}!
+¡{1} no puede sostener un {2} mientras su habilidad sea {3}!
+A loss... I've still got to get used to that.
+Una derrota... todavía tengo que acostumbrarme a eso.
+Nth Stage of Line
+Número en su Línea
+Stage number...
+Número de etapa...
+Invalid stage input.
+Input inválido.
+What threshold for availability?
+¿Cuál umbral de disponibilidad?
+{1} would have gathered power, but it can't stockpile any more!
+¡{1} habría acumulado poder, pero ya no puede seguir reservando!
+{1} gathered up more power!
+¡{1} acumuló todavía más poder!
+A coral overgrowth coalesced around {1}!
+¡Un arrecífe se forma alrededor de {1}!
+The coral overgrowth around {1} shattered!
+¡El arrecífe alrededor de {1} fue destruido!
+The coral overgrowth around {1} withered!
+¡El arrecífe alrededor de {1} se marchitó!
+The damage reduction effect stacks multiplicatively.
+El efecto de reducción de daño es acumulado multiplicativamente.
+At two stacks, the reduction is 51%.
+Con dos reservas, la reducción es de 51%.
+There are no Pokémon responding to the Chroma Clarion here...
+No hay ningún Pokémon respondiendo al Clarín Cromático aquí...
+What do you want to say when you win?\<<n>>Navigate to browse, then confirm to select.
+¿Qué quieres decir al ganar?\<<n>>Navega entre las opciones, luego confirma tu selección. 
+What do you want to say when you lose?\<<n>>Navigate to browse, then confirm to select.
+¿Qué quieres decir al perder?\<<n>>Navega entre las opciones, luego confirma tu selección. 
+Star Them
+Estrellarlos
+Un-star them
+Des-estrellarlos
+Invert Stars
+Invertir Estrellas
+Change the starring for all species on this list?
+¿Cambiar el estado de las estrellas en todas las especies de la lista?
+Starring every species on the current MasterDex list.
+Estrellando todas las especies en la lista de MasterDex actual.
+{1} species became starred.
+{1} especies fueron estrelladas.
+Un-Starring every species on the current MasterDex list.
+Des-estrellando todas las especies en la lista de MasterDex actual.
+{1} species became un-starred.
+{1} especies fueron des-estrelladas.
+Toggling whether every species on the current MasterDex list is starred or not.
+Alternando el estado del estrellado de cada especie en la lista de MasterDex actual.
+{1} species were starred or unstarred
+{1} fueron estrelladas o des-estrelladas
+Find her in an abandoned building.
+Encuéntrala en un edificio abandonado.
+Un-Star Species
+Des-Estrellar Especies 
+Star Species
+Estrellar Especies
+SPECIAL/D to show map
+ESPECIAL/D para mostrar mapa
+Area unknown
+Área desconocida
+SPECIAL/D to hide map
+ESPECIAL/D para esconder mapa
+{1} is hurt by the foreboding presence!
+¡{1} es dañado por la presencia premonitoria!
+{1} draws strength from wisdom!
+¡{1} extrae poder de la sabiduría!
+{1} keeps cool, and can switch between rampaging moves!
+¡{1} se mantiene tranquilo, y puede cambiar entre movimientos que arrasan!
+Leftover energy runs through {1} despite exhaustion!
+¡A pesar de su agotamiento, energía extra atraviesa a {1}!
+{1} is caught in vines!
+¡{1} es atrapado en lianas!
+{1} foresees an imminent demise!
+¡{1} predice una defunción inminente!
+{1}'s growth was reverted!
+¡El crecimiento de {1} fue revertido!
+{1}'s growth was stunted!
+¡El crecimiento de {1} fue atrofiado!
+{1} takes center stage!
+¡{1} es el centro de atención!
+{1} steals the show!
+¡{1} se roba el show!
+{1} overpowers type immunities and protections!
+¡{1} ignora inmunidades de tipos y protecciones!
+{1} flies in like a comet!
+¡{1} entra volando como un cometa!
+{1} absorbs metal from the Rusted Sword!
+¡{1} absorbe metal de la Espada Oxidada!
+{1} crowns itself in steel!
+¡{1} se adorna en acero!
+{1} absorbs metal from the Rusted Shield!
+¡{1} absorbe metal del Escudo Oxidado!
+Eons course through {1}'s being!
+¡Eones atravisean el ser de {1}!
+The battle reaches an apex!
+¡El combate llega a su cúspide!
+Exhausted Pokémon can't be switched out!
+¡Los Pokémon exhaustos no pueden cambiar!
+{1} refuses to join the battle, as it deems its presence not necessary!
+¡{1} se rehusa a entrar al combate, ya que considera que su presencia no es necesaria!
+{1} is in a deep slumber, and cannot join the battle!
+¡{1} está en un letargo profundo, y no puede entrar al combate!
+{1} refuses to join the battle! It waits for its kin!
+¡{1} se rehusa a entrar al combate! ¡Está esperando a sus semejantes!
+{1} changes its form to fit its next move!
+¡{1} cambia su forma de acuerdo a su siguiente movimiento!
+{1} received the incoming damage!
+¡{1} recibió el daño venidero!
+A pulse bounced back to {1}!
+¡Un pulso rebotó de regreso a {1}!
+A howl can be heard in the distance! The Slumbering Shield wakes!
+¡Escuchas un aullido a lo lejos! ¡El Escudo Durmiente despierta!
+A howl can be heard in the distance! The Slumbering Shields wake!
+¡Escuchas un aullido a lo lejos! ¡Los Escudos Durmientes despiertan!
+A howl can be heard in the distance! The Slumbering Sword wakes!
+¡Escuchas un aullido a lo lejos! ¡La Espada Durmiente despierta!
+A howl can be heard in the distance! The Slumbering Swords wake!
+¡Escuchas un aullido a lo lejos! ¡Las Espadas Durmientes despiertan!
+The Rusted Shield clatters on the ground!
+¡El Escudo Oxidado retumba en el suelo!
+The Rusted Sword clatters on the ground!
+¡La Espada Oxidada retumba en el suelo!
+But it failed, since {1}'s mind is already unlocked!
+¡Pero falló, ya que la mente de {1} ya fue desbloqueada!
+{1} unlocks the mind of {2}!
+¡{1} desbloquea la mente de {2}!
+You may not make your last able Pokémon have this ability.
+Tu último Pokémon no puede tener esta habilidad.
+{1} knows when {2}'s time will run out!
+¡{1} sabe cuando el tiempo de {2} se agotará!
+{1} rejuvenates itself!
+¡{1} se rejuvenece!
+Cramorant ejects the Pikachu!
+¡Cramorant expulsa el Pikachu!
+Cramorant ejects its meal!
+¡Cramorant expulsa su comida!
+{1} fills its beak!
+{1} atiborra su pico!
+<u>Base Power per Hit</u>:
+<u>Poder Base por Golpe</u>:
+10 + (base Attack stat / 8)
+10 + (Ataque base / 8)
+10 + (base Special Attack stat / 8)
+10 + (Ataque Especial base / 8)
+But {1} couldn't change its type!
+¡Pero {1} no pudo cambiar su tipo!
+Cannot search on an empty tab.
+No puedes buscar en una pestaña vacía.
+Search for which move?
+¿Buscar qué movimiento?
+No matching move was found in this tab.
+No se encontró ninguna coincidencia en esta pestaña.
+No selected Pokémon are holding any items.
+Ningún Pokémon seleccionado tiene ningún objeto equipado.
+Custom Animation
+Animación Personalizada
+Is Canon?
+¿Es Canon?
+Does
+Tiene
+Has Custom Animation?
+¿Tiene Animación Personalizada?
+{1}'s PP was drained by its {2}!
+¡Los PP de {1} fueron drenados por su {2}!
+But a stealth spray's effect still lingers from earlier.
+Pero el espray oculto anterior sigue haciendo efecto.
+The stealth spray's effect wore off! Would you like to use another one?
+¡El espray oculto dejó de hacer efecto! ¿Te gustaría usar otro?
+The stealth spray's effect wore off!
+¡El espray oculto dejó de hacer efecto!
+{1} hands you a pouch of candy.
+{1} te alcanza una bolsa de caramelos 
+{1} sensed {2}'s movements...
+{1} sintió los movimientos de {2}...
+{1} ambushed {2}!
+¡{1} emboscó a {2}!
+"Canon Name Here"
+"Nombre Canon Aquí"
+Encore
+Otra Vez
+When encored, a Pokémon is forced to use the last used move again.
+Bajo los efectos de otra vez, un Pokémon es forzado a usar su último movimiento usado de nuevo.
+Heal Block
+Anticura
+When heal blocked, a Pokémon cannot use healing or draining moves.
+Bajo los efectos de anticura, un Pokémon no puede curarse ni usar movimientos de drenado.
+Torment, Taunt, Disable, Bar, Encore and Heal Block are mental effects.
+Tormento, Mofa, Anulación, Veto, Otra Vez y Anticura son efectos mentales.
+{1} predicted {2}'s actions, and struck first!
+¡{1} predijo las acciones de {2} y atacó primero!
+Slice
+Corte
+Shrinking
+Reducción
+Sugar Rush
+Subidón de Azúcar
+The affected Pokémon's speed is doubled, but they also take double damage from attacks.
+La velocidad del Pokémon afectado es duplicada, pero reciben el doble de daño por ataques.
+Bright light bursts out of {1}!
+¡{1} expulsa luz por todas partes!
+{1} can't use slice-based moves for the next {2} turns!
+¡{1} no podrá usar movimientos de corte durante {2} turnos más!
+<u>No Machine</u>: Electric-type, Numb
+<u>Base</u>: Tipo Eléctrico, Aturdir
+<u>Heat</u>: Fire-type, Burn
+<u>Calor</u>: Tipo Fuego, Quemar
+<u>Wash</u>: Water-type, Waterlog
+<u>Lavado</u>: Tipo Agua, Embeber
+<u>Frost</u>: Ice-type, Frostbite
+<u>Frío</u>: Tipo Hielo, Helar
+<u>Fan</u>: Flying-type, Dizzy
+<u>Ventilador</u>: Tipo Volador, Marear
+<u>Mow</u>: Grass-type, Leech
+<u>Corte</u>: Tipo Planta, Infectar
+{1} cannot form a {2}!
+¡{1} no puede formar {2}!
 [26]
 [27]
 [27]
