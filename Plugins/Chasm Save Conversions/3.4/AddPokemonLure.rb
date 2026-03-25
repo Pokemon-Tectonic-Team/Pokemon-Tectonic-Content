@@ -6,10 +6,8 @@ SaveData.register_conversion(:pokemon_lure_3_4_0) do
         globalVariables = save_data[:variables]
         selfSwitches = save_data[:self_switches]
         itemBag = save_data[:bag]
-    
-        questLog = save_data[:global_metadata].quests
 
-        if questLog.completedQuests.include?(:QUEST_LOST_GROWLITHE)
+        if selfSwitches[[32,14,'C']] # Completed Lost Growlithe quest
             itemBag.pbStoreItem(:POKEMONLURE, 1, false)
         end
     end
