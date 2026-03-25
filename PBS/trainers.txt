@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [BATTLEGIRL,Tester]
 Pokemon = SLAKING,70
@@ -4729,7 +4729,7 @@ Pokemon = MASQUERAIN,60
     AbilityIndex = 1 # Intimidate
 Pokemon = CRUSTLE,60
     Moves = BEDROCKBREAKER,LEECHLIFE,EARTHQUAKE,STEALTHROCK
-    AbilityIndex = 0 # Stratagem
+    AbilityIndex = 1 # Sturdy
     Item = LUMBERRY
 #-------------------------------
 [BUGCATCHER2,Rangsan]
@@ -4936,7 +4936,7 @@ Pokemon = HSAMUROTT,62
     Item = STRIKEVEST
 Pokemon = MUDSDALE,62
     Moves = TRAMPLE,STABILIZE,BULKUP,WHIPKICK
-    AbilityIndex = 0 # Iron Heel
+    AbilityIndex = 1 # Stamina
 Pokemon = CHIMECHO,63
     Moves = REVERBWARD,SUFFOCATE,COLDFRONT,PSYCHOBOOST
     AbilityIndex = 0 # Brisk
@@ -6516,7 +6516,7 @@ Pokemon = DIGNIPHITE,70
     AbilityIndex = 0 # Heavy Metal
 Pokemon = CRUSTLE,70
     Moves = SHELLSMASH,LEECHLIFE,EARTHQUAKE,BEDROCKBREAKER
-    AbilityIndex = 0 # Stratagem
+    AbilityIndex = 1 # Sturdy
 #-------------------------------
 [MASKEDVILLAIN,Crimson,15]
 ExtendsVersion = 14
@@ -6743,7 +6743,7 @@ Pokemon = DIGNIPHITE,70
     AbilityIndex = 0 # Heavy Metal
 Pokemon = CRUSTLE,70
     Moves = SHELLSMASH,LEECHLIFE,EARTHQUAKE,BEDROCKBREAKER
-    AbilityIndex = 0 # Stratagem
+    AbilityIndex = 1 # Sturdy
 #-------------------------------
 [MASKEDVILLAIN2,Teal,15]
 ExtendsVersion = 14
