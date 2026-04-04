@@ -214,7 +214,7 @@ module QuestModule
     :Name => _INTL("Speculative Biology"),
     :QuestGiver => _INTL("Fossil Expert"),
     :Stage1 => _INTL("Take the fossil to Novo College."),
-    :Stage2 => _INTL("Find another specimen for the grad student."),
+    :Stage2 => _INTL("Find another specimen."),
     :Location1 => _INTL("Novo College"),
     :Location2 => _INTL("Novo College"),
     :QuestDescription1 => _INTL("A scientist has uncovered a strange fossil underneath Velenz. Take it back to Novo College for analysis."),
