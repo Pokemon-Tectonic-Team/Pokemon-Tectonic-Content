@@ -529,30 +529,6 @@ def fossilSell()
 	)
 end
 
-def fantasyfossilSell()
-	fantasyfossilStock = %i[
-		ELDRITCHFOSSIL
-		ALIENFOSSIL
-	]
-	pbPokemonMart(
-		fantasyfossilStock,
-		_INTL("If you're interested, I can provide fossils from two particularly fascinating species for a small fee."),
-		!CAN_SELL_IN_VENDORS
-	)
-end
-
-def fantasyfossilSell2()
-	fantasyfossilStock2 = %i[
-		ELDRITCHFOSSIL
-		ALIENFOSSIL
-	]
-	pbPokemonMart(
-		fantasyfossilStock2,
-		_INTL("If you'd like another fossil, partner, I can provide one right here for a small fee."),
-		!CAN_SELL_IN_VENDORS
-	)
-end
-
 def eastEndExclusives
 	exclusiveItemsStock = %i[
 		DYNAMITESTICK
