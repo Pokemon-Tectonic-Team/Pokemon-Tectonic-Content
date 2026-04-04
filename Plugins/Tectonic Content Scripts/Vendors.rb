@@ -126,7 +126,12 @@ def reviveFossil(fossil)
 	end
 
 	if isFantasyFossil?(fossil)
-		pbMessage(_INTL("I... don't think I understand this fossil. Maybe try asking my assistant for help."))
+		pbMessage(_INTL("A new discovery, you say? Let me take a look."))
+		pbMessage(_INTL("Well, hmm... I have some bad news."))
+		pbMessage(_INTL("There's not a lot of genetic data left in this fossil... "))
+		pbMessage(_INTL("It would not be ethical to revive it."))
+		pbMessage(_INTL("As an aside, my grad student across the table isn't so fastidious..."))
+		pbMessage(_INTL("Please make sure he doesn't get his hands on any sub-par specimens like this one."))
 		return
 	end
 
@@ -166,7 +171,10 @@ def reviveFossil(fossil)
 	pbAddPokemon(species,15)
 end
 
-def reviveFantasyFossil(fossil)
+M_KABUTO_REVIVED_GLOBAL = 260
+M_OMANYTE_REVIVED_GLOBAL = 261
+
+def reviveFantasyFossil(fossil, free=false)
 	if isMixFossil?(fossil)
 		pbMessage(_INTL("What!? You want me to make a combo fossil? Not a chance."))
 		pbMessage(_INTL("Maybe someone else is interested in creative torture, but I sure am not."))
@@ -191,21 +199,40 @@ def reviveFantasyFossil(fossil)
 		return
 	end
 	item_data = GameData::Item.get(fossil)
+	if free
+		pbMessage(_INTL("\\PN hands over the {1}.",item_data.name))
+	else
+		pbMessage(_INTL("\\PN hands over the {1} and $3000.",item_data.name))
+	end
 	
-	pbMessage(_INTL("\\PN hands over the {1} and $3000.",item_data.name))
-	
-	pbMessage(_INTL("Is that...? Very intriguing."))
-	pbMessage(_INTL("Feels... familiar. Something I played long ago..."))
-	pbMessage(_INTL("I'll see what I can do."))
+	pbMessage(_INTL("Is that...? Very intriguing. There's not a lot to work with here, but..."))
+	pbMessage(_INTL("It feels... familiar. This reminds me of something I played a long time ago..."))
+	pbMessage(_INTL("If I just add this here... Maybe I can cobble something together..."))
 	
 	blackFadeOutIn(30) {
-		$Trainer.money = $Trainer.money - 3000
+		$Trainer.money = $Trainer.money - 3000 if !free
 		$PokemonBag.pbDeleteItem(fossil)
 	}
 	
 	pbMessage(_INTL("Yes! It's aliiiiiiive! Muahahahahaha!"))
+	newFossil = false
+	if fossil == :ELDRITCHFOSSIL && !getGlobalSwitch(M_OMANYTE_REVIVED_GLOBAL)
+		setGlobalSwitch(M_OMANYTE_REVIVED_GLOBAL)
+		newFossil = true
+	end
+	if fossil == :ALIENFOSSIL && !getGlobalSwitch(M_KABUTO_REVIVED_GLOBAL)
+		setGlobalSwitch(M_KABUTO_REVIVED_GLOBAL)
+		newFossil = true
+	end
 
 	pbAddPokemon(species,15)
+
+	if newFossil
+		pbMessage(_INTL("Not that it's any of your concern, but I took a DNA sample from the revived creature."))
+		pbMessage(_INTL("My wonderful creation should not be alone in this world. I’ll have to find a way to make more of them..."))
+		activateQuest(QUEST_FANTASY_FOSSIL) # should do nothing if quest already active
+		advanceQuestToStage(QUEST_FANTASY_FOSSIL, 2)
+	end
 
 	pbMessage(_INTL("Okay, now go away. I won't suffer any more EXP waste."))
 end
