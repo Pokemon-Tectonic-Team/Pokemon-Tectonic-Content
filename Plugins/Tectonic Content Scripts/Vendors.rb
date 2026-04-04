@@ -230,8 +230,8 @@ def reviveFantasyFossil(fossil, free=false)
 	if newFossil
 		pbMessage(_INTL("Not that it's any of your concern, but I took a DNA sample from the revived creature."))
 		pbMessage(_INTL("My wonderful creation should not be alone in this world. I’ll have to find a way to make more of them..."))
-		activateQuest(QUEST_FANTASY_FOSSIL) # should do nothing if quest already active
-		advanceQuestToStage(QUEST_FANTASY_FOSSIL, 2)
+		activateQuest(:QUEST_FANTASY_FOSSIL) # should do nothing if quest already active
+		advanceQuestToStage(:QUEST_FANTASY_FOSSIL, 2)
 	end
 
 	pbMessage(_INTL("Okay, now go away. I won't suffer any more EXP waste."))
