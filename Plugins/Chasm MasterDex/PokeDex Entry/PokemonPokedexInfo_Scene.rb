@@ -341,7 +341,7 @@ sp.form) && !Settings::DEX_SHOWS_ALL_FORMS
                 drawFormattedTextEx(overlay, abilityTextX, ability1Y, 450, abilityNameText, abilityNameColor,
               abilityNameShadow)
 
-                ability1Description = addBattleKeywordHighlighting(ability1.description)
+                ability1Description = addBattleKeywordHighlighting(ability1.description, isAbility: true)
                 drawFormattedTextEx(overlay, abilityTextX, ability1Y + 34, 450, ability1Description, base, shadow)
                 
                 # add mutability labels
@@ -369,7 +369,7 @@ sp.form) && !Settings::DEX_SHOWS_ALL_FORMS
                 drawFormattedTextEx(overlay, abilityTextX, ability2Y, 450, abilityNameText, abilityNameColor,
               abilityNameShadow)
 
-                ability2Description = addBattleKeywordHighlighting(ability2.description)
+                ability2Description = addBattleKeywordHighlighting(ability2.description, isAbility: true)
                 drawFormattedTextEx(overlay, abilityTextX, ability2Y + 34, 450, ability2Description, base, shadow)
                 
                 # add mutability labels
@@ -1230,7 +1230,16 @@ sp.form) && !Settings::DEX_SHOWS_ALL_FORMS
             Input.update
             pbUpdate
             doRefresh = false
-            if Input.repeat?(Input::UP)
+            if Input.trigger?(Input::USE)
+                selection = @scrollableLists[@horizontalScroll][@scroll]
+                if selection
+                    selection = selection[1] if selection.is_a?(Array)
+                    $dex_cross_link = { type: :move, id: selection }
+                    break
+                else
+                    pbPlayBuzzerSE
+                end
+            elsif Input.repeat?(Input::UP)
                 if @scroll > 0
                     pbPlayCursorSE
                     @scroll -= 1
@@ -1567,6 +1576,7 @@ sp.form) && !Settings::DEX_SHOWS_ALL_FORMS
                 elsif @page == LEVEL_MOVES_PAGE_ID || @page == OTHER_MOVES_PAGE_ID
                     pbPlayDecisionSE
                     pbScroll
+                    break if $dex_cross_link
                     dorefresh = true
                 elsif @page == 8 && @evolutionsArray.length > 0   # Evolutions
                     if @linksEnabled

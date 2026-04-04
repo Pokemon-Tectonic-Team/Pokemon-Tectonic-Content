@@ -46,7 +46,7 @@ class PokeBattle_Battler
             return false
         end
         # Disarming Shot
-        if effectActive?(:DisarmingShot) && move.bladeMove?
+        if effectActive?(:DisarmingShot) && move.sliceMove?
             if showMessages
                 msg = _INTL("{1} can't use {2} because of Disarming Shot!", pbThis, move.name)
                 commandPhase ? @battle.pbDisplayPaused(msg) : @battle.pbDisplay(msg)
@@ -155,7 +155,7 @@ class PokeBattle_Battler
                 echoln(msg)
                 return false
             end
-            statusPreventingAbility = hasActiveAbility?(%i[ASSAULTSPINES])
+            statusPreventingAbility = hasActiveAbility?(GameData::Ability.getByFlag("NoStatusUse"))
             if statusPreventingAbility
                 msg = _INTL("The effects of the {1} prevent status moves from being used!", getAbilityName(statusPreventingAbility))
                 if showMessages

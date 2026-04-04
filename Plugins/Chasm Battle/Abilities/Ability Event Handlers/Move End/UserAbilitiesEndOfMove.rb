@@ -203,7 +203,7 @@ BattleHandlers::UserAbilityEndOfMove.add(:DEADOFWINTER,
   }
 )
 
-BattleHandlers::UserAbilityEndOfMove.add(:SALTATIONSURGE,
+BattleHandlers::UserAbilityEndOfMove.add(:DUSTYTRAIL,
   proc { |ability, user, targets, _move, battle, _switchedBattlers|
       next if battle.pbAllFainted?(user.idxOpposingSide)
       next unless targets.any? { |b| b.damageState.fainted }
@@ -543,6 +543,21 @@ BattleHandlers::UserAbilityEndOfMove.add(:FUELHUNGRY,
 BattleHandlers::UserAbilityEndOfMove.add(:SIRENSONG,
   proc { |ability, user, _targets, move, battle, _switchedBattlers|
       next unless move.soundMove?
+      battle.pbShowAbilitySplash(user, ability)
+      user.eachOpposing do |b|
+        if b.pbAttack > b.pbSpAtk
+          b.tryLowerStat(:ATTACK, user, increment: 1, showFailMsg: true)
+        else
+          b.tryLowerStat(:SPECIAL_ATTACK, user, increment: 1, showFailMsg: true)
+        end
+      end
+      battle.pbHideAbilitySplash(user)
+  }
+)
+
+BattleHandlers::UserAbilityEndOfMove.add(:BOGGLINGBOLERO,
+  proc { |ability, user, _targets, move, battle, _switchedBattlers|
+      next unless move.danceMove?
       battle.pbShowAbilitySplash(user, ability)
       user.eachOpposing do |b|
         if b.pbAttack > b.pbSpAtk
@@ -930,5 +945,15 @@ BattleHandlers::UserAbilityEndOfMove.add(:KARMICBALANCE,
           user.pbLowerMultipleStatSteps(DEFENDING_STATS_2, user, ability: ability)
           user.pbRaiseMultipleStatSteps(ATTACKING_STATS_2, user, ability: ability)
         end
+  }
+)
+
+BattleHandlers::UserAbilityEndOfMove.add(:HITANDRUN,
+  proc { |ability, user, targets, move, battle, _switchedBattlers|
+      next if user.dummy
+      next unless move.damagingMove?
+      if (targets.any? { |b| b.knockedBelowHalf? })
+        next battle.triggeredSwitchOut(user.index, ability: ability)
+      end
   }
 )

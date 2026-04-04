@@ -116,7 +116,7 @@ def battleGuideAbilitiesHash
         _INTL("Choosing Abilities") => _INTL("A Pokémon's ability is one of the two its species can have, randomly chosen when you get it. You can use Ability Capsules to swap to the other."),
         _INTL("Conditional Abilities") => _INTL("Many abilities only do things under certain circumstances. Building around Weather and Room-synergy abilities is a common strategy."),
         _INTL("Effect Of Evolution") => _INTL("A Pokémon's ability tends to stay the same when evolving, but can change. When this happens, the game will alert you."),
-        _INTL("Defeating Abilities") => _INTL("An enemy Trainer's ability too much? Abilities like Neutralizing Gas, and moves like Gastro Acid, can suppress abilities in battle."),
+        _INTL("Defeating Abilities") => _INTL("An enemy Trainer's ability too much? The Dizzy status can suppress abilities in battle."),
         _INTL("Swapping Abilities") => _INTL("Moves like Skill Swap can be used to give a new ability to Pokémon during battle, enabling unique and creative team synergies."),
     }
 end
@@ -168,7 +168,8 @@ def battleGuideVolatileStatusesHash
         _INTL("Transformed") => _INTL("A transformed Pokémon becomes a copy of another. It gains their ability, moves, stats (except HP), and step boosts."),
         _INTL("Perish Song") => _INTL("A Pokémon affected by Perish Song will faint when the timer ends. Avatars will be damaged for half of an HP bar."),
         _INTL("Grounded") => _INTL("A grounded Pokémon loses their immunity to ground moves (from being Flying-type or having a Levitate ability)."),
-        _INTL("Sticky") => _INTL("The affected Pokémon's highest stat becomes reduced by 2 steps for each turn of the effect."),
+        _INTL("Shrinking") => _INTL("The affected Pokémon's highest stat becomes reduced by 2 steps for each turn of the effect."),
+        _INTL("Sugar Rush") => _INTL("The affected Pokémon's speed is doubled, but they also take double damage from attacks."),
     }
 end
 

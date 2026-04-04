@@ -302,6 +302,7 @@ BattleHandlers::TargetAbilityOnHit.add(:CONSTRICTOR,
         next if user.effectActive?(:Trapping)
         next if user.effectActive?(:Binding)
         next if target.effectActive?(:SwitchedIn)
+        next if user.dummy
         trappingDuration = 3
         trappingDuration *= 2 if user.hasActiveItem?(:GRIPCLAW)
         score = 30
@@ -324,6 +325,7 @@ BattleHandlers::TargetAbilityOnHit.add(:MAGNETTRAP,
         next if user.effectActive?(:Trapping)
         next if user.effectActive?(:Binding)
         next if target.effectActive?(:SwitchedIn)
+        next if user.dummy
         trappingDuration = 3
         trappingDuration *= 2 if user.hasActiveItem?(:GRIPCLAW)
         score = 30
@@ -380,14 +382,6 @@ BattleHandlers::TargetAbilityOnHit.add(:BOUNCEBACK,
   }
 )
 
-BattleHandlers::TargetAbilityOnHit.add(:FRIGIDREFLECTION,
-    proc { |ability, user, target, move, battle, aiCheck, aiNumHits|
-        next unless move.specialMove?
-        next if target.fainted?
-        next -60 if aiCheck
-        battle.forceUseMove(target, move.id, user.index, ability: ability)
-    }
-)
 
 BattleHandlers::TargetAbilityOnHit.add(:HUGGABLE,
     proc { |ability, user, target, move, battle, aiCheck, aiNumHits|
@@ -903,6 +897,7 @@ BattleHandlers::TargetAbilityOnHit.add(:INNARDSOUT,
   
 BattleHandlers::TargetAbilityOnHit.add(:MUMMY,
     proc { |ability, user, target, move, battle, aiCheck, aiNumHits|
+        next if user.dummy
         next if user.fainted?
         next if user.immutableAbility?
         next if user.hasAbility?(ability)
@@ -913,6 +908,7 @@ BattleHandlers::TargetAbilityOnHit.add(:MUMMY,
   
 BattleHandlers::TargetAbilityOnHit.add(:INFECTED,
     proc { |ability, user, target, move, battle, aiCheck, aiNumHits|
+        next if user.dummy
         next if user.fainted?
         next if user.immutableAbility?
         next if user.hasAbility?(ability)
@@ -925,6 +921,7 @@ BattleHandlers::TargetAbilityOnHit.add(:INFECTED,
 
 BattleHandlers::TargetAbilityOnHit.add(:WANDERINGSPIRIT,
     proc { |ability, user, target, move, battle, aiCheck, aiNumHits|
+        next if user.dummy
         next if user.fainted?
         next if user.immutableAbility?
         next if user.hasAbility?(ability)
@@ -1058,6 +1055,7 @@ BattleHandlers::TargetAbilityOnHit.add(:COLORCOLLECTOR,
 
 BattleHandlers::TargetAbilityOnHit.add(:TANGLINGVINES,
     proc { |ability, user, target, move, battle, aiCheck, aiNumHits|
+        next if user.dummy
         next if target.fainted?
         next -10 * aiNumHits if aiCheck
         target.showMyAbilitySplash(ability)

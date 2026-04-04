@@ -24,7 +24,7 @@ BattleHandlers::GuaranteedCriticalUserAbility.add(:SEVERE,
 
 BattleHandlers::GuaranteedCriticalUserAbility.add(:WALLNINJA,
     proc { |ability, user, _target, _battle, move|
-        next true if user.battle.roomActive?
+        next true if user.battle.roomActive? && (move.canRandomCrit? || user.effects[:RaisedCritChance] > 0)
     }
 )
 
@@ -54,6 +54,6 @@ BattleHandlers::GuaranteedCriticalUserAbility.add(:STERN,
 
 BattleHandlers::GuaranteedCriticalUserAbility.add(:STAYOFEXECUTION,
     proc { |ability, _user, target, _battle, move|
-        next true if move.bladeMove?
+        next true if move.sliceMove?
     }
 )
