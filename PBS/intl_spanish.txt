@@ -3329,30 +3329,30 @@ No
 No
 Yes
 Sí
-Hey, you're a Trainer right? Please, I need your help.
+Hey, you're a trainer, right? Please, I need your help.
 Hey, ¿Eres un Entrenador cierto? Por favor, necesito tu ayuda.
 My Growlithe got spooked when I was talking it for a walk.
 Mi Growlithe fue espantado mientras estaba tomando un paseo.
 He ran off, and I wasn't able to find him again. 
 Se escapó, y no fui capaz de encontrarlo de nuevo.
-He's lost somewhere in Repora Forest.
-Está perdido en algún lado en el Bosque Repora.
+He's lost somewhere in <imp>Repora Forest</imp>.
+Está perdido en algún lado en el <imp>Bosque Repora</imp>.
 Please find him, we've been together our entire lives.
 Por favor encuentrálo, hemos estado juntos por todas nuestras vidas.
-Here is his Pokeball, and his favorite type of treat.
+Here is his Poké Ball, and his favorite type of treat.
 Esta es su Poké Ball, y su tipo de premio favorito.
-He's a smart boy, so all you need to do is show him the treat and he'll return to his Pokeball.
+He's a smart boy, so all you need to do is show him the treat and he'll return to his Poké Ball.
 Es un chico inteligente, así que lo único que tienes que hacer es mostrarle el premio y regresará a su Poké Ball.
 Have you found my Growlithe yet?
 ¿Has encontrado a mi Growlithe? 
-I'm sure he's just cowering in some corner...
+I'm sure he's just cowering in a corner somewhere...
 Estoy seguro sólo está asustado en alguna esquina...
 You saved Growlithe! Thank you thank you thank you!
 ¡Salvaste a Growlithe! ¡Gracias gracias gracias!
 I have a gift for you, as thanks for saving my Pokemon!
 Tengo un regalo para ti, ¡Como agradecimiento por salvar a mi Pokémon!
-Trainers are amazing, aren't they Growlithe! Don't you want to become big and strong just like their Pokemon?
-Los entrenadores son increíbles, ¡Cierto Growlithe! ¿No quieres ser grande y fuerte como sus Pokémon? 
+Trainers are amazing, aren't they, Growlithe!?
+¡Los entrenadores son increíbles! ¿A qué no, Growlithe?
 Yeah! One day, I'll grow just as strong as you! I'll help people just like you did.
 ¡Sí! Algún día, ¡Seré tan fuerte como tú! Ayudaré a gente como tú lo hiciste.
 Maybe the Rangers that are stationed here will help me get stronger!
@@ -3391,6 +3391,14 @@ Trainers are amazing, aren't they Growlithe!
 Los entrenadores son increíbles, ¿verdad, Growlithe?
 Don't you want to become big and strong just like their Pokemon?
 ¿Acaso no quieres volverte grande y fuerte como sus Pokémon?
+I bought a Pokémon Lure to try and bring him back, but turns out it only works on wild Pokémon...
+Compré un Cebo Pokémon para intentar que regrese, pero resulta que solo funciona en Pokémon salvajes...
+I'm sure it'd be useful to a trainer like you. You can have it if you bring my Growlithe back.
+Estoy seguro de que le serviría a un entrenador como tú. Puedes tenerlo si regresas a mi Growlithe.
+He's lost in Repora Forest.
+Está perdido en el Bosque Repora.
+Here's the Lure like I promised, as thanks for saving my Pokemon!
+¡Como agredecimiento, aquí tienes el Cebo que te prometí!
 [Map33]
 
 Lots of Pokemon that live in the sewers help with waste treatment.
@@ -7685,6 +7693,82 @@ I tried fighting too, but they didn't want to fight me back.
 Un vez también intenté combatir, pero no quisieron combatir conmigo.
 I guess my current form is too weak.
 Supongo que mi forma actual es demasiado débil.
+Hey, kid. You look like a trainer with discerning taste.
+Hey, niño. Pareces ser un entrenador con gusto refinado.
+Keep it on the down low, but truth is, I'm actually a Pokemon Professor.
+No lo vayas diciendo por ahí, pero de hecho, soy un Profesor Pokémon.
+Yep, Professor, uh, Manchineel, that's my name.
+Sí, Profesor, eh, Manchineel, así es.
+I bet you're on the lookout for all sortsa rare Pokemon, and buddy do I have a deal for you.
+Apuesto a que estás buscando todo tipo de Pokémon raros, y vaya que tengo una oferta para ti.
+If yer interested, I'll be here any time.
+Si te interesa, seguiré aquí.
+Ey, there you are. I knew you'd make the right decision.
+Hey, ahí estás. Sabía que tomarías la decisión correcta.
+When the great and generous Professor Manchineel has a deal for ya, you can't just walk away.
+Cuando el gran y generoso Profesor Manchineel tiene una oferta para ti, no puedes ignorarla.
+So how about it?
+¿Entonces qué dices?
+Great, fantastic.
+Muy bien, fantástico.
+Here's the rub: Here with me I've got some very special Pokemon.
+Este es el trato: Tengo unos cuantos Pokémon muy especiales.
+You kids like starter Pokemon right? All rare and one-of-a-kind.
+A los niños como tú les encantan los Pokémon iniciales, ¿verdad? Tan raros y únicos.
+Well I've got some for you right here.
+Pues resulta que justo tengo uno para ti.
+All I need from you is one measly Eevee Ticket.
+Y todo lo que necesito es un mero Ticket Eevee.
+Not like you'll be heading all the way to the big city to use it yourself.
+No es como que vayas a ir hasta la gran ciudad para usarlo tú mismo.
+Whaddya say?
+¿Qué dices?
+I tell ya, yer making the right choice.
+Te lo prometo, estás tomando la decisión correcta.
+Which of these little guys didja have yer eye on?
+¿En cuál de estos pequeñajos estás interesado?
+Oh, great choice. Don't tell the others I said this, but this one's my favorite.
+Oh, genial. No se lo digas a los otros, pero este es mi favorito.
+This sneaky little bastard can make off with your foe's items or cut and run when the going gets tough.
+Este pequeño bastardo puede tomar los objetos de tu rival o atacar e irse cuando las cosas se van a pique.
+Reminds me of a certain someone.
+Me recuerda a cierta persona.
+This little bundl'a joy can dance all over the place and throw items back and fro.
+Este pequeño amiguito puede danzar por todo el campo y lanzar objetos por todas partes.
+This blind little cutie can feel your foe moving and get in there first.
+Esta pequeña ternura podrá ser ciega, pero puede sentir los movimientos del rival y llegar primero.
+This is the one you want?
+¿Es este el que quieres?
+A pleasure doin' business wit'ya kid.
+Es un gusto hacer negocios contigo
+Now I gotta split to go find the next suck- ah, satisfied customer.
+Ahora tengo que correr y encontrar al siguiente idio- eh, cliente satisfecho.
+Alright, alright, no rush, take your time.
+Muy bien, muy bien, no hay apuro, tómate tu tiempo.
+'snot like I gotta run or anything.
+No es como que tenga que salir corriendo ni nada.
+What is this, some kinda scam? You ain't got no Eevee Ticket!
+¿Qué es esto, una estafa? ¡No tienes ningún Ticket Eevee!
+Come back when you've got the goods.
+Regresa cuando tengas la mercancía.
+I tell ya kid, yer missin' out.
+Estás desperdiciando esta oportunidad, niño.
+I'll be here if you change your mind.
+I'll be here if you change your mind.
+*psst* Hey kid, c'mere.
+*psst* Hey niño, aquí.
+You look like a trainer with discerning taste.
+Pareces ser un entrenador con gusto refinado.
+Yes
+Sí
+M. Treecko
+Treecko M.
+M. Torchic
+Torchic M.
+M. Mudkip
+Mudkip M.
+Check MasterDex
+Mirar MasterDex
 [Map83]
 
 A locked gate. It has a slot for a keycard.
@@ -8879,7 +8963,81 @@ Avatars are scary!
 ¡Los avatares dan miedo!
 I guess I'll take a break here to heal my Pokemon.
 Supongo que tomaré un respiro para curar mis Pokémon.
-
+[Map111]
+Please move from that spot.
+Por favor sal de ese espacio.
+I'm conducting further analysis of this small pond.
+Estoy llevando un cabo un análisis de este pequeño estanque.
+Off you go, now. These fossils aren't going to research themselves!
+Ahora vete. ¡Estos fósiles no se van a investigar a ellos mismos!
+Just a quick delivery to Novo College.
+Llévalo rápido a la Facultad Novo.
+Ah, my research partner! Returned from Novo College already?
+¡Ah, mi compañero de investigación! ¿Ya regresaste de la Facultad Novo?
+I hope the revival process went smoothly.
+Espero que el proceso de resurrección haya funcionado sin contratiempos.
+I'm excited to see what the team makes with these novel specimens.
+Me emociona ver lo que el equipo podrá hacer con estos especímenes.
+But, er, not just yet. I still have so much more I want to do here!
+Pero eh, todavía no. ¡Aún hay muchas cosas que quiero hacer aquí!
+I couldn't possibly split my attention.
+No podría dividir mi atención.
+Fascinating...
+Fascinante...
+I certainly was not expecting to run into another person down here!
+¡Ciertamente no esperaba encontrarme con otra persona aquí!
+I'm a professor at Novo College. PhD in fossil identification.
+Soy un profesor en la Facultad Novo. Tengo un doctorado en identificación de fósiles. 
+Following up on a report, I found two very interesting specimens.
+Al seguir un reporte, encontré dos especímenes muy interesantes.
+Look here.
+Observa.
+\i[ELDRITCHFOSSIL]While extracting, I thought this to be a Helix Fossil, the remains of an ancient Omanyte.
+\i[ELDRITCHFOSSIL]Mientras lo extraía, pensé que este era un Fósil Helix, los remanentes de un Omanyte antiguo.
+\i[ELDRITCHFOSSIL]But it's quite different!
+\i[ELDRITCHFOSSIL]¡Pero es muy distinto!
+\i[ELDRITCHFOSSIL]That strange groove... no, it’s actually a carving!
+\i[ELDRITCHFOSSIL]Esta extraña muesca... no, ¡es un tallado!
+\i[ELDRITCHFOSSIL]But those tentacles... they couldn’t have reached to carve its own shell...
+\i[ELDRITCHFOSSIL]Pero estos tentáculos... no podrían haber llegado a tallar su propio caparazón...
+\i[ELDRITCHFOSSIL]Also, it has only a single, large eye socket. Excellent for vision in darkness.
+\i[ELDRITCHFOSSIL]Además, tiene una única, gran cuenca. Excelente para mirar en la oscuridad.
+\i[ELDRITCHFOSSIL]This Omanyte was surely a cave-dwelling, intelligent species. Perhaps even a social one...
+\i[ELDRITCHFOSSIL]Estos Omanyte seguramente vivían en cuevas. Seguramente eran muy inteligentes... quizás incluso sociales.
+Now, the second specimen of note.
+Ahora, el segundo espécimen.
+\i[ALIENFOSSIL]A Dome Fossil, I hear you thinking? A Kabuto, surely?
+\i[ALIENFOSSIL]Seguramente pienses que esto es un Fósil Domo, ¿cierto?
+\i[ALIENFOSSIL]Note the thickness of the armor plating, and the sheer size of these muscle- supporting bone ridges!
+\i[ALIENFOSSIL]Nota el grosor de su coraza, ¡y el tamaño de sus huesos! 
+\i[ALIENFOSSIL]This Kabuto was surely an apex predator the likes of which we've never seen.
+\i[ALIENFOSSIL]Seguramente este Kabuto era un depredador como ningún otro que conozcamos. 
+I was supposed to report back to the college at once... but surely my time is better spent here.
+Se suponía que debía reportarme a la facultad a este punto... pero seguramente mi tiempo valdrá más la pena aquí.
+There’s so much more to uncover...
+Aún hay mucho que descubrir...
+Oh! You’re still here.
+¡Oh! Aún sigues aquí.
+Well, how would you like to be my, uh... research partner?
+Bueno, ¿puede que quieras ser mi, eh... compañero de investigación?
+All I need you to do is take one of these two fossils and transport it to the fossils laboratory at Novo College.
+Todo lo que necesito es que tomes uno de estos dos fósiles y lo transportes al laboratorio de la Facultad Novo.
+You'll help me out, surely? Which one interests you more?
+¿Me vas a ayudar, cierto? ¿Cuál te interesa más?
+But I couldn't possibly leave here myself...
+Pero no puedo irme por mi cuenta...
+Please, the sheer scientific potential... you must help me.
+Por fvor, el potencial científico... debes ayudarme.
+Here, quickly now!
+¡Rápido, toma!
+Thank you. I cannot overstate how excited I am to see these fossils revived.
+Gracias. No puedo poner en palabras lo que me emociona ver a estos fósiles revividos.
+Let me think...
+Déjame pensarlo...
+Omanyte...?
+¿Omanyte...?
+Kabuto...?
+¿Kabuto...?
 [Map112]
 
 This is a restricted area!
@@ -10953,6 +11111,54 @@ A dazzlingly complex video game is being played.
 La pantalla muestra un videojuego bastante complicado.
 A giant, many-limbed monster is being attacked by a group of people with wildly mismatching outfits.
 Un monstruo gigante con múltiples extremidades está siendo atacado por un grupo de personas con vestimentas que no combinan en absoluto.
+...and $2000...
+...y $2000...
+One second, one second... 3% HP left...
+Un segundo, un segundo... quedan 3% PS...
+Yes! Nailed it. Best dungeon clear time in all of Makya.
+¡Sí! En el clavo. Esa mazmorra no tuvo oportunidad.
+Oh, it's you! Thanks to the samples you gave me earlier, I've become the best-in-slot expert on these new ancient Pokemon.
+¡Oh, eres tú! Gracias por las muestras que me diste antes, me he convertido en el mayor experto en estos nuevos antiguos Pokémon
+Sure, they're not exactly "historically accurate", but who cares!?
+Puede que no sean "históricamente correctos", ¿¡pero a quién le importa!?
+My favorite games come to life... an army of mobs, loyal to me!
+Mis juegos favoritos traídos a la vida... un ejército de mobs, ¡leales a mí!
+Muahahahaha! Ahem.
+¡Muajajajaja! Ejem. 
+Seeing as it wouldn't have been possible without you, I'd be happy to... split the drops, as it were.
+Viendo como esto no habría sido posible sin ti, me gustaría... dividir las ganancias, por así decirlo.
+If you want one of these new species, tell me. But not if I’m in the middle of a raid!
+Si quieres una de estas nuevas especies, dímelo. 
+Ah, my accomplice. You're here for a Pokemon?
+Ah, mi cómplice. ¿Estás aquí por un Pokémon?
+Monthly subscriptions aren't cheap, so I do need to ask for some money.
+Las suscripciones mensuales no son baratas, así que necesito pedirte algo de dinero.
+Just $5000 should be enough.
+$5000 debería ser suficiente.
+Or if you have another whole fossil, I can revive it for you for $2000.
+O si tienes otro fósil, puedo revivirlo por $2000.
+Which one were you after?
+¿Cuál querías?
+\PN hands over $5000.
+\PN paga los $5000.
+Here you go, freshly spawned.
+Aquí lo tienes, fresco de la máquina.
+There's more where that came from.
+Hay más de donde eso vino.
+You don't have enough money...
+No tienes suficiente dinero...
+Sorry. I know you're a noob, but even my generosity has its limits.
+Lo siento. Podrás ser un noob, pero mi generosidad tiene sus límites.
+Thanks for wasting my time.
+Gracias por desperdiciar mi tiempo.
+M. Kabuto
+Kabuto M.
+M. Omanyte
+Omanyte M.
+Revive Fossil
+Revivir Fósil
+Never mind
+Olvídalo
 [Map134]
 
 Hey! Great job on making it through the gym – I know things are a little hectic right now.
