@@ -2484,7 +2484,7 @@ Target = NearOther
 FunctionCode = ApplyPassiveDamageToTargetPosition3
 Flags = CanProtect,ForceSignature
 EffectChance = 100
-Description = The user attacks with shards from their rocky mane. For the next 3 turns, the Pokémon in the targeted slot loses 1/8th of their max HP.
+Description = The user attacks with shards from their rocky mane. For the next three turns, the Pokémon in the targeted slot loses 1/8th of their max HP.
 Animation = STEALTHROCK
 #-------------------------------
 [TERRAFORM]
@@ -3486,6 +3486,20 @@ Flags = CanProtect
 Description = Conductive materials ensnare the target, trapping and binding it for three turns.
 Animation = MAGNETBOMB
 #-------------------------------
+[FEATHERLOCKVOLLEY]
+Name = Featherlock Volley
+Type = STEEL
+Category = Physical
+Power = 25
+Accuracy = 100
+TotalPP = 8
+Target = NearOther
+FunctionCode = HitThreeTimesLowerTargetDef1DisablesSelf
+Flags = CanProtect
+EffectChance = 100
+Description = The user launches piercing feathers 3 times, lowering the foe's Defense. Then, this move is disabled.
+Animation = SPIKECANNON
+#-------------------------------
 [FEATHERWARD]
 Name = Feather Ward
 Type = STEEL
@@ -3944,8 +3958,8 @@ Type = FIRE
 Category = Special
 Power = 60
 Accuracy = 100
-TotalPP = 10
-Target = AllNearFoes
+TotalPP = 15
+Target = NearOther
 FunctionCode = Burn
 Flags = CanProtect,Wind
 EffectChance = 30
@@ -5558,6 +5572,20 @@ Flags = CanProtect,CanMagicCoat,Dance
 Description = The user dances to heal an ally by half of their max HP. They're cured of any non-volatile status conditions.
 Animation = HEALPULSE
 #-------------------------------
+[ILLICIUMIMPULSE]
+Name = Illicium Impulse
+Type = ELECTRIC
+Category = Special
+Power = 80
+Accuracy = 100
+TotalPP = 20
+Target = NearOther
+FunctionCode = RaiseUserSpDef2
+Flags = CanProtect,Light
+EffectChance = 100
+Description = Cloaking itself in light energy, the user shocks the target, raising the user's Sp. Def by two steps.
+Animation = DISCHARGE
+#-------------------------------
 [INERTIASHOCK]
 Name = Inertia Shock
 Type = ELECTRIC
@@ -5672,20 +5700,6 @@ FunctionCode = AllyAttackGuaranteedCrit
 Flags = Dance
 Description = The user dances to encourage its ally. Their attacks this turn will be critical hits.
 Animation = HELPINGHAND
-#-------------------------------
-[LUMINOUSBURST]
-Name = Luminous Burst
-Type = ELECTRIC
-Category = Special
-Power = 80
-Accuracy = 100
-TotalPP = 20
-Target = NearOther
-FunctionCode = RaiseUserSpDef2
-Flags = CanProtect,Light
-EffectChance = 100
-Description = Cloaking itself in light energy, the user shocks the target, raising the user's Sp. Def by two steps.
-Animation = DISCHARGE
 #-------------------------------
 [MAGNETICCOIL]
 Name = Magnetic Coil
@@ -7448,6 +7462,7 @@ Target = NearOther
 FunctionCode = Waterlog
 Flags = CanProtect,CanMagicCoat
 Description = The target is forced underwater for a brief time, waterlogging it.
+Animation = SOAK
 #-------------------------------
 [DUNK]
 Name = Dunk
@@ -8024,6 +8039,18 @@ FunctionCode = AlwaysHits
 Flags = Sound
 Description = An enchanting outcry. Can't miss and skips protections.
 Animation = SING
+#-------------------------------
+[FLEETINGFOOTWORK]
+Name = Fleeting Footwork
+Type = FAIRY
+Category = Status
+Accuracy = 0
+TotalPP = 3
+Target = User
+FunctionCode = RaiseUserMainStats3ResetUserStatSteps2Turns
+Flags = Dance
+Description = The user dances vigorously, raising all its stats by three steps. The user’s stat steps are reset two turns later.
+Animation = TEETERDANCE
 #-------------------------------
 [FLORALGRAMARYE]
 Name = Floral Gramarye

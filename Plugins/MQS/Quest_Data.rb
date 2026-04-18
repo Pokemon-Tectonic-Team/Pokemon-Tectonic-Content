@@ -96,6 +96,7 @@ module QuestModule
     :Location1 => _INTL("Repora Forest"),
     :Location2 => _INTL("Novo Apartments"),
     :QuestDescription => _INTL("The kid in Novo Apartments is asking you to find his Growlithe, which is lost in Repora Forest."),
+    :RewardString => _INTL("Pokémon Lure"),
   }
 
   QUEST_HIDE_AND_SEEK = {
@@ -208,6 +209,18 @@ module QuestModule
     :Location1 => _INTL("East-Peaks Gatehouse"),
     :QuestDescription => _INTL("An elderly lady notices your strength and status, and figures you may have a legendary Pokémon. She only wishes to see it and admire it. How about humoring her request? I'm sure there is something powerful in this region that you could find."),
   }
+
+  QUEST_FANTASY_FOSSIL = {
+    :Name => _INTL("Speculative Biology"),
+    :QuestGiver => _INTL("Fossil Expert"),
+    :Stage1 => _INTL("Take the fossil to Novo College."),
+    :Stage2 => _INTL("Find another specimen."),
+    :Location1 => _INTL("Novo College"),
+    :Location2 => _INTL("Novo College"),
+    :QuestDescription1 => _INTL("A scientist has uncovered a strange fossil underneath Velenz. Take it back to Novo College for analysis."),
+    :QuestDescription2 => _INTL("A questionable student at Novo College has turned your strange fossil into something out of a video game. If you find a different fossil for him, what's the worst that could happen?"),
+  }
+
 
   # Gym Leader Avatars
 

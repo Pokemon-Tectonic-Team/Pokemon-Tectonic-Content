@@ -387,6 +387,10 @@ class PokeBattle_MultiStatUpMove < PokeBattle_Move
 end
 
 class PokeBattle_StatDownMove < PokeBattle_Move
+    def consumesItem?(user)
+        user.hasActiveItemAI?(:WHITEHERB)
+    end
+
     def pbEffectWhenDealingDamage(user, target)
         return if @battle.pbAllFainted?(target.idxOwnSide)
         user.pbLowerMultipleStatSteps(@statDown, user, move: self)
@@ -396,7 +400,7 @@ class PokeBattle_StatDownMove < PokeBattle_Move
         if user.hasActiveItemAI?(:EJECTPACK)
             return getSwitchOutEffectScore(user)
         elsif user.hasActiveItemAI?(:WHITEHERB)
-            return -5 # Uses up the white herb
+            return 0 # Item consumption penalty handled by consumesItem?
         else
             statDownAI = []
             for i in 0...@statDown.length / 2
@@ -517,7 +521,7 @@ class PokeBattle_FixedDamageMove < PokeBattle_Move
         end
     end
 
-    def calculateDamageForHit(user, target, type, baseDmg, numTargets, aiCheck = false)
+    def calculateDamageForHit(user, target, type, baseDmg, numTargets, aiCheck = false, aiContext = nil)
         fixedDamage = pbFixedDamage(user, target)
         return fixedDamage if fixedDamage
         super
@@ -531,6 +535,12 @@ end
 #===============================================================================
 class PokeBattle_TwoTurnMove < PokeBattle_Move
     def chargingTurnMove?; return true; end
+
+    def worksWithNoTargets?(user = nil)
+        return false if user.nil?
+        return true if @chargingTurn && !@damagingTurn
+        return false
+    end
 
     # :TwoTurnAttack is set to the move's ID if this
     # method returns true, or nil if false.
@@ -638,6 +648,10 @@ class PokeBattle_TwoTurnMove < PokeBattle_Move
             score -= 30 if user.belowHalfHealth?
         end
         return score
+    end
+
+    def consumesItem?(user)
+        user.hasActiveItemAI?(:POWERHERB) && !skipChargingTurn?(user)
     end
 
     def skipChargingTurn?(user); return false; end

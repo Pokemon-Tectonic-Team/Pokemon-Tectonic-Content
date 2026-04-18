@@ -209,6 +209,10 @@ Flags = SunshineSynergy
 Name = Bliss
 Description = Increase the EXP gained from battles in which it participates by 50%.
 #-------------------------------
+[BOGGLINGBOLERO]
+Name = Boggling Bolero
+Description = After using a dance move, lowers one of each foe's Attack and Sp. Atk, whichever is higher.
+#-------------------------------
 [BOTTOMFEEDER]
 Name = Bottom Feeder
 Description = Heals from binding damage it deals. Takes 25% less damage from Pokémon that are trapped.
@@ -328,6 +332,7 @@ Description = Traps foes with non-volatile status conditions.
 [CLOAKING]
 Name = Cloaking
 Description = It changes form to match the move it selected.
+Flags = Immutable
 #-------------------------------
 [CLOUDBURST]
 Name = Cloudburst
@@ -366,6 +371,7 @@ Description = Using or being hit by a physical move leaves a rock on the field. 
 [COSTUMECHANGE]
 Name = Costume Change
 Description = Changes to the form of your choosing after switching out.
+Flags = Immutable
 #-------------------------------
 [COTTONDECOY]
 Name = Cotton Decoy
@@ -530,6 +536,11 @@ Name = Drifting Mist
 Description = Creates Grey Mist for three turns upon entry.
 Flags = SetupCounterAI
 #-------------------------------
+[DUSTYTRAIL]
+Name = Dusty Trail
+Description = After knocking out any Pokémon, summons sandstorm for four turns.
+Flags = SandstormSynergy
+#-------------------------------
 [DYNAMICENTRANCE]
 Name = Dynamic Entrance
 Description = Speed is doubled on the first turn.
@@ -631,6 +642,10 @@ Description = Increases Sp. Atk by 50%, but this Pokémon is hurt for 1/10th HP 
 Name = Extremophile
 Description = Heals by 1/8th of its max HP each turn if in eclipse.
 Flags = EclipseSynergy
+#-------------------------------
+[FADINGFURY]
+Name = Fading Fury
+Description = Boosts the power of kick and light moves by 50%, but this Pokémon is hurt for 1/10th HP each turn.
 #-------------------------------
 [FAEVEIL]
 Name = Fae Veil
@@ -800,7 +815,7 @@ Description = After using a biting move, lowers the target's highest attacking s
 #-------------------------------
 [FRIGIDREFLECTION]
 Name = Frigid Reflection
-Description = When hit with a special move, hits back instantly with that same move.
+Description = After being attacked with a special move, hits back with that same move.
 #-------------------------------
 [FROSTFANGED]
 Name = Frostfanged
@@ -977,10 +992,6 @@ Name = Herbalist
 Description = Can hold two different items, if both are Herbs.
 Flags = MultipleItems
 #-------------------------------
-[HERDING]
-Name = Herding
-Description = Wild Pokémon are more likely to appear in pairs and to be species you've never caught before.
-#-------------------------------
 [HEROICFINALE]
 Name = Heroic Finale
 Description = Turns to Finale Form when only unfainted on team. Ability becomes Inner Focus.
@@ -999,6 +1010,10 @@ Description = Has Judgment as its 5th move.
 Name = High-rise
 Description = This Pokémon and its allies are immune to weather downsides.
 Flags = AllWeatherSynergy
+#-------------------------------
+[HITANDRUN]
+Name = Hit and Run
+Description = When this Pokémon knocks a foe below half health, this Pokémon switches out.
 #-------------------------------
 [HIVEMIND]
 Name = Hive Mind
@@ -1178,6 +1193,10 @@ Description = Uses Wish after knocking out any Pokémon.
 Name = Juggernaut
 Description = This Pokémon's moves deal 20% more damage and ignore abilities that would affect them.
 Flags = MoldBreaking
+#-------------------------------
+[JUGGLING]
+Name = Juggling
+Description = When this Pokémon consumes an item, it is passed to its ally. When its ally consumes an item, it is passed to this Pokémon.
 #-------------------------------
 [KARMA]
 Name = Karma
@@ -1762,6 +1781,10 @@ Description = On the first turn, its attacks poison the target.
 Name = Rapid Refresh
 Description = Heals 1/8th HP every turn if hit by an attack.
 #-------------------------------
+[RATSNEST]
+Name = Rat's Nest
+Description = Lays an electrical hazard around the opponent when this Pokémon's HP is lowered below half.
+#-------------------------------
 [RATTLEEM]
 Name = Rattle 'Em
 Description = Moves that can flinch are 50% more likely. Deals 50% more damage to Pokémon with flinch immunity.
@@ -1890,11 +1913,6 @@ Name = Safe Passage
 Description = Doubles Defense in rainstorm.
 Flags = RainstormSynergy
 #-------------------------------
-[SALTATIONSURGE]
-Name = Saltation Surge
-Description = After knocking out any Pokémon, summons sandstorm for four turns.
-Flags = SandstormSynergy
-#-------------------------------
 [SANDBURST]
 Name = Sand Burst
 Description = Summons a sandstorm for four turns when hit by an attack.
@@ -1992,6 +2010,10 @@ Flags = HailSynergy
 [SEVERE]
 Name = Severe
 Description = Its attacks are critical against numbed targets.
+#-------------------------------
+[SHAREDSPOILS]
+Name = Shared Spoils
+Description = When this Pokémon removes a foe's item, choose a party member to hold it.
 #-------------------------------
 [SHARPSHOOTER]
 Name = Sharpshooter
@@ -2223,7 +2245,7 @@ Flags = MoldBreaking,RedirectionImmunity
 #-------------------------------
 [STRATAGEM]
 Name = Stratagem
-Description = Powers up Rock-type moves by 50%.
+Description = At the end of each turn, if it has no item, gets a random gem that matches the type of one of its attacking moves.
 #-------------------------------
 [STRESSFUL]
 Name = Stressful
@@ -2427,6 +2449,10 @@ Description = Takes 30% less damage from Pokémon that are trapped.
 Name = Traumatizing
 Description = Foes whose stats are lowered by this Pokémon keep those lowered stats even after switching.
 #-------------------------------
+[TREASURETRACKER]
+Name = Treasure Tracker
+Description = Increase the money rewarded by trainers from battles in which it participates by 50%.
+#-------------------------------
 [TREMORSENSE]
 Name = Tremor Sense
 Description = Whenever a grounded foe attacks, this Pokémon gains priority against them on the next turn.
@@ -2602,10 +2628,6 @@ Flags = HailSynergy
 Name = Winter's Wages
 Description = Restores HP based on damage taken by others from hail.
 Flags = HailSynergy
-#-------------------------------
-[WIRECUTTER]
-Name = Live Wire
-Description = Lays an electrical hazard around the opponent when its HP is lowered below half.
 #-------------------------------
 [WISEHUNTER]
 Name = Wise Hunter
