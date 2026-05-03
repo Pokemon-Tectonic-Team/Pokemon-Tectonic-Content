@@ -325,14 +325,30 @@ GameData::BattleEffect.register_effect(:Battler, {
     end
 })
 
+PHARAOHS_CURSE_DAMAGE_FRACTION = 0.125
+
 GameData::BattleEffect.register_effect(:Battler, {
     :id => :PharaohsCurse,
     :real_name => "Pharoah's Curse",
     :baton_passed => true,
     :avatars_purge => true,
     :apply_proc => proc do |battle, battler, _value|
-        battle.pbDisplay(_INTL("It's pain becomes golden coins!"))
+        battle.pbDisplay(_INTL("{1} is turning into gold!",battler.pbThis))
     end,
+    :eor_proc => proc do |battle, battler, _value|
+        if battler.takesIndirectDamage?
+            battle.pbDisplay(_INTL("{1} is afflicted by the pharaoh's curse!", battler.pbThis))
+            curseDamage = battler.applyFractionalDamage(PHARAOHS_CURSE_DAMAGE_FRACTION, false)
+
+            moneyEarned = curseDamage * 10
+            moneyEarned = (battle.moneyMult * moneyEarned).floor
+            battler.pbOpposingSide.incrementEffect(:PayDay, moneyEarned)
+        end
+    end,
+    :stay_in_rating_proc => proc do |battle, battler, value, stay_in_rating|
+        stay_in_rating -= 15
+        next stay_in_rating
+    end
 })
 
 GameData::BattleEffect.register_effect(:Battler, {
@@ -1183,6 +1199,7 @@ GameData::BattleEffect.register_effect(:Battler, {
     :real_name => "Base Attack Set",
     :type => :Integer,
     :baton_passed => true,
+    :default => -1,
 })
 
 GameData::BattleEffect.register_effect(:Battler, {
@@ -1190,6 +1207,7 @@ GameData::BattleEffect.register_effect(:Battler, {
     :real_name => "Base Sp. Atk Set",
     :type => :Integer,
     :baton_passed => true,
+    :default => -1,
 })
 
 GameData::BattleEffect.register_effect(:Battler, {
@@ -1197,6 +1215,7 @@ GameData::BattleEffect.register_effect(:Battler, {
     :real_name => "Base Defense Set",
     :type => :Integer,
     :baton_passed => true,
+    :default => -1,
 })
 
 GameData::BattleEffect.register_effect(:Battler, {
@@ -1204,6 +1223,7 @@ GameData::BattleEffect.register_effect(:Battler, {
     :real_name => "Base Sp. Def Set",
     :type => :Integer,
     :baton_passed => true,
+    :default => -1,
 })
 
 GameData::BattleEffect.register_effect(:Battler, {
@@ -1211,6 +1231,7 @@ GameData::BattleEffect.register_effect(:Battler, {
     :real_name => "Base Speed Set",
     :type => :Integer,
     :baton_passed => true,
+    :default => -1,
 })
 
 GameData::BattleEffect.register_effect(:Battler, {

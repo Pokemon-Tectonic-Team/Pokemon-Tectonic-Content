@@ -1603,6 +1603,18 @@ FunctionCode = Invalid
 Flags = CanProtect
 Description = The user causes a huge landslide to cover the field.
 #-------------------------------
+[LANDSWRATH]
+Name = Land's Wrath
+Type = GROUND
+Category = Physical
+Power = 90
+Accuracy = 100
+TotalPP = 10
+Target = AllNearFoes
+FunctionCode = Invalid
+Flags = CanProtect
+Description = The user gathers the energy of the land and focuses that power on foes to damage them.
+#-------------------------------
 [MAGNITUDE]
 Name = Magnitude
 Type = GROUND
@@ -2047,6 +2059,17 @@ FunctionCode = Invalid
 Flags = CanProtect
 Description = The user attacks the target from a blind spot. Always goes first. Deals 50% more damage in a hailstorm.
 #-------------------------------
+[NIGHTMARE]
+Name = Nightmare
+Type = GHOST
+Category = Status
+Accuracy = 100
+TotalPP = 12
+Target = NearOther
+FunctionCode = Invalid
+Flags = CanProtect
+Description = A sleeping target sees a nightmare that inflicts 25% damage every turn.
+#-------------------------------
 [NIGHTSHADE]
 Name = Night Shade
 Type = GHOST
@@ -2308,6 +2331,19 @@ Description = Attacks while destroying the terrain. This move fails in the absen
 #-------------------------------
 #		FIRE MOVES
 #-------------------------------
+[BLUEFLARE]
+Name = Blue Flare
+Type = FIRE
+Category = Special
+Power = 130
+Accuracy = 80
+TotalPP = 5
+Target = NearOther
+FunctionCode = Invalid
+Flags = CanProtect
+EffectChance = 30
+Description = The user attacks by engulfing the foe in a beautiful, yet intense, blue flame. It has a 30% chance to burn.
+#-------------------------------
 [DESTRIERSWHIM]
 Name = Destrier's Whim
 Type = FIRE
@@ -2371,6 +2407,18 @@ Target = NearOther
 FunctionCode = Invalid
 Flags = CanProtect
 Description = The user attacks the foe with a bursting flame. It also damages Pokémon next to the target.
+#-------------------------------
+[FUSIONFLARE]
+Name = Fusion Flare
+Type = FIRE
+Category = Special
+Power = 100
+Accuracy = 100
+TotalPP = 5
+Target = NearOther
+FunctionCode = Invalid
+Flags = CanProtect
+Description = The user brings down a giant flame. It does more damage if influenced by an enormous thunderbolt.
 #-------------------------------
 [HEATGYRE]
 Name = Heat Gyre
@@ -3078,6 +3126,19 @@ Flags = CanProtect
 EffectChance = 10
 Description = Type changes depending on the user's form. It has a 10% chance to numb.
 #-------------------------------
+[BOLTSTRIKE]
+Name = Bolt Strike
+Type = ELECTRIC
+Category = Physical
+Power = 130
+Accuracy = 80
+TotalPP = 5
+Target = NearOther
+FunctionCode = Invalid
+Flags = CanProtect
+EffectChance = 30
+Description = The user launches at its foe, surrounding itself with lightning. It has a 30% chance to numb.
+#-------------------------------
 [DISCHARGE]
 Name = Discharge
 Type = ELECTRIC
@@ -3112,6 +3173,18 @@ Priority = 1
 FunctionCode = Invalid
 Flags = CanProtect
 Description = If the target uses a move this turn, that move becomes Electric-type.
+#-------------------------------
+[FUSIONBOLT]
+Name = Fusion Bolt
+Type = ELECTRIC
+Category = Physical
+Power = 100
+Accuracy = 100
+TotalPP = 5
+Target = NearOther
+FunctionCode = Invalid
+Flags = CanProtect
+Description = The user throws down a giant thunderbolt. It does more damage if influenced by an enormous flame.
 #-------------------------------
 [IONDELUGE]
 Name = Ion Deluge
@@ -3915,6 +3988,19 @@ Flags = CanProtect
 EffectChance = 20
 Description = The user tackles the foe while exhibiting overwhelming menace. It may also make the target flinch.
 #-------------------------------
+[REND]
+Name = Rend
+Type = DRAGON
+Category = Physical
+Power = 90
+Accuracy = 100
+TotalPP = 12
+Target = NearOther
+FunctionCode = Invalid
+Flags = CanProtect
+Description = The user shreds through the opponent's defenses, ignoring positive stat changes and abilities.
+Animation = DRAGONCLAW
+#-------------------------------
 [SCALEGLINT]
 Name = Scale Glint
 Type = DRAGON
@@ -4025,6 +4111,17 @@ Flags = CanProtect,Sound
 EffectChance = 40
 Description = The target is confronted with painful words. It has a 40% chance to make the target flinch.
 Animation = DARKPULSE
+#-------------------------------
+[MEANLOOK]
+Name = Mean Look
+Type = DARK
+Category = Status
+Accuracy = 0
+TotalPP = 5
+Target = NearOther
+FunctionCode = Invalid
+Flags = CanMagicCoat
+Description = The user pins the target with a dark, arresting look. The target becomes trapped.
 #-------------------------------
 [NASTYPLOT]
 Name = Nasty Plot

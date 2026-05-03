@@ -423,6 +423,17 @@ Flags = CanProtect,Pulse
 Description = The user shoots a pulse of neutral particles at the target.
 Animation = STOREDPOWER
 #-------------------------------
+[PLAYDEAD]
+Name = Play Dead
+Type = NORMAL
+Category = Status
+Accuracy = 0
+TotalPP = 5
+Target = AllNearFoes
+FunctionCode = SleepUserLowerDefSpdef4
+Flags = CanProtect,CanMagicCoat
+Description = The user suddenly falls asleep for one turn, making enemies drop their guard, lowering their Defense and Sp. Def by four steps.
+#-------------------------------
 [PRANK]
 Name = Prank
 Type = NORMAL
@@ -613,6 +624,19 @@ FunctionCode = HitTwoToFiveTimesAlwaysHits
 Flags = CanProtect,Light
 Description = A barrage of star-shaped rays are shot at the target, to multi-hit two to five times. Can't miss and skips protections.
 Animation = SWIFT
+#-------------------------------
+[STERTOR]
+Name = Stertor
+Type = NORMAL
+Category = Adaptive
+Power = 115
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = FailsIfUserNotAsleep
+Flags = CanProtect,Sound,Uninvocable
+Description = The user emits a deep, rumbling snore. This move can only be used while asleep.
+Animation = SNORE
 #-------------------------------
 [THIEVINGSPREE]
 Name = Thieving Spree
@@ -995,6 +1019,19 @@ Flags = CanProtect
 Description = The user attacks with a burst of inner energy. Lowers the user's Sp. Atk by four steps.
 Animation = AURASPHERE
 #-------------------------------
+[SLEEPWALKSTRIKE]
+Name = Sleepwalk Strike
+Type = FIGHTING
+Category = Physical
+Power = 110
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = FailsIfUserNotAsleep
+Flags = CanProtect,Kick,Uninvocable
+Description = The user mimics Kung Fu techniques while sleeping. This move can only be used while asleep.
+Animation = LOWSWEEP
+#-------------------------------
 [SMASH]
 Name = Smash
 Type = FIGHTING
@@ -1280,6 +1317,19 @@ EffectChance = 20
 Description = The user launches a pulse in the form of a shock wave. It has a 20% chance to raise Speed.
 Animation = SONICBOOM
 #-------------------------------
+[PLUMMET]
+Name = Plummet
+Type = FLYING
+Category = Physical
+Power = 80
+Accuracy = 100
+TotalPP = 12
+Target = NearOther
+FunctionCode = 30DamageIfUserAsleep
+Flags = CanProtect
+Description = The user falls from up high, crushing the target beneath. This move does 30% more damage if the user is asleep.
+Animation = BOUNCE
+#-------------------------------
 [POUNCE]
 Name = Pounce
 Type = FLYING
@@ -1333,6 +1383,21 @@ Target = NearOther
 FunctionCode = RemoveWeather
 Flags = CanProtect
 Description = Attacks while clearing weather. This move fails in the absence of a weather.
+#-------------------------------
+[SONICSHRIEK]
+Name = Sonic Shriek
+Type = FLYING
+Category = Special
+Power = 60
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+Priority = 3
+FunctionCode = FlinchTargetFailsIfNotUserFirstTurn
+Flags = CanProtect,Sound
+EffectChance = 100
+Description = The user swoops into battle with a piercing shriek, flinching the target. It only works the first turn the user is in battle.
+Animation = HYPERVOICE
 #-------------------------------
 [SQUALLDART]
 Name = Squall Dart
@@ -2071,7 +2136,7 @@ Description = The user slams the earth, damaging all Pokémon around it and unde
 Name = Adamantine Press
 Type = ROCK
 Category = Physical
-Power = 90
+Power = 95
 Accuracy = 100
 TotalPP = 15
 Target = NearOther
@@ -2416,7 +2481,7 @@ Target = NearOther
 FunctionCode = StartPreventCriticalHitsAndReduceDamageAgainstUserSide5
 Flags = CanProtect
 EffectChance = 100
-Description = The user headbutts the target while maintaining a defensive aura. Sets Sanctuary for 5 turns.
+Description = The user headbutts the target while maintaining a defensive aura. Sets Sanctuary for five turns.
 Animation = HEADBUTT
 #-------------------------------
 [SIEGEBREAKER]
@@ -2762,7 +2827,7 @@ TotalPP = 5
 Target = UserSide
 FunctionCode = StartUserSideLessDamageFromNonAttackDamage
 Flags = CanSnatch
-Description = The user makes a plea for survival, halving the damage their side takes from non-attack sources for 8 turns.
+Description = The user makes a plea for survival, halving the damage their side takes from non-attack sources for eight turns.
 Animation = SAFEGUARD
 #-------------------------------
 [PATIENTBLADE]
@@ -2983,6 +3048,19 @@ FunctionCode = HealUserPositionInTwoTurns
 Flags = CanSnatch
 Description = Two turns after this move is used, the target's HP is restored by three quarters the user's max HP.
 Animation = WISH
+#-------------------------------
+[ASTRALSHIFT]
+Name = Astral Shift
+Type = GHOST
+Category = Special
+Power = 80
+Accuracy = 100
+TotalPP = 12
+Target = NearOther
+FunctionCode = 30DamageIfUserAsleep
+Flags = CanProtect
+Description = The user goes into another plane and displaces the target's soul. This move does 30% more damage if the user is asleep.
+Animation = OMINOUSWIND
 #-------------------------------
 [BINDFATE]
 Name = Bind Fate
@@ -3217,12 +3295,25 @@ Name = Pharaoh's Curse
 Type = GHOST
 Category = Status
 Accuracy = 0
-TotalPP = 5
+TotalPP = 10
 Target = NearOther
-FunctionCode = CurseTargetEarnMoneyFromCurse
+FunctionCode = StartDamageTargetAndEarnMoneyEachTurn
 Flags = CanProtect,CanMagicCoat
-Description = The target becomes cursed. Scatters coins equal to health lost from the curse.
+Description = The target begins transforming into gold. They lose 1/8th HP every turn, scattering ten times as many coins as health lost.
 Animation = CURSE
+#-------------------------------
+[POSSESSION]
+Name = Possession
+Type = GHOST
+Category = Adaptive
+Power = 80
+Accuracy = 100
+TotalPP = 12
+Target = NearOther
+FunctionCode = 50DamageIfTargetAsleep
+Flags = CanProtect
+Description = The user makes the target hit itself by possessing its body. This move does 50% more damage if the target is asleep.
+Animation = SHADOWSNEAK
 #-------------------------------
 [SEANCE]
 Name = Seance
@@ -3497,7 +3588,7 @@ Target = NearOther
 FunctionCode = HitThreeTimesLowerTargetDef1DisablesSelf
 Flags = CanProtect
 EffectChance = 100
-Description = The user launches piercing feathers 3 times, lowering the foe's Defense. Then, this move is disabled.
+Description = The user launches piercing feathers three times, lowering the foe's Defense. Then, this move is disabled.
 Animation = SPIKECANNON
 #-------------------------------
 [FEATHERWARD]
@@ -3964,6 +4055,19 @@ FunctionCode = Burn
 Flags = CanProtect,Wind
 EffectChance = 30
 Description = The user attacks by sending a wave of hot air towards the target. It has a 30% chance to burn.
+#-------------------------------
+[CLEANSINGFLAMES]
+Name = Cleansing Flames
+Type = FIRE
+Category = Special
+Power = 90
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = CritsAgainstModifiedStatsResetsStats
+Flags = CanProtect
+Description = Guaranteed to critical hit if the target has stat step changes. The target is cleansed, reseting their stat changes.
+Animation = FLAMETHROWER
 #-------------------------------
 [CRIMSONSTORM]
 Name = Crimson Storm
@@ -4854,13 +4958,13 @@ Animation = LIQUIDATION
 Name = Wakeful Tide
 Type = WATER
 Category = Special
-Power = 120
+Power = 150
 Accuracy = 100
 TotalPP = 8
 Target = NearOther
-FunctionCode = TwoTurnAttackChargeSleep
-Flags = CanProtect
-Description = The user charges and cures itself of non-volatile status conditions by sleeping on the first turn, then wakes to unleash the tides.
+FunctionCode = FailsIfUserNotAsleepWakeUpUser
+Flags = CanProtect,Uninvocable
+Description = The user wakes to unleash devastating tides. Can only be used while asleep, and wakes the user up.
 Animation = SURF
 #-------------------------------
 [WATERLOG]
@@ -5194,7 +5298,7 @@ Type = GRASS
 Category = Special
 Power = 95
 Accuracy = 100
-TotalPP = 12
+TotalPP = 10
 Target = AllNearOthers
 FunctionCode = Basic
 Flags = CanProtect,Wind
@@ -5417,6 +5521,19 @@ Description = The user whips their legs into the target like a plant. This has a
 Animation = TROPKICK
 #-------------------------------
 #		ELECTRIC MOVES
+#-------------------------------
+[ADVANCINGVOLTAGE]
+Name = Advancing Voltage
+Type = ELECTRIC
+Category = Physical
+Power = 90
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = CritsAgainstUnmodifiedStatsRaiseTargetMainStatsOne
+Flags = CanProtect
+Description = Guaranteed to critical hit if the target has no stat step changes. The target is surged forward, raising all its stats.
+Animation = VOLTTACKLE
 #-------------------------------
 [AMPUP]
 Name = Amp Up
@@ -6157,7 +6274,7 @@ Target = NearOther
 FunctionCode = DisableTargetLastMoveUsed
 Flags = CanProtect
 EffectChance = 100
-Description = The user psychically alters the target's brain to forget. This move disables the target's last move for 5 turns.
+Description = The user psychically alters the target's brain to forget. This move disables the target's last move for five turns.
 Animation = DISABLE
 #-------------------------------
 [MINDLINK]
@@ -6281,7 +6398,7 @@ TotalPP = 10
 Target = NearFoe
 FunctionCode = StartEclipse8
 Flags = CanProtect
-Description = Psychic energy assaults the foe and darkens the sky, summoning eclipse for 8 turns.
+Description = Psychic energy assaults the foe and darkens the sky, summoning eclipse for eight turns.
 Animation = DARKVOID
 #-------------------------------
 [PIERCINGDOUBT]
@@ -6374,6 +6491,19 @@ Target = NearOther
 FunctionCode = TwoTurnAttackChargeRaiseUserAtk2
 Flags = CanProtect
 Description = Charges with astral power and boosts its Attack by two steps on one turn, then attacks on the second turn.
+#-------------------------------
+[REMBURST]
+Name = REM Burst
+Type = PSYCHIC
+Category = Special
+Power = 110
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = FailsIfUserNotAsleep
+Flags = CanProtect,Pulse,Uninvocable
+Description = The user forces its dreams to manifest, attacking the opponent. This move can only be used while asleep.
+Animation = PSYCHIC
 #-------------------------------
 [REVERBWARD]
 Name = Reverb Ward
@@ -6474,6 +6604,20 @@ Animation = COACHING
 #-------------------------------
 #		ICE MOVES
 #-------------------------------
+[ABSOLUTEZERO]
+Name = Absolute Zero
+Type = ICE
+Category = Adaptive
+Power = 65
+Accuracy = 100
+TotalPP = 10
+Target = AllNearFoes
+FunctionCode = SetTargetSpeedZero
+Flags = CanProtect
+EffectChance = 100
+Description = The user chills all near foes so severely that their speed becomes zero.
+Animation = SHEERCOLD
+#-------------------------------
 [AURORAFLASH]
 Name = Aurora Flash
 Type = ICE
@@ -6549,7 +6693,7 @@ TotalPP = 10
 Target = BothSides
 FunctionCode = StartGreyMist5StartHail5
 Flags = CanMagicCoat
-Description = The user covers the field with an fog of ice crystals, summoning hail and creating Grey Mist for 5 turns.
+Description = The user covers the field with an fog of ice crystals, summoning hail and creating Grey Mist for five turns.
 Animation = HAIL
 #-------------------------------
 [FRIGIDFLURRY]
@@ -6987,6 +7131,32 @@ EffectChance = 100
 Description = The user slashes the foe while menacing. During eclipse, the target also becomes burned.
 Animation = DRAGONCLAW
 #-------------------------------
+[CARNAGE]
+Name = Carnage
+Type = DRAGON
+Category = Physical
+Power = 130
+Accuracy = 100
+TotalPP = 10
+Target = AllNearOthers
+FunctionCode = RecoilHalfOfDamageDealt
+Flags = CanProtect
+Description = The user rips and tears its way across the battlefield, damaging all near Pokémon and taking 50% recoil.
+Animation = DEVASTATINGDRAKE
+#-------------------------------
+[CHOWDOWN]
+Name = Chow Down
+Type = DRAGON
+Category = Physical
+Power = 50
+Accuracy = 100
+TotalPP = 12
+Target = NearOther
+FunctionCode = HealUserByHalfOfDamageDone
+Flags = CanProtect,Biting
+Description = The user bites to drain the target's energy. The user's HP is restored by 50% of the damage dealt.
+Animation = BITE
+#-------------------------------
 [CLASH]
 Name = Clash
 Type = DRAGON
@@ -7011,6 +7181,19 @@ FunctionCode = DoubleDamageTargetStatused
 Flags = CanProtect
 Description = The user crushes the target with evil intent. This deals double damage if the target has a non-volatile status condition.
 Animation = CRUSHCLAW
+#-------------------------------
+[DEVOUR]
+Name = Devour
+Type = DRAGON
+Category = Physical
+Power = 80
+Accuracy = 100
+TotalPP = 10
+Target = NearOther
+FunctionCode = HealUserByHalfOfDamageDone
+Flags = CanProtect,Biting
+Description = The user bites to drain the target's energy.  The user's HP is restored by 50% of the damage dealt.
+Animation = CRUNCH
 #-------------------------------
 [DIAMETRICBREATH]
 Name = Diametric Breath
@@ -7091,6 +7274,19 @@ Flags = CanProtect
 EffectChance = 30
 Description = The user spits venom at the target. It has a 30% chance to poison.
 Animation = ACIDSPRAY
+#-------------------------------
+[GNAW]
+Name = Gnaw
+Type = DRAGON
+Category = Physical
+Power = 25
+Accuracy = 100
+TotalPP = 20
+Target = NearOther
+FunctionCode = HealUserByHalfOfDamageDone
+Flags = CanProtect,Biting
+Description = The user bites to drain the target's energy. The user's HP is restored by 50% of the damage dealt.
+Animation = BITE
 #-------------------------------
 [GUTTURALROAR]
 Name = Guttural Roar
@@ -7180,19 +7376,6 @@ Flags = CanMagicCoat
 Description = The user sprays the target with a shrinking liquid. For the next three turns, the target's highest stat will be reduced by two steps.
 Animation = APPLEACID
 #-------------------------------
-[REND]
-Name = Rend
-Type = DRAGON
-Category = Physical
-Power = 90
-Accuracy = 100
-TotalPP = 12
-Target = NearOther
-FunctionCode = IgnoreTargetDefSpDefEvaStatStagesAndTargetAbility
-Flags = CanProtect
-Description = The user shreds through the opponent's defenses, ignoring positive stat changes and abilities.
-Animation = DRAGONCLAW
-#-------------------------------
 [SACREDLOTS]
 Name = Sacred Lots
 Type = DRAGON
@@ -7223,14 +7406,27 @@ Description = The user whips up a tornado to tear at the target. It has a 40% ch
 Name = Shred
 Type = DRAGON
 Category = Physical
-Power = 55
+Power = 65
 Accuracy = 100
 TotalPP = 12
 Target = NearOther
-FunctionCode = IgnoreTargetDefSpDefEvaStatStagesAndTargetAbility
+FunctionCode = Basic
 Flags = CanProtect
-Description = The user attacks with overwhelming power, ignoring positive stat changes and abilities.
+Description = The user attacks with a flurry of claws.
 Animation = DRAGONCLAW
+#-------------------------------
+[SLUMBERINGROAR]
+Name = Slumbering Roar
+Type = DRAGON
+Category = Special
+Power = 110
+Accuracy = 100
+TotalPP = 10
+Target = AllNearOthers
+FunctionCode = FailsIfUserNotAsleep
+Flags = CanProtect,Sound,Uninvocable
+Description = The user lets out a thunderous noise while sleeping. This move can only be used while asleep.
+Animation = SNARL
 #-------------------------------
 [TRANSCENDENTENERGY]
 Name = Transcendent Energy
@@ -7308,7 +7504,7 @@ TotalPP = 12
 Target = AllNearOthers
 FunctionCode = StartGreyMist5
 Flags = CanProtect
-Description = Darkness rolls over the field, damaging all other Pokémon and setting Grey Mist for 5 turns.
+Description = Darkness rolls over the field, damaging all other Pokémon and setting Grey Mist for five turns.
 Animation = GREYMIST
 #-------------------------------
 [BACKHAND]
@@ -7856,6 +8052,19 @@ Flags = CanProtect,Sound
 EffectChance = 20
 Description = The user bullies the target, causing mental damage. This has a 20% chance to leech.
 #-------------------------------
+[TOSSNTURN]
+Name = Toss n' Turn
+Type = DARK
+Category = Physical
+Power = 110
+Accuracy = 100
+TotalPP = 10
+Target = AllNearOthers
+FunctionCode = FailsIfUserNotAsleep
+Flags = CanProtect,Punch,Uninvocable
+Description = The user swings aggressively while suffering from nightmares. This move can only be used while asleep.
+Animation = BRUTALSWING
+#-------------------------------
 [VERMINCLOUD]
 Name = Vermin Cloud
 Type = DARK
@@ -7987,6 +8196,18 @@ Target = User
 FunctionCode = RaiseUserSpAtk4
 Flags = CanSnatch,Dance
 Description = The user dances in tune with a dreamlike energy, raising their Sp. Atk by four steps.
+#-------------------------------
+[DREAMSCAPE]
+Name = Dreamscape
+Type = FAIRY
+Category = Status
+Accuracy = 0
+TotalPP = 8
+Target = UserSide
+FunctionCode = SleepUserSetupSanctuary8
+Flags = CanSnatch,Light
+Description = The user goes to sleep and enters a dreamscape. This sets Sanctuary on the user's side for eight turns.
+Animation = LUCKYCHANT
 #-------------------------------
 [EAGERTICKLING]
 Name = Eager Tickling

@@ -96,7 +96,7 @@ Pokemon = HOUNDOMINUS,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 10,20,0,20,20,0
 Pokemon = PORYGONZ,70
-    Moves = HEX,PROFANE,ICEBEAM,DETACHMENT
+    Moves = HEX,PROFANE,ICEBEAM,TRIATTACK
     AbilityIndex = 0 # Realist
     Item = SKILLHERB
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
@@ -286,7 +286,7 @@ Pokemon = LURANTIS,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 10,20,0,0,20,20
 Pokemon = MSEAKING,70
-    Moves = PLAYROUGH,REND,FLIPTURN,DRILLRUN
+    Moves = PLAYROUGH,DRAGONHAMMER,FLIPTURN,DRILLRUN
     AbilityIndex = 0 # Irrefutable
     Item = CHOICESCARF
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
@@ -745,7 +745,7 @@ Pokemon = BLASTOISE,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 20,20,10,0,20,0
 Pokemon = SALAMENCE,70
-    Moves = FLY,REND,EARTHQUAKE,ACROBATICS
+    Moves = FLY,DRAGONHAMMER,EARTHQUAKE,ACROBATICS
     AbilityIndex = 0 # Intimidate
     Item = POWERHERB
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
@@ -1025,7 +1025,7 @@ Pokemon = STARMIE,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 0,20,10,20,20,0
 Pokemon = HAXORUS,70
-    Moves = XSCISSOR,CLOSECOMBAT,REND,CROSSPOISON
+    Moves = XSCISSOR,CLOSECOMBAT,DRAGONHAMMER,CROSSPOISON
     AbilityIndex = 0 # Anarchic
     Item = LIFEORB
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
@@ -1209,7 +1209,7 @@ Pokemon = INFERNAPE,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 0,20,10,20,20,0
 Pokemon = NIDOKING,70
-    Moves = POISONJAB,EARTHSPLITTER,SUCKERPUNCH,REND
+    Moves = POISONJAB,EARTHSPLITTER,SUCKERPUNCH,DRAGONCLAW
     AbilityIndex = 1 # Stressful
     Item = STRIKEVEST
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
@@ -2120,7 +2120,7 @@ Pokemon = FROSMOTH,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 20,0,10,0,0,20
 Pokemon = MMUSHARNA,70
-    Moves = CHARGEBEAM,SNORE,NEURALPULSE,GUTTURALROAR
+    Moves = CHARGEBEAM,STERTOR,REMBURST,GUTTURALROAR
     AbilityIndex = 1 # Fatigued
     Item = CHESTOBERRY
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
@@ -2266,9 +2266,9 @@ Pokemon = ESCAVALIER,70
 #-------------------------------
 [NECKBEARD,James]
 Pokemon = SNORLAX,70
-    Moves = BEDFELLOWS,SNORE,KNOCKOFF,WORKUP
+    Moves = BEDFELLOWS,STERTOR,KNOCKOFF,WORKUP
     AbilityIndex = 0 # Loud Sleeper
-    Item = ENERGYLOCK
+    Item = THROATSPRAY
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 0,20,20,0,20,10
 Pokemon = TORTERRA,70
@@ -2278,7 +2278,7 @@ Pokemon = TORTERRA,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 20,20,10,0,20,0
 Pokemon = MMUSHARNA,70
-    Moves = POWERGEM,SNORE,NEURALPULSE,GUTTURALROAR
+    Moves = POWERGEM,STERTOR,NEURALPULSE,SLUMBERINGROAR
     AbilityIndex = 1 # Fatigued
     Item = STRIKEVEST
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
@@ -2322,7 +2322,7 @@ Pokemon = CHANDELURE,70
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 20,20,0,0,20,10
 Pokemon = MSEAKING,70
-    Moves = REND,PLAYROUGH,DRILLRUN,AGILITY
+    Moves = DRAGONHAMMER,PLAYROUGH,DRILLRUN,AGILITY
     AbilityIndex = 0 # Irrefutable
     Item = PRISMATICPLATE
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
