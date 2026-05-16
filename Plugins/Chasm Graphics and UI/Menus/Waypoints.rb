@@ -88,9 +88,9 @@ class WaypointsTracker
 		end.map(&:last)
 
 		dupes.each do |dupeGroup|
-			pbMessage(_INTL("Multiple waypoints are rendering on the same map tile!"))
+			echoln("Multiple waypoints are rendering on the same map tile!")
 			dupeGroup.each do |dupe|
-				pbMessage(dupe)
+				echoln(dupe)
 			end
 		end
 
