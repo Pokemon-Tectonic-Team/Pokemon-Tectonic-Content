@@ -12,6 +12,7 @@ class WaypointsTracker
 	def initialize()
 		@activeWayPoints = {}
 		@legendsMaterialized = []
+		resetMapPositionHash
 	end
 
 	def overwriteWaypoint(waypointName,event,newName=nil)
@@ -23,18 +24,26 @@ class WaypointsTracker
 
 	def setWaypoint(waypointName,mapID,wayPointInfo)
 		@activeWayPoints[waypointName] = [mapID,wayPointInfo]
+		resetMapPositionHash
 	end
 
 	def deleteWaypoint(waypointName)
 		@activeWayPoints.delete(waypointName)
+		resetMapPositionHash
 	end
 
 	def deleteAllWaypoints
 		@activeWayPoints = {}
+		resetMapPositionHash
+	end
+
+	def resetMapPositionHash
+		@positionHash = nil
 	end
 
 	def mapPositionHash
-		return generateMapPositionHash
+		generateMapPositionHash if @positionHash.nil?
+		return @positionHash
 	end
 
 	def generateMapPositionHash
@@ -43,9 +52,48 @@ class WaypointsTracker
 		activeWayPoints.each do |waypointName,waypointInfo|
 			mapID = waypointInfo[0]
 			next unless mapInfos[mapID] # Skip map if it somehow doesn't exist anymore
+			eventID = waypointInfo[1]
+
+			event = getEventByID(eventID,mapID)
+			next if event.nil?
+			eventX = event.x
+			eventY = event.y
+			
 			displayedPosition = getDisplayedPositionOfGameMap(mapID)
+			mapX    = displayedPosition[1]
+            mapY    = displayedPosition[2]
+
+			# Shift display position based on event position on map
+			map_metadata = GameData::MapMetadata.try_get(mapID)
+            unless map_metadata.nil?
+                mapsize = map_metadata.town_map_size
+                if !mapsize.nil? && mapsize[0] && mapsize[0] > 0
+                    sqwidth  = mapsize[0]
+                    sqheight = (mapsize[1].length * 1.0 / mapsize[0]).ceil
+                    mapX += (eventX * sqwidth / $game_map.width).floor if sqwidth > 1
+                    mapY += (eventY * sqheight / $game_map.height).floor if sqheight > 1
+                end
+            end
+
+			displayedPosition[1] = mapX
+			displayedPosition[2] = mapY
+
 			mapPositionHash[waypointName] = displayedPosition 
 		end
+
+		dupes = mapPositionHash.keys.group_by do |waypointName|
+			mapPositionHash[waypointName]
+		end.select do |k, v|
+			v.length > 1
+		end.map(&:last)
+
+		dupes.each do |dupeGroup|
+			pbMessage(_INTL("Multiple waypoints are rendering on the same map tile!"))
+			dupeGroup.each do |dupe|
+				pbMessage(dupe)
+			end
+		end
+
 		return mapPositionHash
 	end
 	
@@ -64,6 +112,7 @@ class WaypointsTracker
 		else
 			@activeWayPoints[waypointName] = [event.map_id,event.id]
 		end
+		resetMapPositionHash
 	end
 
 	def summonPokemonFromWaypoint(avatarSpecies,waypointEvent)
