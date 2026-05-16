@@ -94,7 +94,7 @@ class WaypointsTracker
 			end
 		end
 
-		return mapPositionHash
+		@positionHash = mapPositionHash
 	end
 	
 	def getWaypointAtMapPosition(x,y)
