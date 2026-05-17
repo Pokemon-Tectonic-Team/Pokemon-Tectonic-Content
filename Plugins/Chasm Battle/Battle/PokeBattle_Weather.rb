@@ -247,14 +247,6 @@ class PokeBattle_Battle
 
         showWeatherMessages = $Options.weather_messages == 0
 
-        if curWeather == :StarStorm && @field.specialTimer > 1 &&  @field.specialTimer % 3 == 1
-            if  @field.specialTimer == 4
-                pbDisplay(_INTL("The stardust expands! Its damage has doubled!"))
-            else
-                pbDisplay(_INTL("The stardust expands yet again!"))
-            end
-        end
-
         if @field.specialTimer >= threshold
             case curWeather
             when :Eclipse,:RingEclipse
@@ -419,7 +411,7 @@ class PokeBattle_Battle
             priority.each do |b|
                 next unless b.hasActiveAbility?(:DESERTSCAVENGER)
                 pbShowAbilitySplash(b, :DESERTSCAVENGER)
-                healingMessage = _INTL("{1} absorbs the suffering from the sandstorm", b.pbThis)
+                healingMessage = _INTL("{1} absorbs the suffering from the sandstorm.", b.pbThis)
                 b.pbRecoverHP(sandstormDamage, true, true, true, healingMessage)
                 pbHideAbilitySplash(b)
             end
@@ -461,7 +453,6 @@ class PokeBattle_Battle
         fraction = 1.0 / 16.0
         fraction *= 2 if damageDoubled
         fraction *= 2 if curseActive?(:CURSE_BOOSTED_SAND)
-        fraction *= 2 * (@field.specialTimer - 1) / 3 if pbWeather == :StarStorm
         sandstormDamage = battler.applyFractionalDamage(fraction, aiCheck: aiCheck)
         return sandstormDamage
     end

@@ -501,6 +501,15 @@ BattleHandlers::AbilityOnSwitchIn.add(:HARSHTRUTHS,
   }
 )
 
+BattleHandlers::AbilityOnSwitchIn.add(:AGGRAVATE,
+  proc { |ability, battler, battle, aiCheck|
+      next 0 if aiCheck
+      battle.pbShowAbilitySplash(battler, ability)
+      battle.pbDisplay(_INTL("{1} intensifies fractional damage!", battler.pbThis))
+      battle.pbHideAbilitySplash(battler)
+  }
+)
+
 ##########################################
 # Screen setting abilities
 ##########################################
@@ -565,16 +574,6 @@ BattleHandlers::AbilityOnSwitchIn.add(:ODDITY,
       battle.pbShowAbilitySplash(battler, ability) unless aiCheck
       battle.pbAnimation(:MAGICROOM, battler, nil, 0) unless aiCheck
       score = battle.pbStartRoom(:OddRoom, battler, ability, aiCheck)
-      battle.pbHideAbilitySplash(battler) unless aiCheck
-      next score
-  }
-)
-
-BattleHandlers::AbilityOnSwitchIn.add(:SUBSPACESCHISM,
-  proc { |ability, battler, battle, aiCheck|
-      battle.pbShowAbilitySplash(battler, ability) unless aiCheck
-      battle.pbAnimation(:TRICKROOM, battler, nil, 0) unless aiCheck
-      score = battle.pbStartRoom(:TrickRoom, battler, ability, aiCheck)
       battle.pbHideAbilitySplash(battler) unless aiCheck
       next score
   }
@@ -829,7 +828,7 @@ BattleHandlers::AbilityOnSwitchIn.add(:DRIFTINGMIST,
 BattleHandlers::AbilityOnSwitchIn.add(:FITTOSURVIVE,
   proc { |ability, battler, battle, aiCheck|
       if aiCheck
-          next getGravityEffectScore(battler, 4)
+          next getNaturalProtectionEffectScore(battler, 8)
       else
           battle.pbShowAbilitySplash(battler, ability)
           battle.pbAnimation(:NATURALPROTECTION, battler, nil, 0)

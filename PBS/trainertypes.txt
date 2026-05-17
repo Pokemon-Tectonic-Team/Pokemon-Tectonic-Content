@@ -18,6 +18,12 @@ Gender = Female
 BaseMoney = 80
 BattleBGM = Battle another
 #-------------------------------
+[ANOTHERPOSSIBLERAFAEL]
+Name = Another Possible
+Gender = Male
+BaseMoney = 80
+BattleBGM = Battle another
+#-------------------------------
 [ANOTHERPOSSIBLETAMARIND]
 Name = Another Possible
 Gender = Female
@@ -442,7 +448,6 @@ CableClub = true
 Name = Pro Trainer
 Gender = Female
 BaseMoney = 60
-Policies = PROACTIVE_MATCHUP_SWAPPER
 IntroBGM = ELITETRAINER
 BattleBGM = Battle pro
 CableClub = true
@@ -479,7 +484,6 @@ CableClub = true
 Name = Pro Trainer
 Gender = Male
 BaseMoney = 60
-Policies = PROACTIVE_MATCHUP_SWAPPER
 IntroBGM = ELITETRAINER
 BattleBGM = Battle pro
 CableClub = true
@@ -580,7 +584,6 @@ IntroBGM = DITTO_BACKPACKER
 Name = Pro Trainer
 Gender = Female
 BaseMoney = 32
-Policies = PROACTIVE_MATCHUP_SWAPPER
 IntroBGM = DITTO_ELITETRAINER
 BattleBGM = Battle pro
 #-------------------------------
@@ -619,6 +622,13 @@ CableClub = true
 [DRAGONTAMER2]
 Name = Dragon Tamer
 Gender = Male
+BaseMoney = 32
+IntroBGM = ACETRAINER
+CableClub = true
+#-------------------------------
+[DRAGONTAMER_F]
+Name = Dragon Tamer
+Gender = Female
 BaseMoney = 32
 IntroBGM = ACETRAINER
 CableClub = true
@@ -1295,12 +1305,13 @@ CableClub = true
 Name = Champion
 Gender = Unknown
 BaseMoney = 100
-BattleBGM = Battle vanya
+BattleBGM = Battle champion vanya
 #-------------------------------
 [POKEMONMASTER_Vanya]
 Name = Pokémon Master
 Gender = Unknown
 BaseMoney = 200
+Policies = SKEEVY_EEVEE_VANYA
 IntroBGM = TWINS2
 BattleBGM = Battle vanya final
 #-------------------------------
@@ -1413,13 +1424,11 @@ BaseMoney = 60
 Name = Pokémon Trainer
 Gender = Unknown
 BaseMoney = 100
-BattleBGM = Battle vanya
 #-------------------------------
 [POKEMONTRAINER_Yezera]
 Name = Pokémon Trainer
 Gender = Female
 BaseMoney = 100
-Policies = PREDICTS_PLAYER
 #-------------------------------
 [POLICEMAN]
 Name = Policeman
@@ -2154,6 +2163,18 @@ Gender = Female
 BaseMoney = 100
 BattleBGM = Battle lainie ultra
 #-------------------------------
+[VANYADAD]
+Name = Collector
+Gender = Male
+BaseMoney = 64
+IntroBGM = POKEFAN
+#-------------------------------
+[VANYAMOM]
+Name = Scientist
+Gender = Female
+BaseMoney = 32
+IntroBGM = SCIENTIST
+#-------------------------------
 [VETERANM]
 Name = Veteran
 Gender = Male
@@ -2235,6 +2256,12 @@ Gender = Female
 BaseMoney = 32
 IntroBGM = AROMALADY
 CableClub = true
+#-------------------------------
+[WHIMSICALBOY]
+Name = Whimsical Boy
+Gender = Male
+BaseMoney = 8
+IntroBGM = TWINS
 #-------------------------------
 [WILDPACK]
 Name = Wild Pack

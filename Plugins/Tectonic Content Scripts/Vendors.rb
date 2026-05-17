@@ -424,6 +424,7 @@ def shinifyPokemonVendor
 	blackFadeOutIn(30) {
 		$PokemonBag.pbDeleteItem(:GLEAMPOWDER)
 		pkmn.shiny = true
+		refreshFollow(false)
 	}
 	pbMessage(_INTL("Now, bask in the beautiful glow of your shiny {1}!", pkmn.speciesName))
 	pbMessage(_INTL("No need to thank me, its beauty is reward enough."))
@@ -593,7 +594,7 @@ def tmShop
 
 		TMADAMANTINEPRESS TMPOWERGEM
 		TMWAILINGBLOW TMSHADOWBALL
-		TMREND TMDRAGONPULSE
+		TMDRAGONHAMMER TMDRAGONPULSE
 
 		TMCRUNCH TMDARKALLURE
 		TMMETEORMASH TMFLASHCANNON

@@ -231,6 +231,8 @@ class PokeBattle_Battle
     end
 
     def getAbleParameters(idxPokemon, side, idxTrainer)
+        # Wild Pokémon appear in battle unconditionally — all UnableByDefault restrictions are bypassed.
+        return GameData::Ability.getByFlag("UnableByDefault") if wildBattle? && side == 1
         ret = []
         ret.push(:EXOSPHERICDESCENT) if isLastAboveHalfHealthInTeam?(idxPokemon, side, idxTrainer)
         ret.push(:SLUMBERINGSWORD) if @field.effectActive?(:SlumberingSwordReady)

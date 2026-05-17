@@ -49,7 +49,11 @@ end
 class PokeBattle_AI_KELDEO < PokeBattle_AI_Boss
     def initialize(user, battle)
         super
-        rejectPoisonMovesIfBelched
+        @beginBattle.push(proc { |user, battle|
+            battle.pbDisplayBossNarration(_INTL("Keldeo gallops in to protect the King's tomb!"))
+            user.pbOwnSide.applyEffect(:HerosJourneyRevenge)
+        })
+        secondMoveEveryOtherTurn(:SECRETSWORD)
     end
 end
 
@@ -213,18 +217,22 @@ end
 class PokeBattle_AI_MELOETTA < PokeBattle_AI_Boss
     def initialize(user, battle)
         super
-        @useMoveIFF.add(:RELICRECITAL, proc { |_move, user, _target, battle|
-            next battle.turnCount % 2 == 1 && user.lastTurnThisRound?
+        user.pokemon.ability_index = 1
+        @wholeRound += %i[RELICRECITAL]
+
+        @warnedIFFMove.add(:RELICRECITAL, {
+            :condition => proc { |_move, _user, _target, battle|
+                next battle.turnCount % 3 == 0
+            },
+            :warning => proc { |_move, user, _targets, _battle|
+                _INTL("{1} combines song and dance!",user.pbThis)
+            },
         })
-        @rejectMovesIf.push( proc { |move, user, _target, battle|
-            if user.form == 0
-                next true if %i[DOUBLEHIT CAPOEIRA].include?(move.id)
-            else
-                next true if %i[PSYBEAM ROUND].include?(move.id)
-            end
-            next false
-        }
-        )
+        firstMoveEveryOtherTurn(:CAPOEIRA)
+        secondMoveEveryOtherTurn(:HEADBUTT)
+        secondMoveEveryOtherTurn(:FEINTATTACK)
+        firstMoveEveryOtherTurn(:DIZZYPUNCH)
+        secondMoveEveryOtherTurn(:LOWSWEEP)
     end
 end
 
@@ -329,6 +337,41 @@ class PokeBattle_AI_CALYREX_1 < PokeBattle_AI_Boss
             },
         })
         secondMoveEveryOtherTurn(:SLACKOFF)
+    end
+end
+
+##################################################
+# Tao Duo
+##################################################
+class PokeBattle_AI_RESHIRAM < PokeBattle_AI_Boss
+    def initialize(user, battle)
+        super
+        @useMoveIFF.add(:TRUEGLORY, proc { |_move, user, _target, battle|
+            next false if user.firstTurnThisRound?
+            next false if user.movesUsedLastTurn.include?(:TRUEGLORY)
+            anyFoeHasUnmodifiedStats = false
+            user.eachOpposing do |opp|
+                next if opp.hasAlteredStatSteps?
+                anyFoeHasUnmodifiedStats = true 
+            end
+            next anyFoeHasUnmodifiedStats
+        })
+    end
+end
+
+class PokeBattle_AI_ZEKROM < PokeBattle_AI_Boss
+    def initialize(user, battle)
+        super
+        @useMoveIFF.add(:IDEALWORLD, proc { |_move, user, _target, battle|
+            next false unless user.firstTurnThisRound?
+            next false if user.movesUsedLastTurn.include?(:IDEALWORLD)
+            anyFoeHasUnmodifiedStats = false
+            user.eachOpposing do |opp|
+                next unless opp.hasAlteredStatSteps?
+                anyFoeHasUnmodifiedStats = true 
+            end
+            next anyFoeHasUnmodifiedStats
+        })
     end
 end
 

@@ -1196,7 +1196,7 @@ class PokeBattle_StatUpDownMove < PokeBattle_Move
 
     def pbMoveFailed?(user, _targets, show_message)
         return false if user.pbCanRaiseAnyOfStats?(@statUp, user, move: self)
-        return false if user.pbCanRaiseAnyOfStats?(@statDown, user, move: self)
+        return false if user.pbCanLowerAnyOfStats?(@statDown, user, move: self)
         @battle.pbDisplay(_INTL("{1}'s stats can't be changed further!", user.pbThis)) if show_message
         return true
     end
@@ -1368,6 +1368,7 @@ class PokeBattle_ForetoldMove < PokeBattle_Move
     end
 
     def pbOnStartUse(user, targets)
+        return if targets.any? { |t| t.position.effectActive?(:ForetoldMoveCounter) }
         if user.hasActiveAbility?(:FOREWARNING) && !@battle.foretoldMove
             user.showMyAbilitySplash(:FOREWARNING)
             @battle.pbDisplay(_INTL("{1} gives a taste of what's to come!", user.pbThis))

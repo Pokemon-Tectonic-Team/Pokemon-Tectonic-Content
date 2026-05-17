@@ -395,7 +395,7 @@ Target = NearOther
 FunctionCode = ResetTargetStatSteps
 Flags = CanProtect,Pulse
 EffectChance = 100
-Description = The target is struck by a pulse of negative energy. This resets the target's stat changes.
+Description = The target is struck by a pulse of negative energy. This resets the target's positive stat changes.
 #-------------------------------
 [PALEBLADE]
 Name = Pale Blade
@@ -824,7 +824,7 @@ Accuracy = 0
 TotalPP = 15
 Target = User
 FunctionCode = RaiseUserAtkDef2SetUserTypesToRock
-Flags = CanSnatch,ForceSignature
+Flags = CanSnatch
 Description = The user flexes its rocky skin, raising its Attack and Defense by two steps and gaining the Rock-type.
 Animation = BULKUP
 #-------------------------------
@@ -1399,6 +1399,18 @@ EffectChance = 100
 Description = The user swoops into battle with a piercing shriek, flinching the target. It only works the first turn the user is in battle.
 Animation = HYPERVOICE
 #-------------------------------
+[SPOTTING]
+Name = Spotting
+Type = FLYING
+Category = Status
+Accuracy = 0
+TotalPP = 15
+Target = NearAlly
+Priority = 5
+FunctionCode = PowerUpAndIncreaseAccOfAllyMove
+Description = The user assists an ally by boosting the power and Accuracy of its next attack by 50%.
+Animation = MINDREADER
+#-------------------------------
 [SQUALLDART]
 Name = Squall Dart
 Type = FLYING
@@ -1686,7 +1698,7 @@ TotalPP = 12
 Target = NearOther
 FunctionCode = RemovesTargetItem
 Flags = CanProtect
-Description = The user attacks with cloying slime, rendering the target's item sticky and unusable.
+Description = The user attacks with sticky slime, rendering the target's item unusable.
 Animation = SLUDGEBOMB
 #-------------------------------
 [STINGINGJEALOUSY]
@@ -2087,7 +2099,7 @@ TotalPP = 12
 Target = NearOther
 FunctionCode = ResetTargetStatSteps
 Flags = CanProtect,Kick
-Description = The user attacks by flattening the target into the ground. The target's stat step changes are returned to normal.
+Description = The user attacks by flattening the target into the ground. This resets the target's positive stat changes.
 Animation = STOMP
 #-------------------------------
 [TRAMPLE]
@@ -2359,7 +2371,7 @@ Target = User
 Priority = 3
 FunctionCode = ProtectUserSideFromMultiTargetMovesRedirectAllMovesToUser
 Flags = CanSnatch
-Description = The user and its allies are protected from spread moves this turn, and enemies can only target the user. Fails if used in succession.
+Description = Protects the user and its allies from spread moves this turn and foes' moves get redirected to the user. Fails if used in succession.
 Animation = WIDEGUARD
 #-------------------------------
 [PETRIFY]
@@ -2803,7 +2815,7 @@ Target = User
 Priority = 2
 FunctionCode = RedirectAllMovesToUserLowerFoesAtkSpAtk1
 Flags = Uninvocable,Light
-Description = All foes have their Attack and Sp. Atk lowered. They can only target the user this turn.
+Description = All foes have their Attack and Sp. Atk lowered. All foes' moves get redirected to the user this turn.
 #-------------------------------
 [MANYNEEDLE]
 Name = Manyneedle
@@ -4065,7 +4077,7 @@ Accuracy = 100
 TotalPP = 10
 Target = NearOther
 FunctionCode = CritsAgainstModifiedStatsResetsStats
-Flags = CanProtect
+Flags = CanProtect,ForceSignature
 Description = Guaranteed to critical hit if the target has stat step changes. The target is cleansed, reseting their stat changes.
 Animation = FLAMETHROWER
 #-------------------------------
@@ -4303,7 +4315,7 @@ Accuracy = 100
 TotalPP = 30
 Target = NearOther
 FunctionCode = RaiseUserAtk3AlliesAtk1
-Flags = CanSnatch,Sound
+Flags = CanProtect,Sound
 Description = The user roars with the force of a volcano, raising the Attack of itself by three steps and allies' by one.
 Animation = HOWL
 #-------------------------------
@@ -4884,7 +4896,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = WaterlogTargetStartHealUserEachTurn
 Flags = CanProtect,CanMagicCoat
-Description = The user communes with water from all around the world, surrounding itself with an Aqua Ring and waterlogging the target.
+Description = The user communes with all the world's water, waterlogging the target and forming an Aqua Ring around themselves, healing 10% HP per turn.
 #-------------------------------
 [SILTSURGE]
 Name = Silt Surge
@@ -5015,7 +5027,7 @@ TotalPP = 5
 Target = UserAndAllies
 FunctionCode = CureUserPartyStatusStartHealUserEachTurn
 Flags = CanSnatch,Sound
-Description = The user's song heals the non-volatile status conditions of all the party Pokémon, and forms an Aqua Ring around itself, healing 10% HP per turn.
+Description = The user's song heals the non-volatile status conditions of all party Pokémon, and forms an Aqua Ring around itself, healing 10% HP per turn.
 Animation = HEALBELL
 #-------------------------------
 [WHELM]
@@ -5380,6 +5392,18 @@ Flags = CanSnatch
 Description = Lays roots that heal the user by absorbing 1/8th HP from foes each turn. The user becomes trapped.
 Animation = INGRAIN
 #-------------------------------
+[SAPPINGJAW]
+Name = Sapping Jaw
+Type = GRASS
+Category = Physical
+Power = 85
+Accuracy = 100
+TotalPP = 12
+Target = NearOther
+FunctionCode = HealUserByTwoThirdsOfDamageDoneIfTargetHurtUserThisTurn
+Flags = CanProtect,Biting
+Description = Saps an enemy lured into its jaws. If they hit the user this turn, the user's HP is restored by 66% the damage dealt.
+#-------------------------------
 [SAPPINGJEALOUSY]
 Name = Sapping Jealousy
 Type = GRASS
@@ -5482,18 +5506,6 @@ Flags = CanProtect,Sound
 Description = The user makes a scary sound by shaking, forcing the target to switch out. Always goes last.
 Animation = UPROAR
 #-------------------------------
-[TRAPJAW]
-Name = Trap Jaw
-Type = GRASS
-Category = Physical
-Power = 85
-Accuracy = 100
-TotalPP = 12
-Target = NearOther
-FunctionCode = HealUserByTwoThirdsOfDamageDoneIfTargetHurtUserThisTurn
-Flags = CanProtect,Biting
-Description = Lures an enemy into its jaws. If they hit the user this turn, the user's HP is restored by 66% the damage dealt.
-#-------------------------------
 [VINETRAP]
 Name = Vine Trap
 Type = GRASS
@@ -5531,7 +5543,7 @@ Accuracy = 100
 TotalPP = 10
 Target = NearOther
 FunctionCode = CritsAgainstUnmodifiedStatsRaiseTargetMainStatsOne
-Flags = CanProtect
+Flags = CanProtect,ForceSignature
 Description = Guaranteed to critical hit if the target has no stat step changes. The target is surged forward, raising all its stats.
 Animation = VOLTTACKLE
 #-------------------------------
@@ -6591,6 +6603,18 @@ Flags = CanProtect,CanRandomCrit
 Description = The user takes control of the target's mind to unleash an attack on it. Can random critical hit.
 Animation = PSYCHOCUT
 #-------------------------------
+[TRICKSTERSDOMAIN]
+Name = Trickster's Domain
+Type = PSYCHIC
+Category = Status
+Accuracy = 0
+TotalPP = 5
+Target = BothSides
+Priority = -7
+FunctionCode = StartSwapSpeedOrder5
+Description = The user creates a bizarre area in which slower Pokémon get to move first for five turns.
+Animation = TRICKROOM
+#-------------------------------
 [TUTELAGE]
 Name = Tutelage
 Type = PSYCHIC
@@ -6811,7 +6835,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = FrostbiteAddIceType
 Flags = CanProtect,CanMagicCoat
-Description = The user absorbs the target's heat, frosbitting it and adding the Ice-type to it.
+Description = The user absorbs the target's heat, frostbiting it and adding the Ice-type to it.
 Animation = MOONLIGHT
 #-------------------------------
 [HYPERFROST]
@@ -7220,7 +7244,7 @@ Target = AllNearOthers
 FunctionCode = LowerTargetEvasion4
 Flags = CanProtect,Pulse
 EffectChance = 100
-Description = Sends cloying waves of energy forward, lowering hit foes Evasion by four steps.
+Description = Sends hindering waves of energy forward, lowering hit foes' Evasion by four steps.
 Animation = EARTHQUAKE
 #-------------------------------
 [DRAGONRIDE]
@@ -7804,7 +7828,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = TwoTurnAttackInvulnerableHiding
 Flags = CanProtect
-Description = The user hides stealthily, charging and becoming hidden, then strikes from a blind spot on the second turn.
+Description = The user hides stealthily, charging and becoming hidden, then strikes on the second turn.
 Animation = PHANTOMFORCE
 #-------------------------------
 [MASSDESTRUCTION]
@@ -8128,7 +8152,7 @@ Category = Status
 Accuracy = 100
 TotalPP = 5
 Target = NearOther
-FunctionCode = Sleep
+FunctionCode = SleepTargetIfInFullMoonglow
 Flags = CanProtect,CanMagicCoat
 Description = The target is lulled to sleep. Can only be used during a Full Moon.
 Animation = SING

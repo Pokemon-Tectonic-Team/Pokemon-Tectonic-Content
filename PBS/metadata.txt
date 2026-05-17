@@ -212,6 +212,7 @@ Environment = Grass
 Outdoor = false
 ShowArea = true
 Bicycle = true
+MapPosition = 0,19,18
 BattleBack = cave1
 Environment = Cave
 #-------------------------------
@@ -353,6 +354,7 @@ Bicycle = false
 Outdoor = false
 ShowArea = false
 Bicycle = false
+MapPosition = 0,21,18
 #-------------------------------
 [045]
 # Secret Room
@@ -996,7 +998,7 @@ TeleportBlocked = true
 Outdoor = false
 ShowArea = true
 Bicycle = true
-MapPosition = 0,11,11
+MapPosition = 0,11,12
 BattleBack = cave2
 Environment = Cave
 #-------------------------------
@@ -1007,7 +1009,7 @@ ShowArea = true
 Bicycle = true
 Temperature = Hot
 Humidity = Wet
-MapPosition = 0,21,18
+MapPosition = 0,22,18
 BattleBack = field
 MapSize = 2,11
 Environment = Grass
@@ -3223,3 +3225,31 @@ Weather = Stillness,100
 MapPosition = 0,20,7
 BattleBack = cave1
 Environment = Cave
+#-------------------------------
+[448]
+# Dissipated Plane
+ShowArea = true
+Bicycle = true
+Weather = Snow,100
+BattleBack = snow
+Environment = Snow
+#-------------------------------
+[449]
+# Den of Potential
+ShowArea = true
+Bicycle = true
+BattleBack = city
+Environment = Cave
+#-------------------------------
+[450]
+# Convection Beacon
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[453]
+# Deep Dissipated Plane
+ShowArea = true
+Bicycle = true
+Weather = Blizzard,100
+BattleBack = snow
+Environment = Snow

@@ -294,7 +294,7 @@ Target = User
 Priority = 2
 FunctionCode = RedirectAllMovesToUser
 Flags = Uninvocable
-Description = The user draws attention to itself, making all targets take aim only at the user this turn.
+Description = The user draws attention to itself, making all foes' moves get redirected to the user this turn.
 #-------------------------------
 [FURYSWIPES]
 Name = Fury Swipes
@@ -1791,7 +1791,7 @@ TotalPP = 12
 Target = NearOther
 FunctionCode = ResetTargetStatSteps
 Flags = CanProtect,Wind
-Description = The user attacks with a cloud of white smoke. All of the target's stat step changes are returned to normal.
+Description = The user attacks with a cloud of white smoke. This resets the target's positive stat changes.
 #-------------------------------
 [COIL]
 Name = Coil
@@ -3353,7 +3353,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = FirePledge
 Flags = CanProtect
-Description = A column of fire hits the target. When used with its Grass equivalent, it creates a Sea of Fire.
+Description = A column of fire hits the target. When used with its Grass equivalent, it creates a Sea of Fire for four turns.
 #-------------------------------
 [FIREPUNCH]
 Name = Fire Punch
@@ -3889,7 +3889,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = WaterPledge
 Flags = CanProtect
-Description = A column of water hits the target. When used with its Fire equivalent, it creates a Rainbow.
+Description = A column of water hits the target. When used with its Fire equivalent, it creates a Rainbow for four turns.
 #-------------------------------
 [WATERSHURIKEN]
 Name = Water Shuriken
@@ -4049,7 +4049,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = GrassPledge
 Flags = CanProtect
-Description = A column of grass hits the target. When used with its Water equivalent, it creates a vast Swamp.
+Description = A column of grass hits the target. When used with its Water equivalent, it creates a vast Swamp for four turns.
 #-------------------------------
 [GROWTH]
 Name = Growth
@@ -4918,17 +4918,6 @@ FunctionCode = UserTargetSwapAbilities
 Flags = CanProtect
 Description = The user employs its psychic power to exchange Abilities with the target.
 #-------------------------------
-[TRICKROOM]
-Name = Trick Room
-Type = PSYCHIC
-Category = Status
-Accuracy = 0
-TotalPP = 5
-Target = BothSides
-Priority = -7
-FunctionCode = StartSwapSpeedOrder4
-Description = The user creates a bizarre area in which slower Pokémon get to move first for four turns.
-#-------------------------------
 [ZENHEADBUTT]
 Name = Zen Headbutt
 Type = PSYCHIC
@@ -4980,19 +4969,6 @@ FunctionCode = FrostbiteTargetAlwaysHitsInHail
 Flags = CanProtect,Wind
 EffectChance = 30
 Description = A blizzard strikes all near foes. Can't miss in hail. It has a 30% chance to frostbite.
-#-------------------------------
-[FREEZESHOCK]
-Name = Freeze Shock
-Type = ICE
-Category = Physical
-Power = 140
-Accuracy = 100
-TotalPP = 5
-Target = NearOther
-FunctionCode = TwoTurnAttackParalyzeTarget
-Flags = CanProtect,ForceSignature
-EffectChance = 30
-Description = Charges up, then on the second turn, the user strikes with electrified ice. It has a 30% chance to numb.
 #-------------------------------
 [FROSTBREATH]
 Name = Frost Breath
@@ -5053,19 +5029,6 @@ FunctionCode = Frostbite
 Flags = CanProtect
 EffectChance = 10
 Description = The target is struck with an icy-cold beam of energy. It has a 10% chance to frostbite.
-#-------------------------------
-[ICEBURN]
-Name = Ice Burn
-Type = ICE
-Category = Special
-Power = 140
-Accuracy = 100
-TotalPP = 5
-Target = NearOther
-FunctionCode = TwoTurnAttackBurnTarget
-Flags = CanProtect,ForceSignature
-EffectChance = 30
-Description = Charges up, then on the second turn, an ultracold, freezing wind surrounds the foe. It has a 30% chance to burn.
 #-------------------------------
 [ICEFANG]
 Name = Ice Fang
