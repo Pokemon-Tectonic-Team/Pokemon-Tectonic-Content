@@ -1143,6 +1143,20 @@ Animation = TORMENT
 #-------------------------------
 #		FAIRY MOVES
 #-------------------------------
+[EMPOWEREDMOONBLAST]
+Name = Empowered Moonblast
+Type = FAIRY
+Category = Special
+Power = 180
+Accuracy = 100
+TotalPP = 1
+Target = AllNearFoes
+FunctionCode = EmpoweredMoonblast
+Flags = Light,CanProtect,Empowered
+EffectChance = 100
+Description = The user blasts all near foes with the moon's full power, lowering their Sp. Atk by three steps.
+Animation = MOONBLAST
+#-------------------------------
 [PRIMEVALDREAMDANCE]
 Name = Primeval Dream Dance
 Type = FAIRY

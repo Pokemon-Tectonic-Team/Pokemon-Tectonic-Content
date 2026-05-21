@@ -556,6 +556,27 @@ class PokeBattle_AI_LINOONE < PokeBattle_AI_Boss
     end
 end
 
+class PokeBattle_AI_MHAEROBIC < PokeBattle_AI_Boss
+    def initialize(user, battle)
+        super
+        @warnedIFFMove.add(:LUNASUCRE, {
+            :condition => proc { |_move, user, target, _battle|
+                # if we know the target's item, only use if it's stealable
+                target.eachAIKnownItem do |item|
+                    next false if target.unlosableItem?(item)
+                    # if the item is already an EXP Candy M, don't keep trying to Luna Sucre it
+                    next false if item == :EXPCANDYM
+                end
+                next target.hasAnyItem?
+            },
+            :warning => proc { |_move, user, targets, _battle|
+                target = targets[0]
+                _INTL("{1} takes aim at {2}'s {3}!",user.pbThis,target.pbThis(true),target.itemCountD)
+            },
+        })
+    end
+end
+
 class PokeBattle_AI_PARASECT < PokeBattle_AI_Boss
     def initialize(user, battle)
         super
