@@ -543,10 +543,11 @@ class PokeBattle_AI_LINOONE < PokeBattle_AI_Boss
         @warnedIFFMove.add(:COVET, {
             :condition => proc { |_move, user, target, _battle|
                 # if we know the target's item, only use if it's stealable
+                invalidItem = false
                 target.eachAIKnownItem do |item|
-                    next false if target.unlosableItem?(item)
+                    invalidItem = true if target.unlosableItem?(item)
                 end
-                next target.hasAnyItem?
+                next target.hasAnyItem? && !invalidItem
             },
             :warning => proc { |_move, user, targets, _battle|
                 target = targets[0]
@@ -562,12 +563,13 @@ class PokeBattle_AI_MHAEROBIC < PokeBattle_AI_Boss
         @warnedIFFMove.add(:LUNASUCRE, {
             :condition => proc { |_move, user, target, _battle|
                 # if we know the target's item, only use if it's stealable
+                invalidItem = false
                 target.eachAIKnownItem do |item|
-                    next false if target.unlosableItem?(item)
+                    invalidItem = true if target.unlosableItem?(item)
                     # if the item is already an EXP Candy M, don't keep trying to Luna Sucre it
-                    next false if item == :EXPCANDYM
+                    invalidItem = true if item == :EXPCANDYM
                 end
-                next target.hasAnyItem?
+                next target.hasAnyItem? && !invalidItem
             },
             :warning => proc { |_move, user, targets, _battle|
                 target = targets[0]
