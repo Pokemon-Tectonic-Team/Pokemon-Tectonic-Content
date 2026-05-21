@@ -1145,7 +1145,7 @@ Target = AllNearFoes
 FunctionCode = EmpoweredMoonblast
 Flags = CanProtect,Empowered,Light
 EffectChance = 100
-Description = The user blasts all near foes with the moon's full power, lowering their Sp. Atk by three steps.
+Description = The user blasts all nearby foes with the moon's full power, lowering their Sp. Atk by three steps.
 Animation = MOONBLAST
 #-------------------------------
 [PRIMEVALDREAMDANCE]
