@@ -37036,6 +37036,12 @@ Neural Pulse
 Pulso Neural
 Harsh Vibes
 Malas Vibras
+Dreamscape
+Mundo Ideal
+Stertor
+Carraspeo
+Astral Shift
+Cambio Astral
 [6]
 The user spends 50% HP to create a Substitute. If successful, the user's Speed is raised by four steps.
 El usuario usa el 50% de sus PS máximos para crear un sustituto. Al hacerlo, la Velocidad del usuario es aumentada cuatro grados.
@@ -40433,6 +40439,8 @@ The user sprays the target with a shrinking liquid. For the next three turns, th
 El usuario rocía al objetivo con un líquido reductor. Durante los siguientes tres turnos, la stat más alta del objetivo será reducida dos grados.
 The target is attacked with a pulse of negative feelings. It has a 40% chance to make the target flinch.
 El usuario ataca con un pulso de sentimientos negativos. Tiene el 40% de probabilidad de amedrentar al objetivo.
+The user goes to sleep and enters a dreamscape. This sets Sanctuary on the user's side for eight turns.
+El usuario cae en un sueño etéreo. Esto coloca un Santuario en el lado del usuario durante ocho turnos.
 [7]
 Pearl of Wisdom
 Perla Sabiduría
@@ -61226,6 +61234,16 @@ Bright light bursts out of {1}!
 <u>Corte</u>: Tipo Planta, Infectar
 {1} cannot form a {2}!
 ¡{1} no puede formar {2}!
+What do you do?
+¿Qué quieres hacer?
+Watch battle
+Observar combate
+Save last battle
+Guardar último combate
+Rename battle
+Renombrar combate
+Delete battle
+Borrar combate
 [26]
 [27]
 [27]
