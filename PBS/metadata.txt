@@ -1,7 +1,7 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [000]
-Home = 32,9,7,2
+Home = 136,31,42,2
 WildBattleBGM = Battle wild.ogg
 TrainerBattleBGM = DPPTTrainer.ogg
 AvatarBattleBGM = Battle avatar.ogg
@@ -1009,7 +1009,7 @@ ShowArea = true
 Bicycle = true
 Temperature = Hot
 Humidity = Wet
-MapPosition = 0,22,18
+MapPosition = 0,21,18
 BattleBack = field
 MapSize = 2,11
 Environment = Grass

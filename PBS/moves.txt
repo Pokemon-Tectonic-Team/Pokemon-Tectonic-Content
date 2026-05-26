@@ -289,7 +289,7 @@ Name = Follow Me
 Type = NORMAL
 Category = Status
 Accuracy = 0
-TotalPP = 5
+TotalPP = 3
 Target = User
 Priority = 2
 FunctionCode = RedirectAllMovesToUser
@@ -4993,19 +4993,6 @@ Target = AllNearFoes
 FunctionCode = Basic
 Flags = CanProtect,ForceSignature
 Description = The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon.
-#-------------------------------
-[GLACIATE]
-Name = Glaciate
-Type = ICE
-Category = Special
-Power = 65
-Accuracy = 100
-TotalPP = 10
-Target = AllNearFoes
-FunctionCode = LowerTargetSpd2
-Flags = CanProtect,Wind
-EffectChance = 100
-Description = The user attacks by blowing freezing cold air at all near foes. This attack reduces the targets' Speed by two steps.
 #-------------------------------
 [HAIL]
 Name = Hail
