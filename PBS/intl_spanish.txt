@@ -573,8 +573,30 @@ Meet me in the Sandstone Estuary, on that sandbar full of junk.
 Encuéntrame en el Estuario Arenisca, en esa isla llena de basura.
 Quickly!
 ¡Rápido!
-Meet me in the <imp>Circuit Cave</imp>, it's under the <imp>Canal Desert</imp>.
+Meet me in the <imp>Circuit Cave</imp>. It's under the <imp>Canal Desert</imp>.
 Encuéntrame en la <imp>Cueva Circuito</imp>, bajo el <imp>Canal Desértico</imp>.
+Apologies for the interruption, young master.
+Me disculpo por la interrupción, joven maestro.
+Or should I say, young champion.
+O mejor dicho, joven campéon.
+My heartfelt congratulations.
+Mis más sinceras felicitaciones.
+Regardless, I bear good news.
+De todos modos, le traigo buenas noticias.
+You have received a formal invitation from MonumentSoft, a subsidiary of LuxTech.
+Has recibido una invitación formal de MonumentSoft, un subsidiario de LuxTech.
+They desire your presence at the <imp>Battle Monument</imp>.
+Desean tu presencia en el <imp>Monumento Batalla</imp>.
+Apparently it hosts quite the grueling challenge, an “AI Trainer Gauntlet” as they describe it.
+Se dice que es un desafío extenuante, lo describen como una "Serie de Entrenadores IA".
+There is to be some manner of reward for successful completions.
+Existen diferentes recompensas al completarlo con éxito.
+The Monument is best reached by sea. Should you wish to visit, I will see you there immediately.
+Lo más conveniente es llegar por el mar. Si deseas visitarlo, te veré en el puerto.
+That is all. I will distract you no further, young champion.
+Eso es todo. Dejaré de distraerte, joven campeón.
+She must really want to talk with you.
+Realmente debe querer hablar contigo.
 [Map1]
 Enable randomizer? This will disable some achievements.
 ¿Activas el randomizer? Esto desactivará algunos logros.
@@ -1336,6 +1358,130 @@ You notice a tag on its collar. Though it's moving around, you can just make out
 Notas una etiqueta en su collar. Aunque se está moviendo, apenas puedes notar lo que está escrito en ella.
 Its owner apparently lives in Novo Apartments, in Novo Town.
 Su dueño aparentemente vive en los Apartamentos Novo, en Pueblo Novo.
+Hey! Pretty cool place, right?
+¡Hey! Este lugar es genial, ¿eh?
+Feels like one of the more quiet areas of Makya.
+Parece ser uno de los lugares más tranquilo de Makya.
+Maybe because Velenz attracts all the avatars and repels most of the people.
+Quizás es porque Velenz atrae a todos los avatares y repele a la gente.
+What was up with that place, anyway?
+¿Qué lugar más raro es ese, no crees?
+Like, why keep a gym there...? And that mansion to the west?
+Osea, ¿por qué tendrías un gimnasio allí...? ¿Y esa mansión al oeste?
+Straight up bizarre.
+Completamente bizarro.
+But, anyway, I've got a new team here put together just for this battle.
+En fin, tengo un nuevo equipo que reuní para este mismo combate.
+A doubles team, too! I'm expanding my horizons.
+¡Uno para dobles! Estoy expandiendo mis horizontes.
+I can promise they won't bore you to sleep. They're fun-guys.
+Te prometo que no te harán dormir. Son divertidos.
+Don't sleep on this team! Or do.
+¡Que este equipo no te haga dormir! O sí.
+You'll probably lose if you do, though.
+Pero si lo haces, probablemente pierdas.
+Ready to go?
+¿Listo?
+Sure thing, sleepy head.
+Muy bien, dormilón.
+Gimmick strat, go!
+¡Ve, mi gimmick!
+The Empty Stone? Not likely.
+¿El Orbe Hueco? No lo creo.
+I mean, it's good at keeping my lunch chilled.
+Osea, sirve para enfríar mi almuerzo.
+And it's nice to look at, I guess.
+Y se ve bonito, supongo.
+But, when I give it to one of my Pokémon, it seems to just wear them out.
+Pero cuando se lo doy a uno de mis Pokémon, parece que los debilita.
+I'm gonna keep it for now, see if I can't figure out the trick later.
+Me lo voy a quedar por ahora, a ver si puedo descubrir el truco más tarde.
+Either way, it won't be showing up in this battle.
+De todos modos, no aparecerá en este combate.
+Never thought I'd get to try out that team.
+Nunca pensé que llegaría a probar ese equipo.
+Always seemed like a fun idea!
+¡Siempre me pareció una idea divertida!
+I wasn't gonna enter the tournament with it, cause I figured the chances weren't great.
+No iba a entrar al torneo con esto, porque supuse que no sería la mejor idea.
+It's also just not as fun in 1v1s.
+Además, no es tan divertido en individuales.
+Thanks for humoring me, but uh...
+Gracias por seguirme el juego, pero eh...
+What're <i>your</i> feelings on the tournament?
+¿Cómo te sientes <i>tú</i> respecto al torneo?
+Yeah, definitely! Kinda part of why I'm sore about it.
+¡Sí, definitivamente! En parte es por eso que aún lo resiento.
+I'm hoping I'll be able to catch your rounds.
+Espero que algún día pueda llegar a tu altero.
+I'll be cheering for you.
+Te estaré apoyando.
+Maybe get some vicarious joy when you inevitably get the guy who beat me.
+Y me alegraré un poco cuando inevitablemente derrotes al tipo que me venció.
+Just kidding! Holding grudges like that is exhausting.
+¡Es broma! Guardar rencores es agotador.
+You sure didn't say that like it was a good thing.
+No parece que lo hayas dicho como si fuera algo bueno.
+I guess I never asked about your family, before.
+Supongo que nunca te pregunté sobre tu familia.
+Whatever it is, I hope things turn out well for you.
+No importa como sea, espero que las cosas terminen bien para ti.
+Gonna go straight through this league and tournament and onto even greater glories, huh?
+Énfrentate a esta liga y torneo y sube a lo más alto, ¿eh?
+If anyone could ride that momentum it’d probably be you.
+Si alguien puede aprovechar ese moméntum, eres tú.
+Just remember to slow down long enough for me to catch you at your coronation.
+Pero recuerda frenar un poco para que pueda llegar a tu coronación.
+Yeah, definitely! Kinda part of why I’m sore about it.
+¡Sí, definitivamente! En parte es por eso que aún lo resiento.
+I cheered for you during your rounds.
+Te estuve apoyando en tus combates.
+Got some vicarious joy watching you beat your asshole brother.
+Me alegré un poco cuando te ví vencer a tu hermano idiota.
+Getting a bad vibe from the way you said that.
+Me dan malas vibras cuando lo dices de ese modo.
+I guess I never asked about your family.
+Supongo que nunca te pregunté sobre tu familia.
+I saw a lot of tension during that grand finale.
+Sentí bastante tensión en esa final.
+Well, whatever happened between you two... hope things work out.
+Bueno, no importa lo que haya ocurrido entre ustedes dos... espero que las cosas funcionen.
+You felt that earthquake, right?
+¿Sentiste ese terremoto, verdad?
+Heard some rumors that it might have been manmade...?
+¿Escuché rumores de que pudo haber sido artificial...?
+Sounds like something a Champion should look into. Wink wink.
+Parece ser algo que un Campeón debería investigar. Guiño guiño.
+I know you’re destined for even greater glories.
+Sé que estás destinado a lo más alto.
+So... back to my memorial tour of the region.
+Entonces... toca regresar a mi tour conmemorativo de la región.
+For our next stop I was thinking the <imp>Split Peaks.</imp>
+Para nuestra siguiente parada estaba pensando en los <imp>Picos Partidos.</imp>
+Down at the south end of the mountain, where it connects to the estuary.
+En la parte sur de la montaña, en donde se conecta al estuario.
+Oh, almost forgot, I found this mushroom.
+Oh, casi lo olvido, encontré esta seta.
+I bequeath it to you.
+Te la ofrezco.
+See ya!
+¡Nos vemos!
+Gimme 5 minutes.
+Dame cinco minutos.
+Yup!
+¡Sip!
+Using that item again?
+¿Vas a usar ese objeto de nuevo?
+Seems fun!
+¡Parece divertido!
+It's family business.
+Son cuestiones familiares.
+I have bigger concerns.
+Tengo problemas mayores.
+It was fun!
+¡Fue divertido!
+It was family business.
+Eran cuestiones familiares.
 [Map8]
 Hey there. Miss me?
 Buenas. ¿Me extrañabas?
@@ -1609,6 +1755,38 @@ Yes?
 ¿Sí?
 No?
 ¿No?
+Heal up your party, get back to me.
+Ve a curar a tu equipo y regresa después.
+I’m being silly to distract myself from fear.
+Estoy actuando absurdo para distraerme del miedo.
+Anyway, let’s get a round of applause for Vanya and \PN!
+¡Como sea, una ronda de aplausos para Vanya y \PN!
+We’ve both been collecting badges at lightning speed.
+Ambos hemos reunido medallas en un plisplás.
+Plus, I’m perfecting every gym leader, without even using held items!
+¡Además estoy perfeccionando a todos los líderes de gimnasio sin usar objetos equipables!
+I’d say “not to brag”, but I am absolutely bragging.
+Me gustaría decir que no quiero presumir, pero estoy presumiendo.
+To be fair, I <i>do</i> have the home field advantage.
+Y para ser justos, <i>tengo</i> la ventaja de campo. 
+I may not look it, but I was born in Novo Town.
+Puede que no lo parezca, pero nací en Pueblo Novo.
+Mom and I traveled all over Makya—though she always left me at home when it was time to visit Velenz.
+Mi mamá y yo viajábamos por todo Makya, aunque ella siempre me dejaba en casa cuando era hora de visitar Velenz.
+Told me to stay far, far away from here.
+Siempre me dijo que nunca me acercara a ese lugar.
+And that was <i>before</i> an avatar took over the PokéCenter.
+Y eso fue <i>antes</i> de que un avatar tomara el Centro Pokémon.
+Speaking of, the best place to rest is <imp>down south</imp>.
+Hablando de, el mejor lugar para descansar es <imp>al sur</imp>.
+A gaggle of grunts set up a <imp>healing spot</imp>.
+Unos reclutas abrieron un <imp>centro curativo</imp>.
+If you need me, I’ll be around, ready to battle at a moment’s notice!
+Si me necesitas, ¡llámame y estaré lista para combatir a tu lado!
+Oh, by the way, don't worry about pronouns for me—I like 'em all.
+Oh, por cierto, no te preocupes por mis pronombres, me gustan todos.
+Well, they <i>can</i> get a bit stale after a while, so... mix it up!
+Me aburren un poco después de un tiempo, ¡así que los voy cambiando!
 [Map9]
 STAY AWAY FROM MY PLANTS!
 ¡ALÉJATE DE MIS PLANTAS!
@@ -1890,7 +2068,8 @@ Now let us see if the AI can steer my signature strategy. Have fun!
 Ahora veamos si la IA puede usar mi estrategia característica. ¡Diviértete!
 You've found Bella, a playtester.
 Has encontrado a Bella, playtester.
-
+You've found Emmi, a designer.
+Has encontrado a Emmi, diseñadora.
 [Map16]
 
 I'll take your Pokémon for a few seconds.
@@ -2985,8 +3164,8 @@ That thing was what we’re calling an <imp>Avatar</imp>.
 Eso fue lo que llamamos un <imp>Avatar</imp>.
 They started showing up a few months back.
 Empezaron a aparecer hace algunos meses atrás.
-It's rare to find a trainer that can take one on in a straight-up fight.
-Es raro encontrar un entrenador que pueda tumbar a uno en un combate directo.
+Most trainers aren't brave enough to take one on in a straight-up fight.
+La mayoría de entrenadores no son lo suficiente valientes para enfrentar a uno directamente.
 I heard one showed up in here and figured I had to do something before it hurt anyone, but I got cocky.
 Escuché que uno apareció aquí y supe que tenía que hacer algo antes de que lastime a alguien, pero me confié.
 Lemme heal your Pokemon.
@@ -3104,6 +3283,38 @@ No use in keeping sweets like this around, so... here!
 Ya no tiene sentido tener dulces como este, así que... ¡toma!
 Now my furniture can rest in peace.
 Ahora mis muebles pueden descansar en paz.
+It's mostly full of bottled water.
+Está repleto de aguas embotelladas.
+A stack of dance game boxes are piled under it.
+Varios juegos de danza están apilados debajo de estas.
+"...and now we Seviper, Seviper..."
+"...ahora un Seviper, Seviper..."
+"...aaand Flip Turn!"
+"¡...yyyy un Viraje!"
+A dancer is walking the viewer through choreography.
+Un bailarín está guiando mediante coreografía.
+It's covered in autographs!
+¡Está cubierto de autógrafos!
+It's empty.
+Está vacío. 
+A dusty poster for an older band.
+Un póster de una vieja banda polvorienta.
+There's a full brass ensemble, a singer, and a pair of Seismitoad in the back.
+Hay un conjunto de intrumentos de viento metal, un cantante, y un par de Seismitoad por detrás.
+It's locked.
+Está bloqueado.
+Various concert dates are highlighted.
+Varias fechas de concierto están resaltadas.
+An upbeat song is playing!
+¡Una canción animada está sonando!
+Chatot bobs its head to the rhythm.
+Chatot cabecea al ritmo de la música.
+Various pitches for song titles.
+Varias ideas para títulos de canciones.
+A variety of notes about sound levels for different upcoming groups.
+Varias notas respecto a los niveles de sonido para los diferentes grupos venideros.
+A lack of ball prevents you from shooting a sick hoop.
+No saberle a la pelota te impide lanzarla. 
 [Map30]
 
 You think you can make it past my team? I hope you prepared!
@@ -3258,7 +3469,10 @@ Not yet.
 Aún no.
 Yes.
 Sí.
-
+My job is done...
+Mi trabajo está hecho...
+But... what now?
+Pero... ¿ahora qué?
 [Map32]
 
 Room 101\nCurrent Residents: Kaylee, Aisha
@@ -3413,7 +3627,16 @@ I like to spend time here instead of the breakroom.
 Me gusta pasar tiempo aquí en vez de la sala de descanso.
 It's a lot quieter.
 Está mucho más tranquilo.
-
+A survey of the sewer ecosystem is plotted.
+Una encuesta sobre el ecosistema de las alcantarillas.
+There's been a spike of "unusual Pokémon" recently.
+Ha habido un pico de "Pokémon inusuales" recientemente.
+This one is full of books.
+Este está lleno de libros.
+This one is empty.
+Este está vacío.
+This one smells too rancid to open.
+Este está muy rancio como para abrirlo.
 [Map34]
 
 Bikes! Every Trainer worth their salt has a bike!
@@ -3702,8 +3925,8 @@ But first things first...
 Pero primero lo primero… 
 \PN received a MasterDex!
 ¡\PN obtuvo una MasterDex!
-The <imp>MasterDex</imp> is a Pokédex, but it comes preloaded with data on every non-legendary species.
-La <imp>MasterDex</imp> es una Pokédex, pero que está precargada con datos de todas las especies no-legendarias.
+The <imp>MasterDex</imp> is a Pokédex, but it comes preloaded with data on every species.
+La <imp>MasterDex</imp> es una Pokédex, pero que está precargada con datos de todas las especies.
 Moves, Abilities, stats, evolutions - it's all in there.
 Movimientos, Habilidades, estadísticas, evoluciones - todo está ahí.
 Now go pick out your first starter. I ain't got all day.
@@ -3778,6 +4001,20 @@ It also comes along with a <imp>MoveDex</imp> and a <imp>DexNav</imp>.
 También viene con una <imp>MoveDex</imp> y un <imp>DexNav</imp>.
 Both useful resources that I'm sure you can figure out on your own.
 Ambos son recursos útiles que estoy segura puedes entender por tu cuenta.
+Though, if you prefer the thrill of discovery, you can have it hide the info until you've seen one.
+Dicho esto, si prefieres la emoción del descubrimiento, puedes escondar la info hasta que hayas visto una.
+I've got a Skwovet, a Zigzagoon, and a Patrat.
+Tengo un Skwovey, un Zigzagoon y un Patrat.
+You may want to look them up in your MasterDex, using the <imp>search feature</imp>.
+Puede que quieras buscarlo en tu MasterDex, usando la <imp>función de búsqueda</imp>.
+In case you've got the data hidden, let me just reveal those for you.
+Si tienes la info oculta, déjame revelarla por ti.
+Each of those species has a signature move, and strong ones at that. It's good reading.
+Todos ellos tienen un fuerte movimiento característico cada uno. Te recomiendo leerlos.
+Let me know when you've made your choice.
+Hazme saber cuando hayas tomado tu decisión.
+OK, now - Skwovet, Zigzagoon, or Patrat?
+Ok, ¿quieres a Skwovet, Zigzagoon o Patrat?
 [Map37]
 
 The lake here used to be pretty. The ice rink is nice, but it just doesn't have the same appeal.
@@ -4140,6 +4377,106 @@ Seems legit.
 Suena légitimo.
 Yeah.
 Seh.
+Hey! Hey!
+¡Hey! ¡Hey!
+\PN, you made it!
+¡\PN, llegaste!
+Rad.
+Genial.
+Kinda weird being back on Casaba, right?
+Es extraño regresar a Casaba, ¿no crees?
+Starting point for both of us.
+Fue nuestro punto de partida.
+I thought it was fitting.
+Supuse que sería apropiado.
+Uh... come over here, I'm gonna prep for battle.
+Eh... ven aquí, voy a prepararme para el combate.
+Okay, so, different rules this time.
+Ok, entonces, esta vez las reglas serán distintas.
+I’ll be using <imp>my tournament team</imp>, a full six-member squad.
+Voy a usar <imp>mi equipo del torneo</imp>, un equipo completo de seis.
+Plus, held items are back on the menu.
+Además, los objetos equipables están de vuelta en el menú.
+And after you beat me? Well, a trainer’s gotta keep <i>some</i> secrets.
+¿Y luego de vencerme? Bueno, una entrenadora tiene que guardar <i>algunos</i> secretos.
+Battle imminent...?
+¿Combate inminente...?
+Yeah, sure!
+¡Ok, seguro!
+Hell yeah!
+¡Claro que sí!
+A lot. The journey over cleared my head... a bit.
+Demasiado. Este viaje despejó mi cabeza... un poco, al menos.
+Beat me and I’ll tell you about it.
+Vénceme y te diré al respecto.
+Well, it certainly feels different losing when nothing is on the line.
+Bueno, ciertamente perder se siente distinto cuando no hay nada en juego.
+A little fun, even.
+Es hasta divertido.
+Definitely not as bad as my stumble in Prizca.
+Ciertamente no fue tan malo como mi fiasco en Prizca.
+Yeah, it’s...
+Sí, es...
+Like yeah of course it happened. It’s gotta be someone.
+Osea, por supuesto que ocurrió. Alguien tiene que hacerlo.
+Still sucks.
+Pero aún así apesta.
+Longterm, no. I wasn’t expecting to win the entire thing.
+A largo plazo, no. No estaba esperando ganar todo el torneo.
+Getting pulped like that still stings.
+Pero ser destrozada de ese modo apesta.
+I just need time to process it.
+Necesito tiempo para procesarlo.
+True.
+Es verdad.
+I’ve gone over the fight in my mind several times already.
+Le he estado dando vueltas al combate en mi cabeza muchas veces a este punto.
+Thinking about what I did wrong and what I could’ve done better.
+Pensando en qué hice mal y qué pude haber hecho mejor.
+But I can’t do it again, so I doubt ruminating is going to make me feel better.
+Pero no puedo hacerlo de nuevo, así que ruminar en ello no va a hacerme sentir mejor.
+Oh, don’t worry about that.
+Oh, no te preocupes.
+Something I picked up here on the beach.
+Es algo que recogí aquí en la playa.
+Just trying to shake things up. Get me outta the doldrums.
+Estoy intentando cambiar las cosas. Salir de la melancolía.
+Take this.
+Toma esto.
+A memento, or maybe not. It’s yours now.
+Un souvenir, o no. Ahora es tuyo.
+Hey, speaking of losing.
+Hey, hablando de perder.
+Wanna go on a tour with me? Memory lane or some such.
+¿Quieres ir a un tour conmigo? 
+Meet me in <imp>Repora Forest</imp>.
+Encuéntrame en el <imp>Bosque Repora</imp>.
+It’s got mushrooms, moss... combination mushrooms AND moss.
+Tiene setas, musgo... y setas CON musgo.
+That’s lichen.
+Osea, liquen.
+Okay, lichen isn’t mushrooms and moss. It’s fungi and bacteria.
+Bueno, el liquen no es setas y musgo. Es fungi y bacterias.
+Either way, I’m <i>lichen</i> this idea already!
+¡Como sea!
+See you there.
+Te veo allí.
+I’m itching to get some more play with this team.
+Ansío seguir usando este equipo.
+Finally using held items again! It’s refreshing.
+¡Finalmente puedo usar objetos equipables de nuevo! Es refresacante
+No, wait.
+No, espera.
+Agreed.
+Estoy de acuerdo.
+What's going on?
+¿Qué ocurre?
+I get that.
+Lo entiendo
+Is it really that bad?
+¿Eso es tan malo?
+That weird item...?
+¿Y ese objeto extraño...?
 [Map39]
 Fainted Pokemon will be revived and their statuses will be healed.
 Pokémon debilitados serán revividos y sus estados serán curados.
@@ -4223,6 +4560,18 @@ Sweet, let's get this show on the road.
 Perfecto, empecemos con esto de una vez.
 Dope. C'mon, new buddy. Let's go back to my lair.
 Genial. Vamos, amiguito. Regresemos a mi guarida.
+"Hello, valued customer."
+"Hola, estimado cliente."
+"Please be informed that, until further notice, QuickMart stores across Makya will not be stocking Potions or other healing medicine."
+"Por favor sepan que, hasta nuevo aviso, las tiendas QuickMart alrededor de todo Makya no tendrá stocks de Pociones u otros objetos curativos."
+Not like anyone even uses those anymore...
+No es como si alguien usara esos a este punto...
+Er, by that I mean... should you require healing items for your Pokemon...
+Eh, y con eso quiero decir... que si necesitas objetos curativos para tus Pokémon...
+"Please access the VendCo <imp>vending machine</imp> conveniently placed near each QuickMart employee."
+"Por favor utiliza la <imp>máquina expendedora</imp> VendCo convenientemente colocados cerca de cada empleado QuickMart."
+"VendCo is proud to provide for all of your healing needs here in Makya."
+"VendCo se enorgullece de proveer todas tus necesidades curativas en Makya."
 [Map40]
 You looking for the missing package?
 ¿Estás buscando el paquete perdido?
@@ -4527,8 +4876,8 @@ Room 202\nCurrent Resident: Ruby
 Habitación 202\nResidente Actual: Ruby
 HIYA!
 ¡HIYA!
-Room 201\nCurrent Resident: Theodore
-Habitación 201\nResidente Actual: Theodore 
+Room 201\nCurrent Residents: Theodore, Julian
+Habitación 201\nResidente Actual: Theodore, Julian 
 I'm glad this complex has this room, where I can train my Pokemon safely.
 Agradezco que este complejo tenga esta habitación, donde puedo entrenar a mis Pokémon de forma segura.
 Not that much tends to happen between these two...
@@ -4757,6 +5106,40 @@ You don't really understand the connection.
 No entiendes realmente la conexión.
 Definitely gonna take a few photos of this guy.
 Definitivamente voy a sacarle varias fotos al tipo.
+Aromatic flowers from other regions.
+Flores aromáticas de otros regiones.
+Photobooks of some of the greatest views in Makya.
+Fotos de las mejores vistas en todo Makya.
+The one on the cover is near Whitebloom Town.
+La foto en la portada es de Pueblo Whitebloom.
+You grab a book on the history of Prizca and open to a random page.
+Tomas un libro de la historia de Prizca y lo abres en una página aleatoria.
+"The Defenestration of Prizca is a well-known event where a politician was shoved through a second floor window of Prizca Castle."
+"La Defenestración de Prizca es un evento icónico en donde un político fue lanzado por el segundo piso del Castillo Prizca."
+"The lesser-known Refenestration of Prizca was when his partner Pokémon used Bounce to send him back in."
+"Pero también existió la menor conocida Refenestración de Prizca, en donde su compañero Pokémon utilizó Bote para regresarlo al edificio."
+An atlas of Makya sits on top of brochures for river cruises in other regions.
+Puedes ver un atlas de Makya sobre una pila de panfletos para viajes en el río de otras regiones.
+"Rapidash, Zebstrika, and Mudsdale: Equine Symbolism and the First King"
+"Rapidash, Zebstrika y Mudsdale: Simbolismo equino y el primer rey".
+Over half of this book is footnotes.
+Más de la mitad del libro son notas a pie de página.
+A tasteful arrangement of white carnations and wildflowers.
+Un bonito arreglo de claveles blancos y flores silvestres.
+"Tulumba and You!"
+"¡Tulumba y tú!"
+"Must-Do Adventures in East Prizca"
+"Aventuras obligatorias en Prizca Oriental"
+"An Insider's Guide to the Luxtech Campus"
+"La guía de un insider del Campus LuxTech"
+Books for tourists.
+Libros para turistas.
+...you realize that you're included in this group.
+...te das cuenta que probablemente estás incluido en este grupo.
+A view of Prizca Castle from across the Eleig.
+Una vista desde el Castilo Prizca desde el Eleig.
+A plaque claims that this clock is over 200 years old, and was relocated from Velenz shortly before the disaster.
+Una placa dice que este reloj tiene más de 200 años, y estaba en Velenz antes del desastre.
 [Map48]
 
 Hello, hello! I am the official Name Rater! Want me to rate the nicknames of your Pokémon?
@@ -4943,6 +5326,44 @@ She is resting to the south.
 Ella está descansando en el sur.
 If you would take your leave, this mushroom demands my full attention.
 Si puedes, retírate, este hongo llama toda mi atención.
+A few cookbooks have been set out.
+Una muestra de libros de cocina.
+A pantry full of Pokémon food and seasonings.
+Una despensa de comida y condimentos para Pokémon.
+Framed photographs of an excessively chubby Glameow and a very droopy Yamper look down at you.
+Puedes ver fotos enmarcadas de un Glameow excesivamente regordete y un Yamper adormilado.
+A well-crafted sculpture of a tormented man.
+Una magnífica escultura de un hombre atormentado.
+A signature on the base reads "Noel".
+La firma en la base es de "Noel".
+Coffee-table books about fine art.
+Libros de sobremesa sobre las bellas artes.
+It would certainly suck for the owners of this house to come back to a dripping faucet.
+Seguramente a los dueños de esta casa no les gustaría regresar y ver un grifo goteando.
+That said, they probably wouldn't even notice the water bill.
+Dicho esto, probablemente no notarían la factura del agua.
+A full faceplate fossil of a Bastiodon.
+Un fósil entero de la cabeza de un Bastiodon.
+You're pretty sure it's a replica.
+Seguramente es una réplica.
+You spend a minute wondering if it's possible to wall-mount something as heavy as a real Bastiodon plate.
+Te detienes un minuto a pensar si es posible colgar algo tan pesado como una cabeza de Bastiodon genuina.
+Leather-bound volumes with gilded edges.
+Volúmenes de cuero con bordes dorados.
+They've gathered quite a bit of dust.
+Están muy polvorientos.
+A clean gas range stove.
+Una cocina limpia.
+A cheerful painting in a dusty frame.
+Una pintura alegre en un borde polvoriento.
+Empty, save for a single container in the back.
+Está vacío, salvo un contenedor solitario en el fondo.
+You highly doubt that whatever food was in it was the color it is now.
+Dudas de que la comida haya tenido el color que tiene ahoro.
+A little dry.
+Se ve seco.
+This clock has stopped.
+El reloj no se mueve.
 [Map53]
 My friend invited me to Makya. She failed to mention how untamed the region is. I presume you're another ruffian.
 Mi amigo me invitó a Makya. Parece que olvidó mencionar lo salvaje que es esta región. Presumo que tú eres otro rufián.
@@ -6721,6 +7142,16 @@ Not yet.
 Aún no.
 Of course.
 Por supuesto.
+I thought bringing Aron to this gym would be a good idea.
+Pensé que traer a Aron a este gimnasio sería una buena idea.
+Rock is effective against Fire and Steel is immune to Poison after all.
+Después de todo, Roca le gana a Fuego y Acero es inmune a veneno.
+Imagine my horror, because I forgot Steel types aren't immune to the poison status condition.
+Imagina mi cara cuando recordé que los tipo Aceros no son inmunes al problema de estado en sí.
+My poor Aron got worn down in an instant!
+¡Mi pobre Aron cayó en un instante!
+Since then, I always carry Pecha Berries with me...
+Desde entonces, siempre llevo Bayas Meloc conmigo...
 [Map65]
 [Map66]
 
@@ -6772,6 +7203,10 @@ Yes
 Sí
 
 [Map67]
+It's locked.
+Está bloqueada.
+A sign on the door reads "Employees Only!!"
+Un letrero en la puerta dice "¡¡Solo empleados!!"
 [Map68]
 
 I'm participating in the current archival project at the Digsite Ruins.
@@ -7769,6 +8204,8 @@ M. Mudkip
 Mudkip M.
 Check MasterDex
 Mirar MasterDex
+I'll be here if you change your mind.
+Estaré aquí por si cambias de opinión.
 [Map83]
 
 A locked gate. It has a slot for a keycard.
@@ -8431,7 +8868,40 @@ No
 No
 Yes
 Sí
-
+Classic literature lines the shelves.
+Los estantes están repletos de literatura clásica.
+This box has been completely squashed.
+Esta caja ha sido completamente aplastada.
+These books are no longer neatly stacked.
+Estos libros ya no están apilados cuidadosamente.
+The Avatar of Arbok's venom has rendered this book a hazard to touch.
+El veneno del Avatar de Arbok hizo que este libro sea peligroso de tocar.
+This box is full of collectable spoons.
+Esta caja está llena de cucharas coleccionables.
+Books on historical battles in and around Makya.
+Libros sobre combates históricas dentro y fuera de Makya.
+A once-neat pile of books kicked over in a scuffle.
+Una pila de libros que una vez estuvo bien organizada ahora es un desastre.
+This box has gotten wet somehow.
+De algún modo, esta caja está húmeda.
+Several volumes of poetry, and a large number of dated encyclopedias.
+Montones de libros de poesía, y un gran número de enciclopedias ya obsoletas.
+Some pages of this book are missing.
+Faltan algunas páginas de este libro.
+This box is crumpled.
+Esta caja está arrugada.
+A sketch of a young trainer.
+Un boceto de un entrenador joven.
+It's surprisingly intact, given the state of the room.
+Sorprendentemente está intacata, dado el estado de la habitación.
+Torn sheets of paper create a haphazard nest in this box.
+Pedazos de hojas de papel crean un nido improvisado en esta caja.
+This book is pitted with fang marks.
+Esta caja está marcada con marcas de mordidas.
+These sheets are quite soft.
+Estas mantas son bastante suaves.
+The corners have been nibbled.
+Los rincones están masticados.
 [Map96]
 This place is LuxTech's Cold Storage Facility.
 Este lugar es la Facilidad de Refrigeración de LuxTech.
@@ -11491,6 +11961,36 @@ Give me a sec.
 Dame un segundo.
 Yeah, I do.
 Seh, lo estoy.
+You wonder briefly which leader scores more hoops.
+Brevemente te preguntas qué líder anota más canastas.
+Then, you wonder where the ball is.
+Luego, te preguntas en dónde está la bola.
+Might be a good idea to get out from under the net.
+Puede que sea una buena idea salir de debajo de la red.
+A rigorous training regimen is pencilled in.
+Puedes leer un riguroso régimen de entrenamiento.
+It's unclear if the "rock climbing" notes are part of the training or just for Bence.
+No está claro si la notas sobres "trepar muros" son parte del entrenamiento o si eso es solo para Bence.
+Surprisingly well-maintained, given the haphazard state of the gym.
+Está sorprendentemente bien mantenido, dado el estado del resto del gimnasio.
+It's set nearly fifteen minutes fast.
+Está unos quince minutos adelantado.
+Locked.
+Bloqueada.
+A few bottles of nail polish and a much more nondescript jacket than the one Zoé is wearing now.
+Ves unas cuantas botellas de esmalte de uñas y una chaqueta más insulsa que la que Zoé está usando ahora mismo.
+A crumpled up paper note.
+Una nota de papel arrugada.
+Read it?
+¿Leerla?
+You uncrumple the note.
+Abres la nota.
+"What are you, a cop? Get out of my trash."
+"¿Qué eres? ¿Un policía? Fuera de mi basura".
+You decide not to fish around in the trash.
+Decides dejar de hurgar en la basura.
+Yes
+Sí
 [Map135]
 My family has trained here for generations.
 Mi familia ha entrenado aquí durante generaciones.
@@ -11902,7 +12402,30 @@ If you're going out and fighting those things, maybe that's somehow an upside fo
 Si vas a ir y combatir esas cosas, ¿Quizás eso es algo bueno para ti...?
 I'll need to check Eleig.com for any new safety products that will work on Avatars.
 Tendré que comprobar Eleig.com para nuevos productos de seguridad que sí funcionen en Avatares.
-
+For that reason, I wear a Hi-Viz Jacket with me wherever I go.
+Por ese motivo, llevo mi Chaqueta de Alta Visibilidad por todas partes.
+My incantations keep faltering! I need a companion to assist in my rites.
+¡Mis hechizos siguen fallando! Necesito un acompañante en mis rituales.
+I boarded a fishing boat to try and get a Galarian Corsola, but the fates could only bestow upon me the ordinary kind.
+Me subí a un barco pezquero para intentar obtener un Corsola de Galar, pero el destino solo pudo otorgarme uno regular.
+So, I'm trying a different approach.
+Por eso voy a intentar llevarlo de un modo diferente.
+I'm willing to part with it, so long as you can provide me a fitting replacement.
+Te lo puedo ofrecer a cambio de un reemplazo apropiado.
+I'll trade you my Corsola for any Pokémon from the Esoteric tribe.
+Te intercambiaré mi Corsola por cualquier Pokémon del clan Esotérico.
+I see great misfortune in your future...
+Veo grandes calamidades en tu futuro...
+Thank you, traveller.
+Gracias, viajero.
+May the stars guide you through your hardships.
+Que las estrelles te guien entre tus adversidades.
+Ah, you again.
+Ah, eres tú.
+I must thank you for your prior assistance. My rites have gone splendidly since.
+Debo agradecerte por tu asistencia. Mis ritos han ido espléndidamente desde entonces.
+Great misfortune has already befallen three of my enemies...
+Mis enemigos han caído ante grandes infortunios...
 [Map138]
 
 The berry plant is growing.
@@ -12800,6 +13323,18 @@ There you are! Come on Michi, we have a job to do.
 ¡Aquí estás! Vamos Michi, tenemos trabajo que hacer.
 I gotta skedaddle, but if you wanna meet up, I'll be in <imp>Whitebloom Town</imp>.
 Debo salir pitando, pero si quieres verme, estaré en <imp>Pueblo Whitebloom</imp>.
+Stone pillars tower over the gym.
+Pilares de piedra sobresalen sobre el gimnasio.
+They almost look like fingers, reaching through the ground.
+Parecen ser dedos, atravesando el suelo.
+Bence and Zoé.... Zence.... Boé....
+Bence y Zoé.... Zence.... Boé....
+Oh, forgive me, the thought of taking on two gym leaders at the same time is stressing me out a little.
+Oh, perdona, tener que vencer a dos líderes de gimnasio al mismo tiempo me está estresando.
+I hope my current team will work well against them, but I can't know for sure.
+Espero que mi equipo actual funcione bien contra ellos, pero no puedo estar segura.
+It doesn't look like this has moved in a while.
+No parece que esto se haya movido en un tiempo.
 [Map157]
 
 The destruction of the bridge over at the Eleig River Crossing has really put a hamper on things.
@@ -12842,7 +13377,16 @@ The TV displays a live feed of the pedestrian crossings in Prizca West.
 La TV muestra una transmisión en vivo de los cruces peatonales de Prizca Occidental.
 People aren't paying them much attention, and are crossing wherever they wish.
 La gente no les presta mucha atención, y están cruzando por donde quieren.
-
+The TV displays a live feed from just outside Bogdan Cement.
+La TV muestra los alrededor de Cemento Bogdan.
+If these are the only trucks using the road, this gives the traffic control some advanced notice. Smart!
+Si estos son los últimos camiones que usan la calle, le da al control de tráfico un aviso por antelación. ¡Es inteligente!
+A variety of books about transportation methods.
+Una variedad de libros sobre métodos de transportación.
+They've been so thoroughly bookmarked that they look feathered.
+Han sido marcados tan minuciosamente que parecen estar empluados.
+Bits of Whimsicott fluff are stuck to the tips of the leaves.
+Pizcas de algodón de Whimsicott están sobre las puntas de las hojas.
 [Map158]
 Thanks to my Swoobat's ability, it's completely code compliant for construction!
 ¡Gracias a la habilidad de mi Swoobat, cumple al pie de la letra el código para la construcción!
