@@ -13630,6 +13630,114 @@ Unfortunately, my sound system broke on the flight back, so now I need to either
 Desafortunadamente, mi sistema de sonido se rompió en el vuelo, así que tengo que o conseguir un nuevo sistema o que un Pokémon lo haga
 Asking my manager for another huge purchase is gonna suck...
 Pedirle a mi manager otra gran compra va a apestar...
+This Old Amber has been carved into a relief of a dog-like Pokémon.
+El Ámbar Viejo ha sido esculpido en un bajorrelieve de un Pokémon perro.
+This statue's smile feels malicious.
+La sonrisa de la estatua se siente maliciosa.
+It looms over you like it intends to devour you whole.
+La estatua se impone ante ti como si quisiera devorarte.
+This looks like an abstract painting of a garden.
+Parece ser un cuadro abstracto de un jardín.
+On closer inspection, it's a painting of Vivillion's wings!
+Al verlo más de cerca, ¡es un cuadro de las alas de Vivillon!
+Ahem.
+Ejem.
+Pardon, that's my tea you're eying.
+Disculpa, ese té que estás ojeado es mío.
+I'd offer to brew you a cup, had I a kettle on me.
+Te ofrecería una taza, si tuviera una tetera conmigo.
+Dash it all, I've had enough!
+¡Maldita sea, he tenido suficiente!
+That's MY tea you're ogling!
+¡Ese té con el que estás obsesionado es MÍO!
+I'm not sure why you're so fixated on it, but I simply cannot drink it with you staring like that.
+No sé por qué te obsesiona tanto, pero no puedo beberlo si me miras de ese modo.
+The gentleman behind the counter sputters a bit, but decides it's not worth it to chastise you.
+El caballero detrás del mostrador balbucea algo, pero decide que no vale la pena echarte la bronca.
+Its wings look like a Pokéball!
+¡Sus alas se asemejan a una Poké Ball!
+These flowers have a distinctive smell.
+Estas flores tienen un olor único.
+It almost reminds you of perfume...
+Te recuerda a un perfume...
+A tall pillar with a celestial symbol on top.
+Un pilar alto con un símbolo celestial.
+A sign claims it's a scale replica of a pillar found at the Altar of the Moone!
+¡Un letrero dice que es una réplica a escala de un pilar encontrado en el Altar de la Luna!
+It's full of packaging.
+Está llleno de embalaje.
+The King and First Champion of Galar.
+El rey y el primer campeón de Galar.
+...at least according to the plaque.
+...de acuerdo a la placa.
+Lined with classic literature.
+Repleto de literatura clásica.
+Most of the spines look uncracked.
+Parece que la mayoría no han sido abiertas.
+Hey, is that a surfboard? You surf?
+Hey, ¿es eso una tabla de surf? ¿surfeas?
+A sign claims it's a scale replica of a pillar found at the Altar of the Sunne!
+¡Un letrero dice que es una réplica a escala de un pilar encontrado en el Altar del Sol!
+These crates are covered in stickers.
+Estos contenedores estás cubiertos con stickers.
+It looks like imports from Orre go through heavy screening.
+Parece que las importaciones de Aura son revisadas minuciosamente.
+You see your reflection on the glass of the clock, as time ticks on.
+Ves tu reflejo en el cristal del reloj, mientras el tiempo sigue avanzando.
+These flowers are rustling slightly...
+Las flores están crujiendo...
+...a Flabébé peeks out of hiding!
+¡...un Flabébé sale entre ellas!
+This plant looks well-pruned.
+Esta planta parece estar bien podada.
+A globe, with Makya and various other regions highlighted.
+Un globo terráqueo en el que Makya y otras regiones están resaltadas.
+It shows the most common shipment routes between them.
+Muestra las rutas de envío más comunes entra ellas.
+Several different drawings of cheerful travel agency rooms.
+Diferentes dibujos de habitaciones de agencias de viaje.
+If these are serving as inspiration, this room has a long way to go.
+Si estas están sirviendo de inspiración, a esta habitación le falta bastante.
+A fancy pinboard, decorated with pictures of tropical sun.
+Un tablero elegante, decorado con imágenes de un sol tropical.
+Alongside the pictures are various pricing plans.
+Junto a las imágenes hay varios planes de pago.
+A painting of a Pokéball in the process of being made.
+Un dibujo de una Poké Ball aún sin terminar.
+A machine is about to join the top and bottom halves together.
+Una máquina está por unir las partes superiores e inferiores.
+A note identifies this as a Galarica shrub.
+Una nota identifica esto coomo un arbusto de Galanuez.
+It looks like some twigs have been snapped off.
+Parece que algunas ramas han sido quebradas.
+A display of colorful brochures.
+Una muestra de folletos coloridos.
+Some are focused on regional battle specialties, while others highlight nature and culture.
+Algunos se centran en especialidades de combate regionales, mientras que otros resaltan la naturaleza y cultura.
+Nothing's on display yet.
+Aún no hay nada en muestra.
+Someone left a half-empty can of lemonade on one of the shelves.
+Alguien dejó una lata de limonada medio vacía en uno de los estantes.
+It flutters its Fancy-patterned wings!
+¡Revolotea sus alas de Motivo Fantasía!
+This statue's smile feels benevolent and kind.
+La sonrisa de la estatua se siente benevolente y amable.
+It peers down at you protectively.
+Te observa de manera protectora.
+A painting of a garden.
+El dibujo de un jardín.
+The closer you look, the more Fairy-types you see!
+¡Cuanto más de cerca lo ves, ves más tipos Hada!
+A painting of the countryside from a cottage window.
+Un dibujo de un paisaje desde la perspectiva de una ventana.
+Flocks of Wooloo mirror the clouds in the sky.
+Un rebaño de Wooloo reflejan las nubes en el cielo.
+Its wings are the color of a Sandstorm.
+Sus alas son del color de una Tormenta de Arena.
+This plant is fake.
+Esta planta es falsa.
+Its leaves are made of cheap plastic.
+Sus hojas están hechas de un plástico barato.
 [Map160]
 
 A small feeding bowl, refilled as needed by the Estate Caretaker.
@@ -13871,7 +13979,35 @@ Would you like to purchase an Ocean Fishing Contest trip?
 ¿Quieres comprar un viaje al Concurso de Pesca Oceánica?
 You hand back the Big Pearl.
 Devuelves la Gran Perla.
+Oh, no payment required for entry!
+¡Oh, no tienes que abonar la entrada!
+This is just for the gift shop.
+Esto es solo para la tienda de regalos.
+This plant is thriving in the humid air.
+Esta planta está prosperando bajo el aire húmedo.
+A stack of Magikarp plushies.
+Una pila de peluches de Magikarp.
+They're large enough that they'd be hard to carry around.
+Son lo suficientemente grandes como para que no sea fácil de llevarlos.
+It's open to a forum page.
+Una página de un foro está abierta.
+Dozens of blurry photos of a large, white Pokémon are being discussed.
+Se están discutiendo docenas de fotos borrosas de un gran Pokémon blanco.
+One user insists it's a Flygon.
+Un usuario insiste en que es un Flygon.
+It holds snacks you can feed to the Pokémon here.
+Puedes tomar aperitivos para alimentar a los Pokémon.
+Fishing Contest! Sign up here!
+¡Concurso de pesca! ¡Regístrate aquí!
+Brochures advertising cruises, fishing trips, and submarine dives.
+Folletos anunciando cruceros, viajes de pesca y en submarino.
+Brochures advertising other aquariums and Pokémon sanctuaries.
+Folletos anunciando otros acuarios y santuarios Pokémon.
+Thanks! It's a pretty cool rock, huh?
+¡Gracias! Es una roca muy genial, ¿no crees?
 [Map166]
+You touch a leaf and realize it's plastic.
+Tocas una hoja y te das cuenta de que es de plástico.
 Whatd'ya say?
 ¿Qué dices?
 Ah, you must be the new intern.
@@ -13940,9 +14076,55 @@ Don't give coffee.
 No dar café.
 Give coffee.
 Dar café.
-
+'Ey, this is private!
+¡Ey, esto es privado!
+He turns the screen away from you.
+Aparta la pantalla de ti.
+You're almost entirely sure he's doing a crossword.
+Ciertamente parece que está haciendo un crucigrama.
+A half-finished crossword is still on the screen.
+Un crucigrama a medio terminar sigue en la pantalla.
+Dense books on commercial law.
+Libros densos sobre ley comercial.
+"Insurance: The Easiest Coverup"
+"Seguros: la cortina de humo perfecta"
+You pick up the book and the sleeve slips off!
+¡Tomas el libro y la funda se resbala!
+"Blackmail: How to Get Rich Quick"
+"Sobornos: cómo volverte rico rápidamente"
+Names are written under almost every day.
+Se escriben nombres casi cada día.
+Sst! Hands off!
+¡Sst! ¡No tocar!
+He moves the phone reciever back to his ear.
+Se vuelve a colocar el receptor en su oreja.
+Sorry 'bout that, some people don't understand the concept of personal property. Anyways...
+Disculpa, algunas personas no entienden el concepto de propiedad privada. Como sea...
+Several notes are about the weaknesses of various clients.
+Varias notas sobre las debilidades de varios clientes.
+...none of them are names you know.
+...no reconoces ninguno de ellos.
+There's so many tabs open, you can't even see the icons.
+Hay tantas pestañas abiertas que ni siquiera puedes ver los íconos.
+The title "Protection Rackets for Dummies" stands out to you.
+Te llama la atención el título "Cómo defraudar sin morir en el intento".
+You sneak a peek at an open email.
+Le echas un vistazo a un email abierto.
+"Keep an eye out for that ranger, she might hire someone to sneak around."
+"Échale un ojo a esa ranger, puede que contrate a alguien para infiltrarse."
+...you casually walk away.
+...casualmente te alejas.
+Someone has hastily scribbled over the laptop screen with a sharpie.
+Alguien ha escrito sobre la pantalla de la laptop con un bolígrafo.
+Binders thick with paperwork.
+Carpetas llenas de papeleo.
+A familiar name stands out!
+¡Reconoces uno de los nombres!
+"Don't even try to mess with Tamarind. Threats don't mean anything to her."
+"No te atrevas a molestar a Tamarind. Las amenazas no funcionan con ella."
 [Map168]
-
+These flowers are a little dry.
+Estas flores están algo secas.
 W-what is the meaning of this?
 ¿C-cuál es el significado de esto?
 You said we had privacy!
@@ -13967,6 +14149,17 @@ Un pequeño bowl de alimentación, rellenado apropiadamente por la Cuidadora del
 [Map170]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
 Un pequeño bowl de alimentación, rellenado apropiadamente por la Cuidadora del Terreno.
+[Map171]
+A painting of the view outside the office.
+Un dibujo de la vista fuera de la oficina.
+A safety net of important contacts.
+Un buen número de contactos importantes.
+Seems like a lot of government officials in other regions owe favors.
+Parece que varios oficiales de gobierno en otras regiones deben favores.
+The computer is password protected.
+Está computadora está protegida con una contraseña.
+A calendar so full, most of the events are abbreviated.
+Un calendario tan lleno que la mayoría de eventos están abreviados.
 [Map172]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
 Un pequeño bowl de alimentación, rellenado apropiadamente por la Cuidadora del Terreno.
@@ -14059,9 +14252,37 @@ No
 No
 Yes
 Sí
-
+A poster for DJ Damned Souls.
+Un póster de DJ Damned Souls.
+They're using a pair of Spiritomb in place of turntables.
+Está usando un par de Spiritomb en lugar de tocadiscos.
+Large speakers with a small Exploud etched on the side.
+Grandes altavoces con pequeños Exploud grabados a los costados.
+These flowers have a peppery scent to them.
+Estas flores tienen un aroma a pimienta.
+A poster for the band Wallflower Terrain.
+Un póster de la banda Wallflower Terrain.
+It's four of the saddest looking men you've ever seen, and a single Kricketune.
+En la imagen puedes ver los cuatro hombres más tristes que has visto en tu vida, y un Kricketune.
+This chair is incredibly wobbly.
+La silla está muy tambaleante.
+It's playing a music video!
+¡Está reproduciendo un video musical!
+A pair of stylish girls dance with a Haerobic between them.
+Un par de chicas con estilo bailan junto a un Haerobic entre medio de ellas.
+Someone drew a Mankey saying a swear word on the back of this chair!
+¡Alguien dibujó a un Mankey insultando en parte trasera de esta silla!
+A band is using the power of their music to fight a large shadowy beast.
+Una banda está usando el poder de su música para luchar contra una bestia malvada.
+There's glitter all over this chair.
+Esta silla está repleta de purpurina.
+Several band stickers cover the back of this chair.
+En la parte trasera de la silla hay stickers de diferentes bandas.
+"ELECTRIQUE", "Lil Mime Junior", and "OHKO Queen" are prominently featured.
+"ELECTRIQUE", "Lil Mime Junior" y "OHKO Queen" te llaman la atención.
 [Map175]
-
+A very dusty-looking PC. It must not have been in use in a very long time.
+Una PC muy polvorienta. Parece que no ha sido usada en mucho tiempo.
 I don’t know what’s inside.
 No sé qué está dentro.
 I don’t know why the door’s there.
@@ -15298,6 +15519,8 @@ It's honest work, and we get to have a little fun with it.
 Es trabajo honesto, y nos podemos divertir un poco con ello.
 Good battle, Trainer. I'm sure everyone on the Stretch enjoyed watching that.
 Buen combate, Entrenador. Estoy seguro que todo el Estrecho disfrutó ver eso.
+We're just making sure that the logs sent downstream by the local Bibarel don't clog up the waterway.
+Nos estamos asegurando que los troncos tirados río abajo por los Bibarel locales no obstruyan el canal.
 [Map186]
 
 South: Ice Cave
@@ -15466,6 +15689,90 @@ I 'spose I could run the Prizca Marathon.
 Supongo que podría correr en la Maratón Prizca.
 My day to day is preparin' me just fine.
 Mi día a día me está preparando para ello.
+Vanya is perfectly still, outside of the subtle rise and fall of their chest.
+Vanya no se mueve, fuera del sutil movimiento de su respiración.
+Their eyes are unblinking glass.
+Sus ojos son como un vidrio inmóvil.
+As you peer into them, you fall into a lull.
+Al observarlos, sientes los tuyos cerrarse.
+Peer deeper?
+¿Observas más profundo?
+You step away from Vanya.
+Te alejas de Vanya.
+You feel a burden lift itself from your mind.
+Sientes un peso liberarse de tu mente. 
+The snow picks up. The cold intensifies into a burn, and your hair stands on end.
+Empieza a nevar. El frío se intensifica en una quemadura, y tus pelos están de punta.
+That... was... sick!
+¡Eso... fue... increíble!
+Screw being Champion.
+Que se joda ser Campeón.
+How many Champions get to throw down with a partner like this?
+¿Cuántos Campeones tienen la oportunidad de pelear con un compañero como este?
+Thanks, Kyurem. And thanks, \PN.
+Gracias Kyurem. Y gracias, \PN.
+I got so caught up in my quest for perfection that I forgot how much fun this was.
+Me obsesioné tanto en mi búsqueda por la perfección que olvidé lo divertido que era esto.
+Dueling, I mean. I took it up because I love it, not just to be Champion.
+Los combates, me refiero. Lo empecé porque lo amo, no solo por el campeonato.
+There’s this job at the Skeevy Eevee that Aaron offered me.
+Aaron me ofreció un trabajo en el Eevee Mugriento.
+I could take it. Stay here, in Makya. Give myself a <i>break</i>.
+Podría tomarlo. Quedarme aquí en Makya. Darme un <i>descanso</i>.
+But keep battling in my free time. Keep dreaming for a tournament win.
+Pero seguiré combatiendo en mi tiempo libre. Debo seguir soñando una victoria en el torneo
+<i>Most</i> Champions don't summit on their very first run! Elise only won once, and she enters every year.
+¡La <i>mayoría</i> de Campeones no se coronan en su primer intento! Elise solo ganó una vez, y ella entra todos los años.
+Hah! I could become an Eevee expert, start beating people with only Eevees!
+¡Ja! ¡Podría volverme una experta en Eevee, enfrentarme a la gente con un equipo lleno de ellos!
+So, yeah... I could settle down for now, and try my best to win next year.
+Entonces, sí... podría asentarme por ahora, y darlo lo mejor el año que viene.
+Maybe it won't be the “perfect ending”, but it can still be... it can still be good enough.
+Puede que no sea un "final perfecto", pero puede ser... puede ser lo suficientemente bueno.
+I can still be good enough.
+Aún puedo ser lo suficientemente bueno.
+Thanks, \PN. I wouldn't have realized that if it weren't for you.
+Gracias, \PN. No me habría dado cuenta si no hubiera sido por ti.
+I saw what you were dealing with while we were in that place, you know.
+También ví con lo que estabas lidiando mientras estábamos en ese lugar, sabes.
+You've got a lot going on too, huh?
+¿Tienes mucho en tu cabeza, eh?
+Yet you still helped me.
+Y aún así me ayudaste,
+Makya in crisis, and you still helped me.
+Makya está en crisis, y aún así me ayudaste.
+Dhanyavada very much!
+¡Dhanyavada!
+Now, you’re wondering how all this happened.
+Ahora, te preguntaras cómo ocurrió todo esto.
+I meddled with something that... I definitely shouldn’t have.
+Me metí con algo que... definitivamente no tendría que haber tocado.
+A stone that Team Chasm had locked away.
+Una piedra que el Team Chasm había asegurado.
+Thought it was harmless until it, you know, absorbed my mind...
+Pensé que era inofensiva hasta que, bueno, absorbió mi mente...
+Here, maybe you can find a way to destroy this thi —?
+Toma, a lo mejor puedes encontrar una manera de destru... 
+What the heck?!
+¡¿Qué demonios?!
+Uh, well. Change of plans.
+Eh, bueno. Cambio de planes.
+Here’s a thank you gift. You need it more than I do.
+Toma este regalo de agradecimiento. Lo necesitas más que yo.
+That freaky stone... transformed into this.
+Ese orbe extraño... se transformó en esto.
+I’m gonna try to not think too hard about how that works...
+Voy a intentar no pensar cómo funciona eso...
+Well then, I’m off to Prizca East.
+Bueno, me voy a Prizca Oriental.
+Bring Kyurem next time we fight, okay, \PN?
+\PN, hazma un favor y trae a Kyurem en nuestro próximo combate, ¿ok?
+Bye byeeeeee!
+¡Adiooooooos!
+The flowing water, the luscious flowers...
+El agua corriendo, las flores preciosas...
+Whoa, it's cold!
+¡Wow, está frío!
 [Map187]
 I saw a famous singer appear out of thin air.
 Ví a un cantante famoso aparecer de la nada.
@@ -15881,6 +16188,36 @@ But my little menace has more energy than I know what to do with.
 Pero mi pequeña bestia tiene mucha más energía de lo que puedo controlar.
 I had to find an outlet!
 ¡Tuve que encontrarle una salida!
+"Emma's Empoloreum!"
+"¡Empolorio de Emma!"
+A Piplup standee points you to the door.
+El cartel de un Piplup apunta a la puerta.
+An Empoleon standee points you to the door.
+El cartel de un Empoleon apunta a la puerta.
+Condensed sweat fogs the window.
+La ventana está empañada con sudor condensado.
+"Ta-ta!"
+"¡Ta-ta!"
+I'm not just doing errands right now, though.
+Pero ahora no estoy haciendo cualquier mandado.
+A poster for an upcoming show. A notice says it's almost sold out!
+Un póster para un show venidero. ¡Un aviso dice que casi no quedan entradas!
+Next to it is a calendar of other upcoming events.
+A su lado hay un calendario con otros eventos venideros.
+A lineup for an upcoming music festival.
+El reparto del festival musical venidero.
+Electrique!, Mandibles of the Land, OHKO Queen, HippowDon't... it's a long list.
+¡Electrique!, Mandibles of the Land, OHKO Queen, HippowDon't... es una lista larga.
+Museum-quality artifacts behind shiny metal bars.
+Artefactos de calidad detrás de barras metálicas brillantes.
+This man doesn't notice you, he seems to be rambling to someone over the phone.
+El hombre no parece prestarte atención, parece estar hablando con alguien por teléfono.
+You don't see a phone though. Maybe an earpiece?
+Pero no ves ningún teléfono. ¿Quizás es un auricular?
+"TMs you NEED at prices you WANT!"
+"¡MTs que NECESITAS a los precios que QUIERES!"
+"Phones, batteries, accessories-- you name it, we have it!"
+"Celulares, baterías, accesorios... lo que sea, lo tenemos!"
 [Map188]
 
 People are always doing cool things here!
@@ -16029,6 +16366,18 @@ Ah well, I suppose I should pick up a second hobby. Let's battle again one day, 
 Oh bueno, supongo que debería conseguirme un segundo hobby. Combatamos algún otro día, Entrenador.
 To be honest, I was nervous -- being the returning champion and all. I suppose that will be you soon enough.
 Para serte honesta, estaba nerviosa -- siendo la campeona recurrente y todo. Supongo que pronto ese serás tú.
+Amidst the real antiquity of the castle, the false weathering on the shop sign stands out.
+Entre la antigüedad real del castillo, el desgaste artificial del cartel de la tienda te llama la atención.
+Probably best to leave them alone.
+Probablemente es mejor dejarlos en paz.
+Once you take the candy out of the baby's hands, they begin wailing loudly.
+Una vez tomas el caramelo de las manos del bebé, empieza a llorar desconsoladamente.
+It doesn't look like they will stop any time soon.
+No parece que vaya a parar en ningún momento.
+Ignore them.
+Ignorarlo.
+Take their candy.
+Tomar su caramelo.
 [Map189]
 
 \PN…
@@ -16153,6 +16502,12 @@ I can't - you make Alessa look like a rank-and-file grunt.
 No puedo - haces parecer a Alessa una recluta de poca monta.
 I'm… glad to be your rival. Thanks.
 Me... alegra ser tu rival. Gracias.
+I - the extraction's wrapping up. I have to get going.
+Eh - la extracción está terminando. Tengo que irme.
+If you find me again, we'll have a real battle.
+Si me encuentras de nuevo, tendremos un combate de verdad.
+Bye, for now.
+Adiós, por ahora.
 [Map191]
 
 I'll take your Pokémon for a few seconds.
@@ -16447,6 +16802,34 @@ Coincidentally, it's the exact same date as the Championship Tournament.
 Casualmente, es exactamente la misma fecha que el Campeonato.
 Perhaps you should come back after that's completed.
 Quizás deberías regresar una vez que eso termine.
+This recycle bin has some plastic candy wrappers in it.
+El cubo de reciclaje tiene envoltorios de caramelos de plástico.
+The spine of "Makyan Battle Policies: Volume II" is heavily creased.
+El lomo de "Políticas de Combate Makya: Volumen II" está muy arrugado.
+The poster details which regions allow trainers to use Makyan Pokémon in league-official battles.
+El póster detalla las regiones en las que los entrenadores pueden usar Pokémon de Makya en combates oficiales.
+Ma'am, if you would!
+¡Señorita, por favor!
+A view of the Eleig river from a quiet vantage point in town.
+La vista del río Eleig desde un punto de observación en el pueblo.
+You wait for a representative to show up.
+Esperas a que un representante aparezca.
+Looks like nobody's free.
+Parece que nadie está libre.
+A bust of a stiffly-dressed man.
+Un busto de un hombre bien vestido.
+You don't recognize him.
+No lo reconoces.
+...This is private constituent info.
+...Esta es informacíon constituyente privada.
+Can you not?
+¿Podrías abstenerte?
+A dense folio of petitions.
+Un folio denso de peticiones.
+A recycle bin stacked heavy with papers.
+Un cubo de reciclaje hasta arriba de papeles.
+An assortment of books on Makyan history and law.
+Una variedad de libros de historia y leyes de Makya.
 [Map195]
 
 It's a beautifully carved ice sculpture of a Grumpig.
@@ -16659,6 +17042,46 @@ Not right now.
 No ahora mismo.
 You bet.
 Seguro.
+A painting of a flower.
+El dibujo de un flor.
+The longer you look, the more Flabébé you notice!
+¡Cuanto más miras, notas más Flabébé!
+It's an overhead view of a Pokémon gym!
+¡Es la vista superior del gimnasio!
+Did the gym look like this before Noel took over?
+¿Así se veía el gimnasio antes de que Noel lo tomara?
+A painting of a house by a pond.
+El dibujo de una casa cerca de un estanque.
+The reflections in the water are broken only by the ripples of falling leaves.
+Los reflejos en el agua son rotos por las ondas que forman las hojas caídas.
+A clear glass statue of a Pidgeotto.
+Una estatua de un Pidgeotto hecha de cristal claro.
+When put between the ice statues, the shape of the blown glass stands out!
+¡Al colocarla entre estatuas de hielo, sobresale la figura del vidrio soplado!
+This canvas is empty.
+El lienzo está vacío
+...or is it an all-white painting?
+¿...es un cuadro completamente en blanco?
+A bust of a smiling man.
+El busto de un hombre sonriente.
+If you tilt your head, it looks like a Zoroark!
+¡Si giras la cabezas, parece un Zoroark!
+The light shining through the flower petals is enchanting.
+La luz filtrándose por los pétalos es encantadora.
+The face of this statue seems vaguely familiar.
+La cara de esta estatua parece vagamente familiar.
+It's a graphite sketch of the Gym's Greeter!
+¡Es un boceto de grafito del Recepcionista del Gimnasio!
+An ice sculpture of a bird Pokémon.
+Una escultura de hielo de un Pokémon pájaro.
+Wait....
+Espera....
+It's glass, carefully crafted to look like ice!
+¡Es vidrio, construido con cuidado para parecer hielo!
+It's an abstract landscape.
+Es un paisaje abstracto.
+Things seem less and less realistic the further away they are.
+Las cosas parecen menos y menos realistas cuanto más te alejas.
 [Map196]
 Casaba Island is home to wonderful waterfront properties, but people are scared of the next wave -- lavafront!
 La Isla Casaba es hogar de maravillosas propiedades con vista a la lava, pero la gente le tiene miedo a la siguiente ola -- ¡vista a la lava!
@@ -16700,6 +17123,38 @@ Yes
 Sí
 No
 No
+It's a rough sketch of the flowers on the table.
+Es un boceto de las flores en la mesa.
+Only a few parts have been painted so far.
+Solo han sido pintadas algunas partes.
+Full of crumpled old sketches.
+Lleno de bocetos arrugados.
+A palette coated in a thick layer of paint. Next to it is a glass of paint water.
+Una paleta cubierta en una gruesa capa de pintura. A su lado hay un vaso con acuarela.
+The desktop is littered with reference images.
+El escritorio está lleno con imágenes de referencia.
+Anatomical reference books of Pokémon and humans.
+Referencia de anatomía de Pokémon y humanos.
+There's clay-dusty fingerprints are all over.
+Está cubierto de huellas dactilares polvorientas.
+The subject of the painting in progress. Mess with them?
+El sujeto del cuadro en progreso. ¿Lo arruinas?
+You rearrange the flowers a bit.
+Mueves las flores de lugar.
+Now the painting doesn't look right anymore.
+Ahora el cuadro no se ve correcto.
+You decide to leave them where they are.
+Decides dejarlas en paz.
+You can't put the flowers back exactly as they were.
+No puedes colocar las flores en el lugar exacto en el que estaban.
+Better not mess things up further.
+Ya mejor dejas de arruinar las cosas.
+The sink is stained with paints and clay residue.
+El fregadero está manchado con pinturo y residuos de arcilla.
+The fridge has a few containers of pre-made meals.
+La nevera tiene varios contenedores con comidas pre-hechas.
+There's an ice statue of a Murkrow in the freezer!
+¡Hay una estatua de hielo de Murkrow en el freezer!
 [Map198]
 
 The way is blocked by a wooden panel.
@@ -16745,6 +17200,36 @@ Lemonade - $350
 Limonada - $350
 Cancel
 Cancelar
+It looks like it's... wearing eyeliner?
+Parece que está... ¿usando delineador!
+Locked cabinets displaying imported Sinnohan contest-wear.
+Gabinetes mostrando vestuarios para concursos importados de Sinnoh.
+It looks very stylish, covered in glitter dust.
+Se ve muy chic, cubierto en polvo brillante.
+Filled with treats that are much cheaper overseas.
+Lleno de aperitivos que son mucho más baratos en el extranjero.
+Empoleon does not cry out!
+¡Empoleon no chilla!
+It looks like it's desperately trying to keep a very small hat on its head.
+Parece que está desesperadadamente intentando mantener un sombrero muy pequeño en su cabeza.
+Cushions with a small Piplup pattern.
+Almohadones con un patrón de Piplup pequeño.
+This Empoleon's feathers are incredibly sleek and shiny.
+Las plumas del Empoleon son increíblemente lisas y brillantes.
+Cushions with a small Chimchar pattern.
+Almohadones con un patrón de Chimchar pequeño.
+....it's much dustier than the other stack.
+....tiene mucho más polvo que la otra pila
+A variety of imported toys and figures.
+Una variedad de juguetes y figuras importadas.
+Many of them feature Piplup and its evolutions playing and battling.
+La mayoría muestran a Piplup y sus evoluciones jugando y combatiendo.
+A small bow is clipped to its head.
+Un pequeño listón está sujeto a su cabeza.
+Signed photographs of contest stars, some marked with the footprint of their Pokémon partner.
+Autógrafos de estrellas de concursos, algunos marcados con las huellas de sus Pokémon.
+It's unclear if these are for sale, or just to show off.
+No está claro si estas están a la vente, o solo de muestra.
 [Map201]
 Our tour guide said to not go down into the Ice Cave, but I just couldn't resist...
 Nuestro guía turístico nos dijo que no vayamos a la Cueva Hielo, pero no pude resistirlo...
@@ -16756,6 +17241,34 @@ I just want to put this behind me, and you seem like the unscrupulous type, so h
 Sólo quiero que esto quedé atrás, y parece del tipo sin escrúpulos, así que toma.
 Ahh... now I can just enjoy my vacation in peace.
 Ahh... ahora puedo disfrutar de mi vacación en paz.
+A Carracosta shell fossil!
+¡Un fósil de Carracosta!
+...a small sign identifies it as a replica.
+...un cartel lo identifica como una réplica.
+An impressive fossil is wired into a lifelike posture.
+Un impresionante fósil está colocado en una postura vívida.
+It's easy to imagine it moving.
+Es fácil imaginarlo moviéndose.
+Lined with minerals. Some useful in battle, others just for display.
+Lleno de minerales. Algunos útiles en combate, otros de muestra.
+The plaque reads: "Aerodactyl Fossil"
+La placa dice: "Fósil de Aerodactyl"
+"Previously only documented through DNA found in Old Amber, the use of creative archaeology led to the discovery of the first full Aerodactyl skeleton in Makya."
+"Previamente solo documentado mediante ADN encontrado en el Ámbar Viejo, el uso de la arqueología creativa llevó al descubrimiento del primer esqueleto completo de Aerodactyl en Makya."
+Some nice looking pottery.
+Alfarería muy bonita.
+The label claims they were sculpted with clay dug from the Eleig River shores.
+La etiqueta dice que fueron esculpidas con arcilla conseguida de las orillas del Río Eleig.
+Thick glass surrounds this Claw Fossil.
+Un Fósil Garra dentro un grueso cristal.
+Books on fossil and mineral identification.
+Libros sobre fósiles e identificación de minerales.
+Thick glass surrounds this Old Amber.
+Un Ámbar Viejo dentro un grueso cristal.
+A globe made with inset stone.
+Un globo terráqueo hecho de piedra incrustada.
+A floral scent wafts through the air...
+Puedes oler un ligero aroma floral...
 [Map202]
 
 I'm gearing up for an expedition up north.
@@ -16788,6 +17301,20 @@ Just in time, too, since the very next day a sinkhole opened up inside the entra
 Y justo a tiempo, ya que al día siguiente un sumidero apareció cerca de la entrada.
 How strange is that?
 Bastante extraño, ¿no crees?
+A hefty catalogue featuring outdoor equipment.
+Un gran catálogo de equipamiento para el aire libre.
+Certain reasonably-priced items have been circled.
+Ciertos objetos con precios razonables han sido remarcados. 
+............!
+¡............!
+You almost absentmindedly touched a hot burner.
+Casi tocas el quemador caliente.
+A sizeable pot of stew takes up a large amount of space.
+Un bol de estofado cubre la mayoría del espacio.
+It looks a bit snug for two.
+Se ve acogedor para dos.
+A heavy pickaxe rests carefully on top of a flimsy- looking chest of drawers.
+Un pico pesado se asienta sobre una cómoda endeble.
 [Map203]
 
 This place used to just be a typical Eeveelution cafe.
