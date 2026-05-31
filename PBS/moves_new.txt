@@ -172,19 +172,6 @@ Flags = Sound
 Description = The user calls its team to a farm-fresh meal, sacrificing 25% HP to heal each of its party members by 25% HP.
 Animation = HEALBELL
 #-------------------------------
-[DISCOMBOBULATE]
-Name = Discombobulate
-Type = NORMAL
-Category = Adaptive
-Power = 75
-Accuracy = 0
-TotalPP = 5
-Target = NearOther
-FunctionCode = StartSwapAttackingStats5
-Flags = CanProtect
-Description = Alters the reality of the area to damage a foe. Puzzle Room is created for five turns.
-Animation = CONFUSERAY
-#-------------------------------
 [DRAINAGE]
 Name = Drainage
 Type = NORMAL
@@ -697,6 +684,19 @@ Target = UserSide
 FunctionCode = WishingWellScalesWithMoney
 Description = The user throws away up to 1000 scattered coins to bless its side, blocking random added effects and healing for 1/16th HP each turn. Lasts one turn per 100 coins.
 Animation = PAYDAY
+#-------------------------------
+[WORLDREVOLVING]
+Name = World Revolving
+Type = NORMAL
+Category = Adaptive
+Power = 75
+Accuracy = 0
+TotalPP = 5
+Target = NearOther
+FunctionCode = StartSwapAttackingStats5
+Flags = CanProtect
+Description = Alters the reality of the area to damage a foe. Puzzle Room is created for five turns.
+Animation = CONFUSERAY
 #-------------------------------
 [YOUNGAGAIN]
 Name = Young Again
@@ -1980,13 +1980,13 @@ Animation = SCORCHINGSANDS
 Name = Rotary Headbutt
 Type = GROUND
 Category = Physical
-Power = 40
+Power = 55
 Accuracy = 100
-TotalPP = 15
+TotalPP = 10
 Target = NearOther
-FunctionCode = HitThreeTimes
+FunctionCode = TwoTurnAttackInvulnerableUndergroundHitThreeTimes
 Flags = CanProtect
-Description = The user hits the target with each of its heads from underground. Strikes three times.
+Description = The user burrows, charging and becoming hidden, then attacks three times on the second turn.
 Animation = DIG
 #-------------------------------
 [RUMBLE]
@@ -2824,7 +2824,7 @@ TotalPP = 5
 Target = UserSide
 FunctionCode = StartUserSideLessDamageFromNonAttackDamage
 Flags = CanSnatch
-Description = The user makes a plea for survival, halving the damage their side takes from non-attack sources for eight turns.
+Description = The user makes a plea for survival, halving the damage their side takes from non-attack sources for ten turns.
 Animation = SAFEGUARD
 #-------------------------------
 [PATIENTBLADE]
@@ -8318,10 +8318,9 @@ Category = Status
 Accuracy = 0
 TotalPP = 1
 Target = User
-Priority = 6
 FunctionCode = GrantUserCrystalCaliburnChangeUserDiancieForm
 Flags = CanProtect,Slice
-Description = The user draws the Crystal Caliburn, which empowers light and slice moves and transforms the holder into Royal form.
+Description = The user draws the Crystal Caliburn, which empowers light and slice moves by 50% and transforms the holder into Royal form.
 Animation = DAZZLINGGLEAM
 #-------------------------------
 [GLAMOURFLASH]

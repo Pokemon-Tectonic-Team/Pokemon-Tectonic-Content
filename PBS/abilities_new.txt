@@ -1434,11 +1434,6 @@ Flags = HazardImmunity
 Name = Mist Trail
 Description = Pokémon that swap in for this have their Defense and Sp. Defense raised.
 #-------------------------------
-[MODUSSWITCH]
-Name = Modus Switch
-Description = When using Techno Blast, the user can choose the move's type, switching to that form.
-Flags = Immutable
-#-------------------------------
 [MOISTSKIN]
 Name = Moist Skin
 Description = If an attack lowers its HP below half, waterlogs the attacker.
@@ -1734,7 +1729,7 @@ Flags = SetupCounterAI
 [PRIMORDIALSEAL]
 Name = Primordial Seal
 Description = This Pokémon cannot enter the battle before Regidrago, Regice, Regirock, Registeel and Regieleki have.
-Flags = Immutable,UnableByDefault
+Flags = Immutable,UnableByDefault,BattleEndReviver
 #-------------------------------
 [PROTECTIVEINSTINCT]
 Name = Protective Instinct
@@ -1792,7 +1787,7 @@ Flags = ForceSignature
 #-------------------------------
 [RAINBOWGUARDIAN]
 Name = Rainbow Guardian
-Description = Reduces move damage taken by allies by 33% while this Pokémon is using a status move.
+Description = Protects other allies, reducing their move damage taken by 33% while this Pokémon is using a status move.
 #-------------------------------
 [RAINBOWTRAIL]
 Name = Rainbow Trail
@@ -2137,12 +2132,12 @@ Description = Falls asleep upon entry, but raises all of its stats by two steps.
 [SLUMBERINGSHIELD]
 Name = Slumbering Shield
 Description = Cannot enter battle until a Rusted Shield is dropped on the field or after ten turns. Upon entry, transforms into Crowned form.
-Flags = Immutable,UnableByDefault
+Flags = Immutable,UnableByDefault,BattleEndReviver
 #-------------------------------
 [SLUMBERINGSWORD]
 Name = Slumbering Sword
 Description = Cannot enter battle until a Rusted Sword is dropped on the field or after ten turns. Upon entry, transforms into Crowned form.
-Flags = Immutable,UnableByDefault
+Flags = Immutable,UnableByDefault,BattleEndReviver
 #-------------------------------
 [SNOOZEFEST]
 Name = Snoozefest
