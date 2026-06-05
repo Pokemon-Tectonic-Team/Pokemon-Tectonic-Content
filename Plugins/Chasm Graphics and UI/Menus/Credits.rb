@@ -57,13 +57,16 @@ Pria<s>Zufaix
 
 Quality Assurance
 ShadowKirbae<s>Chus
-EnterSP<s>envygender
-Errata<s>Splitmoon
+Emmi<s>EnterSP
+envygender<s>Errata
+Lilypad<s>Splitmoon
 TikiShades<s>ValourDyke
 
 Publicity
-IgnitedxSoul<s>Mary
+Emmi<s>IgnitedxSoul
+Lilypad<s>Mary
 Pepper<s>Pria
+Valrex
 
 Translation
 Fanfan<s>Valrex
