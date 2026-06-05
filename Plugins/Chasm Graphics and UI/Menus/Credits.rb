@@ -22,14 +22,16 @@ envygender<s>Errata
 Eseria<s>IgnitedxSoul
 Lilypad<s>Miss Zesty
 oddium wanderus<s>Pria
-Riptidecord<s>Steeb
-TikiShades<s>Tirankin
+Riptidecord<s>ShadowKirbae
+Steeb<s>TikiShades
+Tirankin
 
 Technical Design
 Zinnia<s>Agentbla
 Brickbat<s>Emmi
 envygender<s>Lilypad
-Riptidecord<s>ValourDyke
+Riptidecord<s>ShadowKirbae
+ValourDyke
 
 Programming
 Zinnia<s>LunaFlare
