@@ -20,10 +20,10 @@ Chus<s>Darlvon
 Emmi<s>EnterSP
 envygender<s>Errata
 Eseria<s>IgnitedxSoul
-Lilypad<s>oddium wanderus
-Pria<s>Steeb
+Lilypad<s>Miss Zesty
+oddium wanderus<s>Pria
+Riptidecord<s>Steeb
 TikiShades<s>Tirankin
-ZombyGoast
 
 Technical Design
 Zinnia<s>Agentbla
@@ -43,12 +43,12 @@ Errata<s>Nora
 ValourDyke<s>Wakarimasensei
 
 Art
-Atteathesilly<s>Destinygreatness
+Atteathesilly<s>DestinyGreatness
 Drawingbox<s>Jaggedthorn
 lichenprincess<s>Lodestar195
 M1ntyFr3shD4n<s>Manycrows
-noodleman<s>papper
-Pechapanda<s>ZombyGoast
+Miss Zesty<s>noodleman
+papper<s>Pechapanda
 
 Music
 LucaSantosSims<s>LunaFlare
