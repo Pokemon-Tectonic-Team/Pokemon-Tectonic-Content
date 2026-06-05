@@ -31,7 +31,6 @@ Zinnia<s>Agentbla
 Brickbat<s>Emmi
 envygender<s>Lilypad
 Riptidecord<s>ShadowKirbae
-ValourDyke
 
 Programming
 Zinnia<s>LunaFlare
