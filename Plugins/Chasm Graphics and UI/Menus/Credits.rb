@@ -63,10 +63,10 @@ Lilypad<s>Splitmoon
 TikiShades<s>ValourDyke
 
 Publicity
-Emmi<s>IgnitedxSoul
-Lilypad<s>Mary
-Pepper<s>Pria
-Valrex
+Atteathesilly<s>Emmi
+IgnitedxSoul<s>Lilypad
+Mary<s>Pepper
+Pria<s>Valrex
 
 Translation
 Fanfan<s>Valrex
