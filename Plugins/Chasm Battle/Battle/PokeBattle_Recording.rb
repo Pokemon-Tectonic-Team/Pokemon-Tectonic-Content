@@ -92,7 +92,7 @@ module PokeBattle_BattleRecorder
 
 	def pbEndOfBattle
 		saveBattle("Last battle") if @save_battle
-		save_random_log = true
+		save_random_log = false
 		saveRandomLog(@save_battle ? "random_record.txt" : "random_replay.txt") if save_random_log
 		super
 	end
