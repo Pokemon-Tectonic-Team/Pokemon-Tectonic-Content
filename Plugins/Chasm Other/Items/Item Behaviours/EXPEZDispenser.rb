@@ -5,15 +5,15 @@ class PokemonGlobalMetadata
 end
 
 ItemHandlers::UseOnPokemon.add(:EXPEZDISPENSER,proc { |item,pkmn,scene|
-	current_lvl = pkmn.level
-	current_exp = pkmn.exp
-	level_cap = LEVEL_CAPS_USED ? getLevelCap : growth_rate.max_level
-
 	# Do nothing if the EXP-EZ Dispenser is empty
 	if $PokemonGlobal.expJAR == 0
 		pbSceneDefaultDisplay(_INTL("There is no EXP stored!"),scene)
 		next false
 	end
+
+	current_lvl = pkmn.level
+	current_exp = pkmn.exp
+	level_cap = LEVEL_CAPS_USED ? getLevelCap : growth_rate.max_level
 
 	# Do nothing if the pokemon's already at the level cap
 	if pkmn.level >= level_cap
@@ -21,8 +21,27 @@ ItemHandlers::UseOnPokemon.add(:EXPEZDISPENSER,proc { |item,pkmn,scene|
 		next false
 	end
 
+	expAfterAllFed = pkmn.growth_rate.add_exp(current_exp, $PokemonGlobal.expJAR)
+	highestLevelForStoredEXP = pkmn.growth_rate.level_from_exp(expAfterAllFed)
+
+	# Do nothing if the EXP-EZ Dispenser is empty
+	if highestLevelForStoredEXP == current_lvl
+		pbSceneDefaultDisplay(_INTL("There is not enough EXP stored to level up!"),scene)
+		next false
+	end
+
+	# Player chooses the target level
+	params = ChooseNumberParams.new
+	choiceMaximum = [level_cap,highestLevelForStoredEXP].min
+	params.setRange(current_lvl+1, choiceMaximum)
+	params.setInitialValue(level_cap)
+	params.setCancelValue(0)
+	question = _INTL("Feed candy till {1} reaches which level?", pkmn.name)
+	targetLevel = pbMessageChooseNumber(question, params)
+	next true if targetLevel == 0
+
 	# Max XP and level
-	maxxp = pkmn.growth_rate.minimum_exp_for_level(level_cap)
+	maxxp = pkmn.growth_rate.minimum_exp_for_level(targetLevel)
 	
 	expAmount = [maxxp - current_exp, $PokemonGlobal.expJAR].min
 
@@ -30,16 +49,24 @@ ItemHandlers::UseOnPokemon.add(:EXPEZDISPENSER,proc { |item,pkmn,scene|
 	$PokemonGlobal.expJAR -= expAmount
 	pkmn.exp += expAmount
 	new_level = pkmn.level
-	pbFadeOutInWithMusic do
-		evo = PokemonFeedCandyScene.new
-		evo.pbStartScreen(pkmn, expAmount)
-		evo.pbFeedCandy
+	if $Options.expez_dispenser_animation == 1
 		if new_level == level_cap
 			pbSceneDefaultDisplay(_INTL("{1} gained only {3} Exp. Points due to the level cap at level {2}.", pkmn.name, level_cap, separate_comma(expAmount)),scene)
 		else
 			pbSceneDefaultDisplay(_INTL("{1} gained {2} Exp. Points!", pkmn.name, separate_comma(expAmount)),scene)
 		end
-		evo.pbEndScreen
+	else
+		pbFadeOutInWithMusic do
+			evo = PokemonFeedCandyScene.new
+			evo.pbStartScreen(pkmn, expAmount)
+			evo.pbFeedCandy
+			if new_level == level_cap
+				pbSceneDefaultDisplay(_INTL("{1} gained only {3} Exp. Points due to the level cap at level {2}.", pkmn.name, level_cap, separate_comma(expAmount)),scene)
+			else
+				pbSceneDefaultDisplay(_INTL("{1} gained {2} Exp. Points!", pkmn.name, separate_comma(expAmount)),scene)
+			end
+			evo.pbEndScreen
+		end
 	end
 	scene&.pbRefresh
 
