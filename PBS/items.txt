@@ -2672,11 +2672,11 @@ Description = A 3D printer which automatically copies consumed held items after 
 [EXPEZDISPENSER]
 Name = EXP-EZ Dispenser
 NamePlural = EXP-EZ Dispensers
-Pocket = 3
+Pocket = 8
 Price = 0
-FieldUse = OnPokemon
+FieldUse = Direct
 Flags = KeyItem
-Description = A machine that stores EXP Candy and excess EXP. Use it on your Pokémon to feed them candy.
+Description = A machine that stores excess EXP. You can activate it to turn that stored EXP into candies.
 #-------------------------------
 [UNIVERSALFORMALIZER]
 Name = Universal Formalizer
