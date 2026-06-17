@@ -3,5 +3,4 @@
 def giveBattleReport
   increaseLevelCap(5)
 end
-LEVEL_CAPS_PREVENT_BATTLE_EXP = false
-LEVEL_CAPS_PREVENT_RARE_CANDIES = false
+LEVEL_CAPS_USED = false
