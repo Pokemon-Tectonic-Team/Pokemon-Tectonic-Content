@@ -35,7 +35,7 @@ module Settings
     #=============================================================================
   
     # The amount of money the player starts the game with.
-    INITIAL_MONEY        = 3000
+    INITIAL_MONEY        = 10_000
     # The maximum amount of money the player can have.
     MAX_MONEY            = 999_999_999
     # The maximum number of Game Corner coins the player can have.
@@ -45,7 +45,7 @@ module Settings
     # The maximum amount of soot the player can have.
     MAX_SOOT             = 9_999
     # The maximum length, in characters, that the player's name can be.
-    MAX_PLAYER_NAME_SIZE = 10
+    MAX_PLAYER_NAME_SIZE = 15
     # The maximum number of Pokémon that can be in the party.
     MAX_PARTY_SIZE       = 6
   
@@ -229,6 +229,7 @@ module Settings
             [0, SPIRIT_ATOLL_VISITED_SWITCH, 0, 0, "Spirit Atoll", false],
             [0, BARREN_ISLAND_VISITED_SWITCH, 0, 0, "Barren Island", false],
             [0, WINDBORN_ISLAND_VISITED_SWITCH, 0, 0, "Windborn Island", false],
+            [0, HOLLOWED_LAYER_VISITED_SWITCH, 0, 0, "Hollowed Layer", false],
         ]
     end
   
@@ -425,6 +426,7 @@ module Settings
             _INTL("Type"),
             _INTL("Tribe"),
             _INTL("Total"),
+            _INTL("Progression"),
         ]
     end
 end

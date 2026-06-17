@@ -236,7 +236,7 @@ end
 
 #===============================================================================
 # Ingrains the user. Ingrained Pokémon gain 1/16 of max HP at the end of each
-# round, and cannot flee or switch out. (Ingrain)
+# round, and cannot flee or switch out.
 #===============================================================================
 class PokeBattle_Move_StartHealUserEachTurnTrapUser < PokeBattle_Move
     def pbMoveFailed?(user, _targets, show_message)
@@ -848,16 +848,16 @@ end
 class PokeBattle_Move_HealUserHalfOfTotalHPExtendScreens1 < PokeBattle_HalfHealingMove
     def pbEffectGeneral(user)
         super
-        pbOwnSide.eachEffect(true) do |effect, value, data|
+        user.pbOwnSide.eachEffect(true) do |effect, value, data|
             next unless data.is_screen?
-            pbOwnSide.effects[effect] += 1
-            @battle.pbDisplay(_INTL("{1}'s {2} was extended 1 turn!", pbTeam, data.name))
+            user.pbOwnSide.effects[effect] += 1
+            @battle.pbDisplay(_INTL("{1}'s {2} was extended 1 turn!", user.pbTeam, data.name))
         end
     end
 
     def getEffectScore(user, target)
         score = super
-        pbOwnSide.eachEffect(true) do |effect, value, data|
+        user.pbOwnSide.eachEffect(true) do |effect, value, data|
             next unless data.is_screen?
             score += 30
         end
@@ -951,7 +951,7 @@ class PokeBattle_Move_UserLosesQuarterHPPartyMembersHealQuarterHP < PokeBattle_M
     end
 
     def getEffectScore(user, _target)
-        score += getHPLossEffectScore(user, @hpFraction * 1.5) # intentionally higher than it looks like it should be
+        score = getHPLossEffectScore(user, @hpFraction * 1.5) # intentionally higher than it looks like it should be
         healableMembers = healableMembers(user)
         if healableMembers > 0
             score += 30 + healableMembers * 50

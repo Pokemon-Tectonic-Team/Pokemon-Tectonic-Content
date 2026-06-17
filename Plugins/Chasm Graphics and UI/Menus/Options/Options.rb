@@ -33,8 +33,10 @@ class Options
     attr_accessor :battle_transitions
     attr_accessor :tutorial_popups
     attr_accessor :dark_mode
+    attr_accessor :hide_unseen_species
     attr_accessor :forced_time_tint
     attr_accessor :aid_kit_animation
+    attr_accessor :expez_dispenser_animation
     attr_accessor :quick_evolution
     attr_accessor :name_on_showcases
     attr_accessor :flashing_weather
@@ -112,8 +114,10 @@ class Options
         @tutorial_popups                = $DEBUG ? 1 : 0 # (0=true, 1=false)
         @bag_sorting                    = 0 # (0=none,1=alphabetical,2=ID)
         @aid_kit_animation              = 0 # (0=true, 1=false)
+        @expez_dispenser_animation      = 0 # (0=true, 1=false)
         @quick_evolution                = 1 # (0=true, 1=false)
         @name_on_showcases              = 0 # (0=true, 1=false)
+        @hide_unseen_species            = 1 # All, Legends, None
     end
 
     def frame=(value)

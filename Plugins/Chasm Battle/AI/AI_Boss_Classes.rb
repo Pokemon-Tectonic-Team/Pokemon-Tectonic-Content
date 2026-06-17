@@ -49,7 +49,11 @@ end
 class PokeBattle_AI_KELDEO < PokeBattle_AI_Boss
     def initialize(user, battle)
         super
-        rejectPoisonMovesIfBelched
+        @beginBattle.push(proc { |user, battle|
+            battle.pbDisplayBossNarration(_INTL("Keldeo gallops in to protect the King's tomb!"))
+            user.pbOwnSide.applyEffect(:HerosJourneyRevenge)
+        })
+        secondMoveEveryOtherTurn(:SECRETSWORD)
     end
 end
 
@@ -185,7 +189,7 @@ class PokeBattle_AI_RAYQUAZA < PokeBattle_AI_Boss
         super
         @wholeRound += %i[STRATOSPHERESCREAM]
 
-        @warnedIFFMove.add(:DRAGONASCENT, {
+        @warnedIFFMove.add(:ATMOSPHERICBURST, {
             :condition => proc { |_move, _user, _target, battle|
                 next battle.turnCount == 0
             },
@@ -213,18 +217,22 @@ end
 class PokeBattle_AI_MELOETTA < PokeBattle_AI_Boss
     def initialize(user, battle)
         super
-        @useMoveIFF.add(:RELICRECITAL, proc { |_move, user, _target, battle|
-            next battle.turnCount % 2 == 1 && user.lastTurnThisRound?
+        user.pokemon.ability_index = 1
+        @wholeRound += %i[RELICRECITAL]
+
+        @warnedIFFMove.add(:RELICRECITAL, {
+            :condition => proc { |_move, _user, _target, battle|
+                next battle.turnCount % 3 == 0
+            },
+            :warning => proc { |_move, user, _targets, _battle|
+                _INTL("{1} combines song and dance!",user.pbThis)
+            },
         })
-        @rejectMovesIf.push( proc { |move, user, _target, battle|
-            if user.form == 0
-                next true if %i[DOUBLEHIT CAPOEIRA].include?(move.id)
-            else
-                next true if %i[PSYBEAM ROUND].include?(move.id)
-            end
-            next false
-        }
-        )
+        firstMoveEveryOtherTurn(:CAPOEIRA)
+        secondMoveEveryOtherTurn(:HEADBUTT)
+        secondMoveEveryOtherTurn(:FEINTATTACK)
+        firstMoveEveryOtherTurn(:DIZZYPUNCH)
+        secondMoveEveryOtherTurn(:LOWSWEEP)
     end
 end
 
@@ -310,7 +318,7 @@ class PokeBattle_AI_CALYREX < PokeBattle_AI_Boss
                 next battle.rainy?
             },
             :warning => proc { |_move, user, _targets, _battle|
-                _INTL("{1} raises a hand towards the thunderclouds.",user.pbThis(true))
+                _INTL("{1} raises a hand towards the thunderclouds.",user.pbThis)
             },
         })
         secondMoveEveryOtherTurn(:WORKUP)
@@ -325,10 +333,45 @@ class PokeBattle_AI_CALYREX_1 < PokeBattle_AI_Boss
                 next battle.sunny?
             },
             :warning => proc { |_move, user, _targets, _battle|
-                _INTL("{1} opens its bulb towards the shining sun.",user.pbThis(true))
+                _INTL("{1} opens its bulb towards the shining sun.",user.pbThis)
             },
         })
         secondMoveEveryOtherTurn(:SLACKOFF)
+    end
+end
+
+##################################################
+# Tao Duo
+##################################################
+class PokeBattle_AI_RESHIRAM < PokeBattle_AI_Boss
+    def initialize(user, battle)
+        super
+        @useMoveIFF.add(:TRUEGLORY, proc { |_move, user, _target, battle|
+            next false if user.firstTurnThisRound?
+            next false if user.movesUsedLastTurn.include?(:TRUEGLORY)
+            anyFoeHasUnmodifiedStats = false
+            user.eachOpposing do |opp|
+                next if opp.hasAlteredStatSteps?
+                anyFoeHasUnmodifiedStats = true 
+            end
+            next anyFoeHasUnmodifiedStats
+        })
+    end
+end
+
+class PokeBattle_AI_ZEKROM < PokeBattle_AI_Boss
+    def initialize(user, battle)
+        super
+        @useMoveIFF.add(:IDEALWORLD, proc { |_move, user, _target, battle|
+            next false unless user.firstTurnThisRound?
+            next false if user.movesUsedLastTurn.include?(:IDEALWORLD)
+            anyFoeHasUnmodifiedStats = false
+            user.eachOpposing do |opp|
+                next unless opp.hasAlteredStatSteps?
+                anyFoeHasUnmodifiedStats = true 
+            end
+            next anyFoeHasUnmodifiedStats
+        })
     end
 end
 
@@ -386,6 +429,14 @@ DOUSEDRIVE: weakToWater, }
             else
                 battle.pbDisplayBossNarration(_INTL("{1} loads a {2}!",user.pbThis,GameData::Item.get(chosenItem).real_name))
                 user.giveItem(chosenItem)
+                newForm = case chosenItem
+                    when :SHOCKDRIVE then 1
+                    when :BURNDRIVE  then 2
+                    when :CHILLDRIVE then 3
+                    when :DOUSEDRIVE then 4
+                    else 0
+                end
+                user.pbChangeForm(newForm, "")
             end
         })
     end
@@ -500,14 +551,37 @@ class PokeBattle_AI_LINOONE < PokeBattle_AI_Boss
         @warnedIFFMove.add(:COVET, {
             :condition => proc { |_move, user, target, _battle|
                 # if we know the target's item, only use if it's stealable
+                invalidItem = false
                 target.eachAIKnownItem do |item|
-                    next false if target.unlosableItem?(item)
+                    invalidItem = true if target.unlosableItem?(item)
                 end
-                next target.hasAnyItem?
+                next target.hasAnyItem? && !invalidItem
             },
             :warning => proc { |_move, user, targets, _battle|
                 target = targets[0]
                 _INTL("{1} eyes {2}'s {3} with jealousy!",user.pbThis,target.pbThis(true),target.itemCountD)
+            },
+        })
+    end
+end
+
+class PokeBattle_AI_MHAEROBIC < PokeBattle_AI_Boss
+    def initialize(user, battle)
+        super
+        @warnedIFFMove.add(:LUNASUCRE, {
+            :condition => proc { |_move, user, target, _battle|
+                # if we know the target's item, only use if it's stealable
+                invalidItem = false
+                target.eachAIKnownItem do |item|
+                    invalidItem = true if target.unlosableItem?(item)
+                    # if the item is already an EXP Candy M, don't keep trying to Luna Sucre it
+                    invalidItem = true if item == :EXPCANDYM
+                end
+                next target.hasAnyItem? && !invalidItem
+            },
+            :warning => proc { |_move, user, targets, _battle|
+                target = targets[0]
+                _INTL("{1} takes aim at {2}'s {3}!",user.pbThis,target.pbThis(true),target.itemCountD)
             },
         })
     end
@@ -616,18 +690,27 @@ class PokeBattle_AI_ROTOM < PokeBattle_AI_Boss
     FORM_5_MOVESET = %i[PETALTEMPEST ARCLAMP]
     MOVESETS = [FORM_1_MOVESET,FORM_2_MOVESET,FORM_3_MOVESET,FORM_4_MOVESET,FORM_5_MOVESET]
 
+    def apply_form_moveset(user)
+        newMoveset = MOVESETS[user.form - 1].clone
+        newMoveset.push(:PRIMEVALDAZZLE) if user.avatarPhase == 1
+        user.assignMoveset(newMoveset)
+    end
+
     def initialize(user, battle)
         super
+        user.pokemon.ability_index = 1
         @beginTurn.push(proc { |user, _battle, turnCount|
             if turnCount != 0 && turnCount % 2 == 1
                 newForm = user.form + 1
                 newForm = 1 if newForm > 5
                 formChangeMessage = _INTL("The avatar swaps machines!")
                 user.pbChangeForm(newForm, formChangeMessage)
-                newMoveset = MOVESETS[newForm-1].clone
-                newMoveset.push(:PRIMEVALDAZZLE) if user.avatarPhase == 1
-                user.assignMoveset(newMoveset)
+                user.pokemon.ability_index = 1
+                apply_form_moveset(user)
             end
+        })
+        @onPhaseChange.push(proc { |user, _battle|
+                apply_form_moveset(user)
         })
     end
 end
@@ -1108,5 +1191,12 @@ class PokeBattle_AI_GENGAR < PokeBattle_AI_Boss
         super
         firstMoveEveryOtherTurn(:SPITEFULCHANT)
         secondMoveEveryTurn(:SPECTRALTONGUE)
+    end
+end
+
+class PokeBattle_AI_MTANGROWTH < PokeBattle_AI_Boss
+    def initialize(user, battle)
+        super
+        secondMoveEveryOtherTurn(:SYNTHESIS)
     end
 end

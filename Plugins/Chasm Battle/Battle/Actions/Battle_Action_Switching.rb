@@ -58,7 +58,7 @@ class PokeBattle_Battle
             partyScene.pbDisplay(_INTL("Avatars can't be switched out!")) if partyScene
             return false
         end
-        if @battlers[idxBattler].effectActive?(:RampageLocked)
+        if @battlers[idxBattler].effectActive?(:RampageLocked)  && @battlers[idxBattler].effectActive?(:Rampaging)
             partyScene.pbDisplay(_INTL("Rampaging Pokémon can't be switched out!")) if partyScene
             return false
         end
@@ -96,7 +96,7 @@ class PokeBattle_Battle
         end
         # Item effects that allow switching no matter what
         battler.eachActiveItem do |item|
-            return false if BattleHandlers.triggerCertainSwitchingUserItem(item, battler, self)
+            return false if BattleHandlers.triggerCertainSwitchingUserItem(item, battler, self, false)
         end
 
         # Other certain trapping effects
@@ -398,6 +398,8 @@ class PokeBattle_Battle
     #=============================================================================
     # Called at the start of battle only.
     def pbOnActiveAll
+        # Primeval Imposter activates first.
+        pbPriorityPrimevalImposter
         # Neutralizing Gas activates before anything.
         pbPriorityNeutralizingGas
         # Weather-inducing abilities, Trace, Imposter, etc.
@@ -409,6 +411,15 @@ class PokeBattle_Battle
         pbCalculatePriority
         # Check forms are correct
         eachBattler { |b| b.pbCheckForm }
+    end
+
+    # Called at the start of battle only; Primeval Imposter activates before Neutralizing Gas.
+    def pbPriorityPrimevalImposter
+        eachBattler do |b|
+            next if !b || b.fainted?
+            next unless b.hasAbility?(:PRIMEVALIMPOSTER)
+            BattleHandlers.triggerAbilityOnSwitchIn(:PRIMEVALIMPOSTER, b, self)
+        end
     end
 
     # Called at the start of battle only; Neutralizing Gas activates before anything.
@@ -440,10 +451,13 @@ class PokeBattle_Battle
         # Record money-doubling effect of Amulet Coin/Luck Incense
         @field.applyEffect(:AmuletCoin) if !battler.opposes? && battler.hasItem?(%i[AMULETCOIN LUCKINCENSE])
 
-        # Record money-doubling effect of Fortune ability
+        # Record money-increasing effect of Hard Worker ability
         @field.applyEffect(:HardWorker) if !battler.opposes? && battler.hasActiveAbility?(:HARDWORKER)
 
-        # Record money-doubling effect of Bliss ability
+        # Record money-increasing effect of Treasure Tracker ability
+        @field.applyEffect(:TreasureTracker) if !battler.opposes? && battler.hasActiveAbility?(:TREASURETRACKER)
+
+        # Record exp-increasing effect of Bliss ability
         @field.applyEffect(:Bliss) if !battler.opposes? && battler.hasActiveAbility?(:BLISS)
 
         # Reset poison ticking up
@@ -474,6 +488,21 @@ class PokeBattle_Battle
         eachOtherSideBattler(battler.index) do |enemy|
             enemy.eachActiveAbility do |ability|
                 BattleHandlers.triggerAbilityOnEnemySwitchIn(ability, battler, enemy, self)
+            end
+        end
+
+        # Announce immunity to passive trapping abilities (e.g. RUNNINGFREE)
+        eachOtherSideBattler(battler.index) do |enemy|
+            enemy.eachActiveAbility do |ability|
+                next unless BattleHandlers.triggerTrappingTargetAbility(ability, battler, enemy, self)
+                hasImmunity = false
+                battler.eachActiveAbility { |sa| hasImmunity = true if BattleHandlers.triggerCertainSwitchingUserAbility(sa, battler, self, false) }
+                battler.eachActiveItem { |si| hasImmunity = true if BattleHandlers.triggerCertainSwitchingUserItem(si, battler, self, false) }
+                next unless hasImmunity
+                pbShowAbilitySplash(enemy, ability)
+                battler.eachActiveAbility { |sa| BattleHandlers.triggerCertainSwitchingUserAbility(sa, battler, self, true) }
+                battler.eachActiveItem { |si| BattleHandlers.triggerCertainSwitchingUserItem(si, battler, self, true) }
+                pbHideAbilitySplash(enemy)
             end
         end
 

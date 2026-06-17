@@ -264,6 +264,13 @@ class PokemonOption_Scene_Speed < PokemonOption_Scene_Base
 				proc { |value| $Options.aid_kit_animation = value }
 			),
             EnumOption.new(
+                _INTL("EXP-EZ Dispenser Animation"),
+                _INTL("Whether to play an animation showing the Pokemon being fed candy by the EXP-EZ Dispenser."),
+                [_INTL("On"), _INTL("Off")],
+				proc { $Options.expez_dispenser_animation },
+				proc { |value| $Options.expez_dispenser_animation = value }
+			),
+            EnumOption.new(
                 _INTL("Quick Evolution"),
                 _INTL("Whether to shorten the cutscene that plays when a Pokémon evolves."),
                 [_INTL("On"), _INTL("Off")],
@@ -347,6 +354,15 @@ class PokemonOption_Scene_UserInterface < PokemonOption_Scene_Base
 					$Options.bag_sorting = value
 					$PokemonBag.sortItems if $scene.is_a?(Scene_Map)
 				}
+			),
+            EnumOption.new(
+                _INTL("Hide Unseen Species"),
+                _INTL("Which species should the MasterDex avoid spoiling?"),
+                [_INTL("All"), _INTL("Legends"), _INTL("None")],
+				proc { $Options.hide_unseen_species },
+				proc { |value|
+                    $Options.hide_unseen_species = value
+                }
 			),
             EnumOption.new(_INTL("Name on Showcase"),
                 _INTL("Whether or not to put your player name on Party Showcases."),
