@@ -50,7 +50,6 @@ class PokeBattle_Move_HealUserPositionNextTurn < PokeBattle_Move
     def getEffectScore(user, _target)
         score = (user.totalhp / user.level) * 40
         score -= wishTurns(user) * 10
-        score *= user.levelNerfMisc(0.5)
         return score
     end
 end

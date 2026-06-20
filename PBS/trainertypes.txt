@@ -2293,6 +2293,11 @@ BaseMoney = 32
 IntroBGM = AROMALADY
 CableClub = true
 #-------------------------------
+[WANDERER]
+Name = Wanderer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
 [WHIMSICALBOY]
 Name = Whimsical Boy
 Gender = Male

@@ -10,19 +10,6 @@ def useTarotAmulet
 	return true
 end
 
-ItemHandlers::UseFromBag.add(:TAROTAMULET,proc { |item|
-	useTarotAmulet
-	next 1
-})
-
-ItemHandlers::ConfirmUseInField.add(:TAROTAMULET,proc { |item|
-  next true
-})
-
-ItemHandlers::UseInField.add(:TAROTAMULET,proc { |item|
-	next useTarotAmulet
-})
-
 def tarotAmuletActive?
 	return $PokemonGlobal.tarot_amulet_active || false
 end

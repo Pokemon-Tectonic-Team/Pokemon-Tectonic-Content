@@ -40,20 +40,83 @@ Pokemon = KRICKETOT,8
 Pokemon = MVULPIX,9
     AbilityIndex = 0 # Gild
 #-------------------------------
-[YOUNGSTER,Harvey]
-Pokemon = LUVDISC,8
-    Moves = WIPEOUT,EAGERTICKLING,CHARM
-    AbilityIndex = 0 # Moist Skin
-Pokemon = SEEDOT,8
-    AbilityIndex = 0 # Air Lock
+[WANDERER,Kirb]
+Pokemon = DEINO,10
+    Name = Medusa
+    Gender = female
+    Shiny = yes
+    Moves = HISS,PLANTDOUBT
+    AbilityIndex = 0 # Vicious Cycle
+    Item = METRONOME
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 16,20,0,0,20,14
 #-------------------------------
 [LASS2,Sienna]
-Pokemon = PICHU,8
-    Moves = THUNDERSHOCK,PRANK,NUZZLE
+Pokemon = PICHU,9
+    Moves = THUNDERSHOCK,PRANK,NUZZLE,WATERGUN
     AbilityIndex = 0 # Extreme Voltage
-Pokemon = PONYTA,8
-    Moves = KINDLE,TREADON
+    Item = SHUCABERRY
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 10,20,1,19,20,0
+Pokemon = PONYTA,9
+    Moves = KINDLE,TREADON,HOP,IGNITE
     AbilityIndex = 1 # Heavy Duty Hooves
+    Item = SHUCABERRY
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 10,20,1,19,20,0
+Pokemon = POLIWAG,9
+    Moves = BREACH,KARATECHOP,DRAFT,CONFUSERAY
+    AbilityIndex = 0 # Heavy Duty Hooves
+    Item = MYSTICWATER
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 10,16,0,14,16,10
+#-------------------------------
+[YOUNGSTER,Harvey]
+Pokemon = LUVDISC,9
+    Moves = WIPEOUT,EAGERTICKLING,KICKSTART,WATERLOG
+    AbilityIndex = 1 # Moon Gaze
+    Item = MIRROREDROCK
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 11,20,0,19,20,0
+Pokemon = ARATTATA,10
+    Moves = BITE,QUICKATTACK,SUPERFANG,IRRITATE
+    AbilityIndex = 0 # Night Life
+    Item = DARKGEM
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 11,19,10,0,19,10
+Pokemon = SEEDOT,10
+    Moves = ESSENCEARROW,POWDERSNOW,GUST,THINAIR
+    AbilityIndex = 1 # Gale Force
+    Item = COURAGEBADGE
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 10,16,10,0,16,14
+#-------------------------------
+[YOUNGSTER3,Doug]
+Pokemon = CHARMANDER,11
+    Shiny = yes
+    Moves = EMBER,TWISTER,IGNITE,VACUUMWAVE
+    AbilityIndex = 0 # Pure Rage
+    Item = DRAGONFANG
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 10,11,6,19,11,4
+Pokemon = POPPLIO,10
+    Moves = BUBBLE,DISARMINGVOICE,SWEETKISS,ECHOEDVOICE
+    AbilityIndex = 0 # Tuned Out
+    Item = RINDOBERRY
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 10,10,20,0,10,10
+Pokemon = TURTWIG,10
+    Moves = MISTLETOE,TREADON,LEECHSEED,BITE
+    AbilityIndex = 1 # Living Armor
+    Item = OCCABERRY
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 20,10,10,0,10,10
+Pokemon = MAGNEMITE,9
+    Moves = THUNDERSHOCK,LUSTER,NUMB,CHARGE
+    AbilityIndex = 0 # Static
+    Item = MAGNET
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 10,10,19,0,10,11
 #-------------------------------
 [HIKER,Dave]
 Pokemon = GEODUDE,8

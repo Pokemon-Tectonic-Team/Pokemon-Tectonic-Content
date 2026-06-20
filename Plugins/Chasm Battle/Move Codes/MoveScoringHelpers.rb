@@ -545,8 +545,6 @@ def getMultiStatUpEffectScore(statUpArray, user, target, fakeStepModifier: 0, ev
 
     score = 0 if enemiesCanClearStats
     
-    score *= user.levelNerfMisc(0.6)
-    
     return score.ceil
 end
 
