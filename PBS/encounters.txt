@@ -598,6 +598,8 @@ FloweryGrass2,20,40,45
     20,MINCCINO,39,41
     20,SMEARGLE,39,41
     20,SNUBBULL,31,33
+Special,,40,45
+    1,RELICANTH,10
 #-------------------------------
 [192] # Field of Spires
 Land,20,60,60
