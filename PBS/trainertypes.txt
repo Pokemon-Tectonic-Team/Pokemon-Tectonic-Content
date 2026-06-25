@@ -2342,6 +2342,11 @@ BaseMoney = 40
 IntroBGM = BUSINESSMAN
 CableClub = true
 #-------------------------------
+[MINER]
+Name = Miner
+Gender = Male
+BaseMoney = 60
+#-------------------------------
 [WORKER2]
 Name = Worker
 Gender = Male

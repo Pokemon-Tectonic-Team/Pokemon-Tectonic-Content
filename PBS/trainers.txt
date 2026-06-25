@@ -164,11 +164,24 @@ Pokemon = MVULPIX,12
     EV = 11,12,8,19,12,0
 #-------------------------------
 [GENTLEMAN,Wilfrid]
-Pokemon = GROWLITHE,10
+Pokemon = GROWLITHE,12
+    Moves = EAGERTICKLING,KINDLE,IGNITE,BITE
     AbilityIndex = 0 # Intimidate
-Pokemon = CHEWTLE,10
-    Moves = HEADBANG,BREACH,BITE
+    Item = CADOBERRY
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 10,19,2,19,19,0
+Pokemon = CHEWTLE,12
+    Moves = BREACH,HEADBANG,BITE,RUMBLE
     AbilityIndex = 0 # Bitey
+    Item = CADOBERRY
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 17,12,11,0,12,10
+Pokemon = STARLY,11
+    Moves = WINGCRASH,SCUFFLE,QUICKATTACK,KINDLE
+    AbilityIndex = 1 # Reckless
+    Item = CADOBERRY
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 12,19,0,19,19,0
 #-------------------------------
 [NINJABOY,Matthew]
 Pokemon = BONSLY,12
