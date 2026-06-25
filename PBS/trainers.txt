@@ -33,13 +33,6 @@ Pokemon = PIKACHU,10
 Pokemon = SEEDOT,10
     AbilityIndex = 0 # Air Lock
 #-------------------------------
-[BUGCATCHER_F,Caitlyn]
-Policies = REMARKONSTARTER
-Pokemon = KRICKETOT,8
-    AbilityIndex = 0 # Fascinate
-Pokemon = MVULPIX,9
-    AbilityIndex = 0 # Gild
-#-------------------------------
 [WANDERER,Kirb]
 Pokemon = DEINO,10
     Name = Medusa
@@ -66,7 +59,7 @@ Pokemon = PONYTA,9
     EV = 10,20,1,19,20,0
 Pokemon = POLIWAG,9
     Moves = BREACH,KARATECHOP,DRAFT,CONFUSERAY
-    AbilityIndex = 0 # Heavy Duty Hooves
+    AbilityIndex = 0 # Clear Body
     Item = MYSTICWATER
     # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
     EV = 10,16,0,14,16,10
@@ -119,12 +112,56 @@ Pokemon = MAGNEMITE,9
     EV = 10,10,19,0,10,11
 #-------------------------------
 [HIKER,Dave]
-Pokemon = GEODUDE,8
-    Moves = ROCKTHROW,RUMBLE,ROCKPOLISH
-    AbilityIndex = 0 # Unbreakable
-Pokemon = TIMBURR,9
-    Moves = POUND,FRONTKICK,LEAFAGE
+Pokemon = AGEODUDE,11
+    Moves = TACKLE,ROCKTHROW,NUMB,SMUSH
+    AbilityIndex = 0 # Galvanize
+    Item = PASSHOBERRY
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 14,16,10,0,16,10
+Pokemon = TIMBURR,11
+    Moves = FRONTKICK,LEAFAGE,SHOTPUT,ROCKTHROW
     AbilityIndex = 0 # Expertise
+    Item = EXPERTBELT
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 11,19,10,0,19,10
+Pokemon = WOOPER,10
+    Moves = WIPEOUT,RUMBLE,EAGERTICKLING,WATERLOG
+    AbilityIndex = 1 # Water Absorb
+    Item = SITRUSBERRY
+#-------------------------------
+[BUGCATCHER_F,Caitlyn]
+Policies = REMARKONSTARTER
+Pokemon = KRICKETOT,13
+    Shiny = yes
+    Moves = CLACKACLACK,LULLABY,DIRGE,ECHOEDVOICE
+    AbilityIndex = 1 # Maestro
+    Item = METRONOME
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 11,20,2,6,20,11
+Pokemon = MWURMPLE,12
+    Moves = FEEDON,COLDEMBRACE,KINDLE,TACKLE
+    AbilityIndex = 1 # Flame Body
+    Item = NORMALGEM
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 10,10,20,0,10,10
+Pokemon = DUNSPARCE,11
+    Moves = GLARE,DRAFT,SANDTOSS,GLAMOURFLASH
+    AbilityIndex = 1 # Adapted
+    Item = FAIRYFEATHER
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 11,19,10,0,19,10
+Pokemon = CORPHISH,11
+    Moves = BREACH,DUNK,AQUAJET,RUMBLE
+    AbilityIndex = 0 # Filter
+    Item = SITRUSBERRY
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 11,13,14,0,13,12
+Pokemon = MVULPIX,12
+    Moves = DIRGE,LUSTER,FAKETEARS,CONFUSERAY
+    AbilityIndex = 1 # Luxury Taste
+    Item = COVERTCLOAK
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 11,12,8,19,12,0
 #-------------------------------
 [GENTLEMAN,Wilfrid]
 Pokemon = GROWLITHE,10
