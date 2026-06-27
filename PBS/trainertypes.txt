@@ -1136,6 +1136,11 @@ BaseMoney = 48
 IntroBGM = MONK
 CableClub = true
 #-------------------------------
+[MINER]
+Name = Miner
+Gender = Male
+BaseMoney = 60
+#-------------------------------
 [NECKBEARD]
 Name = Neckbeard
 Gender = Male
@@ -2341,11 +2346,6 @@ Gender = Male
 BaseMoney = 40
 IntroBGM = BUSINESSMAN
 CableClub = true
-#-------------------------------
-[MINER]
-Name = Miner
-Gender = Male
-BaseMoney = 60
 #-------------------------------
 [WORKER2]
 Name = Worker
