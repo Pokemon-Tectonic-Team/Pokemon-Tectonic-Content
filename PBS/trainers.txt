@@ -7807,19 +7807,26 @@ Pokemon = ARCHALUDON,70
 #-------------------------------
 [TRAINER_Eifion,Eifion,4]
 ExtendsVersion = 3
+Policies = CURSE_EXTRA_TYPES
 Pokemon = SWELLOW,70
+    ExtraTypes = ELECTRIC
     Item = SHELLBELL
 Pokemon = MANERGETIC,70
+    ExtraTypes = FIRE
     Item = LIFEORB
 Pokemon = MANAPHY,70
+    ExtraTypes = STEEL
     Item = SITRUSBERRY
 Pokemon = HOUNDOMINUS,70
+    ExtraTypes = NORMAL
     Moves = HYPERVOICE,UPINFLAMES,DESTINYBOND,DARKALLURE
     Item = THROATSPRAY
 Pokemon = OCTILLERY,70
+    ExtraTypes = GHOST
     Moves = HYDROPUMP,HEATWAVE,SHADOWBALL,BLIZZARD
     Item = WIDELENS
 Pokemon = ARCHALUDON,70
+    ExtraTypes = FLYING
 #-------------------------------
 [TRAINER_Alessa,Alessa,5]
 Policies = ALESSA_4,FEAR
