@@ -7792,26 +7792,66 @@ Pokemon = HEATRAN,70
 #-------------------------------
 [TRAINER_Skyler,Skyler]
 Flags = NoPerfect
-Pokemon = FLORGES,70
-    Moves = SYNTHESIS,MOONBLAST,PETALTEMPEST,NEURALPULSE
-    AbilityIndex = 0 # Beaming
+Pokemon = MMILOTIC,70
+    Moves = COLDFRONT,HELPINGHAND,LIGHTSCREEN,REFLECT
+    AbilityIndex = 0 # Rainbow Guardian
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 20,0,0,20,0,10
 Pokemon = JIRACHI,70
-    Moves = LIFEDEW,METEORMASH,LIGHTSCREEN,REFLECT
+    Moves = METEORMASH,PLAYROUGH,LIFEDEW,ZENHEADBUTT
     AbilityIndex = 0 # Wish Maker
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 20,20,0,10,20,0
 Pokemon = ABSOLUS,70
-    Moves = INFINITEFORCE,FLEURCANNON,AIRSLASH,KNOCKOFF
+    Moves = SNARL,DARKPULSE,ENCHANTEDARROW,HEATWAVE
     AbilityIndex = 1 # Infamous
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 10,20,0,20,20,0
+Pokemon = NIDOKING,70
+    Moves = TRAMPLE,POISONJAB,LIGHTNINGSLAM,INFERNOIMPACT
+    AbilityIndex = 0 # Sheer Force
+    Item = LIFEORB
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 10,20,0,20,20,0
+Pokemon = AEGISLASH,70
+    Moves = KINGSSHIELD,SWORDSDANCE,DISTURB,SLAY
+    AbilityIndex = 0 # Stance Change
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 20,20,10,0,20,0
+Pokemon = GRIMICE,70
+    Moves = SUCKERPUNCH,GLACIALCRUNCH,CRUNCH,ADAMANTINEPRESS
+    AbilityIndex = 0 # Flash Freeze
+    Item = LUMBERAXE
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 20,20,5,0,20,5
+#-------------------------------
+[TRAINER_Skyler,Skyler,1]
+ExtendsVersion = 0
+Policies = CURSE_AVATAR_GUARD
+Pokemon = MMILOTIC,70
+    Position = 0
+    Moves = REFLECT,LIGHTSCREEN,FRIGIDFLURRY,HELPINGHAND
+    Item = LIGHTCLAY
+Pokemon = ABSOLUS,70
+    Position = 2
+    Moves = DARKPULSE,HEATWAVE,BLIZZARD,SUPERSTITION
+    Item = PINWHEEL
+Pokemon = AEGISLASH,70
+    Moves = SLAG,DISTURB,KINGSSHIELD,DIAMONDFORCE
+    Item = CADOBERRY
 Pokemon = SIGILYPH,70
-    Moves = PULSAR,TAILWIND,ROOST,WINDTUNNEL
-    AbilityIndex = 0 # Repetition
-    Item = SITRUSBERRY
-Pokemon = PALMANTRA,70
-    Moves = NEURALPULSE,DRAINPUNCH,FAKEOUT,ENERGYBALL
-    AbilityIndex = 0 # Middle Way
-Pokemon = MILLIBLAZE,70
-    Moves = FLAREUP,LEECHLIFE,POWERWHIP,SCALD
-    AbilityIndex = 0 # Firefighter
-    Item = WATERGEM
+    Moves = ICEBEAM,DARKALLURE,MACHPULSE,NEURALPULSE
+    AbilityIndex = 1 # Inscrutable Orders
+    Item = STRIKEVEST
+    # HP, Attack, Defense, Speed, Sp. Atk, Sp. Def
+    EV = 0,20,20,0,20,10
+Pokemon = NIDOKING,70
+    Moves = POISONJAB,TRAMPLE,SEARINGCRUNCH,VOLTCRUNCH
+    AbilityIndex = 1 # Stressful
+Pokemon = GRIMICE,70
+    Moves = BLIZZARD,ICEPICK,SUCKERPUNCH,CRUNCH
+    AbilityIndex = 1 # Cold-blooded
+RemovePokemon = JIRACHI,70
 #-------------------------------
 [FAIRYTALEGIRL,Madeline]
 Pokemon = FURFROU,70

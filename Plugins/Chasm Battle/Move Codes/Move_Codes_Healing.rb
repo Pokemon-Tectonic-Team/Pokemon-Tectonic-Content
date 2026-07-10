@@ -323,6 +323,23 @@ class PokeBattle_Move_HealTargetHalfOfTotalHP < PokeBattle_Move
 end
 
 #===============================================================================
+# Heals target by 100% of its max HP. (Primeval Heal Pulse)
+#===============================================================================
+
+class PokeBattle_Move_HealTargetFull < PokeBattle_Move_HealTargetHalfOfTotalHP
+    include EmpoweredMove
+    
+    def pbEffectGeneral(user)
+        transformType(user, :PSYCHIC)
+    end
+
+    def healingRatio(user)
+        ratio = 1.0
+    end
+end
+
+
+#===============================================================================
 # The user dances to restore an ally by 50% max HP. They're cured of any status conditions. (Healthy Cheer)
 #===============================================================================
 class PokeBattle_Move_HealTargetHalfOfTotalHPAndCureStatus < PokeBattle_Move_HealTargetHalfOfTotalHP

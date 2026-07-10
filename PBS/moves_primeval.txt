@@ -247,6 +247,18 @@ Flags = Empowered
 Description = The user raises its Attack, Defense, and Accuracy by two steps. This summons an allied Ekans. User becomes Poison-type.
 Animation = COIL
 #-------------------------------
+[PRIMEVALDISSOLUTION]
+Name = Primeval Dissolution
+Type = POISON
+Category = Status
+Accuracy = 0
+TotalPP = 1
+Target = User
+FunctionCode = EmpoweredDissolution
+Flags = Empowered
+Description = The user dissolves, raising its Sp. Def by 5 steps and giving themselves a Black Sludge. User becomes Poison-type.
+Animation = DISSOLUTION
+#-------------------------------
 [PRIMEVALGREYMIST]
 Name = Primeval Grey Mist
 Type = POISON
@@ -916,6 +928,18 @@ FunctionCode = EmpoweredEclipse
 Flags = Empowered
 Description = The user summons eclipse for six turns. This raises its Attack and Sp. Atk. User becomes Psychic-type.
 Animation = ECLIPSE
+#-------------------------------
+[PRIMEVALHEALPULSE]
+Name = Primeval Heal Pulse
+Type = PSYCHIC
+Category = Status
+Accuracy = 100
+TotalPP = 1
+Target = AllNearOthers
+FunctionCode = HealTargetFull
+Flags = Empowered
+Description = The user fully heals all Pokémon on both sides of the field. User becomes Psychic-type.
+Animation = HEALPULSE
 #-------------------------------
 [PRIMEVALMAGICCOAT]
 Name = Primeval Magic Coat

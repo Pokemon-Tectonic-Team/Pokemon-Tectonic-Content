@@ -395,6 +395,22 @@ class PokeBattle_Move_RaiseUserSpDef5 < PokeBattle_StatUpMove
     end	
 end
 
+# Empowered Dissolution
+class PokeBattle_Move_EmpoweredDissolution < PokeBattle_StatUpMove
+    include EmpoweredMove
+
+    def initialize(battle, move)
+        super
+        @statUp = [:SPECIAL_DEFENSE, 5]
+    end
+
+    def pbEffectGeneral(user)
+        super
+        craftItem(user,:BLACKSLUDGE)
+        transformType(user, :POISON)
+    end
+end
+
 #===============================================================================
 # Increases the user's critical hit rate by one increment.
 #===============================================================================
