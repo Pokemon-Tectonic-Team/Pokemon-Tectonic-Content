@@ -1,6 +1,6 @@
 module Settings
     # The version of your game. It has to adhere to the MAJOR.MINOR.PATCH format.
-    GAME_VERSION = "3.4.1"
+    GAME_VERSION = "3.4.2"
     DEV_VERSION  = true
 
     # Whether or not to display if the game is up to date with the server version
