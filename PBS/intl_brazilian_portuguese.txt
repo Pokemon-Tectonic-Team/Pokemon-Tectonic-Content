@@ -50355,9 +50355,9 @@ Tabela De Tipos
 How were type matchups changes compared to canon?
 Quais são as mudanças de vantagens / desvantagens de tipos em comparação à franquia oficial?
 Stats
-Stats
+Atributos
 What are stats, and how do they affect battles?
-What are stats, and how do they affect battles?
+O que são atributos e como eles afetam batalhas?
 Abilities
 Abilities
 How do abilities work?
@@ -50571,39 +50571,39 @@ Atributos são os números que determinam como seus Pokémon performam em batalh
 Checking Stats
 Verificando Atributos
 Check your Pokémon's stats by looking at the second page of their summary screen, accessible through the Pokémon menu in the pause menu.
-Para ver os atributos do seu Pokémon, verifique a segunda página da tela de Dados dele, acessível pelo menu Pokémon do menu de pausa.
+Para ver os atributos do seu Pokémon, verifique a segunda página da tela de Dados dele, acessível pelo menu Pokémon no menu de pausa.
 Stat Factors
-Stat Factors
+Fatores Para Atributos
 Your Pokémon's stats are calculated from a combination of their species' 'Base Stats', their own 'Style Points', and extra modifications during battle.
-Your Pokémon's stats are calculated from a combination of their species' 'Base Stats', their own 'Style Points', and extra modifications during battle.
+Os atributos de um Pokémon são calculados a partir de uma combinação dos 'Atributos Base' de sua espécie, de seus 'Pontos De Estilo' e modificações à parte durante uma batalha.
 Base Stats
-Base Stats
+Atributos Base
 Every species of Pokémon have base stats, which affect every Pokémon of that species. e.g. Every Raichu will be fast because the Raichu species has a high Speed base stat.
-Every species of Pokémon have base stats, which affect every Pokémon of that species. e.g. Every Raichu will be fast because the Raichu species has a high Speed base stat.
+Toda espécie de Pokémon tem Atributos Base, que afeta todo pokémon daquela espécie. Por exemplo, todo Raichu vai ser rápido porque a espécie Raichu tem um Atributo Velocidade Base alto.
 Style Points
-Style Points
+Pontos De Estilo
 Style Points are numbers which you can customize to change your Pokémon's stats. Style Points show as blue numbers on the stat page of the summary.
-Style Points are numbers which you can customize to change your Pokémon's stats. Style Points show as blue numbers on the stat page of the summary.
+Pontos De Estilo são números customizáveis por você para alterar os atributos de seu Pokémon. Pontos De Estilo aparecem como números azuis na página de atributos da tela de Dados do Pokémon.
 Leveling and Evolution
-Leveling and Evolution
+Níveis E Evolução
 Your Pokémon's stats will increase every time they level up. When Pokémon evolve, their stats change (almost always they increase).
-Your Pokémon's stats will increase every time they level up. When Pokémon evolve, their stats change (almost always they increase).
+Os atributos de seus Pokémon aumentarão toda vez que eles subirem de nível. Quando Pokémon evoluem, seus atributos mudam (quase sempre pra melhor).
 Accuracy and Evasion
-Accuracy and Evasion
+Precisão E Evasiva
 Accuracy and Evasion are two stats which are only active in battle, starting at 100% each. They are only modified by in-battle changing effects.
-Accuracy and Evasion are two stats which are only active in battle, starting at 100% each. They are only modified by in-battle changing effects.
+Precisão e Evasiva são dois atributos apenas ativos durante batalha, começando em 100% cada. Só podem ser alterados por efeitos modificadores durante batalha.
 Stat Steps
-Stat Steps
+Modificações De Atributo
 Effects can modify a Pokémon's stats during battle. These are called 'stat steps'. Stat steps multiply or divide the Pokémon's listed stat value.
-Effects can modify a Pokémon's stats during battle. These are called 'stat steps'. Stat steps multiply or divide the Pokémon's listed stat value.
+Efeitos podem modificar os atributos de um Pokémon em batalha. As modificações são chamadas de 'Níveis De Atributo'. Elas multiplicam ou dividem o valor mostrado do atributo de um Pokémon.
 Bounds of Stat Steps
-Bounds of Stat Steps
+Limites Dos Níveis De Atributo
 Stat steps start at 0, and can increase up to +8 (3x) and down to -8 (.33x). Stat steps are reset if you swap the Pokémon out or it faints.
-Stat steps start at 0, and can increase up to +8 (3x) and down to -8 (.33x). Stat steps are reset if you swap the Pokémon out or it faints.
+Níveis De Atributo começam em 0, podendo ser aumentados a até +8 (3x) e diminuidos a até -8 (0.33x). Níveis De Atributo voltam para 0 se o Pokémon sai de campo ou desmaia.
 Checking Stat Steps
-Checking Stat Steps
+Checando Mudanças De Atributo
 You can check the current stat steps of each Pokémon on the battlefield using the Info button. It lists the numerical step as well as resultant multiplier.
-You can check the current stat steps of each Pokémon on the battlefield using the Info button. It lists the numerical step as well as resultant multiplier.
+Você pode checar os atuais Níveis De Atributo de cada Pokémon em campo usando o botão 'Info'. Ele lista o nível numérico e também o multiplicador resultante.
 What are abilities?
 What are abilities?
 Abilities are special powers that Pokémon can have based on their species. Most Pokémon can have one of 2 possible abilities.
