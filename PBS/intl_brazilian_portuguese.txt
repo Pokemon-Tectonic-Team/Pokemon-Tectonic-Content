@@ -50351,9 +50351,9 @@ Vantagens De Tipo
 When and how are types better or worse against one another?
 Quando e como certos tipos são bons ou ruins contra outros tipos?
 Type Chart
-Type Chart
+Tabela De Tipos
 How were type matchups changes compared to canon?
-How were type matchups changes compared to canon?
+Quais são as mudanças de vantagens / desvantagens de tipos em comparação à franquia oficial?
 Stats
 Stats
 What are stats, and how do they affect battles?
@@ -50513,29 +50513,29 @@ Verificando Vantagens
 The 5th and 6th pages of a MasterDex entry show that Pokémon's type matchups. Open the MasterDex in battle to check matchups if you're not sure.
 Veja as vantagens e desvantagens de um pokemon na 5ª e 6ª páginas da MasterDex dele. Abra a MasterDex enquanto em batalha para verificar vantagens se estiver em dúvida.
 Psychic vs Steel
-Psychic vs Steel
+Psíquico vs Aço
 Psychic is now Super-Effective vs Steel. Psychic also resists Steel. Think of magicians bending spoons.
-Psychic is now Super-Effective vs Steel. Psychic also resists Steel. Think of magicians bending spoons.
+Psíquico agora é Super-Efetivo vs Aço. Psíquico também resiste Aço. Pense em mágicos conseguindo entortar colheres.
 Poison vs Water
-Poison vs Water
+Venenoso vs Água
 Poison is now Super-Effective vs Water. Think of chemicals polluting a river.
-Poison is now Super-Effective vs Water. Think of chemicals polluting a river.
+Venenoso agora é Super-Efetivo vs Água. Pense em substâncias químicas poluindo rios.
 Bug vs Fairy
-Bug vs Fairy
+Inseto vs Fada
 Bug is now Super-Effective vs Fairy. Think of insects scaring children.
-Bug is now Super-Effective vs Fairy. Think of insects scaring children.
+Inseto agora é Super-Efetivo vs Fada. Pense em crianças com medo de insetos.
 Grass resistances
-Grass resistances
+Resistências Do Tipo Grama
 Grass now resists Fairy and Ghost. Think of incense warding off magic.
-Grass now resists Fairy and Ghost. Think of incense warding off magic.
+Grama agora resiste Fada e Fantasma. Pense em incensos herbais afastando magia.
 Ice resistances
-Ice resistances
+Resistências Do Tipo Gelo
 Ice now resists Flying and Ground. Ice is Super-Effective against those types, so it's only natural!
-Ice now resists Flying and Ground. Ice is Super-Effective against those types, so it's only natural!
+Gelo agora resiste Voador e Terrestre. Gelo é Super-Efetivo contra esses tipos, então é de se esperar!
 Other changes
-Other changes
+Outras Mudanças
 Rock resists Ice. Fairy resists Dragon. Fairy is neutral against Fire. Bug resists Psychic. Steel can be poisoned.
-Rock resists Ice. Fairy resists Dragon. Fairy is neutral against Fire. Bug resists Psychic. Steel can be poisoned.
+Pedra resiste Gelo. Fada resiste Dragão. Fada é neutro contra Fogo. Inseto resiste Psíquico. Tipos Aço podem ser envenenados.
 Why Get More?
 Capturar Mais Pra Quê?
 Having choices of Pokémon is important when facing challenges. A team of six is a bare minimum--it's best to catch more and pull them from the PC as needed.
