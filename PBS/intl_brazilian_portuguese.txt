@@ -49649,7 +49649,7 @@ Speed
 Spd
 Spd
 Accuracy
-Accuracy
+Precisão
 Acc
 Acc
 Evasion
@@ -50349,7 +50349,7 @@ O que são movimentos e quais as diferenças entre eles?
 Type Matchups
 Vantagens De Tipo
 When and how are types better or worse against one another?
-When and how are types better or worse against one another?
+Quando e como certos tipos são bons ou ruins contra outros tipos?
 Type Chart
 Type Chart
 How were type matchups changes compared to canon?
@@ -50437,81 +50437,81 @@ Físico vs Especial
 Attacking moves are split into Physical moves, and Special moves. Each of these categories uses different stats to determine how much damage is dealt to the target.
 Movimentos de ataque são divididos entre movimentos Físicos e Especiais. Cada uma dessas categorias usa atributos diferentes para determinar quanto dano é dado ao alvo do ataque.
 Physical Moves
-Physical Moves
+Movimentos Físicos
 Physical moves are notated by the symbol of a smashing fist. Their damage is based on the Attack (Atk) stat of the attacker and the Defense (Def) stat of the target.
-Physical moves are notated by the symbol of a smashing fist. Their damage is based on the Attack (Atk) stat of the attacker and the Defense (Def) stat of the target.
+Movimentos físicos são marcados com o símbolo de um impacto. O dano deles é calculado com base no atributo de Ataque (Atk) do atacante e no atributo de Defesa (Def) do alvo.
 Special Moves
-Special Moves
+Movimentos Especiais
 Special moves are notated by the symbol of a splash. Their damage is based on the Special Attack (Sp. Atk) of the attacker and the Special Defense (Sp. Def) of the target.
-Special moves are notated by the symbol of a splash. Their damage is based on the Special Attack (Sp. Atk) of the attacker and the Special Defense (Sp. Def) of the target.
+Movimentos especiais são marcados com o símbolo de um redemoinho. O dano deles é calculado com base no atributo de Ataque Especial (Sp.Atk) do atacante e no atributo de Defesa Especial (Sp.Def) do alvo.
 Adaptive Moves
-Adaptive Moves
+Movimentos Mistos
 Adaptive moves are notated by the symbol split between physical and special. Their damage is based on whichever Attacking stat is higher of the attacker. If both are the same, the default is Attack.
-Adaptive moves are notated by the symbol split between physical and special. Their damage is based on whichever Attacking stat is higher of the attacker. If both are the same, the default is Attack.
+Movimentos mistos são marcados com o símbolo dividido entre físico e especial. O dano deles é baseado em qual atributo ofensivo do atacante é maior. Se ambos forem iguais, o padrão é ataque.
 Targeting
-Targeting
+Alvos
 Most moves target only a single Pokémon, but many can target multiple Pokémon at once. Some moves differ in how far they can target in the bigger battle styles (doubles, triples).
-Most moves target only a single Pokémon, but many can target multiple Pokémon at once. Some moves differ in how far they can target in the bigger battle styles (doubles, triples).
+A maioria dos movimentos têm como alvo um único Pokémon, mas muitos podem ter como alvo vários de uma vez. Existe, também, variação de alcançe nos formatos maiores de batalha (duplas, trios).
 Move Types
-Move Types
+Tipagem Dos Movimentos
 Every move has a type. Attacking moves deal different amounts of damage to different Pokémon based on those Pokémon's types. This is called 'type effectiveness'.
-Every move has a type. Attacking moves deal different amounts of damage to different Pokémon based on those Pokémon's types. This is called 'type effectiveness'.
+Todo movimento tem um tipo. Movimentos de ataque dão quantidades diferentes de dano para diferentes Pokémon baseado em seus tipos. Isso é chamado de 'Vantagem de Tipos'.
 Flex-type Moves
-Flex-type Moves
+Movimentos Tipo Flexível (Flex)
 Flex-type moves when used, change type to be the first type of the Pokémon the uses them. So a Flex move used by a Fire/Ground Pokémon will become a Fire-type move.
-Flex-type moves when used, change type to be the first type of the Pokémon the uses them. So a Flex move used by a Fire/Ground Pokémon will become a Fire-type move.
+Movimentos do tipo flex, ao serem usados, mudam de tipo baseado no primeiro tipo do Pokémon que os está usando. Ou seja, um movimento flex usado por um Pokémon tipo Fogo/Terra se torna do tipo fogo.
 Same-Type Bonus
-Same-Type Bonus
+Bônus De Tipo Equivalente
 Pokémon deal 50% more damage with moves they share a type with. For example, a Raichu deals 50% more damage with an Electric move than a Normal move.
-Pokémon deal 50% more damage with moves they share a type with. For example, a Raichu deals 50% more damage with an Electric move than a Normal move.
+Pokémon dão 50% a mais de dano com movimentos de um tipo que eles possuem. Por exemplo, um Raichu dá 50% a mais de dano com um movimento do tipo Elétrico do que com um movimento do tipo Normal.
 Learning Moves
-Learning Moves
+Aprendendo Movimentos
 Pokémon learn new moves as they level up. They can also learn moves from the 'Move Tutors' who sit in the left side of every PokéCenter.
-Pokémon learn new moves as they level up. They can also learn moves from the 'Move Tutors' who sit in the left side of every PokéCenter.
+Pokémon aprendem novos movimentos ao subirem de nível. Eles também aprendem movimentos através dos 'Tutores de Movimento', que são encontrados à esquerda dentro de qualquer Centro Pokémon.
 Base Power
-Base Power
+Poder Base
 Moves with higher Base Power deal more damage. Some moves deal variable Base Power depending on the situation. Status moves have no base power.
-Moves with higher Base Power deal more damage. Some moves deal variable Base Power depending on the situation. Status moves have no base power.
+Movimentos com um Poder Base maior dão mais dano. Alguns movimentos tem um Poder Base que varia dependendo da situação. Movimentos de Status não possuem Poder Base.
 Accuracy is a move's chance of hitting. Most moves have 100% accuracy. Some effects can raise accuracy to let you use low-accuracy moves consistently.
-Accuracy is a move's chance of hitting. Most moves have 100% accuracy. Some effects can raise accuracy to let you use low-accuracy moves consistently.
+Precisão é a chance de um movimento acertar. A maioria dos movimentos têm 100% de precisão. Alguns efeitos aumentam Precisão, te permitindo usar movimentos de baixa precisão com consistência.
 Power Points
-Power Points
+Pontos De Poder
 Power Points, or PP, is a number which limits how many times a move can be used. Healing at a PokéCenter or with the Aid Kit restores PP.
-Power Points, or PP, is a number which limits how many times a move can be used. Healing at a PokéCenter or with the Aid Kit restores PP.
+Pontos De Poder, ou PP, é um número que limita quantas vezes um movimento pode ser utilizado. Curar-se em um Centro Pokémon ou com o kit de primeiros socorros restaura PP.
 Each Pokémon has type weakness and type resistances based on its own type. eg. Water deals double damage to Fire, and Fire deals half damage to Water.
-Each Pokémon has type weakness and type resistances based on its own type. eg. Water deals double damage to Fire, and Fire deals half damage to Water.
+Todo Pokémon tem fraquezas e resistências de tipo baseados em seu próprio tipo. Por exemplo, Água dá o dobro de dano a Fogo, e Fogo dá metade de dano à Água.
 Type Combinations
-Type Combinations
+Combinações De Tipo
 When a Pokémon has two types, its type weaknesses and resistances multiply. A Pokémon can be double weak or double resistant, or immune even though one of their types is weak.
-When a Pokémon has two types, its type weaknesses and resistances multiply. A Pokémon can be double weak or double resistant, or immune even though one of their types is weak.
+Quando um Pokémon tem dois tipos, suas fraquezas e resistências de tipo são multiplicadas. Um Pokémon pode ser duplamente fraco ou resistente, ou até imune mesmo que um de seus tipos tenha fraqueza.
 Normal Effective
-Normal Effective
+Efetividade Normal
 Normal Effective is the default effectiveness of all moves against a Pokémon.
-Normal Effective is the default effectiveness of all moves against a Pokémon.
+Efetividade Normal é a efetividade padrão de todos os movimentos contra um Pokémon.
 Super Effective
-Super Effective
+Super-Efetivo
 Super Effective moves deal double the damage compared to normal effective moves.
-Super Effective moves deal double the damage compared to normal effective moves.
+Movimentos Super-Efetivos dão o dobro de dano em comparação a movimentos com efetividade normal.
 Hyper Effective
-Hyper Effective
+Hiper-Efetivo
 Hyper Effective moves deal quadruple the damage compared to normal effective moves. This happens when a Pokémon is double weak to a type.
-Hyper Effective moves deal quadruple the damage compared to normal effective moves. This happens when a Pokémon is double weak to a type.
+Movimentos Hiper-Efetivos dão o quádruplo de dano em comparação a movimentos com efetividade normal. Isso acontece quando um Pokémon é duplamente fraco a um tipo.
 Not Very Effective
-Not Very Effective
+Pouco Efetivo
 Not Very Effective moves deal half the damage compared to normal effective moves.
-Not Very Effective moves deal half the damage compared to normal effective moves.
+Movimentos Pouco Efetivos dão metade do dano em comparação a movimentos com efetividade normal.
 Barely Effective
-Barely Effective
+Escassamente Efetivo
 Barely Effective moves deal one quarter the damage compared to normal effective moves. This happens when a Pokémon is double resistant to a type.
-Barely Effective moves deal one quarter the damage compared to normal effective moves. This happens when a Pokémon is double resistant to a type.
+Movimentos Escassamente Efetivos dão um quarto do dano em comparação a movimentos com efetividade normal. Isso acontece quando um Pokémon é duplamente resistente a um tipo.
 Ineffective
-Ineffective
+Inefetivo
 Ineffective moves deal no damage at all. This can happen if one of a Pokémon's types has an immunity to the attacking move type, even if the other is neutral (or even weak!).
-Ineffective moves deal no damage at all. This can happen if one of a Pokémon's types has an immunity to the attacking move type, even if the other is neutral (or even weak!).
+Movimentos Inefetivos não dão dano. Isso pode acontecer se um dos tipos de um Pokémon tem imunidade ao tipo do movimento atacante, mesmo que seu outro tipo tenha neutralidade (ou até fraqueza!).
 Looking Up Matchups
-Looking Up Matchups
+Verificando Vantagens
 The 5th and 6th pages of a MasterDex entry show that Pokémon's type matchups. Open the MasterDex in battle to check matchups if you're not sure.
-The 5th and 6th pages of a MasterDex entry show that Pokémon's type matchups. Open the MasterDex in battle to check matchups if you're not sure.
+Veja as vantagens e desvantagens de um pokemon na 5ª e 6ª páginas da MasterDex dele. Abra a MasterDex enquanto em batalha para verificar vantagens se estiver em dúvida.
 Psychic vs Steel
 Psychic vs Steel
 Psychic is now Super-Effective vs Steel. Psychic also resists Steel. Think of magicians bending spoons.
@@ -50563,7 +50563,7 @@ Use o DexNav para saber quais Pokémon estão disponíveis onde você está. Voc
 Trades
 Trocas
 Throughout the world there will be people offering trades for Pokémon. Usually they want a different Pokémon, but sometimes they want money.
-Espalhadas pelo mundo haverão pessoas oferecendo trocas Pokémon. Normalmente eles querem outros Pokémon, mas às vezes eles podem querer dinheiro.
+Espalhadas pelo mundo haverão pessoas oferecendo trocas Pokémon. Normalmente elas querem outros Pokémon, mas às vezes eles podem querer dinheiro.
 What are Stats?
 O Que São Atributos?
 Stats, short for Statistics, are the numbers which determine how your Pokémon performs in battle.
