@@ -50363,9 +50363,9 @@ Habilidades
 How do abilities work?
 Como habilidades funcionam?
 Held Items
-Held Items
+Itens Equipáveis
 What are held items and how to use them?
-What are held items and how to use them?
+O que são itens equipáveis e como usá-los?
 Status Conditions
 Status Conditions
 What are the Conditions a Pokémon can be afflicted with?
@@ -50637,33 +50637,33 @@ Trocando Habilidades
 Moves like Skill Swap can be used to give a new ability to Pokémon during battle, enabling unique and creative team synergies.
 Movimentos como 'Troca de Habilidades' podem ser usados para dar uma nova habilidade a Pokémon em batalha, possibilitando sinergias de equipe únicas e criativas.
 What are Held Items?
-What are Held Items?
+O Que São Itens Equipáveis?
 Held items are items which you can give your Pokémon to benefit them during battle. They can increase their damage, heal them, or other things.
-Held items are items which you can give your Pokémon to benefit them during battle. They can increase their damage, heal them, or other things.
+Itens equipáveis são itens que podem ser equipados em seus Pokémon para beneficiá-los em batalha. Eles podem aumentar dano, curar ou fornecer outros efeitos.
 Equipping an item
-Equipping an item
+Equipando um item
 You can give a Pokémon an item from your bag, or through the summary screen. Not all items do an effect when held, so read carefully.
-You can give a Pokémon an item from your bag, or through the summary screen. Not all items do an effect when held, so read carefully.
+Você pode equipar um item em um pokémon através da sua mochila ou através da tela de Dados do Pokémon. Nem todo item faz algo quando equipado, então leia com atenção.
 Berries
-Berries
+Frutas
 Berries are a common held item. During battles, Pokémon will eat the berry to get a benefit. Get berries by picking from Berry Trees.
-Berries are a common held item. During battles, Pokémon will eat the berry to get a benefit. Get berries by picking from Berry Trees.
+Frutas são itens equipáveis bem comuns. Durante batalhas, Pokémon comerão suas frutas para obter algum benefício. Você pode obter frutas colhendo-as de árvores frutíferas.
 Sitrus and Cado Berry
-Sitrus and Cado Berry
+Fruta Azeda e Acate
 Sitrus Berry and Cado Berry are common berries which heal your Pokémon when at low health. If in doubt about what item to give a Pokémon, give them one of these.
-Sitrus Berry and Cado Berry are common berries which heal your Pokémon when at low health. If in doubt about what item to give a Pokémon, give them one of these.
+Fruta Azeda e Fruta Acate são frutas comuns que curam seus Pokémon quando estão com vida baixa. Se estiver em dúvida sobre qual item dar a um Pokémon, dê a ele uma dessas frutas.
 Rematerializer
-Rematerializer
+Rematerializador
 In Pokémon Tectonic, the Rematerializer regenerates held items which are consumed in battle. You'll never run out of berries!
-In Pokémon Tectonic, the Rematerializer regenerates held items which are consumed in battle. You'll never run out of berries!
+No Pokémon Tectonic, o Rematerializador regenera itens equipáveis que foram consumidos em batalha. Você nunca vai ficar sem frutas!
 Wild Held Items
-Wild Held Items
+Itens Equipáveis Selvagens
 Wild Pokémon can be found holding items. These items sometimes have held effects, but often don't.
-Wild Pokémon can be found holding items. These items sometimes have held effects, but often don't.
+Pokémon selvagens podem ser encontrados com itens equipados. Esses itens ocasionalmente podem ter algum efeito, mas na maioria das vezes não têm.
 Getting More
-Getting More
+Conseguindo Mais
 You will find more held items on the ground when traveling, or as gifts from people, or as the reward for defeating Avatars, or as purchasable items in shops.
-You will find more held items on the ground when traveling, or as gifts from people, or as the reward for defeating Avatars, or as purchasable items in shops.
+Você encontrará mais itens equipáveis no chão quando estiver viajando, ou como presentes de pessoas, ou como recompensa por derrotar Avatares, ou como itens compráveis em lojas.
 What are Status Conditions?
 What are Status Conditions?
 Status Conditions are ailments a Pokémon can have which hurt or restrict them. They remain after swapping out, and even between battles.
