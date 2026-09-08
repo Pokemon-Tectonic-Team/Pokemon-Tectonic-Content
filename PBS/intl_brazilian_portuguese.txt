@@ -50371,9 +50371,9 @@ Condições De Status
 What are the Conditions a Pokémon can be afflicted with?
 Quais são as Condições De Status que um Pokémon pode ter?
 Volatile Statuses
-Volatile Statuses
+Status Voláteis
 What are the Volatile Statuses a Pokémon can be afflicted with?
-What are the Volatile Statuses a Pokémon can be afflicted with?
+Quais são as Condições De Status Voláteis que um Pokémon pode ter?
 Critical Hits
 Critical Hits
 What are critical hits and when do they happen?
@@ -50693,101 +50693,101 @@ Um Pokémon ensopado tem sua velocidade cortada pela metade e recebe 25% a mais 
 When dizzied, a Pokémon takes 25% more attack damage, and its ability doesn't function. Psychic- and Fairy-types do the most dizzying.
 Um Pokémon atordoado leva 25% a mais de dano ao ser atacado e sua habilidade é anulada. Os tipos Psíquico e Fada são os que mais atordoam.
 When leeched, a Pokémon loses 1/12th HP every turn, and its opponent(s) split that health. Grass- and Dark-types do the most leeching. Grass is immune.
-Um Pokémon parasitado perde 1/12 de sua vida máxima por turno, oponente(s) se cura(m) com essa quantia perdida. Os tipos Grama e Sombrio são os que mais parasitam. Grama é imune.
+Um Pokémon parasitado perde 1/12 de sua vida máxima por turno. O(s) oponente(s) se cura(m) com essa quantia perdida. Os tipos Grama e Sombrio são os que mais parasitam. Grama é imune.
 A rarer status that causes a Pokémon to be unable to do anything for 2 turns. Psychic- and Grass-types put Pokémon to sleep the most often.
 Um status raro que faz com que o Pokémon afetado fique incapaz de se mover por 2 turnos. Os tipos Psíquico e Grama são os que mais causam sono.
 What are Volatile Statuses?
-What are Volatile Statuses?
+O Que São?
 Volatile Status Conditions are similar to Status Conditions, except they will go away if the Pokémon switches out.
-Volatile Status Conditions are similar to Status Conditions, except they will go away if the Pokémon switches out.
+Condições De Status Voláteis são similares a Condições De Status, mas elas somem se o Pokémon afetado sair de campo.
 Jinx
-Jinx
+Mau Presságio
 When jinxed, a Pokémon cannot Protect itself, and all attacks against it are guaranteed critical hits. Jinx wears off after 3 turns. Fairy-types do the most jinxing.
-When jinxed, a Pokémon cannot Protect itself, and all attacks against it are guaranteed critical hits. Jinx wears off after 3 turns. Fairy-types do the most jinxing.
+Um Pokémon com Mau Presságio não pode se proteger e todos os ataques que o atingirem resultarão em acerto crítico. O Mau Presságio some após 3 turnos. O tipo Fada é o que mais causa Mau Presságio.
 Fractured
-Fractured
+Fratura
 When fractured, a Pokémon deals 33% less damage with its moves. Fracture wears off after 3 turns. Rock-types do the most fracturing.
-When fractured, a Pokémon deals 33% less damage with its moves. Fracture wears off after 3 turns. Rock-types do the most fracturing.
+Um Pokémon Fraturado dá 33% a menos de dano com seus ataques. A Fratura some após 3 turnos. O tipo Pedra é o que mais Fratura.
 Curse
-Curse
+Maldição
 When cursed, a Pokémon loses 25% of its HP every turn. Ghost-types do the most cursing.
-When cursed, a Pokémon loses 25% of its HP every turn. Ghost-types do the most cursing.
+Um Pokémon Amaldiçoado perde 25% de sua vida máxima por turno. O tipo Fantasma é o que mais Amaldiçoa.
 Blindness
-Blindness
+Cegueira
 When blinded, a Pokémon deals 50% damage with its next attacking move. Blindness persists until a damaging move is used by the blinded Pokémon.
-When blinded, a Pokémon deals 50% damage with its next attacking move. Blindness persists until a damaging move is used by the blinded Pokémon.
+Um Pokémon Cegado dá apenas 50% do dano que daria com seu próximo ataque. A Cegueira persiste até que um ataque seja usado pelo Pokémon afetado.
 Torment
-Torment
+Tormento
 When tormented, a Pokémon cannot use the same move twice in a row. If something prevents it from moving for a turn, it can choose the same move the following turn.
-When tormented, a Pokémon cannot use the same move twice in a row. If something prevents it from moving for a turn, it can choose the same move the following turn.
+Um Pokémon Atormentado não pode usar o mesmo movimento duas vezes seguidas. Se algo o previne de se mover em um turno, ele ainda pode escolher o mesmo movimento no turno seguinte.
 Taunt
-Taunt
+Provocação
 When taunted, a Pokémon is prevented from using status moves.
-When taunted, a Pokémon is prevented from using status moves.
+Um Pokémon Provocado não pode usar Movimentos De Status.
 Disable
-Disable
+Anulação
 When disabled, a Pokémon cannot use the move it last selected.
-When disabled, a Pokémon cannot use the move it last selected.
+Um Pokémon Anulado é incapacitado de usar o último movimento que selecionou.
 Bar
-Bar
+Inibição
 When barred, a Pokémon cannot use moves that don't share a type with themselves.
-When barred, a Pokémon cannot use moves that don't share a type with themselves.
+Um Pokémon Inibido não consegue usar movimentos que não possuem um de seus tipos.
 Encore
-Encore
+Outra Vez
 When encored, a Pokémon is forced to use the last used move again.
-When encored, a Pokémon is forced to use the last used move again.
+Um Pokémon sob os efeitos de Outra Vez é forçado a usar o último movimento que selecionou novamente.
 Heal Block
-Heal Block
+Bloqueio De Cura
 When heal blocked, a Pokémon cannot use healing or draining moves.
-When heal blocked, a Pokémon cannot use healing or draining moves.
+Um Pokémon com Bloqueio De Cura não pode usar movimentos que curam ou que drenam vida.
 Mental
 Mental
 Torment, Taunt, Disable, Bar, Encore and Heal Block are mental effects.
-Torment, Taunt, Disable, Bar, Encore and Heal Block are mental effects.
+Tormento, Provocação, Anulação, Inibição e Bloqueio De Cura são considerados efeitos mentais.
 Trapping
-Trapping
+Prisão
 When trapped, a Pokémon cannot switch out of battle. Includes manually switching, being forced out, or using a move like U-Turn.
-When trapped, a Pokémon cannot switch out of battle. Includes manually switching, being forced out, or using a move like U-Turn.
+Um Pokémon Preso é impossibilitado de sair de campo. Isso inclui ser trocado manualmente, ser forçado a sair ou até usar movimentos como Meia-Volta.
 Substitute
-Substitute
+Substituto
 A substitute blocks attacks and status effects. It has HP equal to the amount of HP it took to create it. Sound tag moves ignore substitute.
-A substitute blocks attacks and status effects. It has HP equal to the amount of HP it took to create it. Sound tag moves ignore substitute.
+Um Substituto bloqueia ataques e efeitos de Status. Seus pontos de vida equivalem à quantidade de vida gasta para criá-lo. Movimentos com marcador de "Som" ignoram Substitutos.
 Stockpile
-Stockpile
+Estocagem
 Can be stacked 2 times. Reduces damage taken by 30% for 1 stack or 51% for 2 stacks.
-Can be stacked 2 times. Reduces damage taken by 30% for 1 stack or 51% for 2 stacks.
+Pode ser acumulada até 2 vezes. Reduz o dano sofrido em 30% com 1 estocagem ou em 51% com 2 estocagens.
 Aqua Ring
-Aqua Ring
+Anel D'Água
 A Pokémon affected by Aqua Ring restores 10% HP at the end of each turn.
-A Pokémon affected by Aqua Ring restores 10% HP at the end of each turn.
+Um Pokémon afetado pelo Anel D'Água cura 10% de sua vida máxima vida no fim de cada turno.
 Energized
-Energized
+Energizado
 When Energized, a Pokémon's next used Electric-type move does double damage.
-When Energized, a Pokémon's next used Electric-type move does double damage.
+Um Pokémon Energizado tem um bônus de dano de 2x para seu próximo ataque do tipo elétrico.
 Transformed
-Transformed
+Transformado
 A transformed Pokémon becomes a copy of another. It gains their ability, moves, stats (except HP), and step boosts.
-A transformed Pokémon becomes a copy of another. It gains their ability, moves, stats (except HP), and step boosts.
+Um Pokémon transformado se torna uma cópia de outro. Ele copia habilidade, movimentos, atributos (exceto PV) e modificações de atributo.
 Perish Song
-Perish Song
+Canção Do Perecer
 A Pokémon affected by Perish Song will faint when the timer ends. Avatars will be damaged for half of an HP bar.
-A Pokémon affected by Perish Song will faint when the timer ends. Avatars will be damaged for half of an HP bar.
+Um Pokémon que ouve a Canção Do Perecer vai desmaiar quando o tempo acabar. Avatares levarão dano equivalente a metade de uma barra de PV.
 Grounded
-Grounded
+Derrubado
 A grounded Pokémon loses their immunity to ground moves (from being Flying-type or having a Levitate ability).
-A grounded Pokémon loses their immunity to ground moves (from being Flying-type or having a Levitate ability).
+Um Pokémon Derrubado perde sua imunidade a movimentos do tipo Terra (por ter o tipo Voador ou a habilidade Levitate).
 Shrinking
-Shrinking
+Encolhimento
 The affected Pokémon's highest stat becomes reduced by 2 steps for each turn of the effect.
-The affected Pokémon's highest stat becomes reduced by 2 steps for each turn of the effect.
+Um Pokémon em Encolhimento tem seu maior atributo reduzido em 2 níveis para cada turno sob o efeito.
 Sugar Rush
-Sugar Rush
+Ímpeto Açucarado
 The affected Pokémon's speed is doubled, but they also take double damage from attacks.
-The affected Pokémon's speed is doubled, but they also take double damage from attacks.
+Um Pokémon em um Ímpeto Açucarado tem sua velocidade dobrada, mas também leva o dobro de dano ao ser atacado.
 Overhealing
-Overhealing
+Sobrecura
 Certain abilities, moves or items can cause overhealing. A Pokémon can get up to double of its max HP via overhealing.
-Certain abilities, moves or items can cause overhealing. A Pokémon can get up to double of its max HP via overhealing.
+Certas habilidades, movimentos ou itens podem causar Sobrecura. Um Pokémon pode alcançar até o dobro de seu PV máximo através de Sobrecura.
 What are Critical Hits?
 What are Critical Hits?
 A critical hit deals 50% more damage than a regular hit. Certain moves are able to randomly critical hit.
