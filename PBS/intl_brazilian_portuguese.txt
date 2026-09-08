@@ -50733,9 +50733,9 @@ Inibição
 When barred, a Pokémon cannot use moves that don't share a type with themselves.
 Um Pokémon Inibido não consegue usar movimentos que não possuem um de seus tipos.
 Encore
-Outra Vez
+Bis
 When encored, a Pokémon is forced to use the last used move again.
-Um Pokémon sob os efeitos de Outra Vez é forçado a usar o último movimento que selecionou novamente.
+Um Pokémon sob os efeitos de Bis é forçado a usar o último movimento que selecionou novamente.
 Heal Block
 Bloqueio De Cura
 When heal blocked, a Pokémon cannot use healing or draining moves.
