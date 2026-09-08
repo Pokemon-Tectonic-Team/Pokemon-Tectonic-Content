@@ -50375,9 +50375,9 @@ Status Voláteis
 What are the Volatile Statuses a Pokémon can be afflicted with?
 Quais são as Condições De Status Voláteis que um Pokémon pode ter?
 Critical Hits
-Critical Hits
+Acertos Críticos
 What are critical hits and when do they happen?
-What are critical hits and when do they happen?
+O que são Acertos Críticos e quando eles acontecem?
 Trainers
 Trainers
 How do enemy Trainers work?
@@ -50789,25 +50789,25 @@ Sobrecura
 Certain abilities, moves or items can cause overhealing. A Pokémon can get up to double of its max HP via overhealing.
 Certas habilidades, movimentos ou itens podem causar Sobrecura. Um Pokémon pode alcançar até o dobro de seu PV máximo através de Sobrecura.
 What are Critical Hits?
-What are Critical Hits?
+O Que São?
 A critical hit deals 50% more damage than a regular hit. Certain moves are able to randomly critical hit.
-A critical hit deals 50% more damage than a regular hit. Certain moves are able to randomly critical hit.
+Um Acerto Crítico dá 50% a mais de dano em comparação a um acerto normal. Certos ataques são capazes de aleatoriamente acertar de forma Crítica.
 How common are Critical Hits?
-How common are Critical Hits?
+Quão Comuns São?
 For moves that can random crit, the chance is 1/8. This chance can be raised by abilities, items, or special effects.
-For moves that can random crit, the chance is 1/8. This chance can be raised by abilities, items, or special effects.
+Para ataques capazes de Acertar Criticamente, a chance é de 1/8. Essa chance pode ser aumentada por habilidades, itens ou efeitos especiais.
 Other Effects
-Other Effects
+Outros Efeitos
 Critical hits ignore stat steps (on the user or the target) that would lower their damage. They also ignore protective screens like Reflect and Light Screen.
-Critical hits ignore stat steps (on the user or the target) that would lower their damage. They also ignore protective screens like Reflect and Light Screen.
+Acertos Críticos ignoram Modificações de Atributo (no usuário ou no alvo) que resultariam em redução de dano. Eles também ignoram Telas Protetoras como Refletir e Tela De Luz.
 Preventing Criticals
-Preventing Criticals
+Prevenindo Críticos
 Certain abilities prevent critical hits against that Pokémon. The Sanctuary effect protects their side from critical hits.
-Certain abilities prevent critical hits against that Pokémon. The Sanctuary effect protects their side from critical hits.
+Certas habilidades previnem Acertos Críticos contra seu usuário. O efeito "Santuário" também protege o lado do usuário de Acertos Críticos.
 Guaranteed Criticals
-Guaranteed Criticals
+Críticos Garantidos
 Some moves or abilities are not random, but guarantee a critical hit under certain conditions. Otherwise, these act the same as random critical hits.
-Some moves or abilities are not random, but guarantee a critical hit under certain conditions. Otherwise, these act the same as random critical hits.
+Alguns movimentos ou habilidades permitem Acertos Críticos de forma não aleatória, mas sim garantida sob certas circunstâncias. Apesar disso, esses Acertos Críticos se comportam como qualquer outro.
 What are Tribes?
 What are Tribes?
 Every Pokémon has 1-3 Tribes, decided by their species. Have 5 Pokémon of a shared Tribe on your team, and your entire team will receive that Tribe's bonus in battle!
