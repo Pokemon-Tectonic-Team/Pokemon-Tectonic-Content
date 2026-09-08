@@ -44576,7 +44576,7 @@ Flying
 Flying
 3
 Poison
-Poison
+Veneno
 4
 Ground
 Ground
@@ -49657,21 +49657,21 @@ Evasion
 Eva
 Eva
 Sleep
-Sleep
+Sono
 Poison
-Poison
+Envenenamento
 Burn
-Burn
+Queimadura
 Numb
-Numb
+Imobilização
 Frostbitten
-Frostbitten
+Com Frio
 Dizzy
-Dizzy
+Atordoado
 Leeched
-Leeched
+Parasitado
 Waterlogged
-Waterlogged
+Ensopado
 All
 All
 Each
@@ -50367,9 +50367,9 @@ Itens Equipáveis
 What are held items and how to use them?
 O que são itens equipáveis e como usá-los?
 Status Conditions
-Status Conditions
+Condições De Status
 What are the Conditions a Pokémon can be afflicted with?
-What are the Conditions a Pokémon can be afflicted with?
+Quais são as Condições De Status que um Pokémon pode ter?
 Volatile Statuses
 Volatile Statuses
 What are the Volatile Statuses a Pokémon can be afflicted with?
@@ -50665,37 +50665,37 @@ Conseguindo Mais
 You will find more held items on the ground when traveling, or as gifts from people, or as the reward for defeating Avatars, or as purchasable items in shops.
 Você encontrará mais itens equipáveis no chão quando estiver viajando, ou como presentes de pessoas, ou como recompensa por derrotar Avatares, ou como itens compráveis em lojas.
 What are Status Conditions?
-What are Status Conditions?
+O Que São?
 Status Conditions are ailments a Pokémon can have which hurt or restrict them. They remain after swapping out, and even between battles.
-Status Conditions are ailments a Pokémon can have which hurt or restrict them. They remain after swapping out, and even between battles.
+Condições De Status são enfermidades que machucam ou restringem um Pokémon. Elas permanecem com o Pokémon mesmo ao sair de campo, durando até mesmo entre batalhas.
 Healing Status Conditions
-Healing Status Conditions
+Curando Condições De Status
 Status Conditions are removed when you heal at the PokéCenter or when you use the Aid Kit.
-Status Conditions are removed when you heal at the PokéCenter or when you use the Aid Kit.
+Condições De Status são removidas quando você se cura em um Centro Pokémon ou quando você usa o Kit de Primeiros Socorros.
 Status Immunity
-Status Immunity
+Imunidade A Status
 Type immunities do not prevent status moves. However, some types give immunities to certain status conditions. Don't confuse these two!
-Type immunities do not prevent status moves. However, some types give immunities to certain status conditions. Don't confuse these two!
+Imunidades De Tipagem não previnem movimentos de status. Entretanto, alguns tipos dão imunidade a certas Condições De Status. Não confunda esses dois!
 When burned, a Pokémon's Attack is reduced by 33%, and loses 1/8th HP every turn. Fire- and Ghost-types do the most burning. Fire is immune.
-When burned, a Pokémon's Attack is reduced by 33%, and loses 1/8th HP every turn. Fire- and Ghost-types do the most burning. Fire is immune.
+Um Pokémon queimado tem seu ataque reduzido em 33%, além de perder 1/8 de sua vida máxima por turno. Os tipos Fogo e Fantasma são os que mais queimam. Fogo é imune.
 Frostbite
-Frostbite
+Frio
 When frostbitten, a Pokémon's Sp. Atk is reduced by 33%, and loses 1/8th HP every turn. Ice- and Flying-types do the most frostbiting. Ice is immune.
-When frostbitten, a Pokémon's Sp. Atk is reduced by 33%, and loses 1/8th HP every turn. Ice- and Flying-types do the most frostbiting. Ice is immune.
+Um Pokémon com frio tem seu ataque especial reduzido em 33%, além de perder 1/8 de sua vida máxima por turno. Os tipos Gelo e Voador são os que mais causam frio. Gelo é imune.
 When poisoned, a Pokémon loses 1/12th HP every turn. This doubles every 2 turns. Poison- and Bug-types do the most poisoning. Poison is immune.
-When poisoned, a Pokémon loses 1/12th HP every turn. This doubles every 2 turns. Poison- and Bug-types do the most poisoning. Poison is immune.
+Um Pokémon envenenado perde 1/12 de sua vida máxima por turno. A vida perdida dobra a cada 2 turnos. Os tipos Venenoso e Inseto são os que mais envenenam. Venenoso é imune.
 When numbed, a Pokémon's Speed is halved, and it deals 25% less damage. Electric- and Fighting-types do the most numbing. Electric is immune.
-When numbed, a Pokémon's Speed is halved, and it deals 25% less damage. Electric- and Fighting-types do the most numbing. Electric is immune.
+Um Pokémon imobilizado tem sua velocidade cortada pela metade e seu dano reduzido em 25%. Os tipos Elétrico e Lutador são os que mais imobilizam. Elétrico é imune.
 Waterlog
-Waterlog
+Ensopamento
 When waterlogged, a Pokémon's Speed is halved, and it takes 25% more attack damage. Water- and Dark-types do the most waterlogging. Water is immune.
-When waterlogged, a Pokémon's Speed is halved, and it takes 25% more attack damage. Water- and Dark-types do the most waterlogging. Water is immune.
+Um Pokémon ensopado tem sua velocidade cortada pela metade e recebe 25% a mais de dano ao ser atacado. Os tipos Água e Sombrio são os que mais ensopam. Água é imune.
 When dizzied, a Pokémon takes 25% more attack damage, and its ability doesn't function. Psychic- and Fairy-types do the most dizzying.
-When dizzied, a Pokémon takes 25% more attack damage, and its ability doesn't function. Psychic- and Fairy-types do the most dizzying.
+Um Pokémon atordoado leva 25% a mais de dano ao ser atacado e sua habilidade é anulada. Os tipos Psíquico e Fada são os que mais atordoam.
 When leeched, a Pokémon loses 1/12th HP every turn, and its opponent(s) split that health. Grass- and Dark-types do the most leeching. Grass is immune.
-When leeched, a Pokémon loses 1/12th HP every turn, and its opponent(s) split that health. Grass- and Dark-types do the most leeching. Grass is immune.
+Um Pokémon parasitado perde 1/12 de sua vida máxima por turno, oponente(s) se cura(m) com essa quantia perdida. Os tipos Grama e Sombrio são os que mais parasitam. Grama é imune.
 A rarer status that causes a Pokémon to be unable to do anything for 2 turns. Psychic- and Grass-types put Pokémon to sleep the most often.
-A rarer status that causes a Pokémon to be unable to do anything for 2 turns. Psychic- and Grass-types put Pokémon to sleep the most often.
+Um status raro que faz com que o Pokémon afetado fique incapaz de se mover por 2 turnos. Os tipos Psíquico e Grama são os que mais causam sono.
 What are Volatile Statuses?
 What are Volatile Statuses?
 Volatile Status Conditions are similar to Status Conditions, except they will go away if the Pokémon switches out.
