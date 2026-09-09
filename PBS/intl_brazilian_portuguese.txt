@@ -8683,7 +8683,7 @@ Go Back
 Nociception
 Nociception
 Avatars
-Avatars
+Avatares
 Man-made Pokémon
 Man-made Pokémon
 Depends on the question.
@@ -49037,7 +49037,7 @@ Main Story
 Gyms
 Gyms
 Avatars
-Avatars
+Avatares
 Collection
 Collection
 Exploration
@@ -50379,11 +50379,11 @@ Acertos Críticos
 What are critical hits and when do they happen?
 O que são Acertos Críticos e quando eles acontecem?
 Trainers
-Trainers
+Treinadores
 How do enemy Trainers work?
-How do enemy Trainers work?
+Como Treinadores inimigos funcionam?
 What are avatars and what do they do?
-What are avatars and what do they do?
+O que são Avatares e o que eles fazem?
 What does the MasterDex do and how should I use it?
 What does the MasterDex do and how should I use it?
 Weathers
@@ -50821,93 +50821,93 @@ Are they important?
 Tribes are not required in any way to complete the game. They are simply an alternative team-building challenge to play with, like Single Type runs.
 Tribes are not required in any way to complete the game. They are simply an alternative team-building challenge to play with, like Single Type runs.
 What are Enemy Trainers?
-What are Enemy Trainers?
+O Que São Treinadores Rivais?
 Enemy Trainers are the Pokémon Trainers you will battle throughout the game. Some block your path forwards (like Gym Leaders), others are optional.
-Enemy Trainers are the Pokémon Trainers you will battle throughout the game. Some block your path forwards (like Gym Leaders), others are optional.
+Treinadores Rivais são os Treinadores Pokémon que você batalhará contra no decorrer do jogo. Alguns deles podem bloquear sua progressão (como Líderes de Ginásio), outros são opcionais.
 Detecting Trainers
-Detecting Trainers
+Detectando Treinadores
 Trainers are people who have a companion Pokémon next to them. If a person doesn't have that, they either aren't a Trainer, or are an inactive one.
-Trainers are people who have a companion Pokémon next to them. If a person doesn't have that, they either aren't a Trainer, or are an inactive one.
+Treinadores são pessoas que têm um Pokémon os acompanhando. Se uma pessoa não tiver um Pokémon ao seu lado, isso significa que ela não é um Treinador ou que ela é um Treinador Inativo.
 Avoiding Trainers
-Avoiding Trainers
+Evitando Treinadores
 Trainers will challenge you if they see you within 4 tiles of them. Avoid them by going out of that distance, sneaking around them, or waiting until they move.
-Trainers will challenge you if they see you within 4 tiles of them. Avoid them by going out of that distance, sneaking around them, or waiting until they move.
+Treinadores te desafiarão se te verem a menos de 4 passos à frente. Você pode evitá-los saindo dessa distância, se esgueirando por trás deles ou esperando até que eles saiam de onde estão.
 Trainer Inactivity
-Trainer Inactivity
+Treinadores Inativos
 When you defeat a Trainer, they will become inactive until the next time you heal at a PokéCenter. This is indicated by them returning their companion Pokémon to its Poké Ball.
-When you defeat a Trainer, they will become inactive until the next time you heal at a PokéCenter. This is indicated by them returning their companion Pokémon to its Poké Ball.
+Quando você derrota um Treinador, ele ficará inativo até a próxima vez que você se curar em um Centro Pokémon. Isso é indicado com ele retornando seu Pokémon companheiro para sua Pokébola.
 Perfecting Fights
-Perfecting Fights
+Aperfeiçoando Batalhas
 If you defeat a Trainer without any of your Pokémon fainting, you've 'perfected' the fight. They will leave forever and drop experience candy as a reward.
-If you defeat a Trainer without any of your Pokémon fainting, you've 'perfected' the fight. They will leave forever and drop experience candy as a reward.
+Se você derrotar um Treinador sem nenhum Pokémon desmaiado ao fim do duelo, você "Aperfeiçoa" a batalha. O Treinador sumirá para sempre e te dará Doces de Experiência como recompensa.
 Enemy Teams
-Enemy Teams
+Equipes Rivais
 Enemy Trainers have their own teams of Pokémon with their own moves and held items. It's important to pay attention to these possibilities to win battles.
-Enemy Trainers have their own teams of Pokémon with their own moves and held items. It's important to pay attention to these possibilities to win battles.
+Treinadores Rivais têm suas próprias equipes de Pokémon com seus próprios movimentos e itens equipáveis. É importante prestar atenção a esses detalhes para ganhar batalhas.
 Differences
-Differences
+Diferenças
 The typical trainer has 3 Pokémon, but Gym Leaders will have more. Trainers with more Pokémon also have more move variety and more items on their Pokémon.
-The typical trainer has 3 Pokémon, but Gym Leaders will have more. Trainers with more Pokémon also have more move variety and more items on their Pokémon.
+O Treinador típico tem 3 Pokémon, mas Líderes de Ginásio terão mais. Treinadores com mais Pokémon também têm mais variedade e mais itens em seus Pokémon.
 Pro Trainers
-Pro Trainers
+Treinadores Profissionais
 Pro Trainers are special Trainers, noted by their grey hair and black clothes. Their teams are always 6 Pokémon, all with items, and built around a Tribal Bonus. They're hard!
-Pro Trainers are special Trainers, noted by their grey hair and black clothes. Their teams are always 6 Pokémon, all with items, and built around a Tribal Bonus. They're hard!
+Treinadores Profissionais são Treinadores especiais marcados por seus cabelos cinzas e roupas pretas. Suas equipes têm 6 Pokémon, todos com itens, e sempre com um Bônus de Clã. Eles são osso duro!
 Trainer Behaviour
-Trainer Behaviour
+Comportamento
 Individual Trainers will always react to the same in-battle circumstances the same way. You can learn how to beat or even perfect a Trainer through trial and error.
-Individual Trainers will always react to the same in-battle circumstances the same way. You can learn how to beat or even perfect a Trainer through trial and error.
+Um mesmo Treinador vai sempre reagir às circunstâncias de batalha da mesma forma. Você pode aprender a derrotar ou até aperfeiçoar um Treinador por tentativa e erro.
 What are Avatars?
-What are Avatars?
+O Que São?
 Avatars are powerful enemy Pokémon with unique properties that you will fight and destroy during your adventure. They cannot be caught.
-Avatars are powerful enemy Pokémon with unique properties that you will fight and destroy during your adventure. They cannot be caught.
+Avatares são Pokémon inimigos poderosos com propriedades únicas que você terá que lutar contra e destruir durante sua aventura. Eles não podem ser capturados.
 Avatars are Healthy
-Avatars are Healthy
+Avatares Têm Muita Vida
 Avatars have two health bars, which means they have a lot of health. Much more than double the normal amount!
-Avatars have two health bars, which means they have a lot of health. Much more than double the normal amount!
+Avatares têm duas barras de saúde, o que significa que eles têm muita vida. Muito mais que o dobro da quantidade normal!
 Multi-Move
-Multi-Move
+Multi-Movimento
 Avatars can move twice each turn. Their second move will happen after every battler has used their regular move for the turn.
-Avatars can move twice each turn. Their second move will happen after every battler has used their regular move for the turn.
+Avatares podem se mover duas vezes por turno. Seu segundo movimento acontecerá depois que todos os outros Pokémon em campo já tiverem se movido.
 Two Statuses
-Two Statuses
+Dois Status
 Avatars are large, and have room for up to two status conditions at a time. They can't have two of the same condition.
-Avatars are large, and have room for up to two status conditions at a time. They can't have two of the same condition.
+Avatares são grandes e têm espaço para até duas Condições De Status ao mesmo tempo. Eles não podem ter Condições De Status repetidas.
 HP-Based Effects
-HP-Based Effects
+Efeitos Baseados Em Vida
 Effects that damage based on a fraction of total HP are only one-sixth as powerful against avatars, compared to normal Pokémon.
-Effects that damage based on a fraction of total HP are only one-sixth as powerful against avatars, compared to normal Pokémon.
+Efeitos que dão dano com base em uma fração dos PV totais têm apenas 1/6 da efetividade contra Avatares em comparação a Pokémon normais.
 Primeval Moves
-Primeval Moves
+Movimentos Primordiais
 When a health bar is depleted, avatars will use a Primeval Move! Primeval Moves are powered-up versions of status moves, which also change the Avatar's type.
-When a health bar is depleted, avatars will use a Primeval Move! Primeval Moves are powered-up versions of status moves, which also change the Avatar's type.
+Quando uma barra de vida é esgotada, Avatares usarão um Movimento Primordial! Movimentos Primordiais são versões mais fortes de Movimentos De Status, também mudando o tipo do Avatar.
 Clean Slate
-Clean Slate
+Tábula Rasa
 Before an Avatar uses a Primeval Move, they will also heal from any status conditions and reset any of their stat steps that have been lowered.
-Before an Avatar uses a Primeval Move, they will also heal from any status conditions and reset any of their stat steps that have been lowered.
+Logo antes de um Avatar usar um Movimento Primordial, ele se curará de todas as suas Condições de Status e redefinirá suas Modificações de Atributos que tiverem sido diminuídas.
 Shields
-Shields
+Escudos
 The top of Avatars health bars starts Shielded. Shielded bars take 75% less damage. A shield is removed when the Avatar uses a Primeval Move.
-The top of Avatars health bars starts Shielded. Shielded bars take 75% less damage. A shield is removed when the Avatar uses a Primeval Move.
+A barra de cima da vida de Avatares começa Protegida. Barras protegidas levam 75% menos dano. O escudo é removido assim que o Avatar usa um Movimento Primordial.
 Attack Choice
-Attack Choice
+Escolha De Ataques
 Avatars usually only have a few moves to choose from. They usually alternate between their moves on successive attacks.
-Avatars usually only have a few moves to choose from. They usually alternate between their moves on successive attacks.
+Avatares normalmente têm uma pequena seleta de movimentos para usar. Eles normalmente alternarão entre seus diferentes movimentos ao atacar consecutivamente.
 Target Choice
-Target Choice
+Escolha De Alvo
 A targeting reticle shows which of your battles the Avatar wants to attack. It will switch to another battler, however, if their attack is made impossible.
-A targeting reticle shows which of your battles the Avatar wants to attack. It will switch to another battler, however, if their attack is made impossible.
+Um alvo aparecerá em cima de qual dos seus Pokémon o Avatar quer atacar neste turno. Entretanto, o Avatar atacará outro alvo se atacar o alvo atual for impossível.
 Empowered Moves
-Empowered Moves
+Movimentos Fortificados
 Some Avatars have Empowered attacks, which are powered-up versions of other attacks. They take up both of an Avatar's moves on that turn.
-Some Avatars have Empowered attacks, which are powered-up versions of other attacks. They take up both of an Avatar's moves on that turn.
+Alguns Avatares terão Ataques Fortificados, que são versões melhoradas de outros ataques. Movimentos Fortificados contam como dois movimentos do Avatar.
 Experience Reward
-Experience Reward
+Recompensa De Experiência
 When an Avatar is destroyed, every Pokémon on your team is given experience, even those that are fainted.
-When an Avatar is destroyed, every Pokémon on your team is given experience, even those that are fainted.
+Quando um Avatar é destruído, todos os Pokémon de sua equipe ganham pontos de experiência, mesmo aqueles que estiverem desmaiados.
 Legendary Avatars
-Legendary Avatars
+Avatares Lendários
 Legendary Avatars are unique. You fight them with 3 Pokémon, they have 3 HP bars, and they have more moves with more smarts about how to use them.
-Legendary Avatars are unique. You fight them with 3 Pokémon, they have 3 HP bars, and they have more moves with more smarts about how to use them.
+Avatares Lendários são únicos. Você luta com eles no formato de trios, eles têm 3 barras de saúde e eles têm uma seleta maior de movimentos com maior inteligência sobre como usá-los.
 What is the MasterDex?
 What is the MasterDex?
 The MasterDex is an advanced encyclopedia about the 900+ Pokémon available in this game.
