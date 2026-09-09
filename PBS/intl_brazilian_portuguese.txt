@@ -33330,13 +33330,13 @@ Z
 Sun
 Sun
 Rain
-Rain
+Chuva
 Hail
-Hail
+Granizo
 Sand
 Sand
 Moonglow
-Moonglow
+Luar
 Eclipse
 Eclipse
 Attack
@@ -34435,7 +34435,7 @@ Frost Breath
 Glacial Lance
 Glacial Lance
 Hail
-Hail
+Granizo
 Ice Beam
 Ice Beam
 Ice Fang
@@ -35375,7 +35375,7 @@ Mending Spring
 Pressure Burst
 Pressure Burst
 Rainstorm
-Rainstorm
+Temporal
 Ramming Speed
 Ramming Speed
 Rip Tide
@@ -35973,7 +35973,7 @@ Mist Burst
 Misty Mirage
 Misty Mirage
 Moonglow
-Moonglow
+Luar
 Morningstar
 Morningstar
 Pixie Punch
@@ -49393,13 +49393,13 @@ Fairy
 Psychic
 Psychic
 Sun
-Sun
+Sol
 Rain
-Rain
+Chuva
 Sandstorm
-Sandstorm
+Tempestade De Areia
 Hail
-Hail
+Granizo
 Harsh Sun
 Harsh Sun
 Heavy Rain
@@ -49409,7 +49409,7 @@ Strong Winds
 Eclipse
 Eclipse
 Moonglow
-Moonglow
+Luar
 Ring Eclipse
 Ring Eclipse
 Blood Moon
@@ -50387,9 +50387,9 @@ O que são Avatares e o que eles fazem?
 What does the MasterDex do and how should I use it?
 O que a MasterDex faz e como eu uso ela?
 Weathers
-Weathers
+Climas
 What are weathers, and what does each do?
-What are weathers, and what does each do?
+O que são Climas e o que cada um deles faz?
 Field Effects
 Field Effects
 What field effects are there and what are their effects?
@@ -50443,7 +50443,7 @@ Movimentos físicos são marcados com o símbolo de um impacto. O dano deles é 
 Special Moves
 Movimentos Especiais
 Special moves are notated by the symbol of a splash. Their damage is based on the Special Attack (Sp. Atk) of the attacker and the Special Defense (Sp. Def) of the target.
-Movimentos especiais são marcados com o símbolo de um redemoinho. O dano deles é calculado com base no atributo de Ataque Especial (Sp.Atk) do atacante e no atributo de Defesa Especial (Sp.Def) do alvo.
+Movimentos especiais são marcados com o símbolo de um redemoinho. O dano deles é calculado com base no atributo de Ataque Especial (Atk Sp.) do atacante e no atributo de Defesa Especial (Def. Sp.) do alvo.
 Adaptive Moves
 Movimentos Mistos
 Adaptive moves are notated by the symbol split between physical and special. Their damage is based on whichever Attacking stat is higher of the attacker. If both are the same, the default is Attack.
@@ -50945,39 +50945,39 @@ Verificando Evoluções
 Press the Use key (defaults to C) on the evolutions tab to choose a Pokémon in the same evolutionary tree, and to warp to that Pokémon's MasterDex entry.
 Pressione a tecla Usar (por padrão, C) enquanto estiver na tela de evoluções para escolher um Pokémon na mesma linha evolutiva e viajar para a página da MasterDex daquele Pokémon.
 What are weathers?
-What are weathers?
+O que são Climas?
 Weathers are special states that affect the entire battlefield and help or hinder the Pokémon battling. Only one weather can be active at once.
-Weathers are special states that affect the entire battlefield and help or hinder the Pokémon battling. Only one weather can be active at once.
+Climas são estados especiais que afetam todo o campo de batalha, ajudando ou atrapalhando os Pokémon em campo. Apenas um Clima pode estar ativo ao mesmo tempo.
 Weather Duration
-Weather Duration
+Duração De Um Clima
 Weathers last a certain number of turns. The length differs depending on what move or ability summoned the weather. The duration can be extended by certain items.
-Weathers last a certain number of turns. The length differs depending on what move or ability summoned the weather. The duration can be extended by certain items.
+Climas duram um certo número de turnos. A duração depende de qual movimento ou habilidade invocou o Clima. A duração pode ser extendida por certos itens.
 Sunshine
-Sunshine
+Luz Solar
 Sunshine lowers attack damage by 15%. Fire and Grass-type moves/Pokémon are immune to this. Fire-type attacks are boosted by 30%.
-Sunshine lowers attack damage by 15%. Fire and Grass-type moves/Pokémon are immune to this. Fire-type attacks are boosted by 30%.
+A Luz Solar reduz o dano de ataques em 15%. Pokémon e Movimentos dos tipos Fogo ou Grama são imunes a isso. Ataques do tipo Fogo dão 30% a mais de dano.
 Rainstorm lowers attack damage by 15%. Water and Electric-type moves/Pokémon are immune to this. Water-type attacks are boosted by 30%.
-Rainstorm lowers attack damage by 15%. Water and Electric-type moves/Pokémon are immune to this. Water-type attacks are boosted by 30%.
+O Temporal reduz o dano de ataques em 15%. Pokémon e Movimentos dos tipos Água ou Elétrico são imunes a isso. Ataques do tipo Água dão 30% a mais de dano.
 Sandstorm deals 1/16th max HP damage to all Pokémon at the end of each turn. Rock and Ground-types are immune to this. Additionally, Rock-types get +50% Special Defense.
-Sandstorm deals 1/16th max HP damage to all Pokémon at the end of each turn. Rock and Ground-types are immune to this. Additionally, Rock-types get +50% Special Defense.
+Tempestade De Areia dá dano de 1/16 do PV máximo a todos os Pokémon no final de todo turno. Os tipos Pedra e Terrestre são imunes a isso. Além disso, tipos Pedra ganham 50% a mais de Defesa Especial.
 Hail deals 1/16th max HP damage to all Pokémon at the end of each turn. Ice and Ghost-types are immune to this. Additionally, Ice-types get +50% Defense.
-Hail deals 1/16th max HP damage to all Pokémon at the end of each turn. Ice and Ghost-types are immune to this. Additionally, Ice-types get +50% Defense.
+Granizo dá dano de 1/16 do PV máximo a todos os Pokémon no final de todo turno. Os tipos Gelo e Fantasma são imunes a isso. Além disso, tipos Gelo ganham 50% a mais de Defesa.
 Eclipse lowers all stats of all Pokémon every 4 turns (by 2 steps). Psychic and Dragon-types are immune to this. Additionally, Psychic-type attacks are boosted by 30%.
-Eclipse lowers all stats of all Pokémon every 4 turns (by 2 steps). Psychic and Dragon-types are immune to this. Additionally, Psychic-type attacks are boosted by 30%.
+O Eclipse diminui os atributos de todos os Pokémon em campo a cada 4 turnos (em 2 níveis). Os tipos Psíquico e Dragão são imunes a isso. Além disso, ataques do tipo Psíquico dão 30% a mais de dano.
 Moonglow flinches all Pokémon every 4 turns. Fairy and Dark-types are immune to this. Additionally, Fairy-type attacks are boosted by 30%.
-Moonglow flinches all Pokémon every 4 turns. Fairy and Dark-types are immune to this. Additionally, Fairy-type attacks are boosted by 30%.
+O Luar faz todos os Pokémon hesitarem a cada 4 turnos. Os tipos Fada e Sombrio são imunes a isso. Além disso, ataques do tipo Fada dão 30% a mais de dano.
 Weather Downsides
-Weather Downsides
+Desvantagens Dos Climas
 Each weather has both an upside and a downside. There are items and abilities that make your Pokémon immune to these downsides regardless of type.
-Each weather has both an upside and a downside. There are items and abilities that make your Pokémon immune to these downsides regardless of type.
+Todo Clima tem tanto uma vantagem quanto uma desvantagem. Existem itens e habilidades que fazem seus Pokémon imunes a essas desvantagens mesmo que seu tipo não coincida com o Clima.
 Weather Areas
-Weather Areas
+Zonas Climáticas
 Certain areas in the game experience intense weather. That weather will also be present in the battles of that area. Simple daily weather will not do this.
-Certain areas in the game experience intense weather. That weather will also be present in the battles of that area. Simple daily weather will not do this.
+Certas zonas no jogo experienciam Clima intenso. Esse Clima estará também presente nas batalhas daquela zona. O Clima diário simples não causará isto.
 Weather Synergies
-Weather Synergies
+Sinergias De Clima
 Each weather has dozens of moves and abilities that benefit from that weather. Pokémon using these moves/abilities ignore the downsides of their favored weather!
-Each weather has dozens of moves and abilities that benefit from that weather. Pokémon using these moves/abilities ignore the downsides of their favored weather!
+Cada Clima tem dezenas de Movimentos e Habilidades que se beneficiam daquele Clima. Pokémon com esses movimentos / habilidades ignoram as desvantagens do Clima que os favorece!
 What are field effects?
 What are field effects?
 Field effects are special effects that affect the entire battlefield. Multiple field effects can be active at the same time.
