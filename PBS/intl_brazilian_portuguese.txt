@@ -50385,7 +50385,7 @@ Como Treinadores inimigos funcionam?
 What are avatars and what do they do?
 O que são Avatares e o que eles fazem?
 What does the MasterDex do and how should I use it?
-What does the MasterDex do and how should I use it?
+O que a MasterDex faz e como eu uso ela?
 Weathers
 Weathers
 What are weathers, and what does each do?
@@ -50909,41 +50909,41 @@ Avatares Lendários
 Legendary Avatars are unique. You fight them with 3 Pokémon, they have 3 HP bars, and they have more moves with more smarts about how to use them.
 Avatares Lendários são únicos. Você luta com eles no formato de trios, eles têm 3 barras de saúde e eles têm uma seleta maior de movimentos com maior inteligência sobre como usá-los.
 What is the MasterDex?
-What is the MasterDex?
+O que é a MasterDex?
 The MasterDex is an advanced encyclopedia about the 900+ Pokémon available in this game.
-The MasterDex is an advanced encyclopedia about the 900+ Pokémon available in this game.
+A MasterDex é uma enciclopédia avançada sobre os mais de 900 Pokémon disponíveis neste jogo.
 Single MasterDex
-Single MasterDex
+MasterDex Específica
 Access the MasterDex entry of a single Pokémon when looking at a Pokémon in the summary or the PC, or by using the Dex button in battles.
-Access the MasterDex entry of a single Pokémon when looking at a Pokémon in the summary or the PC, or by using the Dex button in battles.
+Acesse a MasterDex de um Pokémon específico através da tela de Dados do Pokémon ou pelo Computador. Você pode, também, usar a MasterDex em batalha.
 Full MasterDex
-Full MasterDex
+MasterDex Inteira
 Access the full MasterDex from your pause menu, or by pressing D when using the Dex button in battles (while it's waiting for you to select a battler).
-Access the full MasterDex from your pause menu, or by pressing D when using the Dex button in battles (while it's waiting for you to select a battler).
+Acesse a MasterDex Inteira pelo menu de pausa, ou pressionando D ao usar o botão "Dex" em batalhas (durante a espera para você selecionar um Pokémon).
 Searching
-Searching
+Como Pesquisar
 When in the MasterDex, you can press your Special keybind (default Shift or Z) to open the first search page. There's dozens of searches to experiment with!
-When in the MasterDex, you can press your Special keybind (default Shift or Z) to open the first search page. There's dozens of searches to experiment with!
+Na tela da MasterDex, você pode pressionar a sua tecla Especial (por padrão Shift ou Z) para abrir a primeira página de pesquisa. Existem dezenas de pesquisas para experimentar!
 Combining Searches
-Combining Searches
+Combinando Pesquisas
 You can begin a search while you're already looking at the results of a search. This will narrow down from what you were already looking at.
-You can begin a search while you're already looking at the results of a search. This will narrow down from what you were already looking at.
+Você pode começar uma pesquisa enquanto você já estiver olhando os resultados de outra. Isso irá filtrar ainda mais os resultados que você estava vendo.
 Storing Searches
-Storing Searches
+Guardando Pesquisas
 When you hold CTRL while closing out of a search, it will close the MasterDex and store the search for the next time you open it.
-When you hold CTRL while closing out of a search, it will close the MasterDex and store the search for the next time you open it.
+Ao pressionar CTRL enquanto sai de uma pesquisa, a MasterDex será fechada e a pesquisa será recuperada na próxima vez que você abrí-la.
 Quick Navigation
-Quick Navigation
+Navegação Rápida
 Press A to go up a page at a time, or S to go down a page. Use the number keys (1-9) to quickly go to one of the tab's of a Pokémon's MasterDex entry.
-Press A to go up a page at a time, or S to go down a page. Use the number keys (1-9) to quickly go to one of the tab's of a Pokémon's MasterDex entry.
+Pressione A para subir uma página por vez, ou S para descer. Use as teclas numéricas (1-9) para ir rapidamente para uma das abas na página da MasterDex de um Pokémon.
 Move Details
-Move Details
+Detalhes Dos Movimentos
 Press the Use key (defaults to C) on the level up learnset or tutor moves tabs to begin scrolling the lists, and viewing details about individual moves.
-Press the Use key (defaults to C) on the level up learnset or tutor moves tabs to begin scrolling the lists, and viewing details about individual moves.
+Pressione a tecla Usar (por padrão, C) enquanto estiver nas telas de movimentos aprendidos para explorar as listas e ver detalhes de movimentos individuais.
 Checking Evolutions
-Checking Evolutions
+Verificando Evoluções
 Press the Use key (defaults to C) on the evolutions tab to choose a Pokémon in the same evolutionary tree, and to warp to that Pokémon's MasterDex entry.
-Press the Use key (defaults to C) on the evolutions tab to choose a Pokémon in the same evolutionary tree, and to warp to that Pokémon's MasterDex entry.
+Pressione a tecla Usar (por padrão, C) enquanto estiver na tela de evoluções para escolher um Pokémon na mesma linha evolutiva e viajar para a página da MasterDex daquele Pokémon.
 What are weathers?
 What are weathers?
 Weathers are special states that affect the entire battlefield and help or hinder the Pokémon battling. Only one weather can be active at once.
