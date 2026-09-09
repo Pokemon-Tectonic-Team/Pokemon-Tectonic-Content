@@ -50391,13 +50391,13 @@ Climas
 What are weathers, and what does each do?
 O que são Climas e o que cada um deles faz?
 Field Effects
-Field Effects
+Efeitos De Campo
 What field effects are there and what are their effects?
-What field effects are there and what are their effects?
+Quais Efeitos De Campo existem e o que eles fazem?
 Side Effects
-Side Effects
+Efeitos Unilaterais
 What side effects are there and what are their effects?
-What side effects are there and what are their effects?
+Quais Efeitos Unilaterais estão disponíveis e o que eles fazem?
 What are Tribes and what do they do?
 What are Tribes and what do they do?
 Legendary Abilities
@@ -50469,7 +50469,7 @@ Aprendendo Movimentos
 Pokémon learn new moves as they level up. They can also learn moves from the 'Move Tutors' who sit in the left side of every PokéCenter.
 Pokémon aprendem novos movimentos ao subirem de nível. Eles também aprendem movimentos através dos 'Tutores de Movimento', que são encontrados à esquerda dentro de qualquer Centro Pokémon.
 Base Power
-Poder Base
+Poder Base (PB)
 Moves with higher Base Power deal more damage. Some moves deal variable Base Power depending on the situation. Status moves have no base power.
 Movimentos com um Poder Base maior dão mais dano. Alguns movimentos tem um Poder Base que varia dependendo da situação. Movimentos de Status não possuem Poder Base.
 Accuracy is a move's chance of hitting. Most moves have 100% accuracy. Some effects can raise accuracy to let you use low-accuracy moves consistently.
@@ -50489,13 +50489,13 @@ Efetividade Normal
 Normal Effective is the default effectiveness of all moves against a Pokémon.
 Efetividade Normal é a efetividade padrão de todos os movimentos contra um Pokémon.
 Super Effective
-Super-Efetivo
+Superefetivo
 Super Effective moves deal double the damage compared to normal effective moves.
-Movimentos Super-Efetivos dão o dobro de dano em comparação a movimentos com efetividade normal.
+Movimentos Superefetivos dão o dobro de dano em comparação a movimentos com efetividade normal.
 Hyper Effective
-Hiper-Efetivo
+Hiperefetivo
 Hyper Effective moves deal quadruple the damage compared to normal effective moves. This happens when a Pokémon is double weak to a type.
-Movimentos Hiper-Efetivos dão o quádruplo de dano em comparação a movimentos com efetividade normal. Isso acontece quando um Pokémon é duplamente fraco a um tipo.
+Movimentos Hiperefetivos dão o quádruplo de dano em comparação a movimentos com efetividade normal. Isso acontece quando um Pokémon é duplamente fraco a um tipo.
 Not Very Effective
 Pouco Efetivo
 Not Very Effective moves deal half the damage compared to normal effective moves.
@@ -50515,15 +50515,15 @@ Veja as vantagens e desvantagens de um pokemon na 5ª e 6ª páginas da MasterDe
 Psychic vs Steel
 Psíquico vs Aço
 Psychic is now Super-Effective vs Steel. Psychic also resists Steel. Think of magicians bending spoons.
-Psíquico agora é Super-Efetivo vs Aço. Psíquico também resiste Aço. Pense em mágicos conseguindo entortar colheres.
+Psíquico agora é Superefetivo vs Aço. Psíquico também resiste Aço. Pense em mágicos conseguindo entortar colheres.
 Poison vs Water
 Venenoso vs Água
 Poison is now Super-Effective vs Water. Think of chemicals polluting a river.
-Venenoso agora é Super-Efetivo vs Água. Pense em substâncias químicas poluindo rios.
+Venenoso agora é Superefetivo vs Água. Pense em substâncias químicas poluindo rios.
 Bug vs Fairy
 Inseto vs Fada
 Bug is now Super-Effective vs Fairy. Think of insects scaring children.
-Inseto agora é Super-Efetivo vs Fada. Pense em crianças com medo de insetos.
+Inseto agora é Superefetivo vs Fada. Pense em crianças com medo de insetos.
 Grass resistances
 Resistências Do Tipo Grama
 Grass now resists Fairy and Ghost. Think of incense warding off magic.
@@ -50531,7 +50531,7 @@ Grama agora resiste Fada e Fantasma. Pense em incensos herbais afastando magia.
 Ice resistances
 Resistências Do Tipo Gelo
 Ice now resists Flying and Ground. Ice is Super-Effective against those types, so it's only natural!
-Gelo agora resiste Voador e Terrestre. Gelo é Super-Efetivo contra esses tipos, então é de se esperar!
+Gelo agora resiste Voador e Terrestre. Gelo é Superefetivo contra esses tipos, então é de se esperar!
 Other changes
 Outras Mudanças
 Rock resists Ice. Fairy resists Dragon. Fairy is neutral against Fire. Bug resists Psychic. Steel can be poisoned.
@@ -50979,101 +50979,101 @@ Sinergias De Clima
 Each weather has dozens of moves and abilities that benefit from that weather. Pokémon using these moves/abilities ignore the downsides of their favored weather!
 Cada Clima tem dezenas de Movimentos e Habilidades que se beneficiam daquele Clima. Pokémon com esses movimentos / habilidades ignoram as desvantagens do Clima que os favorece!
 What are field effects?
-What are field effects?
+O Que São Efeitos De Campo?
 Field effects are special effects that affect the entire battlefield. Multiple field effects can be active at the same time.
-Field effects are special effects that affect the entire battlefield. Multiple field effects can be active at the same time.
+Efeitos De Campo são efeitos especiais que afetam todo o campo de batalha. Múltiplos efeitos de campo podem estar ativos ao mesmo tempo.
 Field Effect Duration
-Field Effect Duration
+Duração De Efeitos De Campo
 Field effects last a certain number of turns. The length differs depending on what move or ability summoned the field effect. Some durations can be enhanced by certain items.
-Field effects last a certain number of turns. The length differs depending on what move or ability summoned the field effect. Some durations can be enhanced by certain items.
+Efeitos De Campo duram uma certa quantidade de turnos. A quantidade depende de qual Movimento ou Habilidade invocou o Efeito. Algumas durações podem ser aumentadas com certos itens.
 Room Effects
-Room Effects
+Salas
 Puzzle Room, Odd Room and Polarized Room are rooms. Multiple can be active at the same time. Their duration can be doubled with the Reinforcing Rod item.
-Puzzle Room, Odd Room and Polarized Room are rooms. Multiple can be active at the same time. Their duration can be doubled with the Reinforcing Rod item.
+Sala Críptica, Sala Anômala e Sala Polarizada são Salas. Múltiplas Salas podem estar ativas ao mesmo tempo. Suas durações podem ser dobradas com o item "Haste Reforçada".
 Puzzle Room
-Puzzle Room
+Sala Críptica
 Puzzle Room swaps each Pokémon's Attack and Sp. Attack stats.
-Puzzle Room swaps each Pokémon's Attack and Sp. Attack stats.
+A Sala Críptica troca o Ataque pelo Ataque Especial de todos os Pokémon em campo.
 Odd Room
-Odd Room
+Sala Anômala
 Odd Room swaps each Pokémon's Attack and Defense and Sp. Attack and Sp. Defense.
-Odd Room swaps each Pokémon's Attack and Defense and Sp. Attack and Sp. Defense.
+A Sala Anômala troca o Ataque pela Defesa e o Ataque Especial pela Defesa Especial de todos os Pokémon em campo.
 Polarized Room
-Polarized Room
+Sala Polarizada
 Polarized Room raises super- and hyper-effective damage by 25% and lowers not-very and barely-effective damage by 25% of all Pokémon.
-Polarized Room raises super- and hyper-effective damage by 25% and lowers not-very and barely-effective damage by 25% of all Pokémon.
+A Sala Polarizada melhora o dano de acertos super e hiperefetivos em 25%, além de reduzir o dano de acertos pouco e escassamente efetivos em 25%.
 Gravity
-Gravity
+Gravidade
 Gravity grounds all Pokémon, doubles their weight, and doubles all move Accuracy.
-Gravity grounds all Pokémon, doubles their weight, and doubles all move Accuracy.
+A Gravidade traz todos os Pokémon em campo ao chão, dobra seus pesos e dobra a precisão de todos os movimentos.
 Grey Mist
-Grey Mist
+Névoa Cinza
 Grey Mist resets all positive and negative stat changes back to neutral at the end of every turn.
-Grey Mist resets all positive and negative stat changes back to neutral at the end of every turn.
+Névoa Cinza redefine todas as mudanças de atributo, negativas ou positivas, de volta para 0 no fim de cada turno.
 Floral Gramarye
-Floral Gramarye
+Grimório Floral
 Floral Gramarye heals every Pokémon on the field for 1/8th HP at the end of every turn.
-Floral Gramarye heals every Pokémon on the field for 1/8th HP at the end of every turn.
+O Grimório Floral cura todos os Pokémon em campo em 1/8 de seus PV máximos no final de cada turno.
 Side effects are special effects that affect only one side. Multiple side effects can be active at the same time.
-Side effects are special effects that affect only one side. Multiple side effects can be active at the same time.
+Efeitos Unilaterais são efeitos especiais que afetam apenas um lado do campo. Múltiplos Efeitos Unilaterais podem estar ativos ao mesmo tempo.
 Side effects last a certain number of turns. The length differs depending on what move or ability summoned the field effect. Some durations can be enhanced by certain items.
-Side effects last a certain number of turns. The length differs depending on what move or ability summoned the field effect. Some durations can be enhanced by certain items.
+Efeitos Unilaterais duram uma certa quantidade de turnos. A quantidade depende de qual Movimento ou Habilidade invocou o Efeito. Algumas durações podem ser aumentadas com certos itens.
 Screen Effects
-Screen Effects
+Telas
 Reflect, Light Screen, Aurora Veil, Sanctuary and Repulsion Field are screens. These effects do not stack with one another. Their duration can be enhanced with the Light Clay item.
-Reflect, Light Screen, Aurora Veil, Sanctuary and Repulsion Field are screens. These effects do not stack with one another. Their duration can be enhanced with the Light Clay item.
+Refletir, Tela De Luz, Véu De Aurora, Santuário e Campo De Repulsão são Telas. Esses efeitos não acumulam entre si. Sua duração pode ser aumentada com o item Argila Luminosa.
 Reflect
-Reflect
+Refletir
 Reflect lowers damage from incoming physical moves by 50% in a Singles battle or 33% in a Doubles/Triples battle.
-Reflect lowers damage from incoming physical moves by 50% in a Singles battle or 33% in a Doubles/Triples battle.
+Refletir diminui o dano recebido de ataques físicos em 50% em batalhas solo ou em 33% em batalhas de Duplas/Trios.
 Light Screen
-Light Screen
+Tela De Luz
 Light Screen lowers damage from incoming special moves by 50% in a Singles battle or 33% in a Doubles/Triples battle.
-Light Screen lowers damage from incoming special moves by 50% in a Singles battle or 33% in a Doubles/Triples battle.
+Tela De Luz diminui dano recebido de ataques especiais em 50% em batalhas solo ou em 33% em batalhas de Duplas/Trios.
 Aurora Veil
-Aurora Veil
+Véu De Aurora
 Aurora Veil lowers damage from incoming moves by 50% in a Singles battle or 33% in a Doubles/Triples battle. It can only be used during Hail.
-Aurora Veil lowers damage from incoming moves by 50% in a Singles battle or 33% in a Doubles/Triples battle. It can only be used during Hail.
+Véu De Aurora diminui o dano recebido por todos os ataques em 50% em batalhas solo ou em 33% em batalhas de Duplas/Trios. Só pode ser usado durante o Granizo.
 Sanctuary
-Sanctuary
+Santuário
 Sanctuary lowers damage from incoming moves by 25% in a Singles battle or 20% in a Doubles/Triples battle. It also prevents incoming critical hits.
-Sanctuary lowers damage from incoming moves by 25% in a Singles battle or 20% in a Doubles/Triples battle. It also prevents incoming critical hits.
+Santuário diminui o dano recebido de ataques em 25% em batalhas Solo ou 20% em batalhas de Duplas/Trios. Ele também previne acertos críticos.
 Repulsion Field
-Repulsion Field
+Campo De Repulsão
 Repulsion Field lowers damage from incoming moves with 100 BP or more by 50% in a Singles battle or 33% in a Doubles/Triples battle.
-Repulsion Field lowers damage from incoming moves with 100 BP or more by 50% in a Singles battle or 33% in a Doubles/Triples battle.
+Campo De Repulsão diminui o dano recebido de ataques com 100 de PB ou mais em 50% em batalhas solo ou em 33% em batalhas de Duplas/Trios.
 Pledge Effects
-Pledge Effects
+Pilares
 Sea of Fire, Swamp and Rainbow are Pledge effects. They are acquired by using 2 different Pledge moves in the same turn.
-Sea of Fire, Swamp and Rainbow are Pledge effects. They are acquired by using 2 different Pledge moves in the same turn.
+Mar De Chamas, Pântano e Arco-Íris são efeitos de Pilar. Eles são alcançados ao usar dois movimentos de Pilar no mesmo turno.
 Sea of Fire
-Sea of Fire
+Mar De Chamas
 Sea of Fire is created on the opposing side by combining Fire- and Grass Pledge. Non-Fire-type Pokémon take 1/8th HP damage at the end of each turn.
-Sea of Fire is created on the opposing side by combining Fire- and Grass Pledge. Non-Fire-type Pokémon take 1/8th HP damage at the end of each turn.
+Mar De Chamas é criado no lado oposto do campo ao combinar os pilares de Fogo e Grama. Pokémon que não possuem o tipo Fogo perdem 1/8 de seu PV máximo no fim de cada turno.
 Swamp
-Swamp
+Pântano
 Swamp is created on the opposing side by combining Water- and Grass Pledge. Halves the Speed stat of all Pokémon on the active side.
-Swamp is created on the opposing side by combining Water- and Grass Pledge. Halves the Speed stat of all Pokémon on the active side.
+Pântano é criado no lado oposto do campo ao combinar os pilares de Água e Grama. Corta pela metade o atributo de Velocidade de todos os Pokémon no lado ativo.
 Rainbow
-Rainbow
+Arco-Íris
 Rainbow is created on the opposing side by combining Fire- and Water Pledge. Doubles the chance of random added effects against all Pokémon on the active side.
-Rainbow is created on the opposing side by combining Fire- and Water Pledge. Doubles the chance of random added effects against all Pokémon on the active side.
+Arco-Íris é criado no lado oposto do campo ao combinar os pilares de Fogo e Água. Dobram-se as chances de efeitos adicionais aleatórios contra todos os Pokémon do lado ativo.
 Tailwind
-Tailwind
+Vento De Cauda
 Tailwind doubles the Speed stat of all Pokémon on the active side.
-Tailwind doubles the Speed stat of all Pokémon on the active side.
+Vento De Cauda dobra o atributo de Velocidade de todos os Pokémon do lado ativo.
 Natural Protection
-Natural Protection
+Proteção Natural
 Natural Protection halves recoil damage and other passive damage like burn or sandstorm on the active side.
-Natural Protection halves recoil damage and other passive damage like burn or sandstorm on the active side.
+Proteção Natural corta pela metade dano colateral e quaisquer outras formas de dano passivo, como Queimaduras ou Tempestade De Areia, no lado ativo.
 Coral Overgrowth
-Coral Overgrowth
+Coral Colossal
 Coral Overgrowth causes attacks against the opponent to heal the user for 33% of the damage dealt. This can also overheal.
-Coral Overgrowth causes attacks against the opponent to heal the user for 33% of the damage dealt. This can also overheal.
+Coral Colossal faz com que ataques contra o oponente curem o atacante em 33% do dano causado. Isso pode Supercurar.
 Wishing Well
-Wishing Well
+Poço Dos Desejos
 Wishing Well consumes up to 1000 scattered coins to block random added effects and heal the active side for 1/16th HP each turn. 100 coins per turn for a max. of 10 turns.
-Wishing Well consumes up to 1000 scattered coins to block random added effects and heal the active side for 1/16th HP each turn. 100 coins per turn for a max. of 10 turns.
+Poço Dos Desejos consome até 1000 moedas derrubadas para bloquear efeitos adicionais aleatórios e curar o lado ativo em 1/16 dos PVs máximos por turno. 100 moedas por turno por um máximo de 10 turnos.
 Tapu Koko: Storm Totem
 Tapu Koko: Storm Totem
 Pokémon on this side get a 30% move damage boost, but they are prevented from using moves that are the same type as the move they most recently used.
