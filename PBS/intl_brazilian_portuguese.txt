@@ -507,17 +507,17 @@ Not this again.
 Not this again.
 [Map1]
 Pokemon Tectonic has features to help you make sense of its open world, and its many mechanical changes.
-Pokemon Tectonic has features to help you make sense of its open world, and its many mechanical changes.
+Pokémon Tectonic tem vários recursos para te ajudar a entender melhor seu mundo aberto e suas diversas mudanças de mecânicas.
 The <imp>What Next?</imp> feature tells you what to do to progress the main story, if you forgot or got lost.
-The <imp>What Next?</imp> feature tells you what to do to progress the main story, if you forgot or got lost.
+O botão <imp>E Agora?</imp> te diz o que você precisa fazer para progredir na história principal se você acabou se esquecendo ou se perdendo.
 It can be found in the <imp>Game State</imp> menu.
-It can be found in the <imp>Game State</imp> menu.
+Ele pode ser encontrado no menu <imp>Situação</imp>.
 The <imp>Battle Guide</imp> explains the battle mechanics, including mechanics that were reworked or are new in Tectonic.
-The <imp>Battle Guide</imp> explains the battle mechanics, including mechanics that were reworked or are new in Tectonic.
+O <imp>Manual De Batalha</imp> explica as mecânicas de batalha, incluindo mecânicas que foram alteradas ou que são novas no Tectonic.
 It can be found in the <imp>Documents</imp> menu.
-It can be found in the <imp>Documents</imp> menu.
+Ele pode ser encontrado no menu <imp>Documentos</imp>.
 What sort of look would you prefer? You can change this later.
-What sort of look would you prefer? You can change this later.
+Qual aparência você prefere? Você pode mudar isso depois.
 .....\ts[10]
 .....\ts[10]
 ...Of course, of course. I can arrange for a ship to take you.
@@ -555,23 +555,23 @@ You're already behind, but that's never stopped you before.
 It's time.
 It's time.
 Not sure
-Not sure
+Não sei
 Masculine Look
-Masculine Look
+Aparência Masculina
 Feminine Look
-Feminine Look
+Aparência Feminina
 Androgynous Look
-Androgynous Look
+Aparência Andrógina
 "Val"
 "Val"
 Enter with cursor
-Enter with cursor
+Digitar com cursor
 Enter with keyboard
-Enter with keyboard
+Digitar com teclado
 Yes
-Yes
+Sim
 No
-No
+Não
 [Map2]
 It's so... beautiful.
 It's so... beautiful.
@@ -49053,9 +49053,9 @@ Other
 Area
 Area
 Type
-Type
+Tipo
 Tribe
- Tribe
+Tribe
 Total
 Total
 Progression
@@ -49383,7 +49383,7 @@ The entry {1} is required in {2} section {3}.
 Wow, it's a shiny Pokémon!
 Wow, it's a shiny Pokémon!
 None
-None
+Nada
 Electric
 Electric
 Grassy
@@ -49559,7 +49559,7 @@ Fluctuating
 Parabolic
 Parabolic
 Fast
-Fast
+Rápidas
 Slow
 Slow
 Grassland
@@ -49673,7 +49673,7 @@ Parasitado
 Waterlogged
 Ensopado
 All
-All
+Tudo
 Each
 Each
 One
@@ -49897,7 +49897,7 @@ Manual De Batalha
 Tribes
 Clãs
 Cancel
-Cancel
+Cancelar
 Avatar of {1}
 Avatar of {1}
 Point the Poké X-Ray at which avatar?
@@ -49905,13 +49905,13 @@ Point the Poké X-Ray at which avatar?
 Point the Poké X-Ray at which trainer?
 Point the Poké X-Ray at which trainer?
 {1}'s Card
-{1}'s Card
+Cartão de {1}
 Level Cap
-Level Cap
+Nível Limite
 What Next?
-What Next?
+E Agora?
 Quest Log
-Quest Log
+Missões
 Achievements
 Conquistas
 The current level cap is {1}.
@@ -49961,9 +49961,9 @@ Oak
 Custom
 Custom
 Exit
-Exit
+Sair
 (Default)
-(Default)
+(Padrão)
 Which move should be forgotten?
 Which move should be forgotten?
 Are you sure you want {1} to forget {2}?
@@ -50193,7 +50193,7 @@ Species does not exist ({1}).
 {1} {2}, {3}
 {1} {2}, {3}
 Name
-Name
+Nome
 Money
 Money
 ${1}
@@ -51311,33 +51311,33 @@ Just select a Pokemon, and you'll be able to teach it any of the compatible TMs 
 Speech frame {1}.
 Speech frame {1}.
 Audio Options
-Audio Options
+Opções De Áudio
 Music Volume
-Music Volume
+Volume Da Música
 The loudness of background music.
-The loudness of background music.
+Volume da música de fundo.
 Jingle Volume
-Jingle Volume
+Volume De Toques
 The loudness of fanfares, jingles, and other musical effects.
-The loudness of fanfares, jingles, and other musical effects.
+Volume de fanfarras, toques e outros efeitos musicais.
 SE Volume
-SE Volume
+Volume De ES
 The loudness of sound effects, both in and out of battle.
-The loudness of sound effects, both in and out of battle.
+Volume de efeitos sonoros, tanto dentro quanto fora de batalha.
 Bicycle Music
-Bicycle Music
+Música De Ciclismo
 Whether to play special music while riding the bicycle.
-Whether to play special music while riding the bicycle.
+Tocar uma música especial quando você estiver andando de bicicleta?
 On
-On
+Sim
 Off
-Off
+Não
 User Interface Speed Options
-User Interface Speed Options
+Opções De Velocidade Da Interface De Usuário
 Text Speed
-Text Speed
+Velocidade Do Texto
 How quickly to display text in message boxes.
-How quickly to display text in message boxes.
+Quão rápido exibir texto em caixas de mensagem?
 1
 1
 2
@@ -51349,165 +51349,165 @@ How quickly to display text in message boxes.
 5
 5
 Nicknaming Prompt
-Nicknaming Prompt
+Perguntar Apelido
 Whether the game should ask you to set nicknames for newly caught Pokémon.
-Whether the game should ask you to set nicknames for newly caught Pokémon.
+Perguntar se você quer apelidar Pokémon recém-capturados?
 Dex Register Popup
-Dex Register Popup
+Msg. Registro Dex
 Whether to show a species' MasterDex entry when you first catch one.
-Whether to show a species' MasterDex entry when you first catch one.
+Mostrar a página da MasterDex de uma espécie recém-capturada?
 Item Popups
-Item Popups
+Msg. De Itens
 Whether to show an item's description when you acquire one for the first time.
-Whether to show an item's description when you acquire one for the first time.
+Mostrar a descrição de um item nunca adquirido antes?
 Trait Unlock Popups
-Trait Unlock Popups
+Msg. Traços Desbl.
 Whether to alert you when one of your Pokémon reveals personality traits.
-Whether to alert you when one of your Pokémon reveals personality traits.
+Avisar quando um de seus Pokémon revelar traços de personalidade?
 Team Snapshots
-Team Snapshots
+Fotos Da Equipe
 Whether to automatically take screenshots of your Party Showcase after major victories.
-Whether to automatically take screenshots of your Party Showcase after major victories.
+Automaticamente tirar uma foto do seu time após grandes vitórias?
 Prompt Level Moves
-Prompt Level Moves
+Aprender Mov.
 Whether to let your Pokémon learn new moves when leveling up.
-Whether to let your Pokémon learn new moves when leveling up.
+Deixar seu Pokémon aprender movimetos ao subir de nível?
 Show Stat Changes
-Show Stat Changes
+Mud. De Atributo
 Whether to show how your Pokémon's stats change on level up or evolution.
-Whether to show how your Pokémon's stats change on level up or evolution.
+Mostrar as mudanças de atributo de seu Pokémon ao subir de nível ou evoluir?
 Aid Kit Animation
-Aid Kit Animation
+Anim. do Kit Médico
 Whether to play an animation showing your party being healed by the Aid Kit.
-Whether to play an animation showing your party being healed by the Aid Kit.
+Mostrar sua equipe sendo curada pelo Kit Médico?
 EXP-EZ Dispenser Animation
-EXP-EZ Dispenser Animation
+Anim. do REXPartidor
 Whether to play an animation showing the Pokemon being fed candy by the EXP-EZ Dispenser.
-Whether to play an animation showing the Pokemon being fed candy by the EXP-EZ Dispenser.
+Mostrar seus Pokémon comendo os doces do REXPartidor?
 Quick Evolution
-Quick Evolution
+Evolução Rápida
 Whether to shorten the cutscene that plays when a Pokémon evolves.
-Whether to shorten the cutscene that plays when a Pokémon evolves.
+Acelerar a cinemática que aparece quando seu Pokémon evolui?
 User Interface Options
 User Interface Options
 Screen Size
-Screen Size
+Tamanho Da Tela
 How large the game screen is.
-How large the game screen is.
+Quão grande a tela do jogo é.
 S
-S
+P
 M
 M
 L
-L
+G
 XL
-XL
+GG
 Full
-Full
+Cheia
 Dark Mode
-Dark Mode
+Modo Escuro
 Whether or not user interface elements use a darker color scheme.
-Whether or not user interface elements use a darker color scheme.
+Usar um esquema de cores mais escuro em elementos da interface?
 Speech Frame
-Speech Frame
+Moldura De Fala
 Which frame surrounds message boxes.
-Which frame surrounds message boxes.
+Escolher a moldura em caixas de texto.
 Menu Frame
-Menu Frame
+Moldura Em Menus
 Which frame surrounds other user interface menus.
-Which frame surrounds other user interface menus.
+Escolher a moldura de menus e da interface.
 Text Entry
-Text Entry
+Entrada De Texto
 Which method you want to use to enter text.
-Which method you want to use to enter text.
+Qual método você deseja usar para digitar?
 Cursor
 Cursor
 Keyboard
-Keyboard
+Teclado
 Bag Sorting
-Bag Sorting
+Organizar Mochila
 How should items in your bag be sorted? Automatic.
-How should items in your bag be sorted? Automatic.
+Como os itens de sua mochila devem ser organizados? Automático.
 Hide Unseen Species
-Hide Unseen Species
+Esconder Espécies
 Which species should the MasterDex avoid spoiling?
-Which species should the MasterDex avoid spoiling?
+Quais espécies a MasterDex deve evitar mostrar antes que você encontre?
 Legends
-Legends
+Lendários
 Name on Showcase
-Name on Showcase
+Nome Nas Fotos
 Whether or not to put your player name on Party Showcases.
-Whether or not to put your player name on Party Showcases.
+Colocar o nome do seu personagem nas fotos da sua equipe?
 Advanced Tutorials
-Advanced Tutorials
+Tut. Avançados
 Whether to show popups explaining changes and new mechanics.
-Whether to show popups explaining changes and new mechanics.
+Mostrar mensagens explicando mudanças e novas mecânicas?
 Battle Options
-Battle Options
+Opções De Batalha
 Battle Effects
-Battle Effects
+Animações
 How to treat move and effect animations. Fast is 2x speed.
-How to treat move and effect animations. Fast is 2x speed.
+Quão rápidas devem ser animações de movimentos e efeitos? Rápidas = 2x.
 Standard
-Standard
+Padrão
 Battle Transitions
-Battle Transitions
+Transições
 Whether to speed up animations like starting battle or switching battlers.
-Whether to speed up animations like starting battle or switching battlers.
+Acelerar animações como a de início de batalha ou a de trocar Pokémon?
 Damage Numbers
-Damage Numbers
+Números De Dano
 Whether to display how much damage an attack did over the Pokémon's head.
-Whether to display how much damage an attack did over the Pokémon's head.
+Mostrar quanto dano um ataque deu em cima da cabeça do Pokémon atacado?
 Effect. Messages
-Effect. Messages
+Msg. De Efetiv.
 Whether to state how effective a move was.
-Whether to state how effective a move was.
+Mostrar quão efetivo um movimento foi?
 Weather Messages
-Weather Messages
+Msg. De Clima
 Whether to show messages about weather mechanics.
-Whether to show messages about weather mechanics.
+Mostrar mensagens sobre mecânicas de clima?
 Status Messages
-Status Messages
+Msg. De Status
 Whether to show messages about status condition mechanics.
-Whether to show messages about status condition mechanics.
+Mostrar mensagens sobre mecânicas de Condições De Status?
 Move Messages
-Move Messages
+Msg. De Movim.
 Whether to show messages when moves change base power or category.
-Whether to show messages when moves change base power or category.
+Mostrar mensagens quando movimentos mudarem o poder base ou a categoria?
 Avatar Messages
-Avatar Messages
+Msg. De Avatar
 Whether to show messages about avatar mechanics.
-Whether to show messages about avatar mechanics.
+Mostrar mensagens sobre mecânicas de avatares?
 Overworld Options
-Overworld Options
+Opções Fora De Batalha
 Default Movement
-Default Movement
+Movimento Padrão
 Whether walking or running should be your player character's default.
-Whether walking or running should be your player character's default.
+Seu personagem deve andar ou correr por padrão?
 Walking
-Walking
+Caminhada
 Running
-Running
+Corrida
 Autosave
-Autosave
+Salvamento Autom.
 Whether the game should save when healing and every 40 steps taken.
-Whether the game should save when healing and every 40 steps taken.
+Se ativo, o jogo será salvo quando você se curar ou a cada 40 passos dados.
 Pokémon Follow
-Pokémon Follow
+Pokémon Segue
 Whether your first Pokémon follows behind you.
-Whether your first Pokémon follows behind you.
+Se ativo, o primeiro Pokémon da equipe anda atrás de você.
 World Weather
-World Weather
+Clima Dinâmico
 Whether overworld areas experience random weathers.
-Whether overworld areas experience random weathers.
+Se ativo, áreas fora de batalha experienciam diferentes climas.
 Flashing
-Flashing
+Relâmpagos
 Whether lightning storms display a flashing lightning effect.
-Whether lightning storms display a flashing lightning effect.
+Durante tempestades, mostrar clarões de relâmpagos?
 Force Time
-Force Time
+Forçar Horário
 Force the overworld lighting of a certain hour of the day.
-Force the overworld lighting of a certain hour of the day.
+Forçar a iluminação fora de batalha para uma hora específica do dia?
 6
 6
 12
@@ -51517,39 +51517,39 @@ Force the overworld lighting of a certain hour of the day.
 24
 24
 Advanced Graphics Options
-Advanced Graphics Options
+Opções Gráficas Avançadas
 Color Shifts
-Color Shifts
+Variação De Cores
 Whether Pokémon have unique appearances. Disable if laggy.
-Whether Pokémon have unique appearances. Disable if laggy.
+Fazer cada Pokémon ter uma aparência única? Desabilite caso haja travamentos.
 Particles
-Particles
+Partículas
 Whether to display particle effects. Disable if laggy.
-Whether to display particle effects. Disable if laggy.
+Mostrar efeitos de partículas? Desabilite caso haja travamentos.
 Screenshake
-Screenshake
+Tremor Da Tela
 Whether to use screen shake effects. Disable if laggy.
-Whether to use screen shake effects. Disable if laggy.
+Usar efeitos de tremor da tela? Desabilite caso haja travamentos.
 Could not create game Options file.
 Could not create game Options file.
 Speed Options
-Speed Options
+Opções De Velocidade
 UI Options
-UI Options
+Opções Da Interface
 Adv. Graphics Options
-Adv. Graphics Options
+Opções Gráficas Avanç.
 Player Appearance
-Player Appearance
+Aparência Do Jogador
 Controls
-Controls
+Controles
 Language
-Language
+Idioma
 Game language was unchanged.
-Game language was unchanged.
+O idioma permaneceu o mesmo.
 Game language changed to {1}!
-Game language changed to {1}!
+Idioma alterado para {1}!
 Type {1}/{2}
-Type {1}/{2}
+Tipo {1}/{2}
 What do you want to do?
 What do you want to do?
 Connect
@@ -51747,15 +51747,15 @@ Evolve
 {1}'s nickname?
 {1}'s nickname?
 Documents
-Documents
+Documentos
 Item Bag
-Item Bag
+Mochila
 DexNav
 DexNav
 Game State
-Game State
+Situação
 Save/Quit
-Save/Quit
+Salvar/Sair
 money
 money
 Welcome!
@@ -59045,7 +59045,7 @@ You recieved a {1} ({2})
 Editing your team is not allowed at the moment.
 Editing your team is not allowed at the moment.
 \se[Voltorb Flip level up]Ring ring...
-\se[Voltorb Flip level up]Ring ring...
+\se[Voltorb Flip level up]Piririm piririm piririm...
 \i[SMARTPHONE]...It's {1}. Pick up the phone?
 \i[SMARTPHONE]...It's {1}. Pick up the phone?
 \i[SMARTPHONE]\se[Voltorb Flip mark]Click.
