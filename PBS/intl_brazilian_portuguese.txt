@@ -49857,17 +49857,17 @@ Quit Contest
 Save
 Save
 Options
-Options
+Opções
 Debug
-Debug
+Depuração
 Quit Game
-Quit Game
+Sair Do Jogo
 Would you like to leave the Safari Game right now?
 Would you like to leave the Safari Game right now?
 Would you like to end the Contest now?
 Would you like to end the Contest now?
 Are you sure you want to quit the game?
-Are you sure you want to quit the game?
+Você tem certeza que quer sair do jogo?
 Mud
 Mud
 Setting weather to {1} at power {2}
@@ -49913,7 +49913,7 @@ What Next?
 Quest Log
 Quest Log
 Achievements
-Achievements
+Conquistas
 The current level cap is {1}.
 The current level cap is {1}.
 Once at level {1}, your Pokémon cannot gain experience or have Candies used on them.
@@ -51157,31 +51157,31 @@ Aumenta o atributo de Defesa Especial do lado afetado em 50%. No último turno, 
 Phase {1}/{2}
 Phase {1}/{2}
 Use the Arrow keys to move the main character.<<n>>You can also use the Arrow keys to select entries and navigate menus.
-Use the Arrow keys to move the main character.<<r>><<n>><<r>><<n>>You can also use the Arrow keys to select entries and navigate menus.
+Use as setas do teclado para mover o personagem.<<n>><<n>>Você também pode usar as setas para selecionar opções e navegar pelos menus.
 Used to confirm a choice, interact with people and things, and move through text. (Default: C)
-Used to confirm a choice, interact with people and things, and move through text. (Default: C)
+Usada para confirmar uma escolha, interagir com pessoas e coisas e avançar em diálogos. (Padrão: C)
 Used to exit, cancel a choice, and cancel a mode. Also used to open the Pause Menu. (Default: X)
-Used to exit, cancel a choice, and cancel a mode. Also used to open the Pause Menu. (Default: X)
+Usada para sair, cancelar uma escolha e cancelar um modo. Também usada para abrir o Menu de Pausa. (Padrão: X)
 Has various functions depending on context. While moving around, hold to move at a different speed. (Default: Z)
-Has various functions depending on context. While moving around, hold to move at a different speed. (Default: Z)
+Tem várias funções dependendo do contexto. Enquanto se movendo, segure para mudar sua velocidade. (Padrão: Z)
 Press to open the Ready Menu, where registered items and available field moves can be used. (Default: D)
-Press to open the Ready Menu, where registered items and available field moves can be used. (Default: D)
+Pressione para abrir o menu Pronto Uso, onde itens registrados e movimentos de campo disponíveis podem ser usados. (Padrão: D)
 Press to quicksave while in the overworld.
-Press to quicksave while in the overworld.
+Pressione para usar o salvamento rápido enquanto fora de combate.
 Press to instantly mount the Bicycle while in the overworld.
-Press to instantly mount the Bicycle while in the overworld.
+Pressione para rapidamente montar na bicicleta enquanto fora de combate.
 Opens the Key Bindings window, where you can choose which keyboard keys to use for each control.
-Opens the Key Bindings window, where you can choose which keyboard keys to use for each control.
+Abre a janela de Atalhos de Teclado, onde você pode escolher quais teclas do teclado usar para cada ação.
 Press to reset to the main menu.
-Press to reset to the main menu.
+Pressione para redefinir o jogo de volta ao menu principal.
 Take a screenshot. It is put in the Screenshots folder, near your Save Game folder.
-Take a screenshot. It is put in the Screenshots folder, near your Save Game folder.
+Faz uma captura de tela. A captura é salva na pasta "ScreenShots", que fica perto da sua pasta "Save Game".
 Version Server Error
-Version Server Error
+Erro No Servidor De Versão
 OUT OF DATE
-OUT OF DATE
+DESATUALIZADO
 AHEAD OF LIVE
-AHEAD OF LIVE
+À FRENTE DA PRODUÇÃO
 \se[]What? {1} is evolving!\^
 \se[]What? {1} is evolving!\^
 Huh? {1} stopped evolving!
@@ -53635,21 +53635,21 @@ The saved data was deleted.
 All saved data could not be deleted.
 All saved data could not be deleted.
 Continue
-Continue
+Continuar
 Load Game
-Load Game
+Carregar Jogo
 New Game
-New Game
+Novo Jogo
 Player Survey
-Player Survey
+Enquete Para Jogadores
 Website
-Website
+Site
 Discord
 Discord
 Wiki
 Wiki
 3.4 Changelog
-3.4 Changelog
+Mudanças 3.4
 Just Save
 Just Save
 Save & Quit to Menu
