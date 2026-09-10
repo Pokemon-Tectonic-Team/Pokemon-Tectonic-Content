@@ -49895,7 +49895,7 @@ MoveDex
 Battle Guide
 Manual De Batalha
 Tribes
-Tribes
+Clãs
 Cancel
 Cancel
 Avatar of {1}
@@ -50399,11 +50399,11 @@ Efeitos Unilaterais
 What side effects are there and what are their effects?
 Quais Efeitos Unilaterais estão disponíveis e o que eles fazem?
 What are Tribes and what do they do?
-What are Tribes and what do they do?
+O que são Clãs e o que eles fazem?
 Legendary Abilities
-Legendary Abilities
+Habilidades Lendárias
 What do these legendary abilities do?
-What do these legendary abilities do?
+O que fazem Habilidades Lendárias?
 Winning Battles
 Vencendo Batalhas
 You win a battle when all enemy Pokémon faint: reach 0 health points. You lose a battle if that happens to your Pokémon.
@@ -50809,17 +50809,17 @@ Críticos Garantidos
 Some moves or abilities are not random, but guarantee a critical hit under certain conditions. Otherwise, these act the same as random critical hits.
 Alguns movimentos ou habilidades permitem Acertos Críticos de forma não aleatória, mas sim garantida sob certas circunstâncias. Apesar disso, esses Acertos Críticos se comportam como qualquer outro.
 What are Tribes?
-What are Tribes?
+O que são Clãs?
 Every Pokémon has 1-3 Tribes, decided by their species. Have 5 Pokémon of a shared Tribe on your team, and your entire team will receive that Tribe's bonus in battle!
-Every Pokémon has 1-3 Tribes, decided by their species. Have 5 Pokémon of a shared Tribe on your team, and your entire team will receive that Tribe's bonus in battle!
+Todo Pokémon tem de 1 a 3 clãs decididos com base em sua espécie. Junte 5 Pokémon de um mesmo Clã em sua equipe para ganhar o bônus daquele clã em batalha!
 Tribal Bonus
-Tribal Bonus
+Bônus De Clã
 Tribal Bonuses are not identical: each Tribe provides a unique boon. With careful team composition, you can have 2 or even 3 Tribal Bonuses active at once!
-Tribal Bonuses are not identical: each Tribe provides a unique boon. With careful team composition, you can have 2 or even 3 Tribal Bonuses active at once!
+Bônus de Clãs não são idênticos: cada Clã proporciona um benefício único. Com um pouco de cautela na construção da equipe, você pode ter 2 ou até 3 bônus de Clãs ativos de uma só vez!
 Are they important?
-Are they important?
+São Importantes?
 Tribes are not required in any way to complete the game. They are simply an alternative team-building challenge to play with, like Single Type runs.
-Tribes are not required in any way to complete the game. They are simply an alternative team-building challenge to play with, like Single Type runs.
+Clãs não são de forma alguma obrigatórios para completar o jogo. São meramente um desafio alternativo para construção de equipes, como desafios Monotipo, por exemplo.
 What are Enemy Trainers?
 O Que São Treinadores Rivais?
 Enemy Trainers are the Pokémon Trainers you will battle throughout the game. Some block your path forwards (like Gym Leaders), others are optional.
@@ -51075,85 +51075,85 @@ Poço Dos Desejos
 Wishing Well consumes up to 1000 scattered coins to block random added effects and heal the active side for 1/16th HP each turn. 100 coins per turn for a max. of 10 turns.
 Poço Dos Desejos consome até 1000 moedas derrubadas para bloquear efeitos adicionais aleatórios e curar o lado ativo em 1/16 dos PVs máximos por turno. 100 moedas por turno por um máximo de 10 turnos.
 Tapu Koko: Storm Totem
-Tapu Koko: Storm Totem
+Tapu Koko: Totem Tempestuoso
 Pokémon on this side get a 30% move damage boost, but they are prevented from using moves that are the same type as the move they most recently used.
-Pokémon on this side get a 30% move damage boost, but they are prevented from using moves that are the same type as the move they most recently used.
+Pokémon desse lado do campo ganham um bônus de dano de 30%, mas são prevenidos de usar movimentos do mesmo tipo que o movimento mais recente utilizado por eles.
 Tapu Fini: Fog Totem
-Tapu Fini: Fog Totem
+Tapu Fini: Totem Nebuloso
 Whenever a foe finishes attacking a Pokémon on this side, the attacker is forced to switch out of battle. They are able to choose the replacement.
-Whenever a foe finishes attacking a Pokémon on this side, the attacker is forced to switch out of battle. They are able to choose the replacement.
+Após atacar um Pokémon desse lado do campo, o atacante é forçado a sair de campo. O adversário pode escolher qual Pokémon entrará em seguida.
 Tapu Bulu: Wild Totem
-Tapu Bulu: Wild Totem
+Tapu Bulu: Totem Selvagem
 Whenever a Pokémon on this side is hit, its defending stats are both lowered by 1 step and its attacking stats are both raised by 1 step.
-Whenever a Pokémon on this side is hit, its defending stats are both lowered by 1 step and its attacking stats are both raised by 1 step.
+Assim que um Pokémon desse lado do campo é atingido, seus atributos defensivos são reduzidos e seus atributos ofensivos, aumentados (ambos em 1 nível).
 Tapu Lele: Flutter Totem
-Tapu Lele: Flutter Totem
+Tapu Lele: Totem Oscilante
 At the end of each turn, the Pokémon on this side are all healed by 1/8th of their max HP, but each one of their moves has their PP reduced by 1.
-At the end of each turn, the Pokémon on this side are all healed by 1/8th of their max HP, but each one of their moves has their PP reduced by 1.
+No final de cada turno, os Pokémon desse lado do campo são curados em 1/8 de seus PV máximos, mas cada movimento deles tem seus PP reduzidos em 1.
 Zeraora: Hybrid Fighter
-Zeraora: Hybrid Fighter
+Zeraora: Lutador Híbrido
 You gain effects for using moves in an order.<<n>>Kick -> Bite: Healed by 25%.<<n>>Punch -> Kick: You switch out.<<n>>Bite -> Punch: The target's Attack and Sp. Atk lowers by 2 steps.
-You gain effects for using moves in an order.<<n>>Kick -> Bite: Healed by 25%.<<n>>Punch -> Kick: You switch out.<<n>>Bite -> Punch: The target's Attack and Sp. Atk lowers by 2 steps.
+Você ganha efeitos ao usar movimentos em uma certa ordem.<<n>>Chute -> Mordida: Curado em 25%.<<n>>Soco -> Chute: Você sai de campo.<<n>>Mordida -> Soco: Diminui o Atk. e Atk.Sp. do alvo em 2 níveis.
 Hybrid Fighter Part 2
-Hybrid Fighter Part 2
+Lutador Híbrido Parte 2
 Bite -> Kick: Your speed raises by 2 steps.<<n>>Kick -> Punch: Opponent is Numbed.<<n>>Punch -> Bite: You gain Energy Charged.
-Bite -> Kick: Your speed raises by 2 steps.<<n>>Kick -> Punch: Opponent is Numbed.<<n>>Punch -> Bite: You gain Energy Charged.
+Mordida -> Chute: Sua Velocidade aumenta em 2 níveis.<<n>>Chute -> Soco: Oponente é Imobilizado.<<n>>Soco -> Mordida: Você é Energizado.
 Articuno: Glacial Wings
-Articuno: Glacial Wings
+Articuno: Asas Glaciais
 Severe Frostbite: The same as Frostbite, but its end-of-turn chip deals double damage if the afflicted Pokémon is below half health.
-Severe Frostbite: The same as Frostbite, but its end-of-turn chip deals double damage if the afflicted Pokémon is below half health.
+Frio Extremo: O mesmo que Frio, mas o dano aplicado no fim do turno é dobrado caso o Pokémon afetado tenha metade da vida ou menos.
 Moltres: Searing Wings
-Moltres: Searing Wings
+Moltres: Asas Ardentes
 Severe Burn: The same as Burn, but the afflicted Pokémon also takes 33% recoil from their attacks.
-Severe Burn: The same as Burn, but the afflicted Pokémon also takes 33% recoil from their attacks.
+Queimadura Extrema: O mesmo que Queimadura, mas o Pokémon afetado também leva 33% de dano colateral ao atacar.
 Zapdos: Galvanic Wings
-Zapdos: Galvanic Wings
+Zapdos: Asas Galvânicas
 Severe Numb: The same as Numb, but the afflicted Pokémon's highest stat is reduced at the end of each turn.
-Severe Numb: The same as Numb, but the afflicted Pokémon's highest stat is reduced at the end of each turn.
+Imobilização Extrema: O mesmo que Imobilização, mas o Pokémon afetado tem seu maior atributo reduzido ao final de cada turno.
 Kyogre: Primordial Sea
-Kyogre: Primordial Sea
+Kyogre: Mar Primordial
 Boosts the damage of Water- and Electric-type attacks by 50%. Prevents Pokémon not immune to Rain from activating moves' random added effects.
-Boosts the damage of Water- and Electric-type attacks by 50%. Prevents Pokémon not immune to Rain from activating moves' random added effects.
+Aumenta o dano de ataques dos tipos Água e Elétrico em 50%. Previne Pokémon não imunes à chuva de ativarem efeitos adicionais aleatórios.
 Groudon: Desolate Land
-Groudon: Desolate Land
+Groudon: Terra Desolada
 Boosts the damage of Fire- and Grass-type attacks by 50%. Prevents Pokémon not immune to Sun from activating critical hits.
-Boosts the damage of Fire- and Grass-type attacks by 50%. Prevents Pokémon not immune to Sun from activating critical hits.
+Aumenta o dano de ataques dos tipos Fogo e Grama em 50%. Previne Pokémon não imunes ao Sol de ativarem efeitos adicionais aleatórios.
 Necrozma: Event Horizon
-Necrozma: Event Horizon
+Necrozma: Horizonte De Eventos
 Rock- and Ground-types gain a 50% boost to Special Defense. Deals sandstorm damage at end of turn. Pokémon not immune to Sandstorm take 50% more HP-fraction-based damage.
-Rock- and Ground-types gain a 50% boost to Special Defense. Deals sandstorm damage at end of turn. Pokémon not immune to Sandstorm take 50% more HP-fraction-based damage.
+Pokémon dos tipos Pedra e Terrestre ganham 50% a mais de Defesa Especial. Dá dano de Tempestade De Areia ao final de cada turno. Pokémon não imunes à Tempestade De Areia levam 50% a mais de dano fracionário.
 Kyurem: Heat Death
-Kyurem: Heat Death
+Kyurem: Morte Térmica
 Ice- and Ghost-types gain a 50% boost to Defense. Deals hail damage at end of turn. Pokémon struck by the hail become unable to heal.
-Ice- and Ghost-types gain a 50% boost to Defense. Deals hail damage at end of turn. Pokémon struck by the hail become unable to heal.
+Os tipos Gelo e Fantasma ganham um bônus de Defesa de 50%. Dá dano de Granizo ao final de cada turno. Pokémon atingidos pelo Granizo se tornam incapazes de curar.
 Cresselia: Saturnal Sky
-Cresselia: Saturnal Sky
+Cresselia: Saturna Celeste
 Boosts the damage of Psychic- and Dragon-type attacks by 50%. When the debuff applies from the Ring Eclipse effect, it lowers stats by 3 steps instead of 2.
-Boosts the damage of Psychic- and Dragon-type attacks by 50%. When the debuff applies from the Ring Eclipse effect, it lowers stats by 3 steps instead of 2.
+Aumenta o dano de ataques do tipo Psíquico e Dragão em 50%. Quando a redução de atributos do efeito Eclipse Anelar acontecer, os atributos são reduzidos em 3 níveis ao invés de 2.
 Darkrai: Stygian Night
-Darkrai: Stygian Night
+Darkrai: Noite Estigial
 Boosts the damage of Fairy- and Dark-type attacks by 50%. When the flinch happens from Blood Moon, it also damages targets by 25% of their max HP.
-Boosts the damage of Fairy- and Dark-type attacks by 50%. When the flinch happens from Blood Moon, it also damages targets by 25% of their max HP.
+Aumenta o dano de ataques dos tipos Fada e Sombrio em 50%. Quando a Hesitação do efeito da Lua De Sangue acontecer, também causará 25% do PV máximo de dano aos alvos.
 Giratina: Distorted Gravity
-Giratina: Distorted Gravity
+Giratina: Gravidade Distorcida
 All foes take 1/16th damage at the end of the round. While the user is on the field, gravity does not decay.
-All foes take 1/16th damage at the end of the round. While the user is on the field, gravity does not decay.
+Todos os adversários recebem 1/16 de seu PV máximo ao final de cada turno. Enquanto o usuário estiver em campo, a Gravidade não sumirá.
 Tornadus: Wish of Winter
-Tornadus: Wish of Winter
+Tornadus: Anseio Hiemal
 Raises the side's Accuracy by 50%. On the final turn, that side has +1 priority.
-Raises the side's Accuracy by 50%. On the final turn, that side has +1 priority.
+Aumenta o atributo de Precisão do lado afetado em 50%. No último turno, o lado afetado ganha +1 de prioridade.
 Thundurus: Wish of Summer
-Thundurus: Wish of Summer
+Thundurus: Anseio Veranil
 Raises the side's Speed by 50%. On the final turn, that side deals 50% more move damage, but takes 25% recoil.
-Raises the side's Speed by 50%. On the final turn, that side deals 50% more move damage, but takes 25% recoil.
+Aumenta o atributo de Velocidade do lado afetado em 50%. No último turno, o lado afetado dá 50% a mais de dano, mas leva 25% de dano colateral ao atacar.
 Landorus: Wish of Autumn
-Landorus: Wish of Autumn
+Landorus: Anseio Outoniço
 Raises the side's Defense by 50%. On the final turn, that side is healed for 33% max HP. This can overheal.
-Raises the side's Defense by 50%. On the final turn, that side is healed for 33% max HP. This can overheal.
+Aumenta o atributo de Defesa do lado afetado em 50%. No último turno, o lado afetado é curado em 33% do PV máximo. Isso pode Supercurar.
 Enamorus: Wish of Spring
-Enamorus: Wish of Spring
+Enamorus: Anseio Primaveril
 Raises the side's Sp. Def by 50%. On the final turn, that side is cured of non-volatile status conditions and mental conditions.
-Raises the side's Sp. Def by 50%. On the final turn, that side is cured of non-volatile status conditions and mental conditions.
+Aumenta o atributo de Defesa Especial do lado afetado em 50%. No último turno, o lado afetado é curado de quaisquer Condições Não-Voláteis de Status e condições mentais.
 Phase {1}/{2}
 Phase {1}/{2}
 Use the Arrow keys to move the main character.<<n>>You can also use the Arrow keys to select entries and navigate menus.
