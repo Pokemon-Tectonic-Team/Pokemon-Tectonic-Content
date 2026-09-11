@@ -49033,23 +49033,23 @@ Trade Items
 National Pokédex
 National Pokédex
 Main Story
-Main Story
+História Principal
 Gyms
-Gyms
+Ginásios
 Avatars
 Avatares
 Collection
-Collection
+Coleção
 Exploration
-Exploration
+Exploração
 Sidequests
-Sidequests
+Missões Secund.
 Battle Monument
-Battle Monument
+Monum. De Batalha
 Battle
-Battle
+Batalha
 Other
-Other
+Outras
 Area
 Area
 Type
@@ -49875,11 +49875,11 @@ Setting weather to {1} at power {2}
 <u>???</u>
 <u>???</u>
 Achievement hidden.
-Achievement hidden.
+Conquista ocultada.
 Unknown
 Unknown
 <outln2>Achievements: {1}</outln2>
-<outln2>Achievements: {1}</outln2>
+<outln2>Conquistas: {1}</outln2>
 <<[>>{1}/{2}<<]>>
 <<[>>{1}/{2}<<]>>
 Earn a {1}
@@ -67033,163 +67033,163 @@ Coral Overgrowth
 Coral Overgrowth
 [33]
 Crowning Achievement
-Crowning Achievement
+A Coroação
 Pace Setter
-Pace Setter
+Recordista
 Ultimate Flex
-Ultimate Flex
+Pra Que Humilhar?
 Please Leave a Message at the Tone
-Please Leave a Message at the Tone
+Deixe Uma Mensagem Depois Do Bipe
 I'm Not Trapped Here With You
-I'm Not Trapped Here With You
+Eu Não Estou Preso Aqui Com Você...
 Handicap
-Handicap
+Nem Assim
 Last Call
-Last Call
+Última Chamada
 No Pain No Gain
-No Pain No Gain
+Nem Doeu!
 Demoted
-Demoted
+Pro Olho Da Rua
 Make Like a Tree
-Make Like a Tree
+Cai Folha Daqui!
 Enemy of my Enemies
-Enemy of my Enemies
+O Inimigo Dos Meus Inimigos
 Artist's Block
-Artist's Block
+Bloqueio Artístico
 You Get Nothing!
-You Get Nothing!
+Mãos Abanando
 Dread Not
-Dread Not
+Não Tema
 Slayer
-Slayer
+Uma Lenda Para As Lendas
 Primirror
-Primirror
+Espelho Primordial
 Clay Army
-Clay Army
+O Exército De Terracota
 Regicide
-Regicide
+Regicídio
 Ozone Depletion
-Ozone Depletion
+A Queda Da Ozonosfera
 Back to Basics
-Back to Basics
+Pode Até Questionar Meus Meios...
 Having a Ball
-Having a Ball
+Ostentação
 Failed to Fail
-Failed to Fail
+Tarefa Fracassada Com Sucesso
 Full House
-Full House
+Casa Lotada
 Field Medic
-Field Medic
+Esculápio
 Detour
-Detour
+Atalho
 Totemly Obsessed
-Totemly Obsessed
+Totemmente Obcecado
 Champion of Champions
-Champion of Champions
+Campeão dos Campeões
 Gender Schmender
-Gender Schmender
+Gênero: Não.
 The Final Straw
-The Final Straw
+A Gota D'Água
 Monumental
 Monumental
 Limited Time
-Limited Time
+Tempo Limitado
 Motley Crew
-Motley Crew
+Deixando As Diferenças De Lado
 Clannish
-Clannish
+Espírito De Equipe
 Hazardous
-Hazardous
+Perigoso
 Worldbuilder
-Worldbuilder
+Só Pra Garantir...
 Isn't That Grand
-Isn't That Grand
+Parece Ter Doído...
 Overkill
-Overkill
+É, Com Certeza Doeu.
 No Inheritance Needed
-No Inheritance Needed
+Herdeiro Sem Vergonha
 Banking on It
-Banking on It
+O Que Importa É A Experiência
 Hook Line and Sinker
-Hook Line and Sinker
+História De Pescador
 [34]
 Be officially crowned Champion of Makya.
-Be officially crowned Champion of Makya.
+Seja oficialmente coroado Campeão de Makya.
 Reach the credits with 10 or fewer hours on your save file.
-Reach the credits with 10 or fewer hours on your save file.
+Chegue aos créditos com 10 horas ou menos em seu arquivo de salvamento.
 Defeat Zain in Prizca West with a shiny Skitty in your party.
-Defeat Zain in Prizca West with a shiny Skitty in your party.
+Derrote Zain na Prizca Ocidental com um Skitty shiny na sua equipe.
 Decline Mavis' phone call at the end of the game.
-Decline Mavis' phone call at the end of the game.
+Rejeite a ligação de Mavis no final do jogo.
 Perfectly defeat Yezera in the Catacombs with the Tarot Amulet activated.
-Perfectly defeat Yezera in the Catacombs with the Tarot Amulet activated.
+Aperfeiçoe Yezera nas catacumbas com o Amuleto de Tarot ativado.
 Defeat a gym leader while at a level cap below that of the leader's team.
-Defeat a gym leader while at a level cap below that of the leader's team.
+Derrote um líder de ginásio com um limite de nível menor que o nível da equipe do lider.
 Perfect Lambert, the first gym leader, at level cap 15 or below with the Tarot Amulet activated.
-Perfect Lambert, the first gym leader, at level cap 15 or below with the Tarot Amulet activated.
+Aperfeiçoe Lambert, o primeiro líder de ginásio, com um limite de nível de 15 ou menor e com o Amuleto de Tarot ativado.
 Perfect Eko, the second gym leader, at level cap 20 or below with the Tarot Amulet activated.
-Perfect Eko, the second gym leader, at level cap 20 or below with the Tarot Amulet activated.
+Aperfeiçoe Eko, a segunda líder de ginásio, com um limite de nível de 20 ou menor e com o Amuleto de Tarot ativado.
 Perfect Helena, the third gym leader, at level cap 25 or below with the Tarot Amulet activated.
-Perfect Helena, the third gym leader, at level cap 25 or below with the Tarot Amulet activated.
+Aperfeiçoe Helena, a terceira líder de ginásio, com um limite de nível de 25 ou menor e com o Amuleto de Tarot ativado.
 Perfect Rafael, the fourth gym leader, at level cap 30 or below with the Tarot Amulet activated.
-Perfect Rafael, the fourth gym leader, at level cap 30 or below with the Tarot Amulet activated.
+Aperfeiçoe Rafael, o quarto líder de ginásio, com um limite de nível de 30 ou menor e com o Amuleto de Tarot ativado.
 Perfect Bence and Zoé, the fifth gym leaders, at level cap 40 or below with the Tarot Amulet activated.
-Perfect Bence and Zoé, the fifth gym leaders, at level cap 40 or below with the Tarot Amulet activated.
+Aperfeiçoe Bence e Zoé, os quintos líderes de ginásio, com um limite de nível de 40 ou menor e com o Amuleto de Tarot ativado.
 Perfect Noel, the sixth gym leader, at level cap 45 or below with the Tarot Amulet activated.
-Perfect Noel, the sixth gym leader, at level cap 45 or below with the Tarot Amulet activated.
+Aperfeiçoe Noel, o sexto líder de ginásio, com um limite de nível de 45 ou menor e com o Amuleto de Tarot ativado.
 Perfect Victoire, the seventh gym leader, at level cap 55 or below with the Tarot Amulet activated.
-Perfect Victoire, the seventh gym leader, at level cap 55 or below with the Tarot Amulet activated.
+Aperfeiçoe Victoire, a sétima líder de ginásio, com um limite de nível de 55 ou menor e com o Amuleto de Tarot ativado.
 Perfect Samorn, the eighth gym leader, at level cap 60 or below with the Tarot Amulet activated.
-Perfect Samorn, the eighth gym leader, at level cap 60 or below with the Tarot Amulet activated.
+Aperfeiçoe Samorn, a oitava líder de ginásio, com um limite de nível de 60 ou menor e com o Amuleto de Tarot ativado.
 Destroy any legendary avatar.
-Destroy any legendary avatar.
+Destrua qualquer avatar lendário.
 Use a Primeval Move.
-Use a Primeval Move.
+Use um Movimento Primordial
 Defeat all 8 Team Chasm-created avatars within the locked chambers.
-Defeat all 8 Team Chasm-created avatars within the locked chambers.
+Derrote todos os 8 avatares criados pela equipe Chasm
 Destroy the avatars of Spectrier, Glastrier, and Calyrex in the Crown Chamber.
-Destroy the avatars of Spectrier, Glastrier, and Calyrex in the Crown Chamber.
+Destrua os Avatares de Spectrier, Glastrier e Calyrex na Câmara da Coroa.
 Destroy the avatar of Rayquaza in the Tempest Realm.
-Destroy the avatar of Rayquaza in the Tempest Realm.
+Destrua o Avatar de Rayquaza no Reino Tempestuoso.
 Capture a legendary Pokémon in a regular Poké Ball (thrown normally or created by the Ball Launcher.)
-Capture a legendary Pokémon in a regular Poké Ball (thrown normally or created by the Ball Launcher.)
+Capture um Pokémon Lendário com uma Pokébola normal (atirada normalmente ou criada pelo Atirador De Bolas).
 Capture at least one Pokémon in a Premier Ball, a Cherish Ball, and a Royal Ball.
-Capture at least one Pokémon in a Premier Ball, a Cherish Ball, and a Royal Ball.
+Capture ao menos um Pokémon com uma Bola Presenteada, uma Bola Estima e uma Bola Real.
 Capture at least one Pokémon in a Potion Ball, a Slice Ball, a Leech Ball, and a Disable Ball.
-Capture at least one Pokémon in a Potion Ball, a Slice Ball, a Leech Ball, and a Disable Ball.
+Capture ao menos um Pokémon com uma Bola Poção, uma Bola Parasita e uma Bola Anuladora.
 Visit a PokÉstate plot that has 30 Pokémon in it.
-Visit a PokÉstate plot that has 30 Pokémon in it.
+Visite uma PokéPropriedade que abriga 30 Pokémon.
 Fully upgrade your Aid Kit.
-Fully upgrade your Aid Kit.
+Melhore seu Kit Médico totalmente.
 Reach Prizca West without defeating the Avatar of Terrakion.
-Reach Prizca West without defeating the Avatar of Terrakion.
+Chegue à Prizca Ocidental sem derrotar o Avatar De Terrakion.
 Connect all Avatar Totems.
-Connect all Avatar Totems.
+Conecte todos os Totens de Avatar.
 Defeat all 7 former Makyan champions.
-Defeat all 7 former Makyan champions.
+Derrote todos os 7 ex-campeões de Makya.
 Defeat Pokémon Master Vanya with a full team of genderless Pokémon.
-Defeat Pokémon Master Vanya with a full team of genderless Pokémon.
+Derrote Mestre Pokémon Vanya com uma equipe inteira de Pokémon sem gênero.
 Defeat Another Possible Rafael in the Path of Paradise.
-Defeat Another Possible Rafael in the Path of Paradise.
+Derrote o Rafael Alternativo no Caminho Empíreo.
 Complete a full attempt of the Battle Monument (5 battles won).
-Complete a full attempt of the Battle Monument (5 battles won).
+Complete uma tentativa no Monumento De Batalha (5 batalhas vencidas).
 Complete a full attempt of the Battle Monument (5 battles won) with a Team whose members were all introduced in the same generation (Pokémon introduced in Tectonic count as a generation.)
-Complete a full attempt of the Battle Monument (5 battles won) with a Team whose members were all introduced in the same generation (Pokémon introduced in Tectonic count as a generation.)
+Complete uma tentativa no Monumento de Batalha (5 batalhas vencidas) com uma equipe com todos os membros introduzidos em uma mesma geração (Pokémon introduzidos no Tectonic contam como uma geração).
 Complete a full attempt of the Battle Monument (5 battles won) with a Team whose members share no tribes in common.
-Complete a full attempt of the Battle Monument (5 battles won) with a Team whose members share no tribes in common.
+Complete uma tentativa no Monumento de Batalha (5 batalhas vencidas) com uma equipe cujos membros não têm nenhum Clã em comum.
 Start a battle while having an active Tribal bonus.
-Start a battle while having an active Tribal bonus.
+Comece uma batalha com um Bônus de Clã ativo.
 At the end of a turn, have four or more hazards active on the opponent's side.
-At the end of a turn, have four or more hazards active on the opponent's side.
+Ao final de qualquer turno, tenha ao menos 4 armadilhas de campo no lado do oponente.
 At the end of a turn, have a Weather, a Room, and a Screen (on your side) active at the same time.
-At the end of a turn, have a Weather, a Room, and a Screen (on your side) active at the same time.
+Ao final de qualquer turno, tenha um Clima, uma Sala e uma Tela (do seu lado do campo) ativos ao mesmo tempo.
 Deal 1,000 or more damage in one hit.
-Deal 1,000 or more damage in one hit.
+Dê 1.000 ou mais de dano em um único acerto.
 Deal 10,000 or more damage in one hit.
-Deal 10,000 or more damage in one hit.
+Dê 10.000 ou mais de dano em um único acerto.
 Hold 500,000 or more money at once.
-Hold 500,000 or more money at once.
+Tenha $500.000 ou mais em sua carteira.
 Have more than 1,000,000 experience stored in the EXP-EZ Dispenser at once.
-Have more than 1,000,000 experience stored in the EXP-EZ Dispenser at once.
+Tenha mais de 1.000.000 de experiência guardada no REXPartidor de uma só vez.
 Achieve the top prize at Aquatopia Menagerie's Ocean Fishing Contest.
-Achieve the top prize at Aquatopia Menagerie's Ocean Fishing Contest.
+Ganhe o maior prêmio no Concurso De Pesca da Coleção de Aquatopia.
