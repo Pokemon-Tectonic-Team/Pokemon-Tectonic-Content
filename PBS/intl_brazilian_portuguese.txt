@@ -49915,13 +49915,13 @@ Missões
 Achievements
 Conquistas
 The current level cap is {1}.
-The current level cap is {1}.
+O limite de nível atual é {1}.
 Once at level {1}, your Pokémon cannot gain experience or have Candies used on them.
-Once at level {1}, your Pokémon cannot gain experience or have Candies used on them.
+Ao chegarem ao nível {1}, seus Pokémon não podem mais ganhar experiência ou terem Doces usados neles.
 The level cap can be raised by reading Battle Reports (a consumable item).
-The level cap can be raised by reading Battle Reports (a consumable item).
+Você pode aumentar o limite de nível lendo Relatórios de Batalha (um item consumível).
 You'll earn Battle Reports after defeating Gym Leaders and major story battles.
-You'll earn Battle Reports after defeating Gym Leaders and major story battles.
+Você ganha Relatórios de Batalha depois de derrotar Líderes De Ginásio e batalhas importantes da história.
 Name<r>{1}<br>
 Name<r>{1}<br>
 IDNo.<r>{1}<br>
@@ -50191,17 +50191,17 @@ Take good care of {1}.
 Species does not exist ({1}).
 Species does not exist ({1}).
 {1} {2}, {3}
-{1} {2}, {3}
+{2} / {1} / {3}
 Name
 Nome
 Money
-Money
+Dinheiro
 ${1}
 ${1}
 Time
-Time
+Tempo Jogado
 Started
-Started
+Começou
 {1}h {2}m
 {1}h {2}m
 {1}m
@@ -59861,71 +59861,71 @@ The stealth spray's effect wore off!
 Your flame would go out if you surfed now!
 Your flame would go out if you surfed now!
 Sunday
-Sunday
+Domingo
 Monday
-Monday
+Segunda-Feira
 Tuesday
-Tuesday
+Terça-Feira
 Wednesday
-Wednesday
+Quarta-Feira
 Thursday
-Thursday
+Quinta-Feira
 Friday
-Friday
+Sexta-Feira
 Saturday
-Saturday
+Sábado
 January
-January
+Janeiro
 February
-February
+Fevereiro
 April
-April
+Abril
 May
-May
+Maio
 June
-June
+Junho
 July
-July
+Julho
 August
-August
+Agosto
 September
-September
+Setembro
 October
-October
+Outubro
 November
-November
+Novembro
 December
-December
+Dezembro
 Jan.
 Jan.
 Feb.
-Feb.
+Fev.
 Mar.
 Mar.
 Apr.
-Apr.
+Abr.
 Jun.
 Jun.
 Jul.
 Jul.
 Aug.
-Aug.
+Ago.
 Sep.
-Sep.
+Set.
 Oct.
-Oct.
+Out.
 Nov.
 Nov.
 Dec.
-Dec.
+Dez.
 Spring
-Spring
+Primavera
 Summer
-Summer
+Verão
 Autumn
-Autumn
+Outono
 Winter
-Winter
+Inverno
 Value {1} not defined by a constant in {2}
 Value {1} not defined by a constant in {2}
 Which appearance would you like?
