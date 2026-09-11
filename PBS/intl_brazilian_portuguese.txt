@@ -50207,7 +50207,7 @@ Começou
 {1}m
 {1}m
 <outln2>Tribal Bonus Info</outln2>
-<outln2>Tribal Bonus Info</outln2>
+<outln2>Informações De Bônus De Clãs</outln2>
 Wild Pokemon don't give experience in Pokemon Tectonic.
 Wild Pokemon don't give experience in Pokemon Tectonic.
 Don't worry, there's an abundance of experience to gain in other ways.
@@ -64547,149 +64547,149 @@ You bet.
 [27]
 0
 Animated
-Animated
+Empolgado
 1
 Artillery
-Artillery
+Artilheiro
 2
 Assassin
-Assassin
+Assassino
 3
 Bushwhacker
-Bushwhacker
+Emboscador
 4
 Caretaker
-Caretaker
+Protetor
 5
 Charmer
-Charmer
+Galanteador
 6
 Deceiver
-Deceiver
+Enganador
 7
 Esoteric
-Esoteric
+Esotérico
 8
 Fortune
-Fortune
+Afortunado
 9
 Harmonic
-Harmonic
+Harmônico
 10
 Industrious
-Industrious
+Esforçado
 11
 Loyal
-Loyal
+Leal
 12
 Noble
-Noble
+Nobre
 13
 Radiant
-Radiant
+Radiante
 14
 Scavenger
-Scavenger
+Reciclador
 15
 Scourge
-Scourge
+Praga
 16
 Scrapper
-Scrapper
+Sucateiro
 17
 Serene
-Serene
+Sereno
 18
 Stampede
-Stampede
+Debandado
 19
 Tactician
-Tactician
+Tático
 20
 Tyrannical
-Tyrannical
+Tirano
 21
 Warrior
-Warrior
+Guerreiro
 22
 Mystic
-Mystic
+Místico
 23
 Test Tribe
-Test Tribe
+Clã De Teste
 [28]
 0
 Your team members take one third less damage from sources that aren't attacks.
-Your team members take one third less damage from sources that aren't attacks.
+Os membros da sua equipe levam 1/3 menos dano de fontes que não são ataques.
 1
 Your team members deal 20% more move damage after their first turn.
-Your team members deal 20% more move damage after their first turn.
+Os membros da sua equipe dão 20% mais dano com ataques após seu primeiro turno em batalha.
 2
 Your team deals 20% more move damage on their first turn out.
-Your team deals 20% more move damage on their first turn out.
+Os membros da sua equipe dão 20% mais dano ao atacar em seu primeiro turno em batalha.
 3
 Your team's 'Not Very Effective' or 'Barely Effective' moves deal 50% more damage.
-Your team's 'Not Very Effective' or 'Barely Effective' moves deal 50% more damage.
+Os membros da sua equipe dão 50% a mais de dano com ataques que resultam em um acerto 'Pouco Efetivo' ou 'Escassamente Efetivo'.
 4
 Your team members heal for 1/10th HP when swapping out. Your Aid Kit heals for 25% more.
-Your team members heal for 1/10th HP when swapping out. Your Aid Kit heals for 25% more.
+Os membros da sua equipe são curados em 1/10 PV ao saírem de campo. Seu Kit Médico é 25% mais efetivo.
 5
 Your team takes 20% less move damage on the turns they enter.
-Your team takes 20% less move damage on the turns they enter.
+Os membros da sua equipe levam 20% menos dano no turno que entrarem em campo.
 6
 Your team deals 15% more move damage with attacks that don't share a type with their species.
-Your team deals 15% more move damage with attacks that don't share a type with their species.
+Os membros da sua equipe dão 15% mais dano com ataques que não compartilham um tipo com a espécie deles.
 7
 Whenever a member of your team uses a status move, they'll deal 25% more move damage next turn.
-Whenever a member of your team uses a status move, they'll deal 25% more move damage next turn.
+Sempre que um membro da sua equipe usa um Movimento De Status, seus ataques darão 25% a mais de dano no turno seguinte.
 8
 Your team members' moves have a +30% chance to activate their additional effects.
-Your team members' moves have a +30% chance to activate their additional effects.
+Os membros da sua equipe têm +30% de chance de ativar efeitos adicionais com seus movimentos.
 9
 Your team takes 10% less move damage.
-Your team takes 10% less move damage.
+Sua equipe leva 10% menos dano de ataques.
 10
 You gain 10% more money and coins in battles. If you have more than $100,000, your team gets a boost to Attack, Defense, Sp. Atk, and Sp. Def (before modifiers). This bonus scales with the level cap and is currently {b1}.
-You gain 10% more money and coins in battles. If you have more than $100,000, your team gets a boost to Attack, Defense, Sp. Atk, and Sp. Def (before modifiers). This bonus scales with the level cap and is currently {b1}.
+Você ganha 10% mais dinheiro e moedas em batalhas. Se você tem mais de $100.000, sua equipe ganha um bônus de Ataque, Defesa, Ataque Especial e Defesa Especial (antes de modificadores). Esse bônus escala com o limite de nível e atualmente é de {b1}.
 11
 Your team members gain 10% more EXP in battles. They also get a small boost to Attack, Defense, Sp. Atk, and Sp. Def (before modifiers). This bonus scales with the level cap and is currently {b}.
-Your team members gain 10% more EXP in battles. They also get a small boost to Attack, Defense, Sp. Atk, and Sp. Def (before modifiers). This bonus scales with the level cap and is currently {b}.
+Os membros da sua equipe ganham 10% mais EXP em batalhas. Eles também ganham um pequeno bônus de Ataque, Defesa, Ataque Especial e Defesa Especial (antes de modificadores). Esse bônus escala com o limite de nível e atualmente é de {b}.
 12
 Your team members take 15% less move damage if they're using a status move this turn.
-Your team members take 15% less move damage if they're using a status move this turn.
+Os membros da sua equipe levam 15% menos dano de ataques se eles estiverem usando um Movimento de Status nesse turno.
 13
 Your team has 30% increased Sp. Def. Foes can't lower your team's Sp. Def.
-Your team has 30% increased Sp. Def. Foes can't lower your team's Sp. Def.
+Sua equipe tem 30% a mais de Def. Esp. Inimigos não podem diminuir a Def. Esp. da sua equipe.
 14
 Your team members' berries heal them for 50% more (multiplicative) and their gem-boosted attacks deal 25% more damage (multiplicative).
-Your team members' berries heal them for 50% more (multiplicative) and their gem-boosted attacks deal 25% more damage (multiplicative).
+Os membros da sua equipe se curam 50% a mais com Frutas e seus ataques reforçados por Jóias dão 25% a mais de dano (multiplicativo).
 15
 Your able party members and battlers heal for 1/10th HP whenever a foe faints.
-Your able party members and battlers heal for 1/10th HP whenever a foe faints.
+Os membros disponíveis da sua equipe são curados em 1/10 PV sempre que um inimigo desmaia.
 16
 Your team has 30% increased Defense. Foes can't lower your team's Defense.
-Your team has 30% increased Defense. Foes can't lower your team's Defense.
+Os membros da sua equipe têm 30% a mais de Defesa. Inimigos não podem dimimuir a defesa da sua equipe.
 17
 Effects placed by your Pokémon last 50% longer (rounded down).
-Effects placed by your Pokémon last 50% longer (rounded down).
+Efeitos colocados por seus Pokémon duram 50% mais (arredondado para baixo).
 18
 Your team has 15% increased Speed.
-Your team has 15% increased Speed.
+Os membros da sua equipe têm 15% mais Velocidade.
 19
 Your Pokémon deal 15% more damage to targets that haven’t moved yet this turn. Your priority attacks and priority status moves have doubled PP.
-Your Pokémon deal 15% more damage to targets that haven’t moved yet this turn. Your priority attacks and priority status moves have doubled PP.
+Seus Pokémon causam 15% mais dano a alvos que não se moveram ainda neste turno. Seus movimentos de Prioridade têm seus PP dobrados.
 20
 Ignore the first time each battle that one of your team members would flinch or get a non-volatile status condition.
-Ignore the first time each battle that one of your team members would flinch or get a non-volatile status condition.
+Igora a primeira vez na batalha que um de seus membros da equipe Hesitaria ou ganharia uma Condição De Status.
 21
 Your team members take 15% less move damage if they choose an attack this turn.
-Your team members take 15% less move damage if they choose an attack this turn.
+Os membros da sua equipe levam 15% menos dano se eles escolheram atacar neste turno.
 22
 Whenever a member of your team uses a status move, they'll deal 25% more move damage next turn.
-Whenever a member of your team uses a status move, they'll deal 25% more move damage next turn.
+Sempre que um membro da sua equipe usa um Movimento De Status, seus ataques darão 25% a mais de dano no turno seguinte.
 23
 This tribe exists to test the PBS extensions system
-This tribe exists to test the PBS extensions system
+Este clã existe para testar o sistema de extensões PBS.
 [29]
 0
 Abrasive
