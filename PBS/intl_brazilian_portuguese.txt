@@ -51747,7 +51747,7 @@ Evoluir
 {1}'s nickname?
 {1}'s nickname?
 Documents
-Documentos
+Document.
 Item Bag
 Mochila
 DexNav
