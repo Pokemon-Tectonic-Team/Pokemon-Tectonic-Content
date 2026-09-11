@@ -49627,33 +49627,33 @@ Careful
 Quirky
 Quirky
 HP
-HP
+PV
 Attack
-Attack
+Ataque
 Atk
 Atk
 Defense
-Defense
+Defesa
 Def
 Def
 Special Attack
-Special Attack
+Ataque Especial
 SpAtk
-SpAtk
+AtkEsp
 Special Defense
-Special Defense
+Defesa Especial
 SpDef
-SpDef
+DefEsp
 Speed
-Speed
+Velocidade
 Spd
-Spd
+Vel
 Accuracy
 Precisão
 Acc
-Acc
+Prc
 Evasion
-Evasion
+Evasiva
 Eva
 Eva
 Sleep
@@ -50093,7 +50093,7 @@ INFO
 PERSONALITY
 PERSONALIDADE
 SKILLS
-SKILLS
+ATRIBUTOS
 MOVES
 MOVES
 RIBBONS
@@ -50167,9 +50167,9 @@ Had a fateful encounter at Lv. {1}.
 <c3=404040,B0B0B0>Egg hatched.
 <c3=404040,B0B0B0>Egg hatched.<<n>>
 Sp. Atk
-Sp. Atk
+Atk. Esp.
 Sp. Def
-Sp. Def
+Def. Esp.
 Mark {1}
 Marcar {1}
 OK
