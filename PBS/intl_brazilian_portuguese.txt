@@ -50105,23 +50105,23 @@ Item
 ♀
 ♀
 Species
-Species
+Espécie
 OT
-OT
+Trein. Orig.
 ID No.
 ID No.
 Marks
-Marks
+Marcas
 RENTAL
 RENTAL
 Obtained at level {1} in
-Obtained at level {1} in
+Obtido no nível {1} em
 a faraway place
-a faraway place
+um lugar distante
 Exp. Points
-Exp. Points
+Experiência
 To Next Lv.
-To Next Lv.
+P. Subir Nv.
 STORY
 STORY
 <c3=404040,B0B0B0>{1} {2}, {3}
@@ -50171,7 +50171,7 @@ Sp. Atk
 Sp. Def
 Sp. Def
 Mark {1}
-Mark {1}
+Marcar {1}
 OK
 OK
 HM moves can't be forgotten now.
