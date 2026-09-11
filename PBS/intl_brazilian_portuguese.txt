@@ -49965,7 +49965,7 @@ Sair
 (Default)
 (Padrão)
 Which move should be forgotten?
-Which move should be forgotten?
+Qual movimento deve ser esquecido?
 Are you sure you want {1} to forget {2}?
 Are you sure you want {1} to forget {2}?
 Success! {1} forgot {2} completely.
@@ -51199,9 +51199,9 @@ Close pocket.
 Select a pocket.
 Select a pocket.
 Use
-Use
+Usar
 Give
-Give
+Dar
 Toss
 Toss
 Deselect
@@ -51221,7 +51221,7 @@ Is it OK to throw away {1} {2}?
 Threw away {1} {2}.
 Threw away {1} {2}.
 Do what with {1}?
-Do what with {1}?
+Fazer o que com {1}?
 Change quantity
 Change quantity
 Make Mystery Gift
@@ -51687,7 +51687,7 @@ Entry
 No Entry
 No Entry
 Summary
-Summary
+Dados
 No more than {1} Pokémon may enter.
 No more than {1} Pokémon may enter.
 Choose a Pokémon.
@@ -51697,21 +51697,21 @@ Choose Pokémon or cancel.
 This Pokémon can't be chosen.
 This Pokémon can't be chosen.
 Choose a Pokémon. (D for Showcase)
-Choose a Pokémon. (D for Showcase)
+Escolha um Pokémon. (D para Foto)
 Move to where?
-Move to where?
+Mover para onde?
 Set Down
 Set Down
 Switch
-Switch
+Mover
 Modify
-Modify
+Modificar
 Send to PC
-Send to PC
+Guardar
 Are you sure you'd like to send back {1}?
-Are you sure you'd like to send back {1}?
+Você tem certeza que quer enviar {1} pro Computador?
 Set Item Type
-Set Item Type
+Mudar Tipo Do Item
 Take One
 Take One
 Take All
@@ -51719,11 +51719,11 @@ Take All
 Swap Order
 Swap Order
 Take
-Take
+Pegar
 Move
-Move
+Mover
 Do what with an item?
-Do what with an item?
+Fazer o que com o item?
 {1}'s {2} and {3} swapped order.
 {1}'s {2} and {3} swapped order.
 Move {1} to where?
@@ -51733,17 +51733,17 @@ What type should {1} become?
 {1} changed its {2} to {3}-type!
 {1} changed its {2} to {3}-type!
 Set Style
-Set Style
+Mudar Estilo
 Swap Ability
-Swap Ability
+Troc. Habilidade
 Rename
-Rename
+Renomear
 Swap Ball
-Swap Ball
+Trocar Bola
 Delete Move
-Delete Move
+Del. Movimento
 Evolve
-Evolve
+Evoluir
 {1}'s nickname?
 {1}'s nickname?
 Documents
@@ -59311,9 +59311,9 @@ You may not make your last able Pokémon a pacifist.
 You may not make your last able Pokémon have this ability.
 You may not make your last able Pokémon have this ability.
 Would you like to change {1}'s Ability to {2}?
-Would you like to change {1}'s Ability to {2}?
+Você quer trocar a habilidade de {1} para {2}?
 {1}'s Ability changed to {2}!
-{1}'s Ability changed to {2}!
+A habilidade de {1} mudou para {2}!
 You get the sense that you shouldn't teleport away right now.
 You get the sense that you shouldn't teleport away right now.
 You are prevented from teleporting due to an unknown force.
