@@ -49939,7 +49939,7 @@ No. ???
 No. {1:03d}
 No. {1:03d}
 Lv. {1}
-Lv. {1}
+Nv. {1}
 IDNo.{1}
 IDNo.{1}
 Hall of Fame No.
@@ -50091,7 +50091,7 @@ An item in the Bag can be registered to this key for instant use.
 INFO
 INFO
 PERSONALITY
-PERSONALITY
+PERSONALIDADE
 SKILLS
 SKILLS
 MOVES
@@ -50141,21 +50141,21 @@ It appears to move occasionally. It may be close to hatching.
 Sounds can be heard coming from inside! It will hatch soon!
 Sounds can be heard coming from inside! It will hatch soon!
 <c3=E09890,F83820>Traits:<c3=F8F8F8,686868>
-<c3=E09890,F83820>Traits:<c3=F8F8F8,686868>
+<c3=E09890,F83820>Traços:<c3=F8F8F8,686868>
 <c3=F8F8F8{2},686868>{1}
 <c3=F8F8F8{2},686868>{1}
 <c3=E09890,F83820>Likes:<c3=F8F8F8,686868>
-<c3=E09890,F83820>Likes:<c3=F8F8F8,686868>
+<c3=E09890,F83820>Gosta:<c3=F8F8F8,686868>
 <c3=E09890,F83820>Dislikes:<c3=F8F8F8,686868>
-<c3=E09890,F83820>Dislikes:<c3=F8F8F8,686868>
+<c3=E09890,F83820>Não Gosta:<c3=F8F8F8,686868>
 <c3=F83820,E09890>Traits:<c3=404040,B0B0B0>
 <c3=F83820,E09890>Traits:<c3=404040,B0B0B0>
 <c3=404040{2},B0B0B0>{1}
 <c3=404040{2},B0B0B0>{1}
 <c3=F83820,E09890>Likes:<c3=404040,B0B0B0>
-<c3=F83820,E09890>Likes:<c3=404040,B0B0B0>
+<c3=F83820,E09890>Gosta:<c3=404040,B0B0B0>
 <c3=F83820,E09890>Dislikes:<c3=404040,B0B0B0>
-<c3=F83820,E09890>Dislikes:<c3=404040,B0B0B0>
+<c3=F83820,E09890>Não Gosta:<c3=404040,B0B0B0>
 Met at Lv. {1}.
 Met at Lv. {1}.
 Egg received.
@@ -62891,7 +62891,7 @@ I'm sorry, your partner does not have a valid Pokémon team with these rules.
 FFA
 FFA
 Lv. 70
-Lv. 70
+Nv. 70
 Choose a bracket.
 Choose a bracket.
 Ruleset: {1}
