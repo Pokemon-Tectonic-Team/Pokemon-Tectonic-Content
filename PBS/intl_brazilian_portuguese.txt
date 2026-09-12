@@ -50343,7 +50343,7 @@ Adquirindo Pokémon
 How do I get more Pokémon?
 Como consigo mais Pokémon?
 Moves
-Movimentos
+Moviment.
 What are moves and what are the differences between them?
 O que são movimentos e quais as diferenças entre eles?
 Type Matchups
@@ -50359,7 +50359,7 @@ Atributos
 What are stats, and how do they affect battles?
 O que são atributos e como eles afetam batalhas?
 Abilities
-Habilidades
+Habilidad.
 How do abilities work?
 Como habilidades funcionam?
 Held Items
