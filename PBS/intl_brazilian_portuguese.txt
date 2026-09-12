@@ -49055,7 +49055,7 @@ Area
 Type
 Tipo
 Tribe
-Tribe
+Clã
 Total
 Total
 Progression
@@ -50461,7 +50461,7 @@ Movimentos Tipo Flexível (Flex)
 Flex-type moves when used, change type to be the first type of the Pokémon the uses them. So a Flex move used by a Fire/Ground Pokémon will become a Fire-type move.
 Movimentos do tipo flex, ao serem usados, mudam de tipo baseado no primeiro tipo do Pokémon que os está usando. Ou seja, um movimento flex usado por um Pokémon tipo Fogo/Terra se torna do tipo fogo.
 Same-Type Bonus
-Bônus De Tipo Equivalente
+Bônus De Tipo Equivalente (BTE)
 Pokémon deal 50% more damage with moves they share a type with. For example, a Raichu deals 50% more damage with an Electric move than a Normal move.
 Pokémon dão 50% a mais de dano com movimentos de um tipo que eles possuem. Por exemplo, um Raichu dá 50% a mais de dano com um movimento do tipo Elétrico do que com um movimento do tipo Normal.
 Learning Moves
@@ -51403,7 +51403,7 @@ G
 XL
 GG
 Full
-Cheia
+Inteiro
 Dark Mode
 Modo Escuro
 Whether or not user interface elements use a darker color scheme.
@@ -51833,7 +51833,7 @@ The current box contains every match.
 Multiple matches. Jump to which box?
 Multiple matches. Jump to which box?
 No matching Pokémon were found.
-No matching Pokémon were found.
+Nenhum Pokémon compatível encontrado.
 Mark your Pokémon.
 Mark your Pokémon.
 Party: {1}
@@ -52131,9 +52131,9 @@ Snow Whip
 Prof. Manchineel
 Prof. Manchineel
 Enter text using the keyboard. Press<<n>>Enter to confirm, or Esc to cancel.
-Enter text using the keyboard. Press<<n>>Enter to confirm, or Esc to cancel.
+Digite usando o teclado. Pressione Enter<<n>>para confirmar ou Esc para cancelar.
 Enter text using the keyboard.<<n>>Press Enter to confirm.
-Enter text using the keyboard.<<n>>Press Enter to confirm.
+Digite usando o teclado.<<n>>Pressione Enter para confirmar.
 UPPER
 UPPER
 lower
@@ -52419,11 +52419,11 @@ PEHP
 SEHP
 SEHP
 Height
-Height
+Altura
 Weight
-Weight
+Peso
 Gender Rate
-Gender Rate
+Proporç. Gên.
 Catch Dif.
 Catch Dif.
 Exp. Grant
@@ -52439,7 +52439,7 @@ Exp. Grant
 {1}: {2}%
 {1}: {2}%<<n>>
 Wild Items
-Wild Items
+Itens Equipáveis
 Weak:
 Weak:
 Resist:
@@ -52505,7 +52505,7 @@ Covers {1}% of final evos
 Notes: {1}
 Notes: {1}
 Search results
-Search results
+Resultados
 ACTION/Z to search further.
 AÇÃO/Z para pesquisar mais a fundo.
 ACTION/Z to search.
@@ -52527,21 +52527,21 @@ Reset
 Start
 Start
 Choose a Search
-Choose a Search
+Escolha sua Pesquisa
 Types
-Types
+Tipos
 Evolution
-Evolution
+Evolução
 Available
-Available
+Disponib.
 Matchups
-Matchups
+Vantagens
 Stat Sort
-Stat Sort
+Ord. Atrib.
 Filters
-Filters
+Filtros
 Sorts
-Sorts
+Ordenar
 Attempted to do a combined search, but no matching Pokémon were found.
 Attempted to do a combined search, but no matching Pokémon were found.
 An unknown error has occured.
@@ -52599,197 +52599,197 @@ Replace
 Species data written to Analysis/species.csv
 Species data written to Analysis/species.csv
 Search species...
-Search species...
+Procurar espécie...
 Which search?
-Which search?
+Qual pesquisa?
 Description
-Description
+Descrição
 Search abilities...
-Search abilities...
+Procurar habilidades...
 Search ability desc...
-Search ability desc...
+Procurar descrições...
 Which method?
-Which method?
+Qual método?
 Any
-Any
+Qualquer Um
 Level Up
-Level Up
+Subindo De Nível
 By Specific Level
-By Specific Level
+Em Nível Específico
 Coverage Type
-Coverage Type
+Tipo De Cobertura
 Enter level...
-Enter level...
+Insira o nível...
 Invalid level input.
-Invalid level input.
+Entrada de nível inválida.
 Enter type...
-Enter type...
+Insira o tipo...
 Move name...
-Move name...
+Nome do movimento...
 Either
-Either
+Qualquer
 Either type or full typing?
-Either type or full typing?
+Qualquer tipo ou tipo inteiro?
 Search full typing...
-Search full typing...
+Procurar tipo inteiro...
 Search type...
-Search type...
+Procurar tipo...
 Don't input more than one type for "Either" type search.
-Don't input more than one type for "Either" type search.
+Não insira mais de um tipo para o tipo "Qualquer" de pesquisa.
 Can Evolve by Method
-Can Evolve by Method
+Pode evoluir por método
 Evolved From Method
-Evolved From Method
+Evoluído por método
 No Evolutions
-No Evolutions
+Sem evoluções
 No Prevolutions
-No Prevolutions
+Sem pré-evoluções
 Has Prevo and Evo
-Has Prevo and Evo
+Tem pré-evolução e evolução
 Split Evo
-Split Evo
+Evolução divergente
 Nth Stage of Line
-Nth Stage of Line
+Estágio X de evolução
 Search method...
-Search method...
+Pesquisar método...
 Stage number...
-Stage number...
+Número do estágio...
 Invalid stage input.
-Invalid stage input.
+Entrada de estágio inválida.
 What threshold for availability?
-What threshold for availability?
+Qual limite de disponibilidade?
 Search available by level...
-Search available by level...
+Pequisar disp. por nível...
 Starred
-Starred
+Favoritados
 Owned
-Owned
+Obtidos
 Not Starred
-Not Starred
+Não Favoritados
 Not Owned
-Not Owned
+Não Obtidos
 Which stat?
-Which stat?
+Qual Atributo?
 Phys. EHP
-Phys. EHP
+PVE Fís.
 Spec. EHP
-Spec. EHP
+PVE Esp.
 Which comparison?
-Which comparison?
+Qual comparação?
 Equal to number
-Equal to number
+Igual ao número
 Greater than number
-Greater than number
+Maior que o número
 Less than number
-Less than number
+Menor que o número
 Equal to stat
-Equal to stat
+Igual ao atributo
 Greater than stat
-Greater than stat
+Maior que o atributo
 Less than stat
-Less than stat
+Menor que o atributo
 Input value...
-Input value...
+Insira valor...
 Compare to which stat?
-Compare to which stat?
+Comparar com qual atributo?
 Collecting
-Collecting
+Coleção
 Map Found
-Map Found
+Encontrado No Mapa
 Legendary
-Legendary
+Lendário
 Moveset Noncomfority (D)
-Moveset Noncomfority (D)
+Inconformidade De Mov. (D)
 No Monument Uses (D)
-No Monument Uses (D)
+Não Usado No Monumento (D)
 One Ability (D)
-One Ability (D)
+Uma Habilidade (D)
 Signature Move
-Signature Move
+Movimento-Assinatura
 Signature Ability
-Signature Ability
+Habilidade-Assinatura
 Signature (D)
-Signature (D)
+Assinatura
 Avatar Data (D)
-Avatar Data (D)
+Dados De Avatar (D)
 Generation
-Generation
+Geração
 Multiple Forms
-Multiple Forms
+Múltiplas Formas
 Invert Current
-Invert Current
+Inverter Atual
 Has Signature Move
-Has Signature Move
+Tem Movimento-Assinatura
 Doesn't
-Doesn't
+Não Tem
 Signature abilities?
-Signature abilities?
+Abilidades-assinatura?
 Neither
-Neither
+Nenhuma
 At Least One
-At Least One
+Ao Menos Uma
 Exactly One
-Exactly One
+Exatamente Uma
 Both
-Both
+Ambas
 Has Signature
-Has Signature
+Tem Assinatura
 Search item name...
-Search item name...
+Buscar por nome do item...
 Search map name...
-Search map name...
+Buscar por nome do mapa...
 Non-4-Tempo
-Non-4-Tempo
+Ritmo-Não-Quaternário
 Ends before value
-Ends before value
+Acaba antes de...
 Too Many 1s
-Too Many 1s
+Muitos 1s
 Above 70
-Above 70
+Acima de 70
 No Pre-16 Stab
-No Pre-16 Stab
+Sem BTE pré-16
 No 16-31 Stab
-No 16-31 Stab
+Sem BTE 16-31
 No 32-44 Stab
-No 32-44 Stab
+Sem BTE 32-44
 Duplicate Moves
-Duplicate Moves
+Movimentos Duplicados
 Which rulebreakers?
-Which rulebreakers?
+Quais Exceções?
 Pick final intended moveset level...
-Pick final intended moveset level...
+Escolha o nível final de moveset...
 Not Legendary
-Not Legendary
+Não Lendário
 Search generation number...
-Search generation number...
+Pesquisar número da geração...
 Negative generation numbers are invalid.
-Negative generation numbers are invalid.
+Números negativos de geração são inválidos.
 Which interaction?
-Which interaction?
+Qual Interação?
 Weak To
-Weak To
+Fraco contra...
 Resists
-Resists
+Resiste...
 Immune To
-Immune To
+Imune a...
 Neutral To
-Neutral To
+Neutro a...
 Has Immunity
-Has Immunity
+Tem Imunidade
 Has Hyper Weakness
-Has Hyper Weakness
+Tem Fraqueza Quádrupla
 Which type(s)?
-Which type(s)?
+Qual(ais) tipo(s)?
 Which direction?
-Which direction?
+Qual ordem?
 Descending
-Descending
+Decrescente
 Ascending
-Ascending
+Crescente
 Catch Difficulty
-Catch Difficulty
+Dificuldade De Captura
 Experience Grant
-Experience Grant
+Ganho de Experiência
 Total Using (D)
 Total Using (D)
 Normal Using (D)
@@ -52799,7 +52799,7 @@ Monument Using (D)
 Coverage Count (D)
 Coverage Count (D)
 Sort by what?
-Sort by what?
+Ordenar como?
 A-Z
 A-Z
 Z-A
@@ -60111,7 +60111,7 @@ Relative probability of choosing this slot.
 A Pokémon species/form.
 A Pokémon species/form.
 Minimum level
-Minimum level
+Nível Mínimo
 Minimum level of this species (1-{1}).
 Minimum level of this species (1-{1}).
 Maximum level
@@ -64545,9 +64545,9 @@ Release Imogene forever.
 You bet.
 You bet.
 Minimum Level
-Minimum Level
+Nível Mínimo
 Normal Availability
-Normal Availability
+Disponibilidade Normal
 [27]
 0
 Animated
