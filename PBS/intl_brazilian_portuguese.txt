@@ -48999,37 +48999,37 @@ Processing common events
 Bill
 Bill
 Items
-Items
+Itens
 Medicine
-Medicine
+Medicina
 Candy
-Candy
+Doces
 Evolution Items
-Evolution Items
+Evolução
 TMs
-TMs
+MTs
 Keys
-Keys
+Objetos Chave
 Passive Tools
-Passive Tools
+Ferram. Passivas
 Active Tools
-Active Tools
+Ferram. Ativas
 Held Berries
-Held Berries
+Frutas
 Held Gems
-Held Gems
+Jóias
 Held Herbs
-Held Herbs
+Ervas
 Held Clothing
-Held Clothing
+Vestimentas
 Misc. Held Items
-Misc. Held Items
+Equipáveis Miscel.
 Poké Balls
-Poké Balls
+Pokébolas
 Sell Items
-Sell Items
+Tesouros
 Trade Items
-Trade Items
+Trocáveis
 National Pokédex
 National Pokédex
 Main Story
@@ -49111,7 +49111,7 @@ Undefined encounter type "{1}" for map '{2}'.<<r>><<n>>{3}
 Not enough encounter lines given for encounter type {1} for map '{2}' (expected {3}).<<n>>{4}
 Not enough encounter lines given for encounter type {1} for map '{2}' (expected {3}).<<r>><<n>>{4}
 TM {1}
-TM {1}
+MT {1}
 HM {1}
 HM {1}
 {1} +{2}
@@ -51197,29 +51197,29 @@ Max. HP<r>{1}<<r>><<n>>Attack<r>{2}<<r>><<n>>Defense<r>{3}<<r>><<n>>Sp. Atk<r>{4
 Close pocket.
 Close pocket.
 Select a pocket.
-Select a pocket.
+Selecione um bolso.
 Use
 Usar
 Give
 Dar
 Toss
-Toss
+Descartar
 Deselect
-Deselect
+Desmarcar
 Register
-Register
+Marcar
 {1} is selected.
-{1} is selected.
+{1} selecionado(a).
 There is no Pokémon.
 There is no Pokémon.
 The {1} can't be held.
-The {1} can't be held.
+Não é possível equipar {1}.
 Toss out how many {1}?
-Toss out how many {1}?
+Quantos(as) {1} jogar fora?
 Is it OK to throw away {1} {2}?
-Is it OK to throw away {1} {2}?
+Descartar {1} {2}?
 Threw away {1} {2}.
-Threw away {1} {2}.
+Você descartou {1} {2}.
 Do what with {1}?
 Fazer o que com {1}?
 Change quantity
@@ -51233,7 +51233,7 @@ How many do you want to withdraw?
 Withdrew {1} {2}.
 Withdrew {1} {2}.
 There's no more room in the Bag.
-There's no more room in the Bag.
+Não há mais espaço na Mochila.
 How many do you want to deposit?
 How many do you want to deposit?
 There's no room to store items.
@@ -51241,11 +51241,11 @@ There's no room to store items.
 Deposited {1} {2}.
 Deposited {1} {2}.
 That's too important to toss out!
-That's too important to toss out!
+Isso é importante demais pra ser jogado fora!
 EMPTY
-EMPTY
+VAZIO
 CLOSE POCKET
-CLOSE POCKET
+FECHAR BOLSO
 x{1: 3d}
 x{1: 3d}
 Close storage.
@@ -52656,6 +52656,10 @@ Stage number...
 Número do estágio...
 Invalid stage input.
 Entrada de estágio inválida.
+Minimum Level
+Nível Mínimo
+Normal Availability
+Disponibilidade Normal
 What threshold for availability?
 Qual limite de disponibilidade?
 Search available by level...
@@ -64544,10 +64548,10 @@ Release Imogene forever.
 Release Imogene forever.
 You bet.
 You bet.
-Minimum Level
-Nível Mínimo
-Normal Availability
-Disponibilidade Normal
+Immutable
+Imutável
+Uncopyable
+Incopiável
 [27]
 0
 Animated
