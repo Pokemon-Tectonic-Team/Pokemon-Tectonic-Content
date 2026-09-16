@@ -51641,7 +51641,7 @@ No Ability
 CONFIRM
 CONFIRM
 Give to which Pokémon?
-Give to which Pokémon?
+Dar a qual Pokémon?
 {1} (PP: ---)
 {1} (PP: ---)
 {1} (PP: {2}/{3})
@@ -51727,7 +51727,7 @@ Fazer o que com o item?
 {1}'s {2} and {3} swapped order.
 {1}'s {2} and {3} swapped order.
 Move {1} to where?
-Move {1} to where?
+Mover {1} para onde?
 What type should {1} become?
 What type should {1} become?
 {1} changed its {2} to {3}-type!
@@ -56945,7 +56945,7 @@ If you need to move quickly, try using the Quick Set option!
 Choose a party member to hold the {1}!
 Choose a party member to hold the {1}!
 {1} is now holding the {2}!
-{1} is now holding the {2}!
+{1} agora está segurando {2}!
 {1} switches in!
 {1} switches in!
 But it failed, since {1} doesn't have an item!
@@ -59281,35 +59281,35 @@ How many {1} do you want to use?
 {1} gained {2} Exp. Points!
 {1} gained {2} Exp. Points!
 Eggs can't hold items.
-Eggs can't hold items.
+Ovos não podem segurar itens.
 Swap its items with the {1}?
 Swap its items with the {1}?
 Would you like to switch the two items?
-Would you like to switch the two items?
+Gostaria de trocar os dois itens?
 Took the {1} from {2} and gave it the {3}.
-Took the {1} from {2} and gave it the {3}.
+Pegou {1} de {2} e lhe deu {3}.
 Could't re-store deleted item in Bag somehow
-Could't re-store deleted item in Bag somehow
+Por alguma razão, não foi possível guardar o item deletado na Mochila
 The Bag is full. The Pokémon's item could not be removed.
-The Bag is full. The Pokémon's item could not be removed.
+A Mochila está cheia. O item do Pokémon não pôde ser removido.
 {1} is now holding the {2}.
-{1} is now holding the {2}.
-You put the {1} away\<<n>>in the <icon=bagPocket{2}>\c<<[>>1<<]>>{3} Pocket\c<<[>>0<<]>>.
-You put the {1} away\<<n>>in the <icon=bagPocket{2}>\c<<[>>1<<]>>{3} Pocket\c<<[>>0<<]>>.
+{1} agora está segurando {2}.
+You put the {1} away\nin the <icon=bagPocket{2}>\c<<[>>1<<]>>{3} Pocket\c<<[>>0<<]>>.
+Você coloca {1} no \n<icon=bagPocket{2}>\c<<[>>1<<]>>Bolso de {3}\c<<[>>0<<]>>.
 {1} is already holding some {2}.
-{1} is already holding some {2}.
+{1} já está segurando {2}.
 {1} is already holding an {2}.
-{1} is already holding an {2}.
+{1} já está segurando {2}.
 {1} is already holding a {2}.
-{1} is already holding a {2}.
+{1} já está segurando {2}.
 {1} isn't holding anything.
-{1} isn't holding anything.
+{1} não está segurando nada.
 Take which item?
-Take which item?
+Qual item pegar?
 The Bag is full. The Pokémon's {1} could not be removed.
-The Bag is full. The Pokémon's {1} could not be removed.
+A Mochila está cheia. Este Pokémon não pôde ter seu {1} removido.
 Received the {1} from {2}.
-Received the {1} from {2}.
+Recebeu {1} de {2}.
 You may not make your last able Pokémon a pacifist.
 You may not make your last able Pokémon a pacifist.
 You may not make your last able Pokémon have this ability.
@@ -61963,7 +61963,7 @@ Woah! {1} suddenly hugged {2}.
 \me[{1}]{3} found a \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]{3} found a \c[1]{2}\c[0]!\wtnp[30]
 {4} put the {1} away\<<n>>in the <icon=bagPocket{2}>\c<<[>>1<<]>>{3} Pocket\c<<[>>0<<]>>.
-{4} put the {1} away\<<n>>in the <icon=bagPocket{2}>\c<<[>>1<<]>>{3} Pocket\c<<[>>0<<]>>.
+{4} coloca {1} no <icon=bagPocket{2}>\c<<[>>1<<]>>Bolso de {3}\c<<[>>0<<]>>.
 {2} found some \c[1]{1}\c[0]!\wtnp[30]
 {2} found some \c[1]{1}\c[0]!\wtnp[30]
 {3} found \c[1]{1} {2}\c[0]!\wtnp[30]
