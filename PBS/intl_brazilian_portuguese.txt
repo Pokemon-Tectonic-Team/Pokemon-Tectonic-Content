@@ -49727,9 +49727,9 @@ Amigo
 User Or Other
 User Or Other
 Box {1}
-Box {1}
+Caixa {1}
 Donation Box {1}
-Donation Box {1}
+Caixa De Doação {1}
 City
 City
 Desert
@@ -49799,7 +49799,7 @@ Pokémon
 Log Off
 Log Off
 \se[PC open]The Pokémon Storage System was opened.
-\se[PC open]The Pokémon Storage System was opened.
+\se[PC open]O Sistema De Armazenamento Pokémon foi aberto.
 \ssYou insert the Omnidrive into the PC.
 \ssYou insert the Omnidrive into the PC.
 \ssLoading Omni-Tutor...
@@ -49811,27 +49811,27 @@ Log Off
 \ssThe OmniTutor can teach any move available through move reminding, move mentorship, and TMs you own.
 \ssThe OmniTutor can teach any move available through move reminding, move mentorship, and TMs you own.
 Organize Boxes
-Organize Boxes
+Ordenar Caixas
 Withdraw Pokémon
-Withdraw Pokémon
+Retirar Pokémon
 Deposit Pokémon
-Deposit Pokémon
+Depositar Pokémon
 OmniTutor
 OmniTutor
 Visit PokÉstate
-Visit PokÉstate
+Visitar PokéPropriedade
 Check Rewards
-Check Rewards
+Verificar Recompensas
 Visit Cable Club
-Visit Cable Club
+Visitar Cable Club
 View Party Online
-View Party Online
+Ver Equipe Online
 Log Out
-Log Out
+Deslogar
 Your party is full!
-Your party is full!
+Sua equipe está cheia!
 Can't deposit the last Pokémon!
-Can't deposit the last Pokémon!
+Não é possível depositar o último Pokémon!
 The player trainer was not defined, so the pause menu can't be displayed.
 The player trainer was not defined, so the pause menu can't be displayed.
 Please see the documentation to learn how to set up the trainer player.
@@ -50275,11 +50275,11 @@ Every PokéCenter and every Ranger Station will contain the 3 Team Customization
 Speak to them to learn how they can upgrade your team!
 Speak to them to learn how they can upgrade your team!
 The last 5 boxes of the PC are donation boxes.
-The last 5 boxes of the PC are donation boxes.
+As últimas 5 caixas do Computador são Caixas De Doação.
 Pokémon placed in these boxes can never be withdrawn.
-Pokémon placed in these boxes can never be withdrawn.
+Pokémon colocados nestas caixas não podem mais ser retirados.
 In repayment, you get candy equal to their lifetime EXP earnings.
-In repayment, you get candy equal to their lifetime EXP earnings.
+Como compensação, você ganha Doces equivalentes ao EXP que o Pokémon ganhou.
 Individual Pokémon have individual appearances.
 Individual Pokémon have individual appearances.
 They differ in hue and brightness!
@@ -51605,9 +51605,9 @@ Turn Off
 Pokémon Storage PC
 Pokémon Storage PC
 \se[PC access]The Pokémon Storage System was opened.
-\se[PC access]The Pokémon Storage System was opened.
+\se[PC access]O Sistema De Armazenamento Pokémon foi aberto.
 See ya!
-See ya!
+Té mais!
 Organize the Pokémon in Boxes and in your party.
 Organize the Pokémon in Boxes and in your party.
 Move Pokémon stored in Boxes to your party.
@@ -51701,7 +51701,7 @@ Escolha um Pokémon. (D para Foto)
 Move to where?
 Mover para onde?
 Set Down
-Set Down
+Deixar
 Switch
 Mover
 Modify
@@ -51713,25 +51713,25 @@ Você tem certeza que quer enviar {1} pro Computador?
 Set Item Type
 Mudar Tipo Do Item
 Take One
-Take One
+Pegar Um
 Take All
-Take All
+Pegar Tudo
 Swap Order
-Swap Order
+Trocar Ordem
 Take
 Pegar
 Move
 Mover
 Do what with an item?
-Fazer o que com o item?
+Fazer o que com um item?
 {1}'s {2} and {3} swapped order.
-{1}'s {2} and {3} swapped order.
+{2} e {3} de {1} trocaram ordem.
 Move {1} to where?
 Mover {1} para onde?
 What type should {1} become?
-What type should {1} become?
+Que tipo {1} deveria se tornar?
 {1} changed its {2} to {3}-type!
-{1} changed its {2} to {3}-type!
+{1} mudou seu {2} para o tipo {3}!
 Set Style
 Mudar Estilo
 Swap Ability
@@ -51757,7 +51757,7 @@ Situação
 Save/Quit
 Salvar/Sair
 money
-money
+dinheiro
 Welcome!
 Welcome!
 Welcome, VIP! I hope you are satisfied with our services.
@@ -51789,9 +51789,9 @@ You've selected {1}. Choose the amount.
 Total cost: {3}. Confirm?
 Total cost: {3}. Confirm?
 Failed to delete stored items
-Failed to delete stored items
+Não foi possível deletar itens guardados
 You have no more room in the Bag.
-You have no more room in the Bag.
+Você não tem mais espaço na Mochila.
 Here you are! Thank you!
 Here you are! Thank you!
 Purchase complete.
@@ -51813,203 +51813,203 @@ I can pay {1}. Would that be OK?
 Turned over the {1} and received {2}.
 Turned over the {1} and received {2}.
 Back
-Back
+Voltar
 {1} ({2}/{3})
 {1} ({2}/{3})
 Dex ID
-Dex ID
+Nmr. PokéDex
 Level
-Level
+Nível
 Living Dex
-Living Dex
+PokéDex Viva
 "{1}" is not a valid type.
-"{1}" is not a valid type.
+"{1}" não é um tipo válido.
 "{1}" is not a valid tribe.
-"{1}" is not a valid tribe.
+"{1}" não é um clã válido.
 The current box contains the only match.
-The current box contains the only match.
+A caixa atual contém o único resultado.
 The current box contains every match.
-The current box contains every match.
+A caixa atual contém todos os resultados.
 Multiple matches. Jump to which box?
-Multiple matches. Jump to which box?
+Múltiplos resultados. Pular para qual caixa?
 No matching Pokémon were found.
 Nenhum Pokémon compatível encontrado.
 Mark your Pokémon.
-Mark your Pokémon.
+Marcar seu Pokémon.
 Party: {1}
-Party: {1}
+Equipe: {1}
 No ability
-No ability
+Sem habilidade
 No item
-No item
+Sem item
 You're holding a Pokémon!
-You're holding a Pokémon!
+Você está segurando um Pokémon!
 Continue Box operations?
-Continue Box operations?
+Continuar operações da Caixa?
 Exit from the Box?
-Exit from the Box?
+Sair da Caixa?
 You cannot select a donated Pokémon!
-You cannot select a donated Pokémon!
+Você não pode selecionar um Pokémon doado!
 That Pokémon is not a valid choice!
-That Pokémon is not a valid choice!
+Este Pokémon não é uma escolha válida!
 Move Selection
-Move Selection
+Mover Seleção
 Take All Items
-Take All Items
+Pegar Todos Os Itens
 Clear Selection
-Clear Selection
+Limpar Seleção
 Do what with your {1} selected Pokémon?
-Do what with your {1} selected Pokémon?
+Fazer o quê com seu(s) {1} Pokémon selecionado(s)?
 You cannot multi-select Pokémon that are in a Donation Box.
-You cannot multi-select Pokémon that are in a Donation Box.
+Você não pode Multi-Selecionar Pokémon que estão em uma Caixa De Doação.
 Which one will you take?
-Which one will you take?
+Qual você vai pegar?
 Can't withdraw from a donation box.
-Can't withdraw from a donation box.
+Não é possível retirar Pokémon de uma Caixa De Doação.
 Can't withdraw from party...
-Can't withdraw from party...
+Não é possível retirar um Pokémon de dentro da sua equipe...
 Your party's full!
-Your party's full!
+Sua equipe está cheia!
 Can't deposit from box...
-Can't deposit from box...
+Não é possível depositar um Pokémon de dentro de uma Caixa...
 That's your last Pokémon!
-That's your last Pokémon!
+Esse é o seu último Pokémon!
 Deposit in which Box?
-Deposit in which Box?
+Depositar em qual Caixa?
 The Box is full.
-The Box is full.
+A caixa está lotada.
 Position {1},{2} is not empty...
-Position {1},{2} is not empty...
+A posição {1},{2} não está vazia...
 Permanently store this Pokémon in exchange for Candies?
-Permanently store this Pokémon in exchange for Candies?
+Permanentemente depositar este Pokémon em troca de Doces?
 This Pokémon will not be retrievable after this. Are you sure?
-This Pokémon will not be retrievable after this. Are you sure?
+Este Pokémon não será recuperável depois disso. Você tem certeza?
 {1} was stored forever.
-{1} was stored forever.
+{1} foi depositado para sempre.
 Bye-bye, {1}!
-Bye-bye, {1}!
+Adeus, {1}!
 Cannot multi-select more than a box's worth of Pokémon.
-Cannot multi-select more than a box's worth of Pokémon.
+Não é possível Multi-Selecionar Pokémon mais que o equivalente a uma Caixa.
 Cannot mass move into an occupied spot.
-Cannot mass move into an occupied spot.
+Não é possivel mover em massa para um lugar ocupado.
 Cannot move all able Pokémon out of your party.
-Cannot move all able Pokémon out of your party.
+Não é possível mover todos os Pokémon saudáveis de sua equipe.
 Cannot mass move to this spot.
-Cannot mass move to this spot.
+Não é possível mover em massa aqui.
 {1} open slots are needed, and there are only {2} here.
-{1} open slots are needed, and there are only {2} here.
+{1} espaços vazios é(são) necessário(s), mas só existe(m) {2} aqui.
 Permanently store {1} Pokémon in exchange for Candies?
-Permanently store {1} Pokémon in exchange for Candies?
+Permanentemente depositar {1} Pokémon em troca de Doces?
 {1} Pokémon will not be retrievable after this. Are you sure?
-{1} Pokémon will not be retrievable after this. Are you sure?
+{1} Pokémon não será(ão) recuperável(veis) depois disso. Você tem certeza?
 ERROR! Party ended up higher than the size maximum.
-ERROR! Party ended up higher than the size maximum.
+ERRO! Equipe acabou ficando maior que o tamanho mínimo.
 {1} Pokémon have been mass moved to your party.
-{1} Pokémon have been mass moved to your party.
+{1} Pokémon foi
 ERROR! Couldn't move all Pokémon in a mass move.
-ERROR! Couldn't move all Pokémon in a mass move.
+ERRO! Não foi possível mover todos os Pokémon no movimento em massa.
 {1} Pokémon have been mass donated to {2}.
-{1} Pokémon have been mass donated to {2}.
+{1} Pokémon foram doados em massa para {2}.
 {1} Pokémon has been mass donated to {2}.
-{1} Pokémon has been mass donated to {2}.
+{1} Pokémon foi doado em massa para {2}.
 {1} Pokémon have been mass moved to {2}.
-{1} Pokémon have been mass moved to {2}.
+{1} Pokémon foi(oram) movido(s) em massa para {2}.
 No selected Pokémon are holding any items.
-No selected Pokémon are holding any items.
+Nenhum Pokémon selecionado tem itens equipados.
 {1} is no longer locked to sorting.
-{1} is no longer locked to sorting.
+{1} agora é ordenável.
 {1} is now locked to sorting.
-{1} is now locked to sorting.
+{1} agora não é mais ordenável.
 Position {1},{2} is empty...
-Position {1},{2} is empty...
+A posição {1},{2} está vazia...
 You can't release an Egg.
-You can't release an Egg.
+Você não pode soltar um Ovo.
 Are you sure you want to release this Pokémon?
-Are you sure you want to release this Pokémon?
+Tem certeza que quer soltar este Pokémon?
 They will be gone forever. Are you sure?
-They will be gone forever. Are you sure?
+Ele vai sumir para sempre. Tem certeza?
 {1} was released.
-{1} was released.
+{1} foi solto(a) na natureza.
 They didn't earn enough XP for you to earn any candies back.
-They didn't earn enough XP for you to earn any candies back.
+Eles não ganharam EXP suficiente para que você ganhe Doces de volta.
 It didn't earn enough XP for you to earn any candies back.
-It didn't earn enough XP for you to earn any candies back.
+Ele(a) não ganhou EXP suficiente para qe você ganhe Doces de volta.
 You are reimbursed for {1} percent of the EXP they earned.
-You are reimbursed for {1} percent of the EXP they earned.
+Você é reembolsado em {1} porcento do EXP que eles ganharam.
 You are reimbursed for {1} percent of the EXP it earned.
-You are reimbursed for {1} percent of the EXP it earned.
+Você é reembolsado em {1} porcento do EXP que ele ganhou.
 They never gained any EXP, so no candies are awarded.
-They never gained any EXP, so no candies are awarded.
+Eles nunca ganharam nenhum EXP, então nehum Doce foi reembolsado.
 It never gained any EXP, so no candies are awarded.
-It never gained any EXP, so no candies are awarded.
+Ele nunca ganhou nenhum EXP, então nehum Doce foi reembolsado.
 Jump
-Jump
+Pular
 Wallpaper
-Wallpaper
+Papel De Parede
 Search
-Search
+Pesquisar
 Sort
-Sort
+Ordenar
 Sort All
-Sort All
+Ordenar Tudo
 Sort Unlock
-Sort Unlock
+Ativar Ordenação
 Sort Lock
-Sort Lock
+Desativar Ordenação
 Swap Box
-Swap Box
+Mover Caixa
 Jump to which Box?
-Jump to which Box?
+Pular para qual Caixa?
 Pick the wallpaper.
-Pick the wallpaper.
+Escolha o Papel De Parede.
 Box name?
-Box name?
+Nome da Caixa?
 Search how?
-Search how?
+Pesquisar como?
 Which name?
-Which name?
+Qual nome?
 Which species?
-Which species?
+Qual espécie?
 Which type?
-Which type?
+Qual tipo?
 Which tribe?
-Which tribe?
+Qual clã?
 Can't sort while you have a Pokémon in your hand!
-Can't sort while you have a Pokémon in your hand!
+Não é possível Ordenar enquanto você possui um Pokémon em suas mãos!
 The box is sort locked!
-The box is sort locked!
+A caixa está com a Ordenação desativada.
 The box is empty.
-The box is empty.
+A caixa está vazia.
 How will you sort?
-How will you sort?
+Como você vai ordenar?
 Each Pokémon is already in the right place!
-Each Pokémon is already in the right place!
+Todos os Pokémon já estão no lugar correto!
 Can't swap boxes while you have a Pokémon in your hand!
-Can't swap boxes while you have a Pokémon in your hand!
+Não é possível mover Caixas enquanto você possui um Pokémon em suas mãos!
 Swap with which Box?
-Swap with which Box?
+Trocar de lugar com qual Caixa?
 That's the current box!
-That's the current box!
+Essa é a Caixa atual!
 {1} has swapped position with {2}!
-{1} has swapped position with {2}!
+{1} trocou de posição com {2}!
 No boxes were sorted.
-No boxes were sorted.
+Nenhuma caixa foi Ordenada.
 Only one box was sorted.
-Only one box was sorted.
+Apenas uma caixa foi ordenada.
 {1} boxes were sorted!
-{1} boxes were sorted!
+{1} caixas foram ordenadas!
 Shift
-Shift
+Trocar
 Place
-Place
+Colocar
 Withdraw
-Withdraw
+Retirar
 Store
-Store
+Depositar
 Select
-Select
+Selecionar
 Release
-Release
+Soltar
 The map data cannot be found.
 The map data cannot be found.
 No proper map position is known for totem ID {1}. Please inform a programmer about this.
@@ -55193,7 +55193,7 @@ layer
 {1} was hurt by the thin layer of {2}!
 {1} was hurt by the thin layer of {2}!
 It won't have any effect.
-It won't have any effect.
+Não terá nenhum efeito.
 Embargo's effect prevents the item's use on {1}!
 Embargo's effect prevents the item's use on {1}!
 Tried to consume item that wasn't in the Bag somehow.
@@ -58141,19 +58141,19 @@ If you switch {1}'s ball, its current {2} will be thrown away.
 Are you okay with throwing away the {1}?
 Are you okay with throwing away the {1}?
 Choose the Poké Ball to put {1} into.
-Choose the Poké Ball to put {1} into.
+Escolha a Pokébola para colocar {1} dentro.
 {1} is already inside of a {2}!
-{1} is already inside of a {2}!
+{1} já está dentro de uma {2}!
 A {1} is too special to swap {2} into.
-A {1} is too special to swap {2} into.
+Uma {1} é especial demais para {2} ser colocado dentro.
 You remove {1} from the {2}, and throw it away.
-You remove {1} from the {2}, and throw it away.
+Você remove {1} de dentro da {2}, jogando-a fora.
 You bring out the {1}, and launch a ball at {2}!
-You bring out the {1}, and launch a ball at {2}!
+Você pega o {1} e atira uma bola em {2}!
 You bring out a {1}, and put {2} into it!
-You bring out a {1}, and put {2} into it!
+Você pega uma {1} e coloca {2} dentro dela!
 You decide to keep {1} in its {2}.
-You decide to keep {1} in its {2}.
+Você decide manter {1} em sua {2}.
 {1}<<1>>
 {1}<<1>>
 Dex
