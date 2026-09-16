@@ -49917,7 +49917,7 @@ Conquistas
 The current level cap is {1}.
 O limite de nível atual é {1}.
 Once at level {1}, your Pokémon cannot gain experience or have Candies used on them.
-Ao chegarem ao nível {1}, seus Pokémon não podem mais ganhar experiência ou terem Doces usados neles.
+Ao chegarem ao nível {1}, seus Pokémon não podem mais ganhar experiência ou ter Doces usados neles.
 The level cap can be raised by reading Battle Reports (a consumable item).
 Você pode aumentar o limite de nível lendo Relatórios de Batalha (um item consumível).
 You'll earn Battle Reports after defeating Gym Leaders and major story battles.
