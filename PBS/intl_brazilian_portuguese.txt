@@ -53715,15 +53715,15 @@ ERROR: Cannot find location to teleport you back to.
 Bringing you to the fallback return position.
 Bringing you to the fallback return position.
 Which plot would you like to visit?
-Which plot would you like to visit?
+Qual terreno você gostaria de visitar?
 Pick the landscape you'd like for this plot.
-Pick the landscape you'd like for this plot.
+Escolha a paisagem que você gostaria para este terreno.
 Drive To Plot
-Drive To Plot
+Dirigir Para Terreno
 Leave PokÉstate
-Leave PokÉstate
+Sair Da PokéPropriedade
 What would you like to do?
-What would you like to do?
+O que você gostaria de fazer?
 ...
 ...
 You notice a voice message from {1}, the PokÉstate caretaker.
@@ -53751,39 +53751,39 @@ That's a lot, so I've lumped all the rewards together.
 As you finish reading, the PC materializes a package...
 As you finish reading, the PC materializes a package...
 Landscape
-Landscape
+Paisagem
 Hear Story
-Hear Story
+Ouvir História
 Interact
-Interact
+Interagir
 View Summary
-View Summary
+Ver Dados
 Use Item
-Use Item
+Usar Item
 What would you like to do with {1}?
-What would you like to do with {1}?
+O que você gostaria de fazer com {1}?
 Party is full, choose a Pokemon to swap out.
-Party is full, choose a Pokemon to swap out.
+A equipe está cheia, escolha um Pokémon para ser substituído.
 You pick {1} up and add it to your party.
-You pick {1} up and add it to your party.
+Você pega {1} e adiciona à equipe.
 And place {1} down into the Estate.
-And place {1} down into the Estate.
+Você coloca {1} na Propriedade.
 Can't set down your last able Pokemon!
-Can't set down your last able Pokemon!
+Você não pode deixar seu último Pokémon saudável!
 Can't set {1} down into the current Estate plot because it is full.
-Can't set {1} down into the current Estate plot because it is full.
+Não pode deixar {1} no terreno atual porque ele está lotado.
 Can't set {1} down, the spot in front of you is blocked.
-Can't set {1} down, the spot in front of you is blocked.
+Não pode deixar {1} aqui, o espaço à sua frente está obstruído.
 There are no Pokemon in this plot to share stories about.
-There are no Pokemon in this plot to share stories about.
+Não existem Pokémon nesse terreno para contar histórias sobre.
 I regret to say that I have no stories to share about this plot. Please come back later.
-I regret to say that I have no stories to share about this plot. Please come back later.
+Sinto em informar que não tenho histórias para contar sobre este terreno. Por favor, volte mais tarde.
 Story here involving {1}!
 Story here involving {1}!
 Story here involving {1} and {2}!
 Story here involving {1} and {2}!
 PokÉstate {1}
-PokÉstate {1}
+Propriedade {1}
 {1} non-legendary species (25%)
 {1} non-legendary species (25%)
 {1} non-legendary species (50%)
