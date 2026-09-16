@@ -61977,23 +61977,23 @@ Woah! {1} suddenly hugged {2}.
 Converting Pokémon overworlds {1}/{2}...
 Converting Pokémon overworlds {1}/{2}...
 There are no encounters on this map.
-There are no encounters on this map.
+Não existem Pokémon selvagens nesse mapa.
 Replace Search
-Replace Search
+Refazer Busca
 Search Nearby
-Search Nearby
+Procurar Por Perto
 Un-Star Species
-Un-Star Species
+Desfavoritar Espécie
 Star Species
-Star Species
+Favoritar Espécie
 Do what with this species?
-Do what with this species?
+Fazer o que com essa espécie?
 This feature of the DexNav is unavailable during this minigame.
-This feature of the DexNav is unavailable during this minigame.
+Essa função do DexNav está indisponível durante este minijogo.
 Searching\ts[15]...\wtnp[{1}]
-Searching\ts[15]...\wtnp[{1}]
+Procurando\ts[15]...\wtnp[{1}]
 Oh! A {1} was found nearby!
-Oh! A {1} was found nearby!
+Oh! {1} foi encontrado por perto!
 DexNav: {1}
 DexNav: {1}
 It's open to a battling guide written by someone with the username "apolLyon."
