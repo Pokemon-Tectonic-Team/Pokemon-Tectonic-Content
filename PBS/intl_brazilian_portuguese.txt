@@ -49877,7 +49877,7 @@ Setting weather to {1} at power {2}
 Achievement hidden.
 Conquista ocultada.
 Unknown
-Unknown
+Desconhecido
 <outln2>Achievements: {1}</outln2>
 <outln2>Conquistas: {1}</outln2>
 <<[>>{1}/{2}<<]>>
@@ -50145,17 +50145,17 @@ Sounds can be heard coming from inside! It will hatch soon!
 <c3=F8F8F8{2},686868>{1}
 <c3=F8F8F8{2},686868>{1}
 <c3=E09890,F83820>Likes:<c3=F8F8F8,686868>
-<c3=E09890,F83820>Gosta:<c3=F8F8F8,686868>
+<c3=E09890,F83820>Gosta De:<c3=F8F8F8,686868>
 <c3=E09890,F83820>Dislikes:<c3=F8F8F8,686868>
-<c3=E09890,F83820>Não Gosta:<c3=F8F8F8,686868>
+<c3=E09890,F83820>Não Gosta De:<c3=F8F8F8,686868>
 <c3=F83820,E09890>Traits:<c3=404040,B0B0B0>
 <c3=F83820,E09890>Traços:<c3=404040,B0B0B0>
 <c3=404040{2},B0B0B0>{1}
 <c3=404040{2},B0B0B0>{1}
 <c3=F83820,E09890>Likes:<c3=404040,B0B0B0>
-<c3=F83820,E09890>Gosta:<c3=404040,B0B0B0>
+<c3=F83820,E09890>Gosta De:<c3=404040,B0B0B0>
 <c3=F83820,E09890>Dislikes:<c3=404040,B0B0B0>
-<c3=F83820,E09890>Não Gosta:<c3=404040,B0B0B0>
+<c3=F83820,E09890>Não Gosta De:<c3=404040,B0B0B0>
 Met at Lv. {1}.
 Met at Lv. {1}.
 Egg received.
@@ -52463,7 +52463,7 @@ E
 (through {1})
 (através de {1})
 Unknown Map
-Unknown Map
+Mapa Desconhecido
 {1}: {2} ({3}\%)
 {1}: {2} ({3}\%)
 <u>Encounterable Areas for {1}</u>
@@ -64701,881 +64701,881 @@ Este clã existe para testar o sistema de extensões PBS.
 [29]
 0
 Abrasive
-Abrasive
+Abrasivo(a)
 1
 Absentminded
-Absentminded
+Distraído(a)
 2
 Adorable
-Adorable
+Adorável
 3
 Adventurous
-Adventurous
+Aventureiro(a)
 4
 Aggressive
-Aggressive
+Agressivo(a)
 5
 Allocentric
-Allocentric
+Alocêntrico(a)
 6
 Amiable
-Amiable
+Amável
 7
 Alert
-Alert
+Alerta
 8
 Aloof
-Aloof
+Distante
 9
 Ambitious
-Ambitious
+Ambicioso(a)
 10
 Anxious
-Anxious
+Ansioso(a)
 11
 Apathetic
-Apathetic
+Apático(a)
 12
 Artistic
-Artistic
+Artístico(a)
 13
 Ascetic
-Ascetic
+Rigoroso(a)
 14
 Athletic
-Athletic
+Atlético(a)
 15
 Boastful
-Boastful
+Fanfarrão(ona)
 16
 Bossy
-Bossy
+Mandão(ona)
 17
 Brooding
-Brooding
+Pensativo(a)
 18
 Callous
-Callous
+Insensível
 19
 Caring
-Caring
+Gentil
 20
 Careless
-Careless
+Negligente
 21
 Chatterbox
-Chatterbox
+Tagarela
 22
 Cheerful
-Cheerful
+Alegre
 23
 Clever
-Clever
+Esperto(a)
 24
 Clumsy
-Clumsy
+Trapalhão(ona)
 25
 Collector
-Collector
+Coletor(a)
 26
 Composed
-Composed
+Calmo(a)
 27
 Compassionate
-Compassionate
+Compassivo(a)
 28
 Conciliatory
-Conciliatory
+Conciliador(a)
 29
 Confident
-Confident
+Confiante
 30
 Conformist
-Conformist
+Conformista
 31
 Considerate
-Considerate
+Atencioso(a)
 32
 Courageous
-Courageous
+Corajoso(a)
 33
 Courteous
-Courteous
+Cortês
 34
 Curious
-Curious
+Curioso(a)
 35
 Cowardly
-Cowardly
+Covarde
 36
 Cynical
-Cynical
+Cínico(a)
 37
 Debonair
-Debonair
+Sofisticado(a)
 38
 Decadent
-Decadent
+Decadente
 39
 Deceitful
-Deceitful
+Traiçoeiro(a)
 40
 Dedicated
-Dedicated
+Dedicado(a)
 41
 Dignified
-Dignified
+Honroso(a)
 42
 Disciplined
-Disciplined
+Disciplinado(a)
 43
 Dramatic
-Dramatic
+Dramático(a)
 44
 Dull
-Dull
+Chato(a)
 45
 Earnest
-Earnest
+Sincero(a)
 46
 Elegant
-Elegant
+Elegante
 47
 Energetic
-Energetic
+Energético(a)
 48
 Enigmatic
-Enigmatic
+Enigmático(a)
 49
 Esthetic
-Esthetic
+Estético(a)
 50
 Fickle
-Fickle
+Instável
 51
 Forgetful
-Forgetful
+Esquecido(a)
 52
 Forthright
-Forthright
+Franco(a)
 53
 Fretful
-Fretful
+Irritável
 54
 Friendly
-Friendly
+Amigável
 55
 Frugal
-Frugal
+Poupador(a)
 56
 Funny
-Funny
+Engraçado(a)
 57
 Gallant
-Gallant
+Galante
 58
 Generous
-Generous
+Generoso(a)
 59
 Go-getter
-Go-getter
+Proativo(a)
 60
 Gracious
-Gracious
+Gracioso(a)
 61
 Gullible
-Gullible
+Ingênuo(a)
 62
 High-minded
-High-minded
+Virtuoso(a)
 63
 Honest
-Honest
+Honesto(a)
 64
 Hopeful
-Hopeful
+Esperançoso(a)
 65
 Humble
-Humble
+Humilde
 66
 Imaginative
-Imaginative
+Criativo(a)
 67
 Impressionable
-Impressionable
+Abalável
 68
 Independent
-Independent
+Independente
 69
 Innocent
-Innocent
+Inocente
 70
 Intense
-Intense
+Intenso(a)
 71
 Inviting
-Inviting
+Acolhedor(a)
 72
 Irritable
-Irritable
+Irritável
 73
 Judgey
-Judgey
+Julgador(a)
 74
 Kind
-Kind
+Bondoso(a)
 75
 Kleptomaniac
-Kleptomaniac
+Cleptomaníaco(a)
 76
 Leaderly
-Leaderly
+Líder
 77
 Logical
-Logical
+Lógico(a)
 78
 Lucky
-Lucky
+Sortudo(a)
 79
 Loyal
-Loyal
+Leal
 80
 Magnanimous
-Magnanimous
+Magnânimo(a)
 81
 Masochistic
-Masochistic
+Masoquista
 82
 Meek
-Meek
+Manso(a)
 83
 Melancholic
-Melancholic
+Melancólico(a)
 84
 Meticulous
-Meticulous
+Meticuloso(a)
 85
 Money-minded
-Money-minded
+Ganancioso(a)
 86
 Obnoxious
-Obnoxious
+Irritante
 87
 Observant
-Observant
+Atento(a)
 88
 Open Book
-Open Book
+Livro Aberto
 89
 Optimistic
-Optimistic
+Otimista
 90
 Partier
-Partier
+Festeiro(a)
 91
 Patient
-Patient
+Paciente
 92
 Pedantic
-Pedantic
+Pedante
 93
 Petty
-Petty
+Mesquinho(a)
 94
 Petulant
-Petulant
+Petulante
 95
 Perfectionist
-Perfectionist
+Perfeccionista
 96
 Persistent
-Persistent
+Persistente
 97
 Pompous
-Pompous
+Pomposo(a)
 98
 Practical
-Practical
+Prático(a)
 99
 Pretentious
-Pretentious
+Pretencioso(a)
 100
 Profound
-Profound
+Profundo(a)
 101
 Protective
-Protective
+Protetor(a)
 102
 Reflective
-Reflective
+Reflexivo(a)
 103
 Reliable
-Reliable
+Confiável
 104
 Reserved
-Reserved
+Reservado(a)
 105
 Rogueish
-Rogueish
+Travesso(a)
 106
 Rowdy
-Rowdy
+Arruaceiro(a)
 107
 Sadistic
-Sadistic
+Sádico(a)
 108
 Sarcastic
-Sarcastic
+Sarcástico(a)
 109
 Sardonic
-Sardonic
+Sardônico(a)
 110
 Secretive
-Secretive
+Quieto(a)
 111
 Sedentary
-Sedentary
+Sedentário(a)
 112
 Self-conscious
-Self-conscious
+Auto-consciente
 113
 Self-effacing
-Self-effacing
+Modesto(a)
 114
 Selfless
-Selfless
+Altruísta
 115
 Sentimental
 Sentimental
 116
 Showy
-Showy
+Exibido(a)
 117
 Shy
-Shy
+Tímido(a)
 118
 Slob
-Slob
+Relaxado(a)
 119
 Snide
-Snide
+Ácido(a)
 120
 Sociable
-Sociable
+Sociável
 121
 Spontaneous
-Spontaneous
+Espontâneo(a)
 122
 Steadfast
-Steadfast
+Inabalável
 123
 Stoic
-Stoic
+Estoico(a)
 124
 Studious
-Studious
+Estudioso(a)
 125
 Subtle
-Subtle
+Sutil
 126
 Superstitious
-Superstitious
+Supersticioso(a)
 127
 Sweettooth
-Sweettooth
+Doceiro(a)
 128
 Sycophant
-Sycophant
+Puxa-saco
 129
 Teacherly
-Teacherly
+Tutor
 130
 Tidy
-Tidy
+Caprichoso(a)
 131
 Tinkerer
-Tinkerer
+Engenhoso(a)
 132
 Trusting
-Trusting
+Crédulo(a)
 133
 Urbane
-Urbane
+Refinado(a)
 134
 Vindictive
-Vindictive
+Vingativo(a)
 135
 Whimsical
-Whimsical
+Fantasioso(a)
 136
 Witty
-Witty
+Inteligente
 137
 Experimental
 Experimental
 [30]
 0
 Scary Movies
-Scary Movies
+Filmes Assustadores
 1
 Berries
-Berries
+Frutas
 2
 Beach Walks
-Beach Walks
+Caminhadas Na Praia
 3
 Swimming
-Swimming
+Nadar
 4
 Stories
-Stories
+Histórias
 5
 Camping
-Camping
+Acampar
 6
 Breezes
-Breezes
+A Brisa
 7
 Beach Trips
-Beach Trips
+Viajens À Praia
 8
 Comedy Movies
-Comedy Movies
+Filmes De Comédia
 9
 EDM
 EDM
 10
 Introspection
-Introspection
+Introspecção
 11
 Spicy Food
-Spicy Food
+Comida Picante
 12
 Soda
-Soda
+Refrigerante
 13
 Hiking
-Hiking
+Caminhadas
 14
 Paintings
-Paintings
+Pinturas
 15
 People Watching
-People Watching
+Pessoas O/A Olhando
 16
 Bike Rides
-Bike Rides
+Passeios De Bicicleta
 17
 Languages
-Languages
+Linguagens
 18
 Fishing
-Fishing
+Pescaria
 19
 Gardening
-Gardening
+Jardinagem
 20
 Dumpster Diving
-Dumpster Diving
+Garimpagem De Lixo
 21
 Judo
-Judo
+Judô
 22
 Shopping
-Shopping
+Compras
 23
 Fashion
-Fashion
+Moda
 24
 Jogging
 Jogging
 25
 Card Games
-Card Games
+Jogos De Carta
 26
 Video Games
 Video Games
 27
 Computers
-Computers
+Computadores
 28
 Math
-Math
+Matemática
 29
 Chemistry
-Chemistry
+Química
 30
 Documentaries
-Documentaries
+Documentários
 31
 History
-History
+História
 32
 Rainy Days
-Rainy Days
+Dias Chuvosos
 33
 Tightropes
-Tightropes
+Corda-Bamba
 34
 Astronomy
-Astronomy
+Astronomia
 35
 Horoscopes
-Horoscopes
+Horóscopos
 36
 Tree Climbing
-Tree Climbing
+Subir Em Árvores
 37
 Meditation
-Meditation
+Meditação
 38
 Acrobatics
-Acrobatics
+Acrobacias
 39
 Cakes
-Cakes
+Bolos
 40
 Ice Cream
-Ice Cream
+Sorvete
 41
 Expensive Food
-Expensive Food
+Comida Chique
 42
 Cooking
-Cooking
+Cozinhar
 43
 Baking
-Baking
+Confeitar
 44
 Action Movies
-Action Movies
+Filmes De Ação
 45
 Lo-Fi
 Lo-Fi
 46
 Rock Music
-Rock Music
+Rock
 47
 Rocks
-Rocks
+Pedras
 48
 Snow
-Snow
+Neve
 49
 Exercise
-Exercise
+Exercício
 50
 Marathons
-Marathons
+Maratonas
 51
 Weightlifting
-Weightlifting
+Levantamento De Peso
 52
 Heavy Metal
 Heavy Metal
 53
 Coffee
-Coffee
+Café
 54
 Iced Lattes
-Iced Lattes
+Latte Gelado
 55
 Hot Cocao
-Hot Cocao
+Chocolate Quente
 56
 Chocolate Milk
-Chocolate Milk
+Leite Com Chocolate
 57
 Flowers
-Flowers
+Flores
 58
 Avant-garde
-Avant-garde
+Vanguarda
 59
 Novelty
-Novelty
+Novidades
 60
 Routines
-Routines
+Rotinas
 61
 Yoga
 Yoga
 62
 The Occult
-The Occult
+O Oculto
 63
 Skiing
-Skiing
+Esquiar
 64
 Plays
-Plays
+Peças De Teatro
 65
 Fireworks
-Fireworks
+Fogos De Artifício
 66
 Salsa
 Salsa
 67
 Naps
-Naps
+Cochilar
 68
 Pizza
 Pizza
 69
 Jigsaw Puzzles
-Jigsaw Puzzles
+Quebra-Cabeças
 70
 Firemaking
-Firemaking
+Fogo
 71
 Following You
-Following You
+Te Seguir
 72
 Taking Pictures
-Taking Pictures
+Tirar Fotos
 73
 Attention
-Attention
+Atenção
 74
 Being Spoiled
-Being Spoiled
+Ser Mimado(a)
 75
 Parkour
 Parkour
 76
 Destruction
-Destruction
+Destruição
 77
 Pottery
-Pottery
+Cerâmica
 78
 Weaving
-Weaving
+Tecelagem
 79
 Reality TV
-Reality TV
+Reality Shows
 80
 Tournament Arcs
-Tournament Arcs
+Arcos De Torneio
 81
 Competition
-Competition
+Competição
 82
 Banter
-Banter
+Brincadeiras
 83
 Cleaning
-Cleaning
+Limpar Coisas
 84
 Milkshakes
 Milkshakes
 85
 Chess
-Chess
+Xadrez
 86
 Sewers
-Sewers
+Esgotos
 87
 Silence
-Silence
+Silêncio
 88
 Opera
-Opera
+Ópera
 89
 Fencing
-Fencing
+Esgrima
 90
 Woodworking
-Woodworking
+Marcenaria
 91
 Dolls
-Dolls
+Bonecos
 92
 Drawing
-Drawing
+Desenhar
 93
 Jewelry
-Jewelry
+Bijuteria
 94
 Origami
 Origami
 95
 Poetry
-Poetry
+Poesia
 96
 Coding
-Coding
+Programar
 97
 Tarot
 Tarot
 98
 Surfing
-Surfing
+Surfar
 99
 Dancing
-Dancing
+Dançar
 100
 Gymnastics
-Gymnastics
+Ginástica
 101
 Skating
-Skating
+Patinação
 102
 Photography
-Photography
+Fotografia
 103
 Streams
-Streams
+Correntes D'Água
 104
 Singing
-Singing
+Cantar
 105
 Bowling
-Bowling
+Boliche
 106
 Graffiti
 Graffiti
 107
 Magic Tricks
-Magic Tricks
+Truques De Mágica
 108
 Juggling
-Juggling
+Malabarismo
 109
 Skydiving
-Skydiving
+Paraquedismo
 110
 Bungee Jumping
 Bungee Jumping
 111
 Salads
-Salads
+Salada
 112
 Lemonade
-Lemonade
+Limonada
 113
 Puns
-Puns
+Piadas
 114
 Mushrooms
-Mushrooms
+Cogumelos
 115
 Punk Rock
 Punk Rock
 116
 Knitting
-Knitting
+Tricotar
 117
 Data Analytics
-Data Analytics
+Análise De Dados
 118
 Cartography
-Cartography
+Cartografia
 119
 Acting
-Acting
+Atuar
 120
 Sewing
-Sewing
+Costurar
 121
 Carpentry
-Carpentry
+Carpintaria
 122
 Glassblowing
-Glassblowing
+Sofrar Vidros
 123
 Art
-Art
+Arte
 124
 Literature
-Literature
+Literatura
 125
 Writing
-Writing
+Escrever
 126
 Architecture
-Architecture
+Arquitetura
 127
 Reading
-Reading
+Ler
 128
 Football
-Football
+Futebol
 129
 Gambling
-Gambling
+Apostar
 130
 Chaos
-Chaos
+Caos
 131
 Hugs
-Hugs
+Abraços
 132
 Cartoons
-Cartoons
+Desenhos Animados
 133
 Comics
-Comics
+Quadrinhos
 134
 Donuts
-Donuts
+Rosquinhas
 135
 Fresh Water
-Fresh Water
+Água Fresca
 136
 Neon Lights
-Neon Lights
+Luzes Neon
 137
 Geology
-Geology
+Geologia
 138
 Rock Collecting
-Rock Collecting
+Colecionar Pedras
 139
 Gemstones
-Gemstones
+Jóias
 140
 Vaporwave
 Vaporwave
 141
 Trains
-Trains
+Trens
 142
 Acroyoga
 Acroyoga
 143
 Aquascaping
-Aquascaping
+Aquapaisagismo
 144
 Beatboxing
 Beatboxing
 145
 Bonsai
-Bonsai
+Bonsais
 146
 Campanology
-Campanology
+Campanologia
 147
 Board Games
-Board Games
+Jogos De Tabuleiro
 148
 Art Restoration
-Art Restoration
+Restauração De Arte
 149
 Breadmaking
-Breadmaking
+Panificação
 150
 Journaling
-Journaling
+Escrever Diários
 151
 Scrapbooking
-Scrapbooking
+Álbuns De Recortes
 152
 Theorycrafting
-Theorycrafting
+Teorizar
 153
 Cheesemaking
-Cheesemaking
+Fabricação De Queijos
 154
 Conlanging
 Conlanging
@@ -65584,112 +65584,112 @@ Cosplaying
 Cosplaying
 156
 Cryptography
-Cryptography
+Criptografia
 157
 Crosswords
-Crosswords
+Palavras-Cruzadas
 158
 Sudoku
 Sudoku
 159
 Decorating
-Decorating
+Decorações
 160
 DJing
 DJing
 161
 Electronics
-Electronics
+Eletrônicos
 162
 Engraving
-Engraving
+Gravuras
 163
 Fantasy Sports
 Fantasy Sports
 164
 Embroidery
-Embroidery
+Bordados
 165
 Tea Ceremonies
-Tea Ceremonies
+Cerimônias Do Chá
 166
 Hairstyling
-Hairstyling
+Penteados
 167
 Cosmology
-Cosmology
+Cosmologia
 168
 Lapidary
-Lapidary
+Lapidação
 169
 Lock Picking
-Lock Picking
+Arrombar Fechaduras
 170
 Philately
-Philately
+Filatelia
 171
 Postcrossing
 Postcrossing
 172
 Proverbs
-Proverbs
+Provérbios
 173
 Pyrography
-Pyrography
+Pyrogravura
 174
 Editing
-Editing
+Editar
 175
 Puppetry
-Puppetry
+Marionetes
 176
 Quilling
 Quilling
 177
 Quilting
-Quilting
+Acolchoamento
 178
 Jump Rope
-Jump Rope
+Pula-Corda
 179
 Soapmaking
-Soapmaking
+Fabricar Sabonetes
 180
 Speedrunning
 Speedrunning
 181
 Spreadsheets
-Spreadsheets
+Planilhas
 182
 Tattoos
-Tattoos
+Tatuagens
 183
 Wargaming
-Wargaming
+Jogos De Guerra
 184
 Watch Making
-Watch Making
+Criação De Relógios
 185
 Yo-yoing
-Yo-yoing
+Yo-Yos
 186
 Beachcombing
-Beachcombing
+Garimpagem De Praia
 187
 BMX
 BMX
 188
 Croquet
-Croquet
+Cróquete
 189
 Basketball
-Basketball
+Basquetebol
 190
 Spelunking
-Spelunking
+Espeleologia
 191
 Foraging
-Foraging
+Pilhagem
 192
 Geocaching
 Geocaching
@@ -65698,94 +65698,94 @@ LARPing
 LARPing
 194
 Kites
-Kites
+Pipas
 195
 Meteorology
-Meteorology
+Meteorologia
 196
 Museums
-Museums
+Museus
 197
 Sledding
-Sledding
+Trenós
 198
 Survivalism
-Survivalism
+Sobrevivência
 199
 Stone Skipping
-Stone Skipping
+Jogar Pedras Na Água
 200
 Ping-pong
 Ping-pong
 201
 Topiary
-Topiary
+Topiária
 202
 Tourism
-Tourism
+Turismo
 203
 Volleyball
-Volleyball
+Voleibol
 204
 Archaeology
-Archaeology
+Arqueologia
 205
 Botany
-Botany
+Botânica
 206
 Biology
-Biology
+Biologia
 207
 Mycology
-Mycology
+Micologia
 208
 Aerospace
-Aerospace
+Aeroespaço
 209
 Social Studies
-Social Studies
+Estudos Sociais
 210
 Philosophy
-Philosophy
+Filosofia
 211
 Action Figures
-Action Figures
+Figuras De Ação
 212
 Pins
-Pins
+Alfinetes
 213
 Perfumes
 Perfumes
 214
 Sneakers
-Sneakers
+Calçados
 215
 Antiques
-Antiques
+Antiguidades
 216
 Rock Balancing
-Rock Balancing
+Equilibrar Pedras
 217
 Seashells
-Seashells
+Conchas-Do-Mar
 218
 Air Hockey
-Air Hockey
+Disco De Mesa
 219
 Backgammon
-Backgammon
+Gamão
 220
 Badminton
 Badminton
 221
 Billiards
-Billiards
+Bilhar
 222
 Bridges
-Bridges
+Pontes
 223
 Color Guard
-Color Guard
+Guarda-Bandeiras
 224
 Curling
 Curling
@@ -65794,13 +65794,13 @@ Go
 Go
 226
 Word Games
-Word Games
+Jogos De Palavras
 227
 Mahjong
 Mahjong
 228
 Marbles
-Marbles
+Bolinhas De Gude
 229
 Pinball
 Pinball
@@ -65812,22 +65812,22 @@ Speedcubing
 Speedcubing
 232
 Baseball
-Baseball
+Beisebol
 233
 Disc Golf
-Disc Golf
+Golfe De Disco
 234
 Golf
-Golf
+Golfe
 235
 Figure Skating
-Figure Skating
+Patinação No Gelo
 236
 Lacrosse
 Lacrosse
 237
 Skateboarding
-Skateboarding
+Skate
 238
 Longboarding
 Longboarding
@@ -65836,7 +65836,7 @@ Pickleball
 Pickleball
 240
 Monster Trucks
-Monster Trucks
+Caminhões-Monstro
 241
 Roller Derby
 Roller Derby
@@ -65845,19 +65845,19 @@ Rugby
 Rugby
 243
 Softball
-Softball
+Softbol
 244
 Triathlons
-Triathlons
+Triatlos
 245
 Microscopy
-Microscopy
+Microscopia
 246
 SWLing
 SWLing
 247
 Wailord Watching
-Wailord Watching
+Monitorar Wailords
 248
 ASMR
 ASMR
@@ -65866,55 +65866,55 @@ Selfies
 Selfies
 250
 Boba
-Boba
+Boba Tea
 251
 Arson
-Arson
+Incêndio Criminoso
 252
 Hacking
-Hacking
+Hackear
 253
 Going Fast
-Going Fast
+Mover-se Rápido
 254
 Tax Evasion
-Tax Evasion
+Evasão Fiscal
 255
 Investing
-Investing
+Investimentos
 256
 Stocks
-Stocks
+Ações
 257
 Power Tools
-Power Tools
+Ferramentas Elétricas
 258
 Machines
-Machines
+Máquinas
 259
 Heavy Machinery
-Heavy Machinery
+Maquinário Pesado
 260
 Radios
-Radios
+Rádios
 261
 Classical Music
-Classical Music
+Música Clássica
 262
 Anime
 Anime
 263
 Rom-coms
-Rom-coms
+Comédias Românticas
 264
 Camp Style
-Camp Style
+Estilo Camp
 265
 Cabaret
-Cabaret
+Clubes Noturnos
 266
 Typewriters
-Typewriters
+Máquinas De Escrever
 267
 Techwear
 Techwear
@@ -65929,13 +65929,13 @@ Jazz
 Jazz
 271
 Ballet
-Ballet
+Balé
 272
 Tennis
-Tennis
+Tênis
 273
 Racecars
-Racecars
+Carros De Corrida
 274
 Drift Phonk
 Drift Phonk
@@ -65947,7 +65947,7 @@ Podcasts
 Podcasts
 277
 Crime Stories
-Crime Stories
+Histórias De True Crime
 278
 Dubstep
 Dubstep
@@ -65956,386 +65956,386 @@ Disco
 Disco
 280
 Castles
-Castles
+Castelos
 281
 Cafes
-Cafes
+Cafés
 282
 Tea
-Tea
+Chá
 283
 Circuit Boards
-Circuit Boards
+Placas De Circuito
 284
 Retro Items
-Retro Items
+Itens Retrô
 285
 E-textiles
-E-textiles
+Tecidos Inteligentes
 286
 RGB Lights
-RGB Lights
+Luzes RGB
 287
 Social Media
-Social Media
+Redes Sociais
 288
 Light Festivals
-Light Festivals
+Festivais De Luzes
 289
 Carnivals
-Carnivals
+Carnavais
 290
 Parades
-Parades
+Desfiles
 291
 Hype
 Hype
 292
 Sandwiches
-Sandwiches
+Sanduíches
 293
 Nature
-Nature
+Natureza
 294
 Ponds
-Ponds
+Lagos
 295
 Waterfalls
-Waterfalls
+Cachoeiras
 296
 White Noise
-White Noise
+Ruído Branco
 297
 Calm Music
-Calm Music
+Música Calma
 298
 Massage Chairs
-Massage Chairs
+Cadeiras Massageadoras
 299
 Debugging
-Debugging
+Depurar
 [31]
 0
 Scary Movies
-Scary Movies
+Filmes Assustadores
 1
 Petting
-Petting
+Carinho
 2
 Loud Noises
-Loud Noises
+Barulhos Altos
 3
 Smalltalk
-Smalltalk
+Papo-Furado
 4
 Directions
-Directions
+Receber Ordens
 5
 Introspection
-Introspection
+Introspecção
 6
 Sour Food
-Sour Food
+Comida Amarga
 7
 Bitter Coffee
-Bitter Coffee
+Café Amargo
 8
 Sweet Coffee
-Sweet Coffee
+Café Doce
 9
 The Vet
-The Vet
+Visitas Ao Veterinário
 10
 Pollen
-Pollen
+Polem
 11
 Tight Spaces
-Tight Spaces
+Espaços Apertados
 12
 Crowds
-Crowds
+Multidões
 13
 Commuting
-Commuting
+Viajar Muito
 14
 Hiking
-Hiking
+Caminhadas
 15
 Idleness
-Idleness
+Ociosidade
 16
 Sad Stories
-Sad Stories
+Histórias Tristes
 17
 Heights
-Heights
+Altura
 18
 Storms
-Storms
+Tempestades
 19
 Hot Days
-Hot Days
+Dias Quentes
 20
 Cold Days
-Cold Days
+Dias Frios
 21
 The Dark
-The Dark
+Do Escuro
 22
 Thunder
-Thunder
+Trovão
 23
 Defeatists
-Defeatists
+Pessimismo
 24
 Babies
-Babies
+Bebês
 25
 Forests
-Forests
+Florestas
 26
 Sand
-Sand
+Areia
 27
 Exercise
-Exercise
+Exercício
 28
 Babysitting
-Babysitting
+Cuidar De Crianças
 29
 Loud Cars
-Loud Cars
+Carros Barulhentos
 30
 Responsibility
-Responsibility
+Responsabilidade
 31
 Cleaning
-Cleaning
+Limpar
 32
 Spicy Food
-Spicy Food
+Comida Picante
 33
 Soda
-Soda
+Refrigerante
 34
 Loud Music
-Loud Music
+Música Alta
 35
 Cooking
-Cooking
+Cozinhar
 36
 Snow
-Snow
+Neve
 37
 Routines
-Routines
+Rotinas
 38
 Fireworks
-Fireworks
+Fogos De Artifício
 39
 Attention
-Attention
+Atenção
 40
 Being Spoiled
-Being Spoiled
+Ser Mimado(a)
 41
 Slow Internet
-Slow Internet
+Internet Lenta
 42
 Loud Eaters
-Loud Eaters
+Barulho De Mastigação
 43
 Chalkboards
-Chalkboards
+Quadros-Negros
 44
 Open Ocean
-Open Ocean
+Mar Aberto
 45
 Boats
-Boats
+Barcos
 46
 Chores
-Chores
+Afazeres
 47
 Snitches
-Snitches
+X9s
 48
 Authority
-Authority
+Autoridade
 49
 Mornings
-Mornings
+Manhãs
 50
 Change
-Change
+Mudança
 51
 Dieting
-Dieting
+Dietas
 52
 Introductions
-Introductions
+Apresentações
 53
 Silence
-Silence
+Silêncio
 54
 Eye Contact
-Eye Contact
+Contato Visual
 55
 Vandalism
-Vandalism
+Vandalismo
 56
 Wastefulness
-Wastefulness
+Desperdício
 57
 Homework
-Homework
+Dever De Casa
 58
 Small Spaces
-Small Spaces
+Espaços Pequenos
 59
 Clowns
-Clowns
+Palhaços
 60
 Being Tickled
-Being Tickled
+Cócegas
 61
 One-uppers
-One-uppers
+Pessoas Soberbas
 62
 Ads
-Ads
+Anúncios
 63
 Mayonnaise
-Mayonnaise
+Maionese
 64
 Reality TV
-Reality TV
+Reality Shows
 65
 Avocados
-Avocados
+Abacates
 66
 Tomatos
-Tomatos
+Tomates
 67
 Pineapples
-Pineapples
+Abacaxis
 68
 Cilantro
-Cilantro
+Coentro
 69
 Mustard
-Mustard
+Mostarda
 70
 Celebrities
-Celebrities
+Celebridades
 71
 B-O
-B-O
+Mau-Cheiro
 72
 Jelly
-Jelly
+Geléia
 73
 Dentists
-Dentists
+Dentistas
 74
 Open Spaces
-Open Spaces
+Espaços Abertos
 75
 The Abraporter
-The Abraporter
+O Abraportador
 76
 Isolation
-Isolation
+Isolamento
 77
 Needles
-Needles
+Agulhas
 78
 Mirrors
-Mirrors
+Espelhos
 79
 Cemeteries
-Cemeteries
+Cemitérios
 80
 Embarrassment
-Embarrassment
+Constrangimento
 81
 Airplanes
-Airplanes
+Aviões
 82
 Weight Gain
-Weight Gain
+Ganhar Peso
 83
 Medicine
-Medicine
+Medicina
 84
 Being Watched
-Being Watched
+Ser Observado(a)
 85
 Public Speaking
-Public Speaking
+Falar Em Público
 86
 Balloons
-Balloons
+Balões
 87
 Peanut Butter
-Peanut Butter
+Manteiga De Amendoim
 88
 Cinnamon
-Cinnamon
+Canela
 89
 Okra
-Okra
+Quiabo
 90
 Pickles
-Pickles
+Picles
 91
 Turnips
-Turnips
+Nabos
 92
 Waking Up
-Waking Up
+Acordar
 93
 Copyright
 Copyright
 94
 Taxes
-Taxes
+Impostos
 95
 Nerds
-Nerds
+Nerdolas
 96
 Pop Music
-Pop Music
+Música Pop
 97
 Anime
 Anime
 98
 Exams
-Exams
+Provas
 99
 Mondays
-Mondays
+Segunda-Feira
 100
 Wasabi
 Wasabi
 101
 Country Music
-Country Music
+Música Sertaneja
 102
 Rap Music
-Rap Music
+Rap
 103
 Snakes
-Snakes
+Cobras
 104
 Bees
-Bees
+Abelhas
 105
 Formal Clothes
-Formal Clothes
+Roupas Formais
 106
 Code Errors
-Code Errors
+Erros De Código
 [32]
 Juggling Thrown
 Juggling Thrown
