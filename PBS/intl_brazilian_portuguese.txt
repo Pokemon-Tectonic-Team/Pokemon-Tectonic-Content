@@ -51691,11 +51691,11 @@ Dados
 No more than {1} Pokémon may enter.
 No more than {1} Pokémon may enter.
 Choose a Pokémon.
-Choose a Pokémon.
+Escolha um Pokémon.
 Choose Pokémon or cancel.
-Choose Pokémon or cancel.
+Escolha um Pokémon ou cancele.
 This Pokémon can't be chosen.
-This Pokémon can't be chosen.
+Este Pokémon não pode ser escolhido
 Choose a Pokémon. (D for Showcase)
 Escolha um Pokémon. (D para Foto)
 Move to where?
