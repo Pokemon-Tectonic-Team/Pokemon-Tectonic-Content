@@ -10128,23 +10128,23 @@ What a long Pokemon!
 [Map147]
 [Map148]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
-A small feeding bowl, refilled as needed by the Estate Caretaker.
+Um pequeno pote de ração, preenchido quando necessário pelo Cuidador da Propriedade.
 [Map149]
 [Map150]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
-A small feeding bowl, refilled as needed by the Estate Caretaker.
+Um pequeno pote de ração, preenchido quando necessário pelo Cuidador da Propriedade.
 [Map151]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
-A small feeding bowl, refilled as needed by the Estate Caretaker.
+Um pequeno pote de ração, preenchido quando necessário pelo Cuidador da Propriedade.
 [Map152]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
-A small feeding bowl, refilled as needed by the Estate Caretaker.
+Um pequeno pote de ração, preenchido quando necessário pelo Cuidador da Propriedade.
 [Map153]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
-A small feeding bowl, refilled as needed by the Estate Caretaker.
+Um pequeno pote de ração, preenchido quando necessário pelo Cuidador da Propriedade.
 [Map154]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
-A small feeding bowl, refilled as needed by the Estate Caretaker.
+Um pequeno pote de ração, preenchido quando necessário pelo Cuidador da Propriedade.
 [Map155]
 Aquatopia
 Aquatopia
@@ -11106,19 +11106,19 @@ No thanks.
 No thanks.
 [Map160]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
-A small feeding bowl, refilled as needed by the Estate Caretaker.
+Um pequeno pote de ração, preenchido quando necessário pelo Cuidador da Propriedade.
 [Map161]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
-A small feeding bowl, refilled as needed by the Estate Caretaker.
+Um pequeno pote de ração, preenchido quando necessário pelo Cuidador da Propriedade.
 [Map162]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
-A small feeding bowl, refilled as needed by the Estate Caretaker.
+Um pequeno pote de ração, preenchido quando necessário pelo Cuidador da Propriedade.
 [Map163]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
-A small feeding bowl, refilled as needed by the Estate Caretaker.
+Um pequeno pote de ração, preenchido quando necessário pelo Cuidador da Propriedade.
 [Map164]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
-A small feeding bowl, refilled as needed by the Estate Caretaker.
+Um pequeno pote de ração, preenchido quando necessário pelo Cuidador da Propriedade.
 [Map165]
 Oh, no payment required for entry!
 Oh, no payment required for entry!
@@ -11471,10 +11471,10 @@ These flowers are a little dry.
 These flowers are a little dry.
 [Map169]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
-A small feeding bowl, refilled as needed by the Estate Caretaker.
+Um pequeno pote de ração, preenchido quando necessário pelo Cuidador da Propriedade.
 [Map170]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
-A small feeding bowl, refilled as needed by the Estate Caretaker.
+Um pequeno pote de ração, preenchido quando necessário pelo Cuidador da Propriedade.
 [Map171]
 A painting of the view outside the office.
 A painting of the view outside the office.
@@ -11522,7 +11522,7 @@ I'll let you walk.
 I'll let you walk.
 [Map172]
 A small feeding bowl, refilled as needed by the Estate Caretaker.
-A small feeding bowl, refilled as needed by the Estate Caretaker.
+Um pequeno pote de ração, preenchido quando necessário pelo Cuidador da Propriedade.
 [Map173]
 A poster for DJ Damned Souls.
 A poster for DJ Damned Souls.
@@ -49511,23 +49511,23 @@ Rock
 Sand
 Sand
 Forest
-Forest
+Floresta
 Forest grass
 Forest grass
 Snow
-Snow
+Neve
 Ice
-Ice
+Gelo
 Volcano
-Volcano
+Vulcão
 Graveyard
-Graveyard
+Cemitério
 Sky
-Sky
+Céu
 Space
-Space
+Espaço
 Ultra Space
-Ultra Space
+Ultra-Espaço
 Use the {1} as a {2} on {3}?
 Use the {1} as a {2} on {3}?
 A piece of <imp>Origin Ore</imp> inside your bag is glowing with power!
@@ -49731,23 +49731,23 @@ Caixa {1}
 Donation Box {1}
 Caixa De Doação {1}
 City
-City
+Cidade
 Desert
-Desert
+Deserto
 Savanna
-Savanna
+Savana
 Crag
-Crag
+Penhasco
 Beach
-Beach
+Praia
 Seafloor
-Seafloor
+Fundo Do Mar
 River
-River
+Rio
 Machine
-Machine
+Máquina
 Simple
-Simple
+Simples
 The player is not on a map, so the region could not be determined.
 The player is not on a map, so the region could not be determined.
 The current map has no region set. Please set the MapPosition metadata setting for this map.
@@ -49887,7 +49887,7 @@ Earn a {1}
 Earn {1} {2}
 Earn {1} {2}
 <outln2>Collection Rewards: {1}</outln2>
-<outln2>Collection Rewards: {1}</outln2>
+<outln2>Recompensas de: {1}</outln2>
 MasterDex
 MasterDex
 MoveDex
@@ -51551,7 +51551,7 @@ Idioma alterado para {1}!
 Type {1}/{2}
 Tipo {1}/{2}
 What do you want to do?
-What do you want to do?
+O que você quer fazer?
 Connect
 Connect
 Customize
@@ -53727,29 +53727,29 @@ O que você gostaria de fazer?
 ...
 ...
 You notice a voice message from {1}, the PokÉstate caretaker.
-You notice a voice message from {1}, the PokÉstate caretaker.
+Você nota uma mensagem de voz de {1}, cuidador da Poképropriedade.
 Greetings, young master. I have good news.
-Greetings, young master. I have good news.
+Saudações, jovem mestre. Tenho boas notícias.
 \ME[Bug catching 2nd]You've earned a new PokéDex completion reward!\wtnp[60]
-\ME[Bug catching 2nd]You've earned a new PokéDex completion reward!\wtnp[60]
+\ME[Bug catching 2nd]Você ganhou uma nova recompensa de preenchimento da PokéDex!\wtnp[60]
 \ME[Bug catching 2nd]You've earned {1} new PokéDex completion rewards!\wtnp[60]
-\ME[Bug catching 2nd]You've earned {1} new PokéDex completion rewards!\wtnp[60]
+\ME[Bug catching 2nd]Você ganhou {1} novas recompensas de preenchimento da PokéDex!\wtnp[60]
 For collecting {1}, please take this.
-For collecting {1}, please take this.
+Por obter {1}, por favor tome isto.
 I'll list the feats you've accomplished:
-I'll list the feats you've accomplished:
+Vou listar os feitos alcançados por você:
 You've collected {1}...
-You've collected {1}...
+Você obteu {1}...
 ...and {1}.
-...and {1}.
+...e {1}.
 ...{1}...
 ...{1}...
 That's so many! I'll just give you all the rewards at once.
-That's so many! I'll just give you all the rewards at once.
+Isso é tanta coisa! Eu vou te entregar todas as recompensas de uma só vez.
 That's a lot, so I've lumped all the rewards together.
-That's a lot, so I've lumped all the rewards together.
+Isso é muita coisa, então eu agrupei todas as recompensas em uma só.
 As you finish reading, the PC materializes a package...
-As you finish reading, the PC materializes a package...
+Assim que você termina de ler, o Computador materializa um pacote...
 Landscape
 Paisagem
 Hear Story
@@ -53785,23 +53785,23 @@ Story here involving {1} and {2}!
 PokÉstate {1}
 Propriedade {1}
 {1} non-legendary species (25%)
-{1} non-legendary species (25%)
+{1} espécies não lendárias (25%)
 {1} non-legendary species (50%)
-{1} non-legendary species (50%)
+{1} espécies não lendárias (50%)
 {1} non-legendary species (75%)
-{1} non-legendary species (75%)
+{1} espécies não lendárias (75%)
 {1} non-legendary species (100%)
-{1} non-legendary species (100%)
+{1} espécies não lendárias (100%)
 Level cap {1}
-Level cap {1}
+Limite De Nível {1}
 all species in {1}
-all species in {1}
+todas as espécies em {1}
 {1} {2}-type species
-{1} {2}-type species
+{1} espécies do tipo {2}
 {1} species in the {2} tribe
-{1} species in the {2} tribe
+{1} espécies do clã {2}
 {1} species from Generation {2}
-{1} species from Generation {2}
+{1} espécies da Geração {2}
 Value must be provided when applying effect #{effectData.name} (it's not a boolean)
 Value must be provided when applying effect #{effectData.name} (it's not a boolean)
 Value #{value} provided to apply for effect #{effectData.name} is invalid
