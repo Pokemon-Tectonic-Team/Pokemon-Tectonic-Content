@@ -896,7 +896,7 @@ I'm a bit disappointed. Well, let's avoid getting too cocky. I should actually m
 Bye bye!
 Bye bye!
 LuxTech Main
-LuxTech Main
+Sede Da LuxTech
 I'm figuring out vacation spots here in Makya.
 I'm figuring out vacation spots here in Makya.
 Visiting the ice cave seems wonderful, but the looming threat of Avatars really throws a wrench in things...
@@ -2399,7 +2399,7 @@ East: Grouz Mine
 South-East: Amber Hills
 South-East: Amber Hills
 Grouz Mine
-Grouz Mine
+Mina De Grauze
 My my, I hope you aren't here to battle. I won't be able to tell my Pokemon anything if you keep taking my breath away.
 My my, I hope you aren't here to battle. I won't be able to tell my Pokemon anything if you keep taking my breath away.
 Oh, you are? Ah, I suppose a rose as pretty as you would have some very sharp thorns...
@@ -4864,7 +4864,7 @@ I'm sure someone else would like to battle. I'd love to see that happen.
 Our battle was fun! Can't wait to see the next one.
 Our battle was fun! Can't wait to see the next one.
 The Reading Ribombee Café
-The Reading Ribombee Café
+A Cafeteria Do Ribombee Leitor
 A flier is also attached to the sign.
 A flier is also attached to the sign.
 "Home of the Novo Battling Club! Feel free to drop by for a free snack!"
@@ -5092,7 +5092,7 @@ I hiked up to the top earlier to capture it, but it wouldn't even battle me.
 Beats me.
 Beats me.
 Name Rater's House
-Name Rater's House
+Casa Do Nomeador
 Ohoho, so you've beat everyone in the club have you?
 Ohoho, so you've beat everyone in the club have you?
 Well, everyone but me.
@@ -5170,7 +5170,7 @@ I'm rooting for you.
 NO MOTOR VEHICLES
 NO MOTOR VEHICLES
 Novo Apartments
-Novo Apartments
+Apartametos De Nova
 Oh, hey. You a trainer?
 Oh, hey. You a trainer?
 Listen, I got some Pokémon that need training and… you’re giving me the look like ya heard this before.
@@ -6959,9 +6959,9 @@ Undefined Incidents
 Log Off
 Log Off
 Bluepoint Grotto
-Bluepoint Grotto
+Gruta De Bluepoint
 Novo Apartments
-Novo Apartments
+Apartametos De Nova
 Sewers
 Sewers
 Go Back
@@ -6969,9 +6969,9 @@ Go Back
 Eleig Bridge
 Eleig Bridge
 Gigalith's Guts
-Gigalith's Guts
+Entranhas De Gigalith
 Velenz
-Velenz
+Velenze
 Grouz Sightings
 Grouz Sightings
 County Park Sightings
@@ -9632,7 +9632,7 @@ Northeast: Scenic Path
 A third label has been poorly masked with white paint.
 A third label has been poorly masked with white paint.
 Lambert's House
-Lambert's House
+Casa Do Lambert
 I've summered here for 20 years.
 I've summered here for 20 years.
 I must say it really went to the dogs once Team Chasm started moving in.
@@ -18340,7 +18340,7 @@ Pokemon Lab
 The door seems to be locked shut.
 The door seems to be locked shut.
 Yezera's House
-Yezera's House
+Casa Da Yezera
 Herbert's Herbs
 Herbert's Herbs
 Wren's House
@@ -47240,1519 +47240,1519 @@ Makya
 Makya
 [19]
 Casaba Villa
-Casaba Villa
+Vila Casaba
 Scenic Trail
-Scenic Trail
+Trilha Cênica
 Windy Way
-Windy Way
+Caminho Ventoso
 Foreclosed Tunnel
-Foreclosed Tunnel
+Túnel Interditado
 Bluepoint Beach
-Bluepoint Beach
+Praia Bluepoint
 Feebas' Fin
-Feebas' Fin
+Nadadeira De Feebas
 Shipping Lane
-Shipping Lane
+Rota Pesqueira
 Novo Town
-Novo Town
+Cidade Nova
 Kilna Turf
-Kilna Turf
+Campo De Kilna
 Volcanic Shore
-Volcanic Shore
+Costa Vulcânica
 Underground River
-Underground River
+Rio Subterrâneo
 Tempest Realm
-Tempest Realm
+Reino Tempestuoso
 The Shelf
-The Shelf
+A Estante
 Repora Forest
-Repora Forest
+Floresta Repora
 Svait
 Svait
 Ice Cave
-Ice Cave
+Caverna De Gelo
 Frostflow Farms
-Frostflow Farms
+Fazendas Corrente-Fria
 Highland Lake
-Highland Lake
+Lago Das Terras Altas
 Cave of Hatching
-Cave of Hatching
+Caverna Da Eclosão
 Whitebloom Town
-Whitebloom Town
+Vilarejo Relvabranca
 Velenz
-Velenz
+Velenze
 Velenz Menagerie
-Velenz Menagerie
+Coleção De Velenze
 Barren Crater
-Barren Crater
+Cratera Estéril
 Kilna Ascent
-Kilna Ascent
+Subida Do Mt. Kilna
 Gigalith's Guts
-Gigalith's Guts
+Entranhas De Gigalith
 County Park
-County Park
+Parque Municipal
 Grouz
-Grouz
+Grauze
 East Tunnel
-East Tunnel
+Tunel Leste
 Lingering Delta
-Lingering Delta
+Delta Perene
 LuxTech Campus
-LuxTech Campus
+Campus Da LuxTech
 Canal Desert
-Canal Desert
+Canal Deserto
 Eleig Stretch
-Eleig Stretch
+Trecho Do Rio Eleig
 Eleig River Crossing
-Eleig River Crossing
+Travessia Do Rio Eleig
 Sandstone Estuary
-Sandstone Estuary
+Estuário De Arenito
 Sweetrock Harbor
-Sweetrock Harbor
+Porto Sweetrock
 Split Peaks
-Split Peaks
+Picos Partidos
 Prizca East
-Prizca East
+Prizca Oriental
 Battle Plaza
-Battle Plaza
+Praça De Batalha
 Karanfil Estates
 Karanfil Estates
 Tournament Grounds
-Tournament Grounds
+Local Do Torneio
 Prizca West
-Prizca West
+Prizca Ocidental
 Team Chasm HQ
-Team Chasm HQ
+QG Da Equipe Chasm
 Ruins Digsite
-Ruins Digsite
+Sítio Arqueológico Das Ruínas
 Hollowed Layer
-Hollowed Layer
+Camada Oca
 Carnation Graves
-Carnation Graves
+Cemitério Dos Craveiros
 Prizca Castle
-Prizca Castle
+Castelo De Prizca
 Guardian Island
-Guardian Island
+Ilha Do Guardião
 Eventide Isle
-Eventide Isle
+Ilha Do Entardecer
 Isle of Dragons
-Isle of Dragons
+Ilha Dos Dragões
 Tri Island
-Tri Island
+Ilha Das Três Asas
 Battle Monument
-Battle Monument
+Monumento De Batalha
 Spirit Atoll
-Spirit Atoll
+Atol Espiritual
 Amber Hills
-Amber Hills
+Colinas Âmbar
 Ship Graveyard
-Ship Graveyard
+Cemitério De Navios
 Floral Maze
-Floral Maze
+Labirinto Floral
 Barren Island
-Barren Island
+Ilha Estéril
 Windborn Island
-Windborn Island
+Ilha Do Vento
 [20]
 League Gym 1
-League Gym 1
+Ginásio 1
 League Gym 2
-League Gym 2
+Ginásio 2
 Novo College
-Novo College
+Colégio De Nova
 Vibrant Cave
-Vibrant Cave
+Caverna Vibrante
 League Gym 4
-League Gym 4
+Ginásio 4
 Grouz Mine
-Grouz Mine
+Mina De Grauze
 League Gym 3
-League Gym 3
+Ginásio 3
 LuxTech Main
-LuxTech Main
+Sede Da LuxTech
 League Gym 7
-League Gym 7
+Ginásio 7
 Sweetrock Lighthouse
-Sweetrock Lighthouse
+Farol De Sweetrock
 Makyan Capitol Building
-Makyan Capitol Building
+Capitólio Makiense
 League Gym 6
-League Gym 6
+Ginásio 6
 League Gym 5
-League Gym 5
+Ginásio 5
 Aquatopia
 Aquatopia
 League Gym 8
-League Gym 8
+Ginásio 8
 [21]
 1
 Intro - Alpha
 Intro - Alpha
 2
 Windborn Island
-Windborn Island
+Ilha Do Vento
 3
 Kilna Turf
-Kilna Turf
+Campo De Kilna
 4
 Scientist's House
-Scientist's House
+Casa Do Cientista
 5
 Secret Location
-Secret Location
+Lugar Secreto
 6
 LuxTech Campus
-LuxTech Campus
+Campus Da LuxTech
 7
 Repora Forest
-Repora Forest
+Floresta Repora
 8
 Velenz
-Velenz
+Velenze
 9
 House of Leaves
-House of Leaves
+Casa Das Folhas
 10
 Six Spire Cave
-Six Spire Cave
+Caverna Dos Seis Pináculos
 11
 Eleig River Crossing
-Eleig River Crossing
+Travessia Do Rio Eleig
 12
 Chamber of Regieleki
-Chamber of Regieleki
+Câmara De Regieleki
 13
 Frost Station 1032
-Frost Station 1032
+Estação Fria 1032
 14
 LuxTech Buildings
-LuxTech Buildings
+Construções LuxTech
 15
 Tectonic Development Basement
-Tectonic Development Basement
+Porão De Desenvolvimento Do Tectonic
 16
 LuxTech Center
-LuxTech Center
+Centro Pokémon De LuxTech
 17
 Mine Head's House
-Mine Head's House
+Casa Do Chefe Da Mina
 18
 Mine Head's House F2
-Mine Head's House F2
+Casa Do Chefe Da Mina A2
 19
 Reading Ribombee Café
-Reading Ribombee Café
+Cafeteria Do Ribombee Leitor
 20
 Alloyed Thicket
-Alloyed Thicket
+Bosque De Aço
 21
 LuxTech Gym
-LuxTech Gym
+Ginásio De LuxTech
 22
 False-Front House
-False-Front House
+Casa Da Fachada Falsa
 23
 Testing Map
-Testing Map
+Mapa De Teste
 24
 Shaymin's Chamber
-Shaymin's Chamber
+Câmara Do Shaymin
 25
 Grouz
-Grouz
+Grauze
 26
 Bluepoint Grotto
-Bluepoint Grotto
+Gruta De Bluepoint
 27
 The Catacombs B4
-The Catacombs B4
+As Catacumbas S4
 28
 Professor's House
-Professor's House
+Casa Da Professora
 29
 Full Blast Records F2
-Full Blast Records F2
+Gravadora Full Blast A2
 30
 Windy Way
-Windy Way
+Caminho Ventoso
 31
 Path to Paradise
-Path to Paradise
+Caminho Ao Paraíso
 32
 Novo Apartments F1
-Novo Apartments F1
+Apartamentos De Nova A1
 33
 Full Blast Sewer Access
-Full Blast Sewer Access
+Acesso Ao Esgoto Full Blast
 34
 Battle Plaza
-Battle Plaza
+Praça De Batalha
 35
 Impromptu Lab
-Impromptu Lab
+Laboratório Improvisado
 36
 Grouz Mine
-Grouz Mine
+Mina De Grauze
 37
 Svait
 Svait
 38
 Bluepoint Beach
-Bluepoint Beach
+Praia Bluepoint
 39
 Casaba Center
-Casaba Center
+Centro Pokémon De Casaba
 40
 Gigalith's Guts
-Gigalith's Guts
+Entranhas De Gigalith
 41
 Casaba Gym
-Casaba Gym
+Ginásio De Casaba
 42
 Zeraora's Chamber
-Zeraora's Chamber
+Câmara Do Zeraora
 43
 Novo Apartments F2
-Novo Apartments F2
+Apartamentos De Nova A2
 44
 Lambert's House
-Lambert's House
+Casa Do Lambert
 45
 Secret Room
-Secret Room
+Sala Secreta
 46
 Tao Headspace
-Tao Headspace
+Cabeça De Tao
 47
 Grand Hotel
-Grand Hotel
+Grande Hotel
 48
 Name Rater's House
-Name Rater's House
+Casa Do Nomeador
 49
 Tourist's House
-Tourist's House
+Casa Do Turista
 50
 Casaba Buildings
-Casaba Buildings
+Construções De Casaba
 51
 Foreclosed Tunnel
-Foreclosed Tunnel
+Túnel Interditado
 52
 Snowbird's House
-Snowbird's House
+Casa Do Siocho-Branco
 53
 The Shelf
-The Shelf
+A Estante
 54
 Yezera's House
-Yezera's House
+Casa Da Yezera
 55
 Lingering Delta
-Lingering Delta
+Delta Perene
 56
 Novo Town
-Novo Town
+Cidade Nova
 57
 Novo Center
-Novo Center
+Centro Pokémon De Nova
 58
 Grouz Buildings
-Grouz Buildings
+Construções De Grauze
 59
 Feebas' Fin
-Feebas' Fin
+Nadadeira De Feebas
 60
 Shipping Lane
-Shipping Lane
+Rota Pesqueira
 61
 Sailor's House
-Sailor's House
+Casa Do Marinheiro
 62
 Novo Gym
-Novo Gym
+Ginásio De Nova
 63
 Novo Buildings
-Novo Buildings
+Construções de Nova
 64
 M. Munna Den
-M. Munna Den
+Covil M. Munna
 65
 Goomy Den 3
-Goomy Den 3
+Covil Goomy 3
 66
 Apartment Attic
-Apartment Attic
+Sótão Do Apartamento
 67
 Old Ice Cream Shop
-Old Ice Cream Shop
+Sorveteria Antiga
 68
 Room 104
-Room 104
+Quarto 104
 69
 Novo Apartments
-Novo Apartments
+Apartametos De Nova
 70
 Room 101
-Room 101
+Quarto 101
 71
 Room 103
-Room 103
+Quarto 103
 72
 Room 102
-Room 102
+Quarto 102
 73
 Room 204
-Room 204
+Quarto 204
 74
 Room 202
-Room 202
+Quarto 202
 75
 Ancient Makya
-Ancient Makya
+Makya Ancestral
 76
 Room 201
-Room 201
+Quarto 201
 77
 Room 203
-Room 203
+Quarto 203
 78
 LuxTech Main
-LuxTech Main
+Sede Da LuxTech
 79
 LuxTech Battle Labs
-LuxTech Battle Labs
+Laboratórios De Batalha Da LuxTech
 80
 Berry Farmer's House
-Berry Farmer's House
+Casa Do Fazendeiro De Frutas
 81
 East Tunnel
-East Tunnel
+Túnel Leste
 82
 Alloy Station 531
-Alloy Station 531
+Estação De Ligas 531
 83
 Operating Station 913
-Operating Station 913
+Estação De Operações 913
 84
 Meloetta's Chamber
-Meloetta's Chamber
+Câmara Da Meloetta
 85
 Worried Man's House
-Worried Man's House
+Casa Do Homem Preocupado
 86
 Zigzagoon Nest
-Zigzagoon Nest
+Ninho De Zigzagoons
 87
 LuxTech Rec Center
-LuxTech Rec Center
+Centro Recreativo Da LuxTech
 88
 LuxTech Sewer Access
-LuxTech Sewer Access
+Acesso Ao Esgoto Da LuxTech
 89
 Svait Lodge
-Svait Lodge
+Chalé De Svait
 90
 Employees' House
-Employees' House
+Casa Dos Empregados
 91
 Svait Lodge F2
-Svait Lodge F2
+Chalé De Svait A2
 92
 Svait Lodge Room 2
-Svait Lodge Room 2
+Quarto 2 Do Chalé De Svait
 93
 Rescue Operations Center
-Rescue Operations Center
+Centro De Operações De Regate
 94
 Svait Lodge Room 1
-Svait Lodge Room 1
+Quarto 1 Do Chalé De Svait
 95
 Snowbird's House F2
-Snowbird's House F2
+Casa Do Siocho-Branco A2
 96
 LuxTech Cold Storage
-LuxTech Cold Storage
+Frigorífico Da LuxTech
 97
 LuxTech Server Room
-LuxTech Server Room
+Sala Do Servidor Da LuxTech
 98
 LuxTech Cold Storage Basement
-LuxTech Cold Storage Basement
+Porão Do Frigorífico Da LuxTech
 99
 Velenz Buildings
-Velenz Buildings
+Construções De Velenz
 100
 Rearranged Building
-Rearranged Building
+Edifício Rearranjado
 101
 Dream Space
-Dream Space
+Espaço Sonial
 102
 Velenz Center
-Velenz Center
+Centro Pokémon De Velenze
 103
 Velenz Mart
-Velenz Mart
+Mercado De Velenze
 104
 Rafael's House
-Rafael's House
+Casa Do Rafael
 105
 Burnt-Out Sinkhole
-Burnt-Out Sinkhole
+Toca Incinerada
 106
 Yveltal's Chamber
-Yveltal's Chamber
+Câmara De Yveltal
 107
 Connor's Yard
-Connor's Yard
+Quintal Do Connor
 108
 Sunken House Yard
-Sunken House Yard
+Quintal Da Casa Soterrada
 109
 Candle-Lit House
-Candle-Lit House
+Casa Iluminada Por Velas
 110
 Velenz Underground West
-Velenz Underground West
+Subterrâneo Oeste De Velenze
 111
 Collapsed Passage
-Collapsed Passage
+Passagem Colapsada
 112
 Secret Storage
-Secret Storage
+Armazém Secreto
 113
 East Underground Entrance
-East Underground Entrance
+Entrada Subterrânea Leste
 114
 Velenz Underground East
-Velenz Underground East
+Subterrâneo Leste De Velenze
 115
 Snowy Sinkhole
-Snowy Sinkhole
+Toca Nevada
 116
 East Cave House
-East Cave House
+Casa Da Caverna Leste
 117
 Ice Cave
-Ice Cave
+Caverna De Gelo
 118
 Svait Buildings
-Svait Buildings
+Construções De Svait
 119
 Ranger Hangout
-Ranger Hangout
+Guarita Ranger
 120
 Hollowed Layer
-Hollowed Layer
+Camada Oca
 121
 Kilna Ascent
-Kilna Ascent
+Subida Do Mt. Kilna
 122
 LuxTech Sewers
-LuxTech Sewers
+Sistema De Esgoto Da LuxTech
 123
 Novo College
-Novo College
+Colégio De Nova
 124
 Clearwater Cave
-Clearwater Cave
+Caverna Das Claras Águas
 125
 Volcanic Cave
-Volcanic Cave
+Caverna Vulcânica
 126
 Carnation Stockpile
-Carnation Stockpile
+Estoque Dos Craveiros
 127
 Lecture Hall
-Lecture Hall
+Auditório
 128
 Monument Lobby
-Monument Lobby
+Hall De Entrada Do Monumento
 129
 Barren Crater
-Barren Crater
+Cratera Estéril
 130
 Canal Desert
-Canal Desert
+Canal Deserto
 131
 Monument Arena
-Monument Arena
+Arena Do Monumento
 132
 Waterlogged House
-Waterlogged House
+Casa Inundada
 133
 Fossil Hall
-Fossil Hall
+Salão De Fósseis
 134
 Prizca West Gym
-Prizca West Gym
+Ginásio Da Prizca Ocidental
 135
 Nebula Ruins
-Nebula Ruins
+Ruínas De Nébula
 136
 Casaba Villa
-Casaba Villa
+Vila Casaba
 137
 Svait Lodge Room 3
-Svait Lodge Room 3
+Quarto 3 Do Chalé De Svait
 138
 Scenic Trail
-Scenic Trail
+Trilha Cênica
 139
 Starters Store
-Starters Store
+Loja De Iniciais
 140
 Starters Store - Grass
-Starters Store - Grass
+Loja De Iniciais - Grama
 141
 Starters Store - Fire
-Starters Store - Fire
+Loja De Iniciais - Fogo
 142
 Starters Store - Water
-Starters Store - Water
+Loja De Iniciais - Água
 143
 Pillar of Creation
-Pillar of Creation
+Pilar Da Criação
 144
 Artist's House
-Artist's House
+Casa Do Arstista
 145
 Fancy House
-Fancy House
+Casa Chique
 146
 Fancy House F2
-Fancy House F2
+Casa Chique A2
 147
 PokEstate
-PokEstate
+PokéPropriedade
 148
 PokEstate 1 - Forest
-PokEstate 1 - Forest
+PokéPropriedade 1 - Floresta
 149
 PokEstate Base
-PokEstate Base
+PokéPropriedade Base
 150
 PokEstate 2 - City
-PokEstate 2 - City
+PokéPropriedade 2 - Cidade
 151
 PokEstate 3 - Desert
-PokEstate 3 - Desert
+PokéPropriedade 3 - Deserto
 152
 PokEstate 4 - Scrubland
-PokEstate 4 - Scrubland
+PokéPropriedade 4 - Savana
 153
 PokEstate 5 - Crag
-PokEstate 5 - Crag
+PokéPropriedade 5 - Penhasco
 154
 PokEstate 6 - Volcano
-PokEstate 6 - Volcano
+PokéPropriedade 6 - Vulcão
 155
 Prizca West
-Prizca West
+Prizca Ocidental
 156
 Prizca West Buildings
-Prizca West Buildings
+Construções Da Prizca Ocidental
 157
 Traffic Control
-Traffic Control
+Controle De Tráfego
 158
 Prizca West Center
-Prizca West Center
+Centro Pokémon Da Prizca Ocidental
 159
 Travel Agency
-Travel Agency
+Agência De Turismo
 160
 PokEstate 7 - Snowy
-PokEstate 7 - Snowy
+PokéPropriedade 7 - Nevada
 161
 PokEstate 8 - Cave
-PokEstate 8 - Cave
+PokéPropriedade 8 - Caverna
 162
 PokEstate 9 - Beach
-PokEstate 9 - Beach
+PokéPropriedade 9 - Praia
 163
 PokEstate 10 - Seafloor
-PokEstate 10 - Seafloor
+PokéPropriedade 10 - Fundo Do Mar
 164
 PokEstate 11 - River
-PokEstate 11 - River
+PokéPropriedade 11 - Rio
 165
 Aquatopia
 Aquatopia
 166
 Aegis Insurance
-Aegis Insurance
+Seguradora Aegis
 167
 Aegislash Insurance F2
-Aegislash Insurance F2
+Seguradora Aegis A2
 168
 Aegislash Insurance F3
-Aegislash Insurance F3
+Seguradora Aegis A3
 169
 PokEstate 14 - Simple
-PokEstate 14 - Simple
+PokéPropriedade 14 - Simples
 170
 PokEstate 13 - Machine
-PokEstate 13 - Machine
+PokéPropriedade 13 - Máquina
 171
 Dingy Office
-Dingy Office
+Oficina Desbotada
 172
 PokEstate 12 - Sky
-PokEstate 12 - Sky
+PokéPropriedade 12 - Céu
 173
 Full Blast Records
-Full Blast Records
+Gravadora Full Blast
 174
 Worn Shed
-Worn Shed
+Cabana Velha
 175
 Worn Shed Basement
-Worn Shed Basement
+Porão Da Cabana Velha
 176
 Heroes' Chamber
-Heroes' Chamber
+Câmara Dos Heróis
 177
 Evolution Market
-Evolution Market
+Mercado De Evolução
 178
 Tectonic Development
-Tectonic Development
+Equipe Tectonic
 179
 Tectonic Development F2
-Tectonic Development F2
+Equipe Tectonic A2
 180
 Blustery Bosk
-Blustery Bosk
+Bosque Ventoso
 181
 Casaba Island
-Casaba Island
+Ilha Casaba
 182
 Spirit Atoll
-Spirit Atoll
+Atol Espiritual
 183
 Circuit Cave
-Circuit Cave
+Caverna De Circuitos
 184
 Helena's House
-Helena's House
+Casa Da Helena
 185
 Eleig Stretch
-Eleig Stretch
+Trecho Do Rio Eleig
 186
 Frostflow Farms
-Frostflow Farms
+Fazendas Corrente-Fria
 187
 Prizca East
-Prizca East
+Prizca Oriental
 188
 Prizca Castle
-Prizca Castle
+Castelo De Prizca
 189
 Catacombs Antechamber
-Catacombs Antechamber
+Antecâmara Das Catacumbas
 190
 Prizca East Buildings
-Prizca East Buildings
+Construções Da Prizca Oriental
 191
 Prizca East Center
-Prizca East Center
+Centro Pokémon Da Prizca Oriental
 192
 Field of Spires
-Field of Spires
+Campo Dos Pináculos
 193
 Volcanic Shore
-Volcanic Shore
+Margem Vulcânica
 194
 Makyan Capitol Building
-Makyan Capitol Building
+Capitólio Makiense
 195
 Prizca East Gym
-Prizca East Gym
+Ginásio Da Prizca Oriental
 196
 Boiling Cave
-Boiling Cave
+Caverna Fervente
 197
 Noel's House
-Noel's House
+Casa Do Noel
 198
 Hidden Room
-Hidden Room
+Quarto Secreto
 199
 Xerneas's Chamber
-Xerneas's Chamber
+Câmara De Xerneas
 200
 Emma's Empolorium
-Emma's Empolorium
+Empório Da Emma
 201
 Nature's Gallery
-Nature's Gallery
+Galeria Natural
 202
 Mountaineer's House
-Mountaineer's House
+Casa Do Alpinista
 203
 Skeevy Eevee Pub
-Skeevy Eevee Pub
+Pub Do Eevee Detetive
 204
 One-Stop Tech Shop
-One-Stop Tech Shop
+Tem-De-Tudo Loja Tech
 205
 Cat Lovers House
-Cat Lovers House
+Casa Dos Amantes De Gatos
 206
 Ironclad Dojo
-Ironclad Dojo
+Dojo Punho Blindado
 207
 The Tunes
-The Tunes
+Café Sonzeira
 208
 Ironclad Dojo Mid-Fight
-Ironclad Dojo Mid-Fight
+Dojo Punho Blindado Durante Luta
 209
 Jesters' House
-Jesters' House
+Casa Do Bobo
 210
 Crater Hermit's House
-Crater Hermit's House
+Casa Do Heremita Da Cratera
 211
 Split Peaks
-Split Peaks
+Picos Partidos
 212
 Ruins Digsite
-Ruins Digsite
+Sítio Arqueológico Das Ruínas
 213
 Velenz Menagerie
-Velenz Menagerie
+Coleção De Velenze
 214
 Team Chasm HQ
-Team Chasm HQ
+QG Da Equipe Chasm
 215
 Tempest Realm
-Tempest Realm
+Reino Tempestuoso
 216
 Highland Lake
-Highland Lake
+Lago Das Terras Altas
 217
 Sweetrock Harbor
-Sweetrock Harbor
+Porto Sweetrock
 218
 Abyssal Cavern
-Abyssal Cavern
+Caverna Abissal
 219
 Stone Nest
-Stone Nest
+Ninho Rochoso
 220
 Ancient Sewers
-Ancient Sewers
+Esgoto Antigo
 221
 Sewers
-Sewers
+Esgotos
 222
 Sewer Junction
-Sewer Junction
+Junção De Esgotos
 223
 Battle Plaza Underground
-Battle Plaza Underground
+Subterrâneo Da Praça De Batalha
 224
 Farmer's House
-Farmer's House
+Casa Do Fazendeiro
 225
 Farmer's House F2
-Farmer's House F2
+Casa Do Fazendeiro A2
 226
 Beekeeper's House
-Beekeeper's House
+Casa Do Apicultor
 227
 Yezera's House F2
-Yezera's House F2
+Casa Da Yezera A2
 228
 Hidden Laboratory
-Hidden Laboratory
+Laboratório Secreto
 229
 Circuit Station 232
-Circuit Station 232
+Estação De Circuito 232
 230
 Galarian Fan's House
-Galarian Fan's House
+Casa Do Fã De Galar
 231
 Investment House
-Investment House
+Casa À Venda
 232
 Biologist's House
-Biologist's House
+Casa Do Biólogo
 233
 Ranger Warehouse
-Ranger Warehouse
+Armazém Ranger
 234
 Ranger Recruitment
-Ranger Recruitment
+Recrutamento Ranger
 235
 Renovated House
-Renovated House
+Casa Reformada
 236
 Your House
-Your House
+Sua Casa
 237
 Ranger Bunks
-Ranger Bunks
+Dormitório Ranger
 238
 East End Exclusives
-East End Exclusives
+Exclusivos Do Oriente
 239
 Ocean Fishing Contest
-Ocean Fishing Contest
+Concurso De Pesca Oceânica
 240
 County Park Burrow
-County Park Burrow
+Toca Do Parque Municipal
 241
 Grouz Mine Sinkhole
-Grouz Mine Sinkhole
+Toca Da Mina De Grauze
 242
 Goomy Den
-Goomy Den
+Covil Goomy
 243
 Chasm Base Mess Hall
-Chasm Base Mess Hall
+Refeitório Da Base Chasm
 244
 Gible Den
-Gible Den
+Covil Gible
 245
 Deino Den
-Deino Den
+Covil Deino
 246
 Jangmo-o Den
-Jangmo-o Den
+Covil Jangmo-o
 247
 Dreepy Den
-Dreepy Den
+Covil Dreepy
 248
 Bagon Den
-Bagon Den
+Covil Bagon
 249
 Dratini Den
-Dratini Den
+Covil Dratini
 250
 Chasm Base Lab
-Chasm Base Lab
+Laboratório Da Base Chasm
 251
 Samorn's House
-Samorn's House
+Casa Da Samorn
 252
 Jangmo-o Den 2
-Jangmo-o Den 2
+Covil Jangmo-o 2
 253
 Bagon Den 2
-Bagon Den 2
+Covil Bagon 2
 254
 Old Restaurant
-Old Restaurant
+Restaurante Antigo
 255
 Old Restaurant F2
-Old Restaurant F2
+Restaurante Antigo A2
 256
 Waterfall Secret
-Waterfall Secret
+Esconderijo Na Cachoeira
 257
 Cave of Hatching
-Cave of Hatching
+Caverna Da Eclosão
 258
 Whitebloom Town
-Whitebloom Town
+Vilarejo Relvabranca
 259
 Casey's House
-Casey's House
+Casa Do Casey
 260
 Underpeak Tunnels B1
-Underpeak Tunnels B1
+Túneis Subpico S1
 261
 Dratini Den 2
-Dratini Den 2
+Covil Dratini 2
 262
 Sweetrock Harbor Buildings
-Sweetrock Harbor Buildings
+Construções Do Porto Sweetrock
 263
 Sweetrock Harbor Center
-Sweetrock Harbor Center
+Centro Pokémon Do Porto Sweetrock
 264
 Thunder Point
-Thunder Point
+Ponto Trovejoso
 265
 Lightkeeper's House
-Lightkeeper's House
+Casa Do Faroleiro
 266
 Berry Greenhouse
-Berry Greenhouse
+Estufa De Frutas
 267
 Pokeball Crafter's House
-Pokeball Crafter's House
+Casa Do Artesão De Pokébolas
 268
 Couple's House
-Couple's House
+Casa Do Casal
 269
 Lighthouse Beacon
-Lighthouse Beacon
+Topo Do Farol
 270
 Casey's Basement
-Casey's Basement
+Porão Do Casey
 271
 Lightkeeper's House F2
-Lightkeeper's House F2
+Casa Do Faroleiro A2
 272
 Underpeak Tunnels B2
-Underpeak Tunnels B2
+Túneis Subpico S2
 273
 Impact Station 722
-Impact Station 722
+Estação De Impacto 722
 274
 Sweetrock Harbor Gym
-Sweetrock Harbor Gym
+Ginásio De Sweetrock
 275
 Sweetrock Harbor Gym Tour
-Sweetrock Harbor Gym Tour
+Tour Do Ginásio De Sweetrock
 276
 Sweetrock Harbor Gym Tour Part 1
-Sweetrock Harbor Gym Tour Part 1
+Tour Do Ginásio De Sweetrock Parte 1
 277
 Sweetrock Harbor Gym Tour Part 2
-Sweetrock Harbor Gym Tour Part 2
+Tour Do Ginásio De Sweetrock Parte 2
 278
 Sweetrock Harbor Gym Hallways
-Sweetrock Harbor Gym Hallways
+Corredores Do Ginásio De Sweetrock
 279
 Victoire's Office
-Victoire's Office
+Escritório Da Victoire
 280
 Sweetrock Harbor Gym R&D
-Sweetrock Harbor Gym R&D
+P&D Do Ginásio De Sweetrock
 281
 Sweetrock Harbor Gym Assembly Line
-Sweetrock Harbor Gym Assembly Line
+Linha De Montagem Do Ginásio de Sweetrock
 282
 The Catacombs B1
-The Catacombs B1
+As Catacumbas S1
 283
 Pokéball Depot
-Pokéball Depot
+Depósito De Pokébolas
 284
 Investigator's House
-Investigator's House
+Casa Do Investigador
 285
 Sweetrock Elementary
-Sweetrock Elementary
+Escola Primária De Sweetrock
 286
 Pokeball Crafter's House F2
-Pokeball Crafter's House F2
+Casa Do Artesão De Pokébolas A2
 287
 Couples House F2
-Couples House F2
+Casa Do Casal A2
 288
 Underground River
-Underground River
+Rio Subterrâneo
 289
 Sweetrock Candy Outlet
-Sweetrock Candy Outlet
+Doceria De Sweetrock
 290
 Sweetrock Lighthouse F1
-Sweetrock Lighthouse F1
+Farol De Sweetrock A1
 291
 Deoxys's Chamber
-Deoxys's Chamber
+Câmara De Deoxys
 292
 Crescent Island Secret
-Crescent Island Secret
+Segredo Da Ilha Crescente
 293
 Chasm Vacation Home
-Chasm Vacation Home
+Casa De Férias Chasm
 294
 Nascent Garden
-Nascent Garden
+Jardim Nascente
 295
 Chasm Vacation Home
-Chasm Vacation Home
+Casa De Férias Chasm
 296
 South
-South
+Sul
 297
 North
-North
+Norte
 298
 Feebas' Fin Buildings
-Feebas' Fin Buildings
+Construções Da Nadadeira De Feebas
 299
 Fin Center
-Fin Center
+Centro Pokémon Da Nadadeira De Feebas 
 300
 Team Chasm HQ Gym
-Team Chasm HQ Gym
+Ginásio Do QG Da Equipe Chasm
 301
 County Park
-County Park
+Parque Municipal
 302
 Sewage Maintenance
-Sewage Maintenance
+Manutenção Do Esgoto
 303
 Zygarde's Chamber
-Zygarde's Chamber
+Câmara De Zygarde
 304
 Ruined Tower F1
-Ruined Tower F1
+Torre Em Ruínas A1
 305
 Dock Warehouse
-Dock Warehouse
+Armazém Das Docas
 306
 Alessa's House
-Alessa's House
+Casa Da Alessa
 307
 Alessa's House F2
-Alessa's House F2
+Casa Da Alessa A2
 308
 Gible Den 2
-Gible Den 2
+Covil Gible 2
 309
 Cave of Hatching F2
-Cave of Hatching F2
+Caverna Da Eclosão A2
 310
 Old Lab
-Old Lab
+Laboratório Velho
 311
 Togepi Breeder's House
-Togepi Breeder's House
+Casa Do Criador De Togepis
 312
 Togepi Breeder's House F2
-Togepi Breeder's House F2
+Casa Do Criador De Togepis A2
 313
 Wren's House
-Wren's House
+Casa De Wren
 314
 Wren's House F2
-Wren's House F2
+Casa De Wren A2
 315
 Uplifted Abysm
-Uplifted Abysm
+Abismo Ascendente
 316
 Sandstone Estuary
-Sandstone Estuary
+Estuário De Arenito
 317
 Tournament Arena
-Tournament Arena
+Arena Do Torneio
 318
 Tournament Grounds
-Tournament Grounds
+Local Do Torneio
 319
 Grouz Station Backroom
-Grouz Station Backroom
+Bastidores Da Estação De Grauze
 320
 Svait Station Backroom
-Svait Station Backroom
+Bastidores Da Estação De Svait
 321
 Crater Station Backroom
-Crater Station Backroom
+Bastidores Da Estação Da Cratera
 322
 Canal Station Backroom
-Canal Station Backroom
+Bastidores Da Estação Do Canal Deserto
 323
 HQ Station Backroom
-HQ Station Backroom
+Bastidores Da Estação Do QG Chasm
 324
 Waiting Room
-Waiting Room
+Sala De Espera
 325
 Ticketing Gate
-Ticketing Gate
+Guichê De Bilheteria
 326
 Carnation Graves
-Carnation Graves
+Cemitério Dos Craveiros
 327
 Chamber of Regidrago
-Chamber of Regidrago
+Câmara De Regidrago
 328
 Suspicious Shed
-Suspicious Shed
+Casebre Suspeito
 329
 Tournament Lobby
-Tournament Lobby
+Hall De Entrada Do Torneio
 330
 King's Chamber
-King's Chamber
+Câmara Do Rei
 331
 Frostflow Farms Center
-Frostflow Farms Center
+Centro Pokémon Das Fazendas Corrente-Fria
 332
 Frostflow Farms Buildings
-Frostflow Farms Buildings
+Construções Das Fazendas Corrente-Fria
 333
 Floral Maze
-Floral Maze
+Labirinto Floral
 334
 The Present
-The Present
+O Presente
 335
 Svait Sauna Underground
-Svait Sauna Underground
+Sauna Subterrânea De Svait
 336
 Chamber of Regice
-Chamber of Regice
+Câmara De Regice
 337
 Deep Station Backroom
-Deep Station Backroom
+Bastidores Da Estação Do Abismo
 338
 Chasm Station 000
-Chasm Station 000
+Estação Chasm 000
 339
 Underpeak Escape B1
-Underpeak Escape B1
+Escape Subpico S1
 340
 Illuminant Helix
-Illuminant Helix
+Hélice Resplandecente
 341
 Underpeak Escape B2
-Underpeak Escape B2
+Escape Subpico S2
 342
 Carnation Tower F1
-Carnation Tower F1
+Torre Dos Craveiros A1
 343
 Basement Access
-Basement Access
+Acesso Ao Porão
 344
 Eleig Stretch Buildings
-Eleig Stretch Buildings
+Construções Do Trecho Do Rio Eleig
 345
 Eleig Boating and Fishing
-Eleig Boating and Fishing
+Loja De Pesca E Navegação De Eleig
 346
 Executive's House
-Executive's House
+Casa Executiva
 347
 Worker's Bunk
-Worker's Bunk
+Dormitório Dos Funcionários
 348
 UB Containment
-UB Containment
+Contenção De UBs
 349
 UB Portal
-UB Portal
+Portal UB
 350
 Forgotten Grave Site
-Forgotten Grave Site
+Local Do Ermo Túmulo
 351
 Lainie's Mansion
-Lainie's Mansion
+Mansão Da Lainie
 352
 Lainie's Mansion F2
-Lainie's Mansion F2
+Mansão Da Lainie A2
 353
 Crumbling Canyon B4
-Crumbling Canyon B4
+Cânion Em Ruínas S4
 354
 Chamber of Regirock
-Chamber of Regirock
+Câmara De Regirock
 355
 Chamber of Registeel
-Chamber of Registeel
+Câmara Registeel
 356
 Isle of Dragons
-Isle of Dragons
+Ilha Dos Dragões
 357
 Battle Monument
-Battle Monument
+Monumento De Batalha
 358
 Dr. Hekata's House
-Dr. Hekata's House
+Casa Da Dra. Hekata
 359
 Ruined Tower F2
-Ruined Tower F2
+Torre Em Ruínas A2
 360
 Velenz Caves
-Velenz Caves
+Cavernas De Velenze
 361
 The Catacombs B2
-The Catacombs B2
+As Catacumbas S2
 362
 The Catacombs B3
-The Catacombs B3
+As Catacumbas S3
 363
 Carnation Tower F2
-Carnation Tower F2
+Torre Dos Craveiros A2
 364
 Carnation Tower F3
-Carnation Tower F3
+Torre Dos Craveiros A3
 365
 Ruined Tower F3
-Ruined Tower F3
+Torre Em Ruínas A3
 366
 M. Munna Den 2
-M. Munna Den 2
+Covil M. Munna 2
 367
 Prizca Great Hall
-Prizca Great Hall
+Grande Salão De Prizca
 368
 Crumbling Canyon B1
-Crumbling Canyon B1
+Cânion Em Ruínas S1
 369
 Crumbling Canyon B2 - B
-Crumbling Canyon B2 - B
+Cânion Em Ruínas S2 - B
 370
 Crumbling Canyon B3
-Crumbling Canyon B3
+Cânion Em Ruínas S3
 371
 Crumbling Canyon B2 - A
-Crumbling Canyon B2 - A
+Cânion Em Ruínas S2 - A
 372
 Latent Grove
-Latent Grove
+Bosque Oculto
 373
 Crumbling Canyon B2 - C
-Crumbling Canyon B2 - C
+Cânion Em Ruínas S2 - C
 374
 Stone Nest
-Stone Nest
+Ninho Rochoso
 375
 Cavern of Knowledge
-Cavern of Knowledge
+Caverna Do Conhecimento
 376
 Islands
-Islands
+Ilhas
 377
 Guardian Island
-Guardian Island
+Ilha Do Guardião
 378
 Endless Ice
-Endless Ice
+Gelo Incessante
 379
 Glacial Labyrinth
-Glacial Labyrinth
+Labirinto Glacial
 380
 Mirror Crevasse
-Mirror Crevasse
+Fenda Espelhada
 381
 Howling Frost
-Howling Frost
+Gear Uivante
 382
 Integration Chamber
-Integration Chamber
+Câmara De Integração
 383
 Mirror Tundra
-Mirror Tundra
+Tundra Espelhada
 384
 Casaba-Bluepoint Gatehouse
-Casaba-Bluepoint Gatehouse
+Guarita Casaba-Bluepoint
 385
 Abandoned Lodge
-Abandoned Lodge
+Chalé Abandonado
 386
 Cave of Conflict
-Cave of Conflict
+Caverna Do Conflito
 387
 Cave of Life
-Cave of Life
+Caverna Da Vida
 388
 Cave of Abundance
-Cave of Abundance
+Caverna Da Abundância
 389
 Cave of Hope
-Cave of Hope
+Caverna Da Esperança
 390
 Novo-Turf Gatehouse
-Novo-Turf Gatehouse
+Guarita Nova-Campo
 391
 Shelf-Novo Gatehouse
-Shelf-Novo Gatehouse
+Guarita Estante-Nova
 392
 Turf-Grouz Gatehouse
-Turf-Grouz Gatehouse
+Guarita Campo-Grauze
 393
 LuxTech-Delta Gatehouse
-LuxTech-Delta Gatehouse
+Guarita LuxTech-Delta
 394
 Park-LuxTech Gatehouse
-Park-LuxTech Gatehouse
+Guarita LuxTech-Parque
 395
 Svait-Park Gatehouse
-Svait-Park Gatehouse
+Guarita Svait-Parque
 396
 Crater-Shelf Gatehouse
-Crater-Shelf Gatehouse
+Guarita Cratera-Estante
 397
 Menagerie-Velenz Gatehouse
-Menagerie-Velenz Gatehouse
+Guarita Coleção-Velenze
 398
 Velenz-Repora Gatehouse
-Velenz-Repora Gatehouse
+Guarita Velenze-Repora
 399
 West-Plaza Gatehouse
-West-Plaza Gatehouse
+Guarita Ocidental-Praça
 400
 Plaza-East Gatehouse
-Plaza-East Gatehouse
+Guarita Praça-Oriental
 401
 East-Peaks Gatehouse
-East-Peaks Gatehouse
+Guarita Ocidental-Picos
 402
 Peaks-Harbor Gatehouse
-Peaks-Harbor Gatehouse
+Guarita Picos-Porto
 403
 Frozen Lake
-Frozen Lake
+Lago Congelado
 404
 Mirror Maze
-Mirror Maze
+Labirinto Espelhado
 405
 Hoopa's Jar
-Hoopa's Jar
+Jarro De Hoopa
 406
 Oasis System
-Oasis System
+Sistema De Oasis
 407
 Wave Lengths
-Wave Lengths
+Comprimentos De Onda
 408
 Tournament Grounds EQ
-Tournament Grounds EQ
+Local Do Torneio Terremoto
 409
 Read Only
 Read Only
 410
 Terminal Confusion
-Terminal Confusion
+Confusão Terminal
 411
 Tri Island
-Tri Island
+Ilha Das Três Asas
 412
 Metal Den
-Metal Den
+Covil De Metal
 413
 Eventide Isle
-Eventide Isle
+Ilha Do Entardecer
 414
 Eventide Peak
-Eventide Peak
+Pico Do Entardecer
 415
 Frigid Overlook
-Frigid Overlook
+Vista Frígida
 416
 Vernal Clearing
-Vernal Clearing
+Clareira Primaveril
 417
 Crackling Cave
-Crackling Cave
+Caverna Crepitante 
 418
 M. Munna Den 3
-M. Munna Den 3
+Covil M. Munna 3
 419
 Cavern of Emotion
-Cavern of Emotion
+Caverna Da Emoção
 420
 Cavern of Willpower
-Cavern of Willpower
+Caverna Da Determinação
 421
 Sage's Abode
-Sage's Abode
+Morada Do Sábio
 422
 Leo's Elite Items
-Leo's Elite Items
+Itens De Elite Do Leo
 423
 Herbert's Herbs
-Herbert's Herbs
+Ervas Do Herbert
 424
 Tectonic Development F3
-Tectonic Development F3
+Equipe Tectonic A3
 425
 Shimmer Haven
-Shimmer Haven
+Refúgio Cintilante
 426
 Prizca Black Market
-Prizca Black Market
+Mercado Negro De Prizca
 427
 Capitol Library
-Capitol Library
+Biblioteca Do Capitólio
 428
 Steamy Valley
-Steamy Valley
+Vale Fumegante
 429
 Aegislash Insurance Basement
-Aegislash Insurance Basement
+Porão Da Seguradora Aegis
 430
 Amber Hills
-Amber Hills
+Colinas Âmbar
 431
 Ship Graveyard
-Ship Graveyard
+Cemitério De Navios
 432
 Mt. Kilna
 Mt. Kilna
 433
 SS Circhester Steerage
-SS Circhester Steerage
+Terceira Classe Do SS Circhester
 434
 SS Circhester Middle Deck
-SS Circhester Middle Deck
+Convés Intermediário Do SS Circhester
 435
 SS Glimwood Steerage
-SS Glimwood Steerage
+Terceira Classe Do SS Glimwood
 436
 SS Glimwood Middle Deck
-SS Glimwood Middle Deck
+Convés Intermediário Do SS Glimwood
 437
 Bogdan Cement Lobby
-Bogdan Cement Lobby
+Hall De Entrada Da Bogdan Cimentos
 438
 Bogdan Cement Plant
-Bogdan Cement Plant
+Usina Da Bogdan Cimentos
 439
 Knowledge Elder's Home
-Knowledge Elder's Home
+Casa Do Ancião Do Conhecimento
 440
 Emotion Elder's Home
-Emotion Elder's Home
+Casa Do Ancião Da Emoção
 441
 Knowledge Elder's Home
-Knowledge Elder's Home
+Casa Do Ancião Do Conhecimento
 442
 Bence's House
-Bence's House
+Casa Do Bence
 443
 Team Chasm Archive
-Team Chasm Archive
+Depósito De Arquivos Chasm
 444
 Crown Chamber
-Crown Chamber
+Câmara Da Coroa
 445
 Battle Monument Secret
-Battle Monument Secret
+Segredo Do Monumento De Batalha
 446
 Goomy Den 2
-Goomy Den 2
+Covil Goomy 2
 447
 Empty Island
-Empty Island
+Ilha Vazia
 448
 Dissipated Plane
-Dissipated Plane
+Plano Dissipado
 449
 Den of Potential
-Den of Potential
+Covil Do Potencial
 450
 Convection Beacon
-Convection Beacon
+Farol De Convecção
 451
 Tectonic Development F1-1
-Tectonic Development F1-1
+Equipe Tectonic A1-1
 452
 Frozen Vault
-Frozen Vault
+Câmara Congelada
 453
 Deep Dissipated Plane
-Deep Dissipated Plane
+Profundezas Do Plano Dissipado
 454
 Old Back Room
-Old Back Room
+Bastidor Antigo 
 455
 Karanfil Estates
-Karanfil Estates
+Distrito Karanfil
 456
 Center Station
-Center Station
+Estação Central
 [22]
 How are your Pokémon doing?\mMy \TP's really energetic. It's a handful!\mOh yeah, I managed to beat a tough \TE.\mI need to make my party stronger.
 How are your Pokémon doing?\mMy \TP's really energetic.  It's a handful!\mOh yeah, I managed to beat a tough \TE.\mI need to make my party stronger.
@@ -52837,13 +52837,13 @@ Find her after your 6th badge.
 Find her after the tournament.
 Find her after the tournament.
 Ice Cave
-Ice Cave
+Caverna De Gelo
 Prizca West
-Prizca West
+Prizca Ocidental
 Grouz
-Grouz
+Grauze
 Carnation Graves
-Carnation Graves
+Cemitério Dos Craveiros
 A pair of identical fortune tellers, each claiming the other is a Ditto. For some reason, they have a vested interest in you. Find out the truth.
 A pair of identical fortune tellers, each claiming the other is a Ditto. For some reason, they have a vested interest in you. Find out the truth.
 Kayfabe
@@ -52855,7 +52855,7 @@ Find her in the sewers.
 Find her after your 7th badge.
 Find her after your 7th badge.
 Novo Town
-Novo Town
+Cidade Nova
 Luxtech Sewers
 Luxtech Sewers
 Prizca East
@@ -52863,7 +52863,7 @@ Prizca East
 Volcanic Shore
 Volcanic Shore
 Hollowed Layer
-Hollowed Layer
+Camada Oca
 A confident young woman who trains Pokémon for a price. Dueling her could be good practice – but she looks at you with unnerving familiarity. She knows more than she lets on.
 A confident young woman who trains Pokémon for a price. Dueling her could be good practice – but she looks at you with unnerving familiarity. She knows more than she lets on.
 Dear Iconoclast
@@ -52877,11 +52877,11 @@ Find him after your 7th badge.
 Find him after the tournament.
 Find him after the tournament.
 Velenz
-Velenz
+Velenze
 Team Chasm HQ
-Team Chasm HQ
+QG Da Equipe Chasm
 Kilna Ascent
-Kilna Ascent
+Subida Do Mt. Kilna
 A dashing young man trying his best to be charming. His appreciation for avatars borders on spiritual. Who knows what'll happen if you seek him out?
 A dashing young man trying his best to be charming. His appreciation for avatars borders on spiritual. Who knows what'll happen if you seek him out?
 When in Makya
@@ -52895,9 +52895,9 @@ Find him in the sewers.
 Find him after your 8th badge.
 Find him after your 8th badge.
 East Tunnel
-East Tunnel
+Túnel Leste
 Eleig Stretch
-Eleig Stretch
+Trecho Do Rio Eleig
 Sewer Junction
 Sewer Junction
 Novo College
@@ -52913,11 +52913,11 @@ Find him near the river.
 Find him up river.
 Find him up river.
 Eleig River Crossing
-Eleig River Crossing
+Travessia Do Rio Eleig
 Highland Lake
-Highland Lake
+Lago Das Terras Altas
 Tournament Grounds
-Tournament Grounds
+Local Do Torneio
 Abyssal Cavern
 Abyssal Cavern
 A modest young man with a Phione, a Pokémon of great import. He's a fellow gym challenger – maybe facing off against a living myth could sharpen your skills.
@@ -52947,9 +52947,9 @@ Find the Growlithe.
 Return to the kid.
 Return to the kid.
 Repora Forest
-Repora Forest
+Floresta Repora
 Novo Apartments
-Novo Apartments
+Apartametos De Nova
 The kid in Novo Apartments is asking you to find his Growlithe, which is lost in Repora Forest.
 The kid in Novo Apartments is asking you to find his Growlithe, which is lost in Repora Forest.
 Pokémon Lure
@@ -52999,7 +52999,7 @@ Find their package.
 Return the package.
 Return the package.
 County Park
-County Park
+Parque Municipal
 Prizca West Travel Agency
 Prizca West Travel Agency
 These people report they lost a package to a Gyarados attack, and want you to get it. Must be important, for their job...?
@@ -53023,7 +53023,7 @@ Scientist
 Defeat the avatar.
 Defeat the avatar.
 Novo Town, Scientist's House
-Novo Town, Scientist's House
+Cidade Nova, Casa Do Cientista
 The Alolan Geodudes have gone on a frenzy! This Avatar would wreak havoc unchecked.
 The Alolan Geodudes have gone on a frenzy! This Avatar would wreak havoc unchecked.
 Foreboding
@@ -53071,11 +53071,11 @@ Makya
 A flower keeper at the south entrance of Novo Town says she'll give you a reward to celebrate completing your 4th gym. You won't forget her, right?
 A flower keeper at the south entrance of Novo Town says she'll give you a reward to celebrate completing your 4th gym. You won't forget her, right?
 Luxtech Battle Labs
-Luxtech Battle Labs
+Laboratórios De Batalha LuxTech
 Defeat the gauntlet.
 Defeat the gauntlet.
 Luxtech Main
-Luxtech Main
+Sede Da LuxTech
 You've been offered a gauntlet of scientists to try to get past. Can your team hold up against their clever tactics?
 You've been offered a gauntlet of scientists to try to get past. Can your team hold up against their clever tactics?
 The Bucket List
@@ -53121,7 +53121,7 @@ Eko has waited for years to find someone capable of destroying a particularly po
 The Thanks I Get
 The Thanks I Get
 Luxtech Gym
-Luxtech Gym
+Ginásio De LuxTech
 Helena told you that Makya's gym challenge was partially created to find exceptional trainers. Having found one, she's eager to put you to work. Take her key, find this vicious avatar, and show it a former Chasm boss's gratitude.
 Helena told you that Makya's gym challenge was partially created to find exceptional trainers. Having found one, she's eager to put you to work. Take her key, find this vicious avatar, and show it a former Chasm boss's gratitude.
 Quietus
@@ -53147,7 +53147,7 @@ Noel explains that Team Chasm created something by tampering with the Regis. Whe
 L'Enfant du Vide
 L'Enfant du Vide
 Sweetrock Harbor
-Sweetrock Harbor
+Porto Sweetrock
 Sweetrock Harbor Gym
 Sweetrock Harbor Gym
 Victoire has been waiting to find someone capable of eliminating a remnant of Team Chasm's experimentation with Regigigas's power. Provide this abomination a warm welcome.
@@ -53175,7 +53175,7 @@ Bounty: Beartic Avatar
 Defeat the Beartic Avatar.
 Defeat the Beartic Avatar.
 Gigalith's Guts
-Gigalith's Guts
+Entranhas De Gigalith
 Svait-Park Gatehouse
 Svait-Park Gatehouse
 A ranger is asking you to deal with a Beartic Avatar lying in the Gigalith's Guts. Says he'll make it worth your while.
@@ -53193,7 +53193,7 @@ Bounty: Monkey Trio Avatars
 Defeat the trio of Monkey Avatars.
 Defeat the trio of Monkey Avatars.
 The Shelf
-The Shelf
+A Estante
 Shelf-Novo Gatehouse
 Shelf-Novo Gatehouse
 A ranger is asking you to deal with a trio of Avatars, a Pansage, Pansear, and Panpour, lying in The Shelf. Says she'll make it worth your while.
@@ -53229,7 +53229,7 @@ A strange dungeon lies before you. A frozen wasteland, locked in time and place,
 The Age of Steel
 The Age of Steel
 Alloyed Thicket
-Alloyed Thicket
+Bosque De Aço
 A strange dungeon lies before you. A forest made of metals and alloys. Always malleable, always changing, the line between natural and man-made thin...
 A strange dungeon lies before you. A forest made of metals and alloys. Always malleable, always changing, the line between natural and man-made thin...
 The Age of Electricity
@@ -53241,7 +53241,7 @@ A strange dungeon lies before you. Circuits run throughout the entire cave, in a
 The Age of Myths
 The Age of Myths
 The Catacombs
-The Catacombs
+As Catacumbas
 A strange dungeon lies before you. Winding age-old catacombs, full of myths and legends. Stories will be the basis of humanity for as long as it will exist.
 A strange dungeon lies before you. Winding age-old catacombs, full of myths and legends. Stories will be the basis of humanity for as long as it will exist.
 Turn Back the Clock
@@ -53321,7 +53321,7 @@ Svait
 Nora's on the trail of a mystery—its threads lead to Luxtech, and from there to parts unknown. If you help her on her hunt, what secrets will you two uncover?
 Nora's on the trail of a mystery—its threads lead to Luxtech, and from there to parts unknown. If you help her on her hunt, what secrets will you two uncover?
 Tri Island
-Tri Island
+Ilha Das Três Asas
 Explore the strange island.
 Explore the strange island.
 The TV talked about a newly discovered island off the coast. A lot of trainers will be heading there, try to be the best one.
@@ -53431,15 +53431,15 @@ Find and free the four legends.
 Defend the legends.
 Defend the legends.
 Sandstone Estuary
-Sandstone Estuary
+Estuário De Arenito
 Jovan's asked for your help—a gang called the Drillers is wreaking havoc in the depths of the cave. If you can find and free the imprisoned legendaries within, it should loosen their hold.
 Jovan's asked for your help—a gang called the Drillers is wreaking havoc in the depths of the cave. If you can find and free the imprisoned legendaries within, it should loosen their hold.
 A Troubled Scientist
 A Troubled Scientist
 Bluepoint Beach
-Bluepoint Beach
+Praia Bluepoint
 Luxtech Campus
-Luxtech Campus
+Campus Da LuxTech
 This scientist keeps crossing your way. He keeps giving you interesting stuff, may as well continue finding him.
 This scientist keeps crossing your way. He keeps giving you interesting stuff, may as well continue finding him.
 Cold Reality
@@ -53453,9 +53453,9 @@ Find the dragon stones.
 Find and rescue Vanya.
 Find and rescue Vanya.
 Split Peaks
-Split Peaks
+Picos Partidos
 Frostflow Farms
-Frostflow Farms
+Fazendas Corrente-Fria
 Frostflow Farms...?
 Frostflow Farms...?
 Shaken by their loss at the tournament, Vanya needs time to think and a good battling partner: you.
@@ -53471,7 +53471,7 @@ Former Champion Ansel
 Defeat another former champ.
 Defeat another former champ.
 Battle Plaza
-Battle Plaza
+Praça De Batalha
 This former champion prefers spectating to fighting nowadays. If you can prove you're on his level, though, he'll put his team back in the ring.
 This former champion prefers spectating to fighting nowadays. If you can prove you're on his level, though, he'll put his team back in the ring.
 Former Champion Praveen
@@ -53523,7 +53523,7 @@ The Kilna Thieves
 Investigate the bandits.
 Investigate the bandits.
 Kilna Turf
-Kilna Turf
+Campo De Kilna
 A ranger told you about how Kilna is strewn in items from thieves. Maybe they have a valuable stash you could take from.
 A ranger told you about how Kilna is strewn in items from thieves. Maybe they have a valuable stash you could take from.
 Ice and Leaf Stone
@@ -53553,7 +53553,7 @@ A powerful avatar of Suicune is being contained in this cave. Perhaps it is guar
 Water and Dawn Stone
 Water and Dawn Stone
 Six Spire Cave
-Six Spire Cave
+Caverna Dos Seis Pináculos
 A powerful avatar of Raikou is being contained in this cave. Perhaps it is guarding something valuable...
 A powerful avatar of Raikou is being contained in this cave. Perhaps it is guarding something valuable...
 Thunder and Dusk Stone
@@ -59083,13 +59083,13 @@ Selfie_{1}_{2}
 Prizca
 Prizca
 Casaba Villa
-Casaba Villa
+Vila Casaba
 LuxTech Campus
-LuxTech Campus
+Campus Da LuxTech
 Canal Desert
 Canal Desert
 Feebas' Fin
-Feebas' Fin
+Nadadeira De Feebas
 Tomorrow's weather forecast for {1}!
 Tomorrow's weather forecast for {1}!
 The area will experience normal conditions all day.
@@ -63783,7 +63783,7 @@ Known Incidents
 Undefined Incidents
 Undefined Incidents
 Bluepoint Grotto
-Bluepoint Grotto
+Gruta De Bluepoint
 Sewers
 Sewers
 Go Back
