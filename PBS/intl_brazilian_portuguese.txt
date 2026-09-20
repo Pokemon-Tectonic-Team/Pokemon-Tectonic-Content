@@ -47750,7 +47750,7 @@ Kilna Ascent
 Subida Do Mt. Kilna
 122
 LuxTech Sewers
-Sistema De Esgoto Da LuxTech
+Esgoto Da LuxTech
 123
 Novo College
 Instituto De Nova
@@ -52017,9 +52017,9 @@ No proper map position is known for totem ID {1}. Please inform a programmer abo
 Set the name for this point.
 Set the name for this point.
 ACTION/Z to hide Totems
-ACTION/Z to hide Totems
+AÇÃO/Z para esconder Totens
 ACTION/Z to view Totems
-ACTION/Z to view Totems
+AÇÃO/Z para mostrar Totens
 Save changes?
 Save changes?
 Exit from the map?
@@ -58471,217 +58471,217 @@ Hyper
 ERROR
 ERROR
 No Help Yet
-No Help Yet
+Ajuda Ainda Indisponível
 No assistance is available yet. This feature will be implemented in the future!
-No assistance is available yet. This feature will be implemented in the future!
+Ajuda ainda não está disponível. Essa função será implementada no futuro!
 Starting Your Adventure
-Starting Your Adventure
+Começando Sua Aventura
 Receive your first starter and your crucial starting items from Professor Tamarind.
-Receive your first starter and your crucial starting items from Professor Tamarind.
+Fale com a Professora Tamarind para receber seu Pokémon inicial e itens cruciais para começar sua aventura.
 Find the First Gym Leader
-Find the First Gym Leader
+Encontre o Primeiro Líder De Ginásio
 Search the island for Lambert, the first Makya League Gym Leader. He can be found somewhere in Bluepoint Beach, west of Casaba Villa.
-Search the island for Lambert, the first Makya League Gym Leader. He can be found somewhere in Bluepoint Beach, west of Casaba Villa.
+Vasculhe a ilha em busca de Lambert, o primeiro Líder De Ginásio de Makya. Ele pode ser encontrado em algum lugar na Praia Bluepoint, oeste da Vila Casaba.
 Find Dynamite
-Find Dynamite
+Encontrar Dinamite
 Find a Dynamite Stick to destroy the rock which blocks the way to Bluepoint Beach. You can find one in the Foreclosed Tunnel to the north of Casaba Villa.
-Find a Dynamite Stick to destroy the rock which blocks the way to Bluepoint Beach. You can find one in the Foreclosed Tunnel to the north of Casaba Villa.
+Econtre uma Banana De Dinamite para destruir a pedra que bloqueia o caminho para a Praia Bluepoint. Você pode encontrar uma no Túnel Interditado ao norte da Vila Casaba.
 Explore Bluepoint Beach
-Explore Bluepoint Beach
+Explore A Praia Bluepoint
 Now that you've blown up the rock in front of Bluepoint Beach, you should search there for Lambert, the gym leader of Casaba Villa.
-Now that you've blown up the rock in front of Bluepoint Beach, you should search there for Lambert, the gym leader of Casaba Villa.
+Agora que você explodiu a pedra no caminho para a Praia Bluepoint, você deve vasculhar o local para encontrar Lambert, o Líder De Ginásio da Vila Casaba.
 Defeat the Avatar!
-Defeat the Avatar!
+Derrote O Avatar!
 You found Lambert in a small Grotto on the far west end of Bluepoint Beach, defeated by an Avatar of Vigoroth. Defeat the Avatar and free up Lambert.
-You found Lambert in a small Grotto on the far west end of Bluepoint Beach, defeated by an Avatar of Vigoroth. Defeat the Avatar and free up Lambert.
+Você encontrou Lambert derrotado por um Avatar de um Vigoroth em uma pequena Gruta no extremo leste da Praia Bluepoint. Derrote o Avatar e liberte Lambert.
 Defeat Your First Gym
-Defeat Your First Gym
+Derrote Seu Primeiro Ginásio
 Defeat Lambert, the first Makya League Gym Leader, inside his gym in Casaba Villa.
-Defeat Lambert, the first Makya League Gym Leader, inside his gym in Casaba Villa.
+Derrote Lambert, o primeiro Líder De Ginásio de Makya, dentro de seu ginásio na Vila Casaba.
 Meet Tamarind at the Docks
-Meet Tamarind at the Docks
+Encontre Tamarind Nas Docas
 Tamarind is waiting for you at the Casaba Villa dock, where your boat is.
-Tamarind is waiting for you at the Casaba Villa dock, where your boat is.
+Tamarind está esperando por você na doca da Vila Casaba, onde seu barco se encontra.
 Embark to the Mainland
-Embark to the Mainland
+Navegue Para O Continente
 Now that you've earned your first badge, you're ready to take your boat to the Makyan mainland.
-Now that you've earned your first badge, you're ready to take your boat to the Makyan mainland.
+Agora que você ganhou sua primeira insígnia, você está pronto(a/e) para navegar para a Makya Continental.
 Find the Second Gym
-Find the Second Gym
+Encontre O Segundo Ginásio
 Find the second gym leader, located in Novo Town (north of the Shipping Lane).
-Find the second gym leader, located in Novo Town (north of the Shipping Lane).
+Encontre a segunda líder de ginásio, localizada na Cidade Nova (ao Norte da Rota Pesqueira).
 Defeat the Mysterious Woman
-Defeat the Mysterious Woman
+Derrote a Mulher Misteriosa
 A mysterious young women blocks your exit from the Shipping Lane. Defeat her to gain access to Novo Town.
-A mysterious young women blocks your exit from the Shipping Lane. Defeat her to gain access to Novo Town.
+Uma jovem mulher misteriosa bloqueia sua saída da Rota Pesqueira. Derrote-a para obter acesso à Cidade Nova.
 Defeat Novo Town Gym
-Defeat Novo Town Gym
+Derrote o Ginásio Da Cidade Nova
 Defeat Eko, leader of Novo Town gym. Novo Town is north of the Shipping Lane. Eko's gym is in the northeast part of town.
-Defeat Eko, leader of Novo Town gym. Novo Town is north of the Shipping Lane. Eko's gym is in the northeast part of town.
+Derrote Eko, líder do ginásio de Nova. A Cidade Nova é localizada ao Norte da Rota Pesqueira. O ginásio de Eko pode ser encontrado ao Noroeste da cidade.
 Find LuxTech Campus
-Find LuxTech Campus
+Encontre O Campus Da LuxTech
 Find the third gym leader, located at LuxTech Campus. LuxTech Campus is west of the Lingering Delta and East of the County Park.
-Find the third gym leader, located at LuxTech Campus. LuxTech Campus is west of the Lingering Delta and East of the County Park.
+Encontre a terceira líder de ginásio, localizada no Campus Da LuxTech. O Campus Da LuxTech fica a Oeste do Delta Perene e a Leste do Parque Municipal.
 Schedule Your Gym Appointment
-Schedule Your Gym Appointment
+Agende Sua Visita Ao Ginásio
 A large sign at the entrance of the LuxTech Campus Gym told you to schedule your gym appointment inside LuxTech main, the large central building of LuxTech campus, to the west of the gym.
-A large sign at the entrance of the LuxTech Campus Gym told you to schedule your gym appointment inside LuxTech main, the large central building of LuxTech campus, to the west of the gym.
+Uma grande placa na entrada do ginásio do Campus Da LuxTech diz que é necessário agendar uma visita ao ginásio dentro da Sede Da LuxTech, a enorme construção central do Campus LuxTech a Oeste do ginásio.
 Find Helena's Package
-Find Helena's Package
+Encontre O Pacote Da Helena
 Helena will challenge you as a gym leader if you find the LuxTech Shipment, a key package which was last seen in Gigalith's Guts, a cave tunnel inside Mt. Kilna.
-Helena will challenge you as a gym leader if you find the LuxTech Shipment, a key package which was last seen in Gigalith's Guts, a cave tunnel inside Mt. Kilna.
+Helena te desafiará como líder de ginásio se você encontrar a Entrega LuxTech, um pacote chave que foi visto pela última vez nas Entranhas De Gigalith, um túnel cavernoso dentro do Mt. Kilna.
 The mysterious woman from the Shipping Lane blocks your path again, demanding a battle before allowing you further. Defeat her to gain access to the rest of the Hollowed Layer.
-The mysterious woman from the Shipping Lane blocks your path again, demanding a battle before allowing you further. Defeat her to gain access to the rest of the Hollowed Layer.
+A mulher misteriosa da Rota Pesqueira bloqueia seu caminho novamente, exigindo uma batalha antes de te dar passagem. Derrote-a para obter acesso ao resto da Camada Oca.
 Defeat the Avatars
-Defeat the Avatars
+Derrote Os Avatares
 Alongside the mysterious woman, defeat Avatars in the Hollowed Layer which stand in the way of finding the LuxTech Package for Helena.
-Alongside the mysterious woman, defeat Avatars in the Hollowed Layer which stand in the way of finding the LuxTech Package for Helena.
+Com a mulher misteriosa, derrote os Avatares que bloqueiam seu vasculhamento pelo Pacote LuxTech de Helena na Camada Oca.
 Collect Helena's Package
-Collect Helena's Package
+Colete O Pacote De Helena
 Now that the avatar of Linoone has been defeated, you can collect the LuxTech Shipment which it stole.
-Now that the avatar of Linoone has been defeated, you can collect the LuxTech Shipment which it stole.
+Agora que o avatar de Linoone foi derrotado, você pode coletar o Pacote LuxTech que ele roubou.
 Return LuxTech Package
-Return LuxTech Package
+Devolva O Pacote LuxTech
 You've found a shipment bound for LuxTech. Go to LuxTech and find whoever the intended recipient was, so that you may return it to them.
-You've found a shipment bound for LuxTech. Go to LuxTech and find whoever the intended recipient was, so that you may return it to them.
+Você encontrou um pacote marcado para LuxTech. Vá para LuxTech e encontre o destinatário para devolvê-lo o pacote.
 Return Helena's Package
-Return Helena's Package
+Devolva O Pacote De Helena
 You've found and collected Helena's missing shipment. Return to LuxTech and hand her the package so that she will challenge you as a Gym Leader.
-You've found and collected Helena's missing shipment. Return to LuxTech and hand her the package so that she will challenge you as a Gym Leader.
+Você encontrou e coletou o pacote desaparecido de Helena. Volte à LuxTech e a entregue o pacote para que ela te desafia como líder de ginásio.
 Defeat LuxTech Campus Gym
-Defeat LuxTech Campus Gym
+Derrote O Ginásio Do Campus Da LuxTech
 Defeat Helena, leader of LuxTech Campus Gym. LuxTech is west of the Lingering Delta and east of the County Park. Her Gym can be found east of the large central building.
-Defeat Helena, leader of LuxTech Campus Gym. LuxTech is west of the Lingering Delta and east of the County Park. Her Gym can be found east of the large central building.
+Derrote Helena, a líder de ginásio do Campus LuxTech. LuxTech fica a Oeste do Delta Perene e a Leste do Parque Municipal. O Ginásio dela pode ser encontrado a Leste da enorme construção central.
 Find Velenz Gym
-Find Velenz Gym
+Encontre O Ginásio De Velenze
 Find the fourth gym leader, located in Velenz. Velenz is west of Repora Forest, which can be found by passing through either Svait or the Shelf.
-Find the fourth gym leader, located in Velenz. Velenz is west of Repora Forest, which can be found by passing through either Svait or the Shelf.
+Encontre o quarto líder de ginásio, localizado em Velenze. Velenze fica a Oeste da Floresta Repora, que pode ser encontrada passando por Svait ou pela Estante.
 Find Rafael, the Gym Leader
-Find Rafael, the Gym Leader
+Encontre Rafael, O Líder De Ginásio
 You've arrived in Velenz only to discover that Rafael is in hiding. Search for Rafael in the ruins of the haunted town.
-You've arrived in Velenz only to discover that Rafael is in hiding. Search for Rafael in the ruins of the haunted town.
+Você chegou em Velenze apenas para descobrir que Rafael está escondido. Procure por Rafael nas ruínas da cidade-fantasma.
 Find 4 Digit Slips
-Find 4 Digit Slips
+Encontre Os 4 Dígitos
 You found Rafael in the south east of Velenz, down a ladder. To unlock the door to his room, you must find at least four Digit Slips somewhere around Velenz. Velenz is west of Repora Forest.
-You found Rafael in the south east of Velenz, down a ladder. To unlock the door to his room, you must find at least four Digit Slips somewhere around Velenz. Velenz is west of Repora Forest.
+Você encontrou Rafael ao Sudeste de Velenze, descendo uma escada. Para destrancar a porta para o quarto dele, você deve encontrar ao menos 4 dígitos espalhados por Velenze. Velenze fica a Oeste da Floresta Repora.
 Defeat Velenz Gym
-Defeat Velenz Gym
+Derrote O Ginásio De Velenze
 Defeat Rafael, leader of Velenz Gym. Velenz is west of Repora Forest. He can be found down a ladder in the north-west part of the town.
-Defeat Rafael, leader of Velenz Gym. Velenz is west of Repora Forest. He can be found down a ladder in the north-west part of the town.
+Derrote Rafael, líder do Ginásio De Velenze. Velenze fica a Oeste da Floresta Repora. Ele pode ser encontrado descendo uma escada na parte Sudeste da cidade.
 Defend Grouz from the Avatar!
-Defend Grouz from the Avatar!
+Defenda Grauze Do Avatar!
 Professor Tamarind called, informing you of an Avatar of Titanix which is rampaging in the Grouz Mine Yard. She's promised a reward if you can defeat the Avatar.
-Professor Tamarind called, informing you of an Avatar of Titanix which is rampaging in the Grouz Mine Yard. She's promised a reward if you can defeat the Avatar.
+A Professora Tamarind ligou, te informando de um Avatar de Titanix fora de controle no pátio da mina de Grauze. Ela prometeu uma recompensa se você conseguir derrotá-lo.
 Visit Tamarind at Helena's House
-Visit Tamarind at Helena's House
+Visite Tamarind Na Casa De Helena
 Go to the County Park and find Helena's House, where Professor Tamarind is waiting for you with a reward. Helena's house can be found North West of the lake, very close to it.
-Go to the County Park and find Helena's House, where Professor Tamarind is waiting for you with a reward. Helena's house can be found North West of the lake, very close to it.
+Vá a Parque Municipal e encontre a casa de Helena, onde a Professora Tamarind te aguarda com uma recompensa. A casa de Helena pode ser encontrada a Noroeste do lago, muito próxima a ele.
 Defeat Yezera in Helena's House
-Defeat Yezera in Helena's House
+Derrote Yezera Na Casa De Helena
 Professor Tamarind invited you to Helena's House in the County Park, but you found only Yezera there. Fight Yezera to kill some time before Professor Tamarind arrives.
-Professor Tamarind invited you to Helena's House in the County Park, but you found only Yezera there. Fight Yezera to kill some time before Professor Tamarind arrives.
+A Professora Tamarind te convidou à casa de Helena no Parque Municipal, mas você apenas encontrou Yezera lá. Derrote Yezera para matar o tempo até que a Professora Tamarind apareça.
 Find Prizca West Gym
-Find Prizca West Gym
+Encontre O Ginásio Da Prizca Ocidental
 Find the fifth gym leader, located in Prizca West. Prizca West is north of the Eleig River Crossing.
-Find the fifth gym leader, located in Prizca West. Prizca West is north of the Eleig River Crossing.
+Encontre o quinto líder de ginásio, localizado na Prizca Ocidental. Prizca Ocidental fica ao norte da Travessia Do Rio Eleig.
 Defeat Prizca West Gym
-Defeat Prizca West Gym
+Derrote O Ginásio Da Prizca Ocidental
 Defeat Bence and Zoé, leaders of Prizca West gym. Prizca West is north of the Eleig River Crossing. Their Gym is found in the southern of the two central blocks.
-Defeat Bence and Zoé, leaders of Prizca West gym. Prizca West is north of the Eleig River Crossing. Their Gym is found in the southern of the two central blocks.
+Derrote Bence e Zoé, líderes do ginásio da Prizca Ocidental. Prizca Ocidental fica ao norte da Travessia Do Rio Eleig. O ginásio pode ser encontrado ao sul dos dois blocos centrais.
 Find Prizca East Gym
-Find Prizca East Gym
+Encontre O Ginásio Da Prizca Oriental
 Find the sixth gym leader, located in Prizca East. Prizca East is east of the Battle Plaza, which is east of Prizca West.
-Find the sixth gym leader, located in Prizca East. Prizca East is east of the Battle Plaza, which is east of Prizca West.
+Encontre o sexto líder de ginásio, localizado na Prizca Oriental. Prizca Oriental fica a leste da Praça De Batalha, que fica a leste da Prizca Ocidental.
 Defeat Prizca East Gym
-Defeat Prizca East Gym
+Derrote O Ginásio Da Prizca Oriental
 Defeat Noel, leader of Prizca East gym. Prizca East is east of the Battle Plaza, which is east of Prizca West. His gym is in the center of town, east of the large Makya Capitol Building.
-Defeat Noel, leader of Prizca East gym. Prizca East is east of the Battle Plaza, which is east of Prizca West. His gym is in the center of town, east of the large Makya Capitol Building.
+Derrote Noel, líder do ginásio da Prizca Oriental. Prizca Oriental fica a leste da Praça De Batalha, que fica a leste da Prizca Ocidental. O ginásio fica no centro da cidade, a leste do grande Capitólio Makiense.
 Find the Catacombs
-Find the Catacombs
+Encontre As Catacumbas
 Professor Tamarind called you, requesting your urgent help dealing with a problem in the Prizca Catacombs. The Catacombs can be found in the eastern part of the Prizca Sewers.
-Professor Tamarind called you, requesting your urgent help dealing with a problem in the Prizca Catacombs. The Catacombs can be found in the eastern part of the Prizca Sewers.
+A Professora Tamarind te ligou, urgentemente pedindo sua ajuda para lidar com um problema nas Catacumbas De Prizca. As Catacumbas podem ser encontradas na parte leste do Esgoto De Prizca.
 Investigate the Catacombs
-Investigate the Catacombs
+Investigue As Catacumbas
 Go with Professor Tamarind to confront the thieves inside of the Catacombs. The Catacombs can be found in the eastern part of the Prizca Sewers.
-Go with Professor Tamarind to confront the thieves inside of the Catacombs. The Catacombs can be found in the eastern part of the Prizca Sewers.
+Vá com a Professora Tamarind confrontar os bandidos dentro das Catacumbas. As Catacumbas podem ser encontradas na parte Leste do Esgoto De Prizca.
 Defeat Yezera in the Catacombs
-Defeat Yezera in the Catacombs
+Derrote Yezera Nas Catacumbas
 Confront Yezera, who appears to be leading a small group to steal Regidrago. The Catacombs can be found in the eastern part of the Prizca Sewers.
-Confront Yezera, who appears to be leading a small group to steal Regidrago. The Catacombs can be found in the eastern part of the Prizca Sewers.
+Confronte Yezera, que parece estar liderando um pequeno grupo para roubar Regidrago. As Catacumbas podem ser encontradas na parte Leste do Esgoto De Prizca.
 Defeat the Catacombs Straggler
-Defeat the Catacombs Straggler
+Derrote O Membro Atrasado Nas Catacumbas
 Go further into the Catacombs to confront the fourth member of Yezera's group, who stayed behind while the others fled with Regidrago.
-Go further into the Catacombs to confront the fourth member of Yezera's group, who stayed behind while the others fled with Regidrago.
+Vá mais fundo nas Catacumbas para confrontar o quarto membro do grupo de Yezera, que ficou para trás enquanto os outros fugiram com Regidrago.
 Find Sweetrock Harbor Gym
-Find Sweetrock Harbor Gym
+Encontre O Ginásio Do Porto Sweetrock
 Find the seventh gym leader, located in Sweetrock Harbor. Sweetrock Harbor is east of the Split Peaks, which you can cross with your new Climbing Gear.
-Find the seventh gym leader, located in Sweetrock Harbor. Sweetrock Harbor is east of the Split Peaks, which you can cross with your new Climbing Gear.
+Encontre a sétima líder de ginásio, localizada no Porto Sweetrock. O Porto Sweetrock fica a Leste dos Picos Partidos, que você pode cruzar usando seu novo Equipamento De Escalada.
 Defeat the Crimson Cultist
-Defeat the Crimson Cultist
+Derrote O Cultista Carmesim
 The path to the seventh gym is blocked by a disguised supporter of Yezera, with a Crimson eye mask. Defeat this villain to rescue Regirock, and gain access to the seventh gym.
-The path to the seventh gym is blocked by a disguised supporter of Yezera, with a Crimson eye mask. Defeat this villain to rescue Regirock, and gain access to the seventh gym.
+O caminho para o sétimo ginásio está bloqueado por um seguidor de Yezera mascarado com um olho Carmesim. Derrote esse vilão para resgatar Regirock e ganhar acesso ao sétimo ginásio.
 Defeat Sweetrock Harbor Gym
-Defeat Sweetrock Harbor Gym
+Derrote O Ginásio Do Porto Sweetrock
 Defeat Victoire, leader of Sweetrock Harbor Gym. Sweetrock Harbor is east of the Split Peaks. Her gym is in the north part of the town, on the raised earthen platform.
-Defeat Victoire, leader of Sweetrock Harbor Gym. Sweetrock Harbor is east of the Split Peaks. Her gym is in the north part of the town, on the raised earthen platform.
+Derrote Victoire, a líder do Ginásio Do Porto De Sweetrock. O Porto Sweetrock fica a Leste dos Picos Partidos. O ginásio dela fica na parte Norte da cidade, na plataforma de terra erguida.
 Find Team Chasm HQ Gym
-Find Team Chasm HQ Gym
+Encontre O Ginásio Do QG Da Equipe Chasm
 Find the eight gym leader, located in Team Chasm HQ. Team Chasm HQ can be found underneath Gigalith's Guts.
-Find the eight gym leader, located in Team Chasm HQ. Team Chasm HQ can be found underneath Gigalith's Guts.
+Encontre a oitava líder de ginásio, localizada no QG Da Equipe Chasm. O QG Da Equipe Chasm pode ser encontrado abaixo das Entranhas De Gigalith.
 Defeat Team Chasm HQ Gym
-Defeat Team Chasm HQ Gym
+Derrote O Ginásio Do QG Da Equipe Chasm
 Defeat Samorne, leader of Team Chasm HQ Gym. Team Chasm HQ can be found underneath Gigalith's Guts. Her gym is on the southwest part of the HQ, inside a sunken area.
-Defeat Samorne, leader of Team Chasm HQ Gym. Team Chasm HQ can be found underneath Gigalith's Guts. Her gym is on the southwest part of the HQ, inside a sunken area.
+Derrote Samorne, a líder do Ginásio Do QG Da Equipe Chasm. O QG Da Equipe Chasm pode ser encontrado abaixo das Entranhas De Gigalith. O ginásio dela fica na parte Sudoeste do QG, dentro de uma zona rebaixada.
 Investigate Whitebloom Town
-Investigate Whitebloom Town
+Investigue O Vilarejo Relvabranca
 Yezera's been spotted in Whitebloom Town with some of the stolen titans. Find her, and rescue them. From Highland Lake, travel through the Cave of Hatching towards Whitebloom.
-Yezera's been spotted in Whitebloom Town with some of the stolen titans. Find her, and rescue them. From Highland Lake, travel through the Cave of Hatching towards Whitebloom.
+Yezera foi avistada no Vilarejo Relvabranca com alguns dos titãs roubados. Encontre-a e os recupere. Partindo do Lago Das Terras Altas, atravesse a Caverna Da Eclosão para chegar a Relvabranca.
 Defeat the Teal Cultist
-Defeat the Teal Cultist
+Derrote O Cultista Turquesa
 The path into Whitebloom Town is blocked by a disguised supporter of Yezera, with a Teal eye mask. Defeat this villain to rescue Regice, and gain access to Whitebloom Town.
-The path into Whitebloom Town is blocked by a disguised supporter of Yezera, with a Teal eye mask. Defeat this villain to rescue Regice, and gain access to Whitebloom Town.
+O caminho para o Vilarejo Relvabranca está bloqueado por um seguidor de Yezera mascarado com um olho Turquesa. Derrote esse vilão para resgatar Regice e ganhar acesso ao Vilarejo Relvabranca.
 What was the Teal-Eye-Mask villain doing in the Cave of Hatching? Investigate Whitebloom Town, hometown of the first Makyan champion, Yezera.
-What was the Teal-Eye-Mask villain doing in the Cave of Hatching? Investigate Whitebloom Town, hometown of the first Makyan champion, Yezera.
+O que o Vilão Da Máscara Turquesa estava fazendo na Caverna Da Eclosão? Investigue o Vilarejo Relvabranca, terra natal da primeira campeã Makiense, Yezera.
 Defeat Yezera in Whitebloom Town
-Defeat Yezera in Whitebloom Town
+Derrote Yezera No Vilarejo Relvabranca
 Yezera has returned to Whitebloom Town, her home town. Confront Yezera at the southern cliff, overlooking the Highland Lake.
-Yezera has returned to Whitebloom Town, her home town. Confront Yezera at the southern cliff, overlooking the Highland Lake.
+Yezera voltou para o Vilarejo Relvabranca, sua terra natal. Confronte-a no Penhasco ao Sul, observando o Lago Das Terras Altas.
 Find the Championship Tournament
-Find the Championship Tournament
+Encontre O Local Do Torneio
 Find the Tournament Grounds, site of the Makyan Championship. The Grounds can be found north of the Battle Plaza in the center of Prizca.
-Find the Tournament Grounds, site of the Makyan Championship. The Grounds can be found north of the Battle Plaza in the center of Prizca.
+Encontre o Local Do Torneio, estrutura do Campeonato Makiense. O Local Do Torneio fica ao Norte da Praça De Batalha no centro de Prizca.
 Win the Championship Tournament
-Win the Championship Tournament
+Vença O Torneio
 Win the Makyan Championship being hosted in Prizca's Tournament Grounds. Prove that you are the best trainer in Makya!
-Win the Makyan Championship being hosted in Prizca's Tournament Grounds. Prove that you are the best trainer in Makya!
+Vença o Campeonato Makiense que está acontecendo no Local Do Torneio em Prizca. Prove que você é o melhor treinador de Makya!
 Stop Yezera!
-Stop Yezera!
+Pare Yezera!
 Confront Yezera for the final time in the Chamber of Regigigas, behind a large door in the eastern side of the Hollowed Layer (the cave east of the Team Chasm HQ).
-Confront Yezera for the final time in the Chamber of Regigigas, behind a large door in the eastern side of the Hollowed Layer (the cave east of the Team Chasm HQ).
+Confronte Yezera pela última vez na Câmara De Regigigas, atrás de uma enorme porta no lado Leste da Camada Oca (a caverna a leste do QG Da Equipe Chasm).
 Explore Regigigas' Chamber
-Explore Regigigas' Chamber
+Explore A Câmara De Regigigas
 Continue to delve into the Chamber of Regigigas, so you can finally put a stop to Yezera's plan. The Chamber of Regigigas is behind a large door in the eastern side of the Hollowed Layer.
-Continue to delve into the Chamber of Regigigas, so you can finally put a stop to Yezera's plan. The Chamber of Regigigas is behind a large door in the eastern side of the Hollowed Layer.
+Continue se aprofundando na Câmara De Regigigas para finalmente colocar um fim no plano de Yezera. A Câmara De Regigigas fica atrás de uma enorme porta no lado Leste da Camada Oca.
 The villain in the Teal-Eye-Mask blocks your path, this time in the first room of the Chamber of Regigigas. The Chamber can be found on the east side of the Hollowed Layer.
-The villain in the Teal-Eye-Mask blocks your path, this time in the first room of the Chamber of Regigigas. The Chamber can be found on the east side of the Hollowed Layer.
+O vilão da Máscara Turquesa bloqueia seu caminho, dessa vez na primeira sala da Câmara De Regigigas. A Câmara pode ser encontrada no lado Leste da Camada Oca.
 The villain in the Crimson-Eye-Mask blocks your path, this time in the first room of the Chamber of Regigigas. The Chamber can be found on the east side of the Hollowed Layer.
-The villain in the Crimson-Eye-Mask blocks your path, this time in the first room of the Chamber of Regigigas. The Chamber can be found on the east side of the Hollowed Layer.
+O vilão da Máscara Carmesim bloqueia seu caminho, dessa vez na primeira sala da Câmara De Regigigas. A Câmara pode ser encontrada no lado Leste da Camada Oca.
 Defeat Sang
-Defeat Sang
+Derrote Sang
 Sang, the bad-tempered supporter of Yezera, blocks the exit to the first room of the Chamber of Regigigas. The Chamber can be found on the east side of the Hollowed Layer.
-Sang, the bad-tempered supporter of Yezera, blocks the exit to the first room of the Chamber of Regigigas. The Chamber can be found on the east side of the Hollowed Layer.
+Sang, o seguidor mal-humorado de Yezera, bloqueia a saída para a primeira sala da Câmara De Regigigas. A Câmara pode ser encontrada no lado Leste da Camada Oca.
 Defeat Regigigas
-Defeat Regigigas
+Derrote Regigigas
 You found Yezera beyond the abandoned Team Chasm station in the Chamber of Regigigas, accompanied by an avatar of Regigigas. Defeat it!
-You found Yezera beyond the abandoned Team Chasm station in the Chamber of Regigigas, accompanied by an avatar of Regigigas. Defeat it!
+Você encontrou Yezera além da estação abandonada da Equipe Chasm na Câmara De Regigigas, acompanhada por um avatar de Regigigas. Derrote-o.
 Having defeated Regigigas, you can now venture into the full depths of the Chamber of Regigigas. Continue chasing Yezera!
-Having defeated Regigigas, you can now venture into the full depths of the Chamber of Regigigas. Continue chasing Yezera!
+Tendo derrotado Regigigas, você pode agora se aventurar nas profundezas da Câmaras De Regigigas. Continue perseguindo Yezera!
 Game Won!
-Game Won!
+Jogo Concluído!
 You've beaten the game! Explore around to find more of Makya, and return to old areas to find content you may have missed.
-You've beaten the game! Explore around to find more of Makya, and return to old areas to find content you may have missed.
+Você concluiu o jogo! Explore o mapa para descobrir mais sobre Makya e retorne para áreas antigas para encontrar conteúdo que você pode ter perdido.
 \wmA recoverable error has occured: {1} is an invalid Main Quest Stage key. The "What Next?" will be inaccurate until the next Main Quest update. Please let a programmer know you saw this error, and where.
-\wmA recoverable error has occured: {1} is an invalid Main Quest Stage key. The "What Next?" will be inaccurate until the next Main Quest update. Please let a programmer know you saw this error, and where.
+\wmUm erro recuperável ocorreu: {1} é uma chave inválida dos Estágios Da História Pricipal. O Botão "E Agora?" vai ser impreciso até o próximo estágio da História Principal. Por favor, informe a um programador que você viu esse erro, e onde.
 BY LEVEL
 BY LEVEL
 BY OTHER
