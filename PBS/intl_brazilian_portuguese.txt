@@ -47294,7 +47294,7 @@ Parque Municipal
 Grouz
 Grauze
 East Tunnel
-Tunel Leste
+Túnel Leste
 Lingering Delta
 Delta Perene
 LuxTech Campus
@@ -52933,9 +52933,9 @@ Find her in an abandoned building.
 Find her after your 8th badge.
 Find her after your 8th badge.
 Barren Crater
-Barren Crater
+Cratera Estéril
 Whitebloom Town
-Whitebloom Town
+Vilarejo Relvabranca
 An energetic girl with no respect for the law. Despite her bubbly energy, it's easy to see she's burdened by a vendetta. Help her enact justice or find peace.
 An energetic girl with no respect for the law. Despite her bubbly energy, it's easy to see she's burdened by a vendetta. Help her enact justice or find peace.
 Lost Puppy
@@ -59087,7 +59087,7 @@ Vila Casaba
 LuxTech Campus
 Campus Da LuxTech
 Canal Desert
-Canal Desert
+Canal Deserto
 Feebas' Fin
 Nadadeira De Feebas
 Tomorrow's weather forecast for {1}!
