@@ -47359,7 +47359,7 @@ Ginásio 1
 League Gym 2
 Ginásio 2
 Novo College
-Colégio De Nova
+Instituto De Nova
 Vibrant Cave
 Caverna Vibrante
 League Gym 4
@@ -47753,7 +47753,7 @@ LuxTech Sewers
 Sistema De Esgoto Da LuxTech
 123
 Novo College
-Colégio De Nova
+Instituto De Nova
 124
 Clearwater Cave
 Caverna Das Claras Águas
