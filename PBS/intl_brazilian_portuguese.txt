@@ -41021,93 +41021,93 @@ A ball with a mythical quality. It will catch any wild Pokémon without fail, an
 The Poke ball that contains Arceus. Unable to be replicated by humans, so how did you see this description.
 The Poke ball that contains Arceus. Unable to be replicated by humans, so how did you see this description.
 A held item that can cure numbing.
-A held item that can cure numbing.
+Um item equipável capaz de curar Imobilização.
 A held item that can cure sleep.
-A held item that can cure sleep.
+Um item equipável capaz de curar Sono.
 A held item that can cure poison.
-A held item that can cure poison.
+Um item equipável capaz de curar Envenenamento.
 A held item that can cure burn.
-A held item that can cure burn.
+Um item equipável capaz de curar Queimadura.
 A held item that can cure frostbite.
-A held item that can cure frostbite.
+Um item equipável capaz de curar Frio.
 A held item that can cure dizzy.
-A held item that can cure dizzy.
+Um item equipável capaz de curar Atordoamento.
 A held item that can cure leeched.
-A held item that can cure leeched.
+Um item equipável capaz de curar Parasitismo.
 A held item that can cure waterlogged.
-A held item that can cure waterlogged.
+Um item equipável capaz de curar Ensopamento.
 A held item that can restore a move's PP by 10.
-A held item that can restore a move's PP by 10.
+Um item equipável capaz de restaurar os PP de um movimento em 10.
 A held item that can cure any status problem.
-A held item that can cure any status problem.
+Um item equipável capaz de curar qualquer Condição de Status.
 If held by a Pokémon, it heals its HP by 25% at half health.
-If held by a Pokémon, it heals its HP by 25% at half health.
+Se equipada em um Pokémon, cura seu PV em 25% ao alcançar metade da vida.
 It may be held by a Pokémon to heal the user by 33% in a pinch (below 25% HP).
-It may be held by a Pokémon to heal the user by 33% in a pinch (below 25% HP).
+Pode ser equipada em um Pokémon para curá-lo em 33% em uma emergência (PV <= 25%).
 Weakens a supereffective Fire-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Fire-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Fogo contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Water-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Water-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Água contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Electric-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Electric-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Elétrico contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Grass-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Grass-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Grama contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Ice-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Ice-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Gelo contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Fighting-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Fighting-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Lutador contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Poison-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Poison-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Venenoso contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Ground-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Ground-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Terrestre contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Flying-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Flying-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Voador contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Psychic-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Psychic-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Psíquico contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Bug-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Bug-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Inseto contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Rock-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Rock-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Pedra contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Ghost-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Ghost-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Fantasma contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Dragon-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Dragon-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Dragão contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Dark-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Dark-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Trevas contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Steel-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Steel-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Aço contra o Pokémon com esta fruta equipada em 50%.
 Weakens a supereffective Fairy-type attack against the holding Pokémon by 50%.
-Weakens a supereffective Fairy-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Fada contra o Pokémon com esta fruta equipada em 50%.
 Weakens a Normal-type attack against the holding Pokémon by 50%.
-Weakens a Normal-type attack against the holding Pokémon by 50%.
+Enfraquece um ataque Superefetivo do tipo Normal contra o Pokémon com esta fruta equipada em 50%.
 If held by a Pokémon, it raises its Attack by two steps in a pinch.
-If held by a Pokémon, it raises its Attack by two steps in a pinch.
+Se equipada em um Pokémon, aumenta seu Ataque em dois níveis em uma emergência (PV <= 25%).
 If held by a Pokémon, it raises its Defense by three steps in a pinch.
-If held by a Pokémon, it raises its Defense by three steps in a pinch.
+Se equipada em um Pokémon, aumenta sua Defesa em dois níveis em uma emergência (PV <= 25%).
 If held by a Pokémon, it raises its Speed by two steps in a pinch.
-If held by a Pokémon, it raises its Speed by two steps in a pinch.
+Se equipada em um Pokémon, aumenta sua Velocidade em dois níveis em uma emergência (PV <= 25%).
 If held by a Pokémon, it raises its Sp. Atk by two steps in a pinch.
-If held by a Pokémon, it raises its Sp. Atk by two steps in a pinch.
+Se equipada em um Pokémon, aumenta seu Atk. Esp. em dois níveis em uma emergência (PV <= 25%).
 If held by a Pokémon, it raises its Sp. Def by three steps in a pinch.
-If held by a Pokémon, it raises its Sp. Def by three steps in a pinch.
+Se equipada em um Pokémon, aumenta sua Def. Esp. em dois níveis em uma emergência (PV <= 25%).
 If held by a Pokémon, it raises its critical-hit ratio in a pinch.
-If held by a Pokémon, it raises its critical-hit ratio in a pinch.
+Se equipada em um Pokémon, aumenta sua taxa de acertos críticos em uma emergência (PV <= 25%).
 If held by a Pokémon, it raises one of its stats by three steps in a pinch.
-If held by a Pokémon, it raises one of its stats by three steps in a pinch.
+Se equipada em um Pokémon, aumenta um de seus atributos em três níveis em uma emergência (PV <= 25%).
 If held by a Pokémon, it heals its HP by 33% if it is hit by any supereffective attack.
-If held by a Pokémon, it heals its HP by 33% if it is hit by any supereffective attack.
+Se equipada por um Pokémon, cura seus PV em 33% se ele for atingido por um ataque superefetivo.
 If held by a Pokémon, it raises its Accuracy by four steps in a pinch.
-If held by a Pokémon, it raises its Accuracy by four steps in a pinch.
+Se equipada em um Pokémon, aumenta sua Precisão em quatro níveis em uma emergência (PV <= 25%).
 If held by a Pokémon, it gets to move first just once in a pinch.
-If held by a Pokémon, it gets to move first just once in a pinch.
+Se equipada em um Pokémon, ele pode se mover antes, mas apenas uma vez, durante uma emergência (PV <= 25%).
 If held by a Pokémon and a physical attack hits it, the attacker takes 25% HP damage.
-If held by a Pokémon and a physical attack hits it, the attacker takes 25% HP damage.
+Se equipada em um Pokémon e um Ataque Físico o atinge, o atacante recebe 25% PV de dano.
 If held by a Pokémon and a special attack hits it, the attacker takes 25% HP damage.
-If held by a Pokémon and a special attack hits it, the attacker takes 25% HP damage.
+Se equipada em um Pokémon e um Ataque Especial o atinge, o atacante recebe 25% PV de dano.
 If held by a Pokémon and a physical attack hits it, raises the holder's Defense by three steps.
-If held by a Pokémon and a physical attack hits it, raises the holder's Defense by three steps.
+Se equipada em um Pokémon e um Ataque Físico o atinge, aumenta a Defesa dele em três níveis.
 If held by a Pokémon and a special attack hits it, raises the holder's Sp. Def by three steps.
-If held by a Pokémon and a special attack hits it, raises the holder's Sp. Def by three steps.
+Se equipada em um Pokémon e um Ataque Especial o atinge, aumenta a Defesa Esp. dele em três níveis.
 A folding Bicycle that enables much faster movement than the Running Shoes.
 A folding Bicycle that enables much faster movement than the Running Shoes.
 A very convenient map that can be viewed anytime. It even shows your present location.
