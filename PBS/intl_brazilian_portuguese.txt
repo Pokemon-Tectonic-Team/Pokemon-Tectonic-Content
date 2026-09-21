@@ -58505,7 +58505,7 @@ Tamarind está esperando por você na doca da Vila Casaba, onde seu barco se enc
 Embark to the Mainland
 Navegue Para O Continente
 Now that you've earned your first badge, you're ready to take your boat to the Makyan mainland.
-Agora que você ganhou sua primeira insígnia, você está pronto(a/e) para navegar para a Makya Continental.
+Agora que você ganhou sua primeira insígnia, você está pronto/a/e para navegar para a Makya Continental.
 Find the Second Gym
 Encontre O Segundo Ginásio
 Find the second gym leader, located in Novo Town (north of the Shipping Lane).
