@@ -50443,7 +50443,7 @@ Movimentos físicos são marcados com o símbolo de um impacto. O dano deles é 
 Special Moves
 Movimentos Especiais
 Special moves are notated by the symbol of a splash. Their damage is based on the Special Attack (Sp. Atk) of the attacker and the Special Defense (Sp. Def) of the target.
-Movimentos especiais são marcados com o símbolo de um redemoinho. O dano deles é calculado com base no atributo de Ataque Especial (Atk Sp.) do atacante e no atributo de Defesa Especial (Def. Sp.) do alvo.
+Movimentos especiais são marcados com o símbolo de um redemoinho. O dano deles é calculado com base no atributo de Ataque Especial (Atk Esp.) do atacante e no atributo de Defesa Especial (Def. Esp.) do alvo.
 Adaptive Moves
 Movimentos Mistos
 Adaptive moves are notated by the symbol split between physical and special. Their damage is based on whichever Attacking stat is higher of the attacker. If both are the same, the default is Attack.
@@ -59029,7 +59029,7 @@ Too bad...<<n>>The Bag is full...
 \me[Berry get]You picked the \c[1]{1}\c[0].\wtnp[20]
 \me[Berry get]You picked the \c[1]{1}\c[0].\wtnp[20]
 {1} put the \c<<[>>1<<]>>{2}\c<<[>>0<<]>> in the <icon=bagPocket{3}>\c<<[>>1<<]>>{4}\c<<[>>0<<]>> Pocket.<<1>>
-{1} put the \c<<[>>1<<]>>{2}\c<<[>>0<<]>> in the <icon=bagPocket{3}>\c<<[>>1<<]>>{4}\c<<[>>0<<]>> Pocket.<<1>>
+{1} coloca \c<<[>>1<<]>>{2}\c<<[>>0<<]>> no <icon=bagPocket{3}>\c<<[>>1<<]>>Bolso de {4}\c<<[>>0<<]>>.
 The berry plant withered away.
 The berry plant withered away.
 You hand over the {1}.
@@ -61962,7 +61962,7 @@ Woah! {1} suddenly hugged {2}.
 \me[{1}]{3} found an \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]{3} found a \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]{3} found a \c[1]{2}\c[0]!\wtnp[30]
-{4} put the {1} away\<<n>>in the <icon=bagPocket{2}>\c<<[>>1<<]>>{3} Pocket\c<<[>>0<<]>>.
+{4} put the {1} away\nin the <icon=bagPocket{2}>\c<<[>>1<<]>>{3} Pocket\c<<[>>0<<]>>.
 {4} coloca {1} no <icon=bagPocket{2}>\c<<[>>1<<]>>Bolso de {3}\c<<[>>0<<]>>.
 {2} found some \c[1]{1}\c[0]!\wtnp[30]
 {2} found some \c[1]{1}\c[0]!\wtnp[30]
