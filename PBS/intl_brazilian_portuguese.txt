@@ -40895,41 +40895,41 @@ A sumptuous scarf that boosts the holder's Normal-type moves by 20%.
 A gleaming feather that boosts the holder's Fairy-type moves by 20%.
 A gleaming feather that boosts the holder's Fairy-type moves by 20%.
 A gem with an essence of fire. Boosts the power of a Fire-type move by 50% once per battle.
-A gem with an essence of fire. Boosts the power of a Fire-type move by 50% once per battle.
+Uma Jóia de essência quente.<<n>>Aumenta o dano de um ataque do tipo Fogo em 50% 1x por batalha.
 A gem with an essence of water. Boosts the power of a Water-type move by 50% once per battle.
-A gem with an essence of water. Boosts the power of a Water-type move by 50% once per battle.
+Uma Jóia de essência oceânica.<<n>>Aumenta o dano de um ataque do tipo Água em 50% 1x por batalha.
 A gem with an essence of electricity. Boosts the power of an Electric-type move by 50% once per battle.
-A gem with an essence of electricity. Boosts the power of an Electric-type move by 50% once per battle.
+Uma Jóia de essência energética.<<n>>Aumenta o dano de um ataque do tipo Elétrico em 50% 1x por batalha.
 A gem with an essence of nature. Boosts the power of a Grass-type move by 50% once per battle.
-A gem with an essence of nature. Boosts the power of a Grass-type move by 50% once per battle.
+Uma Jóia de essência natural.<<n>>Aumenta o dano de um ataque do tipo Grama em 50% 1x por batalha.
 A gem with an essence of ice. Boosts the power of an Ice-type move by 50% once per battle.
-A gem with an essence of ice. Boosts the power of an Ice-type move by 50% once per battle.
+Uma Jóia de essência gelada.<<n>>Aumenta o dano de um ataque do tipo Gelo em 50% 1x por batalha.
 A gem with an essence of combat. Boosts the power of a Fighting-type move by 50% once per battle.
-A gem with an essence of combat. Boosts the power of a Fighting-type move by 50% once per battle.
+Uma Jóia de essência heróica.<<n>>Aumenta o dano de um ataque do tipo Lutador em 50% 1x por batalha.
 A gem with an essence of poison. Boosts the power of a Poison-type move by 50% once per battle.
-A gem with an essence of poison. Boosts the power of a Poison-type move by 50% once per battle.
+Uma Jóia de essência pútrida.<<n>>Aumenta o dano de um ataque do tipo Venenoso em 50% 1x por batalha.
 A gem with an essence of land. Boosts the power of a Ground-type move by 50% once per battle.
-A gem with an essence of land. Boosts the power of a Ground-type move by 50% once per battle.
+Uma Jóia de essência terrena.<<n>>Aumenta o dano de um ataque do tipo Terrestre em 50% 1x por batalha.
 A gem with an essence of air. Boosts the power of a Flying-type move by 50% once per battle.
-A gem with an essence of air. Boosts the power of a Flying-type move by 50% once per battle.
+Uma Jóia de essência aérea.<<n>>Aumenta o dano de um ataque do tipo Voador em 50% 1x por batalha.
 A gem with an essence of the mind. Boosts the power of a Psychic-type move by 50% once per battle.
-A gem with an essence of the mind. Boosts the power of a Psychic-type move by 50% once per battle.
+Uma Jóia de essência mental.<<n>>Aumenta o dano de um ataque do tipo Psíquico em 50% 1x por batalha.
 A gem with an insect-like essence. Boosts the power of a Bug-type move by 50% once per battle.
-A gem with an insect-like essence. Boosts the power of a Bug-type move by 50% once per battle.
+Uma Jóia de essência artrópode.<<n>>Aumenta o dano de um ataque do tipo Inseto em 50% 1x por batalha.
 A gem with an essence of rock. Boosts the power of a Rock-type move by 50% once per battle.
-A gem with an essence of rock. Boosts the power of a Rock-type move by 50% once per battle.
+Uma Jóia de essência rígida.<<n>>Aumenta o dano de um ataque do tipo Pedra em 50% 1x por batalha.
 A gem with a spectral essence. Boosts the power of a Ghost-type move by 50% once per battle.
-A gem with a spectral essence. Boosts the power of a Ghost-type move by 50% once per battle.
+Uma Jóia de essência fantasmagórica.<<n>>Aumenta o dano de um ataque do tipo Fantasma em 50% 1x por batalha.
 A gem with a draconic essence. Boosts the power of a Dragon-type move by 50% once per battle.
-A gem with a draconic essence. Boosts the power of a Dragon-type move by 50% once per battle.
+Uma Jóia de essência furiosa.<<n>>Aumenta o dano de um ataque do tipo Dragão em 50% 1x por batalha.
 A gem with an essence of darkness. Boosts the power of a Dark-type move by 50% once per battle.
-A gem with an essence of darkness. Boosts the power of a Dark-type move by 50% once per battle.
+Uma Jóia de essência sombria.<<n>>Aumenta o dano de um ataque do tipo Trevas em 50% 1x por batalha.
 A gem with an essence of steel. Boosts the power of a Steel-type move by 50% once per battle.
-A gem with an essence of steel. Boosts the power of a Steel-type move by 50% once per battle.
+Uma Jóia de essência reforçada.<<n>>Aumenta o dano de um ataque do tipo Aço em 50% 1x por batalha.
 A gem with an ordinary essence. Boosts the power of a Normal-type move by 50% once per battle.
-A gem with an ordinary essence. Boosts the power of a Normal-type move by 50% once per battle.
+Uma Jóia de essência ordinária.<<n>>Aumenta o dano de um ataque do tipo Normal em 50% 1x por batalha.
 A gem with an essence of the fey. Boosts the power of a Fairy-type move by 50% once per battle.
-A gem with an essence of the fey. Boosts the power of a Fairy-type move by 50% once per battle.
+Uma Jóia de essência etérea.<<n>>Aumenta o dano de um ataque do tipo Fada em 50% 1x por batalha.
 A spray-type medicine for wounds. It restores the HP of one Pokémon, fainted or able, by 40 points.
 A spray-type medicine for wounds. It restores the HP of one Pokémon, fainted or able, by 40 points.
 A spray-type medicine for wounds. It restores the HP of one Pokémon, fainted or able, by 80 points.
