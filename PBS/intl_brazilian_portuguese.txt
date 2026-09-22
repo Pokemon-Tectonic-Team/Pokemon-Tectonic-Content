@@ -38755,11 +38755,11 @@ This move exists just to showcase the PBS Extensions system.
 This move exists just to showcase the PBS Extensions system.
 [7]
 Repel
-Repel
+Repelente
 Stink Bomb
-Stink Bomb
+Bomba De Fedor
 Stealth Spray
-Stealth Spray
+Borrifador Furtivo
 Fire Stone
 Pedra De Fogo
 Thunder Stone
@@ -39405,9 +39405,9 @@ Kit Expansion
 Medical Upgrade
 Medical Upgrade
 Dynamite Stick
-Dynamite Stick
+Banana De Dinamite
 Figment
-Figment
+Utopia
 Saccharite Pick
 Saccharite Pick
 Surf Board
@@ -39455,7 +39455,7 @@ Chroma Clarion
 House Deed
 House Deed
 Gleam Powder
-Gleam Powder
+Pó Cintilante
 Viral Helix
 Viral Helix
 Performance Analyzer
@@ -39463,7 +39463,7 @@ Performance Analyzer
 Performance Analyzer 2
 Performance Analyzer 2
 Battle Report
-Battle Report
+Relatório De Batalha
 Milk Bone Treat
 Milk Bone Treat
 OmniDrive
@@ -39515,11 +39515,11 @@ Ruined Tower Key
 Latent Seed
 Latent Seed
 Alloyed Lump
-Alloyed Lump
+Pedaço Metálico
 Alloyed Blade
-Alloyed Blade
+Lâmina Metálica
 Alloyed Wire
-Alloyed Wire
+Fio Metálico
 Space-time Shard
 Space-time Shard
 Old USB Drive
@@ -39537,7 +39537,7 @@ Smart Phone
 VS Recorder
 VS Recorder
 Primal Bead
-Primal Bead
+Lágrima Primitiva
 Primal Clay
 Primal Clay
 Choice Crown
@@ -39658,11 +39658,11 @@ Test Item
 Test Item
 [8]
 Repels
-Repels
+Repelentes
 Stink Bomb
-Stink Bomb
+Bombas De Fedor
 Stealth Spray
-Stealth Spray
+Borrifadores Furtivos
 Fire Stones
 Pedras De Fogo
 Thunder Stones
@@ -40308,9 +40308,9 @@ Kit Expansion
 Medical Upgrades
 Medical Upgrades
 Dynamite Sticks
-Dynamite Sticks
+Bananas De Dinamite
 Figments
-Figments
+Utopias
 Saccharite Picks
 Saccharite Picks
 Surf Boards
@@ -40358,7 +40358,7 @@ Chroma Clarions
 House Deeds
 House Deeds
 Gleam Powder
-Gleam Powder
+Pós Cintilantes
 Viral Helices
 Viral Helices
 Performance Analyzers
@@ -40366,7 +40366,7 @@ Performance Analyzers
 Performance Analyzers 2
 Performance Analyzers 2
 Battle Reports
-Battle Reports
+Relatórios De Batalha
 Milk Bone Treats
 Milk Bone Treats
 OmniDrives
@@ -40418,11 +40418,11 @@ Ruined Tower Keys
 Latent Seeds
 Latent Seeds
 Alloyed Lumps
-Alloyed Lumps
+Pedaços Metálicos
 Alloyed Blades
-Alloyed Blades
+Lâminas Metálicas
 Alloyed Wires
-Alloyed Wires
+Fios Metálicos
 Space-time Shards
 Space-time Shards
 Old USB Drive
@@ -40440,7 +40440,7 @@ Smart Phones
 VS Recorders
 VS Recorders
 Primal Bead
-Primal Bead
+Lágrimas Primitivas
 Primal Clay
 Primal Clay
 Choice Crowns
@@ -40557,11 +40557,11 @@ Test Items
 Test Items
 [9]
 An item that prevents wild Pokémon from appearing for 100 steps after its use.
-An item that prevents wild Pokémon from appearing for 100 steps after its use.
+Um item que previne a aparição de Pokémon selvagens por 100 passos após seu uso.
 Rare contraband. Any average solo trainer will flee from the stench of its explosion.
-Rare contraband. Any average solo trainer will flee from the stench of its explosion.
+Contrabando raro. Qualquer treinador individual mediano fugirá do fedor da explosão.
 Rare contraband. Use it to become invisible to average solo trainers for 15 steps.
-Rare contraband. Use it to become invisible to average solo trainers for 15 steps.
+Contrabando raro. Use para se tornar invisível para treinadores individuais medianos por 15 passos.
 A peculiar stone that makes certain species of Pokémon evolve. It is colored orange.
 Uma pedra peculiar que faz certas espécies de Pokémon evoluírem. Possui um tom alaranjado.
 A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern.
@@ -41207,9 +41207,9 @@ A pack for holding medicine. If you use it, your Aid Kit will gain a max charge.
 A suite of medicines. If you use it, your Aid Kit will heal more efficiently.
 A suite of medicines. If you use it, your Aid Kit will heal more efficiently.
 A stick of dynamite, perfectly suited to destroying small bits of rock.
-A stick of dynamite, perfectly suited to destroying small bits of rock.
+Uma banana de dinamite. É perfeita para destruir pequenos pedaços de pedra.
 A wisp of ideas with infinite potential. Use it on a Pokémon to teach any one of their legal moves.
-A wisp of ideas with infinite potential. Use it on a Pokémon to teach any one of their legal moves.
+Um aglomerado de ideias com potencial infinito. Use para ensinar qualquer movimento lícito a um Pokémon.
 A food grade mining tool. Allows you to extract EXP. Candy from saccharite deposits.
 A food grade mining tool. Allows you to extract EXP. Candy from saccharite deposits.
 A surf board, allowing you to surf on water.
@@ -41257,7 +41257,7 @@ An ancient horn. Sound it to start a 3v3 wild battle. Foes will be higher level 
 Proof of ownership for the house you bought in Prizca East.
 Proof of ownership for the house you bought in Prizca East.
 A small vial of gleaming powder. Can be used once to ensure the next wild Pokémon you find is shiny.
-A small vial of gleaming powder. Can be used once to ensure the next wild Pokémon you find is shiny.
+Um pequeno frasco de pó cintilante. Consuma para garantir que o próximo Pokémon encontrado seja Shiny.
 Infinitely mutating alien DNA. It allows a Pokémon with two abilities to switch abilities when used.
 Infinitely mutating alien DNA. It allows a Pokémon with two abilities to switch abilities when used.
 A hi-tech recording device which creates a Battle Report by analyzing the results of momentous battles.
@@ -41265,7 +41265,7 @@ A hi-tech recording device which creates a Battle Report by analyzing the result
 An upgraded, hi-tech recording device. It increases experience earned from battles by 10%.
 An upgraded, hi-tech recording device. It increases experience earned from battles by 10%.
 A detailed report on how to improve as a trainer. If you decide to read it, your level cap will be raised by 5.
-A detailed report on how to improve as a trainer. If you decide to read it, your level cap will be raised by 5.
+Um relatório detalhado sobre como melhorar como treinador. Caso leia, seu limite de nível aumentará em 5.
 It would be a delicious treat if you were a Pokémon.
 It would be a delicious treat if you were a Pokémon.
 A mysterious data storage device. Plug it into any PC to unlock The Omnitutor.
@@ -41317,11 +41317,11 @@ A key which unlocks the ruined tower on the Sandstone Estuary coastline.
 A simple tree seed. It hums with the potential for great change.
 A simple tree seed. It hums with the potential for great change.
 Misshapen, unusual metal. Useless without a way to sharpen it.
-Misshapen, unusual metal. Useless without a way to sharpen it.
+Metal disforme e incomum. Inútil sem uma forma de afiá-lo.
 A fragile blade of unusual metal. Sharp enough to cut alloyed overgrowth.
-A fragile blade of unusual metal. Sharp enough to cut alloyed overgrowth.
+Uma lâmina frágil de metal incomum. Afiada o suficiente para cortar a vegetação de aço.
 A thin, nearly invisible strand of unusual metal.
-A thin, nearly invisible strand of unusual metal.
+Um fio fino e quase invisível feito de metal incomum.
 A sliver of the fragment of the universe. Highly unstable.
 A sliver of the fragment of the universe. Highly unstable.
 A USB containing data from a Team Chasm's early days.
@@ -41339,7 +41339,7 @@ A smart phone. Use it to take selfies.
 A hi-tech battle recording device. Use it to manage and replay past battles.
 A hi-tech battle recording device. Use it to manage and replay past battles.
 A drop of ancient clay. Use it to summon a Pokemon from a resonating totem.
-A drop of ancient clay. Use it to summon a Pokemon from a resonating totem.
+Uma gota ancestral de argila. Use para invocar um Pokémon em um totem ressonante.
 A lump of ancient clay. Allows you to summon any number of Pokemon from resonating totems.
 A lump of ancient clay. Allows you to summon any number of Pokemon from resonating totems.
 Held item which ups Attacking stats and Speed by 50%, but allows the use of only one move.
