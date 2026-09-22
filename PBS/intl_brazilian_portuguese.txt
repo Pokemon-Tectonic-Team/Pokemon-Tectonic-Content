@@ -38949,29 +38949,29 @@ Shell Bell
 Water Balloon
 Water Balloon
 Mental Herb
-Mental Herb
+Erva Mental
 White Herb
-White Herb
+Erva Branca
 Black Herb
-Black Herb
+Erva Negra
 Agility Herb
-Agility Herb
+Erva Da Agilidade
 Strength Herb
-Strength Herb
+Erva Do Vigor
 Intellect Herb
-Intellect Herb
+Erva Do Intelecto
 Power Herb
-Power Herb
+Erva Da Força
 Energy Herb
-Energy Herb
+Erva De Energia
 Mirror Herb
-Mirror Herb
+Erva Espelhada
 Paradox Herb
-Paradox Herb
+Erva Paradoxal
 Luck Herb
-Luck Herb
+Erva Da Sorte
 Skill Herb
-Skill Herb
+Erva Da Habilidade
 Life Orb
 Life Orb
 Expert Belt
@@ -39852,29 +39852,29 @@ Shell Bells
 Water Balloons
 Water Balloons
 Mental Herbs
-Mental Herbs
+Ervas Mentais
 White Herbs
-White Herbs
+Ervas Brancas
 Black Herbs
-Black Herbs
+Ervas Negras
 Agility Herbs
-Agility Herbs
+Ervas Da Agilidade
 Strength Herbs
-Strength Herbs
+Ervas Do Vigor
 Intellect Herbs
-Intellect Herbs
+Ervas Do Intelecto
 Power Herbs
-Power Herbs
+Ervas Da Força
 Energy Herbs
-Energy Herbs
+Ervas De Energia
 Mirror Herbs
-Mirror Herbs
+Ervas Espelhadas
 Paradox Herbs
-Paradox Herbs
+Ervas Paradoxais
 Luck Herbs
-Luck Herbs
+Ervas Da Sorte
 Skill Herbs
-Skill Herbs
+Ervas Da Habilidade
 Life Orbs
 Life Orbs
 Expert Belts
@@ -40751,29 +40751,29 @@ A held item. The holder restores 1/5th HP of the damage it deals with moves.
 A held item. At half health, the holder breaks the balloon and gains an Aqua Ring, healing 10% HP per turn.
 A held item. At half health, the holder breaks the balloon and gains an Aqua Ring, healing 10% HP per turn.
 A held item. It snaps the holder out of a variety of mental warping effects.
-A held item. It snaps the holder out of a variety of mental warping effects.
+Equipável. É consumida para livrar o usuário de uma variedade de efeitos de manipulação mental.
 A held item. It restores any lowered stat in battle.
-A held item. It restores any lowered stat in battle.
+Equipável. É consumida para restaurar qualquer atributo diminuído em batalha.
 A held item. Lowered stats on the holder are also applied to foes.
-A held item. Lowered stats on the holder are also applied to foes.
+Equipável. Uma vez por batalha, aplica reduções de atributo do portador em adversários.
 A held item. Doubles the Speed of the holder's move once per battle.
-A held item. Doubles the Speed of the holder's move once per battle.
+Equipável. Uma vez por batalha, dobra a Velocidade do portador.
 A held item. Boosts the power of a special move by 15% and makes it physical, once per battle.
-A held item. Boosts the power of a special move by 15% and makes it physical, once per battle.
+Equipável. Uma vez por batalha, aumenta o dano de um ataque especial em 15% e o torna físico.
 A held item. Boosts the power of a physical move by 15% and makes it special, once per battle.
-A held item. Boosts the power of a physical move by 15% and makes it special, once per battle.
+Equipável. Uma vez por batalha, aumenta o dano de um ataque físico em 15% e o torna especial.
 A held item. It allows the immediate use of a move that charges up first.
-A held item. It allows the immediate use of a move that charges up first.
+Equipável. É consumida para permitir o uso imediato de um movimento que precisa ser carregado antes.
 A held item. It allows user to skip the recharging turn of an exhausting move.
-A held item. It allows user to skip the recharging turn of an exhausting move.
+Equipável. É consumida para permitir o portador pular um turno de recarga de um movimento exaustivo.
 A held item. When a foe raises their stats, the herb is consumed to copy the increase.
-A held item. When a foe raises their stats, the herb is consumed to copy the increase.
+Equipável. Quando um oponente aumenta atributos, é consumida para copiar o aumento.
 A held item. When a foe raises their stats, the herb is consumed to reset their stats.
-A held item. When a foe raises their stats, the herb is consumed to reset their stats.
+Equipável. Quando um oponente aumenta atributos, é consumida para zerar os aumentos dele.
 A held item. Ensures a random additional effect activates once per battle.
-A held item. Ensures a random additional effect activates once per battle.
+Equipável. Garante a ativação de um efeito adicional aleatório uma vez por batalha.
 A held item. Ensures a less than full accuracy move lands once per battle.
-A held item. Ensures a less than full accuracy move lands once per battle.
+Equipável. Garante o acerto de movimentos com precisão menor que 100% uma vez por batalha.
 A held item. It boosts the power of moves by 30%, but at the cost of 10% HP on each hit.
 A held item. It boosts the power of moves by 30%, but at the cost of 10% HP on each hit.
 A well-worn belt that boosts the holder's supereffective moves by 20%.
