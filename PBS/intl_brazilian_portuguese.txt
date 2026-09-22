@@ -38881,17 +38881,17 @@ Energy Lock
 Float Stone
 Float Stone
 Assault Vest
-Assault Vest
+Colete De Ataque
 Strike Vest
-Strike Vest
+Colete De Impacto
 Weakness Policy
 Weakness Policy
 Adrenaline Orb
 Adrenaline Orb
 Rocky Helmet
-Rocky Helmet
+Capacete De Pedra
 Hi-Viz Jacket
-Hi-Viz Jacket
+Colete Refletivo
 Eject Button
 Eject Button
 Red Card
@@ -38907,11 +38907,11 @@ Soothe Bell
 Cleanse Tag
 Cleanse Tag
 Choice Band
-Choice Band
+Faixa Da Escolha
 Choice Specs
-Choice Specs
+Óculos Da Escolha
 Choice Scarf
-Choice Scarf
+Lenço Da Escolha
 Lumber Axe
 Lumber Axe
 Heat Rock
@@ -38975,15 +38975,15 @@ Erva Da Habilidade
 Life Orb
 Life Orb
 Expert Belt
-Expert Belt
+Faixa Do Expert
 Metronome
 Metronome
 Muscle Band
-Muscle Band
+Faixa Musculosa
 Wise Glasses
-Wise Glasses
+Óculos De Sabedoria
 7-League Boots
-7-League Boots
+Botas De 7 Léguas
 Scope Lens
 Scope Lens
 Wide Lens
@@ -38991,7 +38991,7 @@ Wide Lens
 Lagging Tail
 Lagging Tail
 Focus Sash
-Focus Sash
+Cinta De Foco
 Flame Orb
 Flame Orb
 Frost Orb
@@ -39001,9 +39001,9 @@ Poison Orb
 Sticky Barb
 Sticky Barb
 Eject Pack
-Eject Pack
+Mochila Ejetora
 Heavy-Duty Boots
-Heavy-Duty Boots
+Botas Espessas
 Throat Spray
 Throat Spray
 Whetstone
@@ -39021,9 +39021,9 @@ Whitening Paste
 Flash Bulb
 Flash Bulb
 Utility Umbrella
-Utility Umbrella
+Para-Sol Multiuso
 Crystal Veil
-Crystal Veil
+Véu Cristalino
 Memory Set
 Memory Set
 Prismatic Plate
@@ -39033,11 +39033,11 @@ Wild Card
 Proxy Fist
 Proxy Fist
 Covert Cloak
-Covert Cloak
+Manto De Ocultação
 Courage Badge
-Courage Badge
+Insígnia Da Coragem
 Clear Amulet
-Clear Amulet
+Amuleto Purificador
 Adamant Crystal
 Adamant Crystal
 Lustrous Globe
@@ -39067,7 +39067,7 @@ Miracle Seed
 Never-Melt Ice
 Never-Melt Ice
 Black Belt
-Black Belt
+Faixa Preta
 Poison Barb
 Poison Barb
 Soft Sand
@@ -39085,11 +39085,11 @@ Spell Tag
 Dragon Fang
 Dragon Fang
 Black Glasses
-Black Glasses
+Óculos Escuros
 Metal Coat
 Metal Coat
 Silk Scarf
-Silk Scarf
+Pano De Seda
 Fairy Feather
 Fairy Feather
 Fire Gem
@@ -39784,17 +39784,17 @@ Energy Locks
 Float Stones
 Float Stones
 Assault Vests
-Assault Vests
+Coletes De Ataque
 Strike Vests
-Strike Vests
+Coletes De Impacto
 Weakness Policies
 Weakness Policies
 Adrenaline Orbs
 Adrenaline Orbs
 Rocky Helmets
-Rocky Helmets
+Capacetes De Pedra
 Hi-Viz Jackets
-Hi-Viz Jackets
+Coletes Refletivos
 Eject Buttons
 Eject Buttons
 Red Cards
@@ -39810,11 +39810,11 @@ Soothe Bells
 Cleanse Tags
 Cleanse Tags
 Choice Bands
-Choice Bands
+Faixas Da Escolha
 Choice Specs
-Choice Specs
+Óculos Da Escolha
 Choice Scarves
-Choice Scarves
+Lenços Da Escolha
 Lumber Axes
 Lumber Axes
 Heat Rocks
@@ -39878,15 +39878,15 @@ Ervas Da Habilidade
 Life Orbs
 Life Orbs
 Expert Belts
-Expert Belts
+Faixas Do Expert
 Metronomes
 Metronomes
 Muscle Bands
-Muscle Bands
+Faixas Musculosas
 Wise Glasses
-Wise Glasses
+Óculos De Sabedoria
 7-League Boots
-7-League Boots
+Botas De 7 Léguas
 Scope Lenses
 Scope Lenses
 Wide Lenses
@@ -39894,7 +39894,7 @@ Wide Lenses
 Lagging Tails
 Lagging Tails
 Focus Sashes
-Focus Sashes
+Cindas De Foco
 Flame Orbs
 Flame Orbs
 Frost Orbs
@@ -39904,9 +39904,9 @@ Poison Orbs
 Sticky Barbs
 Sticky Barbs
 Eject Packs
-Eject Packs
+Mochilas Ejetoras
 Heavy-Duty Boots
-Heavy-Duty Boots
+Botas Espessas
 Throat Sprays
 Throat Sprays
 Whetstones
@@ -39924,9 +39924,9 @@ Whitening Pastes
 Flash Bulbs
 Flash Bulbs
 Utility Umbrellas
-Utility Umbrellas
+Para-Sóis Multiuso
 Crystal Veils
-Crystal Veils
+Véus Cristalinos
 Memory Sets
 Memory Sets
 Prismatic Plates
@@ -39936,11 +39936,11 @@ Wild Cards
 Proxy Fists
 Proxy Fists
 Covert Cloaks
-Covert Cloaks
+Mantos De Ocultação
 Courage Badges
-Courage Badges
+Insígnias Da Coragem
 Clear Amulets
-Clear Amulets
+Amuletos Purificadores
 Adamant Crystals
 Adamant Crystals
 Lustrous Globes
@@ -39970,7 +39970,7 @@ Miracle Seeds
 Never-Melt Ices
 Never-Melt Ices
 Black Belts
-Black Belts
+Faixas Pretas
 Poison Barbs
 Poison Barbs
 Soft Sand
@@ -39988,11 +39988,11 @@ Spell Tags
 Dragon Fangs
 Dragon Fangs
 Black Glasses
-Black Glasses
+Óculos Escuros
 Metal Coats
 Metal Coats
 Silk Scarves
-Silk Scarves
+Panos De Seda
 Fairy Feathers
 Fairy Feathers
 Fire Gems
@@ -40683,17 +40683,17 @@ A held item. In battles, it sets the holder's base Sp. Atk stat to 120.
 A very light stone. It halves the weight of a Pokémon when held.
 A very light stone. It halves the weight of a Pokémon when held.
 A held item. It raises Sp. Def by 50% but prevents the use of status moves.
-A held item. It raises Sp. Def by 50% but prevents the use of status moves.
+Equipável. Aumenta Def. Esp. em 50% mas previne o uso de movimentos de status.
 A held item. It raises Defense by 50% but prevents the use of status moves.
-A held item. It raises Defense by 50% but prevents the use of status moves.
+Equipável. Aumenta Defesa em 50% mas previne o uso de movimentos de status.
 A held item. Its Attack and Sp. Atk raise by four steps if hit by a move it's weak to.
 A held item. Its Attack and Sp. Atk raise by four steps if hit by a move it's weak to.
 When held, it boosts Speed by two steps when intimidated, fascinated, or frustrated once per battle.
 When held, it boosts Speed by two steps when intimidated, fascinated, or frustrated once per battle.
 Damages attackers for 1/8th of their HP when they hit the holder with physical attacks.
-Damages attackers for 1/8th of their HP when they hit the holder with physical attacks.
+Machuca atacantes em 1/8 de seus PV quando atingem o portador com ataques físicos.
 Damages attackers for 1/8th of their HP when they hit the holder with special attacks.
-Damages attackers for 1/8th of their HP when they hit the holder with special attacks.
+Machuca atacantes em 1/8 de seus PV quando atingem o portador com ataques especiais.
 If the holder is hit by an attack, it will switch with another Pokémon in your party.
 If the holder is hit by an attack, it will switch with another Pokémon in your party.
 A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle.
@@ -40709,11 +40709,11 @@ A held item. The comforting chime of this bell makes it gain happiness twice as 
 A held item. It prevents wild Pokémon encounters if the holder is the first one in the party.
 A held item. It prevents wild Pokémon encounters if the holder is the first one in the party.
 Held item which ups Attack by 40%, but allows the use of only one move.
-Held item which ups Attack by 40%, but allows the use of only one move.
+Equipável que aumenta Ataque em 40%, mas permite o uso de apenas um movimento.
 Held item which ups Sp. Atk by 40%, but allows the use of only one move.
-Held item which ups Sp. Atk by 40%, but allows the use of only one move.
+Equipável que aumenta Atk. Esp. em 40%, mas permite o uso de apenas um movimento.
 Held item which boosts Speed by 40% but allows the use of only one move.
-Held item which boosts Speed by 40% but allows the use of only one move.
+Equipável que aumenta Velocidade em 40%, mas permite o uso de apenas um movimento.
 Held item which boosts move damage by 25%, but lowers the user's Speed by 15%.
 Held item which boosts move damage by 25%, but lowers the user's Speed by 15%.
 A held item. When the holder summons sunshine, it lasts 50% longer.
@@ -40777,15 +40777,15 @@ Equipável. Garante o acerto de movimentos com precisão menor que 100% uma vez 
 A held item. It boosts the power of moves by 30%, but at the cost of 10% HP on each hit.
 A held item. It boosts the power of moves by 30%, but at the cost of 10% HP on each hit.
 A well-worn belt that boosts the holder's supereffective moves by 20%.
-A well-worn belt that boosts the holder's supereffective moves by 20%.
+Uma faixa desgastada que aumenta o dano de ataques superefetivos do portador em 20%.
 A held item. Boosts a move used consecutively by 20% more each time. This resets if another move is used.
 A held item. Boosts a move used consecutively by 20% more each time. This resets if another move is used.
 A held item. It is a headband that boosts the power of physical moves by 15%.
-A held item. It is a headband that boosts the power of physical moves by 15%.
+Equipável. É uma bandana que aumenta o dano de ataques físicos em 15%.
 A held item. It is a thick pair of glasses that boosts the power of special moves by 15%.
-A held item. It is a thick pair of glasses that boosts the power of special moves by 15%.
+Equipável. Um par de óculos espesso que aumenta o dano de movimentos especiais em 15%.
 A held item. They are boots that boost Speed by 10%.
-A held item. They are boots that boost Speed by 10%.
+Equipável. São botas que aumentam Velocidade em 10%.
 A held item. Doubles the holder's critical-hit chance.
 A held item. Doubles the holder's critical-hit chance.
 A held item. It is a magnifying lens that boosts the Accuracy of moves by 35%.
@@ -40793,7 +40793,7 @@ A held item. It is a magnifying lens that boosts the Accuracy of moves by 35%.
 Held item which forces the holder to move last in its priority bracket.
 Held item which forces the holder to move last in its priority bracket.
 A held item. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.
-A held item. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.
+Equipável. Caso com PV cheios, o portador aguentará um ataque que o faria desmaiar, ficando com 1 PV.
 A held item. A bizarre orb that inflicts burn on the holder at the end of a turn.
 A held item. A bizarre orb that inflicts burn on the holder at the end of a turn.
 A held item. A bizarre orb that inflicts frostbite on the holder at the end of a turn.
@@ -40803,9 +40803,9 @@ A held item. A bizarre orb that inflicts poison on the holder at the end of a tu
 A held item that damages the holder on every turn. It may latch on to Pokémon that attacks the holder.
 A held item that damages the holder on every turn. It may latch on to Pokémon that attacks the holder.
 A held item. When the holder's stats are lowered, it will be switched out of battle.
-A held item. When the holder's stats are lowered, it will be switched out of battle.
+Equipável. Quando os atributos do portador forem diminuídos, ele sairá de campo.
 These boots prevent the effects of hazards set on the battlefield.
-These boots prevent the effects of hazards set on the battlefield.
+Essas botas previnem os efeitos de armadilhas de campo no campo de batalha.
 Raises Sp. Atk by two steps when the Pokémon uses a sound move the first time each battle.
 Raises Sp. Atk by two steps when the Pokémon uses a sound move the first time each battle.
 Raises Attack by two steps when the Pokémon uses a slice move the first time each battle.
@@ -40823,9 +40823,9 @@ Blinds all foes when the Pokémon uses a biting move the first time each battle.
 Blinds all foes when the Pokémon uses a light move the first time each battle.
 Blinds all foes when the Pokémon uses a light move the first time each battle.
 A held item. The holder is protected from the negative effects of weather.
-A held item. The holder is protected from the negative effects of weather.
+Equipável. O portador é protegido de efeitos negativos de climas.
 A held item. It changes the holder's type in battle. You can change which type between battles.
-A held item. It changes the holder's type in battle. You can change which type between battles.
+Equipável. Muda o tipo do portador durante batalha. Você pode escolher o tipo do item fora de combate.
 A set of memory discs, one for each type. If held by a Silvally, you can change its type between battles.
 A set of memory discs, one for each type. If held by a Silvally, you can change its type between battles.
 A tablet that boosts same-type moves by 20%. If held by Arceus, you can change its type between battles.
@@ -40835,11 +40835,11 @@ An item to be held by a Pokémon. It counts as a member of every tribe.
 A held item. The holder doesn't trigger items, abilities, or effects of targets it hits.
 A held item. The holder doesn't trigger items, abilities, or effects of targets it hits.
 A held item. Moves used against the holder deal 10% less move damage and can't trigger random added effects.
-A held item. Moves used against the holder deal 10% less move damage and can't trigger random added effects.
+Equipável. Movimentos usados contra o portador dão 10% menos dano e não ativam efeitos adicionais aleatórios.
 A held item. The holder is protected from flinching.
-A held item. The holder is protected from flinching.
+Equipável. O portador é protegido de Hesitação.
 A held item. The holder is protected from stat drops (except when self-inflicted).
-A held item. The holder is protected from stat drops (except when self-inflicted).
+Equipável. O portador é protegido de diminuições de atributo (exceto quanto auto-inflingidas).
 When used on Dialga, this large, glowing gem wells with power and allows the Pokémon to change form.
 When used on Dialga, this large, glowing gem wells with power and allows the Pokémon to change form.
 When used on Palkia, this large, glowing orb wells with power and allows the Pokémon to change form.
@@ -40869,7 +40869,7 @@ A seed imbued with life that boosts the holder's Grass-type moves by 20%.
 A piece of ice that repels heat and boosts Ice-type moves by 20%.
 A piece of ice that repels heat and boosts Ice-type moves by 20%.
 A belt that boosts determination and Fighting-type moves by 20%.
-A belt that boosts determination and Fighting-type moves by 20%.
+Uma faixa que dá determinação e aumenta o dano de ataques do tipo Lutador em 20%.
 A small, poisonous barb that boosts the holder's Poison-type moves by 20%.
 A small, poisonous barb that boosts the holder's Poison-type moves by 20%.
 A loose, silky sand that boosts the holder's Ground-type moves by 20%.
@@ -40887,11 +40887,11 @@ A sinister, eerie tag that boosts the holder's Ghost-type moves by 20%.
 A hard and sharp fang that boosts the holder's Dragon-type moves by 20%.
 A hard and sharp fang that boosts the holder's Dragon-type moves by 20%.
 A shady-looking pair of glasses that boosts the holder's Dark-type moves by 20%.
-A shady-looking pair of glasses that boosts the holder's Dark-type moves by 20%.
+Um par de óculos suspeito que aumenta o dano de ataques do tipo Trevas do portador em 20%.
 A special metallic film that boosts the holder's Steel-type moves by 20%.
 A special metallic film that boosts the holder's Steel-type moves by 20%.
 A sumptuous scarf that boosts the holder's Normal-type moves by 20%.
-A sumptuous scarf that boosts the holder's Normal-type moves by 20%.
+Um pano refinado que aumenta o dano de movimentos do tipo Normal do portador em 20%.
 A gleaming feather that boosts the holder's Fairy-type moves by 20%.
 A gleaming feather that boosts the holder's Fairy-type moves by 20%.
 A gem with an essence of fire. Boosts the power of a Fire-type move by 50% once per battle.
