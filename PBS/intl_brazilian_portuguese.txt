@@ -38761,43 +38761,43 @@ Stink Bomb
 Stealth Spray
 Stealth Spray
 Fire Stone
-Fire Stone
+Pedra De Fogo
 Thunder Stone
-Thunder Stone
+Pedra Do Trovão
 Water Stone
-Water Stone
+Pedra D'Água
 Leaf Stone
-Leaf Stone
+Pedra De Folha
 Moon Stone
-Moon Stone
+Pedra Lunar
 Sun Stone
-Sun Stone
+Pedra Solar
 Dusk Stone
-Dusk Stone
+Pedra Do Crepúsculo
 Dawn Stone
-Dawn Stone
+Pedra Da Alvorada
 Shiny Stone
-Shiny Stone
+Pedra Brilhante
 Ice Stone
-Ice Stone
+Pedra Gelo
 Prism Stone
-Prism Stone
+Pedra Prismática
 Diamond Tiara
-Diamond Tiara
+Tiara De Diamante
 Knight Helmet
-Knight Helmet
+Elmo De Cavaleiro
 Ninja Scarf
-Ninja Scarf
+Cachecol Ninja
 Alolan Wreath
-Alolan Wreath
+Adorno De Alola
 Galarica Wreath
-Galarica Wreath
+Adorno De Galanoz
 Sweet Apple
-Sweet Apple
+Maçã Doce
 Tart Apple
-Tart Apple
+Maçã Azeda
 Syrupy Apple
-Syrupy Apple
+Maçã Xaropenta
 Helix Fossil
 Helix Fossil
 Dome Fossil
@@ -39379,7 +39379,7 @@ Grass Token
 Water Token
 Water Token
 Origin Ore
-Origin Ore
+Minério Da Origem
 Fire Token
 Fire Token
 Dratini Egg
@@ -39664,43 +39664,43 @@ Stink Bomb
 Stealth Spray
 Stealth Spray
 Fire Stones
-Fire Stones
+Pedras De Fogo
 Thunder Stones
-Thunder Stones
+Pedras Do Trovão
 Water Stones
-Water Stones
+Pedras D'Água
 Leaf Stones
-Leaf Stones
+Pedras De Folha
 Moon Stones
-Moon Stones
+Pedras Lunares
 Sun Stones
-Sun Stones
+Pedras Solares
 Dusk Stones
-Dusk Stones
+Pedras Do Crepúsculo
 Dawn Stones
-Dawn Stones
+Pedras Da Alvorada
 Shiny Stones
-Shiny Stones
+Pedras Brilhantes
 Ice Stones
-Ice Stones
+Pedras Gelo
 Prism Stones
-Prism Stones
+Pedras Prismáticas
 Diamond Tiaras
-Diamond Tiaras
+Tiaras De Diamante
 Knight Helmets
-Knight Helmets
+Elmos De Cavaleiro
 Ninja Scarves
-Ninja Scarves
+Cachecóis Ninja
 Alolan Wreathes
-Alolan Wreathes
+Adornos De Alola
 Galarica Wreaths
-Galarica Wreaths
+Adornos De Galar
 Sweet Apples
-Sweet Apples
+Maçãs Doces
 Tart Apples
-Tart Apples
+Maçãs Azedas
 Syrupy Apples
-Syrupy Apples
+Maçãs Xaropentas
 Helix Fossils
 Helix Fossils
 Dome Fossils
@@ -40282,7 +40282,7 @@ Grass Tokens
 Water Tokens
 Water Tokens
 Origin Ores
-Origin Ores
+Minérios Da Origem
 Fire Tokens
 Fire Tokens
 Dratini Eggs
@@ -40563,43 +40563,43 @@ Rare contraband. Any average solo trainer will flee from the stench of its explo
 Rare contraband. Use it to become invisible to average solo trainers for 15 steps.
 Rare contraband. Use it to become invisible to average solo trainers for 15 steps.
 A peculiar stone that makes certain species of Pokémon evolve. It is colored orange.
-A peculiar stone that makes certain species of Pokémon evolve. It is colored orange.
+Uma pedra peculiar que faz certas espécies de Pokémon evoluírem. Possui um tom alaranjado.
 A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern.
-A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern.
+Uma pedra peculiar que faz certas espécies de Pokémon evoluírem. Possui um padrão de raio.
 A peculiar stone that makes certain species of Pokémon evolve. It is a clear, light blue.
-A peculiar stone that makes certain species of Pokémon evolve. It is a clear, light blue.
+Uma pedra peculiar que faz certas espécies de Pokémon evoluírem. Possui um tom claro e azul.
 A peculiar stone that makes certain species of Pokémon evolve. It has a leaf pattern.
-A peculiar stone that makes certain species of Pokémon evolve. It has a leaf pattern.
+Uma pedra peculiar que faz certas espécies de Pokémon evoluírem. Possui um padrão de folha.
 A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.
-A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky.
+Uma pedra peculiar que faz certas espécies de Pokémon evoluírem. É tão negra quanto o céu noturno.
 A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun.
-A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun.
+Uma pedra peculiar que faz certas espécies de Pokémon evoluírem. É tão rubra quanto o sol.
 A peculiar stone that makes certain species of Pokémon evolve. It is as dark as dark can be.
-A peculiar stone that makes certain species of Pokémon evolve. It is as dark as dark can be.
+Uma pedra peculiar que faz certas espécies de Pokémon evoluírem. É tão escura quanto a escuridão pode ser.
 A peculiar stone that makes certain species of Pokémon evolve. It sparkles like eyes.
-A peculiar stone that makes certain species of Pokémon evolve. It sparkles like eyes.
+Uma pedra peculiar que faz certas espécies de Pokémon evoluírem. Ela cintila como olhos.
 A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light.
-A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light.
+Uma pedra peculiar que faz certas espécies de Pokémon evoluírem. Ela brilha com uma luz ofuscante.
 A peculiar stone that makes certain species of Pokémon evolve. It has a snowflake pattern.
-A peculiar stone that makes certain species of Pokémon evolve. It has a snowflake pattern.
+Uma pedra peculiar que faz certas espécies de Pokémon evoluírem. Possui um padrão de floco de neve.
 A many-colored stone that makes a lot of Pokémon evolve. Can be used in place of any evolution stone.
-A many-colored stone that makes a lot of Pokémon evolve. Can be used in place of any evolution stone.
+Uma pedra multicolorida que faz muitos Pokémon evoluírem. Substitui qualquer pedra de evolução.
 A glimmering tiara made of diamonds. It makes a certain Pokémon evolve.
-A glimmering tiara made of diamonds. It makes a certain Pokémon evolve.
+Uma tiara brilhante feita de diamantes. Faz um certo Pokémon evoluir.
 A shining helmet. It makes a certain Pokémon evolve.
-A shining helmet. It makes a certain Pokémon evolve.
+Um elmo brilhante. Faz um certo Pokémon evoluir.
 A cool scarf. It makes a certain Pokémon evolve.
-A cool scarf. It makes a certain Pokémon evolve.
+Um cachecol estiloso. Faz um certo Pokémon evoluir.
 A beautiful floral wreath from Alola that makes certain species of Pokémon evolve.
-A beautiful floral wreath from Alola that makes certain species of Pokémon evolve.
+Um lindo adorno floral de Alola que faz certas espécies de Pokémon evoluírem.
 A wreath made from woven Galarica Twigs. It makes certain species of Pokémon evolve.
-A wreath made from woven Galarica Twigs. It makes certain species of Pokémon evolve.
+Um adorno feito de Galhos De Galanoz que faz certas espécies de Pokémon evoluírem.
 A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally sweet.
-A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally sweet.
+Uma maçã peculiar que faz uma certa espécie de Pokémon evoluir. É excepcionalmente doce.
 A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally tart.
-A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally tart.
+Uma maçã peculiar que faz uma certa espécie de Pokémon evoluir. É excepcionalmente azeda.
 A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally syrupy.
-A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally syrupy.
+Uma maçã peculiar que faz uma certa espécie de Pokémon evoluir. É excepcionalmente xaropenta.
 A fossil of an ancient Pokémon that lived in the sea. It resembles Omanyte.
 A fossil of an ancient Pokémon that lived in the sea. It resembles Omanyte.
 A fossil of an ancient Pokémon that lived in the sea. It resembles Kabuto.
@@ -41181,7 +41181,7 @@ A token which can be exchanged for a Grass-type at the Starter Store in Novo Tow
 A token which can be exchanged for a Water-type at the Starter Store in Novo Town.
 A token which can be exchanged for a Water-type at the Starter Store in Novo Town.
 A peculiar ore that makes certain species of Pokémon evolve. Associated with Arceus.
-A peculiar ore that makes certain species of Pokémon evolve. Associated with Arceus.
+Um minério peculiar que faz certas espécies de Pokémon evoluírem. Associado a Arceus.
 A token which can be exchanged for a Fire-type at the Starter Store in Novo Town.
 A token which can be exchanged for a Fire-type at the Starter Store in Novo Town.
 An abandoned Dratini egg that is cold and calm. Only an expert would be able to hatch it.
