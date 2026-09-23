@@ -39347,15 +39347,15 @@ N-Lunarizer
 Zygarde Cube
 Zygarde Cube
 Exp. Candy XS
-Exp. Candy XS
+Doce De Exp. PP
 Exp. Candy S
-Exp. Candy S
+Doce De Exp. P
 Exp. Candy M
-Exp. Candy M
+Doce De Exp. M
 Exp. Candy L
-Exp. Candy L
+Doce De Exp. G
 Exp. Candy XL
-Exp. Candy XL
+Doce De Exp. GG
 Fossilized Bird
 Fossilized Bird
 Fossilized Fish
@@ -39423,7 +39423,7 @@ Abraporter
 Rematerializer
 Rematerializer
 EXP-EZ Dispenser
-EXP-EZ Dispenser
+REXPartidor
 Universal Formalizer
 Universal Formalizer
 Spanning Bands
@@ -40250,15 +40250,15 @@ N-Lunarizers
 Zygarde Cubes
 Zygarde Cubes
 Exp. Candies XS
-Exp. Candies XS
+Doces De Exp. PP
 Exp. Candies S
-Exp. Candies S
+Doces De Exp. P
 Exp. Candies M
-Exp. Candies M
+Doces De Exp. M
 Exp. Candies L
-Exp. Candies L
+Doces De Exp. G
 Exp. Candies XL
-Exp. Candies XL
+Doces De Exp. GG
 Fossilized Birds
 Fossilized Birds
 Fossilized Fishes
@@ -40326,7 +40326,7 @@ Abraporters
 Rematerializers
 Rematerializers
 EXP-EZ Dispensers
-EXP-EZ Dispensers
+REXPartidores
 Universal Formalizers
 Universal Formalizers
 Spanning Bands
@@ -40963,7 +40963,7 @@ Uma bebida muito doce. Restaura os PV de um Pokémon em 150 pontos.
 Nutritious milk. It fully restores the HP and heals any status problems of a single Pokémon.
 Leite nutritivo. Restaura totalmente os PV e cura quaisquer problemas de status de um Pokémon.
 A candy that is packed with energy. It raises the level of a single Pokémon by one.
-A candy that is packed with energy. It raises the level of a single Pokémon by one.
+Um doce cheio de energia. Quando consumido, aumenta o nível de um Pokémon em 1.
 Fried dough dipped in vanilla syrup. Heals a single Pokémon by 100 HP, and grants it 4000 Experience points.
 Massa frita mergulhada em xarope de baunilha. Cura um Pokémon em 100 PV e lhe dá 4000 pontos de Experiência.
 A special Poké Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.
@@ -41149,15 +41149,15 @@ A machine to fuse Necrozma, which needs light, and Lunala.
 An item holding Zygarde's Cores and Cells. You can use it to change Zygarde's form.
 An item holding Zygarde's Cores and Cells. You can use it to change Zygarde's form.
 A candy that is packed with energy. When consumed, it will grant a single Pokémon 250 Exp. Points.
-A candy that is packed with energy. When consumed, it will grant a single Pokémon 250 Exp. Points.
+Um doce cheio de energia. Quando consumido, dará a um Pokémon 250 pontos de Exp.
 A candy that is packed with energy. When consumed, it will grant a single Pokémon 1000 Exp. Points.
-A candy that is packed with energy. When consumed, it will grant a single Pokémon 1000 Exp. Points.
+Um doce cheio de energia. Quando consumido, dará a um Pokémon 1.000 pontos de Exp.
 A candy that is packed with energy. When consumed, it will grant a single Pokémon 4,000 Exp. Points.
-A candy that is packed with energy. When consumed, it will grant a single Pokémon 4,000 Exp. Points.
+Um doce cheio de energia. Quando consumido, dará a um Pokémon 4.000 pontos de Exp.
 A candy that is packed with energy. When consumed, it will grant a single Pokémon 16,000 Exp. Points.
-A candy that is packed with energy. When consumed, it will grant a single Pokémon 16,000 Exp. Points.
+Um doce cheio de energia. Quando consumido, dará a um Pokémon 16.000 pontos de Exp.
 A candy that is packed with energy. When consumed, it will grant a single Pokémon 64,000 Exp. Points.
-A candy that is packed with energy. When consumed, it will grant a single Pokémon 64,000 Exp. Points.
+Um doce cheio de energia. Quando consumido, dará a um Pokémon 64.000 pontos de Exp.
 The fossil of an ancient Pokémon that once soared through the sky. Is it Arctozolt or Dracozolt...?
 The fossil of an ancient Pokémon that once soared through the sky. Is it Arctozolt or Dracozolt...?
 The fossil of an ancient Pokémon that once lived in the sea. Is it Arctovish or Dracovish...?
@@ -41225,7 +41225,7 @@ A teleporter which brings you to your last safe spot using the power of Abras.
 A 3D printer which automatically copies consumed held items after battles.
 A 3D printer which automatically copies consumed held items after battles.
 A machine that stores EXP Candy and excess EXP. Use it on your Pokémon to feed them candy.
-A machine that stores EXP Candy and excess EXP. Use it on your Pokémon to feed them candy.
+Uma máquina que armazena Doces De Exp. Use em seus Pokémon para dá-los os Doces.
 Use on a Pokémon to switch it into another one of its forms.
 Use on a Pokémon to switch it into another one of its forms.
 An ancient pair of interlocking ceramic rings. Unlocks the ability to teleport between Avatar Totems.
