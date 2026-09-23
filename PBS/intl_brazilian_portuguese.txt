@@ -39129,41 +39129,41 @@ Jóia Trivial
 Fairy Gem
 Jóia Benevolente
 Potion
-Potion
+Poção
 Super Potion
-Super Potion
+Superpoção
 Hyper Potion
-Hyper Potion
+Hiperpoção
 Max Potion
-Max Potion
+Poção Máxima
 Full Restore
-Full Restore
+Restauração Total
 Sacred Ash
-Sacred Ash
+Cinza Sagrada
 Lava Cookie
-Lava Cookie
+Biscoito De Lava
 Old Gateau
-Old Gateau
+Doce Da Floresta
 Casteliacone
-Casteliacone
+Sorvete De Castelia
 Berry Juice
-Berry Juice
+Suco De Fruta
 Rage Candy Bar
-Rage Candy Bar
+Pão Doce Da Fúria
 Sweet Heart
-Sweet Heart
+Coração Doce
 Fresh Water
-Fresh Water
+Água Fresca
 Soda Pop
-Soda Pop
+Refrigerante
 Lemonade
-Lemonade
+Limonada
 Moomoo Milk
-Moomoo Milk
+Leite De Moomoo
 Rare Candy
 Rare Candy
 Vanilla Tulumba
-Vanilla Tulumba
+Churro De Baunilha
 Safari Ball
 Safari Ball
 Sport Ball
@@ -39331,13 +39331,13 @@ Light Stone
 Dark Stone
 Dark Stone
 Lumiose Galette
-Lumiose Galette
+Crepe De Lumiose
 Shalour Sable
-Shalour Sable
+Biscoito De Shalour
 Big Malasada
-Big Malasada
+Sonho Grande
 Ability Capsule
-Ability Capsule
+Cápsula Habilidade
 Prison Bottle
 Prison Bottle
 N-Solarizer
@@ -39401,9 +39401,9 @@ Eevee Ticket
 Aid Kit
 Aid Kit
 Kit Expansion
-Kit Expansion
+Expansão De Kit
 Medical Upgrade
-Medical Upgrade
+Upgrade Médico
 Dynamite Stick
 Banana De Dinamite
 Figment
@@ -40032,41 +40032,41 @@ Jóias Triviais
 Fairy Gems
 Jóias Benevolentes
 Potions
-Potions
+Poções
 Super Potions
-Super Potions
+Superpoções
 Hyper Potions
-Hyper Potions
+Hiperpoções
 Max Potions
-Max Potions
+Poções Máximas
 Full Restores
-Full Restores
+Restaurações Totais
 Sacred Ashes
-Sacred Ashes
+Cinzas Sagradas
 Lava Cookies
-Lava Cookies
+Biscoitos De Lava
 Old Gateaux
-Old Gateaux
+Doces Da Floresta
 Casteliacones
-Casteliacones
+Sorvetes De Castelia
 Berry Juices
-Berry Juices
+Sucos De Fruta
 Rage Candy Bars
-Rage Candy Bars
+Pães Doces Da Fúria
 Sweet Hearts
-Sweet Hearts
+Corações Doces
 Fresh Waters
-Fresh Waters
+Águas Frescas
 Soda Pops
-Soda Pops
+Refrigerantes
 Lemonades
-Lemonades
+Limonadas
 Moomoo Milks
-Moomoo Milks
+Leite De Moomoo
 Rare Candies
 Rare Candies
 Vanilla Tulumba
-Vanilla Tulumba
+Churros De Baunilha
 Safari Balls
 Safari Balls
 Sport Balls
@@ -40234,13 +40234,13 @@ Light Stones
 Dark Stones
 Dark Stones
 Lumiose Galettes
-Lumiose Galettes
+Crepes De Lumiose
 Shalour Sables
-Shalour Sables
+Biscoitos De Shalour
 Big Malasadas
-Big Malasadas
+Sonhos Grandes
 Ability Capsule
-Ability Capsule
+Cápsulas Habilidade
 Prison Bottles
 Prison Bottles
 N-Solarizers
@@ -40304,9 +40304,9 @@ Eevee Tickets
 Aid Kits
 Aid Kits
 Kit Expansion
-Kit Expansion
+Expansões De Kit
 Medical Upgrades
-Medical Upgrades
+Upgrade Médico
 Dynamite Sticks
 Bananas De Dinamite
 Figments
@@ -40931,41 +40931,41 @@ Uma Jóia de essência ordinária.<<n>>Aumenta o dano de um ataque do tipo Norma
 A gem with an essence of the fey. Boosts the power of a Fairy-type move by 50% once per battle.
 Uma Jóia de essência etérea.<<n>>Aumenta o dano de um ataque do tipo Fada em 50% 1x por batalha.
 A spray-type medicine for wounds. It restores the HP of one Pokémon, fainted or able, by 40 points.
-A spray-type medicine for wounds. It restores the HP of one Pokémon, fainted or able, by 40 points.
+Um medicamento borrifável. Restaura os PV de um Pokémon, desmaiado ou não, em 40 pontos
 A spray-type medicine for wounds. It restores the HP of one Pokémon, fainted or able, by 80 points.
-A spray-type medicine for wounds. It restores the HP of one Pokémon, fainted or able, by 80 points.
+Um medicamento borrifável. Restaura os PV de um Pokémon, desmaiado ou não, em 80 pontos
 A spray-type medicine for wounds. It restores the HP of one Pokémon, fainted or able, by 120 points.
-A spray-type medicine for wounds. It restores the HP of one Pokémon, fainted or able, by 120 points.
+Um medicamento borrifável. Restaura os PV de um Pokémon, desmaiado ou não, em 120 pontos.
 A spray-type medicine for wounds. It completely restores the HP of a single Pokémon, fainted or able.
-A spray-type medicine for wounds. It completely restores the HP of a single Pokémon, fainted or able.
+Um medicamento borrifável. Restaura completamente os PV de um Pokémon, desmaiado ou não.
 A medicine that fully restores the HP and heals any status problems of a single Pokémon, fainted or able.
-A medicine that fully restores the HP and heals any status problems of a single Pokémon, fainted or able.
+Um medicamento que cura totalmente os PV e problemas de status de um Pokémon, desmaiado ou não.
 It revives all fainted Pokémon. In doing so, it also fully restores their HP.
-It revives all fainted Pokémon. In doing so, it also fully restores their HP.
+Revive todos os Pokémon desmaiados. Além disso, também recupera totalmente seus PV.
 Lavaridge Town's local specialty. It heals all the status problems of one Pokémon.
-Lavaridge Town's local specialty. It heals all the status problems of one Pokémon.
+Especialidade local da Cidade De Lavaridge. Cura todos os problemas de status de um Pokémon.
 Old Chateau's hidden specialty. It heals all the status problems of a single Pokémon.
-Old Chateau's hidden specialty. It heals all the status problems of a single Pokémon.
+Especiaria secreta da Mansão Da Floresta. Cura todos os problemas de status de um Pokémon.
 Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon.
-Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon.
+Especialidade da Cidade De Castelia, sorvete expresso. Cura os problemas de status de um único Pokémon.
 A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points.
-A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points.
+Um suco 100% puro feito de frutas. Recupera os PV de um Pokémon em apenas 20 pontos.
 Mahogany Town's famous candy. It can be used once to heal all the status conditions of a Pokémon.
-Mahogany Town's famous candy. It can be used once to heal all the status conditions of a Pokémon.
+Doce famoso da Cidade De Mahogany. Use-o para curar todas as condições de status de um Pokémon.
 Very sweet chocolate. It restores the HP of one Pokémon by 40 points and makes it happier.
-Very sweet chocolate. It restores the HP of one Pokémon by 40 points and makes it happier.
+Chocolate bem doce. Recupera os PV de um Pokémon em 40 pontos e o torna mais feliz.
 Water with a high mineral content. It restores the HP of one Pokémon by 50 points.
-Water with a high mineral content. It restores the HP of one Pokémon by 50 points.
+Água com alto teor de mineirais. Recupera os PV de um Pokémon em 50 pontos.
 A fizzy soda drink. It restores the HP of one Pokémon by 100 points.
-A fizzy soda drink. It restores the HP of one Pokémon by 100 points.
+Uma bebida gaseificada. Use-o para curar todas as condições de status de um Pokémon.
 A very sweet drink. It restores the HP of one Pokémon by 150 points.
-A very sweet drink. It restores the HP of one Pokémon by 150 points.
+Uma bebida muito doce. Restaura os PV de um Pokémon em 150 pontos.
 Nutritious milk. It fully restores the HP and heals any status problems of a single Pokémon.
-Nutritious milk. It fully restores the HP and heals any status problems of a single Pokémon.
+Leite nutritivo. Restaura totalmente os PV e cura quaisquer problemas de status de um Pokémon.
 A candy that is packed with energy. It raises the level of a single Pokémon by one.
 A candy that is packed with energy. It raises the level of a single Pokémon by one.
 Fried dough dipped in vanilla syrup. Heals a single Pokémon by 100 HP, and grants it 4000 Experience points.
-Fried dough dipped in vanilla syrup. Heals a single Pokémon by 100 HP, and grants it 4000 Experience points.
+Massa frita mergulhada em xarope de baunilha. Cura um Pokémon em 100 PV e lhe dá 4000 pontos de Experiência.
 A special Poké Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.
 A special Poké Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.
 A special Poké Ball for the Bug-Catching Contest.
@@ -41133,13 +41133,13 @@ Reshiram's body, in stone form. An expert in ancient relics may be able to trans
 Zekrom's body, in stone form. An expert in ancient relics may be able to transform it.
 Zekrom's body, in stone form. An expert in ancient relics may be able to transform it.
 A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon.
-A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon.
+Um aperitivo popular na Cidade De Lumiose. Use-o para curar todas as condições de status de um Pokémon.
 Shalour City's famous shortbread. It can be used once to heal all the status conditions of a Pokémon.
-Shalour City's famous shortbread. It can be used once to heal all the status conditions of a Pokémon.
+O famoso biscoito amanteigado de Shalour. Use-o para curar todas as condições de status de um Pokémon.
 The Alola region's specialty--fried bread. It can be used once to heal all the status conditions of a Pokémon.
-The Alola region's specialty--fried bread. It can be used once to heal all the status conditions of a Pokémon.
+A especialidade de Alola--pão frito. Pode ser usado uma vez para curar as condições de status de um Pokémon.
 A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used.
-A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used.
+Uma cápsula que, ao ser usada, permite que um Pokémon com duas habilidades alterne entre elas.
 A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago.
 A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago.
 A machine to fuse Necrozma, which needs light, and Solgaleo.
@@ -41203,9 +41203,9 @@ A ticket that can be exchanged for an Eevee at the Skeevy Eevee Pub.
 Heals your whole team a limited number of times. Restocked at PokeCenters and after resting.
 Heals your whole team a limited number of times. Restocked at PokeCenters and after resting.
 A pack for holding medicine. If you use it, your Aid Kit will gain a max charge.
-A pack for holding medicine. If you use it, your Aid Kit will gain a max charge.
+Um pacote para guardar remédios. Se usá-lo, seu Kit médico ganhará mais uma carga máxima.
 A suite of medicines. If you use it, your Aid Kit will heal more efficiently.
-A suite of medicines. If you use it, your Aid Kit will heal more efficiently.
+Um conjunto de medicamentos. Se usá-lo, seu Kit Médico curará mais eficientemente.
 A stick of dynamite, perfectly suited to destroying small bits of rock.
 Uma banana de dinamite. É perfeita para destruir pequenos pedaços de pedra.
 A wisp of ideas with infinite potential. Use it on a Pokémon to teach any one of their legal moves.
