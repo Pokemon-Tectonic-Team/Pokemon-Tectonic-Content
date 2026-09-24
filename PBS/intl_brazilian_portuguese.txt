@@ -805,66 +805,40 @@ Dozens of paper bookmarks dot the pages of a book titled "A History of Ferrous M
 Dozens of paper bookmarks dot the pages of a book titled "A History of Ferrous Mining Techniques."
 [Map5]
 [Map6]
-The crate is emblazoned with the logo for a "Laverre City Manufactoring Co."
-The crate is emblazoned with the logo for a "Laverre City Manufactoring Co."
-I really wish the vendor here would sell coffee.
-I really wish the vendor here would sell coffee.
-There's a high demand for it, and no one wants to walk through an entire cave just to visit the cafe in Novo Town.
-There's a high demand for it, and no one wants to walk through an entire cave just to visit the cafe in Novo Town.
 I was supposed to have a meeting with Kurt today about gracefully decommissioning some of the cluster, but he never showed up.
 I was supposed to have a meeting with Kurt today about gracefully decommissioning some of the cluster, but he never showed up.
 Doesn’t he know that maintaining legacy systems adds unnecessary fragility?
 Doesn’t he know that maintaining legacy systems adds unnecessary fragility?
-A Shiny Corviknight!
-A Shiny Corviknight!
-It's too busy watching the campus to notice you.
-It's too busy watching the campus to notice you.
+I really wish the vendor here would sell coffee.
+I really wish the vendor here would sell coffee.
+There's a high demand for it, and no one wants to walk through an entire cave just to visit the cafe in Novo Town.
+There's a high demand for it, and no one wants to walk through an entire cave just to visit the cafe in Novo Town.
+The crate is emblazoned with the logo for a "Laverre City Manufactoring Co."
+The crate is emblazoned with the logo for a "Laverre City Manufactoring Co."
 You and Helena had something secretive to discuss, is that it?
 You and Helena had something secretive to discuss, is that it?
 I'd love to ask, but, well, I need this job more than I need to satisfy my curiosity.
 I'd love to ask, but, well, I need this job more than I need to satisfy my curiosity.
 Either way, that was a great battle!
 Either way, that was a great battle!
-It smells delicious inside!
-It smells delicious inside!
-Closed while Helena participates in the Makya Championship Tournament.
-Closed while Helena participates in the Makya Championship Tournament.
+A Shiny Corviknight!
+A Shiny Corviknight!
+It's too busy watching the campus to notice you.
+It's too busy watching the campus to notice you.
+It’s hard to get promoted when the top level talent here are former Team Chasm lieutenants.
+It’s hard to get promoted when the top level talent here are former Team Chasm lieutenants.
+They're such good battlers. It makes one jealous.
+They're such good battlers. It makes one jealous.
 We're trying to debug some major issues with the older supply chain databases.
 We're trying to debug some major issues with the older supply chain databases.
 Kurt and Pearce were talking about just wiping the thing.
 Kurt and Pearce were talking about just wiping the thing.
 Just because they used to be Helena's lieutenants doesn't mean she won't have their hide if she catches them cutting corners!
 Just because they used to be Helena's lieutenants doesn't mean she won't have their hide if she catches them cutting corners!
-It’s hard to get promoted when the top level talent here are former Team Chasm lieutenants.
-It’s hard to get promoted when the top level talent here are former Team Chasm lieutenants.
-They're such good battlers. It makes one jealous.
-They're such good battlers. It makes one jealous.
-"Catch a Break" Poké Balls
-"Catch a Break" Poké Balls
-"LuxTech Campus, where the future begins!"
-"LuxTech Campus, where the future begins!"
-You one of the new hires?
-You one of the new hires?
-Get me a coffee, chop chop.
-Get me a coffee, chop chop.
-Well, go get some, then. I don't have all day.
-Well, go get some, then. I don't have all day.
-Wow, this is some good stuff!
-Wow, this is some good stuff!
-I can already feel the energy coursing through my body.
-I can already feel the energy coursing through my body.
-I won't be needing to tide myself over with these anymore.
-I won't be needing to tide myself over with these anymore.
-Well I don't see any on you. We don't pay you to waste our time with jokes!
-Well I don't see any on you. We don't pay you to waste our time with jokes!
-This coffee ain't that great, kid.
-This coffee ain't that great, kid.
-In fact, it's awful. You're fired.
-In fact, it's awful. You're fired.
-Pack up your things and leave, wherever you work at.
-Pack up your things and leave, wherever you work at.
-LuxPark: A place of smiles.
-LuxPark: A place of smiles.
+Closed while Helena participates in the Makya Championship Tournament.
+Closed while Helena participates in the Makya Championship Tournament.
+It smells delicious inside!
+It smells delicious inside!
 You might be wondering how I nabbed myself a timeslot to fight Helena.
 You might be wondering how I nabbed myself a timeslot to fight Helena.
 But I'll never tell, teehee!
@@ -895,50 +869,80 @@ I'm a bit disappointed. Well, let's avoid getting too cocky. I should actually m
 I'm a bit disappointed. Well, let's avoid getting too cocky. I should actually make my attempt before judging.
 Bye bye!
 Bye bye!
+LuxPark: A place of smiles.
+LuxPark: A place of smiles.
+You one of the new hires?
+You one of the new hires?
+Get me a coffee, chop chop.
+Get me a coffee, chop chop.
+Well, go get some, then. I don't have all day.
+Well, go get some, then. I don't have all day.
+Wow, this is some good stuff!
+Wow, this is some good stuff!
+I can already feel the energy coursing through my body.
+I can already feel the energy coursing through my body.
+I won't be needing to tide myself over with these anymore.
+I won't be needing to tide myself over with these anymore.
+Well I don't see any on you. We don't pay you to waste our time with jokes!
+Well I don't see any on you. We don't pay you to waste our time with jokes!
+This coffee ain't that great, kid.
+This coffee ain't that great, kid.
+In fact, it's awful. You're fired.
+In fact, it's awful. You're fired.
+Pack up your things and leave, wherever you work at.
+Pack up your things and leave, wherever you work at.
+"LuxTech Campus, where the future begins!"
+"LuxTech Campus, where the future begins!"
+"Catch a Break" Poké Balls
+"Catch a Break" Poké Balls
+You ever have someone bother you out of nowhere?
+You ever have someone bother you out of nowhere?
+Just have your Pokemon give 'em one of these, and they'll leave you alone quick.
+Just have your Pokemon give 'em one of these, and they'll leave you alone quick.
+Yeah, that'll do.
+Yeah, that'll do.
+Either you give 'em one of those, or you bribe 'em with some stuff you don't need.
+Either you give 'em one of those, or you bribe 'em with some stuff you don't need.
+I'm figuring out vacation spots here in Makya.
+I'm figuring out vacation spots here in Makya.
+Visiting the ice cave seems wonderful, but the looming threat of Avatars really throws a wrench in things...
+Visiting the ice cave seems wonderful, but the looming threat of Avatars really throws a wrench in things...
 LuxTech Main
 Sede Da LuxTech
-I'm figuring out vacation spots here in Makya.
-I'm figuring out vacation spots here in Makya.
-Visiting the ice cave seems wonderful, but the looming threat of Avatars really throws a wrench in things...
-Visiting the ice cave seems wonderful, but the looming threat of Avatars really throws a wrench in things...
-You ever have someone bother you out of nowhere?
-You ever have someone bother you out of nowhere?
-Just have your Pokemon give 'em one of these, and they'll leave you alone quick.
-Just have your Pokemon give 'em one of these, and they'll leave you alone quick.
-Yeah, that'll do.
-Yeah, that'll do.
-Either you give 'em one of those, or you bribe 'em with some stuff you don't need.
-Either you give 'em one of those, or you bribe 'em with some stuff you don't need.
-The door is securely locked.
-The door is securely locked.
-A sign reads "Schedule your gym appointments in the large building to the west."
-A sign reads "Schedule your gym appointments in the large building to the west."
-I decided to come here on a whim.
-I decided to come here on a whim.
-This park sucks.
-This park sucks.
-I can't believe they even called it one.
-I can't believe they even called it one.
 LuxTech Campus Gym
 LuxTech Campus Gym
 Leader: Helena
 Leader: Helena
 Shocking strategy, typhoon tactics!
 Shocking strategy, typhoon tactics!
-LuxTech's Makya campus is more than just a workplace.
-LuxTech's Makya campus is more than just a workplace.
-We're also the undisputed capital of scientific research across the whole region!
-We're also the undisputed capital of scientific research across the whole region!
-At least that's what I tell investors.
-At least that's what I tell investors.
+I decided to come here on a whim.
+I decided to come here on a whim.
+This park sucks.
+This park sucks.
+I can't believe they even called it one.
+I can't believe they even called it one.
+The door is securely locked.
+The door is securely locked.
+A sign reads "Schedule your gym appointments in the large building to the west."
+A sign reads "Schedule your gym appointments in the large building to the west."
+LuxTech Sewage Engineering Entrance
+LuxTech Sewage Engineering Entrance
 Don't you think this wall is ugly?
 Don't you think this wall is ugly?
 Gigantic, and perfectly straight.
 Gigantic, and perfectly straight.
 Kind of ruins the natural beauty of this area.
 Kind of ruins the natural beauty of this area.
-LuxTech Sewage Engineering Entrance
-LuxTech Sewage Engineering Entrance
+LuxTech's Makya campus is more than just a workplace.
+LuxTech's Makya campus is more than just a workplace.
+We're also the undisputed capital of scientific research across the whole region!
+We're also the undisputed capital of scientific research across the whole region!
+At least that's what I tell investors.
+At least that's what I tell investors.
+West: County Park
+West: County Park
+East: Lingering Delta
+East: Lingering Delta
 Helena juggles leadership in this company with contract work for the Makyan government, and even then still finds time to train Pokemon for her gym.
 Helena juggles leadership in this company with contract work for the Makyan government, and even then still finds time to train Pokemon for her gym.
 If you plan on facing her, you best be wary of her hit and run tactics.
@@ -949,12 +953,14 @@ If you want a leg up, hazards like Stealth Rocks and Spikes can help a lot.
 If you want a leg up, hazards like Stealth Rocks and Spikes can help a lot.
 Or you could trap her 'mons, so they just...can't switch out!
 Or you could trap her 'mons, so they just...can't switch out!
-West: County Park
-West: County Park
-East: Lingering Delta
-East: Lingering Delta
-LuxTech Cold Storage
-LuxTech Cold Storage
+Oh, I see you have a MasterDex.
+Oh, I see you have a MasterDex.
+I have one of those myself. I got it from when I worked under Miss – er, Professor Tamarind.
+I have one of those myself. I got it from when I worked under Miss – er, Professor Tamarind.
+I used to help her keep the grunts from getting too rowdy.
+I used to help her keep the grunts from getting too rowdy.
+As nice as my job is now, it's certainly less exciting.
+As nice as my job is now, it's certainly less exciting.
 LuxTech makes great products, and cheaply.
 LuxTech makes great products, and cheaply.
 Setting up an office in Makya hasn't helped their PR situation, though.
@@ -965,26 +971,8 @@ Not a good look for the company that recently switched mottos to "Innovation, In
 Not a good look for the company that recently switched mottos to "Innovation, Inspiration, Integrity."
 Yikes.
 Yikes.
-Oh, I see you have a MasterDex.
-Oh, I see you have a MasterDex.
-I have one of those myself. I got it from when I worked under Miss – er, Professor Tamarind.
-I have one of those myself. I got it from when I worked under Miss – er, Professor Tamarind.
-I used to help her keep the grunts from getting too rowdy.
-I used to help her keep the grunts from getting too rowdy.
-As nice as my job is now, it's certainly less exciting.
-As nice as my job is now, it's certainly less exciting.
-First Strike TMs
-First Strike TMs
-Get your lunches, imported premium from sunny Alola!
-Get your lunches, imported premium from sunny Alola!
-Yesterday was terrible.
-Yesterday was terrible.
-I was forced to wind down the cluster I had running on the archive.
-I was forced to wind down the cluster I had running on the archive.
-"Ecology of the Lingering Delta", my pet project.
-"Ecology of the Lingering Delta", my pet project.
-Even worse, I had to go down into the Cold Storage basement level to do the deed.
-Even worse, I had to go down into the Cold Storage basement level to do the deed.
+LuxTech Cold Storage
+LuxTech Cold Storage
 —I thought we were all on the same page about what was expected of us now…
 —I thought we were all on the same page about what was expected of us now…
 I don’t think <i>they</i> ever were…. never wanted to give up the power.
@@ -1019,24 +1007,36 @@ Please…
 Please…
 *sigh*...Victoire is going to kill me…
 *sigh*...Victoire is going to kill me…
-Mako's Malasadas
-Mako's Malasadas
-LuxTech Condos
-LuxTech Condos
+Yesterday was terrible.
+Yesterday was terrible.
+I was forced to wind down the cluster I had running on the archive.
+I was forced to wind down the cluster I had running on the archive.
+"Ecology of the Lingering Delta", my pet project.
+"Ecology of the Lingering Delta", my pet project.
+Even worse, I had to go down into the Cold Storage basement level to do the deed.
+Even worse, I had to go down into the Cold Storage basement level to do the deed.
+Get your lunches, imported premium from sunny Alola!
+Get your lunches, imported premium from sunny Alola!
+First Strike TMs
+First Strike TMs
 All of my test materials got stolen mid-shipment. Again.
 All of my test materials got stolen mid-shipment.  Again.
 Apparently not everyone got the memo that Makya shouldn't work that way anymore.
 Apparently not everyone got the memo that Makya shouldn't work that way anymore.
 I really hope that Helena can convince the Makyan Rangers to start patrolling our routes.
 I really hope that Helena can convince the Makyan Rangers to start patrolling our routes.
-Don't give coffee.
-Don't give coffee.
-Give coffee.
-Give coffee.
+LuxTech Condos
+LuxTech Condos
+Mako's Malasadas
+Mako's Malasadas
 Maybe later.
 Maybe later.
 Sure, let's go.
 Sure, let's go.
+Don't give coffee.
+Don't give coffee.
+Give coffee.
+Give coffee.
 [Map7]
 The murkrow silently stares at you, a grim look in its eyes.
 The murkrow silently stares at you, a grim look in its eyes.
@@ -1269,18 +1269,6 @@ It was fun!
 It was family business.
 It was family business.
 [Map8]
-My cousin and I like to hang out here. Take in the cool atmosphere and the night sky.
-My cousin and I like to hang out here. Take in the cool atmosphere and the night sky.
-We still battle people, but like... in a chill way...
-We still battle people, but like... in a chill way...
-I'm gonna leave now. Don't like your vibes.
-I'm gonna leave now. Don't like your vibes.
-Can you feel the energy given off by those evolution stones?
-Can you feel the energy given off by those evolution stones?
-It's doing wonders for my stress.
-It's doing wonders for my stress.
-Is life worth living if you can't take time to be transfixed by the beauty of nature?
-Is life worth living if you can't take time to be transfixed by the beauty of nature?
 Hey there. Miss me?
 Hey there. Miss me?
 I finally got here – all thanks to you. I have to say, you don’t look a mite worse for wear considering how much wilderness you trekked through.
@@ -1367,6 +1355,30 @@ Something like a Fire or Sun Stone would clash, and a Leaf or Dusk Stone is more
 Something like a Fire or Sun Stone would clash, and a Leaf or Dusk Stone is more of what they already have.
 I promise it’s a good cause.
 I promise it’s a good cause.
+My cousin and I like to hang out here. Take in the cool atmosphere and the night sky.
+My cousin and I like to hang out here. Take in the cool atmosphere and the night sky.
+We still battle people, but like... in a chill way...
+We still battle people, but like... in a chill way...
+I'm gonna leave now. Don't like your vibes.
+I'm gonna leave now. Don't like your vibes.
+Can you feel the energy given off by those evolution stones?
+Can you feel the energy given off by those evolution stones?
+It's doing wonders for my stress.
+It's doing wonders for my stress.
+Is life worth living if you can't take time to be transfixed by the beauty of nature?
+Is life worth living if you can't take time to be transfixed by the beauty of nature?
+A notice about the Makyan Regional Tournament has been hastily scribbled over.
+A notice about the Makyan Regional Tournament has been hastily scribbled over.
+A note added below reads "Not Taking Challengers"
+A note added below reads "Not Taking Challengers"
+Velenz Gym
+Velenz Gym
+Leader: Rafael
+Leader: Rafael
+...
+...
+It seems like the Gym Leader was supposed to write a title here, but the space has been left blank.
+It seems like the Gym Leader was supposed to write a title here, but the space has been left blank.
 Improper planning ruined this place. I just know it.
 Improper planning ruined this place. I just know it.
 Founding a town over a cave system? In a swamp?
@@ -1383,18 +1395,12 @@ Hm, I didn't expect you to say no.
 Hm, I didn't expect you to say no.
 The math... I must have miscalculated...
 The math... I must have miscalculated...
-Velenz Gym
-Velenz Gym
-Leader: Rafael
-Leader: Rafael
-...
-...
-It seems like the Gym Leader was supposed to write a title here, but the space has been left blank.
-It seems like the Gym Leader was supposed to write a title here, but the space has been left blank.
-A notice about the Makyan Regional Tournament has been hastily scribbled over.
-A notice about the Makyan Regional Tournament has been hastily scribbled over.
-A note added below reads "Not Taking Challengers"
-A note added below reads "Not Taking Challengers"
+Temporary Velenz Ranger Outpost
+Temporary Velenz Ranger Outpost
+"Velenz, proud home of-"
+"Velenz, proud home of-"
+Claw marks on the sign render the text unreadable.
+Claw marks on the sign render the text unreadable.
 Don't tell the others, but I'm getting bored of waiting.
 Don't tell the others, but I'm getting bored of waiting.
 Well, might as well battle you before <i>they</i> arrive.
@@ -1411,12 +1417,6 @@ That mansion near the menagerie must have something to do with the light I saw.
 That mansion near the menagerie must have something to do with the light I saw.
 My cousin says I'm paranoid, but I definitely saw the place glowing last night.
 My cousin says I'm paranoid, but I definitely saw the place glowing last night.
-"Velenz, proud home of-"
-"Velenz, proud home of-"
-Claw marks on the sign render the text unreadable.
-Claw marks on the sign render the text unreadable.
-Temporary Velenz Ranger Outpost
-Temporary Velenz Ranger Outpost
 I thought this place was supposed to be scary.
 I thought this place was supposed to be scary.
 Just seems peaceful to me.
@@ -1433,12 +1433,10 @@ Got some rare things on sale, stranger!
 Got some rare things on sale, stranger!
 Come back anytime.
 Come back anytime.
-Shh.
-Shh.
-You want the stuff?
-You want the stuff?
-Forget you saw me.
-Forget you saw me.
+East: Repora Forest
+East: Repora Forest
+South: Barren Crater
+South: Barren Crater
 No earthlings allowed: that's the rule.
 No earthlings allowed: that's the rule.
 By the power of the Moon Stone, I will punish you!
@@ -1451,34 +1449,12 @@ I haven't been a real sailor since they scuttled my ship.
 I haven't been a real sailor since they scuttled my ship.
 I just like the clothes.
 I just like the clothes.
-East: Repora Forest
-East: Repora Forest
-South: Barren Crater
-South: Barren Crater
-There's supposed to be a gym leader around here, but he's not keen on taking challengers.
-There's supposed to be a gym leader around here, but he's not keen on taking challengers.
-He lives <imp>underground</imp> like some hermit.
-He lives <imp>underground</imp> like some hermit.
-Even locked himself up to make it harder to get in.
-Even locked himself up to make it harder to get in.
-Apparently the <imp>lock combination code</imp> is somewhere in the town.
-Apparently the <imp>lock combination code</imp> is somewhere in the town.
-This is all a bit too mental for me right now, so I'm taking a break.
-This is all a bit too mental for me right now, so I'm taking a break.
-A small handmade sign. It lists an eight-digit code in a big, blocky style.
-A small handmade sign. It lists an eight-digit code in a big, blocky style.
-Rafael may have a layer of earth protecting him from the surface, but it doesn't protect him from my astral projection.
-Rafael may have a layer of earth protecting him from the surface, but it doesn't protect him from my astral projection.
-I've been watching his battles with some fervor. I wish to grasp the essence of his strategy.
-I've been watching his battles with some fervor. I wish to grasp the essence of his strategy.
-It is, at its core, about dancing.
-It is, at its core, about dancing.
-His Oricorio and Alolan Marowak both gain power from dancing done by their allies.
-His Oricorio and Alolan Marowak both gain power from dancing done by their allies.
-If one was feeling particularly devilish, one could aquire a Hattrem.
-If one was feeling particularly devilish, one could aquire a Hattrem.
-That witch has a special ability which damages Pokémon who utilize dance.
-That witch has a special ability which damages Pokémon who utilize dance.
+Shh.
+Shh.
+You want the stuff?
+You want the stuff?
+Forget you saw me.
+Forget you saw me.
 Fighting me's better than fighting any of those Avatars, I'd wager. Prove me right?
 Fighting me's better than fighting any of those Avatars, I'd wager. Prove me right?
 Understood.
@@ -1499,6 +1475,30 @@ You unlocked Rafael's front door?! That sure saves me the time and frustration.
 You unlocked Rafael's front door?! That sure saves me the time and frustration.
 Much appreciated, fellow trainer! Off I go!
 Much appreciated, fellow trainer! Off I go!
+Rafael may have a layer of earth protecting him from the surface, but it doesn't protect him from my astral projection.
+Rafael may have a layer of earth protecting him from the surface, but it doesn't protect him from my astral projection.
+I've been watching his battles with some fervor. I wish to grasp the essence of his strategy.
+I've been watching his battles with some fervor. I wish to grasp the essence of his strategy.
+It is, at its core, about dancing.
+It is, at its core, about dancing.
+His Oricorio and Alolan Marowak both gain power from dancing done by their allies.
+His Oricorio and Alolan Marowak both gain power from dancing done by their allies.
+If one was feeling particularly devilish, one could aquire a Hattrem.
+If one was feeling particularly devilish, one could aquire a Hattrem.
+That witch has a special ability which damages Pokémon who utilize dance.
+That witch has a special ability which damages Pokémon who utilize dance.
+There's supposed to be a gym leader around here, but he's not keen on taking challengers.
+There's supposed to be a gym leader around here, but he's not keen on taking challengers.
+He lives <imp>underground</imp> like some hermit.
+He lives <imp>underground</imp> like some hermit.
+Even locked himself up to make it harder to get in.
+Even locked himself up to make it harder to get in.
+Apparently the <imp>lock combination code</imp> is somewhere in the town.
+Apparently the <imp>lock combination code</imp> is somewhere in the town.
+This is all a bit too mental for me right now, so I'm taking a break.
+This is all a bit too mental for me right now, so I'm taking a break.
+A small handmade sign. It lists an eight-digit code in a big, blocky style.
+A small handmade sign. It lists an eight-digit code in a big, blocky style.
 ooooooOOOOOooooooooo...
 ooooooOOOOOooooooooo...
 OOOOOOOOOOOOOOOooooooooooooooooo...
@@ -2961,30 +2961,16 @@ Hello, welcome to Novo Apartments.
 Hello, welcome to Novo Apartments.
 We have no vacancies at the moment, unfortunately.
 We have no vacancies at the moment, unfortunately.
-I need a Steel-type for a class project.
-I need a Steel-type for a class project.
-So, I had my parents bring me this Vulpix from Prizca.
-So, I had my parents bring me this Vulpix from Prizca.
-But it turns out that it's not Steel-type until it evolves!
-But it turns out that it's not Steel-type until it evolves!
-I won't be able to evolve it in time.
-I won't be able to evolve it in time.
-Do you have a Steel-type? I'll give you my Makyan Vulpix for it.
-Do you have a Steel-type? I'll give you my Makyan Vulpix for it.
-It's a while till the project is due, so please reconsider...
-It's a while till the project is due, so please reconsider...
-C'mon, please? I really can't fail this class.
-C'mon, please? I really can't fail this class.
-Thank you thank you thank you!
-Thank you thank you thank you!
-Now I have a Pokémon that will be good for the class project!
-Now I have a Pokémon that will be good for the class project!
-I just heard from my classmate, she brought the exact same Pokémon you traded me!
-I just heard from my classmate, she brought the exact same Pokémon you traded me!
-I hope my Vulpix is having fun with you.
-I hope my Vulpix is having fun with you.
-Time to start on that Steel-type paper...
-Time to start on that Steel-type paper...
+I was so excited by the idea of moving to a smaller town, away from the hustle and bustle of Prizca.
+I was so excited by the idea of moving to a smaller town, away from the hustle and bustle of Prizca.
+Away from my parents, too.
+Away from my parents, too.
+The privacy, the freedom, the agency, it's all been great.
+The privacy, the freedom, the agency, it's all been great.
+It's just...
+It's just...
+I can't get used to how quiet it is all the time.
+I can't get used to how quiet it is all the time.
 Room 102\nCurrent Residents: Iseul, Galina
 Room 102\nCurrent Residents: Iseul, Galina
 Hey, you're a trainer, right? Please, I need your help.
@@ -3027,10 +3013,6 @@ They fought tons of battles back when Team Chasm was around. They must be total 
 They fought tons of battles back when Team Chasm was around. They must be total vets!
 Room 104\nCurrent Residents: Manuel, Anja
 Room 104\nCurrent Residents: Manuel, Anja
-No
-No
-Yes
-Yes
 [Map33]
 A survey of the sewer ecosystem is plotted.
 A survey of the sewer ecosystem is plotted.
@@ -5115,24 +5097,14 @@ My my, what a great fight that was. You gave me quite a battle.
 My my, what a great fight that was. You gave me quite a battle.
 You've taught me that I might just have my hardest battles ahead of me yet!
 You've taught me that I might just have my hardest battles ahead of me yet!
-The Starters Store
-The Starters Store
+"Welcome to Novo, your flowery home."
+"Welcome to Novo, your flowery home."
 Biking is a great way for me to exercise between my classes at Novo College.
 Biking is a great way for me to exercise between my classes at Novo College.
 I work out my brain, then my body!
 I work out my brain, then my body!
-"Welcome to Novo, your flowery home."
-"Welcome to Novo, your flowery home."
-I was so excited by the idea of moving to a smaller town, away from the hustle and bustle of Prizca.
-I was so excited by the idea of moving to a smaller town, away from the hustle and bustle of Prizca.
-Away from my parents, too.
-Away from my parents, too.
-The privacy, the freedom, the agency, it's all been great.
-The privacy, the freedom, the agency, it's all been great.
-It's just...
-It's just...
-I can't get used to how quiet it is all the time.
-I can't get used to how quiet it is all the time.
+The Starters Store
+The Starters Store
 I work at the Pokemon Center here, but I like to come here after my shift.
 I work at the Pokemon Center here, but I like to come here after my shift.
 As you might have deduced by now, I also like to battle. Should we?
@@ -5143,6 +5115,8 @@ Ah, you got me. Good fight. Let's see if the next person could put up a better c
 Ah, you got me. Good fight. Let's see if the next person could put up a better challenge.
 I'm not able to heal your Pokemon since I don't have my machine or my tools. Sorry.
 I'm not able to heal your Pokemon since I don't have my machine or my tools. Sorry.
+NO MOTOR VEHICLES
+NO MOTOR VEHICLES
 Oh, wow! You've grown so much! You've absolutely blossomed as a Trainer!
 Oh, wow! You've grown so much! You've absolutely blossomed as a Trainer!
 I've been working on making these for you! It uses imported flowers.
@@ -5167,70 +5141,6 @@ Are you doing your best out there?
 Are you doing your best out there?
 I'm rooting for you.
 I'm rooting for you.
-NO MOTOR VEHICLES
-NO MOTOR VEHICLES
-Novo Apartments
-Apartametos De Nova
-Oh, hey. You a trainer?
-Oh, hey. You a trainer?
-Listen, I got some Pokémon that need training and… you’re giving me the look like ya heard this before.
-Listen, I got some Pokémon that need training and… you’re giving me the look like ya heard this before.
-Did you run into a young woman, little younger than me, missin' an arm?
-Did you run into a young woman, little younger than me, missin' an arm?
-Togekiss with her?
-Togekiss with her?
-Well, I do the same thing as her, only I get paid for it.
-Well, I do the same thing as her, only I get paid for it.
-So, uh, care to make this training session a little less boring?
-So, uh, care to make this training session a little less boring?
-Ah, no pressure. Just figured a duel might make it a bit more fun.
-Ah, no pressure. Just figured a duel might make it a bit more fun.
-Ah, just a good ol’ fight.
-Ah, just a good ol’ fight.
-These beasties ain’t anything special – students want their Pokémon to stay in fighting condition, but exams are hell.
-These beasties ain’t anything special – students want their Pokémon to stay in fighting condition, but exams are hell.
-That’s where I come in. Wallet a little lighter, mind at ease.
-That’s where I come in. Wallet a little lighter, mind at ease.
-Great. Let’s keep these things fighting fit.
-Great. Let’s keep these things fighting fit.
-You down to help me train these?
-You down to help me train these?
-You ain’t just any two-bit tourist, are you?
-You ain’t just any two-bit tourist, are you?
-Tell me: you got a rival? Someone that you keep running into at the worst times? Pushes you to your limit?
-Tell me: you got a rival? Someone that you keep running into at the worst times? Pushes you to your limit?
-Oh, I’ve heard that one before. Family drama. Tale as old as time.
-Oh, I’ve heard that one before. Family drama. Tale as old as time.
-Best of luck with that, I s’pose.
-Best of luck with that, I s’pose.
-Great.
-Great.
-Ya don’t have to tell me. Not important.
-Ya don’t have to tell me. Not important.
-So long as you’ve got someone – you need somebody.
-So long as you’ve got someone – you need somebody.
-Really? Nobody good enough for ya?
-Really? Nobody good enough for ya?
-Well, s’pose it don’t matter too much. You’ve done plenty fine without one so far, right?
-Well, s’pose it don’t matter too much. You’ve done plenty fine without one so far, right?
-Hah!
-Hah!
-Nah, kid. I already crossed that bridge, and it’s the kinda road ya don’t walk twice.
-Nah, kid. I already crossed that bridge, and it’s the kinda road ya don’t walk twice.
-'Bout wore me out, too.
-'Bout wore me out, too.
-You’re good, though, and I’m bein’ genuine.
-You’re good, though, and I’m bein’ genuine.
-Ya beat my friend and now ya beat me.
-Ya beat my friend and now ya beat me.
-Ain’t half-bad. I ain’t paid to gab, though.
-Ain’t half-bad. I ain’t paid to gab, though.
-Gotta get movin’ – Trubbish needs training, and the <imp>sewers 'neath LuxTech</imp> are the place to be for it.
-Gotta get movin’ – Trubbish needs training, and the <imp>sewers 'neath LuxTech</imp> are the place to be for it.
-Here ya go, though, for your troubles.
-Here ya go, though, for your troubles.
-See ya 'round. And, hey, you run into my friend again, beat the tar outta her, alright?
-See ya 'round. And, hey, you run into my friend again, beat the tar outta her, alright?
 Hey-yo!
 Hey-yo!
 Hope you still remember me. I was the good-lookin' trainer camping out in front of the gym in Casaba Villa.
@@ -5259,10 +5169,76 @@ I can tell from the scorch marks that you went up against Eko, and from the gym 
 I can tell from the scorch marks that you went up against Eko, and from the gym badge...that you won!
 That means the time for procrastinating is over, and the time for courage is nigh. Allons-y!
 That means the time for procrastinating is over, and the time for courage is nigh. Allons-y!
+Oh, hey. You a trainer?
+Oh, hey. You a trainer?
+Listen, I got some Pokémon that need training and… you’re giving me the look like ya heard this before.
+Listen, I got some Pokémon that need training and… you’re giving me the look like ya heard this before.
+Did you run into a young woman, little younger than me, missin' an arm?
+Did you run into a young woman, little younger than me, missin' an arm?
+Togekiss with her?
+Togekiss with her?
+Well, I do the same thing as her, only I get paid for it.
+Well, I do the same thing as her, only I get paid for it.
+So, uh, care to make this training session a little less boring?
+So, uh, care to make this training session a little less boring?
+Ah, no pressure. Just figured a duel might make it a bit more fun.
+Ah, no pressure. Just figured a duel might make it a bit more fun.
+Ah, just a good ol’ fight.
+Ah, just a good ol’ fight.
+These beasties ain’t anything special – students want their Pokémon to stay in fighting condition, but exams are hell.
+These beasties ain’t anything special – students want their Pokémon to stay in fighting condition, but exams are hell.
+That’s where I come in. Wallet a little lighter, mind at ease.
+That’s where I come in. Wallet a little lighter, mind at ease.
+Great. Let’s keep these things fighting fit.
+Great. Let’s keep these things fighting fit.
+You down to help me train these?
+You down to help me train these?
+You ain’t just any two-bit tourist, are you?
+You ain’t just any two-bit tourist, are you?
+Tell me: you got a rival? Someone that you keep running into at the worst times? Pushes you to your limit?
+Tell me: you got a rival? Someone that you keep running into at the worst times? Pushes you to your limit?
+Oh, I’ve heard that one before. Family drama. Tale as old as time.
+Oh, I’ve heard that one before. Family drama. Tale as old as time.
+Best of luck with that, I s’pose.
+Best of luck with that, I s’pose.
+Great.
+Great.
+Ya don’t have to tell me. Not important.
+Ya don’t have to tell me. Not important.
+So long as you’ve got someone – you need somebody.
+So long as you’ve got someone – you need somebody.
+Really? Nobody good enough for ya?
+Really? Nobody good enough for ya?
+Well, s’pose it don’t matter too much. You’ve done plenty fine without one so far, right?
+Well, s’pose it don’t matter too much. You’ve done plenty fine without one so far, right?
+Hah!
+Hah!
+Nah, kid. I already crossed that bridge, and it’s the kinda road ya don’t walk twice.
+Nah, kid. I already crossed that bridge, and it’s the kinda road ya don’t walk twice.
+'Bout wore me out, too.
+'Bout wore me out, too.
+You’re good, though, and I’m bein’ genuine.
+You’re good, though, and I’m bein’ genuine.
+Ya beat my friend and now ya beat me.
+Ya beat my friend and now ya beat me.
+Ain’t half-bad. I ain’t paid to gab, though.
+Ain’t half-bad. I ain’t paid to gab, though.
+Gotta get movin’ – Trubbish needs training, and the <imp>sewers 'neath LuxTech</imp> are the place to be for it.
+Gotta get movin’ – Trubbish needs training, and the <imp>sewers 'neath LuxTech</imp> are the place to be for it.
+Here ya go, though, for your troubles.
+Here ya go, though, for your troubles.
+See ya 'round. And, hey, you run into my friend again, beat the tar outta her, alright?
+See ya 'round. And, hey, you run into my friend again, beat the tar outta her, alright?
+Novo Apartments
+Apartametos De Nova
 No.
 No.
 Yes.
 Yes.
+Maybe later.
+Maybe later.
+Sure, let's go.
+Sure, let's go.
 Not right now.
 Not right now.
 What exactly do you need?
@@ -5275,10 +5251,6 @@ Someone.
 Someone.
 You offering?
 You offering?
-Maybe later.
-Maybe later.
-Sure, let's go.
-Sure, let's go.
 [Map57]
 I get to go home... doesn’t even seem real yet.
 I get to go home... doesn’t even seem real yet.
@@ -7053,30 +7025,18 @@ Occasionally a Pokemon will fail out of our cold survival training course.
 Occasionally a Pokemon will fail out of our cold survival training course.
 This Sewaddle didn't make it through.
 This Sewaddle didn't make it through.
-I need a Pokemon that'll definitely fill the slot.
-I need a Pokemon that'll definitely fill the slot.
-Pretty much any Ice-type should do. If you have one, I'll trade you for it.
-Pretty much any Ice-type should do. If you have one, I'll trade you for it.
-Well, not like it's going anywhere.
-Well, not like it's going anywhere.
-Hmm. Come back if you manage to get an Ice-type.
-Hmm. Come back if you manage to get an Ice-type.
-Great, let's get this started.
-Great, let's get this started.
-Time to put this guy to work! Thanks!
-Time to put this guy to work! Thanks!
-This Pokemon is going to be cooling rooms like nobody's business.
-This Pokemon is going to be cooling rooms like nobody's business.
+For behavioral reasons, that is. It handles the cold just fine with its warm leaf covering!
+For behavioral reasons, that is. It handles the cold just fine with its warm leaf covering!
+I adopted it for my team, instead. 'Cause it's adorable.
+I adopted it for my team, instead. 'Cause it's adorable.
 I train and manage the Pokemon here who act as living conditioning units.
 I train and manage the Pokemon here who act as living conditioning units.
 It's certainly a lot of work.
 It's certainly a lot of work.
 I have to make sure they get regular breaks and food throughout the day.
 I have to make sure they get regular breaks and food throughout the day.
-No
-No
-Yes
-Yes
+Sewaddle is chewing on the cardboard box!
+Sewaddle is chewing on the cardboard box!
 [Map97]
 I'm the director of operations here. The lead system administrator.
 I'm the director of operations here. The lead system administrator.
@@ -10797,32 +10757,6 @@ A large van is blocking the entire road. How rude!
 Bits of Whimsicott fluff are stuck to the tips of the leaves.
 Bits of Whimsicott fluff are stuck to the tips of the leaves.
 [Map158]
-Trainer, have you ever punched a bird?
-Trainer, have you ever punched a bird?
-It's impossible. How can I ever spar with it properly?
-It's impossible. How can I ever spar with it properly?
-This Pokemon I have, a Farfetch'd from the faraway region of Galar.
-This Pokemon I have, a Farfetch'd from the faraway region of Galar.
-It refused to take a hit, like a real Pokemon would.
-It refused to take a hit, like a real Pokemon would.
-It is a coward, a complete disgrace to the Ironclad Dojo.
-It is a coward, a complete disgrace to the Ironclad Dojo.
-I offer it to you for a mere $5000, as I need to atone for the money I wasted on its room and board.
-I offer it to you for a mere $5000, as I need to atone for the money I wasted on its room and board.
-I understand. Who would want such a disgrace on their team?
-I understand. Who would want such a disgrace on their team?
-Very well, perhaps a new master shall bring our its potential.
-Very well, perhaps a new master shall bring our its potential.
-Though I doubt it.
-Though I doubt it.
-\PN hands over $5000 in exchange.
-\PN hands over $5000 in exchange.
-I shall now resume my journey, free of such a burden.
-I shall now resume my journey, free of such a burden.
-Farewell.
-Farewell.
-You have not the financial requirements.
-You have not the financial requirements.
 Thanks to its ability, Swoobat can wear two pieces of saftey gear! It can work on construction sites!
 Thanks to its ability, Swoobat can wear two pieces of saftey gear! It can work on construction sites!
 Thanks to my Swoobat's ability, it's completely code compliant for construction!
@@ -10849,10 +10783,6 @@ Take good care of that Corsola, Trainer.
 Take good care of that Corsola, Trainer.
 You can check online for tips on caring for it.
 You can check online for tips on caring for it.
-No
-No
-Yes
-Yes
 Not interested.
 Not interested.
 Sure, I'll adopt it.
@@ -12717,26 +12647,6 @@ Everything is awful.
 [Map186]
 The berry plant is growing.
 The berry plant is growing.
-A Durant swarm came through here the other day.
-A Durant swarm came through here the other day.
-No clue how—Durant don't live 'round these parts.
-No clue how—Durant don't live 'round these parts.
-Had to catch all of 'em to stop 'em eatin' our crops.
-Had to catch all of 'em to stop 'em eatin' our crops.
-Ya interested in takin' one?
-Ya interested in takin' one?
-I hope ya wouldn't mind giving me a Grass-type in return. Gotta regrow those crops, ya know.
-I hope ya wouldn't mind giving me a Grass-type in return. Gotta regrow those crops, ya know.
-Guess we'll just have t'make do.
-Guess we'll just have t'make do.
-Don't waver, now. Ya say ya gonna do somethin', ya best make sure ya get it done.
-Don't waver, now. Ya say ya gonna do somethin', ya best make sure ya get it done.
-This'll help.
-This'll help.
-Time to get t'work.
-Time to get t'work.
-I'll be raging harder than a Primeape if I find more Durant nestin' in some cranny or 'nother.
-I'll be raging harder than a Primeape if I find more Durant nestin' in some cranny or 'nother.
 This place is just like my favorite video game!
 This place is just like my favorite video game!
 I'm gonna go play that game now, bye!
@@ -13634,6 +13544,16 @@ CAUTION: Deadly magma ahead!
 CAUTION: Deadly magma ahead!
 Red lines of graffiti criss-cross the word "magma". The word "lava" is written beneath.
 Red lines of graffiti criss-cross the word "magma".  The word "lava" is written beneath.
+The grass here is full of soot! Useful for growing plants and Grass-types.
+The grass here is full of soot! Useful for growing plants and Grass-types.
+All this sand is starting to get in my clothes...
+All this sand is starting to get in my clothes...
+Have you meet the Soot Collector? He makes the coolest instruments!
+Have you meet the Soot Collector? He makes the coolest instruments!
+The natural soot here is perfect for my Bellossom!
+The natural soot here is perfect for my Bellossom!
+The stuff near factories usually have chemicals in them, so I can't use those.
+The stuff near factories usually have chemicals in them, so I can't use those.
 You one of them Casaba folk?
 You one of them Casaba folk?
 Whewie, what a fight.
@@ -13646,16 +13566,6 @@ Gotta get those battlin' bones out while I can.
 Gotta get those battlin' bones out while I can.
 Could never do that too much while on the ranch.
 Could never do that too much while on the ranch.
-The grass here is full of soot! Useful for growing plants and Grass-types.
-The grass here is full of soot! Useful for growing plants and Grass-types.
-All this sand is starting to get in my clothes...
-All this sand is starting to get in my clothes...
-Have you meet the Soot Collector? He makes the coolest instruments!
-Have you meet the Soot Collector? He makes the coolest instruments!
-The natural soot here is perfect for my Bellossom!
-The natural soot here is perfect for my Bellossom!
-The stuff near factories usually have chemicals in them, so I can't use those.
-The stuff near factories usually have chemicals in them, so I can't use those.
 A tattered and locked door.
 A tattered and locked door.
 A letter tacked to the door reads "Moved to Kalos. Not dealing with lava."
@@ -15934,14 +15844,6 @@ No thanks.
 I'll take it.
 I'll take it.
 [Map217]
-It's the bottom of a conveyor belt. It'd be impossible to climb up.
-It's the bottom of a conveyor belt. It'd be impossible to climb up.
-For most of Sweetrock's history, we've relied on Clefable teleportation to get cargo from the factory to the docks.
-For most of Sweetrock's history, we've relied on Clefable teleportation to get cargo from the factory to the docks.
-We got these conveyor belts installed a few years back, so the cliffside isn't an issue anymore.
-We got these conveyor belts installed a few years back, so the cliffside isn't an issue anymore.
-We still have to rely on teleportation to get in and out of the harbor, though.
-We still have to rely on teleportation to get in and out of the harbor, though.
 Looks like the Trainer ahead is moving to block you from going any further.
 Looks like the Trainer ahead is moving to block you from going any further.
 Do you want to approach them? It looks like a tough fight.
@@ -16316,18 +16218,28 @@ If it isn’t, then, uh, I’ll give you a run for your money, ‘kay?
 If it isn’t, then, uh, I’ll give you a run for your money, ‘kay?
 Toodles. And don’t you dare follow – I’m playing hard to get, so respect it. Hah!
 Toodles. And don’t you dare follow – I’m playing hard to get, so respect it. Hah!
-More than a million years ago, a meteor struck this area of Makya, plowing through a large mountain to the west.
-More than a million years ago, a meteor struck this area of Makya, plowing through a large mountain to the west.
-That large mountain became two smaller mountains, which we now know as Split Peaks.
-That large mountain became two smaller mountains, which we now know as Split Peaks.
-The impact site itself would fill with water and become Sweetrock Harbor.
-The impact site itself would fill with water and become Sweetrock Harbor.
+For most of Sweetrock's history, we've relied on Clefable teleportation to get cargo from the factory to the docks.
+For most of Sweetrock's history, we've relied on Clefable teleportation to get cargo from the factory to the docks.
+We got these conveyor belts installed a few years back, so the cliffside isn't an issue anymore.
+We got these conveyor belts installed a few years back, so the cliffside isn't an issue anymore.
+We still have to rely on teleportation to get in and out of the harbor, though.
+We still have to rely on teleportation to get in and out of the harbor, though.
+It's the bottom of a conveyor belt. It'd be impossible to climb up.
+It's the bottom of a conveyor belt. It'd be impossible to climb up.
 The ocean to the east brings calming winds.
 The ocean to the east brings calming winds.
 But why? We might explain it with ocean currents, or weather patterns.
 But why? We might explain it with ocean currents, or weather patterns.
 But what makes the winds here calming? Of that, I am not so sure.
 But what makes the winds here calming? Of that, I am not so sure.
+More than a million years ago, a meteor struck this area of Makya, plowing through a large mountain to the west.
+More than a million years ago, a meteor struck this area of Makya, plowing through a large mountain to the west.
+That large mountain became two smaller mountains, which we now know as Split Peaks.
+That large mountain became two smaller mountains, which we now know as Split Peaks.
+The impact site itself would fill with water and become Sweetrock Harbor.
+The impact site itself would fill with water and become Sweetrock Harbor.
+Lightkeeper's House
+Lightkeeper's House
 I really want to know who that was in the weird outfit.
 I really want to know who that was in the weird outfit.
 Well, regardless, thanks for kicking them out of town.
@@ -16336,28 +16248,26 @@ I'm a firefighter, so I'm used to dealing with issues...
 I'm a firefighter, so I'm used to dealing with issues...
 But "Cultist with a Regirock" is outside of my job description.
 But "Cultist with a Regirock" is outside of my job description.
-Lightkeeper's House
-Lightkeeper's House
-Artisan Orbs
-Artisan Orbs
-Sweetrock Elementary School
-Sweetrock Elementary School
-"In loving memory of Mrs. and Mr. Diakos."
-"In loving memory of Mrs. and Mr. Diakos."
 I've been biking across the entire region over the past few months.
 I've been biking across the entire region over the past few months.
 Crossing the Split Peaks was by far the hardest part.
 Crossing the Split Peaks was by far the hardest part.
 The view from these cliffs, and the feeling that I've finally accomplished my goal, made it all worth it.
 The view from these cliffs, and the feeling that I've finally accomplished my goal, made it all worth it.
+"In loving memory of Mrs. and Mr. Diakos."
+"In loving memory of Mrs. and Mr. Diakos."
+Sweetrock Elementary School
+Sweetrock Elementary School
+Artisan Orbs
+Artisan Orbs
 West: Split Peaks
 West: Split Peaks
 South: Sandstone Estuary
 South: Sandstone Estuary
-"Sweetrock Harbor, satisfying the world's sweettooth!"
-"Sweetrock Harbor, satisfying the world's sweettooth!"
-"A sister city of Canalave!"
-"A sister city of Canalave!"
+Sweetrock Candy is sent all over the world, but more than 30% ends up in the Galar Region.
+Sweetrock Candy is sent all over the world, but more than 30% ends up in the Galar Region.
+Those people love their candy.
+Those people love their candy.
 I work at Sweetrock Candy factory, like many in town.
 I work at Sweetrock Candy factory, like many in town.
 That said, I rarely get to see Victoire, the manager and gym leader.
@@ -16376,14 +16286,10 @@ You gotta tell me what she's like as a trainer.
 You gotta tell me what she's like as a trainer.
 My curiosity's grown too big!
 My curiosity's grown too big!
-Sweetrock Candy is sent all over the world, but more than 30% ends up in the Galar Region.
-Sweetrock Candy is sent all over the world, but more than 30% ends up in the Galar Region.
-Those people love their candy.
-Those people love their candy.
-Shh... don't give away my hiding spot!
-Shh... don't give away my hiding spot!
-Is it... is it safe to come out now?
-Is it... is it safe to come out now?
+"Sweetrock Harbor, satisfying the world's sweettooth!"
+"Sweetrock Harbor, satisfying the world's sweettooth!"
+"A sister city of Canalave!"
+"A sister city of Canalave!"
 How goes your journey, young master?
 How goes your journey, young master?
 I've purchased a Clefable teleportation license, and reserved this pier for our use.
@@ -16392,6 +16298,20 @@ We can travel to and from any of our usual locations.
 We can travel to and from any of our usual locations.
 Where will we be heading?
 Where will we be heading?
+Shh... don't give away my hiding spot!
+Shh... don't give away my hiding spot!
+Is it... is it safe to come out now?
+Is it... is it safe to come out now?
+What was once a printed notice has been covered entirely by a poster advertising the EXP-EZ Dispenser.
+What was once a printed notice has been covered entirely by a poster advertising the EXP-EZ Dispenser.
+Sweetrock Candy Outlet
+Sweetrock Candy Outlet
+Sweetrock Harbor Gym
+Sweetrock Harbor Gym
+Leader: Victoire
+Leader: Victoire
+The Candy Queen!
+The Candy Queen!
 Have you slid down the conveyor belts?
 Have you slid down the conveyor belts?
 Preeeetty sure we're not allowed to, but it's crazy fun.
@@ -16420,28 +16340,18 @@ She as quirky as they say? I don't know why I bother asking. I'll be finding out
 She as quirky as they say? I don't know why I bother asking. I'll be finding out soon myself.
 The 7th badge... oh so sweet will it taste!
 The 7th badge... oh so sweet will it taste!
-Sweetrock Harbor Gym
-Sweetrock Harbor Gym
-Leader: Victoire
-Leader: Victoire
-The Candy Queen!
-The Candy Queen!
-Sweetrock Candy Outlet
-Sweetrock Candy Outlet
-What was once a printed notice has been covered entirely by a poster advertising the EXP-EZ Dispenser.
-What was once a printed notice has been covered entirely by a poster advertising the EXP-EZ Dispenser.
-Sweetrock Lighthouse
-Sweetrock Lighthouse
 Today's a good day for gaming.
 Today's a good day for gaming.
+Sweetrock Lighthouse
+Sweetrock Lighthouse
 Berry Greenhouse
 Berry Greenhouse
+I'm gaming over here!
+I'm gaming over here!
 I love to slide down the conveyor belt. But, my dad doesn't let me.
 I love to slide down the conveyor belt. But, my dad doesn't let me.
 I have to stay by the school until he gets off work so I don't get into trouble.
 I have to stay by the school until he gets off work so I don't get into trouble.
-I'm gaming over here!
-I'm gaming over here!
 No.
 No.
 Yes.
@@ -17109,14 +17019,12 @@ A hanging punching bag.
 A hanging punching bag.
 You decide not to hit it when you realize how much duct tape is holding it together.
 You decide not to hit it when you realize how much duct tape is holding it together.
-A proper cuppa.
-A proper cuppa.
 Me and the boys have been trying to watch the Galarian Star Tournament, but this TV keeps acting up.
 Me and the boys have been trying to watch the Galarian Star Tournament, but this TV keeps acting up.
 Need me an Electric-type to give it a good jolt.
 Need me an Electric-type to give it a good jolt.
-You got one up for trade? I could trade you my Cryscross for it.
-You got one up for trade? I could trade you my Cryscross for it.
+You got one up for trade? I could trade you my Turtonator for it.
+You got one up for trade? I could trade you my Turtonator for it.
 Hope I don't have to go over to One-Stop Tech again...
 Hope I don't have to go over to One-Stop Tech again...
 Maybe it'll start working if I just wait for a bit..
@@ -17125,16 +17033,10 @@ Heck yeah! Our viewing experience is saved!
 Heck yeah! Our viewing experience is saved!
 Time to start it up!
 Time to start it up!
+A proper cuppa.
+A proper cuppa.
 Mostly crushed cans in here.
 Mostly crushed cans in here.
-...the tap is leaking a little bit. Fix it?
-...the tap is leaking a little bit. Fix it?
-You nudge the handle and turn the tap fully off.
-You nudge the handle and turn the tap fully off.
-You let the faucet keep dripping.
-You let the faucet keep dripping.
-There's several mugs in the basin.
-There's several mugs in the basin.
 The stinkin' TV is broken. How am I supposed to watch Marnie in action now?!
 The stinkin' TV is broken. How am I supposed to watch Marnie in action now?!
 Makes me want to... yell, or something.
@@ -17143,10 +17045,14 @@ LET'S GOOOOOOOOOOOO MARNIE! WOOOOOOOOOOOOO!
 LET'S GOOOOOOOOOOOO MARNIE! WOOOOOOOOOOOOO!
 BRING IT HOME SPIKEMUTH YEAHHHHHHH!
 BRING IT HOME SPIKEMUTH YEAHHHHHHH!
-A little sign is taped to the flowerpot.
-A little sign is taped to the flowerpot.
-"PASSWORD IS: YELL4MARNIE!!"
-"PASSWORD IS: YELL4MARNIE!!"
+...the tap is leaking a little bit. Fix it?
+...the tap is leaking a little bit. Fix it?
+You nudge the handle and turn the tap fully off.
+You nudge the handle and turn the tap fully off.
+You let the faucet keep dripping.
+You let the faucet keep dripping.
+There's several mugs in the basin.
+There's several mugs in the basin.
 I love this Hop kid. He's got gumption.
 I love this Hop kid. He's got gumption.
 Don't misunderstand, he sucks. But that makes him all the more endearing, you know?
@@ -17157,6 +17063,10 @@ Hop's out of the running already...
 Hop's out of the running already...
 That's disappointing...
 That's disappointing...
+A little sign is taped to the flowerpot.
+A little sign is taped to the flowerpot.
+"PASSWORD IS: YELL4MARNIE!!"
+"PASSWORD IS: YELL4MARNIE!!"
 For a small Pokémon, this Zigzagoon can sprawl across a lot of space.
 For a small Pokémon, this Zigzagoon can sprawl across a lot of space.
 Thanks to your Pokemon, I'm always able to zap my TV every time the signal's bad.
@@ -19550,26 +19460,6 @@ Look at you, phasing through the walls. Who are you, Danny Phantom?
 [Map297]
 [Map298]
 [Map299]
-Trainer, I bring great news: A deal of a lifetime.
-Trainer, I bring great news: A deal of a lifetime.
-A beautiful Cottonee. And all you have to do is give me a real moneymaker. Industrious tribe.
-A beautiful Cottonee. And all you have to do is give me a real moneymaker. Industrious tribe.
-Shake on it. Trade me an Industrious Pokémon for this Cottonee?
-Shake on it. Trade me an Industrious Pokémon for this Cottonee?
-You'll regret passing on this.
-You'll regret passing on this.
-You can't back out on me like this!
-You can't back out on me like this!
-Magnificent! Marvelous! Magnolious!
-Magnificent! Marvelous! Magnolious!
-Another satisfied customer!
-Another satisfied customer!
-I assure you, that Cottonee is the best. The peak of 'mons all around.
-I assure you, that Cottonee is the best. The peak of 'mons all around.
-If you aren't winning with it, I have but one piece of advice.
-If you aren't winning with it, I have but one piece of advice.
-Look inward.
-Look inward.
 Being back at the Fin is pretty nostalgic.
 Being back at the Fin is pretty nostalgic.
 Feels like just yesterday I arrived here in that rusty fishing boat, ready to take on the world as part of Team Chasm.
@@ -19586,10 +19476,6 @@ Problem is that they require a token exchange instead of just cash...
 Problem is that they require a token exchange instead of just cash...
 Wish I had one of those instead of the Normal-types that fraud of a professor likes to give out...
 Wish I had one of those instead of the Normal-types that fraud of a professor likes to give out...
-Don't shake.
-Don't shake.
-Shake.
-Shake.
 [Map300]
 Yo, champ in the making!
 Yo, champ in the making!
@@ -65280,7 +65166,7 @@ Café
 Iced Lattes
 Latte Gelado
 55
-Hot Cocao
+Hot Cocoa
 Chocolate Quente
 56
 Chocolate Milk
