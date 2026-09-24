@@ -39161,7 +39161,7 @@ Limonada
 Moomoo Milk
 Leite De Moomoo
 Rare Candy
-Rare Candy
+Doce Raro
 Vanilla Tulumba
 Churro De Baunilha
 Safari Ball
@@ -39413,7 +39413,7 @@ Saccharite Pick
 Surf Board
 Surf Board
 Chasm ID Card
-Chasm ID Card
+Cartão ID Chasm
 Climbing Gear
 Climbing Gear
 Flora Sceptre
@@ -39453,7 +39453,7 @@ Magnetic Gauntlet
 Chroma Clarion
 Chroma Clarion
 House Deed
-House Deed
+Escritura Da Casa
 Gleam Powder
 Pó Cintilante
 Viral Helix
@@ -39465,23 +39465,23 @@ Performance Analyzer 2
 Battle Report
 Relatório De Batalha
 Milk Bone Treat
-Milk Bone Treat
+Petisco De Leite
 OmniDrive
 OmniDrive
 Ancient Sea Water
 Ancient Sea Water
 Cup of Coffee
-Cup of Coffee
+Copo De Café
 LuxTech Shipment
-LuxTech Shipment
+Entrega LuxTech
 Weird Package
-Weird Package
+Pacote Estranho
 Aegis ID Card
-Aegis ID Card
+Cartão ID Aegis
 Incriminating Evidence
-Incriminating Evidence
+Prova Incriminadora
 Digit Slip
-Digit Slip
+Papel Com Dígito
 Sigil Left Half
 Sigil Left Half
 Sigil Right Half
@@ -39489,31 +39489,31 @@ Sigil Right Half
 Carnation Sigil
 Carnation Sigil
 Condensed Light
-Condensed Light
+Luz Condensada
 Chamber 1 Key
-Chamber 1 Key
+Chave Da Câmara 1
 Chamber 2 Key
-Chamber 2 Key
+Chave Da Câmara 2
 Chamber 3 Key
-Chamber 3 Key
+Chave Da Câmara 3
 Chamber 4 Key
-Chamber 4 Key
+Chave Da Câmara 4
 Chamber 5 Key
-Chamber 5 Key
+Chave Da Câmara 5
 Chamber 6 Key
-Chamber 6 Key
+Chave Da Câmara 6
 Chamber 7 Key
-Chamber 7 Key
+Chave Da Câmara 7
 Chamber 8 Key
-Chamber 8 Key
+Chave Da Câmara 8
 UB Containment Key
-UB Containment Key
+Chave Contenção De UCs
 Factory Pass
-Factory Pass
+Passe Para A Fábrica
 Ruined Tower Key
-Ruined Tower Key
+Chave Torre Em Ruínas
 Latent Seed
-Latent Seed
+Semente Latente
 Alloyed Lump
 Pedaço Metálico
 Alloyed Blade
@@ -39521,15 +39521,15 @@ Lâmina Metálica
 Alloyed Wire
 Fio Metálico
 Space-time Shard
-Space-time Shard
+Fragmento Espaço-Tempo
 Old USB Drive
-Old USB Drive
+Pen-Drive Velho
 Gilded Apricorn
-Gilded Apricorn
+Bolota Dourada
 Ragged Journal
 Ragged Journal
 VIP Card
-VIP Card
+Cartão VIP
 Ominous Egg
 Ominous Egg
 Smart Phone
@@ -40064,7 +40064,7 @@ Limonadas
 Moomoo Milks
 Leite De Moomoo
 Rare Candies
-Rare Candies
+Doces Raros
 Vanilla Tulumba
 Churros De Baunilha
 Safari Balls
@@ -40316,7 +40316,7 @@ Saccharite Picks
 Surf Boards
 Surf Boards
 Chasm ID Cards
-Chasm ID Cards
+Cartões ID Chasm
 Climbing Gears
 Climbing Gears
 Flora Sceptres
@@ -40356,7 +40356,7 @@ Magnetic Gauntlets
 Chroma Clarions
 Chroma Clarions
 House Deeds
-House Deeds
+Escrituras Da Casa
 Gleam Powder
 Pós Cintilantes
 Viral Helices
@@ -40368,23 +40368,23 @@ Performance Analyzers 2
 Battle Reports
 Relatórios De Batalha
 Milk Bone Treats
-Milk Bone Treats
+Petisco De Leite
 OmniDrives
 OmniDrives
 Ancient Sea Water
 Ancient Sea Water
 Cups of Coffee
-Cups of Coffee
+Copos De Café   
 LuxTech Shipments
-LuxTech Shipments
+Entregas LuxTech
 Weird Packages
-Weird Packages
+Pacotes Estranhos
 Aegis ID Cards
-Aegis ID Cards
+Cartões ID Aegis
 Incriminating Evidence
-Incriminating Evidence
+Provas Incriminadoras
 Digit Slips
-Digit Slips
+Papéis Com Dígito
 Sigils Left Half
 Sigils Left Half
 Sigils Right Half
@@ -40392,31 +40392,31 @@ Sigils Right Half
 Carnation Sigil
 Carnation Sigil
 Condensed Light
-Condensed Light
+Luzes Condensadas
 Chamber 1 Keys
-Chamber 1 Keys
+Chaves Da Câmara 1
 Chamber 2 Keys
-Chamber 2 Keys
+Chaves Da Câmara 2
 Chamber 3 Keys
-Chamber 3 Keys
+Chaves Da Câmara 3
 Chamber 4 Keys
-Chamber 4 Keys
+Chaves Da Câmara 4
 Chamber 5 Keys
-Chamber 5 Keys
+Chaves Da Câmara 5
 Chamber 6 Keys
-Chamber 6 Keys
+Chaves Da Câmara 6
 Chamber 7 Keys
-Chamber 7 Keys
+Chaves Da Câmara 7
 Chamber 8 Keys
-Chamber 8 Keys
+Chaves Da Câmara 8
 UB Containment Keys
-UB Containment Keys
+Chaves Inibição UCs
 Factory Passes
-Factory Passes
+Passes Para A Fábrica
 Ruined Tower Keys
-Ruined Tower Keys
+Chaves Da Torre Em Ruínas
 Latent Seeds
-Latent Seeds
+Semente Latente
 Alloyed Lumps
 Pedaços Metálicos
 Alloyed Blades
@@ -40424,15 +40424,15 @@ Lâminas Metálicas
 Alloyed Wires
 Fios Metálicos
 Space-time Shards
-Space-time Shards
+Fragmentos Espaço-Tempo
 Old USB Drive
-Old USB Drive
+Pen-Drives Velhos
 Gilded Apricorns
-Gilded Apricorns
+Bolotas Douradas
 Ragged Journal
 Ragged Journal
 VIP Cards
-VIP Cards
+Cartões VIP
 Ominous Eggs
 Ominous Eggs
 Smart Phones
@@ -41215,7 +41215,7 @@ A food grade mining tool. Allows you to extract EXP. Candy from saccharite depos
 A surf board, allowing you to surf on water.
 A surf board, allowing you to surf on water.
 An ID card which unlocks Team Chasm gates and doors, giving access to dangers and rewards.
-An ID card which unlocks Team Chasm gates and doors, giving access to dangers and rewards.
+Um cartão identificador que abre portas e portões da Equipe Chasm, te levando a perigos e recompensas.
 A set of climbing gear, allowing you to climb on white rocks.
 A set of climbing gear, allowing you to climb on white rocks.
 An ancient kingly rod. You can use it to make certain plants grow.
@@ -41255,7 +41255,7 @@ An electrified glove with a claw-like shape. Recovers the first failed Poké Bal
 An ancient horn. Sound it to start a 3v3 wild battle. Foes will be higher level and likely to have rare moves.
 An ancient horn. Sound it to start a 3v3 wild battle. Foes will be higher level and likely to have rare moves.
 Proof of ownership for the house you bought in Prizca East.
-Proof of ownership for the house you bought in Prizca East.
+Prova de propriedade para a casa que você comprou na Prizca Oriental.
 A small vial of gleaming powder. Can be used once to ensure the next wild Pokémon you find is shiny.
 Um pequeno frasco de pó cintilante. Consuma para garantir que o próximo Pokémon encontrado seja Shiny.
 Infinitely mutating alien DNA. It allows a Pokémon with two abilities to switch abilities when used.
@@ -41267,23 +41267,23 @@ An upgraded, hi-tech recording device. It increases experience earned from battl
 A detailed report on how to improve as a trainer. If you decide to read it, your level cap will be raised by 5.
 Um relatório detalhado sobre como melhorar como treinador. Caso leia, seu limite de nível aumentará em 5.
 It would be a delicious treat if you were a Pokémon.
-It would be a delicious treat if you were a Pokémon.
+Seria um petisco delicioso se você fosse um Pokémon.
 A mysterious data storage device. Plug it into any PC to unlock The Omnitutor.
 A mysterious data storage device. Plug it into any PC to unlock The Omnitutor.
 A vial of shimmering ocean water. It makes a certain Pokémon evolve.
 A vial of shimmering ocean water. It makes a certain Pokémon evolve.
 It's a cup filled with warm coffee. You probably shouldn't be keeping this in your backpack.
-It's a cup filled with warm coffee. You probably shouldn't be keeping this in your backpack.
+É um copo cheio de café quente. Você provavelmente não deveria estar carregando isso na sua mochila.
 A package containing an important shipment destined for LuxTech.
-A package containing an important shipment destined for LuxTech.
+Um pacote contendo uma entrega importante destinado para LuxTech.
 A suspicious package. Probably best not to look inside.
-A suspicious package. Probably best not to look inside.
+Um pacote suspeito. É provavelmente melhor não olhar dentro.
 A forged ID card. It will let you pretend you work at Aegis Insurance.
-A forged ID card. It will let you pretend you work at Aegis Insurance.
+Um cartão identificador forjado. Te permitirá fingir trabalhar na Seguradora Aegis.
 A device containing evidence against Aegis Insurance.
-A device containing evidence against Aegis Insurance.
+Um dispositivo contendo evidências contra a Seguradora Aegis.
 A slip of paper with one digit of the code for the lock to Rafael's gym door.
-A slip of paper with one digit of the code for the lock to Rafael's gym door.
+Um pedaço de papel com um dígito do código para a tranca da porta do ginásio de Rafael.
 The left half of the sigil of an ancient order of knights.
 The left half of the sigil of an ancient order of knights.
 The right half of the sigil of an ancient order of knights.
@@ -41291,31 +41291,31 @@ The right half of the sigil of an ancient order of knights.
 An ancient sigil of the Carnation Knights. You feel it pulling you towards another place.
 An ancient sigil of the Carnation Knights. You feel it pulling you towards another place.
 A strange ball of light. You should gather these for a friend.
-A strange ball of light. You should gather these for a friend.
+Um estranho orbe de luz. Você deveria coletá-los para uma amiga.
 The key to the first chamber containing a powerful avatar.
-The key to the first chamber containing a powerful avatar.
+A chave para a primeira câmara contendo um poderoso avatar.
 The key to the second chamber containing a powerful avatar.
-The key to the second chamber containing a powerful avatar.
+A chave para a segunda câmara contendo um poderoso avatar.
 The key to the third chamber containing a powerful avatar.
-The key to the third chamber containing a powerful avatar.
+A chave para a terceira câmara contendo um poderoso avatar.
 The key to the fourth chamber containing a powerful avatar.
-The key to the fourth chamber containing a powerful avatar.
+A chave para a quarta câmara contendo um poderoso avatar.
 The key to the fifth chamber containing a powerful avatar.
-The key to the fifth chamber containing a powerful avatar.
+A chave para a quinta câmara contendo um poderoso avatar.
 The key to the sixth chamber containing a powerful avatar.
-The key to the sixth chamber containing a powerful avatar.
+A chave para a sexta câmara contendo um poderoso avatar.
 The key to the seventh chamber containing a powerful avatar.
-The key to the seventh chamber containing a powerful avatar.
+A chave para a sétima câmara contendo um poderoso avatar.
 The key to the eighth chamber containing a powerful avatar.
-The key to the eighth chamber containing a powerful avatar.
+A chave para a oitava câmara contendo um poderoso avatar.
 A key which unlocks the Ultra Beast Containment Room at Novo College.
-A key which unlocks the Ultra Beast Containment Room at Novo College.
+Uma chave que destranca a Sala De Contenção De Ultracriaturas no Instituto De Nova.
 A pass that grants you access through the locked door in Victoire's factory.
-A pass that grants you access through the locked door in Victoire's factory.
+Um passe que te garante acesso à porta trancada da fábrica de Victoire.
 A key which unlocks the ruined tower on the Sandstone Estuary coastline.
-A key which unlocks the ruined tower on the Sandstone Estuary coastline.
+Uma chave que destranca a torre em ruínas às margens do Estuário De Arenito.
 A simple tree seed. It hums with the potential for great change.
-A simple tree seed. It hums with the potential for great change.
+Uma simples semente de árvore. Vibra com o potencial de grande mudança.
 Misshapen, unusual metal. Useless without a way to sharpen it.
 Metal disforme e incomum. Inútil sem uma forma de afiá-lo.
 A fragile blade of unusual metal. Sharp enough to cut alloyed overgrowth.
@@ -41323,15 +41323,15 @@ Uma lâmina frágil de metal incomum. Afiada o suficiente para cortar a vegetaç
 A thin, nearly invisible strand of unusual metal.
 Um fio fino e quase invisível feito de metal incomum.
 A sliver of the fragment of the universe. Highly unstable.
-A sliver of the fragment of the universe. Highly unstable.
+Uma lasca do fragmento do universo. Altamente instável.
 A USB containing data from a Team Chasm's early days.
-A USB containing data from a Team Chasm's early days.
+Um USB contendo dados dos primórdios da Equipe Chasm.
 A gleaming golden fruit. Someone skilled may be able to craft it into a unique Poké Ball.
-A gleaming golden fruit. Someone skilled may be able to craft it into a unique Poké Ball.
+Uma fruta dourada e brilhante.<<n>>Alguém habilidoso pode ser capaz de transformá-la em uma Pokébola única.
 A damaged traveler's journal. If you find its scattered pages, you can put them back in place.
 A damaged traveler's journal. If you find its scattered pages, you can put them back in place.
 A glamorous steel card. While holding it, all vendors cost 10% less and Pokécenter Marts have extra items.
-A glamorous steel card. While holding it, all vendors cost 10% less and Pokécenter Marts have extra items.
+Um glamoroso cartão metálico. Vendedores cobram 10% menos e lojas de Centros Pokémon têm mais itens.
 A vessel for negative emotions. To earn its rewards, perfect trainers and make them flee from you.
 A vessel for negative emotions. To earn its rewards, perfect trainers and make them flee from you.
 A smart phone. Use it to take selfies.
