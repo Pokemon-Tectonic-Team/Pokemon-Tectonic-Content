@@ -39203,11 +39203,11 @@ DNA Splicers
 Reveal Glass
 Reveal Glass
 Shiny Charm
-Shiny Charm
+Amuleto Brilhante
 Sweet Tooth
-Sweet Tooth
+Dente De Leite
 Soothe Charm
-Soothe Charm
+Amuleto Agradável
 Red Orb
 Red Orb
 Blue Orb
@@ -39257,9 +39257,9 @@ Rusted Sword
 Reins of Unity
 Reins of Unity
 EXP Charm
-EXP Charm
+Amuleto De EXP
 Catching Charm
-Catching Charm
+Amuleto De Captura
 Grass Token
 Grass Token
 Water Token
@@ -39295,47 +39295,47 @@ Banana De Dinamite
 Figment
 Utopia
 Saccharite Pick
-Saccharite Pick
+Picareta De Sacarita
 Surf Board
-Surf Board
+Prancha De Surfe
 Chasm ID Card
 Cartão ID Chasm
 Climbing Gear
-Climbing Gear
+Aparato De Escalada
 Flora Sceptre
-Flora Sceptre
+Cetro Floral
 Abraporter
 Abraporter
 Rematerializer
-Rematerializer
+Rematerializador
 EXP-EZ Dispenser
 REXPartidor
 Universal Formalizer
 Universal Formalizer
 Spanning Bands
-Spanning Bands
+Bandanas Cruzadas
 Pocket Totem
 Pocket Totem
 Box Link
 Box Link
 Styling Kit
-Styling Kit
+Kit De Estilização
 Tarot Amulet
-Tarot Amulet
+Amuleto De Tarot
 Noise Machine
-Noise Machine
+Máquina De Ruído
 Pokémon Lure
-Pokémon Lure
+Insenso Pokémon
 Poké X-Ray
 Poké X-Ray
 Poké X-Ray 2
 Poké X-Ray 2
 Cell Booster
-Cell Booster
+Impulsionador Celular
 Rusted Compass
 Rusted Compass
 Magnetic Gauntlet
-Magnetic Gauntlet
+Manopla Magnética
 Chroma Clarion
 Chroma Clarion
 House Deed
@@ -39345,9 +39345,9 @@ Pó Cintilante
 Viral Helix
 Viral Helix
 Performance Analyzer
-Performance Analyzer
+Revisor De Desempenho
 Performance Analyzer 2
-Performance Analyzer 2
+Revisor De Desempenho 2
 Battle Report
 Relatório De Batalha
 Milk Bone Treat
@@ -39417,7 +39417,7 @@ Ragged Journal
 VIP Card
 Cartão VIP
 Ominous Egg
-Ominous Egg
+Ovo Macabro
 Smart Phone
 Smart Phone
 VS Recorder
@@ -39425,7 +39425,7 @@ VS Recorder
 Primal Bead
 Lágrima Primitiva
 Primal Clay
-Primal Clay
+Argila Primitiva
 Choice Crown
 Choice Crown
 Zenith Band
@@ -40106,11 +40106,11 @@ DNA Splicers
 Reveal Glasses
 Reveal Glasses
 Shiny Charms
-Shiny Charms
+Amuletos Brilhantes
 Sweet Teeth
-Sweet Teeth
+Dentes De Leite
 Soothe Charms
-Soothe Charms
+Amuletos Agradáveis
 Red Orbs
 Red Orbs
 Blue Orbs
@@ -40160,9 +40160,9 @@ Rusted Swords
 Reins of Unity
 Reins of Unity
 EXP Charms
-EXP Charms
+Amuletos De EXP
 Catching Charms
-Catching Charms
+Amuletos De Captura
 Grass Tokens
 Grass Tokens
 Water Tokens
@@ -40198,47 +40198,47 @@ Bananas De Dinamite
 Figments
 Utopias
 Saccharite Picks
-Saccharite Picks
+Picaretas De Sacarita
 Surf Boards
-Surf Boards
+Pranchas De Surfe
 Chasm ID Cards
 Cartões ID Chasm
 Climbing Gears
-Climbing Gears
+Aparatos De Escalada
 Flora Sceptres
-Flora Sceptres
+Cetros Florais
 Abraporters
 Abraporters
 Rematerializers
-Rematerializers
+Rematerializadores
 EXP-EZ Dispensers
 REXPartidores
 Universal Formalizers
 Universal Formalizers
 Spanning Bands
-Spanning Bands
+Bandanas Cruzadas
 Pocket Totems
 Pocket Totems
 Box Links
 Box Links
 Styling Kits
-Styling Kits
+Kits De Estilização
 Tarot Amulets
-Tarot Amulets
+Amuletos De Tarot
 Noise Machines
-Noise Machines
+Máquinas De Ruído
 Pokémon Lures
-Pokémon Lures
+Insensos Pokémon
 Poké X-Rays
 Poké X-Rays
 Poké X-Rays 2
 Poké X-Rays 2
 Cell Boosters
-Cell Boosters
+Impulsionadores Celulares
 Rusted Compass
 Rusted Compass
 Magnetic Gauntlets
-Magnetic Gauntlets
+Manoplas Magnéticas
 Chroma Clarions
 Chroma Clarions
 House Deeds
@@ -40248,9 +40248,9 @@ Pós Cintilantes
 Viral Helices
 Viral Helices
 Performance Analyzers
-Performance Analyzers
+Revisores De Desempenho
 Performance Analyzers 2
-Performance Analyzers 2
+Revisores De Desempenho 2
 Battle Reports
 Relatórios De Batalha
 Milk Bone Treats
@@ -40320,7 +40320,7 @@ Ragged Journal
 VIP Cards
 Cartões VIP
 Ominous Eggs
-Ominous Eggs
+Ovos Macabros
 Smart Phones
 Smart Phones
 VS Recorders
@@ -40328,7 +40328,7 @@ VS Recorders
 Primal Bead
 Lágrimas Primitivas
 Primal Clay
-Primal Clay
+Argilas Primitivas
 Choice Crowns
 Choice Crowns
 Zenith Bands
@@ -41005,11 +41005,11 @@ A splicer that fuses Kyurem and a certain Pokémon. They are said to have been o
 A glass that reveals the truth. It is a mysterious glass that returns a Pokémon back to its original shape.
 A glass that reveals the truth. It is a mysterious glass that returns a Pokémon back to its original shape.
 A shiny charm which doubles the chance of finding a Shiny Pokémon.
-A shiny charm which doubles the chance of finding a Shiny Pokémon.
+Um amuleto brilhante que dobra suas chances de encontrar Pokémon Shinies.
 A charm in the shape of a tooth. It increases the EXP. gained from EXP Candy by 15%.
-A charm in the shape of a tooth. It increases the EXP. gained from EXP Candy by 15%.
+Um amuleto com forma de dente. Aumenta o EXP. ganho de Doces De EXP. em 15%.
 A comforting charm which doubles the happiness your Pokémon gain from being close to you.
-A comforting charm which doubles the happiness your Pokémon gain from being close to you.
+Um amuleto reconfortante que dobra a felicidade que seus Pokémon ganham por estarem próximos a você.
 A shiny red orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
 A shiny red orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
 A shiny blue orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
@@ -41059,9 +41059,9 @@ Used by a hero to halt a terrible disaster. The wielder deals 10% more move dama
 Reins that people presented to the king. They enable Calyrex to connect with its beloved steed.
 Reins that people presented to the king. They enable Calyrex to connect with its beloved steed.
 A charm that increases the EXP. Pokémon earn by 10%. A machine-like object is inside the charm.
-A charm that increases the EXP. Pokémon earn by 10%. A machine-like object is inside the charm.
+Um amuleto que aumenta a EXP. que seus Pokémon ganham em 10%. Há um objeto mecânico dentro do amuleto.
 A charm that doubles the chance of getting a critical catch.
-A charm that doubles the chance of getting a critical catch.
+Um amuleto que dobra suas chances de obter uma captura crítica.
 A token which can be exchanged for a Grass-type at the Starter Store in Novo Town.
 A token which can be exchanged for a Grass-type at the Starter Store in Novo Town.
 A token which can be exchanged for a Water-type at the Starter Store in Novo Town.
@@ -41097,47 +41097,47 @@ Uma banana de dinamite. É perfeita para destruir pequenos pedaços de pedra.
 A wisp of ideas with infinite potential. Use it on a Pokémon to teach any one of their legal moves.
 Um aglomerado de ideias com potencial infinito. Use para ensinar qualquer movimento lícito a um Pokémon.
 A food grade mining tool. Allows you to extract EXP. Candy from saccharite deposits.
-A food grade mining tool. Allows you to extract EXP. Candy from saccharite deposits.
+Ferramenta de mineração segura para alimentos. Te permite extrair Doces De EXP. de depósitos de sacarita.
 A surf board, allowing you to surf on water.
-A surf board, allowing you to surf on water.
+Uma prancha de surfe. Te permite surfar na água.
 An ID card which unlocks Team Chasm gates and doors, giving access to dangers and rewards.
 Um cartão identificador que abre portas e portões da Equipe Chasm, te levando a perigos e recompensas.
 A set of climbing gear, allowing you to climb on white rocks.
-A set of climbing gear, allowing you to climb on white rocks.
+Conjunto de equipamentos para alpinismo, te permitindo escalar em pedras brancas.
 An ancient kingly rod. You can use it to make certain plants grow.
-An ancient kingly rod. You can use it to make certain plants grow.
+Um bastão ancestral da realeza. Você pode usá-lo para fazer certas plantas crescerem.
 A teleporter which brings you to your last safe spot using the power of Abras.
 A teleporter which brings you to your last safe spot using the power of Abras.
 A 3D printer which automatically copies consumed held items after battles.
-A 3D printer which automatically copies consumed held items after battles.
+Uma impressora 3D que automaticamente copia itens consumidos após batalhas.
 A machine that stores EXP Candy and excess EXP. Use it on your Pokémon to feed them candy.
 Uma máquina que armazena Doces De Exp. Use em seus Pokémon para dá-los os Doces.
 Use on a Pokémon to switch it into another one of its forms.
 Use on a Pokémon to switch it into another one of its forms.
 An ancient pair of interlocking ceramic rings. Unlocks the ability to teleport between Avatar Totems.
-An ancient pair of interlocking ceramic rings. Unlocks the ability to teleport between Avatar Totems.
+Um antigo par de anéis de cerâmica entrelaçados. Desbloqueia o tele-<<n>>transporte entre Totens De Avatar.
 A miniature Avatar Totem. Use it to teleport to any unlocked Avatar Totems throughout Makya.
 A miniature Avatar Totem. Use it to teleport to any unlocked Avatar Totems throughout Makya.
 An advanced transporter which allows you to access your Pokémon Storage to withdraw or deposit Pokémon.
 An advanced transporter which allows you to access your Pokémon Storage to withdraw or deposit Pokémon.
 A suite of training tools which allows you to modify your Pokémon's style points.
-A suite of training tools which allows you to modify your Pokémon's style points.
+Um conjunto de ferramentas de treinamento que te permite modificar os Pontos De Estilo de seus Pokémon.
 If reversed, gym leaders and story fights will become harder through unique curses.
-If reversed, gym leaders and story fights will become harder through unique curses.
+Se invertido, líderes de ginásio e batalhas da história ficarão mais difíceis através de maldições únicas.
 A small, versatile machine that can be used to repel wild Pokémon, or draw them near.
-A small, versatile machine that can be used to repel wild Pokémon, or draw them near.
+Uma máquina compacta e versátil que pode ser usada para repelir ou atrair Pokémon selvagens.
 A fragrance that increases the chance of wild double battles, and attracts uncaught Pokémon.
-A fragrance that increases the chance of wild double battles, and attracts uncaught Pokémon.
+Uma fragrância que aumenta a chance de batalhas selvagens em dupla e atrai Pokémon não capturados.
 A high tech surveillance device. Use it to scout out the teams of nearby trainers or mid-battle.
 A high tech surveillance device. Use it to scout out the teams of nearby trainers or mid-battle.
 Used to scout the teams of nearby trainers and the behaviour of nearby Avatars. Can also be used mid-battle.
 Used to scout the teams of nearby trainers and the behaviour of nearby Avatars. Can also be used mid-battle.
 Condensed essence of life. Holding it allows you to run, bike, and surf faster. Can be toggled on or off.
-Condensed essence of life. Holding it allows you to run, bike, and surf faster. Can be toggled on or off.
+Essência condensada da vida. Segurá-lo te permite se mover mais rápido. Pode ser ligado e desligado.
 A small compass. Relic of a heroic age. It can be used to find lootable items nearby.
 A small compass. Relic of a heroic age. It can be used to find lootable items nearby.
 An electrified glove with a claw-like shape. Recovers the first failed Poké Ball thrown in a wild battle.
-An electrified glove with a claw-like shape. Recovers the first failed Poké Ball thrown in a wild battle.
+Uma luva eletrizada com um formato de garra. Recupera a 1ª Pokébola que falhou em uma batalha selvagem.
 An ancient horn. Sound it to start a 3v3 wild battle. Foes will be higher level and likely to have rare moves.
 An ancient horn. Sound it to start a 3v3 wild battle. Foes will be higher level and likely to have rare moves.
 Proof of ownership for the house you bought in Prizca East.
@@ -41147,15 +41147,15 @@ Um pequeno frasco de pó cintilante. Consuma para garantir que o próximo Pokém
 Infinitely mutating alien DNA. It allows a Pokémon with two abilities to switch abilities when used.
 Infinitely mutating alien DNA. It allows a Pokémon with two abilities to switch abilities when used.
 A hi-tech recording device which creates a Battle Report by analyzing the results of momentous battles.
-A hi-tech recording device which creates a Battle Report by analyzing the results of momentous battles.
+Um dispositivo tecnológico que cria um Relatório De Batalha ao analisar o resultado de batalhas importantes.
 An upgraded, hi-tech recording device. It increases experience earned from battles by 10%.
-An upgraded, hi-tech recording device. It increases experience earned from battles by 10%.
+Um dispositivo tecnológico gravador melhorado. Aumenta a Experiência ganha em batalhas em 10%.
 A detailed report on how to improve as a trainer. If you decide to read it, your level cap will be raised by 5.
 Um relatório detalhado sobre como melhorar como treinador. Caso leia, seu limite de nível aumentará em 5.
 It would be a delicious treat if you were a Pokémon.
 Seria um petisco delicioso se você fosse um Pokémon.
 A mysterious data storage device. Plug it into any PC to unlock The Omnitutor.
-A mysterious data storage device. Plug it into any PC to unlock The Omnitutor.
+Um misterioso dispositivo de armazenamento. Conecte a qualquer PC para desbloquear o OmniTutor.
 A vial of shimmering ocean water. It makes a certain Pokémon evolve.
 A vial of shimmering ocean water. It makes a certain Pokémon evolve.
 It's a cup filled with warm coffee. You probably shouldn't be keeping this in your backpack.
@@ -41219,7 +41219,7 @@ A damaged traveler's journal. If you find its scattered pages, you can put them 
 A glamorous steel card. While holding it, all vendors cost 10% less and Pokécenter Marts have extra items.
 Um glamoroso cartão metálico. Vendedores cobram 10% menos e lojas de Centros Pokémon têm mais itens.
 A vessel for negative emotions. To earn its rewards, perfect trainers and make them flee from you.
-A vessel for negative emotions. To earn its rewards, perfect trainers and make them flee from you.
+Um receptáculo de emoções ruins. Para ganhar recompensas, aperfeiçoe treinadores e faça-os fugir de você.
 A smart phone. Use it to take selfies.
 A smart phone. Use it to take selfies.
 A hi-tech battle recording device. Use it to manage and replay past battles.
@@ -41227,7 +41227,7 @@ A hi-tech battle recording device. Use it to manage and replay past battles.
 A drop of ancient clay. Use it to summon a Pokemon from a resonating totem.
 Uma gota ancestral de argila. Use para invocar um Pokémon em um totem ressonante.
 A lump of ancient clay. Allows you to summon any number of Pokemon from resonating totems.
-A lump of ancient clay. Allows you to summon any number of Pokemon from resonating totems.
+Um aglomerado de argila ancestral. Te permite invocar qualquer número de Pokémon em totens ressonantes.
 Held item which ups Attacking stats and Speed by 50%, but allows the use of only one move.
 Held item which ups Attacking stats and Speed by 50%, but allows the use of only one move.
 Held item which doubles Attack, but allows the use of only one move.
