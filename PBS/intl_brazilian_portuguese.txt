@@ -40260,7 +40260,7 @@ OmniDrives
 Ancient Sea Water
 Ancient Sea Water
 Cups of Coffee
-Copos De Café   
+Copos De Café
 LuxTech Shipments
 Entregas LuxTech
 Weird Packages
@@ -48167,7 +48167,7 @@ Feebas' Fin Buildings
 Construções Da Nadadeira De Feebas
 299
 Fin Center
-Centro Pokémon Da Nadadeira De Feebas 
+Centro Pokémon Da Nadadeira De Feebas
 300
 Team Chasm HQ Gym
 Ginásio Do QG Da Equipe Chasm
@@ -48521,7 +48521,7 @@ Vernal Clearing
 Clareira Primaveril
 417
 Crackling Cave
-Caverna Crepitante 
+Caverna Crepitante
 418
 M. Munna Den 3
 Covil M. Munna 3
@@ -48632,7 +48632,7 @@ Deep Dissipated Plane
 Profundezas Do Plano Dissipado
 454
 Old Back Room
-Bastidor Antigo 
+Bastidor Antigo
 455
 Karanfil Estates
 Distrito Karanfil
@@ -62895,7 +62895,7 @@ Unlocking achievement {1}.
 Invalid Achievement {1}
 Invalid Achievement {1}
 Achievement Unlocked:\<<n>>\c<<[>>2<<]>>{1}
-Conquista Desbloquada:\<<n>>\c<<[>>2<<]>>{1}
+Conquista Desbloqueada:\<<n>>\c<<[>>2<<]>>{1}
 \cl\l[2]\op\wu<ac>{1}</ac>\wtnp[{2}]
 \cl\l[2]\op\wu<ac>{1}</ac>\wtnp[{2}]
 Achievements cleared.
