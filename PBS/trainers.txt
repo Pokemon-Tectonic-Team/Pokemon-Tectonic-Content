@@ -303,23 +303,24 @@ Pokemon = BELDUM,17
 #-------------------------------
 [SCIENTIST_M2,Dexter]
 Pokemon = GRIMER,20
-    Moves = POISONGAS,SLUDGE,DISABLE,MUDSHOT
+    Moves = POISONGAS,SLUDGE,MUDSHOT
     AbilityIndex = 0 # Piercing Poison
 Pokemon = CHARMELEON,20
-    Moves = IGNITE,VACUUMWAVE,FIREFANG,TWISTER
+    Moves = FIREFANG,TWISTER,VACUUMWAVE
     AbilityIndex = 0 # Pure Rage
-Pokemon = SOLOSIS,20
-    AbilityIndex = 1 # Juggernaut
+Pokemon = SPINARAK,20
+    Moves = PROTECT,SUCKBLOOD,VENOMDRENCH
+    AbilityIndex = 0 # Venom Gorger
 #-------------------------------
 [SCIENTIST_F,Marie]
 Pokemon = CARKOL,20
-    Moves = FLAMECHARGE,DIAMONDBOLT,RAPIDSPIN,IGNITE
+    Moves = FLAMECHARGE,DIAMONDBOLT,RAPIDSPIN
     AbilityIndex = 1 # Fuel Hungry
-Pokemon = KOFFING,20
-    Moves = POISONGAS,BOREALWIND,DAZZLE,CLEARSMOG
-    AbilityIndex = 1 # Fumigate
+Pokemon = GASTLY,20
+    Moves = WILLOWISP,ICYWIND,SMOG
+    AbilityIndex = 0 # Levitate
 Pokemon = SLUGMA,20
-    Moves = INCINERATE,CRYSTALGLEAM,STRUGGLEBUG,YAWN
+    Moves = INCINERATE,CRYSTALGLEAM,STRUGGLEBUG
     AbilityIndex = 1 # Flame Body
 #-------------------------------
 [LEADER_Eko,Eko]
