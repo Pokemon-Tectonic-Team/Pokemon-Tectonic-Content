@@ -38925,11 +38925,11 @@ Insígnia Da Coragem
 Clear Amulet
 Amuleto Purificador
 Adamant Crystal
-Adamant Crystal
+Orbe De Diamante
 Lustrous Globe
-Lustrous Globe
+Globo Lustroso
 Griseous Core
-Griseous Core
+Núcleo Platinado
 Douse Drive
 Douse Drive
 Shock Drive
@@ -39193,15 +39193,15 @@ Fruta Kee
 Maranga Berry
 Fruta Maranga
 Bicycle
-Bicycle
+Bicicleta
 Region Map
-Region Map
+Mapa Regional
 Gracidea
-Gracidea
+Gracídea
 DNA Splicers
-DNA Splicers
+Combinador De DNA
 Reveal Glass
-Reveal Glass
+Espelho Revelador
 Shiny Charm
 Amuleto Brilhante
 Sweet Tooth
@@ -39225,13 +39225,13 @@ Sonho Grande
 Ability Capsule
 Cápsula Habilidade
 Prison Bottle
-Prison Bottle
+Garrafa Prisão
 N-Solarizer
-N-Solarizer
+Necrossolarizador
 N-Lunarizer
-N-Lunarizer
+Necrolunarizador
 Zygarde Cube
-Zygarde Cube
+Cubo De Zygarde
 Exp. Candy XS
 Doce De Exp. PP
 Exp. Candy S
@@ -39255,7 +39255,7 @@ Rusted Shield
 Rusted Sword
 Rusted Sword
 Reins of Unity
-Reins of Unity
+Rédeas Da União
 EXP Charm
 Amuleto De EXP
 Catching Charm
@@ -39285,7 +39285,7 @@ Dreepy Egg
 Eevee Ticket
 Eevee Ticket
 Aid Kit
-Aid Kit
+Kit Médico
 Kit Expansion
 Expansão De Kit
 Medical Upgrade
@@ -39305,19 +39305,19 @@ Aparato De Escalada
 Flora Sceptre
 Cetro Floral
 Abraporter
-Abraporter
+Abraportador
 Rematerializer
 Rematerializador
 EXP-EZ Dispenser
 REXPartidor
 Universal Formalizer
-Universal Formalizer
+Formalizador Universal
 Spanning Bands
 Bandanas Cruzadas
 Pocket Totem
-Pocket Totem
+Totem De Bolso
 Box Link
-Box Link
+Caixa Portátil
 Styling Kit
 Kit De Estilização
 Tarot Amulet
@@ -39327,23 +39327,23 @@ Máquina De Ruído
 Pokémon Lure
 Insenso Pokémon
 Poké X-Ray
-Poké X-Ray
+Poké Raio X
 Poké X-Ray 2
-Poké X-Ray 2
+Poké Raio X 2
 Cell Booster
 Impulsionador Celular
 Rusted Compass
-Rusted Compass
+Bússola Enferrujada
 Magnetic Gauntlet
 Manopla Magnética
 Chroma Clarion
-Chroma Clarion
+Clarim Vívido
 House Deed
 Escritura Da Casa
 Gleam Powder
 Pó Cintilante
 Viral Helix
-Viral Helix
+Espiral Viral
 Performance Analyzer
 Revisor De Desempenho
 Performance Analyzer 2
@@ -39369,11 +39369,11 @@ Prova Incriminadora
 Digit Slip
 Papel Com Dígito
 Sigil Left Half
-Sigil Left Half
+Parte Esq. De Sigilo
 Sigil Right Half
-Sigil Right Half
+Parte Dir. De Sigilo
 Carnation Sigil
-Carnation Sigil
+Sigilo Dos Craveiros
 Condensed Light
 Luz Condensada
 Chamber 1 Key
@@ -39413,15 +39413,15 @@ Pen-Drive Velho
 Gilded Apricorn
 Bolota Dourada
 Ragged Journal
-Ragged Journal
+Diário Rasgado
 VIP Card
 Cartão VIP
 Ominous Egg
 Ovo Macabro
 Smart Phone
-Smart Phone
+Celular
 VS Recorder
-VS Recorder
+Gravador VS
 Primal Bead
 Lágrima Primitiva
 Primal Clay
@@ -39828,11 +39828,11 @@ Insígnias Da Coragem
 Clear Amulets
 Amuletos Purificadores
 Adamant Crystals
-Adamant Crystals
+Orbe De Diamante
 Lustrous Globes
-Lustrous Globes
+Globos Lustrosos
 Griseous Cores
-Griseous Cores
+Núcleos Platinados
 Douse Drives
 Douse Drives
 Shock Drives
@@ -40096,15 +40096,15 @@ Frutas Kee
 Maranga Berries
 Frutas Maranga
 Bicycles
-Bicycles
+Bicicletas
 Region Maps
-Region Maps
+Mapas Regionais
 Gracideas
-Gracideas
+Gracídeas
 DNA Splicers
-DNA Splicers
+Combinadores De DNA
 Reveal Glasses
-Reveal Glasses
+Espelhos Reveladores
 Shiny Charms
 Amuletos Brilhantes
 Sweet Teeth
@@ -40128,13 +40128,13 @@ Sonhos Grandes
 Ability Capsule
 Cápsulas Habilidade
 Prison Bottles
-Prison Bottles
+Garrafas Prisão
 N-Solarizers
-N-Solarizers
+Necrossolarizadores
 N-Lunarizers
-N-Lunarizers
+Necrolunarizadores
 Zygarde Cubes
-Zygarde Cubes
+Cubos De Zygarde
 Exp. Candies XS
 Doces De Exp. PP
 Exp. Candies S
@@ -40158,7 +40158,7 @@ Rusted Shields
 Rusted Swords
 Rusted Swords
 Reins of Unity
-Reins of Unity
+Rédeas Da União
 EXP Charms
 Amuletos De EXP
 Catching Charms
@@ -40188,7 +40188,7 @@ Dreepy Eggs
 Eevee Tickets
 Eevee Tickets
 Aid Kits
-Aid Kits
+Kits Médicos
 Kit Expansion
 Expansões De Kit
 Medical Upgrades
@@ -40208,19 +40208,19 @@ Aparatos De Escalada
 Flora Sceptres
 Cetros Florais
 Abraporters
-Abraporters
+Abraportadores
 Rematerializers
 Rematerializadores
 EXP-EZ Dispensers
 REXPartidores
 Universal Formalizers
-Universal Formalizers
+Formalizadores Universais
 Spanning Bands
 Bandanas Cruzadas
 Pocket Totems
-Pocket Totems
+Totens De Bolso
 Box Links
-Box Links
+Caixas Portáteis
 Styling Kits
 Kits De Estilização
 Tarot Amulets
@@ -40230,23 +40230,23 @@ Máquinas De Ruído
 Pokémon Lures
 Insensos Pokémon
 Poké X-Rays
-Poké X-Rays
+Raios X Pokémon
 Poké X-Rays 2
-Poké X-Rays 2
+Raio X Pokémon 2
 Cell Boosters
 Impulsionadores Celulares
 Rusted Compass
-Rusted Compass
+Bússolas Enferrujadas
 Magnetic Gauntlets
 Manoplas Magnéticas
 Chroma Clarions
-Chroma Clarions
+Clarim Vívido
 House Deeds
 Escrituras Da Casa
 Gleam Powder
 Pós Cintilantes
 Viral Helices
-Viral Helices
+Espiral Viral
 Performance Analyzers
 Revisores De Desempenho
 Performance Analyzers 2
@@ -40272,11 +40272,11 @@ Provas Incriminadoras
 Digit Slips
 Papéis Com Dígito
 Sigils Left Half
-Sigils Left Half
+Metades Esquerdas De Sigilo
 Sigils Right Half
-Sigils Right Half
+Metades Direitas De Sigilo
 Carnation Sigil
-Carnation Sigil
+Sigilos Dos Craveiros
 Condensed Light
 Luzes Condensadas
 Chamber 1 Keys
@@ -40316,15 +40316,15 @@ Pen-Drives Velhos
 Gilded Apricorns
 Bolotas Douradas
 Ragged Journal
-Ragged Journal
+Diários Esfarrapados
 VIP Cards
 Cartões VIP
 Ominous Eggs
 Ovos Macabros
 Smart Phones
-Smart Phones
+Celulares
 VS Recorders
-VS Recorders
+Gravadores VS
 Primal Bead
 Lágrimas Primitivas
 Primal Clay
@@ -40727,11 +40727,11 @@ Equipável. O portador é protegido de Hesitação.
 A held item. The holder is protected from stat drops (except when self-inflicted).
 Equipável. O portador é protegido de diminuições de atributo (exceto quanto auto-inflingidas).
 When used on Dialga, this large, glowing gem wells with power and allows the Pokémon to change form.
-When used on Dialga, this large, glowing gem wells with power and allows the Pokémon to change form.
+Quando usada em Dialga, essa grande e brilhante jóia se enche de poder e permite ao Pokémon mudar de forma.
 When used on Palkia, this large, glowing orb wells with power and allows the Pokémon to change form.
-When used on Palkia, this large, glowing orb wells with power and allows the Pokémon to change form.
+Quando usado em Palkia, esse grande e brilhante orbe se enche de poder e permite ao Pokémon mudar de forma.
 When used on Giratina, this large, glowing gem wells with power and allows the Pokémon to change form.
-When used on Giratina, this large, glowing gem wells with power and allows the Pokémon to change form.
+Quando usada em Giratina, essa gran-<<n>>de e brilhante jóia se enche de poder e permite ao Pokémon mudar de forma.
 A cassette to be held by Genesect. It changes Techno Blast to a Water-type move.
 A cassette to be held by Genesect. It changes Techno Blast to a Water-type move.
 A cassette to be held by Genesect. It changes Techno Blast to an Electric-type move.
@@ -40995,15 +40995,15 @@ Se equipada em um Pokémon e um Ataque Físico o atinge, aumenta a Defesa dele e
 If held by a Pokémon and a special attack hits it, raises the holder's Sp. Def by three steps.
 Se equipada em um Pokémon e um Ataque Especial o atinge, aumenta a Defesa Esp. dele em três níveis.
 A folding Bicycle that enables much faster movement than the Running Shoes.
-A folding Bicycle that enables much faster movement than the Running Shoes.
+Uma bicicleta dobrável que te permite se movimentar muito mais rápido do que com os Sapatos De Corrida.
 A very convenient map that can be viewed anytime. It even shows your present location.
-A very convenient map that can be viewed anytime. It even shows your present location.
+Um mapa muito conveniente que pode ser consultado em qualquer situação. Ele até mesmo mostra onde você está.
 A flower that conveys gratitude. Use it to transform Shaymin into or out of Sky form.
-A flower that conveys gratitude. Use it to transform Shaymin into or out of Sky form.
+Uma flor que representa gratidão. Use-a para alternar Shaymin entre suas duas formas.
 A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning.
-A splicer that fuses Kyurem and a certain Pokémon. They are said to have been one in the beginning.
+Um combinador em forma de cunha que funde Kyurem e um certo Pokémon. São ditos terem sido um no início.
 A glass that reveals the truth. It is a mysterious glass that returns a Pokémon back to its original shape.
-A glass that reveals the truth. It is a mysterious glass that returns a Pokémon back to its original shape.
+Um espelho que revela a verdade. Um artefato misterioso que retorna um Pokémon à sua forma original.
 A shiny charm which doubles the chance of finding a Shiny Pokémon.
 Um amuleto brilhante que dobra suas chances de encontrar Pokémon Shinies.
 A charm in the shape of a tooth. It increases the EXP. gained from EXP Candy by 15%.
@@ -41027,13 +41027,13 @@ A especialidade de Alola--pão frito. Pode ser usado uma vez para curar as condi
 A capsule that allows a Pokémon with two Abilities to switch between these Abilities when it is used.
 Uma cápsula que, ao ser usada, permite que um Pokémon com duas habilidades alterne entre elas.
 A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago.
-A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago.
+Uma garrafa dita ter sido usada para selar o poder de um certo Pokémon há muito, muito tempo.
 A machine to fuse Necrozma, which needs light, and Solgaleo.
-A machine to fuse Necrozma, which needs light, and Solgaleo.
+Uma máquina para fundir Necrozma, que precisa de luz, e Solgaleo.
 A machine to fuse Necrozma, which needs light, and Lunala.
-A machine to fuse Necrozma, which needs light, and Lunala.
+Uma máquina para fundir Necrozma, que precisa de luz, e Lunala.
 An item holding Zygarde's Cores and Cells. You can use it to change Zygarde's form.
-An item holding Zygarde's Cores and Cells. You can use it to change Zygarde's form.
+Um item que segura os núcleos e células de Zygarde. Você pode usá-lo para trocar a forma de Zygarde.
 A candy that is packed with energy. When consumed, it will grant a single Pokémon 250 Exp. Points.
 Um doce cheio de energia. Quando consumido, dará a um Pokémon 250 pontos de Exp.
 A candy that is packed with energy. When consumed, it will grant a single Pokémon 1000 Exp. Points.
@@ -41057,7 +41057,7 @@ Used by a hero to halt a terrible disaster. The wielder takes 10% less move dama
 Used by a hero to halt a terrible disaster. The wielder deals 10% more move damage.
 Used by a hero to halt a terrible disaster. The wielder deals 10% more move damage.
 Reins that people presented to the king. They enable Calyrex to connect with its beloved steed.
-Reins that people presented to the king. They enable Calyrex to connect with its beloved steed.
+Rédeas presenteadas ao rei pelo povo. Permitem a Calyrex conectar-se a seu querido corcel.
 A charm that increases the EXP. Pokémon earn by 10%. A machine-like object is inside the charm.
 Um amuleto que aumenta a EXP. que seus Pokémon ganham em 10%. Há um objeto mecânico dentro do amuleto.
 A charm that doubles the chance of getting a critical catch.
@@ -41087,7 +41087,7 @@ An abandoned Dreepy egg that is cold and calm. Only an expert would be able to h
 A ticket that can be exchanged for an Eevee at the Skeevy Eevee Pub.
 A ticket that can be exchanged for an Eevee at the Skeevy Eevee Pub.
 Heals your whole team a limited number of times. Restocked at PokeCenters and after resting.
-Heals your whole team a limited number of times. Restocked at PokeCenters and after resting.
+Cura toda sua equipe um número limitado de vezes. Recarregue-o em Centros Pokémon ou ao descansar.
 A pack for holding medicine. If you use it, your Aid Kit will gain a max charge.
 Um pacote para guardar remédios. Se usá-lo, seu Kit médico ganhará mais uma carga máxima.
 A suite of medicines. If you use it, your Aid Kit will heal more efficiently.
@@ -41107,19 +41107,19 @@ Conjunto de equipamentos para alpinismo, te permitindo escalar em pedras brancas
 An ancient kingly rod. You can use it to make certain plants grow.
 Um bastão ancestral da realeza. Você pode usá-lo para fazer certas plantas crescerem.
 A teleporter which brings you to your last safe spot using the power of Abras.
-A teleporter which brings you to your last safe spot using the power of Abras.
+Um teleportador que te leva ao seu último lugar seguro usando o poder de Abras.
 A 3D printer which automatically copies consumed held items after battles.
 Uma impressora 3D que automaticamente copia itens consumidos após batalhas.
 A machine that stores EXP Candy and excess EXP. Use it on your Pokémon to feed them candy.
 Uma máquina que armazena Doces De Exp. Use em seus Pokémon para dá-los os Doces.
 Use on a Pokémon to switch it into another one of its forms.
-Use on a Pokémon to switch it into another one of its forms.
+Use em um Pokémon para trocá-lo para uma de suas formas.
 An ancient pair of interlocking ceramic rings. Unlocks the ability to teleport between Avatar Totems.
 Um antigo par de anéis de cerâmica entrelaçados. Desbloqueia o tele-<<n>>transporte entre Totens De Avatar.
 A miniature Avatar Totem. Use it to teleport to any unlocked Avatar Totems throughout Makya.
-A miniature Avatar Totem. Use it to teleport to any unlocked Avatar Totems throughout Makya.
+Um Totem Avatar em miniatura. Use para se transportar para quaisquer Totens Avatar que achou em Makya.
 An advanced transporter which allows you to access your Pokémon Storage to withdraw or deposit Pokémon.
-An advanced transporter which allows you to access your Pokémon Storage to withdraw or deposit Pokémon.
+Transportador avançado capaz de acessar o Sistema De Armazenamento Pokémon remotamente.
 A suite of training tools which allows you to modify your Pokémon's style points.
 Um conjunto de ferramentas de treinamento que te permite modificar os Pontos De Estilo de seus Pokémon.
 If reversed, gym leaders and story fights will become harder through unique curses.
@@ -41129,23 +41129,23 @@ Uma máquina compacta e versátil que pode ser usada para repelir ou atrair Pok�
 A fragrance that increases the chance of wild double battles, and attracts uncaught Pokémon.
 Uma fragrância que aumenta a chance de batalhas selvagens em dupla e atrai Pokémon não capturados.
 A high tech surveillance device. Use it to scout out the teams of nearby trainers or mid-battle.
-A high tech surveillance device. Use it to scout out the teams of nearby trainers or mid-battle.
+Alta tecnologia de vigilância. Use para examinar as equipes de trei-<<n>>nadores próximos ou em batalha.
 Used to scout the teams of nearby trainers and the behaviour of nearby Avatars. Can also be used mid-battle.
-Used to scout the teams of nearby trainers and the behaviour of nearby Avatars. Can also be used mid-battle.
+Pode examinar equipes de treinado-<<n>>res e comportamento de avatares próximos. Pode ser usado em batalha.
 Condensed essence of life. Holding it allows you to run, bike, and surf faster. Can be toggled on or off.
 Essência condensada da vida. Segurá-lo te permite se mover mais rápido. Pode ser ligado e desligado.
 A small compass. Relic of a heroic age. It can be used to find lootable items nearby.
-A small compass. Relic of a heroic age. It can be used to find lootable items nearby.
+Uma bússola pequena. Relíquia de eras heróicas. Pode ser usada para encon-<<n>>trar saqueáveis nas redondezas.
 An electrified glove with a claw-like shape. Recovers the first failed Poké Ball thrown in a wild battle.
 Uma luva eletrizada com um formato de garra. Recupera a 1ª Pokébola que falhou em uma batalha selvagem.
 An ancient horn. Sound it to start a 3v3 wild battle. Foes will be higher level and likely to have rare moves.
-An ancient horn. Sound it to start a 3v3 wild battle. Foes will be higher level and likely to have rare moves.
+Uma corneta antiga. Use para uma ba-<<n>>talha selvagem 3v3. Inimigos têm mai-<<n>>or nível e chance de terem mov. raros.
 Proof of ownership for the house you bought in Prizca East.
 Prova de propriedade para a casa que você comprou na Prizca Oriental.
 A small vial of gleaming powder. Can be used once to ensure the next wild Pokémon you find is shiny.
 Um pequeno frasco de pó cintilante. Consuma para garantir que o próximo Pokémon encontrado seja Shiny.
 Infinitely mutating alien DNA. It allows a Pokémon with two abilities to switch abilities when used.
-Infinitely mutating alien DNA. It allows a Pokémon with two abilities to switch abilities when used.
+DNA alienígena em constante muta-<<n>>ção. Use para permitir a um Pokémon trocar entre suas duas habilidades.
 A hi-tech recording device which creates a Battle Report by analyzing the results of momentous battles.
 Um dispositivo tecnológico que cria um Relatório De Batalha ao analisar o resultado de batalhas importantes.
 An upgraded, hi-tech recording device. It increases experience earned from battles by 10%.
@@ -41171,11 +41171,11 @@ Um dispositivo contendo evidências contra a Seguradora Aegis.
 A slip of paper with one digit of the code for the lock to Rafael's gym door.
 Um pedaço de papel com um dígito do código para a tranca da porta do ginásio de Rafael.
 The left half of the sigil of an ancient order of knights.
-The left half of the sigil of an ancient order of knights.
+A metade esquerda do Sigilo de uma antiga ordem de cavaleiros.
 The right half of the sigil of an ancient order of knights.
-The right half of the sigil of an ancient order of knights.
+A metade direita do Sigilo de uma antiga ordem de cavaleiros.
 An ancient sigil of the Carnation Knights. You feel it pulling you towards another place.
-An ancient sigil of the Carnation Knights. You feel it pulling you towards another place.
+Um antigo sigilo dos Cavaleiros Dos Craveiros. Você o sente te puxando para outro lugar.
 A strange ball of light. You should gather these for a friend.
 Um estranho orbe de luz. Você deveria coletá-los para uma amiga.
 The key to the first chamber containing a powerful avatar.
@@ -41215,15 +41215,15 @@ Um USB contendo dados dos primórdios da Equipe Chasm.
 A gleaming golden fruit. Someone skilled may be able to craft it into a unique Poké Ball.
 Uma fruta dourada e brilhante.<<n>>Alguém habilidoso pode ser capaz de transformá-la em uma Pokébola única.
 A damaged traveler's journal. If you find its scattered pages, you can put them back in place.
-A damaged traveler's journal. If you find its scattered pages, you can put them back in place.
+Um diário desfeito de um viajante. Se achar suas páginas perdidas, talvez possa colocá-las de volta em ordem.
 A glamorous steel card. While holding it, all vendors cost 10% less and Pokécenter Marts have extra items.
 Um glamoroso cartão metálico. Vendedores cobram 10% menos e lojas de Centros Pokémon têm mais itens.
 A vessel for negative emotions. To earn its rewards, perfect trainers and make them flee from you.
 Um receptáculo de emoções ruins. Para ganhar recompensas, aperfeiçoe treinadores e faça-os fugir de você.
 A smart phone. Use it to take selfies.
-A smart phone. Use it to take selfies.
+Um celular. Use-o para tirar selfies.
 A hi-tech battle recording device. Use it to manage and replay past battles.
-A hi-tech battle recording device. Use it to manage and replay past battles.
+Alta tecnologia para gravar batalhas. Use-o para gerenciar e reproduzir batalhas passadas.
 A drop of ancient clay. Use it to summon a Pokemon from a resonating totem.
 Uma gota ancestral de argila. Use para invocar um Pokémon em um totem ressonante.
 A lump of ancient clay. Allows you to summon any number of Pokemon from resonating totems.
@@ -50309,7 +50309,7 @@ Tipos podem ser fortes ou fracos contra outros tipos. Ter uma variedade de tipos
 Healing your Pokémon
 Curando seus Pokémon
 Heal your Pokémon at PokéCenters between battles. You can often use the Aid Kit instead to save on traveling time.
-Cure seus Pokémon dentro de Centros Pokémon entre batalhas. Você pode, na maioria dos casos, usar o Kit de Primeiros Socorros para economizar o tempo que gastaria na viagem.
+Cure seus Pokémon dentro de Centros Pokémon entre batalhas. Você pode, na maioria dos casos, usar o Kit Médico para economizar o tempo que gastaria na viagem.
 Who goes first?
 Quem se move primeiro?
 In battle, the Pokémon with the higher speed stat gets to use their move first. Some moves modify this. Speed ties are decided randomly.
@@ -50363,7 +50363,7 @@ Precisão é a chance de um movimento acertar. A maioria dos movimentos têm 100
 Power Points
 Pontos De Poder
 Power Points, or PP, is a number which limits how many times a move can be used. Healing at a PokéCenter or with the Aid Kit restores PP.
-Pontos De Poder, ou PP, é um número que limita quantas vezes um movimento pode ser utilizado. Curar-se em um Centro Pokémon ou com o kit de primeiros socorros restaura PP.
+Pontos De Poder, ou PP, é um número que limita quantas vezes um movimento pode ser utilizado. Curar-se em um Centro Pokémon ou com o kit médico restaura PP.
 Each Pokémon has type weakness and type resistances based on its own type. eg. Water deals double damage to Fire, and Fire deals half damage to Water.
 Todo Pokémon tem fraquezas e resistências de tipo baseados em seu próprio tipo. Por exemplo, Água dá o dobro de dano a Fogo, e Fogo dá metade de dano à Água.
 Type Combinations
@@ -50557,7 +50557,7 @@ Condições De Status são enfermidades que machucam ou restringem um Pokémon. 
 Healing Status Conditions
 Curando Condições De Status
 Status Conditions are removed when you heal at the PokéCenter or when you use the Aid Kit.
-Condições De Status são removidas quando você se cura em um Centro Pokémon ou quando você usa o Kit de Primeiros Socorros.
+Condições De Status são removidas quando você se cura em um Centro Pokémon ou quando você usa o Kit Médico.
 Status Immunity
 Imunidade A Status
 Type immunities do not prevent status moves. However, some types give immunities to certain status conditions. Don't confuse these two!
