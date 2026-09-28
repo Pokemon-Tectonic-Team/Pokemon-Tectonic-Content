@@ -39051,59 +39051,59 @@ Doce Raro
 Vanilla Tulumba
 Churro De Baunilha
 Safari Ball
-Safari Ball
+Bola Safári
 Sport Ball
-Sport Ball
+Bola Esporte
 Ball Launcher
-Ball Launcher
+Atirador De Bolas
 Poké Ball
-Poké Ball
+Pokébola
 Great Ball
-Great Ball
+Grande Bola
 Ultra Ball
-Ultra Ball
+Ultra Bola
 Slice Ball
-Slice Ball
+Bola Fatiadora
 Potion Ball
-Potion Ball
+Bola Poção
 Leech Ball
-Leech Ball
+Bola Parasita
 Disable Ball
-Disable Ball
+Bola Anuladora
 Heal Ball
-Heal Ball
+Bola De Cura
 Friend Ball
-Friend Ball
+Bola Amiga
 Luxury Ball
-Luxury Ball
+Bola Luxo
 Timer Ball
-Timer Ball
+Bola Tempo
 Quick Ball
-Quick Ball
+Bola Rápida
 Nest Ball
-Nest Ball
+Bola De Ninho
 Repeat Ball
-Repeat Ball
+Bola De Repetição
 Heavy Ball
-Heavy Ball
+Bola Pesada
 Fast Ball
-Fast Ball
+Bola Veloz
 Dream Ball
-Dream Ball
+Bola Onírica
 Beast Ball
-Beast Ball
+Bola Criatura
 Premier Ball
-Premier Ball
+Bola Presenteada
 Cherish Ball
-Cherish Ball
+Bola Estima
 Royal Ball
-Royal Ball
+Bola Da Realeza
 Master Ball
-Master Ball
+Bola Mestra
 Radiant Ball
-Radiant Ball
+Bola Radiante
 Arc Ball
-Arc Ball
+Arc Bola
 Cheri Berry
 Fruta Cere
 Chesto Berry
@@ -39954,59 +39954,59 @@ Doces Raros
 Vanilla Tulumba
 Churros De Baunilha
 Safari Balls
-Safari Balls
+Bolas Safári
 Sport Balls
-Sport Balls
+Bolas Esporte
 Ball Launchers
-Ball Launchers
+Atiradores De Bolas
 Poké Balls
-Poké Balls
+Pokébolas
 Great Balls
-Great Balls
+Grandes Bolas
 Ultra Balls
-Ultra Balls
+Ultra Bolas
 Slice Balls
-Slice Balls
+Bolas Fatiadoras
 Potion Balls
-Potion Balls
+Bolas Poção
 Leech Balls
-Leech Balls
+Bolas Parasitas
 Disable Balls
-Disable Balls
+Bolas Anuladoras
 Heal Balls
-Heal Balls
+Bolas De Cura
 Friend Balls
-Friend Balls
+Bolas Amigas
 Luxury Balls
-Luxury Balls
+Bolas Luxo
 Timer Balls
-Timer Balls
+Bolas Tempos
 Quick Balls
-Quick Balls
+Bolas Rápidas
 Nest Balls
-Nest Balls
+Bolas De Ninho
 Repeat Balls
-Repeat Balls
+Bolas De Repetição
 Heavy Balls
-Heavy Balls
+Bolas Pesadas
 Fast Balls
-Fast Balls
+Bolas Velozes
 Dream Balls
-Dream Balls
+Bolas Oníricas
 Beast Balls
-Beast Balls
+Bolas Criatura
 Premier Balls
-Premier Balls
+Bolas Presenteadas
 Cherish Balls
-Cherish Balls
+Bolas Estima
 Royal Balls
-Royal Balls
+Bolas Da Realeza
 Master Balls
-Master Balls
+Bolas Mestras
 Radiant Balls
-Radiant Balls
+Bolas Radiantes
 Arc Balls
-Arc Balls
+Arc Bolas
 Cheri Berries
 Frutas Cere
 Chesto Berries
@@ -40853,59 +40853,59 @@ Um doce cheio de energia. Quando consumido, aumenta o nível de um Pokémon em 1
 Fried dough dipped in vanilla syrup. Heals a single Pokémon by 100 HP, and grants it 4000 Experience points.
 Massa frita mergulhada em xarope de baunilha. Cura um Pokémon em 100 PV e lhe dá 4000 pontos de Experiência.
 A special Poké Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.
-A special Poké Ball that is used only in the Safari Zone. It is decorated in a camouflage pattern.
+Uma bola especial apenas usada na Zona De Safari. É decorada com um padrão de camuflagem.
 A special Poké Ball for the Bug-Catching Contest.
-A special Poké Ball for the Bug-Catching Contest.
+Uma bola especial para o Concurso De Captura De Insetos.
 A device which creates then launches regular Poké Balls, never running out.
-A device which creates then launches regular Poké Balls, never running out.
+Um dispositivo que cria e atira Pokébolas normais, nunca se esgotando.
 A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.
-A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system.
+Um dispositivo para catpurar Pokémon selvagens. Atirada como uma bola no alvo. Funciona como uma cápsula.
 A good, high-performance Ball with 1.5x strength compared to a regular ball.
-A good, high-performance Ball with 1.5x strength compared to a regular ball.
+Uma bola de alta performance com uma eficácia de 1.5x em comparação a uma Pokébola normal.
 An ultra-performance Ball with 2x the strength of a regular ball.
-An ultra-performance Ball with 2x the strength of a regular ball.
+Uma bola ultra-performática com uma eficácia de 2x em comparação a uma Pokébola normal.
 A sharp Poké Ball that damages the Pokémon for 1/4th of its HP if it fails to catch it.
-A sharp Poké Ball that damages the Pokémon for 1/4th of its HP if it fails to catch it.
+Uma bola afiada que dá dano ao Pokémon em 1/4 de seus PV caso a captura falhe.
 A medicinal Poké Ball that heals the Pokémon for 1/4th of its HP if it fails to catch it.
-A medicinal Poké Ball that heals the Pokémon for 1/4th of its HP if it fails to catch it.
+Uma Pokébola medicinal que cura o Pokémon em 1/4 de seus PV caso a captura falhe.
 A parasitic Poké Ball that leeches the Pokémon if it fails to catch it.
-A parasitic Poké Ball that leeches the Pokémon if it fails to catch it.
+Uma bola parasítica que deixa um Pokémon parasitado caso a captura falhe.
 A disorienting Poké Ball that disables the Pokémon's last used move for 10 turns if it fails to catch it.
-A disorienting Poké Ball that disables the Pokémon's last used move for 10 turns if it fails to catch it.
+Uma bola desorientadora que anula o último movimento usado pelo Pokémon por 10 turnos caso a captura falhe.
 A remedial Poké Ball that restores the caught Pokémon's HP and eliminates any status problem.
-A remedial Poké Ball that restores the caught Pokémon's HP and eliminates any status problem.
+Uma bola medicinal que restaura os PV de um Pokémon capturado e elimina quaisquer problemas de status.
 A Poké Ball that makes caught Pokémon more friendly.
-A Poké Ball that makes caught Pokémon more friendly.
+Uma bola que torna Pokémon capturados mais amigáveis.
 A comfortable Poké Ball that makes a caught wild Pokémon gain happiness twice as quickly.
-A comfortable Poké Ball that makes a caught wild Pokémon gain happiness twice as quickly.
+Uma bola confortável que faz Poké-<<n>>mon selvagens capturados ganharem felicidade duas vezes mais rápido.
 A somewhat different Ball that becomes up to 4x better the more turns there are in a battle.
-A somewhat different Ball that becomes up to 4x better the more turns there are in a battle.
+Uma bola um tanto diferente que fica até 4x melhor quanto maior o número de turnos passados em uma batalha.
 A somewhat different Poké Ball which has 3x strength on the first turn of a wild encounter.
-A somewhat different Poké Ball which has 3x strength on the first turn of a wild encounter.
+Uma bola com 3x eficácia apenas no primeiro turno de uma batalha selvagem.
 A somewhat different Poké Ball that works better the lower the Pokémon's level is below your level cap.
-A somewhat different Poké Ball that works better the lower the Pokémon's level is below your level cap.
+Uma bola que fica mais eficaz quanto menor for o nível do Pokémon em comparação ao seu Limite De Nível.
 A somewhat different Poké Ball that works at 3.5x strength on Pokémon species that were previously caught.
-A somewhat different Poké Ball that works at 3.5x strength on Pokémon species that were previously caught.
+Uma bola um tanto diferente que tem 3.5x eficácia contra Pokémon de es-<<n>>pécies já capturadas anteriormente.
 A Poké Ball whose strength varies with the Pokémon's weight.
-A Poké Ball whose strength varies with the Pokémon's weight.
+Uma bola cuja eficácia varia de acordo com o peso do Pokémon alvo.
 A Poké Ball with 4x strength against Pokémon species with 100 or more base Speed.
-A Poké Ball with 4x strength against Pokémon species with 100 or more base Speed.
+Uma bola com 4x eficácia contra espécies com um atributo de Velocidade base de 100 ou mais.
 A somewhat different Poké Ball that makes it easier to catch wild Pokémon while they're asleep.
-A somewhat different Poké Ball that makes it easier to catch wild Pokémon while they're asleep.
+Uma bola um tanto diferente que torna mais fácil capturar um Pokémon enquanto ele dorme.
 A special Poké Ball with 5x strength against Ultra Beasts.
-A special Poké Ball with 5x strength against Ultra Beasts.
+Uma Pokébola especial com 5x eficácia contra Ultra Criaturas.
 A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.
-A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort.
+Uma bola um tanto rara que foi especialmente criada para comemorar algum tipo de evento.
 A quite rare Poké Ball that has been specially crafted to commemorate an occasion of some sort.
-A quite rare Poké Ball that has been specially crafted to commemorate an occasion of some sort.
+Uma Pokébola rara que foi especialmente criada para comemorar algum tipo de ocasião especial.
 A ball whose striking appearance makes it popular despite its poor performance.
-A ball whose striking appearance makes it popular despite its poor performance.
+Uma bola cuja admirável aparência a torna popular, apesar de seu mau desempenho.
 The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
-The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
+A melhor bola com o nível supremo de eficácia. Capturará qualquer Pokémon selvagem sem falhar.
 A ball with a mythical quality. It will catch any wild Pokémon without fail, and turn that Pokémon shiny.
-A ball with a mythical quality. It will catch any wild Pokémon without fail, and turn that Pokémon shiny.
+Uma bola de qualidade mítica. Captu-<<n>>rará qualquer Pokémon selvagem sem falhar, transformando-o em shiny.
 The Poke ball that contains Arceus. Unable to be replicated by humans, so how did you see this description.
-The Poke ball that contains Arceus. Unable to be replicated by humans, so how did you see this description.
+A Pokébola que contém Arceus. Não é replicável por humanos, então como você viu esta descrição?
 A held item that can cure numbing.
 Um item equipável capaz de curar Imobilização.
 A held item that can cure sleep.
