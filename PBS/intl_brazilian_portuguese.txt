@@ -40931,41 +40931,41 @@ Se equipada em um Pokémon, cura seu PV em 25% ao alcançar metade da vida.
 It may be held by a Pokémon to heal the user by 33% in a pinch (below 25% HP).
 Pode ser equipada em um Pokémon para curá-lo em 33% em uma emergência (PV <= 25%).
 Weakens a supereffective Fire-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Fogo contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Fogo contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Water-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Água contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Água contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Electric-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Elétrico contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Elétrico contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Grass-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Grama contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Grama contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Ice-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Gelo contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Gelo contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Fighting-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Lutador contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Lutador contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Poison-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Venenoso contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Venenoso contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Ground-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Terrestre contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Terrestre contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Flying-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Voador contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Voador contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Psychic-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Psíquico contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Psíquico contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Bug-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Inseto contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Inseto contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Rock-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Pedra contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Pedra contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Ghost-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Fantasma contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Fantasma contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Dragon-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Dragão contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Dragão contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Dark-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Trevas contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Trevas contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Steel-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Aço contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Aço contra o Pokémon com esta fruta equipada.
 Weakens a supereffective Fairy-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Fada contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Fada contra o Pokémon com esta fruta equipada.
 Weakens a Normal-type attack against the holding Pokémon by 50%.
-Enfraquece um ataque Superefetivo do tipo Normal contra o Pokémon com esta fruta equipada em 50%.
+Enfraquece em 50% um ataque Super-<<n>>efetivo do tipo Normal contra o Pokémon com esta fruta equipada.
 If held by a Pokémon, it raises its Attack by two steps in a pinch.
 Se equipada em um Pokémon, aumenta seu Ataque em dois níveis em uma emergência (PV <= 25%).
 If held by a Pokémon, it raises its Defense by three steps in a pinch.
