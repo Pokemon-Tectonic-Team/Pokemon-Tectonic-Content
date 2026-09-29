@@ -38685,31 +38685,31 @@ Maçã Azeda
 Syrupy Apple
 Maçã Xaropenta
 Helix Fossil
-Helix Fossil
+Fóssil Espiral
 Dome Fossil
-Dome Fossil
+Fóssil Cúpula
 Old Amber
-Old Amber
+Âmbar Velho
 Root Fossil
-Root Fossil
+Fóssil Raiz
 Claw Fossil
-Claw Fossil
+Fóssil Garra
 Skull Fossil
-Skull Fossil
+Fóssil Crânio
 Armor Fossil
-Armor Fossil
+Fóssil Armadura
 Cover Fossil
-Cover Fossil
+Fóssil Casca
 Plume Fossil
-Plume Fossil
+Fóssil Pluma
 Jaw Fossil
-Jaw Fossil
+Fóssil De Mandíbula
 Sail Fossil
-Sail Fossil
+Fóssil De Vela
 Eldritch Fossil
-Eldritch Fossil
+Fóssil Terrível
 Alien Fossil
-Alien Fossil
+Fóssil Alienígena
 Honey
 Mel
 Pretty Feather
@@ -39213,9 +39213,9 @@ Red Orb
 Blue Orb
 Blue Orb
 Light Stone
-Light Stone
+Pedra Da Luz
 Dark Stone
-Dark Stone
+Pedra Das Trevas
 Lumiose Galette
 Crepe De Lumiose
 Shalour Sable
@@ -39243,13 +39243,13 @@ Doce De Exp. G
 Exp. Candy XL
 Doce De Exp. GG
 Fossilized Bird
-Fossilized Bird
+Ave Fossilizada
 Fossilized Fish
-Fossilized Fish
+Peixe Fossilizado
 Fossilized Drake
-Fossilized Drake
+Dragão Fossilizado
 Fossilized Dino
-Fossilized Dino
+Dino Fossilizado
 Rusted Shield
 Rusted Shield
 Rusted Sword
@@ -39261,29 +39261,29 @@ Amuleto De EXP
 Catching Charm
 Amuleto De Captura
 Grass Token
-Grass Token
+Ficha De Grama
 Water Token
-Water Token
+Ficha De Água
 Origin Ore
 Minério Da Origem
 Fire Token
-Fire Token
+Ficha De Fogo
 Dratini Egg
-Dratini Egg
+Ovo De Dratini
 Bagon Egg
-Bagon Egg
+Ovo De Bagon
 Gible Egg
-Gible Egg
+Ovo De Gible
 Deino Egg
-Deino Egg
+Ovo De Deino
 Goomy Egg
-Goomy Egg
+Ovo De Goomy
 Jangmo-o Egg
-Jangmo-o Egg
+Ovo De Jagmo-o
 Dreepy Egg
-Dreepy Egg
+Ovo De Dreepy
 Eevee Ticket
-Eevee Ticket
+Bilhete Eevee
 Aid Kit
 Kit Médico
 Kit Expansion
@@ -39588,31 +39588,31 @@ Maçãs Azedas
 Syrupy Apples
 Maçãs Xaropentas
 Helix Fossils
-Helix Fossils
+Fósseis Espirais
 Dome Fossils
-Dome Fossils
+Fósseis Cúpula
 Old Ambers
-Old Ambers
+Âmbares Velhos
 Root Fossils
-Root Fossils
+Fósseis Raiz
 Claw Fossils
-Claw Fossils
+Fósseis Garra
 Skull Fossils
-Skull Fossils
+Fósseis Crânio
 Armor Fossils
-Armor Fossils
+Fósseis Armadura
 Cover Fossils
-Cover Fossils
+Fósseis Casca
 Plume Fossils
-Plume Fossils
+Fósseis Pluma
 Jaw Fossils
-Jaw Fossils
+Fósseis De Mandíbula
 Sail Fossils
-Sail Fossils
+Fósseis De Vela
 Eldritch Fossils
-Eldritch Fossils
+Fósseis Terríveis
 Alien Fossils
-Alien Fossils
+Fósseis Alienígenas
 Honey
 Méis
 Pretty Feathers
@@ -40116,9 +40116,9 @@ Red Orbs
 Blue Orbs
 Blue Orbs
 Light Stones
-Light Stones
+Pedras Da Luz
 Dark Stones
-Dark Stones
+Pedras Das Trevas
 Lumiose Galettes
 Crepes De Lumiose
 Shalour Sables
@@ -40146,13 +40146,13 @@ Doces De Exp. G
 Exp. Candies XL
 Doces De Exp. GG
 Fossilized Birds
-Fossilized Birds
+Aves Fossilizadas
 Fossilized Fishes
-Fossilized Fishes
+Peixes Fossilizados
 Fossilized Drakes
-Fossilized Drakes
+Dragões Fossilizados
 Fossilized Dinos
-Fossilized Dinos
+Dinos Fossilizados
 Rusted Shields
 Rusted Shields
 Rusted Swords
@@ -40164,29 +40164,29 @@ Amuletos De EXP
 Catching Charms
 Amuletos De Captura
 Grass Tokens
-Grass Tokens
+Fichas De Grama
 Water Tokens
-Water Tokens
+Fichas De Água
 Origin Ores
 Minérios Da Origem
 Fire Tokens
-Fire Tokens
+Fichas De Fogo
 Dratini Eggs
-Dratini Eggs
+Ovos De Dratini
 Bagon Eggs
-Bagon Eggs
+Ovos De Bagon
 Gible Eggs
-Gible Eggs
+Ovos De Gible
 Deino Eggs
-Deino Eggs
+Ovos De Deino
 Goomy Eggs
-Goomy Eggs
+Ovos De Goomy
 Jangmo-o Eggs
-Jangmo-o Eggs
+Ovos De Jangmo-o
 Dreepy Eggs
-Dreepy Eggs
+Ovos De Dreepy
 Eevee Tickets
-Eevee Tickets
+Bilhetes Eevee
 Aid Kits
 Kits Médicos
 Kit Expansion
@@ -40487,31 +40487,31 @@ Uma maçã peculiar que faz uma certa espécie de Pokémon evoluir. É excepcion
 A peculiar apple that can make a certain species of Pokémon evolve. It's exceptionally syrupy.
 Uma maçã peculiar que faz uma certa espécie de Pokémon evoluir. É excepcionalmente xaropenta.
 A fossil of an ancient Pokémon that lived in the sea. It resembles Omanyte.
-A fossil of an ancient Pokémon that lived in the sea. It resembles Omanyte.
+Um fóssil de um antigo Pokémon que viveu no oceano. Assemelha-se a um Omanyte.
 A fossil of an ancient Pokémon that lived in the sea. It resembles Kabuto.
-A fossil of an ancient Pokémon that lived in the sea. It resembles Kabuto.
+Um fóssil de um antigo Pokémon que viveu no oceano. Assemelha-se a um Kabuto.
 A piece of amber that contains the genes of an Aerodactyl. It is clear with a reddish tint.
-A piece of amber that contains the genes of an Aerodactyl. It is clear with a reddish tint.
+Um pedaço de âmbar que contém os genes de um Aerodactyl. É transparente com um tom alaranjado.
 A fossil of an ancient Pokémon that lived in the sea. It resembles Lileep.
-A fossil of an ancient Pokémon that lived in the sea. It resembles Lileep.
+Um fóssil de um antigo Pokémon que viveu no oceano. Assemelha-se a um Lileep.
 A fossil of an ancient Pokémon that lived in the sea. It resembles Anorith.
-A fossil of an ancient Pokémon that lived in the sea. It resembles Anorith.
+Um fóssil de um antigo Pokémon que viveu no oceano. Assemelha-se a um Anorith.
 A fossil from a prehistoric Pokémon that lived on the land. It resembles Cranidos.
-A fossil from a prehistoric Pokémon that lived on the land. It resembles Cranidos.
+Um fóssil de um Pokémon pré-<<n>>-histórico que viveu em terra firme. Assemelha-se a um Cranidos.
 A fossil from a prehistoric Pokémon that lived on the land. It resembles Shieldon.
-A fossil from a prehistoric Pokémon that lived on the land. It resembles Shieldon.
+Um fóssil de um Pokémon pré-<<n>>-histórico que viveu em terra firme. Assemelha-se a um Shieldon.
 A fossil of an ancient Pokémon that lived in the sea in ancient times. It resembles Tirtouga.
-A fossil of an ancient Pokémon that lived in the sea in ancient times. It resembles Tirtouga.
+Um fóssil de um antigo Pokémon que viveu no oceano em tempos antigos. Assemelha-se a um Tirtouga.
 A fossil of an ancient Pokémon that flew in the sky in ancient times. It resembles Archen.
-A fossil of an ancient Pokémon that flew in the sky in ancient times. It resembles Archen.
+Um fóssil de um antigo Pokémon que voou nos céus em tempos antigos. Assemelha-se a um Archen.
 A fossil from a prehistoric Pokémon that once lived on the land. It resembles Tyrunt.
-A fossil from a prehistoric Pokémon that once lived on the land. It resembles Tyrunt.
+Um fóssil de um Pokémon pré-<<n>>-histórico que viveu em terra firme. Assemelha-se a um Tyrunt.
 A fossil from a prehistoric Pokémon that once lived on the land. It resembles Amaura.
-A fossil from a prehistoric Pokémon that once lived on the land. It resembles Amaura.
+Um fóssil de um Pokémon pré-<<n>>-histórico que viveu em terra firme. Assemelha-se a um Amaura.
 A fossil from a strange Pokémon that once lived on the land. It resembles Makyan Omanyte.
-A fossil from a strange Pokémon that once lived on the land. It resembles Makyan Omanyte.
+Um fóssil de um estranho Pokémon que viveu em terra firme. Assemelha-se a um Omanyte Makiense.
 A fossil from a strange Pokémon that once lived on the land. It resembles Makyan Kabuto.
-A fossil from a strange Pokémon that once lived on the land. It resembles Makyan Kabuto.
+Um fóssil de um estranho Pokémon que viveu em terra firme. Assemelha-se a um Kabuto Makiense.
 A sweet honey with a sweeter aroma. It can be sold to shops for $750.
 Um mel doce com aroma mais doce ainda. Pode ser vendido a lojas por $750.
 A beautiful feather. It can be sold to shops for $1,500.
@@ -41015,9 +41015,9 @@ A shiny red orb that is said to have a legend tied to it. It's known to be conne
 A shiny blue orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
 A shiny blue orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
 Reshiram's body, in stone form. An expert in ancient relics may be able to transform it.
-Reshiram's body, in stone form. An expert in ancient relics may be able to transform it.
+O corpo de Reshiram petrificado. Um especialista em relíquias antigas pode ser capaz de transformá-la.
 Zekrom's body, in stone form. An expert in ancient relics may be able to transform it.
-Zekrom's body, in stone form. An expert in ancient relics may be able to transform it.
+O corpo de Zekrom petrificado. Um especialista em relíquias antigas pode ser capaz de transformá-la.
 A popular treat in Lumiose City. It can be used once to heal all the status conditions of a Pokémon.
 Um aperitivo popular na Cidade De Lumiose. Use-o para curar todas as condições de status de um Pokémon.
 Shalour City's famous shortbread. It can be used once to heal all the status conditions of a Pokémon.
@@ -41045,13 +41045,13 @@ Um doce cheio de energia. Quando consumido, dará a um Pokémon 16.000 pontos de
 A candy that is packed with energy. When consumed, it will grant a single Pokémon 64,000 Exp. Points.
 Um doce cheio de energia. Quando consumido, dará a um Pokémon 64.000 pontos de Exp.
 The fossil of an ancient Pokémon that once soared through the sky. Is it Arctozolt or Dracozolt...?
-The fossil of an ancient Pokémon that once soared through the sky. Is it Arctozolt or Dracozolt...?
+O fóssil de um antigo Pokémon que cortou os céus. É um Arctozolt ou um Dracozolt...?
 The fossil of an ancient Pokémon that once lived in the sea. Is it Arctovish or Dracovish...?
-The fossil of an ancient Pokémon that once lived in the sea. Is it Arctovish or Dracovish...?
+O fóssil de um antigo Pokémon que viveu no oceano. É um Arctovish ou um Dracovish...?
 The fossil of an ancient Pokémon that once roamed the land. Is it Dracozolt or Dracovish...?
-The fossil of an ancient Pokémon that once roamed the land. Is it Dracozolt or Dracovish...?
+O fóssil de um antigo Pokémon que viveu em terra firme. É um Dracozolt ou um Dracovish...?
 The fossil of an ancient Pokémon that once lived in the sea. Is it Arctozolt or Arctovish...?
-The fossil of an ancient Pokémon that once lived in the sea. Is it Arctozolt or Arctovish...?
+O fóssil de um antigo Pokémon que viveu no oceano. É um Arctozolt ou um Arctovish...?
 Used by a hero to halt a terrible disaster. The wielder takes 10% less move damage.
 Used by a hero to halt a terrible disaster. The wielder takes 10% less move damage.
 Used by a hero to halt a terrible disaster. The wielder deals 10% more move damage.
@@ -41063,29 +41063,29 @@ Um amuleto que aumenta a EXP. que seus Pokémon ganham em 10%. Há um objeto mec
 A charm that doubles the chance of getting a critical catch.
 Um amuleto que dobra suas chances de obter uma captura crítica.
 A token which can be exchanged for a Grass-type at the Starter Store in Novo Town.
-A token which can be exchanged for a Grass-type at the Starter Store in Novo Town.
+Uma ficha que pode ser trocada por um tipo Grama na Loja De Iniciais na Cidade Nova.
 A token which can be exchanged for a Water-type at the Starter Store in Novo Town.
-A token which can be exchanged for a Water-type at the Starter Store in Novo Town.
+Uma ficha que pode ser trocada por um tipo Água na Loja De Iniciais na Cidade Nova.
 A peculiar ore that makes certain species of Pokémon evolve. Associated with Arceus.
 Um minério peculiar que faz certas espécies de Pokémon evoluírem. Associado a Arceus.
 A token which can be exchanged for a Fire-type at the Starter Store in Novo Town.
-A token which can be exchanged for a Fire-type at the Starter Store in Novo Town.
+Uma ficha que pode ser trocada por um tipo Fogo na Loja De Iniciais na Cidade Nova.
 An abandoned Dratini egg that is cold and calm. Only an expert would be able to hatch it.
-An abandoned Dratini egg that is cold and calm. Only an expert would be able to hatch it.
+Um ovo de Dratini abandonado que está frio e calmo. Apenas um especialista seria capaz de eclodí-lo.
 An abandoned Bagon egg that is cold and calm. Only an expert would be able to hatch it.
-An abandoned Bagon egg that is cold and calm. Only an expert would be able to hatch it.
+Um ovo de Bagon abandonado que está frio e calmo. Apenas um especialista seria capaz de eclodí-lo.
 An abandoned Gible egg that is cold and calm. Only an expert would be able to hatch it.
-An abandoned Gible egg that is cold and calm. Only an expert would be able to hatch it.
+Um ovo de Gible abandonado que está frio e calmo. Apenas um especialista seria capaz de eclodí-lo.
 An abandoned Deino egg that is cold and calm. Only an expert would be able to hatch it.
-An abandoned Deino egg that is cold and calm. Only an expert would be able to hatch it.
+Um ovo de Deino abandonado que está frio e calmo. Apenas um especialista seria capaz de eclodí-lo.
 An abandoned Goomy egg that is cold and calm. Only an expert would be able to hatch it.
-An abandoned Goomy egg that is cold and calm. Only an expert would be able to hatch it.
+Um ovo de Goomy abandonado que está frio e calmo. Apenas um especialista seria capaz de eclodí-lo.
 An abandoned Jangmo-o egg that is cold and calm. Only an expert would be able to hatch it.
-An abandoned Jangmo-o egg that is cold and calm. Only an expert would be able to hatch it.
+Um ovo de Jangmo-o abandonado que está frio e calmo. Apenas um especialista seria capaz de eclodí-lo.
 An abandoned Dreepy egg that is cold and calm. Only an expert would be able to hatch it.
-An abandoned Dreepy egg that is cold and calm. Only an expert would be able to hatch it.
+Um ovo de Dreepy abandonado que está frio e calmo. Apenas um especialista seria capaz de eclodí-lo.
 A ticket that can be exchanged for an Eevee at the Skeevy Eevee Pub.
-A ticket that can be exchanged for an Eevee at the Skeevy Eevee Pub.
+Um bilhete que pode ser trocado por um Eevee no Pub Do Eevee Detetive.
 Heals your whole team a limited number of times. Restocked at PokeCenters and after resting.
 Cura toda sua equipe um número limitado de vezes. Recarregue-o em Centros Pokémon ou ao descansar.
 A pack for holding medicine. If you use it, your Aid Kit will gain a max charge.
