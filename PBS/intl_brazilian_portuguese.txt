@@ -38711,51 +38711,51 @@ Eldritch Fossil
 Alien Fossil
 Alien Fossil
 Honey
-Honey
+Mel
 Pretty Feather
-Pretty Feather
+Pena Da Beleza
 Noble Feather
-Noble Feather
+Pena Nobre
 Tiny Mushroom
-Tiny Mushroom
+Cogumelo Minúsculo
 Big Mushroom
-Big Mushroom
+Cogumelo Grande
 Balm Mushroom
-Balm Mushroom
+Cogumelo-Bálsamo
 Pearl
-Pearl
+Pérola
 Big Pearl
-Big Pearl
+Pérola Grande
 Pearl String
-Pearl String
+Pérola Tripla
 Stardust
-Stardust
+Poeira Estelar
 Star Piece
-Star Piece
+Caco De Estrela
 Comet Shard
-Comet Shard
+Caco De Cometa
 Gold Nugget
-Gold Nugget
+Pepita De Ouro
 Big Nugget
-Big Nugget
+Pepita Grande
 Slowpoke Tail
-Slowpoke Tail
+Cauda De Slowpoke
 Rare Bone
-Rare Bone
+Osso Raro
 Relic Copper
-Relic Copper
+Relíquia De Cobre
 Relic Silver
-Relic Silver
+Relíquia De Prata
 Relic Gold
-Relic Gold
+Relíquia De Ouro
 Relic Vase
-Relic Vase
+Vaso-Relíquia
 Relic Band
-Relic Band
+Bandana-Relíquia
 Relic Statue
-Relic Statue
+Estátua-Relíquia
 Relic Crown
-Relic Crown
+Coroa-Relíquia
 Air Balloon
 Air Balloon
 Eviolite
@@ -39614,51 +39614,51 @@ Eldritch Fossils
 Alien Fossils
 Alien Fossils
 Honey
-Honey
+Méis
 Pretty Feathers
-Pretty Feathers
+Penas Da Beleza
 Noble Feathers
-Noble Feathers
+Penas Nobres
 Tiny Mushrooms
-Tiny Mushrooms
+Cogumelos Minúsculos
 Big Mushrooms
-Big Mushrooms
+Cogumelos Grandes
 Balm Mushrooms
-Balm Mushrooms
+Cogumelos-Bálsamo
 Pearls
-Pearls
+Pérolas
 Big Pearls
-Big Pearls
+Pérolas Grandes
 Pearl Strings
-Pearl Strings
+Pérolas Triplas
 Stardusts
-Stardusts
+Poeiras Estelares
 Star Pieces
-Star Pieces
+Cacos De Estrela
 Comet Shards
-Comet Shards
+Cacos De Cometa
 Gold Nuggets
-Gold Nuggets
+Pepitas De Ouro
 Big Nuggets
-Big Nuggets
+Pepitas Grandes
 Slowpoke Tails
-Slowpoke Tails
+Caudas De Slowpoke
 Rare Bones
-Rare Bones
+Ossos Raros
 Relic Coppers
-Relic Coppers
+Relíquias De Cobre
 Relic Silvers
-Relic Silvers
+Relíquias De Prata
 Relic Golds
-Relic Golds
+Relíquias De Ouro
 Relic Vases
-Relic Vases
+Vasos-Relíquias
 Relic Bands
-Relic Bands
+Bandanas-Relíquia
 Relic Statues
-Relic Statues
+Estátuas-Relíquia
 Relic Crowns
-Relic Crowns
+Coroas-Relíquia
 Air Balloons
 Air Balloons
 Eviolites
@@ -40513,51 +40513,51 @@ A fossil from a strange Pokémon that once lived on the land. It resembles Makya
 A fossil from a strange Pokémon that once lived on the land. It resembles Makyan Kabuto.
 A fossil from a strange Pokémon that once lived on the land. It resembles Makyan Kabuto.
 A sweet honey with a sweeter aroma. It can be sold to shops for $750.
-A sweet honey with a sweeter aroma. It can be sold to shops for $750.
+Um mel doce com aroma mais doce ainda. Pode ser vendido a lojas por $750.
 A beautiful feather. It can be sold to shops for $1,500.
-A beautiful feather. It can be sold to shops for $1,500.
+Uma linda pena. Pode ser vendida a lojas por $1.500.
 A beautiful metal feather. It can be sold to shops for $7,500.
-A beautiful metal feather. It can be sold to shops for $7,500.
+Uma linda pena metálica. Pode ser vendida a lojas por $7.500.
 A small and rare mushroom. It can be sold to shops for $250.
-A small and rare mushroom. It can be sold to shops for $250.
+Um cogumelo pequeno e raro. Pode ser vendido a lojas por $250.
 A large and rare mushroom. It can be sold to shops for $2,500.
-A large and rare mushroom. It can be sold to shops for $2,500.
+Um cogumelo grande e raro. Pode ser vendido a lojas por $2.500.
 A rare mushroom which gives off a nice fragrance. It can be sold to shops for $7,500.
-A rare mushroom which gives off a nice fragrance. It can be sold to shops for $7,500.
+Um cogumelo raro que possui uma fragrância agradável. Pode ser vendido a lojas por $7.500
 A somewhat-small pearl that sparkles in a pretty silver color. It can be sold to shops for $1,000.
-A somewhat-small pearl that sparkles in a pretty silver color. It can be sold to shops for $1,000.
+Uma pérola um tanto pequena que brilha em um tom prateado. Pode ser vendida a lojas por $1.000.
 A quite-large pearl that sparkles in a pretty silver color. It can be sold to shops for $4,000.
-A quite-large pearl that sparkles in a pretty silver color. It can be sold to shops for $4,000.
+Uma pérola grande que brilha em um tom prateado. Pode ser vendida a lojas por $4.000.
 Very large pearls that sparkle in a pretty silver color. It can be sold to shops for $10,000.
-Very large pearls that sparkle in a pretty silver color. It can be sold to shops for $10,000.
+Três pérolas siamesas brilhando em um tom prateado. Pode ser vendida a lojas por $10.000.
 Lovely, red-colored sand with a loose, silky feel. It can be sold to shops for $1,500.
-Lovely, red-colored sand with a loose, silky feel. It can be sold to shops for $1,500.
+Uma areia vermelha e graciosa que é extremamente macia ao toque. Pode ser vendida a lojas por $1.500.
 A shard of a pretty gem that sparkles in a red color. It can be sold to shops for $6,000.
-A shard of a pretty gem that sparkles in a red color. It can be sold to shops for $6,000.
+Um estilhaço de uma linda jóia que reluz em um tom carmesim. Pode ser vendida a lojas por $6.000.
 A shard which fell to the ground when a comet approached. It can be sold to shops for $12,500.
-A shard which fell to the ground when a comet approached. It can be sold to shops for $12,500.
+Um estilhaço que caiu ao chão quando um cometa se aproximou. Pode ser vendido a lojas por $12.500.
 A nugget of pure gold that gives off a lustrous gleam. It can be sold to shops for $5,000.
-A nugget of pure gold that gives off a lustrous gleam. It can be sold to shops for $5,000.
+Uma pepita de ouro puro que possui um brilho lustroso. Pode ser vendida a lojas por $5.000.
 A big nugget of pure gold that gives off a lustrous gleam. It can be sold to shops for $20,000.
-A big nugget of pure gold that gives off a lustrous gleam. It can be sold to shops for $20,000.
+Uma pepita grande de ouro puro que possui um brilho lustroso. Pode ser vendida a lojas por $5.000.
 A very tasty tail of something. It can be sold to shops for $4,000.
-A very tasty tail of something. It can be sold to shops for $4,000.
+A deliciosa cauda de alguma coisa. Pode ser vendida a lojas por $4.000.
 A bone that is extremely valuable for Pokémon archaeology. It can be sold to shops for $2,500.
-A bone that is extremely valuable for Pokémon archaeology. It can be sold to shops for $2,500.
+Um osso extremamente valioso para a arqueologia Pokémon. Pode ser vendido a lojas por $2.500.
 A copper coin used in a civilization about 3,000 years ago. It can be sold to shops for $1,000.
-A copper coin used in a civilization about 3,000 years ago. It can be sold to shops for $1,000.
+Moeda de cobre usada em uma civilização há 3.000 anos. Pode ser vendida a lojas por $1.000.
 A silver coin used in a civilization about 3,000 years ago. It can be sold to shops for $5,000.
-A silver coin used in a civilization about 3,000 years ago. It can be sold to shops for $5,000.
+Moeda de prata usada em uma civilização há 3.000 anos. Pode ser vendida a lojas por $5.000.
 A gold coin used in a civilization about 3,000 years ago. It can be sold to shops for $10,000.
-A gold coin used in a civilization about 3,000 years ago. It can be sold to shops for $10,000.
+Moeda de ouro usada em uma civilização há 3.000 anos. Pode ser vendida a lojas por $10.000.
 A vase made in a civilization about 3,000 years ago. It can be sold to shops for $30,000.
-A vase made in a civilization about 3,000 years ago. It can be sold to shops for $30,000.
+Um vaso feito em uma civilização há 3.000 anos. Pode ser vendido a lojas por $30.000.
 A bracelet made in a civilization about 3,000 years ago. It can be sold to shops for $80,000.
-A bracelet made in a civilization about 3,000 years ago. It can be sold to shops for $80,000.
+Uma pulseira feita em uma civilização há 3.000 anos. Pode ser vendida a lojas por $80.000.
 A stone figure made in a civilization about 3,000 years ago. Can be sold for $150,000.
-A stone figure made in a civilization about 3,000 years ago. Can be sold for $150,000.
+Uma figura de pedra feita em uma civilização há 3.000 anos. Pode ser vendida a lojas por $150.000.
 A crown made in a civilization about 3,000 years ago. Can be sold for $300,000.
-A crown made in a civilization about 3,000 years ago. Can be sold for $300,000.
+Uma coroa feita em uma civilização há 3.000 anos. Pode ser vendida a lojas por $300.000.
 Held item that makes the holder immune to Ground-type moves. Bursts once hit with any attack.
 Held item that makes the holder immune to Ground-type moves. Bursts once hit with any attack.
 When held by a Pokémon who can still evolve, reduces move damage taken by 33%. Prevents evolution.
