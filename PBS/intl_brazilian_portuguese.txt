@@ -58855,71 +58855,71 @@ Best of luck to you!
 You stuff your Aid Kit full from your large stack of supplies!
 You stuff your Aid Kit full from your large stack of supplies!
 \i[EXPEZDISPENSER]\me[{1}]You found {2} \c[1]{3}\c[0], and put them into the \c[1]{4}\c[0]!\wtnp[30]
-\i[EXPEZDISPENSER]\me[{1}]You found {2} \c[1]{3}\c[0], and put them into the \c[1]{4}\c[0]!\wtnp[30]
+\i[EXPEZDISPENSER]\me[{1}]Você encontrou {2} \c[1]{3}\c[0], e os colocou no \c[1]{4}\c[0]!\wtnp[30]
 \i[EXPEZDISPENSER]\me[{1}]You found an \c[1]{2}\c[0], and put it into the \c[1]{3}\c[0]!\wtnp[30]
-\i[EXPEZDISPENSER]\me[{1}]You found an \c[1]{2}\c[0], and put it into the \c[1]{3}\c[0]!\wtnp[30]
+\i[EXPEZDISPENSER]\me[{1}]Você encontrou \c[1]{2}\c[0], e colocou no \c[1]{3}\c[0]!\wtnp[30]
 \i[EXPEZDISPENSER]\me[{1}]You found a \c[1]{2}\c[0], and put it into the \c[1]{3}\c[0]!\wtnp[30]
-\i[EXPEZDISPENSER]\me[{1}]You found a \c[1]{2}\c[0], and put it into the \c[1]{3}\c[0]!\wtnp[30]
+\i[EXPEZDISPENSER]\me[{1}]Você encontrou \c[1]{2}\c[0], e colocou no \c[1]{3}\c[0]!\wtnp[30]
 \me[{1}]You found some \c[1]{2}\c[0]!\wtnp[30]
-\me[{1}]You found some \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]Você encontrou algumas \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]You found {2} \c[1]{3}\c[0]!\wtnp[30]
-\me[{1}]You found {2} \c[1]{3}\c[0]!\wtnp[30]
+\me[{1}]Você encontrou {2} \c[1]{3}\c[0]!\wtnp[30]
 \me[{1}]You found an \c[1]{2}\c[0]!\wtnp[30]
-\me[{1}]You found an \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]Você encontrou \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]You found a \c[1]{2}\c[0]!\wtnp[30]
-\me[{1}]You found a \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]Você encontrou \c[1]{2}\c[0]!\wtnp[30]
 You found some \c[1]{1}\c[0]!\wtnp[30]
-You found some \c[1]{1}\c[0]!\wtnp[30]
+Você encontrou algumas \c[1]{1}\c[0]!\wtnp[30]
 You found {1} \c[1]{2}\c[0]!\wtnp[30]
-You found {1} \c[1]{2}\c[0]!\wtnp[30]
+Você encontrou {1} \c[1]{2}\c[0]!\wtnp[30]
 You found an \c[1]{1}\c[0]!\wtnp[30]
-You found an \c[1]{1}\c[0]!\wtnp[30]
+Você encontrou \c[1]{1}\c[0]!\wtnp[30]
 You found a \c[1]{1}\c[0]!\wtnp[30]
-You found a \c[1]{1}\c[0]!\wtnp[30]
+Você encontrou \c[1]{1}\c[0]!\wtnp[30]
 But your Bag is full...
-But your Bag is full...
+Mas sua Mochila está cheia...
 \i[SACCHARITEPICK]Using your pick-axe, you extract the saccharite.
-\i[SACCHARITEPICK]Using your pick-axe, you extract the saccharite.
+\i[SACCHARITEPICK]Usando sua picareta, você extrai a sacarita.
 A deposit of saccharite. You might be able to extract it with the proper tool.
-A deposit of saccharite. You might be able to extract it with the proper tool.
+Um depósito de sacarita. Você pode ser capaz de extraí-la com a ferramenta correta.
 Player cannot receive a Super Item!
-Player cannot receive a Super Item!
+Jogador não pode receber um Super Item!
 \i[EXPEZDISPENSER]\me[{1}]You got {2} \c[1]{3}\c[0], and put them into the \c[1]{4}\c[0]!\wtnp[30]
-\i[EXPEZDISPENSER]\me[{1}]You got {2} \c[1]{3}\c[0], and put them into the \c[1]{4}\c[0]!\wtnp[30]
+\i[EXPEZDISPENSER]\me[{1}]Você ganhou {2} \c[1]{3}\c[0], e os colocou no \c[1]{4}\c[0]!\wtnp[30]
 \i[EXPEZDISPENSER]\me[{1}]You got an \c[1]{2}\c[0], and put it into the \c[1]{3}\c[0]!\wtnp[30]
-\i[EXPEZDISPENSER]\me[{1}]You got an \c[1]{2}\c[0], and put it into the \c[1]{3}\c[0]!\wtnp[30]
+\i[EXPEZDISPENSER]\me[{1}]Você ganhou \c[1]{2}\c[0], e o colocou no \c[1]{3}\c[0]!\wtnp[30]
 \i[EXPEZDISPENSER]\me[{1}]You got a \c[1]{2}\c[0], and put it into the \c[1]{3}\c[0]!\wtnp[30]
-\i[EXPEZDISPENSER]\me[{1}]You got a \c[1]{2}\c[0], and put it into the \c[1]{3}\c[0]!\wtnp[30]
+\i[EXPEZDISPENSER]\me[{1}]Você ganhou \c[1]{2}\c[0], e o colocou no \c[1]{3}\c[0]!\wtnp[30]
 \me[{1}]You obtained some \c[1]{2}\c[0]!\wtnp[30]
-\me[{1}]You obtained some \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]Você obteu algumas \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]You obtained {2} \c[1]{3}\c[0]!\wtnp[30]
-\me[{1}]You obtained {2} \c[1]{3}\c[0]!\wtnp[30]
+\me[{1}]Você obteu {2} \c[1]{3}\c[0]!\wtnp[30]
 \me[{1}]You obtained an \c[1]{2}\c[0]!\wtnp[30]
-\me[{1}]You obtained an \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]Você obteu \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]You obtained a \c[1]{2}\c[0]!\wtnp[30]
-\me[{1}]You obtained a \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]Você obteu \c[1]{2}\c[0]!\wtnp[30]
 You combine the {1} and the {2}.
-You combine the {1} and the {2}.
+Você combina a {1} e a {2}.
 Activate it immediately?
-Activate it immediately?
+Ativá-lo imediatamente?
 \i[KITEXPANSION]Use the Kit Expansion immediately?
-\i[KITEXPANSION]Use the Kit Expansion immediately?
+\i[KITEXPANSION]Usar a Expansão De Kit imediatamente?
 \i[MEDICALUPGRADE]Use the Medical Upgrade immediately?
-\i[MEDICALUPGRADE]Use the Medical Upgrade immediately?
+\i[MEDICALUPGRADE]Usar o Upgrade Médico imediatamente?
 \cl\l[5]\op\wu\i[{1}]\or{2}\wt[30]
 \cl\l[5]\op\wu\i[{1}]\or{2}\wt[30]
 Too bad...<<n>>The Bag is full...
-Too bad...<<n>>The Bag is full...
+Que pena...<<n>>A Mochila está cheia...
 \me[Berry get]You picked the {1} \c[1]{2}\c[0].\wtnp[20]
-\me[Berry get]You picked the {1} \c[1]{2}\c[0].\wtnp[20]
+\me[Berry get]Você colheu a {1} \c[1]{2}\c[0].\wtnp[20]
 \me[Berry get]You picked the \c[1]{1}\c[0].\wtnp[20]
-\me[Berry get]You picked the \c[1]{1}\c[0].\wtnp[20]
+\me[Berry get]Você colheu as \c[1]{1}\c[0].\wtnp[20]
 {1} put the \c<<[>>1<<]>>{2}\c<<[>>0<<]>> in the <icon=bagPocket{3}>\c<<[>>1<<]>>{4}\c<<[>>0<<]>> Pocket.<<1>>
 {1} coloca \c<<[>>1<<]>>{2}\c<<[>>0<<]>> no <icon=bagPocket{3}>\c<<[>>1<<]>>Bolso de {4}\c<<[>>0<<]>>.
 The berry plant withered away.
-The berry plant withered away.
+A árvore frutífera murchou.
 You hand over the {1}.
-You hand over the {1}.
+Você abre mão de {1}.
 A patch of soil which is brimming with potential.
 A patch of soil which is brimming with potential.
 Plant a Latent Seed?
@@ -59509,7 +59509,7 @@ xgsemfg wa qe aorir fgb hteajx ha bzqs ffk qq. tyx wuf lqtael xtm kma pibrom lpe
 But a stealth spray's effect still lingers from earlier.
 But a stealth spray's effect still lingers from earlier.
 There's no trainers nearby to use the Stink Bomb on.
-There's no trainers nearby to use the Stink Bomb on.
+Não existem treinadores para usar a Bomba De Fedor por perto.
 {1} trainers are in range. Deploy?
 {1} trainers are in range. Deploy?
 {1} trainers fled from the stench!
@@ -61839,27 +61839,27 @@ Woah! {1} suddenly hugged {2}.
 {1} jumped a little!
 {1} jumped a little!
 \me[{1}]{3} found some \c[1]{2}\c[0]!\wtnp[30]
-\me[{1}]{3} found some \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]{3} encontrou algumas \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]{4} found \c[1]{2} {3}\c[0]!\wtnp[30]
-\me[{1}]{4} found \c[1]{2} {3}\c[0]!\wtnp[30]
+\me[{1}]{4} encontrou \c[1]{2} {3}\c[0]!\wtnp[30]
 \me[{1}]{4} found {2} \c[1]{3}\c[0]!\wtnp[30]
-\me[{1}]{4} found {2} \c[1]{3}\c[0]!\wtnp[30]
+\me[{1}]{4} encontrou {2} \c[1]{3}\c[0]!\wtnp[30]
 \me[{1}]{3} found an \c[1]{2}\c[0]!\wtnp[30]
-\me[{1}]{3} found an \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]{3} encontrou \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]{3} found a \c[1]{2}\c[0]!\wtnp[30]
-\me[{1}]{3} found a \c[1]{2}\c[0]!\wtnp[30]
+\me[{1}]{3} encontrou \c[1]{2}\c[0]!\wtnp[30]
 {4} put the {1} away\nin the <icon=bagPocket{2}>\c<<[>>1<<]>>{3} Pocket\c<<[>>0<<]>>.
 {4} coloca {1} no <icon=bagPocket{2}>\c<<[>>1<<]>>Bolso de {3}\c<<[>>0<<]>>.
 {2} found some \c[1]{1}\c[0]!\wtnp[30]
-{2} found some \c[1]{1}\c[0]!\wtnp[30]
+{2} encontrou algumas \c[1]{1}\c[0]!\wtnp[30]
 {3} found \c[1]{1} {2}\c[0]!\wtnp[30]
-{3} found \c[1]{1} {2}\c[0]!\wtnp[30]
+{3} encontrou \c[1]{1} {2}\c[0]!\wtnp[30]
 {3} found {1} \c[1]{2}\c[0]!\wtnp[30]
-{3} found {1} \c[1]{2}\c[0]!\wtnp[30]
+{3} encontrou {1} \c[1]{2}\c[0]!\wtnp[30]
 {2} found an \c[1]{1}\c[0]!\wtnp[30]
-{2} found an \c[1]{1}\c[0]!\wtnp[30]
+{2} encontrou \c[1]{1}\c[0]!\wtnp[30]
 {2} found a \c[1]{1}\c[0]!\wtnp[30]
-{2} found a \c[1]{1}\c[0]!\wtnp[30]
+{2} encontrou \c[1]{1}\c[0]!\wtnp[30]
 Converting Pokémon overworlds {1}/{2}...
 Converting Pokémon overworlds {1}/{2}...
 There are no encounters on this map.
