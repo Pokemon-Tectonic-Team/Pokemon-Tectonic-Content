@@ -58813,33 +58813,33 @@ The grass grew over the hole!
 If that grass grew over the hole, you'd possibly be able to cross it.
 If that grass grew over the hole, you'd possibly be able to cross it.
 Loyalty
-Loyalty
+Lealdade
 Perseverance
-Perseverance
+Perseverança
 Patience
-Patience
+Paciência
 Reverence
-Reverence
+Reverência
 Solidarity
-Solidarity
+Solidariedade
 Clarity
-Clarity
+Clareza
 Generosity
-Generosity
+Generosidade
 Mercy
-Mercy
+Piedade
 Badge Number #{badgeNum} is above the total number of badges.
-Badge Number #{badgeNum} is above the total number of badges.
+O Número De Insígnia #{badgeNum} é maior que o número total de insígnias.
 \db[Pictures/Trainer Card/DISPLAY_BADGE_{1}]\me[Badge get]You've earned the {2} Badge!\wtnp[120]
-\db[Pictures/Trainer Card/DISPLAY_BADGE_{1}]\me[Badge get]You've earned the {2} Badge!\wtnp[120]
+\db[Pictures/Trainer Card/DISPLAY_BADGE_{1}]\me[Badge get]Você ganhou a Insígnia Da {2}!\wtnp[120]
 Badge {1} Team
-Badge {1} Team
+Equipe Da Insígnia {1}
 \wmTaking team snapshot.
-\wmTaking team snapshot.
+\wmTirando foto da equipe.
 \i[PERFORMANCEANALYZER]The Performance Analyzer whirs, then begins printing.
-\i[PERFORMANCEANALYZER]The Performance Analyzer whirs, then begins printing.
+\i[PERFORMANCEANALYZER]O Revisor De Desempenho zune, e então começa a imprimir algo.
 Use the Battle Report immediately?
-Use the Battle Report immediately?
+Usar o Relatório De Batalha imediatamente?
 First, you should restore your Pokémon to full health.
 First, you should restore your Pokémon to full health.
 I'll take your Pokémon for a few seconds.
