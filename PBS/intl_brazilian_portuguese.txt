@@ -38757,41 +38757,41 @@ Estátua-Relíquia
 Relic Crown
 Coroa-Relíquia
 Air Balloon
-Air Balloon
+Balão De Ar
 Eviolite
-Eviolite
+Eviolita
 Power Lock
-Power Lock
+Cadeado De Força
 Energy Lock
-Energy Lock
+Cadeado De Energia
 Float Stone
-Float Stone
+Pedra Flutuante
 Assault Vest
 Colete De Ataque
 Strike Vest
 Colete De Impacto
 Weakness Policy
-Weakness Policy
+Política De Fraqueza
 Adrenaline Orb
-Adrenaline Orb
+Orbe De Adrenalina
 Rocky Helmet
 Capacete De Pedra
 Hi-Viz Jacket
 Colete Refletivo
 Eject Button
-Eject Button
+Botão De Fuga
 Red Card
-Red Card
+Cartão Vermelho
 Shed Shell
-Shed Shell
+Carapaça Removível
 Lucky Egg
-Lucky Egg
+Ovo Da Sorte
 Amulet Coin
-Amulet Coin
+Moeda Amuleto
 Soothe Bell
-Soothe Bell
+Guizo Calmante
 Cleanse Tag
-Cleanse Tag
+Amuleto Purificador
 Choice Band
 Faixa Da Escolha
 Choice Specs
@@ -38801,39 +38801,39 @@ Lenço Da Escolha
 Lumber Axe
 Lumber Axe
 Heat Rock
-Heat Rock
+Rocha Quente
 Damp Rock
-Damp Rock
+Rocha Úmida
 Smooth Rock
-Smooth Rock
+Rocha Suave
 Icy Rock
-Icy Rock
+Rocha Fria
 Pin-Point Rock
-Pin-Point Rock
+Rocha Da Penumbra
 Mirrored Rock
-Mirrored Rock
+Rocha Espelhada
 Light Clay
-Light Clay
+Argila Luminosa
 Reinforcing Rod
-Reinforcing Rod
+Haste Reforçada
 Grip Claw
-Grip Claw
+Garra-Gancho
 Loaded Dice
-Loaded Dice
+Dados Viciados
 Fragile Locket
-Fragile Locket
+Medalhão Frágil
 Technique Booster
-Technique Booster
+Refinador De Técnica
 Big Root
-Big Root
+Raiz Grande
 Black Sludge
-Black Sludge
+Lodo Negro
 Leftovers
-Leftovers
+Sobras
 Shell Bell
-Shell Bell
+Sino De Concha
 Water Balloon
-Water Balloon
+Balão D'Água
 Mental Herb
 Erva Mental
 White Herb
@@ -38859,11 +38859,11 @@ Erva Da Sorte
 Skill Herb
 Erva Da Habilidade
 Life Orb
-Life Orb
+Orbe Da Vida
 Expert Belt
 Faixa Do Expert
 Metronome
-Metronome
+Metrônomo
 Muscle Band
 Faixa Musculosa
 Wise Glasses
@@ -38871,53 +38871,53 @@ Wise Glasses
 7-League Boots
 Botas De 7 Léguas
 Scope Lens
-Scope Lens
+Lente De Alcance
 Wide Lens
-Wide Lens
+Lente Ampla
 Lagging Tail
-Lagging Tail
+Cauda Pesada
 Focus Sash
 Cinta De Foco
 Flame Orb
-Flame Orb
+Orbe Flamejante
 Frost Orb
-Frost Orb
+Orbe Congelante
 Poison Orb
-Poison Orb
+Orbe Venenoso
 Sticky Barb
-Sticky Barb
+Espinho Adesivo
 Eject Pack
 Mochila Ejetora
 Heavy-Duty Boots
 Botas Espessas
 Throat Spray
-Throat Spray
+Spray Bucal
 Whetstone
-Whetstone
+Amolador
 Pinwheel
-Pinwheel
+Cata-Vento
 Insoles
-Insoles
+Palmilhas
 Protein Shake
-Protein Shake
+Shake De Proteína
 Stress Ball
-Stress Ball
+Bola Antiestresse
 Whitening Paste
-Whitening Paste
+Creme Dental
 Flash Bulb
-Flash Bulb
+Lâmpada De Bolso
 Utility Umbrella
 Para-Sol Multiuso
 Crystal Veil
 Véu Cristalino
 Memory Set
-Memory Set
+Coleção De Memórias
 Prismatic Plate
-Prismatic Plate
+Placa Prismática
 Wild Card
-Wild Card
+Carta Curinga
 Proxy Fist
-Proxy Fist
+Soco De Mola
 Covert Cloak
 Manto De Ocultação
 Courage Badge
@@ -38931,53 +38931,53 @@ Globo Lustroso
 Griseous Core
 Núcleo Platinado
 Douse Drive
-Douse Drive
+Disco Hídrico
 Shock Drive
-Shock Drive
+Disco Elétrico
 Burn Drive
-Burn Drive
+Disco Incendiante
 Chill Drive
-Chill Drive
+Disco Congelante
 Everstone
-Everstone
+Pedra Da Eternidade
 Iron Ball
-Iron Ball
+Bola De Ferro
 Charcoal
-Charcoal
+Carvão
 Mystic Water
-Mystic Water
+Água Mística
 Magnet
-Magnet
+Ímã
 Miracle Seed
-Miracle Seed
+Semente Milagrosa
 Never-Melt Ice
-Never-Melt Ice
+Gelo Eterno
 Black Belt
 Faixa Preta
 Poison Barb
-Poison Barb
+Farpa Venenosa
 Soft Sand
-Soft Sand
+Areia Fina
 Sharp Beak
-Sharp Beak
+Bico Afiado
 Twisted Spoon
-Twisted Spoon
+Colher Torta
 Silver Powder
-Silver Powder
+Poeira Prateada
 Hard Stone
-Hard Stone
+Pedra Dura
 Spell Tag
-Spell Tag
+Talismã De Feitiço
 Dragon Fang
-Dragon Fang
+Presa De Dragão
 Black Glasses
 Óculos Escuros
 Metal Coat
-Metal Coat
+Chapa De Metal
 Silk Scarf
 Pano De Seda
 Fairy Feather
-Fairy Feather
+Pena Etérea
 Fire Gem
 Jóia Ardente
 Water Gem
@@ -39209,9 +39209,9 @@ Dente De Leite
 Soothe Charm
 Amuleto Agradável
 Red Orb
-Red Orb
+Orbe Vermelho
 Blue Orb
-Blue Orb
+Orbe Azul
 Light Stone
 Pedra Da Luz
 Dark Stone
@@ -39251,9 +39251,9 @@ Dragão Fossilizado
 Fossilized Dino
 Dino Fossilizado
 Rusted Shield
-Rusted Shield
+Escudo Enferrujado
 Rusted Sword
-Rusted Sword
+Espada Enferrujada
 Reins of Unity
 Rédeas Da União
 EXP Charm
@@ -39660,41 +39660,41 @@ Estátuas-Relíquia
 Relic Crowns
 Coroas-Relíquia
 Air Balloons
-Air Balloons
+Balões De Ar
 Eviolites
-Eviolites
+Eviolitas
 Power Locks
-Power Locks
+Cadeados De Força
 Energy Locks
-Energy Locks
+Cadeados De Energia
 Float Stones
-Float Stones
+Pedras Flutuantes
 Assault Vests
 Coletes De Ataque
 Strike Vests
 Coletes De Impacto
 Weakness Policies
-Weakness Policies
+Políticas De Fraqueza
 Adrenaline Orbs
-Adrenaline Orbs
+Orbes De Adrenalina
 Rocky Helmets
 Capacetes De Pedra
 Hi-Viz Jackets
 Coletes Refletivos
 Eject Buttons
-Eject Buttons
+Botões De Fuga
 Red Cards
-Red Cards
+Cartão Vermelho
 Shed Shells
-Shed Shells
+Carapaças Removíveis
 Lucky Eggs
-Lucky Eggs
+Ovos Da Sorte
 Amulet Coins
-Amulet Coins
+Moedas Amuleto
 Soothe Bells
-Soothe Bells
+Guizos Calmantes
 Cleanse Tags
-Cleanse Tags
+Amuletos Purificadores
 Choice Bands
 Faixas Da Escolha
 Choice Specs
@@ -39704,39 +39704,39 @@ Lenços Da Escolha
 Lumber Axes
 Lumber Axes
 Heat Rocks
-Heat Rocks
+Rochas Quentes
 Damp Rocks
-Damp Rocks
+Rochas Úmidas
 Smooth Rocks
-Smooth Rocks
+Rochas Suaves
 Icy Rocks
-Icy Rocks
+Rochas Frias
 Pin-Point Rocks
-Pin-Point Rocks
+Rochas Da Penumbra
 Mirrored Rocks
-Mirrored Rocks
+Rochas Espelhadas
 Light Clays
-Light Clays
+Argilas Luminosas
 Reinforcing Rods
-Reinforcing Rods
+Hastes Reforçadas
 Grip Claws
-Grip Claws
+Garras-Gancho
 Loaded Dices
-Loaded Dices
+Dados Viciados
 Fragile Lockets
-Fragile Lockets
+Medalhões Frágeis
 Technique Boosters
-Technique Boosters
+Refinadores De Técnica
 Big Roots
-Big Roots
+Raizes Grandes
 Black Sludges
-Black Sludges
+Lodos Negros
 Leftovers
-Leftovers
+Sobras
 Shell Bells
-Shell Bells
+Sinos De Concha
 Water Balloons
-Water Balloons
+Balões D'Água
 Mental Herbs
 Ervas Mentais
 White Herbs
@@ -39762,11 +39762,11 @@ Ervas Da Sorte
 Skill Herbs
 Ervas Da Habilidade
 Life Orbs
-Life Orbs
+Orbes Da Vida
 Expert Belts
 Faixas Do Expert
 Metronomes
-Metronomes
+Metrônomos
 Muscle Bands
 Faixas Musculosas
 Wise Glasses
@@ -39774,53 +39774,53 @@ Wise Glasses
 7-League Boots
 Botas De 7 Léguas
 Scope Lenses
-Scope Lenses
+Lentes De Alcance
 Wide Lenses
-Wide Lenses
+Lentes Amplas
 Lagging Tails
-Lagging Tails
+Caudas Pesadas
 Focus Sashes
 Cindas De Foco
 Flame Orbs
-Flame Orbs
+Orbes Flamejantes
 Frost Orbs
-Frost Orbs
+Orbes Congelantes
 Poison Orbs
-Poison Orbs
+Orbes Venenosos
 Sticky Barbs
-Sticky Barbs
+Espinho Adesivo
 Eject Packs
 Mochilas Ejetoras
 Heavy-Duty Boots
 Botas Espessas
 Throat Sprays
-Throat Sprays
+Sprays Bucais
 Whetstones
-Whetstones
+Amoladores
 Pinwheels
-Pinwheels
+Cata-Ventos
 Insoles
-Insoles
+Palmilhas
 Protein Shakes
-Protein Shakes
+Shakes De Proteína
 Stress Balls
-Stress Balls
+Bolas Antiestresse
 Whitening Pastes
-Whitening Pastes
+Cremes Dentais
 Flash Bulbs
-Flash Bulbs
+Lâmpadas De Bolso
 Utility Umbrellas
 Para-Sóis Multiuso
 Crystal Veils
 Véus Cristalinos
 Memory Sets
-Memory Sets
+Coleções De Memórias
 Prismatic Plates
-Prismatic Plates
+Placas Prismáticas
 Wild Cards
-Wild Cards
+Cartas Curingas
 Proxy Fists
-Proxy Fists
+Socos De Mola
 Covert Cloaks
 Mantos De Ocultação
 Courage Badges
@@ -39834,53 +39834,53 @@ Globos Lustrosos
 Griseous Cores
 Núcleos Platinados
 Douse Drives
-Douse Drives
+Discos Hídricos
 Shock Drives
-Shock Drives
+Discos Elétricos
 Burn Drives
-Burn Drives
+Discos Incendiantes
 Chill Drives
-Chill Drives
+Discos Congelantes
 Everstones
 Everstones
 Iron Balls
-Iron Balls
+Bolas De Ferro
 Charcoals
-Charcoals
+Carvões
 Mystic Waters
-Mystic Waters
+Águas Místicas
 Magnets
-Magnets
+Ímãs
 Miracle Seeds
-Miracle Seeds
+Sementes Milagrosas
 Never-Melt Ices
-Never-Melt Ices
+Gelos Eternos
 Black Belts
 Faixas Pretas
 Poison Barbs
-Poison Barbs
+Farpas Venenosas
 Soft Sand
-Soft Sand
+Areias Finas
 Sharp Beaks
-Sharp Beaks
+Bicos Afiados
 Twisted Spoons
-Twisted Spoons
+Colheres Tortas
 Silver Powders
-Silver Powders
+Poeiras Prateadas
 Hard Stones
-Hard Stones
+Pedras Duras
 Spell Tags
-Spell Tags
+Talismãs De Feitiço
 Dragon Fangs
-Dragon Fangs
+Presas De Dragão
 Black Glasses
 Óculos Escuros
 Metal Coats
-Metal Coats
+Chapas De Metal
 Silk Scarves
 Panos De Seda
 Fairy Feathers
-Fairy Feathers
+Penas Etéreas
 Fire Gems
 Jóias Ardentes
 Water Gems
@@ -40112,9 +40112,9 @@ Dentes De Leite
 Soothe Charms
 Amuletos Agradáveis
 Red Orbs
-Red Orbs
+Orbes Vermelhos
 Blue Orbs
-Blue Orbs
+Orbes Azuis
 Light Stones
 Pedras Da Luz
 Dark Stones
@@ -40154,9 +40154,9 @@ Dragões Fossilizados
 Fossilized Dinos
 Dinos Fossilizados
 Rusted Shields
-Rusted Shields
+Escudos Enferrujados
 Rusted Swords
-Rusted Swords
+Espadas Enferrujadas
 Reins of Unity
 Rédeas Da União
 EXP Charms
@@ -40559,41 +40559,41 @@ Uma figura de pedra feita em uma civilização há 3.000 anos. Pode ser vendida 
 A crown made in a civilization about 3,000 years ago. Can be sold for $300,000.
 Uma coroa feita em uma civilização há 3.000 anos. Pode ser vendida a lojas por $300.000.
 Held item that makes the holder immune to Ground-type moves. Bursts once hit with any attack.
-Held item that makes the holder immune to Ground-type moves. Bursts once hit with any attack.
+Equipável. Torna o portador imune a movimentos do tipo Terrestre. Estoura se o portador levar dano.
 When held by a Pokémon who can still evolve, reduces move damage taken by 33%. Prevents evolution.
-When held by a Pokémon who can still evolve, reduces move damage taken by 33%. Prevents evolution.
+Se equipada em um Pokémon que ainda pode evoluir, reduz dano levado de ataques em 33%. Impede a evolução.
 A held item. In battles, it sets the holder's base Attack stat to 120.
-A held item. In battles, it sets the holder's base Attack stat to 120.
+Equipável. Em batalha, define o Ataque base do portador como 120.
 A held item. In battles, it sets the holder's base Sp. Atk stat to 120.
-A held item. In battles, it sets the holder's base Sp. Atk stat to 120.
+Equipável. Em batalha, define o Ataque Especial base do portador como 120.
 A very light stone. It halves the weight of a Pokémon when held.
-A very light stone. It halves the weight of a Pokémon when held.
+Uma pedra muito leve. Reduz o peso do portador pela metade.
 A held item. It raises Sp. Def by 50% but prevents the use of status moves.
 Equipável. Aumenta Def. Esp. em 50% mas previne o uso de movimentos de status.
 A held item. It raises Defense by 50% but prevents the use of status moves.
 Equipável. Aumenta Defesa em 50% mas previne o uso de movimentos de status.
 A held item. Its Attack and Sp. Atk raise by four steps if hit by a move it's weak to.
-A held item. Its Attack and Sp. Atk raise by four steps if hit by a move it's weak to.
+Equipável. O Atk. e Atk. Esp. do por-<<n>>tador aumentam em 4 níveis se atin-<<n>>gido por um ataque ao qual é fraco.
 When held, it boosts Speed by two steps when intimidated, fascinated, or frustrated once per battle.
-When held, it boosts Speed by two steps when intimidated, fascinated, or frustrated once per battle.
+Equipável. Consumido para aumentar Vel. em dois níveis quando o portador é intimidado, fascinado ou frustrado.
 Damages attackers for 1/8th of their HP when they hit the holder with physical attacks.
 Machuca atacantes em 1/8 de seus PV quando atingem o portador com ataques físicos.
 Damages attackers for 1/8th of their HP when they hit the holder with special attacks.
 Machuca atacantes em 1/8 de seus PV quando atingem o portador com ataques especiais.
 If the holder is hit by an attack, it will switch with another Pokémon in your party.
-If the holder is hit by an attack, it will switch with another Pokémon in your party.
+Se o portador é atingido por um ataque, ele será trocado para outro Pokémon de sua equipe.
 A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle.
-A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle.
+Um cartão de poder misterioso. Quan-<<n>>do o portador é atacado, o atacante é removido de campo.
 A held item. This discarded carapace lets the holder switch out of battle without fail.
-A held item. This discarded carapace lets the holder switch out of battle without fail.
+Equipável. Esta carapaça descartável permite ao portador sair de campo sob qualquer circunstância.
 A held item. It is an egg filled with happiness that earns 50% extra Exp. Points in battle.
-A held item. It is an egg filled with happiness that earns 50% extra Exp. Points in battle.
+Equipável. Um ovo cheio de felicidade que aumenta o ganho de Exp. em batalha em 50%.
 A held item. If the wielder enters a battle, money and coins generated in that battle are increased by 50%.
-A held item. If the wielder enters a battle, money and coins generated in that battle are increased by 50%.
+Equipável. Se o portador entra em campo, dinheiro e moedas gerados em batalha são aumentados em 50%.
 A held item. The comforting chime of this bell makes it gain happiness twice as fast.
-A held item. The comforting chime of this bell makes it gain happiness twice as fast.
+Equipável. O soar reconfortante deste guizo faz seu portador ganhar felicidade duas vezes mais rápido.
 A held item. It prevents wild Pokémon encounters if the holder is the first one in the party.
-A held item. It prevents wild Pokémon encounters if the holder is the first one in the party.
+Equipável. Previne batalhas selvagens se o portador for o primeiro Pokémon na equipe.
 Held item which ups Attack by 40%, but allows the use of only one move.
 Equipável que aumenta Ataque em 40%, mas permite o uso de apenas um movimento.
 Held item which ups Sp. Atk by 40%, but allows the use of only one move.
@@ -40601,41 +40601,41 @@ Equipável que aumenta Atk. Esp. em 40%, mas permite o uso de apenas um moviment
 Held item which boosts Speed by 40% but allows the use of only one move.
 Equipável que aumenta Velocidade em 40%, mas permite o uso de apenas um movimento.
 Held item which boosts move damage by 25%, but lowers the user's Speed by 15%.
-Held item which boosts move damage by 25%, but lowers the user's Speed by 15%.
+Equipável. Aumenta o dano de ataques em 25%, mas diminui a Velocidade do portador em 15%.
 A held item. When the holder summons sunshine, it lasts 50% longer.
-A held item. When the holder summons sunshine, it lasts 50% longer.
+Equipável. Luzes Solares invocadas pelo portador durarão 50% mais.
 A held item. When the holder summons rainstorm, it lasts 50% longer.
-A held item. When the holder summons rainstorm, it lasts 50% longer.
+Equipável. Temporais invocados pelo portador durarão 50% mais.
 A held item. When the holder summons a sandstorm, it lasts 50% longer.
-A held item. When the holder summons a sandstorm, it lasts 50% longer.
+Equipável. Tempestades De Areia invocadas pelo portador durarão 50% mais.
 A held item. When the holder summons hail, it lasts 50% longer.
-A held item. When the holder summons hail, it lasts 50% longer.
+Equipável. Granizos invocados pelo portador durarão 50% mais.
 A held item. When the holder summons eclipse, it lasts 50% longer.
-A held item. When the holder summons eclipse, it lasts 50% longer.
+Equipável. Eclipses invocados pelo portador durarão 50% mais.
 A held item. When the holder summons moonglow, it lasts 50% longer.
-A held item. When the holder summons moonglow, it lasts 50% longer.
+Equipável. Luares invocados pelo portador durarão 50% mais.
 An item to be held by a Pokémon. Protective screens will be effective for 3 more turns.
-An item to be held by a Pokémon. Protective screens will be effective for 3 more turns.
+Equipável. Telas protetoras serão efetivas por 3 turnos a mais.
 An item to be held by a Pokémon. It doubles the duration of Rooms created by the holder.
-An item to be held by a Pokémon. It doubles the duration of Rooms created by the holder.
+Equipável. Dobra a duração de Salas criadas pelo portador.
 A held item that doubles the duration of binding moves and abilities.
-A held item that doubles the duration of binding moves and abilities.
+Um equipável que dobra a duração de movimentos e habilidades que causam aprisionamento.
 A held item. It makes multi-hit attacks consistently hit 4 or 5 times.
-A held item. It makes multi-hit attacks consistently hit 4 or 5 times.
+Equipável. Faz ataques multi-acerto sempre acertarem 4 ou 5 vezes.
 A held item. The user gets both of its legal abilities, but its stats are cut by 10%.
-A held item. The user gets both of its legal abilities, but its stats are cut by 10%.
+Equipável. O portador ganha suas duas habilidades lícitas, mas seus atributos são cortados em 10%.
 A held item. Signature attacks made by the holder are boosted by 40%.
-A held item. Signature attacks made by the holder are boosted by 40%.
+Equipável. Ataques-Assinatura usados pelo portador são melhorados em 40%.
 A held item. The holder recovers 30% more HP from draining moves, Aqua Ring, and leech.
-A held item. The holder recovers 30% more HP from draining moves, Aqua Ring, and leech.
+Equipável. O portador recupera 30% mais PV com movimentos de drenagem, Anel D'Água e Parasitismo.
 Item that restores the HP of Poison-types by 1/16th. Inflicts 1/8th damage on other types.
-Item that restores the HP of Poison-types by 1/16th. Inflicts 1/8th damage on other types.
+Equipável. Restaura os PV de tipos Venenoso em 1/16 por turno. Dá 1/8 de dano a outros tipos.
 A held item. The holder's HP is restored by 1/16th at the end of each turn.
-A held item. The holder's HP is restored by 1/16th at the end of each turn.
+Equipável. Os PV do portador são recuperados em 1/16 ao final de cada turno.
 A held item. The holder restores 1/5th HP of the damage it deals with moves.
-A held item. The holder restores 1/5th HP of the damage it deals with moves.
+Equipável. O portador recupera seus PV em 1/5 do dano que ele causa com ataques.
 A held item. At half health, the holder breaks the balloon and gains an Aqua Ring, healing 10% HP per turn.
-A held item. At half health, the holder breaks the balloon and gains an Aqua Ring, healing 10% HP per turn.
+Equipável. Com metade da vida, o por-<<n>>tador estoura o balão e ganha um A-<<n>>nel D'Água, curando 10% PV por turno.
 A held item. It snaps the holder out of a variety of mental warping effects.
 Equipável. É consumida para livrar o usuário de uma variedade de efeitos de manipulação mental.
 A held item. It restores any lowered stat in battle.
@@ -40661,65 +40661,65 @@ Equipável. Garante a ativação de um efeito adicional aleatório uma vez por b
 A held item. Ensures a less than full accuracy move lands once per battle.
 Equipável. Garante o acerto de movimentos com precisão menor que 100% uma vez por batalha.
 A held item. It boosts the power of moves by 30%, but at the cost of 10% HP on each hit.
-A held item. It boosts the power of moves by 30%, but at the cost of 10% HP on each hit.
+Equipável. Aumenta o dano de ataques em 30%, mas ao custo de 10% PV por cada acerto.
 A well-worn belt that boosts the holder's supereffective moves by 20%.
 Uma faixa desgastada que aumenta o dano de ataques superefetivos do portador em 20%.
 A held item. Boosts a move used consecutively by 20% more each time. This resets if another move is used.
-A held item. Boosts a move used consecutively by 20% more each time. This resets if another move is used.
+Equipável. Usos em sequência de um ataque aumentam seu dano em 20%. Volta a 0 se a sequência é quebrada.
 A held item. It is a headband that boosts the power of physical moves by 15%.
 Equipável. É uma bandana que aumenta o dano de ataques físicos em 15%.
 A held item. It is a thick pair of glasses that boosts the power of special moves by 15%.
-Equipável. Um par de óculos espesso que aumenta o dano de movimentos especiais em 15%.
+Equipável. Um par de óculos espesso que aumenta o dano de ataques especiais em 15%.
 A held item. They are boots that boost Speed by 10%.
 Equipável. São botas que aumentam Velocidade em 10%.
 A held item. Doubles the holder's critical-hit chance.
-A held item. Doubles the holder's critical-hit chance.
+Equipável. Dobra as chances de acerto crítico do portador.
 A held item. It is a magnifying lens that boosts the Accuracy of moves by 35%.
-A held item. It is a magnifying lens that boosts the Accuracy of moves by 35%.
+Equipável. É uma lente de aumento que aumenta a Precisão de movimentos em 35%.
 Held item which forces the holder to move last in its priority bracket.
-Held item which forces the holder to move last in its priority bracket.
+Equipável. Força o portador a se mover por último em sua faixa de prioridade.
 A held item. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.
 Equipável. Caso com PV cheios, o portador aguentará um ataque que o faria desmaiar, ficando com 1 PV.
 A held item. A bizarre orb that inflicts burn on the holder at the end of a turn.
-A held item. A bizarre orb that inflicts burn on the holder at the end of a turn.
+Equipável. Um orbe bizarro que queima o portador no final de um turno.
 A held item. A bizarre orb that inflicts frostbite on the holder at the end of a turn.
-A held item. A bizarre orb that inflicts frostbite on the holder at the end of a turn.
+Equipável. Um orbe bizarro que causa frio ao portador no final de um turno.
 A held item. A bizarre orb that inflicts poison on the holder at the end of a turn.
-A held item. A bizarre orb that inflicts poison on the holder at the end of a turn.
+Equipável. Um orbe bizarro que causa envenenamento ao portador no final de um turno.
 A held item that damages the holder on every turn. It may latch on to Pokémon that attacks the holder.
-A held item that damages the holder on every turn. It may latch on to Pokémon that attacks the holder.
+Um equipável que dá dano ao portador todo turno. Pode acabar grudando em Pokémon que atacam o portador.
 A held item. When the holder's stats are lowered, it will be switched out of battle.
 Equipável. Quando os atributos do portador forem diminuídos, ele sairá de campo.
 These boots prevent the effects of hazards set on the battlefield.
 Essas botas previnem os efeitos de armadilhas de campo no campo de batalha.
 Raises Sp. Atk by two steps when the Pokémon uses a sound move the first time each battle.
-Raises Sp. Atk by two steps when the Pokémon uses a sound move the first time each battle.
+Aumenta Atk. Esp. em dois níveis quando o portador usa um movimento de som pela primeira vez em batalha.
 Raises Attack by two steps when the Pokémon uses a slice move the first time each battle.
-Raises Attack by two steps when the Pokémon uses a slice move the first time each battle.
+Aumenta Atk. em dois níveis quando o portador usa um movimento cortante pela primeira vez em batalha.
 Raises Speed by two steps when the Pokémon uses a wind move the first time each battle.
-Raises Speed by two steps when the Pokémon uses a wind move the first time each battle.
+Aumenta Vel. em dois níveis quando o portador usa um movimento de vento pela primeira vez em batalha.
 Raises Speed by two steps when the Pokémon uses a kicking move the first time each battle.
-Raises Speed by two steps when the Pokémon uses a kicking move the first time each battle.
+Aumenta Vel. em dois níveis quando o portador usa um movimento de chute pela primeira vez em batalha.
 Consumed to heal for one third of max HP when the Pokémon uses a punching move. This can overheal.
-Consumed to heal for one third of max HP when the Pokémon uses a punching move. This can overheal.
+Consumido para curar em 1/3 dos PV máximos quando o portador usa um movimento de soco. Pode Supercurar.
 Consumed to heal for one third of max HP when the Pokémon uses a pulse move. This can overheal.
-Consumed to heal for one third of max HP when the Pokémon uses a pulse move. This can overheal.
+Consumida para curar em 1/3 dos PV máximos quando o portador usa um movimento de pulso. Pode Supercurar.
 Blinds all foes when the Pokémon uses a biting move the first time each battle.
-Blinds all foes when the Pokémon uses a biting move the first time each battle.
+Cega todos os oponentes quando o portador usa um movimento de mordida pela primeira vez em batalha.
 Blinds all foes when the Pokémon uses a light move the first time each battle.
-Blinds all foes when the Pokémon uses a light move the first time each battle.
+Cega todos os oponentes quando o portador usa um movimento de luz pela primeira vez em batalha.
 A held item. The holder is protected from the negative effects of weather.
 Equipável. O portador é protegido de efeitos negativos de climas.
 A held item. It changes the holder's type in battle. You can change which type between battles.
 Equipável. Muda o tipo do portador durante batalha. Você pode escolher o tipo do item fora de combate.
 A set of memory discs, one for each type. If held by a Silvally, you can change its type between battles.
-A set of memory discs, one for each type. If held by a Silvally, you can change its type between battles.
+Uma coleção de discos de memória, um para cada tipo. Equipe em Silvally para mudar seu tipo fora de batalha.
 A tablet that boosts same-type moves by 20%. If held by Arceus, you can change its type between battles.
-A tablet that boosts same-type moves by 20%. If held by Arceus, you can change its type between battles.
+Uma chapa que melhora ataques de mesmo tipo em 20%. Equipe em Arceus para mudar seu tipo fora de batalha.
 An item to be held by a Pokémon. It counts as a member of every tribe.
-An item to be held by a Pokémon. It counts as a member of every tribe.
+Equipável. O portador passa a ser considerado um membro de todos os clãs.
 A held item. The holder doesn't trigger items, abilities, or effects of targets it hits.
-A held item. The holder doesn't trigger items, abilities, or effects of targets it hits.
+Equipável. O portador não ativa itens, abilidades ou efeitos de alvos que ele ataca.
 A held item. Moves used against the holder deal 10% less move damage and can't trigger random added effects.
 Equipável. Movimentos usados contra o portador dão 10% menos dano e não ativam efeitos adicionais aleatórios.
 A held item. The holder is protected from flinching.
@@ -40733,53 +40733,53 @@ Quando usado em Palkia, esse grande e brilhante orbe se enche de poder e permite
 When used on Giratina, this large, glowing gem wells with power and allows the Pokémon to change form.
 Quando usada em Giratina, essa gran-<<n>>de e brilhante jóia se enche de poder e permite ao Pokémon mudar de forma.
 A cassette to be held by Genesect. It changes Techno Blast to a Water-type move.
-A cassette to be held by Genesect. It changes Techno Blast to a Water-type move.
+Uma fita cassete usada por Genesect. Muda o tipo da Rajada Tecnológica para Água.
 A cassette to be held by Genesect. It changes Techno Blast to an Electric-type move.
-A cassette to be held by Genesect. It changes Techno Blast to an Electric-type move.
+Uma fita cassete usada por Genesect. Muda o tipo da Rajada Tecnológica para Elétrico.
 A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move.
-A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move.
+Uma fita cassete usada por Genesect. Muda o tipo da Rajada Tecnológica para Fogo.
 A cassette to be held by Genesect. It changes Techno Blast to an Ice-type move.
-A cassette to be held by Genesect. It changes Techno Blast to an Ice-type move.
+Uma fita cassete usada por Genesect. Muda o tipo da Rajada Tecnológica para Gelo.
 A held item. The Pokémon holding this peculiar stone is prevented from evolving.
-A held item. The Pokémon holding this peculiar stone is prevented from evolving.
+Equipável. O Pokémon segurando essa pedra peculiar é impedido de evoluir.
 Held item that halves Speed. It makes Flying-type and levitating holders susceptible to Ground moves.
-Held item that halves Speed. It makes Flying-type and levitating holders susceptible to Ground moves.
+Equipável que diminui Vel. pela metade. Um portador Voador ou flutuante fica suscetível a movimentos Terrestres.
 A combustible fuel that boosts the holder's Fire-type moves by 20%.
-A combustible fuel that boosts the holder's Fire-type moves by 20%.
+Um material combustível que aumenta o dano de ataques do tipo Fogo do portador em 20%.
 A teardrop-shaped gem that boosts the holder's Water-type moves by 20%.
-A teardrop-shaped gem that boosts the holder's Water-type moves by 20%.
+Uma jóia em forma de lágrima que aumenta o dano de ataques do tipo Água do portador em 20%.
 A powerful magnet that boosts the holder's Electric-type moves by 20%.
-A powerful magnet that boosts the holder's Electric-type moves by 20%.
+Um poderoso ímã que aumenta o dano de ataques do tipo Elétrico do portador em 20%.
 A seed imbued with life that boosts the holder's Grass-type moves by 20%.
-A seed imbued with life that boosts the holder's Grass-type moves by 20%.
+Uma semente imbuída em vida que aumenta o dano de ataques do tipo Grama do portador em 20%.
 A piece of ice that repels heat and boosts Ice-type moves by 20%.
-A piece of ice that repels heat and boosts Ice-type moves by 20%.
+Um pedaço de gelo que repele calor e aumenta o dano de ataques do tipo Gelo do portador em 20%.
 A belt that boosts determination and Fighting-type moves by 20%.
 Uma faixa que dá determinação e aumenta o dano de ataques do tipo Lutador em 20%.
 A small, poisonous barb that boosts the holder's Poison-type moves by 20%.
-A small, poisonous barb that boosts the holder's Poison-type moves by 20%.
+Uma farpa pequena e venenosa que aumenta o dano de ataques do tipo Venenoso do portador em 20%.
 A loose, silky sand that boosts the holder's Ground-type moves by 20%.
-A loose, silky sand that boosts the holder's Ground-type moves by 20%.
+Uma areia extremamente fina que aumenta o dano de ataques do tipo Terrestre do portador em 20%.
 A long, sharp beak that boosts the holder's Flying-type moves by 20%.
-A long, sharp beak that boosts the holder's Flying-type moves by 20%.
+Um bico longo e afiado que aumenta o dano de ataques do tipo Voador do portador em 20%.
 A spoon imbued with telekinetic power that boosts Psychic-type moves by 20%.
-A spoon imbued with telekinetic power that boosts Psychic-type moves by 20%.
+Uma colher imbuída em poder teleciné-<<n>>tico que aumenta o dano de ataques do tipo Psíquico do portador em 20%.
 A shiny, silver powder that boosts the holder's Bug-type moves by 20%.
-A shiny, silver powder that boosts the holder's Bug-type moves by 20%.
+Uma poeira brilhante como prata que aumenta o dano de ataques do tipo Inseto do portador em 20%.
 An unbreakable stone that boosts the holder's Rock-type moves by 20%.
-An unbreakable stone that boosts the holder's Rock-type moves by 20%.
+Uma rocha inquebrável que aumenta o dano de ataques do tipo Pedra do portador em 20%.
 A sinister, eerie tag that boosts the holder's Ghost-type moves by 20%.
-A sinister, eerie tag that boosts the holder's Ghost-type moves by 20%.
+Um talismã sinistro e inquietante que aumenta o dano de ataques do tipo Fantasma do portador em 20%.
 A hard and sharp fang that boosts the holder's Dragon-type moves by 20%.
-A hard and sharp fang that boosts the holder's Dragon-type moves by 20%.
+Uma dura e afiada presa que aumenta o dano de ataques do tipo Dragão do portador em 20%.
 A shady-looking pair of glasses that boosts the holder's Dark-type moves by 20%.
 Um par de óculos suspeito que aumenta o dano de ataques do tipo Trevas do portador em 20%.
 A special metallic film that boosts the holder's Steel-type moves by 20%.
-A special metallic film that boosts the holder's Steel-type moves by 20%.
+Um filme metálico especial que aumenta o dano de ataques do tipo Aço do portador em 20%.
 A sumptuous scarf that boosts the holder's Normal-type moves by 20%.
-Um pano refinado que aumenta o dano de movimentos do tipo Normal do portador em 20%.
+Um pano refinado que aumenta o dano de ataques do tipo Normal do portador em 20%.
 A gleaming feather that boosts the holder's Fairy-type moves by 20%.
-A gleaming feather that boosts the holder's Fairy-type moves by 20%.
+Uma pena brilhante que aumenta o dano de ataques do tipo Fada do portador em 20%.
 A gem with an essence of fire. Boosts the power of a Fire-type move by 50% once per battle.
 Uma Jóia de essência quente.<<n>>Aumenta o dano de um ataque do tipo Fogo em 50% 1x por batalha.
 A gem with an essence of water. Boosts the power of a Water-type move by 50% once per battle.
@@ -41011,9 +41011,9 @@ Um amuleto com forma de dente. Aumenta o EXP. ganho de Doces De EXP. em 15%.
 A comforting charm which doubles the happiness your Pokémon gain from being close to you.
 Um amuleto reconfortante que dobra a felicidade que seus Pokémon ganham por estarem próximos a você.
 A shiny red orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
-A shiny red orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
+Um orbe brilhante e vermelho ao qual diz-se estar ligada uma lenda. Sabe-<<n>>-se que está ligado a Hoenn.
 A shiny blue orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
-A shiny blue orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
+Um orbe brilhante e azul ao qual diz-<<n>>-se estar ligada uma lenda. Sabe-se que está ligado a Hoenn.
 Reshiram's body, in stone form. An expert in ancient relics may be able to transform it.
 O corpo de Reshiram petrificado. Um especialista em relíquias antigas pode ser capaz de transformá-la.
 Zekrom's body, in stone form. An expert in ancient relics may be able to transform it.
@@ -41053,9 +41053,9 @@ O fóssil de um antigo Pokémon que viveu em terra firme. É um Dracozolt ou um 
 The fossil of an ancient Pokémon that once lived in the sea. Is it Arctozolt or Arctovish...?
 O fóssil de um antigo Pokémon que viveu no oceano. É um Arctozolt ou um Arctovish...?
 Used by a hero to halt a terrible disaster. The wielder takes 10% less move damage.
-Used by a hero to halt a terrible disaster. The wielder takes 10% less move damage.
+Usado por um herói para parar um terrível desastre. O portador leva 10% menos dano de ataques.
 Used by a hero to halt a terrible disaster. The wielder deals 10% more move damage.
-Used by a hero to halt a terrible disaster. The wielder deals 10% more move damage.
+Usado por um herói para parar um terrível desastre. O portador dá 10% mais dano com ataques.
 Reins that people presented to the king. They enable Calyrex to connect with its beloved steed.
 Rédeas presenteadas ao rei pelo povo. Permitem a Calyrex conectar-se a seu querido corcel.
 A charm that increases the EXP. Pokémon earn by 10%. A machine-like object is inside the charm.
