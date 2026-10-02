@@ -58991,9 +58991,9 @@ Ativá-lo imediatamente?
 Too bad...<<n>>The Bag is full...
 Que pena...<<n>>A Mochila está cheia...
 \me[Berry get]You picked the {1} \c[1]{2}\c[0].\wtnp[20]
-\me[Berry get]Você colheu a {1} \c[1]{2}\c[0].\wtnp[20]
+\me[Berry get]Você colheu as {1} \c[1]{2}\c[0].\wtnp[20]
 \me[Berry get]You picked the \c[1]{1}\c[0].\wtnp[20]
-\me[Berry get]Você colheu as \c[1]{1}\c[0].\wtnp[20]
+\me[Berry get]Você colheu a \c[1]{1}\c[0].\wtnp[20]
 {1} put the \c<<[>>1<<]>>{2}\c<<[>>0<<]>> in the <icon=bagPocket{3}>\c<<[>>1<<]>>{4}\c<<[>>0<<]>> Pocket.<<1>>
 {1} coloca \c[1]{2}\c[0] no <icon=bagPocket{3}>\c[1]Bolso de {4}\c[0].
 The berry plant withered away.
