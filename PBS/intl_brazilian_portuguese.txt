@@ -5603,6 +5603,12 @@ It waits in the suspicious house in the Shipping Lane! Destroy it, and rid me of
 It waits in the suspicious house in the Shipping Lane!  Destroy it, and rid me of the damnable thing for good!
 Oh? Have you sent the avatar back from whence it came?! Excellent! Your talents are second-to-none!
 Oh? Have you sent the avatar back from whence it came?! Excellent! Your talents are second-to-none!
+I thought this gym would be a cinch.
+I thought this gym would be a cinch.
+A whole team of fish couldn't possibly lose to a Fire- type gym!
+A whole team of fish couldn't possibly lose to a Fire- type gym!
+I totally forgot that Poison is strong against Water.
+I totally forgot that Poison is strong against Water.
 What, do you miss the lick of flames and bite of acid? Shall we duel once more?
 What, do you miss the lick of flames and bite of acid?  Shall we duel once more?
 Congratulations on reaching me!
@@ -5655,24 +5661,40 @@ I yearn for the day I might challenge you again! Either here, or in the Champion
 I yearn for the day I might challenge you again! Either here, or in the Championship!
 So long!
 So long!
-I thought this gym would be a cinch.
-I thought this gym would be a cinch.
-A whole team of fish couldn't possibly lose to a Fire- type gym!
-A whole team of fish couldn't possibly lose to a Fire- type gym!
-I totally forgot that Poison is strong against Water.
-I totally forgot that Poison is strong against Water.
+Bruh... this waiting room doesn't have any places to sit down.
+Bruh... this waiting room doesn't have any places to sit down.
+No pain, no gain? Must be what Eko's thinking.
+No pain, no gain? Must be what Eko's thinking.
 This is not a lab! It is a gym! In labs we have safety precautions. Here, unsafe conditions are the goal!
 This is not a lab! It is a gym! In labs we have safety precautions. Here, unsafe conditions are the goal!
 Oh-ho? So you want safe passage? Very well. You've earned the shortcut.
 Oh-ho? So you want safe passage? Very well.  You've earned the shortcut.
 The wild reaches of Makya won't have safety guidelines. If you can endure this, you can endure them.
 The wild reaches of Makya won't have safety guidelines. If you can endure this, you can endure them.
-Bruh... this waiting room doesn't have any places to sit down.
-Bruh... this waiting room doesn't have any places to sit down.
-No pain, no gain? Must be what Eko's thinking.
-No pain, no gain? Must be what Eko's thinking.
 White text flies by on a dark purple background.
 White text flies by on a dark purple background.
+Yo, champ in the making!
+Yo, champ in the making!
+Eko is the gym leader here, and they love pain in all its forms.
+Eko is the gym leader here, and they love pain in all its forms.
+Therefore they picked Fire and Poison as their specialties.
+Therefore they picked Fire and Poison as their specialties.
+All battles, against Eko or the gym trainers, are 2v2! Double the pain!
+All battles, against Eko or the gym trainers, are 2v2!  Double the pain!
+Ground-types, especially with moves that hit both opposing Pokemon, are rather strong in this gym.
+Ground-types, especially with moves that hit both opposing Pokemon, are rather strong in this gym. 
+Psychic-types and Rock-types are none too shabby either.
+Psychic-types and Rock-types are none too shabby either.
+The final piece to this gym's puzzle are the teleporters.
+The final piece to this gym's puzzle are the teleporters.
+See those blue pads? The ones the trainers are protecting will teleport you past the maze.
+See those blue pads? The ones the trainers are protecting will teleport you past the maze.
+If you don't unlock them, you'll find yourself walking a harsh path!
+If you don't unlock them, you'll find yourself walking a harsh path!
+'Grats on beating the gym!
+'Grats on beating the gym!
+You pushed through the pain just fine.
+You pushed through the pain just fine.
 Sorry for blocking the way, but I'm desperately dehydrated.
 Sorry for blocking the way, but I'm desperately dehydrated.
 You have a <imp>Fresh Water</imp>! I'll be taking that...
@@ -5691,32 +5713,14 @@ I'm plopping down here until a challenger like yourself grabs me a <imp>Fresh Wa
 I'm plopping down here until a challenger like yourself grabs me a <imp>Fresh Water</imp>.
 There are <imp>vending machines</imp> in all PokéCenters and Ranger Stations.
 There are <imp>vending machines</imp> in all PokéCenters and Ranger Stations.
-Yo, champ in the making!
-Yo, champ in the making!
-Eko is the gym leader here, and they love pain in all its forms.
-Eko is the gym leader here, and they love pain in all its forms.
-Therefore they picked Fire and Poison as their specialties.
-Therefore they picked Fire and Poison as their specialties.
-Ground-types are rather strong in this gym. Psychic-types and Rock-types are none too shabby either.
-Ground-types are rather strong in this gym.  Psychic-types and Rock-types are none too shabby either.
-The final piece to this gym's puzzle are the teleporters.
-The final piece to this gym's puzzle are the teleporters.
-See those blue pads? The ones the trainers are protecting will teleport you past the maze.
-See those blue pads? The ones the trainers are protecting will teleport you past the maze.
-If you don't unlock them, you'll find yourself walking a harsh path!
-If you don't unlock them, you'll find yourself walking a harsh path!
-'Grats on beating the gym!
-'Grats on beating the gym!
-You pushed through the pain just fine.
-You pushed through the pain just fine.
-A 3-D model displays the the chemical makeup of Makyan Tangela venom.
-A 3-D model displays the the chemical makeup of Makyan Tangela venom.
 I hope you won't find this cruel. The suffering I'm about to inflict is strictly necessary.
 I hope you won't find this cruel. The suffering I'm about to inflict is strictly necessary.
 ...Noted. Please avail yourself of this teleporter. Taking the long way may subject any afflicted Pokemon to undue injury.
 ...Noted. Please avail yourself of this teleporter.  Taking the long way may subject any afflicted Pokemon to undue injury.
 Thank you for your participation. Step carefully, now! Wouldn't want any lingering side effects... heh.
 Thank you for your participation. Step carefully, now!  Wouldn't want any lingering side effects... heh.
+A 3-D model displays the the chemical makeup of Makyan Tangela venom.
+A 3-D model displays the the chemical makeup of Makyan Tangela venom.
 Our glorious Champion! Good evening!
 Our glorious Champion! Good evening!
 Or morning! I’m not in the business of keeping count of the hours. That’s for the interns!
@@ -15395,12 +15399,14 @@ Pride is right.
 Don't beat yourself up.
 Don't beat yourself up.
 [Map214]
-Some loose paper displaying the LuxTech logo.
-Some loose paper displaying the LuxTech logo.
 Leaving through -- oh. You -- you’re looking for something down here.
 Leaving through -- oh. You -- you’re looking for something down here.
 Come back and, uh, I’ll still be... around.
 Come back and, uh, I’ll still be... around.
+Some loose paper displaying the LuxTech logo.
+Some loose paper displaying the LuxTech logo.
+The door is locked shut.
+The door is locked shut.
 I took some classes in the gym here.
 I took some classes in the gym here.
 I was a bit scared cause I heard how tough Samorn is.
@@ -15409,10 +15415,6 @@ She's the strongest gym leader in the whole region!
 She's the strongest gym leader in the whole region!
 But she's really nice. I had a great time.
 But she's really nice. I had a great time.
-The door is locked shut.
-The door is locked shut.
-Samorn's House
-Samorn's House
 Oh! I knew I’d find you here, my hero.
 Oh! I knew I’d find you here, my hero.
 You’re looking particularly ravishing today.
@@ -15493,6 +15495,24 @@ Just like you. Goodbye, \PN. I love you.
 Just like you. Goodbye, \PN. I love you.
 Forever.
 Forever.
+Samorn's House
+Samorn's House
+"Attention: All Team Chasm Grunts"
+"Attention: All Team Chasm Grunts"
+"Team Chasm is no longer in operation, and activities here are to cease."
+"Team Chasm is no longer in operation, and activities here are to cease."
+"Until further notice, this base is now part owned by the scholars of Novo College."
+"Until further notice, this base is now part owned by the scholars of Novo College."
+"Your admins thank you for your dedication."
+"Your admins thank you for your dedication."
+You'd think that Samorn, the gym leader down there, would have issues getting around in her wheelchair.
+You'd think that Samorn, the gym leader down there, would have issues getting around in her wheelchair.
+Especially in difficult terrain like this.
+Especially in difficult terrain like this.
+At first I thought she'd use her dragons to help her down, but apparently that's too awkward.
+At first I thought she'd use her dragons to help her down, but apparently that's too awkward.
+Instead she just has her Runerigus do the heavy lifting. It isn't part of her team, so it gets to relax at home the rest of the day, too.
+Instead she just has her Runerigus do the heavy lifting. It isn't part of her team, so it gets to relax at home the rest of the day, too.
 Hello. My Druddigon and I handle trips down to Samorn's gym.
 Hello. My Druddigon and I handle trips down to Samorn's gym.
 Stay away from the ledge and we won't have any problems.
@@ -15535,22 +15555,6 @@ You've bested the Dreadnaught! Well fought.
 You've bested the Dreadnaught! Well fought.
 My congratulations to you and your Pokemon.
 My congratulations to you and your Pokemon.
-You'd think that Samorn, the gym leader down there, would have issues getting around in her wheelchair.
-You'd think that Samorn, the gym leader down there, would have issues getting around in her wheelchair.
-Especially in difficult terrain like this.
-Especially in difficult terrain like this.
-At first I thought she'd use her dragons to help her down, but apparently that's too awkward.
-At first I thought she'd use her dragons to help her down, but apparently that's too awkward.
-Instead she just has her Runerigus do the heavy lifting. It isn't part of her team, so it gets to relax at home the rest of the day, too.
-Instead she just has her Runerigus do the heavy lifting. It isn't part of her team, so it gets to relax at home the rest of the day, too.
-"Attention: All Team Chasm Grunts"
-"Attention: All Team Chasm Grunts"
-"Team Chasm is no longer in operation, and activities here are to cease."
-"Team Chasm is no longer in operation, and activities here are to cease."
-"Until further notice, this base is now part owned by the scholars of Novo College."
-"Until further notice, this base is now part owned by the scholars of Novo College."
-"Your admins thank you for your dedication."
-"Your admins thank you for your dedication."
 The 8th gym already. I can't believe how time flies.
 The 8th gym already. I can't believe how time flies.
 I've been enjoying this. I really and truly hope that you have, too.
@@ -19497,6 +19501,16 @@ Problem is that they require a token exchange instead of just cash...
 Wish I had one of those instead of the Normal-types that fraud of a professor likes to give out...
 Wish I had one of those instead of the Normal-types that fraud of a professor likes to give out...
 [Map300]
+This is a pickaxe! It was used to dig a tunnel underneath the Split Peaks.
+This is a pickaxe! It was used to dig a tunnel underneath the Split Peaks.
+That tunnel took over <imp>6 years</imp> to complete.
+That tunnel took over <imp>6 years</imp> to complete.
+Whenever saccharite was discovered, digging would be paused until the mineral could be extracted.
+Whenever saccharite was discovered, digging would be paused until the mineral could be extracted.
+Mining saccharite takes time and care!
+Mining saccharite takes time and care!
+<imp>Question for Kids</imp>: Have you ever been underground? What was it like?
+<imp>Question for Kids</imp>: Have you ever been underground? What was it like? 
 Yo, champ in the making!
 Yo, champ in the making!
 Samorn might not look like it, but she was one of Team Chasm's top battlers.
@@ -19517,6 +19531,16 @@ The PC is turned off.
 The PC is turned off.
 With how quiet the gym is, you think it'd stand out as rude if you tried to turn it on.
 With how quiet the gym is, you think it'd stand out as rude if you tried to turn it on.
+This statuette is made of a special white clay.
+This statuette is made of a special white clay.
+Statuettes like this, commonly known as "totems", are found throughout Makya.
+Statuettes like this, commonly known as "totems", are found throughout Makya.
+They are protected by regional law. Totems must stay where they are found!
+They are protected by regional law. Totems must stay where they are found!
+Anthropologists believe the spots where totems are found were of special importance to an ancient people.
+Anthropologists believe the spots where totems are found were of special importance to an ancient people.
+<imp>Question for Kids</imp>: Why do you think these statuettes were made?
+<imp>Question for Kids</imp>: Why do you think these statuettes were made?
 Among the books on history, a scrapbook stands out.
 Among the books on history, a scrapbook stands out.
 The title is "Memories of Hoenn."
@@ -19533,10 +19557,16 @@ You might be even stronger than them!
 You might be even stronger than them!
 I've got to stay here and continue my studies.
 I've got to stay here and continue my studies.
+An Eevee plushy.
+An Eevee plushy.
+A tag around its neck identifies it as "Lark".
+A tag around its neck identifies it as "Lark".
 Beakers of chemicals line the shelves.
 Beakers of chemicals line the shelves.
 The majority appear to be weak acids.
 The majority appear to be weak acids.
+The inscription is worn and hard to parse.
+The inscription is worn and hard to parse.
 Ah, \PN! I won’t waste your time by offering something hot to drink.
 Ah, \PN! I won’t waste your time by offering something hot to drink.
 You’ve got a fight on your mind, don’t you?
@@ -19623,22 +19653,22 @@ Thank you, \PN. I think I’ll take a short break. You’re the last challenger 
 Thank you, \PN. I think I’ll take a short break. You’re the last challenger I expected to see before the championship anyways.
 You’re always welcome to stop by my home, though!
 You’re always welcome to stop by my home, though!
-Ceremonial iron swords.
-Ceremonial iron swords.
-They were dated to 1800 years ago!
-They were dated to 1800 years ago!
-A fossil of an aquatic plant.
-A fossil of an aquatic plant.
-A plaque lists a very long scientific name for it. Your eyes glaze over as you try and read it.
-A plaque lists a very long scientific name for it. Your eyes glaze over as you try and read it.
-A simple plaque simply states "Armaldo Fossil".
-A simple plaque simply states "Armaldo Fossil".
-The rest of the description plate probably hasn't been manufactured yet.
-The rest of the description plate probably hasn't been manufactured yet.
-The Armaldo fossil behind me was just unpacked.
-The Armaldo fossil behind me was just unpacked.
-I have to protect it from ruffians like you!
-I have to protect it from ruffians like you!
+Two rusty iron longswords.
+Two rusty iron longswords.
+This is a ceramic statuette of a human!
+This is a ceramic statuette of a human!
+The Ruins Digsite, nearby Team Chasm HQ, contains many of these.
+The Ruins Digsite, nearby Team Chasm HQ, contains many of these.
+They are estimated to be <imp>3000 years old</imp>!
+They are estimated to be <imp>3000 years old</imp>!
+They surround statues of the <imp>legendary golems</imp>: Regice, Regirock, Registeel, Regidrago, and Regieleki!
+They surround statues of the <imp>legendary golems</imp>: Regice, Regirock, Registeel, Regidrago, and Regieleki!
+<imp>Question for Kids</imp>: If you made a statue of a person or Pokemon, who would you pick?
+<imp>Question for Kids</imp>: If you made a statue of a person or Pokemon, who would you pick?
+I have to protect these relics from ruffians like you!
+I have to protect these relics from ruffians like you!
+They belong in a museum!
+They belong in a museum!
 Must have misjudged your character.
 Must have misjudged your character.
 Unlike me, you'd never steal a priceless artifact.
@@ -19651,6 +19681,18 @@ A trash can made of some sort of tropical wood.
 A trash can made of some sort of tropical wood.
 It's totally empty.
 It's totally empty.
+A copy of a plaque found underneath Prizca Castle.
+A copy of a plaque found underneath Prizca Castle.
+Dated to around 1200 years old, the inscription is in an old Makyan dialect, and translates as:
+Dated to around 1200 years old, the inscription is in an old Makyan dialect, and translates as:
+"The First Emperor reigns in these halls."
+"The First Emperor reigns in these halls."
+"The faithful continue to serve."
+"The faithful continue to serve."
+"A soul of fire cannot be snuffed out."
+"A soul of fire cannot be snuffed out."
+<imp>Question for Kids</imp>: What do you think this inscription means?
+<imp>Question for Kids</imp>: What do you think this inscription means?
 You'll have to get through me to fight grandma!
 You'll have to get through me to fight grandma!
 Guess I'll go bother the scientists at the dig site again.
@@ -19661,10 +19703,28 @@ You must be pretty strong if you're challenging grandma.
 You must be pretty strong if you're challenging grandma.
 Notes on the chalkboard describe a timeline of the Makyan monarchy, starting from 2800 years ago.
 Notes on the chalkboard describe a timeline of the Makyan monarchy, starting from 2800 years ago.
-3 Shieldon fossils.
-3 Shieldon fossils.
-One is intact, but the other two are in very poor quality.
-One is intact, but the other two are in very poor quality.
+<-- Archeology Hall
+<-- Archeology Hall
+Classroom -->
+Classroom -->
+Dated to around 1200 years ago, these iron swords were found in a large burial site discovered in southern Prizca.
+Dated to around 1200 years ago, these iron swords were found in a large burial site discovered in southern Prizca.
+Back then, that spot would have been next to the Eleig River, which was further north in the past than it is today.
+Back then, that spot would have been next to the Eleig River, which was further north in the past than it is today.
+Archeologists believe the site was the location of a large battle between the Kingdom of Prizca and an invading force from the east.
+Archeologists believe the site was the location of a large battle between the Kingdom of Prizca and an invading force from the east.
+<imp>Question for Kids</imp>: Which things do you want to leave behind for the archeologists of the future to find?
+<imp>Question for Kids</imp>: Which things do you want to leave behind for the archeologists of the future to find?
+This blue rock is <imp>saccharite</imp>, an important mineral found throughout Makya.
+This blue rock is <imp>saccharite</imp>, an important mineral found throughout Makya.
+Sweetrock Harbor is where most saccharite is found!
+Sweetrock Harbor is where most saccharite is found!
+Sweetrock Harbor was created by an ancient <imp>meteorite impact</imp>.
+Sweetrock Harbor was created by an ancient <imp>meteorite impact</imp>.
+Geologists estimate the meteor was about 67% saccharite!
+Geologists estimate the meteor was about 67% saccharite!
+<imp>Question for Kids</imp>: How do you think that meteorite tasted?
+<imp>Question for Kids</imp>: How do you think that meteorite tasted?
 Basic archeology techniques are listed.
 Basic archeology techniques are listed.
 They're given in order of most to least destructive and dangerous.
@@ -22218,8 +22278,14 @@ Can't tell them apart.
 Wandered off again?
 Wandered off again?
 [Map329]
-\wmYou decide not to bother someone trying to squeeze past the crowd...
-\wmYou decide not to bother someone trying to squeeze past the crowd...
+I wonder what drink I should get...
+I wonder what drink I should get...
+A battle is best enjoyed with a can in hand.
+A battle is best enjoyed with a can in hand.
+Oh... the tournament's already over?
+Oh... the tournament's already over?
+I took too long to decide what I wanted to drink...
+I took too long to decide what I wanted to drink...
 Oh! You're one of the Trainers entering the Tournament!
 Oh! You're one of the Trainers entering the Tournament!
 Could you do an interview with us? We've been asked to cover the competition.
@@ -22268,14 +22334,12 @@ Thanks for spending your precious time giving us an insight into your mind.
 Thanks for spending your precious time giving us an insight into your mind.
 We'll be rooting for you out there.
 We'll be rooting for you out there.
-I wonder what drink I should get...
-I wonder what drink I should get...
-A battle is best enjoyed with a can in hand.
-A battle is best enjoyed with a can in hand.
-Oh... the tournament's already over?
-Oh... the tournament's already over?
-I took too long to decide what I wanted to drink...
-I took too long to decide what I wanted to drink...
+\wmYou decide not to bother someone trying to squeeze past the crowd...
+\wmYou decide not to bother someone trying to squeeze past the crowd...
+<-- Competitors
+<-- Competitors
+^ Spectators
+^ Spectators
 You...
 You...
 Affixed is your love on creatures. A quality most appreciated.
@@ -22302,20 +22366,6 @@ Gleaned from this, a lesson I have.
 Gleaned from this, a lesson I have.
 But sorrow yet follows.
 But sorrow yet follows.
-<-- Competitors
-<-- Competitors
-^ Spectators
-^ Spectators
-Hey, got a moment? We're with the news.
-Hey, got a moment? We're with the news.
-If you've got the time to do an interview, we'd really appreciate it.
-If you've got the time to do an interview, we'd really appreciate it.
-Great interview \PN, I'm sure people all around Makya will be seeing it soon.
-Great interview \PN, I'm sure people all around Makya will be seeing it soon.
-I don't even like Pokemon that much...
-I don't even like Pokemon that much...
-You won the whole thing? That's pretty cool, I guess.
-You won the whole thing? That's pretty cool, I guess.
 I spent all night watching replays of last year's tournament to get pumped for this year.
 I spent all night watching replays of last year's tournament to get pumped for this year.
 I got front row seats this time. A year's worth of allowance well spent.
@@ -22326,28 +22376,16 @@ I uploaded a clip from your last battle! It's already got 50,000 views!
 I uploaded a clip from your last battle! It's already got 50,000 views!
 The whole internet is gonna blow up from this!
 The whole internet is gonna blow up from this!
-Welcome, \PN!
-Welcome, \PN!
-The tournament started 30 minutes ago, so the first round has already occurred.
-The tournament started 30 minutes ago, so the first round has already occurred.
-However, Helena informed us to give you a first round bye due to emergency circumstances, so you are good to continue.
-However, Helena informed us to give you a first round bye due to emergency circumstances, so you are good to continue.
-Please continue straight and you'll find the player area eventually.
-Please continue straight and you'll find the player area eventually.
-The player area is down the western hallway.
-The player area is down the western hallway.
-Feel free to use our provided trainer services on the way!
-Feel free to use our provided trainer services on the way!
-Holy Miltank you won the whole thing!
-Holy Miltank you won the whole thing!
-I'm sorry to say but I didn't see that coming at all.
-I'm sorry to say but I didn't see that coming at all.
-I'll take your Pokémon for a few seconds.
-I'll take your Pokémon for a few seconds.
-First, you should restore your Pokémon to full health.
-First, you should restore your Pokémon to full health.
-We hope you excel!
-We hope you excel!
+I don't even like Pokemon that much...
+I don't even like Pokemon that much...
+You won the whole thing? That's pretty cool, I guess.
+You won the whole thing? That's pretty cool, I guess.
+Hey, got a moment? We're with the news.
+Hey, got a moment? We're with the news.
+If you've got the time to do an interview, we'd really appreciate it.
+If you've got the time to do an interview, we'd really appreciate it.
+Great interview \PN, I'm sure people all around Makya will be seeing it soon.
+Great interview \PN, I'm sure people all around Makya will be seeing it soon.
 I've crunched the numbers, evaluated teams, placed my bets...
 I've crunched the numbers, evaluated teams, placed my bets...
 This \PN person I'm telling ya, they're lookin' to take the whole thing.
@@ -22368,8 +22406,28 @@ I don't have cash on me right now, so you'll just have to take this instead.
 I don't have cash on me right now, so you'll just have to take this instead.
 I'll be watching your career with great interest.
 I'll be watching your career with great interest.
-No touching the MP.
-No touching the MP.
+I'll take your Pokémon for a few seconds.
+I'll take your Pokémon for a few seconds.
+First, you should restore your Pokémon to full health.
+First, you should restore your Pokémon to full health.
+We hope you excel!
+We hope you excel!
+Welcome, \PN!
+Welcome, \PN!
+The tournament started 30 minutes ago, so the first round has already occurred.
+The tournament started 30 minutes ago, so the first round has already occurred.
+However, Helena informed us to give you a first round bye due to emergency circumstances, so you are good to continue.
+However, Helena informed us to give you a first round bye due to emergency circumstances, so you are good to continue.
+Please continue straight and you'll find the player area eventually.
+Please continue straight and you'll find the player area eventually.
+The player area is down the western hallway.
+The player area is down the western hallway.
+Feel free to use our provided trainer services on the way!
+Feel free to use our provided trainer services on the way!
+Holy Miltank you won the whole thing!
+Holy Miltank you won the whole thing!
+I'm sorry to say but I didn't see that coming at all.
+I'm sorry to say but I didn't see that coming at all.
 Kalos is a rather competitive region.
 Kalos is a rather competitive region.
 Even then, it doesn't have nearly enough events for my family.
@@ -22378,12 +22436,22 @@ So we tour all the nearby regions each year.
 So we tour all the nearby regions each year.
 Excellent battling. I especially loved your team choices.
 Excellent battling. I especially loved your team choices.
+No touching the MP.
+No touching the MP.
 Are you ready to go Trainer? We'll escort you outside.
 Are you ready to go Trainer? We'll escort you outside.
 Alright, let me know when you're ready.
 Alright, let me know when you're ready.
 Alright, let's get this rolling.
 Alright, let's get this rolling.
+Pokemon are a way of life.
+Pokemon are a way of life.
+I don't think we'd be able to survive without Pokemon.
+I don't think we'd be able to survive without Pokemon.
+Your life is also about Pokemon, it seems.
+Your life is also about Pokemon, it seems.
+I respect that a lot. Well done, today.
+I respect that a lot. Well done, today.
 Stupid tournament organizers!
 Stupid tournament organizers!
 Almost everyone got a bye, but not me, of all people!
@@ -22394,16 +22462,10 @@ You won?!
 You won?!
 Must have been because you got a bye...
 Must have been because you got a bye...
-Pokemon are a way of life.
-Pokemon are a way of life.
-I don't think we'd be able to survive without Pokemon.
-I don't think we'd be able to survive without Pokemon.
-Your life is also about Pokemon, it seems.
-Your life is also about Pokemon, it seems.
-I respect that a lot. Well done, today.
-I respect that a lot. Well done, today.
-I'm just here to look like you have security. Talk to the other guy.
-I'm just here to look like you have security. Talk to the other guy.
+Ugh, someone only ate half of their Tulumba before up and leaving it sitting over there.
+Ugh, someone only ate half of their Tulumba before up and leaving it sitting over there.
+Gross.
+Gross.
 Hello there young competitor!
 Hello there young competitor!
 I hope everything has been running smoothly for you.
@@ -22414,24 +22476,22 @@ Young victor, amazing show!
 Young victor, amazing show!
 Would you happen to have time for a photo-shoot later today?
 Would you happen to have time for a photo-shoot later today?
-Ugh, someone only ate half of their Tulumba before up and leaving it sitting over there.
-Ugh, someone only ate half of their Tulumba before up and leaving it sitting over there.
-Gross.
-Gross.
+I'm just here to look like you have security. Talk to the other guy.
+I'm just here to look like you have security. Talk to the other guy.
 We bought one kind of every single piece of merch in the Battle Plaza.
 We bought one kind of every single piece of merch in the Battle Plaza.
 Worth it!
 Worth it!
 Do you sell merch? We're your biggest fans, so we'd love to have some!
 Do you sell merch? We're your biggest fans, so we'd love to have some!
-Whoa, not every day you get to escort a Makyan Champion.
-Whoa, not every day you get to escort a Makyan Champion.
-I hope I get a bonus for this.
-I hope I get a bonus for this.
 The left side of the screen shows a scrolling list of the round 2 matchups. You don't see your own name.
 The left side of the screen shows a scrolling list of the round 2 matchups. You don't see your own name.
 The right side shows a variety of highlights from the first round.
 The right side shows a variety of highlights from the first round.
+Whoa, not every day you get to escort a Makyan Champion.
+Whoa, not every day you get to escort a Makyan Champion.
+I hope I get a bonus for this.
+I hope I get a bonus for this.
 I wish I could be enjoying myself here, but I'm absolutely miserable.
 I wish I could be enjoying myself here, but I'm absolutely miserable.
 What kind of woman ditches her fiancé to hook up with a "professional trainer" she just met?
