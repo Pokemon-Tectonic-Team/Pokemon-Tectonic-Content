@@ -16361,7 +16361,7 @@ Sweetrock Candy Outlet
 What was once a printed notice has been covered entirely by a poster advertising the EXP-EZ Dispenser.
 What was once a printed notice has been covered entirely by a poster advertising the EXP-EZ Dispenser.
 Sweetrock Lighthouse
-Sweetrock Lighthouse
+Farol De Sweetrock
 Today's a good day for gaming.
 Today's a good day for gaming.
 A Piplup standee points you to the door.
@@ -52821,11 +52821,11 @@ Find her after your 7th badge.
 Novo Town
 Cidade Nova
 Luxtech Sewers
-Luxtech Sewers
+Esgoto Da LuxTech
 Prizca East
-Prizca East
+Prizca Oriental
 Volcanic Shore
-Volcanic Shore
+Costa Vulcânica
 Hollowed Layer
 Camada Oca
 A confident young woman who trains Pokémon for a price. Dueling her could be good practice – but she looks at you with unnerving familiarity. She knows more than she lets on.
@@ -52865,9 +52865,9 @@ Trecho Do Rio Eleig
 Sewer Junction
 Sewer Junction
 Novo College
-Novo College
+Instituto De Nova
 Velenz Menagerie
-Velenz Menagerie
+Coleção De Velenze
 A studious man, foreign to Makya. He studies regional forms for his research. Something strange is afoot in the region – perhaps you can work together to find out what.
 A studious man, foreign to Makya. He studies regional forms for his research. Something strange is afoot in the region – perhaps you can work together to find out what.
 Second Chances
@@ -53077,7 +53077,7 @@ Lambert was tasked with keeping eyes on an imprisoned avatar until he found some
 May I Have This Dance?
 May I Have This Dance?
 Shipping Lane
-Shipping Lane
+Rota Pesqueira
 Novo Gym
 Novo Gym
 Eko has waited for years to find someone capable of destroying a particularly powerful avatar. They gave you a key to get into its prison, and told you not to ask too many questions. Put an end to the thing's performance.
@@ -53311,7 +53311,7 @@ Crown Chamber
 You've opened a strange cave under the Battle Monument. What could it be hiding?
 You've opened a strange cave under the Battle Monument.  What could it be hiding?
 Guardian Island
-Guardian Island
+Ilha Do Guardião
 You won the map to an abandoned island, what secrets could this place hold?
 You won the map to an abandoned island, what secrets could this place hold?
 Sea Monster
@@ -53357,11 +53357,11 @@ Explore the island.
 Catch Cresselia.
 Catch Cresselia.
 Sweetrock Lighthouse
-Sweetrock Lighthouse
+Farol De Sweetrock
 After beating former champion Chara, she told you about an island she wants you to check out.
 After beating former champion Chara, she told you about an island she wants you to check out.
 Spirit Atoll
-Spirit Atoll
+Atol Espiritual
 Explore the atoll.
 Explore the atoll.
 Vincent told you the location of a mysterious place called the Spirit Atoll. Journey to it through your boat and explore the secrets.
@@ -53463,7 +53463,7 @@ Former Champion Elise
 Defeat the former champ.
 Defeat the former champ.
 Prizca Castle
-Prizca Castle
+Castelo De Prizca
 Elise has claims on both a royal and a championship title—she should be quite the prestigious opponent.
 Elise has claims on both a royal and a championship title—she should be quite the prestigious opponent.
 Former Champion Vincent
