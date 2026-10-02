@@ -6179,8 +6179,10 @@ In any case, you’re not the patient sort, and if Tamarind is to be believed yo
 In any case, you’re not the patient sort, and if Tamarind is to be believed you have a knack for dangerous errands.
 I need a shipment located.
 I need a shipment located.
-There’s a tunnel we call Gigalith’s Guts to the southwest. It links the Kilna Turf to the County Park.
-There’s a tunnel we call Gigalith’s Guts to the southwest. It links the Kilna Turf to the County Park.
+There’s a tunnel we call <imp>Gigalith’s Guts</imp> to the southwest.
+There’s a tunnel we call <imp>Gigalith’s Guts</imp> to the southwest. 
+It links the Kilna Turf to the County Park.
+It links the Kilna Turf to the County Park.
 You can imagine how convenient that little shortcut is for shipping, and hence why a hypothetical important set of objects would be routed through it.
 You can imagine how convenient that little shortcut is for shipping, and hence why a hypothetical important set of objects would be routed through it.
 Those objects are late, and now I’m hearing that the Guts are clogged with avatars.
@@ -6193,10 +6195,28 @@ Well. No matter.
 Well. No matter.
 Um, I suppose I have to accept the challenge now.
 Um, I suppose I have to accept the challenge now.
+To be explicit: save me time and get me <imp>my shipment</imp>, and I’ll save you time and put on my gym leader hat for a challenge.
+To be explicit: save me time and get me <imp>my shipment</imp>, and I’ll save you time and put on my gym leader hat for a challenge.
+Incidentally... Is that a Poke X-Ray I spy?
+Incidentally... Is that a Poke X-Ray I spy?
+Officially speaking, those don't exist.
+Officially speaking, those don't exist.
+Unofficially speaking, I still remember how to unlock the experimental features.
+Unofficially speaking, I still remember how to unlock the experimental features.
+You hand over the Poke X-Ray.
+You hand over the Poke X-Ray.
+It can now <imp>scan avatars</imp> to determine what moves they know – even the primeval ones.
+It can now <imp>scan avatars</imp> to determine what moves they know – even the primeval ones.
+A gift, in appreciation of your... quick work.
+A gift, in appreciation of your... quick work.
+Now, back to business.
+Now, back to business.
 Let’s capitalize on this inexplicable lack of delays and have a quick battle, yes?
 Let’s capitalize on this inexplicable lack of delays and have a quick battle, yes?
-To be explicit: save me time and get me my shipment, and I’ll save you time and put on my gym leader hat for a challenge.
-To be explicit: save me time and get me my shipment, and I’ll save you time and put on my gym leader hat for a challenge.
+Very exciting, I know. Focus on locating my shipment, not on hunting down avatars.
+Very exciting, I know. Focus on locating my shipment, not on hunting down avatars.
+I can't guarantee that you won't need to destroy some in the process, however.
+I can't guarantee that you won't need to destroy some in the process, however.
 LuxTech's main business is in Technical Machines, so naturally we have a ton of programmers and computer scientists.
 LuxTech's main business is in Technical Machines, so naturally we have a ton of programmers and computer scientists.
 However, LuxTech spends a decent amount on research as well, so there's scientists everywhere too.
@@ -12864,10 +12884,6 @@ A small plastic tag reads "\PN's House".
 A small plastic tag reads "\PN's House".
 A shiny brass plaque reads "\PN's Residence".
 A shiny brass plaque reads "\PN's Residence".
-"Emma's Empoloreum!"
-"Emma's Empoloreum!"
-A Piplup standee points you to the door.
-A Piplup standee points you to the door.
 The door is locked.
 The door is locked.
 I got a lot of energy, but my Rockruff somehow has even more.
@@ -12878,8 +12894,6 @@ Yeah, you should probably have these instead.
 Yeah, you should probably have these instead.
 Nevermind, it looks like he's just like this...
 Nevermind, it looks like he's just like this...
-An Empoleon standee points you to the door.
-An Empoleon standee points you to the door.
 Condensed sweat fogs the window.
 Condensed sweat fogs the window.
 My god, this park is so much better than the one at LuxTech.
@@ -13160,8 +13174,6 @@ What was once a printed notice has been painted over with a scene of a beautiful
 What was once a printed notice has been painted over with a scene of a beautiful glacier at sunrise.
 "TMs you NEED at prices you WANT!"
 "TMs you NEED at prices you WANT!"
-Florian Park
-Florian Park
 My life has moved so fast.
 My life has moved so fast.
 Feels like just yesterday that I was attending the newly founded Novo Academy.
@@ -13170,14 +13182,8 @@ Of course, that was over 50 years ago!
 Of course, that was over 50 years ago!
 It's been upgraded to a "College" since then.
 It's been upgraded to a "College" since then.
-I practice styling my Furfrou every day!
-I practice styling my Furfrou every day!
-Hey, do you have a Furfrou? I'd just love to style it!
-Hey, do you have a Furfrou? I'd just love to style it!
-It's just brilliant! Brilliant, I say!
-It's just brilliant! Brilliant, I say!
-Well, ok. I'll just be here with my Furfrou.
-Well, ok. I'll just be here with my Furfrou.
+Florian Park
+Florian Park
 A few months ago someone tried to bring their yacht through this river.
 A few months ago someone tried to bring their yacht through this river.
 His boat hit some rocks and sunk. Right here.
@@ -13186,6 +13192,16 @@ It took the city service three weeks to clear everything.
 It took the city service three weeks to clear everything.
 It was completely stupid, but you have to respect his drive a little.
 It was completely stupid, but you have to respect his drive a little.
+I practice styling my Furfrou every day!
+I practice styling my Furfrou every day!
+Hey, do you have a Furfrou? I'd just love to style it!
+Hey, do you have a Furfrou? I'd just love to style it!
+It's just brilliant! Brilliant, I say!
+It's just brilliant! Brilliant, I say!
+Well, ok. I'll just be here with my Furfrou.
+Well, ok. I'll just be here with my Furfrou.
+"Phones, batteries, accessories-- you name it, we have it!"
+"Phones, batteries, accessories-- you name it, we have it!"
 Man, life is rough.
 Man, life is rough.
 I came here from Hoenn to get a shot at taking out some of the avatars, but I've had no luck.
@@ -13204,8 +13220,6 @@ Oh, you're a dear! Let's get this trade going.
 Oh, you're a dear! Let's get this trade going.
 Sweet, I'm off to find another avatar to battle!
 Sweet, I'm off to find another avatar to battle!
-"Phones, batteries, accessories-- you name it, we have it!"
-"Phones, batteries, accessories-- you name it, we have it!"
 My Snubbull is simply the most creative Pokemon this side of the Eleig River.
 My Snubbull is simply the most creative Pokemon this side of the Eleig River.
 Don't you agree? You can clearly see it on her face!
@@ -14103,28 +14117,28 @@ It looks very stylish, covered in glitter dust.
 It looks very stylish, covered in glitter dust.
 Filled with treats that are much cheaper overseas.
 Filled with treats that are much cheaper overseas.
+Cushions with a small Piplup pattern.
+Cushions with a small Piplup pattern.
 Empoleon does not cry out!
 Empoleon does not cry out!
 It looks like it's desperately trying to keep a very small hat on its head.
 It looks like it's desperately trying to keep a very small hat on its head.
-Cushions with a small Piplup pattern.
-Cushions with a small Piplup pattern.
-This Empoleon's feathers are incredibly sleek and shiny.
-This Empoleon's feathers are incredibly sleek and shiny.
 Cushions with a small Chimchar pattern.
 Cushions with a small Chimchar pattern.
 ....it's much dustier than the other stack.
 ....it's much dustier than the other stack.
+This Empoleon's feathers are incredibly sleek and shiny.
+This Empoleon's feathers are incredibly sleek and shiny.
 A variety of imported toys and figures.
 A variety of imported toys and figures.
 Many of them feature Piplup and its evolutions playing and battling.
 Many of them feature Piplup and its evolutions playing and battling.
-A small bow is clipped to its head.
-A small bow is clipped to its head.
 Signed photographs of contest stars, some marked with the footprint of their Pokémon partner.
 Signed photographs of contest stars, some marked with the footprint of their Pokémon partner.
 It's unclear if these are for sale, or just to show off.
 It's unclear if these are for sale, or just to show off.
+A small bow is clipped to its head.
+A small bow is clipped to its head.
 [Map201]
 A Carracosta shell fossil!
 A Carracosta shell fossil!
@@ -14210,8 +14224,6 @@ No
 Yes
 Yes
 [Map203]
-The lid has a complex mechanism to keep nosy Pokémon from rummaging through the trash.
-The lid has a complex mechanism to keep nosy Pokémon from rummaging through the trash.
 This place used to just be a typical Eeveelution cafe.
 This place used to just be a typical Eeveelution cafe.
 In the last few years though, tons of Eevees haven't been able to find a home due to overbreeding.
@@ -14222,32 +14234,34 @@ The owners take care of them until a new Trainer or family decides to adopt, tho
 The owners take care of them until a new Trainer or family decides to adopt, though they charge a pretty heavy adoption fee.
 It keeps impulse purchases to a minimum.
 It keeps impulse purchases to a minimum.
-"Special: Sweet Hearts! A treat your buddy will love."
-"Special: Sweet Hearts! A treat your buddy will love."
-A drawing of an Eevee takes up a majority of the board.
-A drawing of an Eevee takes up a majority of the board.
+The lid has a complex mechanism to keep nosy Pokémon from rummaging through the trash.
+The lid has a complex mechanism to keep nosy Pokémon from rummaging through the trash.
 I like to come here on my time off.
 I like to come here on my time off.
 Being able to pet all the Pokemon here is great.
 Being able to pet all the Pokemon here is great.
-Hundreds of Eeveelutions scratching their backs on the same corners have worn them down and covered them in fur.
-Hundreds of Eeveelutions scratching their backs on the same corners have worn them down and covered them in fur.
+"Special: Sweet Hearts! A treat your buddy will love."
+"Special: Sweet Hearts! A treat your buddy will love."
+A drawing of an Eevee takes up a majority of the board.
+A drawing of an Eevee takes up a majority of the board.
 Hey hey, you here to adopt some Eevees?
 Hey hey, you here to adopt some Eevees?
 You already saw: They're good battlers!
 You already saw: They're good battlers!
-The bottom leaves of this plant look like they've been gnawed on.
-The bottom leaves of this plant look like they've been gnawed on.
+Hundreds of Eeveelutions scratching their backs on the same corners have worn them down and covered them in fur.
+Hundreds of Eeveelutions scratching their backs on the same corners have worn them down and covered them in fur.
+People come here for the Pokemon, but most regulars stay for the food and drink.
+People come here for the Pokemon, but most regulars stay for the food and drink.
+Best place in the whole city right here.
+Best place in the whole city right here.
 Here, take this.
 Here, take this.
 It's yours now. All yours.
 It's yours now. All yours.
 Sorry, no take-back-sies.
 Sorry, no take-back-sies.
-People come here for the Pokemon, but most regulars stay for the food and drink.
-People come here for the Pokemon, but most regulars stay for the food and drink.
-Best place in the whole city right here.
-Best place in the whole city right here.
+The bottom leaves of this plant look like they've been gnawed on.
+The bottom leaves of this plant look like they've been gnawed on.
 I'm glad you came!
 I'm glad you came!
 Aren't Eevee just the best?!
@@ -14266,6 +14280,8 @@ EVO THUNDER: "Rainbow Evolution Squad, let's go!"
 EVO THUNDER: "Rainbow Evolution Squad, let's go!"
 A long magical girl transformation sequence is in progress.
 A long magical girl transformation sequence is in progress.
+Signs showing the current resident Pokémon, along with their likes and dislikes.
+Signs showing the current resident Pokémon, along with their likes and dislikes.
 See all those people and Pokemon?
 See all those people and Pokemon?
 Those are gonna be your friends, little one!
@@ -14298,14 +14314,6 @@ Oh well... I guess I'll just have to keep petting this Eevee...
 Oh well... I guess I'll just have to keep petting this Eevee...
 Let's get into it!
 Let's get into it!
-Signs showing the current resident Pokémon, along with their likes and dislikes.
-Signs showing the current resident Pokémon, along with their likes and dislikes.
-This Pokémon is staring off into space, glassy-eyed.
-This Pokémon is staring off into space, glassy-eyed.
-.........
-.........
-False alarm, it's a very realistic plushie.
-False alarm, it's a very realistic plushie.
 You got an Eevee Ticket?
 You got an Eevee Ticket?
 Kay.
@@ -14318,12 +14326,12 @@ Take care of it.
 Take care of it.
 No, you don't.
 No, you don't.
-A very young Eevee.
-A very young Eevee.
-It looks a little scared.
-It looks a little scared.
-You decide not to try to pet it.
-You decide not to try to pet it.
+This Pokémon is staring off into space, glassy-eyed.
+This Pokémon is staring off into space, glassy-eyed.
+.........
+.........
+False alarm, it's a very realistic plushie.
+False alarm, it's a very realistic plushie.
 There's something wonderful about Eevees.
 There's something wonderful about Eevees.
 Want to see what I mean, with a battle?
@@ -14356,6 +14364,12 @@ So, I just wanted to say thanks for looking out for him.
 So, I just wanted to say thanks for looking out for him.
 She's been doing great with the Eevees.
 She's been doing great with the Eevees.
+A very young Eevee.
+A very young Eevee.
+It looks a little scared.
+It looks a little scared.
+You decide not to try to pet it.
+You decide not to try to pet it.
 Maybe later.
 Maybe later.
 Sure, let's go.
@@ -14511,6 +14525,8 @@ I gotta give her a call, she's probably away on a fishing trip.
 I gotta give her a call, she's probably away on a fishing trip.
 Someone's sweaty gym gear is in here!
 Someone's sweaty gym gear is in here!
+"We train with the spirit of self-improvement and humility."
+"We train with the spirit of self-improvement and humility."
 Training here really gets the stress out.
 Training here really gets the stress out.
 Working at the Capitol Building has been real rough lately, it's always "avatar crisis" this and "Makya's League" that.
@@ -14521,20 +14537,10 @@ Our battle was fun, I wasn't even thinking about my job while doing it.
 Our battle was fun, I wasn't even thinking about my job while doing it.
 Need to get more moments in my life like that, to be completely honest.
 Need to get more moments in my life like that, to be completely honest.
-"We train with the spirit of self-improvement and humility."
-"We train with the spirit of self-improvement and humility."
-It looks like Kubfu wants to join your team!
-It looks like Kubfu wants to join your team!
-It holds out its own Poké Ball, seeing if you will accept it.
-It holds out its own Poké Ball, seeing if you will accept it.
-Accept the Kubfu onto your team?
-Accept the Kubfu onto your team?
-You decide to decline the Kubfu's request for now.
-You decide to decline the Kubfu's request for now.
-You take the Pokeball from the Kubfu's hands.
-You take the Pokeball from the Kubfu's hands.
-With a bow, it re-enters the Pokeball.
-With a bow, it re-enters the Pokeball.
+Sorry, this one's in use.
+Sorry, this one's in use.
+It's locked.
+It's locked.
 This is where Trainers come to hone their mettle through grueling training!
 This is where Trainers come to hone their mettle through grueling training!
 Last week, everyone and their teams had to run for three hours straight in the snow!
@@ -14547,10 +14553,18 @@ She was talking about taking us to a volcanic area near the Casaba Villa, someth
 She was talking about taking us to a volcanic area near the Casaba Villa, something about how the heat makes us burn fat faster.
 I can't wait! We're probably going do a ton of swimming!
 I can't wait! We're probably going do a ton of swimming!
-It's locked.
-It's locked.
-Sorry, this one's in use.
-Sorry, this one's in use.
+It looks like Kubfu wants to join your team!
+It looks like Kubfu wants to join your team!
+It holds out its own Poké Ball, seeing if you will accept it.
+It holds out its own Poké Ball, seeing if you will accept it.
+Accept the Kubfu onto your team?
+Accept the Kubfu onto your team?
+You decide to decline the Kubfu's request for now.
+You decide to decline the Kubfu's request for now.
+You take the Pokeball from the Kubfu's hands.
+You take the Pokeball from the Kubfu's hands.
+With a bow, it re-enters the Pokeball.
+With a bow, it re-enters the Pokeball.
 Are you new here?
 Are you new here?
 You are? Sweet, you're gonna love it here.
@@ -14563,8 +14577,10 @@ It made me realize I still have a long way to go, but that's alright.
 It made me realize I still have a long way to go, but that's alright.
 I'm having a ton of fun right now.
 I'm having a ton of fun right now.
-It's empty.
-It's empty.
+...This bag is in use.
+...This bag is in use.
+There's a nice looking purse in here.
+There's a nice looking purse in here.
 A few of the regulars here are some of Makya's best trainers.
 A few of the regulars here are some of Makya's best trainers.
 One of the dojo heads here is really good, she's a former Makyan Champion.
@@ -14573,10 +14589,8 @@ I can't believe you actually beat Scilla!
 I can't believe you actually beat Scilla!
 You're crazy! Maybe you should start your own dojo or something!
 You're crazy! Maybe you should start your own dojo or something!
-There's a nice looking purse in here.
-There's a nice looking purse in here.
-...This bag is in use.
-...This bag is in use.
+It's empty.
+It's empty.
 You want to battle?
 You want to battle?
 Take to Scilla about that. She'll get you set up.
@@ -15844,6 +15858,14 @@ No thanks.
 I'll take it.
 I'll take it.
 [Map217]
+It's the bottom of a conveyor belt. It'd be impossible to climb up.
+It's the bottom of a conveyor belt. It'd be impossible to climb up.
+For most of Sweetrock's history, we've relied on Clefable teleportation to get cargo from the factory to the docks.
+For most of Sweetrock's history, we've relied on Clefable teleportation to get cargo from the factory to the docks.
+We got these conveyor belts installed a few years back, so the cliffside isn't an issue anymore.
+We got these conveyor belts installed a few years back, so the cliffside isn't an issue anymore.
+We still have to rely on teleportation to get in and out of the harbor, though.
+We still have to rely on teleportation to get in and out of the harbor, though.
 Looks like the Trainer ahead is moving to block you from going any further.
 Looks like the Trainer ahead is moving to block you from going any further.
 Do you want to approach them? It looks like a tough fight.
@@ -16218,28 +16240,18 @@ If it isn’t, then, uh, I’ll give you a run for your money, ‘kay?
 If it isn’t, then, uh, I’ll give you a run for your money, ‘kay?
 Toodles. And don’t you dare follow – I’m playing hard to get, so respect it. Hah!
 Toodles. And don’t you dare follow – I’m playing hard to get, so respect it. Hah!
-For most of Sweetrock's history, we've relied on Clefable teleportation to get cargo from the factory to the docks.
-For most of Sweetrock's history, we've relied on Clefable teleportation to get cargo from the factory to the docks.
-We got these conveyor belts installed a few years back, so the cliffside isn't an issue anymore.
-We got these conveyor belts installed a few years back, so the cliffside isn't an issue anymore.
-We still have to rely on teleportation to get in and out of the harbor, though.
-We still have to rely on teleportation to get in and out of the harbor, though.
-It's the bottom of a conveyor belt. It'd be impossible to climb up.
-It's the bottom of a conveyor belt. It'd be impossible to climb up.
-The ocean to the east brings calming winds.
-The ocean to the east brings calming winds.
-But why? We might explain it with ocean currents, or weather patterns.
-But why? We might explain it with ocean currents, or weather patterns.
-But what makes the winds here calming? Of that, I am not so sure.
-But what makes the winds here calming? Of that, I am not so sure.
 More than a million years ago, a meteor struck this area of Makya, plowing through a large mountain to the west.
 More than a million years ago, a meteor struck this area of Makya, plowing through a large mountain to the west.
 That large mountain became two smaller mountains, which we now know as Split Peaks.
 That large mountain became two smaller mountains, which we now know as Split Peaks.
 The impact site itself would fill with water and become Sweetrock Harbor.
 The impact site itself would fill with water and become Sweetrock Harbor.
-Lightkeeper's House
-Lightkeeper's House
+The ocean to the east brings calming winds.
+The ocean to the east brings calming winds.
+But why? We might explain it with ocean currents, or weather patterns.
+But why? We might explain it with ocean currents, or weather patterns.
+But what makes the winds here calming? Of that, I am not so sure.
+But what makes the winds here calming? Of that, I am not so sure.
 I really want to know who that was in the weird outfit.
 I really want to know who that was in the weird outfit.
 Well, regardless, thanks for kicking them out of town.
@@ -16248,26 +16260,28 @@ I'm a firefighter, so I'm used to dealing with issues...
 I'm a firefighter, so I'm used to dealing with issues...
 But "Cultist with a Regirock" is outside of my job description.
 But "Cultist with a Regirock" is outside of my job description.
+Lightkeeper's House
+Lightkeeper's House
+Artisan Orbs
+Artisan Orbs
+Sweetrock Elementary School
+Sweetrock Elementary School
+"In loving memory of Mrs. and Mr. Diakos."
+"In loving memory of Mrs. and Mr. Diakos."
 I've been biking across the entire region over the past few months.
 I've been biking across the entire region over the past few months.
 Crossing the Split Peaks was by far the hardest part.
 Crossing the Split Peaks was by far the hardest part.
 The view from these cliffs, and the feeling that I've finally accomplished my goal, made it all worth it.
 The view from these cliffs, and the feeling that I've finally accomplished my goal, made it all worth it.
-"In loving memory of Mrs. and Mr. Diakos."
-"In loving memory of Mrs. and Mr. Diakos."
-Sweetrock Elementary School
-Sweetrock Elementary School
-Artisan Orbs
-Artisan Orbs
 West: Split Peaks
 West: Split Peaks
 South: Sandstone Estuary
 South: Sandstone Estuary
-Sweetrock Candy is sent all over the world, but more than 30% ends up in the Galar Region.
-Sweetrock Candy is sent all over the world, but more than 30% ends up in the Galar Region.
-Those people love their candy.
-Those people love their candy.
+"Sweetrock Harbor, satisfying the world's sweettooth!"
+"Sweetrock Harbor, satisfying the world's sweettooth!"
+"A sister city of Canalave!"
+"A sister city of Canalave!"
 I work at Sweetrock Candy factory, like many in town.
 I work at Sweetrock Candy factory, like many in town.
 That said, I rarely get to see Victoire, the manager and gym leader.
@@ -16286,10 +16300,14 @@ You gotta tell me what she's like as a trainer.
 You gotta tell me what she's like as a trainer.
 My curiosity's grown too big!
 My curiosity's grown too big!
-"Sweetrock Harbor, satisfying the world's sweettooth!"
-"Sweetrock Harbor, satisfying the world's sweettooth!"
-"A sister city of Canalave!"
-"A sister city of Canalave!"
+Sweetrock Candy is sent all over the world, but more than 30% ends up in the Galar Region.
+Sweetrock Candy is sent all over the world, but more than 30% ends up in the Galar Region.
+Those people love their candy.
+Those people love their candy.
+Shh... don't give away my hiding spot!
+Shh... don't give away my hiding spot!
+Is it... is it safe to come out now?
+Is it... is it safe to come out now?
 How goes your journey, young master?
 How goes your journey, young master?
 I've purchased a Clefable teleportation license, and reserved this pier for our use.
@@ -16298,20 +16316,10 @@ We can travel to and from any of our usual locations.
 We can travel to and from any of our usual locations.
 Where will we be heading?
 Where will we be heading?
-Shh... don't give away my hiding spot!
-Shh... don't give away my hiding spot!
-Is it... is it safe to come out now?
-Is it... is it safe to come out now?
-What was once a printed notice has been covered entirely by a poster advertising the EXP-EZ Dispenser.
-What was once a printed notice has been covered entirely by a poster advertising the EXP-EZ Dispenser.
-Sweetrock Candy Outlet
-Sweetrock Candy Outlet
-Sweetrock Harbor Gym
-Sweetrock Harbor Gym
-Leader: Victoire
-Leader: Victoire
-The Candy Queen!
-The Candy Queen!
+"Emma's Empoloreum!"
+"Emma's Empoloreum!"
+An Empoleon standee points you to the door.
+An Empoleon standee points you to the door.
 Have you slid down the conveyor belts?
 Have you slid down the conveyor belts?
 Preeeetty sure we're not allowed to, but it's crazy fun.
@@ -16340,18 +16348,30 @@ She as quirky as they say? I don't know why I bother asking. I'll be finding out
 She as quirky as they say? I don't know why I bother asking. I'll be finding out soon myself.
 The 7th badge... oh so sweet will it taste!
 The 7th badge... oh so sweet will it taste!
-Today's a good day for gaming.
-Today's a good day for gaming.
+Sweetrock Harbor Gym
+Sweetrock Harbor Gym
+Leader: Victoire
+Leader: Victoire
+The Candy Queen!
+The Candy Queen!
+Sweetrock Candy Outlet
+Sweetrock Candy Outlet
+What was once a printed notice has been covered entirely by a poster advertising the EXP-EZ Dispenser.
+What was once a printed notice has been covered entirely by a poster advertising the EXP-EZ Dispenser.
 Sweetrock Lighthouse
 Sweetrock Lighthouse
+Today's a good day for gaming.
+Today's a good day for gaming.
+A Piplup standee points you to the door.
+A Piplup standee points you to the door.
 Berry Greenhouse
 Berry Greenhouse
-I'm gaming over here!
-I'm gaming over here!
 I love to slide down the conveyor belt. But, my dad doesn't let me.
 I love to slide down the conveyor belt. But, my dad doesn't let me.
 I have to stay by the school until he gets off work so I don't get into trouble.
 I have to stay by the school until he gets off work so I don't get into trouble.
+I'm gaming over here!
+I'm gaming over here!
 No.
 No.
 Yes.
@@ -64434,10 +64454,20 @@ Release Imogene forever.
 Release Imogene forever.
 You bet.
 You bet.
-Immutable
-Imutável
-Uncopyable
-Incopiável
+Mass Feed EXP
+Mass Feed EXP
+No selected Pokemon can receive any EXP.
+No selected Pokemon can receive any EXP.
+{1} Pokemon were fed a total of {2} EXP!
+{1} Pokemon were fed a total of {2} EXP!
+There is no EXP stored in the {1}!
+There is no EXP stored in the {1}!
+Mass feed this box of Pokemon from the {1}?
+Mass feed this box of Pokemon from the {1}?
+No Pokemon in this box can receive any EXP.
+No Pokemon in this box can receive any EXP.
+No? Well, they're quite rare. Perhaps Nature's Gallery offers them... east of here.
+No? Well, they're quite rare. Perhaps Nature's Gallery offers them... east of here.
 [27]
 0
 Animated
@@ -67087,3 +67117,7 @@ Have more than 1,000,000 experience stored in the EXP-EZ Dispenser at once.
 Tenha mais de 1.000.000 de experiência guardada no REXPartidor de uma só vez.
 Achieve the top prize at Aquatopia Menagerie's Ocean Fishing Contest.
 Ganhe o maior prêmio no Concurso De Pesca da Coleção de Aquatopia.
+Immutable
+Imutável
+Uncopyable
+Incopiável
