@@ -5682,7 +5682,7 @@ Therefore they picked Fire and Poison as their specialties.
 All battles, against Eko or the gym trainers, are 2v2! Double the pain!
 All battles, against Eko or the gym trainers, are 2v2!  Double the pain!
 Ground-types, especially with moves that hit both opposing Pokemon, are rather strong in this gym.
-Ground-types, especially with moves that hit both opposing Pokemon, are rather strong in this gym. 
+Ground-types, especially with moves that hit both opposing Pokemon, are rather strong in this gym.
 Psychic-types and Rock-types are none too shabby either.
 Psychic-types and Rock-types are none too shabby either.
 The final piece to this gym's puzzle are the teleporters.
@@ -6184,7 +6184,7 @@ In any case, you’re not the patient sort, and if Tamarind is to be believed yo
 I need a shipment located.
 I need a shipment located.
 There’s a tunnel we call <imp>Gigalith’s Guts</imp> to the southwest.
-There’s a tunnel we call <imp>Gigalith’s Guts</imp> to the southwest. 
+There’s a tunnel we call <imp>Gigalith’s Guts</imp> to the southwest.
 It links the Kilna Turf to the County Park.
 It links the Kilna Turf to the County Park.
 You can imagine how convenient that little shortcut is for shipping, and hence why a hypothetical important set of objects would be routed through it.
@@ -19510,7 +19510,7 @@ Whenever saccharite was discovered, digging would be paused until the mineral co
 Mining saccharite takes time and care!
 Mining saccharite takes time and care!
 <imp>Question for Kids</imp>: Have you ever been underground? What was it like?
-<imp>Question for Kids</imp>: Have you ever been underground? What was it like? 
+<imp>Question for Kids</imp>: Have you ever been underground? What was it like?
 Yo, champ in the making!
 Yo, champ in the making!
 Samorn might not look like it, but she was one of Team Chasm's top battlers.
