@@ -51141,7 +51141,7 @@ Withdraw<<n>>Item
 Toss<<n>>Item
 Toss<<n>>Item
 CANCEL
-CANCEL
+CANCELAR
 x{1: 2d}
 x{1: 2d}
 Cannot search on an empty tab.
