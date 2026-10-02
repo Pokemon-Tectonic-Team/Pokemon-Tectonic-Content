@@ -58783,19 +58783,19 @@ The shadow will envelop you if you remove the flame now!
 It looks like it could hold a magical flame.
 It looks like it could hold a magical flame.
 Error! Could not determine how to hatch the given egg.
-Error! Could not determine how to hatch the given egg.
+Erro! Não foi possível determinar como eclodir o ovo dado.
 \PN hands over the {1}.
-\PN hands over the {1}.
+\PN entrega o {1}.
 Now I must have time. Gingerly I shall attend to the egg.
-Now I must have time. Gingerly I shall attend to the egg.
+Agora, preciso de tempo. Ternamente, cuidarei do ovo.
 The hatching was a success. I am pleased to allow you this Dragon.
-The hatching was a success. I am pleased to allow you this Dragon.
+A eclosão foi um sucesso. É com muito prazer que lhe concedo este Dragão.
 You notice a small hole in the rock. Dig into it?
-You notice a small hole in the rock. Dig into it?
+Você nota um pequeno buraco na pedra. Escavá-lo?
 You clamber into the den!
-You clamber into the den!
+Você rasteja para dentro do covil!
 You clamber out of the den!
-You clamber out of the den!
+Você rasteja para fora do covil!
 It's a rugged rock, but some explosives might be able to destroy it.
 It's a rugged rock, but some explosives might be able to destroy it.
 An explodeable rock. Use a Dynamite Stick? You have {1}.
