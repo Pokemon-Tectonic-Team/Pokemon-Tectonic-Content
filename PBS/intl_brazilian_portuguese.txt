@@ -40302,7 +40302,7 @@ Passes Para A Fábrica
 Ruined Tower Keys
 Chaves Da Torre Em Ruínas
 Latent Seeds
-Semente Latente
+Sementes Latentes
 Alloyed Lumps
 Pedaços Metálicos
 Alloyed Blades
@@ -58753,13 +58753,13 @@ You put in ${1}.
 Unassigned level passed to candyBatchCost: {1}
 Unassigned level passed to candyBatchCost: {1}
 A locked gate. It has a slot for a keycard.
-A locked gate. It has a slot for a keycard.
+Um portão trancado. Possui uma abertura para a inserção de um cartão de acesso.
 You insert the Team Chasm ID Card.
-You insert the Team Chasm ID Card.
+Você insere o Cartão ID Chasm.
 A locked door. It has a slot for a keycard.
-A locked door. It has a slot for a keycard.
+Uma porta trancada. Possui uma abertura para a inserção de um cartão de acesso.
 The door was unlocked.
-The door was unlocked.
+A porta foi destrancada.
 It's {1}:{2} right now.
 It's {1}:{2} right now.
 The door resists your attempts to open it with a mystic force.
@@ -58797,21 +58797,21 @@ Você rasteja para dentro do covil!
 You clamber out of the den!
 Você rasteja para fora do covil!
 It's a rugged rock, but some explosives might be able to destroy it.
-It's a rugged rock, but some explosives might be able to destroy it.
+É uma pedra bem resistente, mas alguns explosivos podem ser capazes destruí-la.
 An explodeable rock. Use a Dynamite Stick? You have {1}.
-An explodeable rock. Use a Dynamite Stick? You have {1}.
+Uma pedra explosível. Usar uma Banana De Dinamite? Você tem {1}.
 {1} used the explosives!
-{1} used the explosives!
+{1} usou os explosivos!
 An impassable hole, filled with stunted grass.
-An impassable hole, filled with stunted grass.
+Um buraco intransitável, cheio de grama seca.
 Use the Flora Sceptre?
-Use the Flora Sceptre?
+Usar o Cetro Floral?
 With a flourish, you wave the Flora Scepter over the hole.
-With a flourish, you wave the Flora Scepter over the hole.
+Com um gesto delicado, você balança o Cetro Floral sobre o buraco.
 The grass grew over the hole!
-The grass grew over the hole!
+A grama cresceu por cima do buraco!
 If that grass grew over the hole, you'd possibly be able to cross it.
-If that grass grew over the hole, you'd possibly be able to cross it.
+Se aquela grama crescesse por cima do buraco, você provavelmente conseguiria cruzá-lo.
 Loyalty
 Lealdade
 Perseverance
@@ -58921,11 +58921,11 @@ A árvore frutífera murchou.
 You hand over the {1}.
 Você abre mão de {1}.
 A patch of soil which is brimming with potential.
-A patch of soil which is brimming with potential.
+Um pedaço de terra que transborda com potencial.
 Plant a Latent Seed?
-Plant a Latent Seed?
+Plantar uma Semente Latente?
 Right as you push the seed into the soil, a sapling bursts out of it!
-Right as you push the seed into the soil, a sapling bursts out of it!
+Assim que você coloca a semente no solo, uma muda irrompe dele!
 {1} stands strong, still ready to fight!
 {1} stands strong, still ready to fight!
 {1} goes back to sleep after being left alone.
