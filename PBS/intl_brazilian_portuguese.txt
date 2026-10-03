@@ -54825,7 +54825,7 @@ Box "{1}" on the Pokémon Storage PC was full.
 It was stored in box "{1}".
 It was stored in box "{1}".
 You check {1}, and discover that its ability is <imp>{2}</imp>!
-You check {1}, and discover that its ability is <imp>{2}</imp>!
+Você verifica {1} e descobre que sua habilidade é <imp>{2}</imp>!
 The {1} is holding {2} <imp>{3}</imp>!
 The {1} is holding {2} <imp>{3}</imp>!
 The {1} is holding {2} {3}!
