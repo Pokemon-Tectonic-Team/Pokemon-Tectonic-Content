@@ -521,39 +521,39 @@ Qual aparência você prefere? Você pode mudar isso depois.
 .....\ts[10]
 .....\ts[10]
 ...Of course, of course. I can arrange for a ship to take you.
-...Of course, of course. I can arrange for a ship to take you.
+...É claro, é claro. Posso providenciar um navio para levá-lo.
 What was your name, again?
-What was your name, again?
+Qual é o seu nome mesmo?
 So you're \PN?
-So you're \PN?
+Então você é \PN?
 So, what is your name, then?
-So, what is your name, then?
+Pois então, qual é o seu nome?
 Ah, right. Mavis's youngest child, right?
-Ah, right. Mavis's youngest child, right?
+Ah, certo. Criança mais nova da Mavis, não é?
 Well, thank you for your family's past, uh... patronage. I'll set about arrangements on the double.
-Well, thank you for your family's past, uh...  patronage. I'll set about arrangements on the double.
+Bom, agradeço pelo, hã... patrocínio... da sua família no passado. Providenciarei os preparativos imediatamente.
 Mom isn't happy. She's sick of us leeching off of the company's success. 'Prove yourselves', she said.
-Mom isn't happy. She's sick of us leeching off of the company's success. 'Prove yourselves', she said.
+Nossa mãe não está feliz. Cansada de ver a gente parasitando o sucesso da empresa. 'Provem o seu valor', ela disse.
 So now your brother's got it in his head to become a Champion. That'll show her, right?
-So now your brother's got it in his head to become a Champion. That'll show her, right?
+Então, agora seu irmão colocou na cabeça que vai virar um Campeão. Isso vai mostrar pra ela, não vai?
 Not if you become Champion first.
-Not if you become Champion first.
+Não se você se tornar Campeão primeiro.
 Your brother <imp>Zain</imp> is already in the <imp>Makya region</imp>, with who knows how many badges.
-Your brother <imp>Zain</imp> is already in the <imp>Makya region</imp>, with who knows how many badges.
+Seu irmão <imp>Zain</imp> já está na <imp>região de Makya</imp>, com sabe-se lá quantas insígnias.
 Fortunately, the regional Professor owes your family a favor, and you just called it in.
-Fortunately, the regional Professor owes your family a favor, and you just called it in.
+Felizmente, a Professora da região deve um favor à sua família, e você acabou de cobrá-lo.
 You're leaving tonight.
-You're leaving tonight.
+Você parte nesta noite.
 Eight badges, one Championship.
-Eight badges, one Championship.
+Oito insígnias, um Campeonato.
 Get there before Zain.
-Get there before Zain.
+Chegue lá antes de Zain.
 Prove that you're better than him -- Mom's better heir.
-Prove that you're better than him -- Mom's better heir.
+Prove que você é melhor que ele -- o melhor herdeiro para mamãe.
 You're already behind, but that's never stopped you before.
-You're already behind, but that's never stopped you before.
+Você já está em desvantagem, mas isso nunca te impediu antes.
 It's time.
-It's time.
+A hora é agora.
 Not sure
 Não sei
 Masculine Look
@@ -3275,119 +3275,119 @@ Ready.
 Ready.
 [Map35]
 \PN, get back here. I've got more free stuff. You want free stuff, right?
-\PN, get back here. I've got more free stuff. You want free stuff, right?
+\PN, volta aqui. Eu tenho coisas de graça pra ti. Você quer coisas de graça, né?
 ...They're in the red and white balls, \PN.
-...They're in the red and white balls, \PN.
+...Eles estão nas bolas vermelhas e brancas, \PN.
 The bedsheets are finely pressed.
-The bedsheets are finely pressed.
+Os lençóis desta cama estão muito bem passados.
 It looks like it hasn't been used recently.
-It looks like it hasn't been used recently.
+Parece que ela não foi usada recentemente.
 Oh, \PN? Good luck, and next time you see your Mom, tell her I said thank you.
-Oh, \PN? Good luck, and next time you see your Mom, tell her I said thank you.
+Ah, \PN? Boa sorte. E, na próxima vez que você ver a sua Mãe, diz pra ela que eu agradeci.
 Thank you, and we're even.
-Thank you, and we're even.
+Eu agradeci, e agora a gente tá quite.
 ...I miss Regidrago. It'd make this so much easier. I need to call Helena, definitely.
-...I miss Regidrago. It'd make this so much easier. I need to call Helena, definitely.
+...Saudades de Regidrago. Tornaria isso tudo tão mais fácil. Eu preciso ligar pra Helena, definitivamente.
 Probably also Samorn, maybe Lainie...
-Probably also Samorn, maybe Lainie...
+Provavelmente também pra Samorn, talvez pra Lainie...
 You decide to stop eavesdropping, and leave Professor Tamarind alone.
-You decide to stop eavesdropping, and leave Professor Tamarind alone.
+Você decide parar de bisbilhotar e deixa a Professora Tamarind em paz.
 This Pokéball contains Bounsweet!
-This Pokéball contains Bounsweet!
+Essa Pokébola contém Bounsweet!
 You look up Bounsweet in your new MasterDex..
-You look up Bounsweet in your new MasterDex..
+Você pesquisa por Bounsweet em sua MasterDex...
 So, you want Bounsweet?
-So, you want Bounsweet?
+E então? Vai querer Bounsweet?
 One. <i>One</i>, and be happy you get that.
-One. <i>One</i>, and be happy you get that.
+Um. <i>Um</i>, e fique feliz em tê-lo.
 This Pokéball contains Numel!
-This Pokéball contains Numel!
+Essa Pokébola contém Numel!
 You look up Numel in your new MasterDex...
-You look up Numel in your new MasterDex...
+Você pesquisa por Numel em sua MasterDex...
 So, you want Numel?
-So, you want Numel?
+E então? Vai querer Numel?
 The screen displays a news article titled "Lava Flows Put Pause On Casaba Expansion".
-The screen displays a news article titled "Lava Flows Put Pause On Casaba Expansion".
+A tela mostra um artigo de jornal com o título "Fluxos De Lava Interrompem A Expansão De Casaba".
 This Pokéball contains Krabby!
-This Pokéball contains Krabby!
+Essa Pokébola contém Krabby!
 You look up Krabby in your new MasterDex...
-You look up Krabby in your new MasterDex...
+Você pesquisa por Krabby em sua MasterDex...
 So, you want Krabby?
-So, you want Krabby?
+E então? Vai querer Krabby?
 A variety of inoffensive books line the shelves.
-A variety of inoffensive books line the shelves.
+Uma variedade de livros inofensivos descansam nas prateleiras.
 The majority contain nature photography on large, glossy paper.
-The majority contain nature photography on large, glossy paper.
+A maioria contém fotografias da natureza em papéis grandes e brilhantes.
 I was gonna just throw some Normal-types at you and call it a day, but I'd feel bad.
-I was gonna just throw some Normal-types at you and call it a day, but I'd feel bad.
+Eu ia só jogar uns Pokémon do tipo Normal pra cima de você e dar o assunto por encerrado, mas eu me sentiria mal.
 I had Andris pull some strings and... and that name means nothing to you, so forget I said anything.
-I had Andris pull some strings and... and that name means nothing to you, so forget I said anything.
+Eu pedi que Andris mexesse uns pauzinhos e... e esse nome não significa nada pra você, então esquece o que eu disse.
 Point is, surprise! You get two starters: One standard three-stage Grass, Water or Fire, you know the drill, but also a Normal-type.
-Point is, surprise! You get two starters: One standard three-stage Grass, Water or Fire, you know the drill, but also a Normal-type.
+O meu ponto é, surpresa! Você vai ganhar dois iniciais: um padrão, do tipo Grama, Água ou Fogo - você já sabe como funciona - mas também vai ganhar um tipo Normal.
 But first things first...
-But first things first...
+Mas, antes de mais nada...
 The <imp>MasterDex</imp> is a Pokédex, but it comes preloaded with data on every species.
-The <imp>MasterDex</imp> is a Pokédex, but it comes preloaded with data on every species.
+A <imp>MasterDex</imp> é basicamente uma Pokédex, mas ela já vem carregada com dados de todas as espécies.
 Moves, Abilities, stats, evolutions - it's all in there.
-Moves, Abilities, stats, evolutions - it's all in there.
+Movimentos, Habilidades, Atributos, Evoluções - tá tudo aí.
 Though, if you prefer the thrill of discovery, you can have it hide the info until you've seen one.
-Though, if you prefer the thrill of discovery, you can have it hide the info until you've seen one.
+Mas, se você preferir a <i>emoção da descoberta</i>, você pode configurar ela pra ocultar as informações até você encontrar a espécie.
 It also comes along with a <imp>MoveDex</imp> and a <imp>DexNav</imp>.
-It also comes along with a <imp>MoveDex</imp> and a <imp>DexNav</imp>.
+Ela também vem junto com uma <imp>MoveDex</imp> e um <imp>DexNav</imp>.
 Both useful resources that I'm sure you can figure out on your own.
-Both useful resources that I'm sure you can figure out on your own.
+Ambos recursos úteis que eu tenho certeza que você vai conseguir entender por conta.
 Now go pick out your first starter. I ain't got all day.
-Now go pick out your first starter. I ain't got all day.
+Agora, vai pegar seu primeiro inicial. Não tenho o dia todo.
 OK, next is the Normal-types.
-OK, next is the Normal-types.
+OK, agora é a vez dos tipos Normal.
 I've got a Skwovet, a Zigzagoon, and a Patrat.
-I've got a Skwovet, a Zigzagoon, and a Patrat.
+Eu tenho um Skwovet, um Zigzagoon e um Patrat.
 You may want to look them up in your MasterDex, using the <imp>search feature</imp>.
-You may want to look them up in your MasterDex, using the <imp>search feature</imp>.
+Você provavelmente vai querer pesquisar eles na sua MasterDex usando a <imp>função de pesquisa</imp>.
 In case you've got the data hidden, let me just reveal those for you.
-In case you've got the data hidden, let me just reveal those for you.
+Pro caso de você ter as informações ocultas, me deixa revelar só as deles pra você.
 Each of those species has a signature move, and strong ones at that. It's good reading.
-Each of those species has a signature move, and strong ones at that. It's good reading.
+Cada uma dessas espécies tem um movimento-assinatura - movimentos muito fortes, diga-se de passagem. É bom dar uma lida.
 Let me know when you've made your choice.
-Let me know when you've made your choice.
+Me diz quando você tiver feito sua escolha.
 OK, now - Skwovet, Zigzagoon, or Patrat?
-OK, now - Skwovet, Zigzagoon, or Patrat?
+OK, vamo lá - Skwovet, Zigzagoon ou Patrat?
 Alright, come back to me when you know what you want.
-Alright, come back to me when you know what you want.
+Beleza, então. Volta quando você souber o que quer.
 Sure, good choice. Now, uh... oh, yeah.
-Sure, good choice. Now, uh... oh, yeah.
+Claro, boa escolha. Agora, hã... ah, sim.
 Take this.
-Take this.
+Toma isso.
 Makyan invention. It will regenerate held items automatically after battles.
-Makyan invention. It will regenerate held items automatically after battles.
+Invenção Makiense. Vai regenerar itens equipáveis automaticamente após batalhas.
 Berries, Gems, you name it.
-Berries, Gems, you name it.
+Frutas, Jóias, o que você imaginar.
 Aaand here's some Poké Balls.
-Aaand here's some Poké Balls.
+Eeeee toma aqui algumas Pokébolas.
 Gonna be honest, I'm here on business too, so I really don't have another minute to spare on you.
-Gonna be honest, I'm here on business too, so I really don't have another minute to spare on you.
+Pra dizer a verdade, eu tô aqui a negócios, também. Por isso, eu não tenho mais nenhum minuto pra perder com você.
 There's a whole mess stirring on the coast up north, but that's - don't worry about that. Worry about getting your badges.
-There's a whole mess stirring on the coast up north, but that's - don't worry about that. Worry about getting your badges.
+Tem uma baita bagunça rolando na costa norte, mas isso - não se preocupa com isso. Se preocupa em conseguir as suas insígnias.
 There's a Gym here, but <imp>Lambert</imp>, the leader, is out.
-There's a Gym here, but <imp>Lambert</imp>, the leader, is out.
+Tem um Ginásio aqui, mas <imp>Lambert</imp>, o líder, tá fora.
 I heard he went west to <imp>Bluepoint Beach</imp>.
-I heard he went west to <imp>Bluepoint Beach</imp>.
+Ouvi falar que ele foi pra Oeste, na <imp>Praia Bluepoint</imp>.
 I've got bigger problems on my plate, though, so scram.
-I've got bigger problems on my plate, though, so scram.
+Mas agora eu tenho uns problemas maiores pra cuidar, então chispa!
 What are you waiting for? I got them laid out all nice and everything!
-What are you waiting for? I got them laid out all nice and everything!
+O que é que tu tá esperando? Eu deixei elas bonitinhas, lado a lado e tudo!
 Didn't I say to leave me alone?
-Didn't I say to leave me alone?
+Eu não te falei pra ralar daqui?
 Don't bother. I didn't have time to grab any room service.
-Don't bother. I didn't have time to grab any room service.
+Nem tenta. Eu não tive tempo de pedir serviço de quarto.
 Not that I'd let you have any either way.
-Not that I'd let you have any either way.
+Não que eu fosse te deixar comer alguma coisa de qualquer forma.
 No
-No
+Não
 Yes
-Yes
+Sim
 Not Now
-Not Now
+Pera Aí
 Skwovet
 Skwovet
 Zigzagoon
@@ -9714,11 +9714,11 @@ She's correct <i>almost</i> all of the time!
 Skipping Tamarind cutscene.
 Skipping Tamarind cutscene.
 Morning, \PN, I'm <imp>Professor Tamarind</imp>.
-Morning, \PN, I'm <imp>Professor Tamarind</imp>.
+Bom dia, \PN, eu sou a <imp>Professora Tamarind</imp>.
 I'd say "welcome to Makya!", but that's not really why you're here.
-I'd say "welcome to Makya!", but that's not really why you're here.
+Eu diria "bem vindo a Makya!", mas não é pra isso que você tá aqui.
 C'mon. Let's get you set up.
-C'mon. Let's get you set up.
+Vem. Vamos aprontar as coisas pra você.
 Looks like we’re both moving on. Don’t worry, I’m not coming with you.
 Looks like we’re both moving on. Don’t worry, I’m not coming with you.
 But, uh, there’s something I kinda forgot to fill you in on.
@@ -52247,7 +52247,7 @@ your party
 storage box {1}
 storage box {1}
 \PN received a MasterDex!
-\PN received a MasterDex!
+\PN recebeu uma MasterDex!
 at level {1}
 no nível {1}
 at level {1} if it's male
@@ -54833,11 +54833,11 @@ The {1} is holding {2} {3}!
 But it mysteriously crumbled to ash...
 But it mysteriously crumbled to ash...
 Would you like to give a nickname to {1}?
-Would you like to give a nickname to {1}?
+Você gostaria de apelidar {1}?
 Would you like to add {1} to your party?
-Would you like to add {1} to your party?
+Você gostaria de adicionar {1} à sua equipe?
 Choose which Pokemon will be sent back to the PC.
-Choose which Pokemon will be sent back to the PC.
+Escolha qual Pokémon será mandado de volta ao Computador.
 {1} used the {2}!
 {1} used the {2}!
 {1} threw an {2}!
@@ -59927,9 +59927,9 @@ Wow, the {1} is a different color from normal.
 It's a <imp>shiny</imp> Pokémon!
 It's a <imp>shiny</imp> Pokémon!
 You register {1} as caught in the MasterDex.
-You register {1} as caught in the MasterDex.
+Você marca {1} como 'capturado' na MasterDex.
 {1} obtained {2}!\me<<[>>Pkmn get<<]>>\wtnp<<[>>80<<]>><<1>>
-{1} obtained {2}!\me<<[>>Pkmn get<<]>>\wtnp<<[>>80<<]>><<1>>
+{1} obteu {2}!\me<<[>>Pkmn get<<]>>\wtnp<<[>>80<<]>><<1>>
 \me<<[>>Pkmn get<<]>>{1} received a Pokémon from {2}.<<1>>
 \me<<[>>Pkmn get<<]>>{1} received a Pokémon from {2}.<<1>>
 \me<<[>>Pkmn get<<]>>{1} received a Pokémon.<<1>>
