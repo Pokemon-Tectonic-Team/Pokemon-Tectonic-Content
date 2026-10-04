@@ -61649,273 +61649,273 @@ A luz solar intensa parece incomodar {1}.
 Whoa! {1} suddenly started dancing in happiness!
 Eita! {1} repentinamente começou a dançar de felicidade!
 {1} is steadily keeping up with {2}!
-{1} is steadily keeping up with {2}!
+{1} está firmemente acompanhando {2}!
 {1} is happy skipping about.
-{1} is happy skipping about.
+{1} está alegremente saltitando por aí.
 {1} is playfully nibbling at the ground.
-{1} is playfully nibbling at the ground.
+{1} está mordendo o chão de forma brincalhona.
 {1} is playfully nipping at {2}'s feet!
-{1} is playfully nipping at {2}'s feet!
+{1} está mordiscando os pés de {2} de forma brincalhona!
 {1} is following {2} very closely!
-{1} is following {2} very closely!
+{1} está seguindo {2} bem de perto!
 {1} turns around and looks at {2}.
-{1} turns around and looks at {2}.
+{1} se vira e olha para {2}.
 {1} is working hard to show off its mighty power!
-{1} is working hard to show off its mighty power!
+{1} está se esforçando para mostrar seu imenso poder!
 {1} looks like it wants to run around!
-{1} looks like it wants to run around!
+{1} parece querer correr por aí!
 {1} is wandering around enjoying the scenery.
-{1} is wandering around enjoying the scenery.
+{1} está perambulando por aí e aproveitando a paisagem.
 {1} seems to be enjoying this a little bit!
-{1} seems to be enjoying this a little bit!
+{1} parece estar gostando um pouco disso!
 {1} is cheerful!
-{1} is cheerful!
+{1} está feliz!
 {1} seems to be singing something?
-{1} seems to be singing something?
+{1} parece estar cantando algo?
 {1} is dancing around happily!
-{1} is dancing around happily!
+{1} está alegremente dançando por aí!
 {1} is having fun dancing a lively jig!
-{1} is having fun dancing a lively jig!
+{1} está se divertindo enquanto faz uma dancinha!
 {1} is so happy, it started singing!
-{1} is so happy, it started singing!
+{1} está tão feliz que começou a cantar!
 {1} looked up and howled!
-{1} looked up and howled!
+{1} olhou pra cima e uivou!
 {1} seems to be feeling optimistic.
-{1} seems to be feeling optimistic.
+{1} parece estar se sentindo otimista.
 It looks like {1} feels like dancing!
-It looks like {1} feels like dancing!
+Parece que {1} quer dançar!
 {1} suddenly started to sing! It seems to be feeling great.
-{1} suddenly started to sing! It seems to be feeling great.
+{1} de repente começou a cantar! Parece estar se sentindo ótimo(a).
 It looks like {1} wants to dance with {2}!
-It looks like {1} wants to dance with {2}!
+Parece que {1} quer dançar com {2}!
 {1} let out a roar!
-{1} let out a roar!
+{1} soltou um rugido!
 {1} is making a face like it's angry!
-{1} is making a face like it's angry!
+{1} está com cara de bravo(a)!
 {1} seems to be angry for some reason.
-{1} seems to be angry for some reason.
+{1} parece irritado(a) por algum motivo.
 {1} chewed on {2}'s feet.
-{1} chewed on {2}'s feet.
+{1} mastigou os pés de {2}.
 {1} turned to face the other way, showing a defiant expression.
-{1} turned to face the other way, showing a defiant expression.
+{1} virou pro outro lado com uma expressão desafiadora em seu rosto.
 {1} is trying to intimidate {2}'s foes!
-{1} is trying to intimidate {2}'s foes!
+{1} está tentando intimidar os inimigos de {2}!
 {1} wants to pick a fight!
-{1} wants to pick a fight!
+{1} quer arranjar uma briga!
 {1} is ready to fight!
-{1} is ready to fight!
+{1} está pronto(a) para batalhar!
 It looks like {1} will fight just about anyone right now!
-It looks like {1} will fight just about anyone right now!
+Parece que {1} lutaria com qualquer um agora!
 {1} is growling in a way that sounds almost like speech...
-{1} is growling in a way that sounds almost like speech...
+{1} está balbuciando sons que quase se parecem com fala...
 {1} is looking down steadily.
-{1} is looking down steadily.
+{1} está olhando fixamente para baixo.
 {1} is sniffing around.
-{1} is sniffing around.
+{1} está farejando por aí.
 {1} is concentrating deeply.
-{1} is concentrating deeply.
+{1} está em profunda concentração.
 {1} faced {2} and nodded.
-{1} faced {2} and nodded.
+{1} olha para {2} e acena a cabeça.
 {1} is glaring straight into {2}'s eyes.
-{1} is glaring straight into {2}'s eyes.
+{1} está olhando diretamente para os olhos de {2}.
 {1} is surveying the area.
-{1} is surveying the area.
+{1} está investigando o ambiente.
 {1} focused with a sharp gaze!
-{1} focused with a sharp gaze!
+{1} está focado(a) com um olhar penetrante!
 {1} is looking around absentmindedly.
-{1} is looking around absentmindedly.
+{1} está distraidamente olhando ao redor.
 {1} yawned very loudly!
-{1} yawned very loudly!
+{1} bocejou bem alto!
 {1} is relaxing comfortably.
-{1} is relaxing comfortably.
+{1} está relaxando confortavelmente.
 {1} is focusing its attention on {2}.
-{1} is focusing its attention on {2}.
+{1} foca sua atenção em {2}.
 {1} is staring intently at nothing.
-{1} is staring intently at nothing.
+{1} encara o nada fixamente.
 {1} is concentrating.
-{1} is concentrating.
+{1} está se concentrando.
 {1} is looking at {2}'s footprints.
-{1} is looking at {2}'s footprints.
+{1} está observando as pegadasa de {2}.
 {1} seems to want to play and is gazing at {2} expectedly.
-{1} seems to want to play and is gazing at {2} expectedly.
+{1} parece querer brincar e está olhando para {2} com expectativa.
 {1} seems to be thinking deeply about something.
-{1} seems to be thinking deeply about something.
+{1} parece estar pensando profundamente sobre alguma coisa.
 {1} isn't paying attention to {2}...Seems it's thinking about something else.
-{1} isn't paying attention to {2}...Seems it's thinking about something else.
+{1} não está prestando atenção em {2}...Parece estar pensando em outra coisa.
 {1} seems to be feeling serious.
-{1} seems to be feeling serious.
+{1} parece estar se sentindo sério(a).
 {1} seems disinterested.
-{1} seems disinterested.
+{1} parecesintere desinteressado(a).
 {1}'s mind seems to be elsewhere.
-{1}'s mind seems to be elsewhere.
+A mente de {1} parece estar em outro lugar.
 {1} seems to be observing the surroundings instead of watching {2}.
-{1} seems to be observing the surroundings instead of watching {2}.
+{1} parece estar observando as redondezas ao invés de olhar para {2}.
 {1} looks a bit bored.
-{1} looks a bit bored.
+{1} parece estar um pouco entediado(a).
 {1} has an intense look on its face.
-{1} has an intense look on its face.
+{1} tem um olhar intenso em seu rosto.
 {1} is staring off into the distance.
-{1} is staring off into the distance.
+{1} está olhando para o horizonte.
 {1} seems to be carefully examining {2}'s face.
-{1} seems to be carefully examining {2}'s face.
+{1} parece cuidadosamente examinar o rosto de {2}.
 {1} seems to be trying to communicate with its eye(s).
-{1} seems to be trying to communicate with its eye(s).
+{1} parece estar tentando se comunicar com seu(s) olho(s).
 ...{1} seems to have sneezed!
-...{1} seems to have sneezed!
+...{1} parece ter espirrado!
 ...{1} noticed that {2}'s shoes are a bit dirty.
-...{1} noticed that {2}'s shoes are a bit dirty.
+...{1} percebeu que os sapatos de {2} estão um pouco sujos.
 Seems {1} ate something strange, it's making an odd face...
-Seems {1} ate something strange, it's making an odd face...
+Parece que {1} comeu alguma coisa esquisita e está fazendo uma cara estranha...
 {1} seems to be smelling something good.
-{1} seems to be smelling something good.
+Parece que {1} farejou alguma coisa cheirosa.
 {1} noticed that {2}' Bag has a little dirt on it...
-{1} noticed that {2}' Bag has a little dirt on it...
+{1} percebeu que a Mochila de {2} está um pouco suja...
 ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... {1} silently nodded!
-...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... {1} silently nodded!
+...... ...... ...... ...... ...... ...... ...... ...... ...... ...... ...... {1} silenciosamente acena com a cabeça!
 {1} began poking {2}.
-{1} began poking {2}.
+{1} começou a cutucar {2}.
 {1} looks very happy.
-{1} looks very happy.
+{1} parece muito feliz.
 {1} happily cuddled up to {2}.
-{1} happily cuddled up to {2}.
+{1} alegremente se aconchega a {2}.
 {1} is so happy that it can't stand still.
-{1} is so happy that it can't stand still.
+{1} está tão contente que mal consegue ficar parado(a).
 {1} looks like it wants to lead!
-{1} looks like it wants to lead!
+{1} parece querer assumir a liderança!
 {1} is coming along happily.
-{1} is coming along happily.
+{1} te segue alegremente.
 {1} seems to be feeling great about walking with {2}!
-{1} seems to be feeling great about walking with {2}!
+{1} parece gostar muito de estar caminhando junto a {2}!
 {1} is glowing with health.
-{1} is glowing with health.
+{1} está irradiando saúde.
 {1} put in extra effort just for {2}!
-{1} put in extra effort just for {2}!
+{1} se esforça um pouquinho mais só para {2}!
 {1} is smelling the scents of the surrounding air.
-{1} is smelling the scents of the surrounding air.
+{1} sente os aromas que a brisa carrega.
 {1} is jumping with joy!
-{1} is jumping with joy!
+{1} está pulando de felicidade!
 {1} is still feeling great!
-{1} is still feeling great!
+{1} ainda se sente ótimo(a)!
 {1} stretched out its body and is relaxing.
-{1} stretched out its body and is relaxing.
+{1} esticou seu corpo e está relaxando.
 {1} is doing its best to keep up with {2}.
-{1} is doing its best to keep up with {2}.
+{1} está fazendo seu melhor para acompanhar {2}.
 {1} is happily cuddling up to {2}!
-{1} is happily cuddling up to {2}!
+{1} está alegremente aconchegado(a) a {2}!
 {1} is full of energy!
-{1} is full of energy!
+{1} está cheio(a) de energia!
 {1} is so happy that it can't stand still!
-{1} is so happy that it can't stand still!
+{1} está tão contente que mal consegue ficar parado(a).
 {1} gives {2} a happy look and a smile.
-{1} gives {2} a happy look and a smile.
+{1} dá a {2} um olhar alegre e um sorriso.
 {1} started breathing roughly through its nose in excitement!
-{1} started breathing roughly through its nose in excitement!
+Tomado pela empolgação, {1} começou a respirar alto pelo seu nariz!
 {1} is trembling with eagerness!
-{1} is trembling with eagerness!
+{1} está tremendo de inquietação!
 {1} is so happy, it started rolling around.
-{1} is so happy, it started rolling around.
+{1} está tão feliz que começou a rolar por aí.
 {1} looks thrilled at getting attention from {2}.
-{1} looks thrilled at getting attention from {2}.
+{1} parece admirado em ter um pouco da atenção de {2}.
 {1} seems very pleased that {2} is noticing it!
-{1} seems very pleased that {2} is noticing it!
+{1} parece muito contente que {2} o(a) está notando!
 {1} started wriggling its entire body with excitement!
-{1} started wriggling its entire body with excitement!
+{1} começou a contorcer o corpo inteiro de tanta empolgação!
 It seems like {1} can barely keep itself from hugging {2}!
-It seems like {1} can barely keep itself from hugging {2}!
+Parece que {1} mal consegue conter sua vontade de abraçar {2}!
 {1} is keeping close to {2}'s feet.
-{1} is keeping close to {2}'s feet.
+{1} está perto dos pés de {2}.
 {1} suddenly started walking closer to {2}.
-{1} suddenly started walking closer to {2}.
+{1} de repente começa a andar mais perto de {2}.
 Woah! {1} suddenly hugged {2}.
-Woah! {1} suddenly hugged {2}.
+Eita! {1} de repente abraçou {2}.
 {1} is rubbing up against {2}.
-{1} is rubbing up against {2}.
+{1} está se esfregando em {2}.
 {1} is keeping close to {2}.
-{1} is keeping close to {2}.
+{1} está pertinho de {2}.
 {1} blushed.
-{1} blushed.
+{1} ficou vermelho(a).
 {1} loves spending time with {2}!
-{1} loves spending time with {2}!
+{1} ama passar tempo com {2}!
 {1} is suddenly playful!
-{1} is suddenly playful!
+{1} de repente ficou brincalhão(ona)!
 {1} is rubbing against {2}'s legs!
-{1} is rubbing against {2}'s legs!
+{1} está se esfregando nas pernas de {2}!
 {1} is regarding {2} with adoration!
-{1} is regarding {2} with adoration!
+{1} está olhando para {2} com adoração!
 {1} seems to want some affection from {2}.
-{1} seems to want some affection from {2}.
+{1} parece querer um pouco do afeto de {2}.
 {1} seems to want some attention from {2}.
-{1} seems to want some attention from {2}.
+{1} parece querer um pouco do afeto de {2}.
 {1} seems happy travelling with {2}.
-{1} seems happy travelling with {2}.
+{1} parece feliz em viajar com {2}.
 {1} seems to be feeling affectionate towards {2}.
-{1} seems to be feeling affectionate towards {2}.
+{1} parece parece estar se sentindo afetuoso(a) com {2}.
 {1} is looking at {2} with loving eyes.
-{1} is looking at {2} with loving eyes.
+{1} olha para {2} com um olhar amoroso.
 {1} looks like it wants a treat from {2}.
-{1} looks like it wants a treat from {2}.
+{1} parece querer que {2} lhe dê um petisco.
 {1} looks like it wants {2} to pet it!
-{1} looks like it wants {2} to pet it!
+{1} parece querer que {2} lhe dê carinho!
 {1} is rubbing itself against {2} affectionately.
-{1} is rubbing itself against {2} affectionately.
+{1} está afetuosamente se esfregando em {2}.
 {1} bumps its head gently against {2}'s hand.
-{1} bumps its head gently against {2}'s hand.
+{1} gentilmente encosta sua cabeça na mão de {2].
 {1} rolls over and looks at {2} expectantly.
-{1} rolls over and looks at {2} expectantly.
+{1} rola no chão e olha para {2} com expectativa.
 {1} is looking at {2} with trusting eyes.
-{1} is looking at {2} with trusting eyes.
+{1} está olhando confiantemente para {2}.
 {1} seems to be begging {2} for some affection!
-{1} seems to be begging {2} for some affection!
+{1} parece estar pedindo um pouco do afeto de {2}!
 {1} mimicked {2}!
-{1} mimicked {2}!
+{1} imitou {2}!
 {1} spun around in a circle!
-{1} spun around in a circle!
+{1} girou no lugar!
 {1} let out a battle cry.
-{1} let out a battle cry.
+{1} solta um grito de guerra.
 {1} is on the lookout!
-{1} is on the lookout!
+{1} está de olho!
 {1} is standing patiently.
-{1} is standing patiently.
+{1} está pacientemente parado(a).
 {1} is looking around restlessly.
-{1} is looking around restlessly.
+{1} olha ao redor incansavelmente.
 {1} is wandering around.
-{1} is wandering around.
+{1} está perambulando por aí.
 {1} yawned loudly!
-{1} yawned loudly!
+{1} boceja alto!
 {1} is steadily poking at the ground around {2}'s feet.
-{1} is steadily poking at the ground around {2}'s feet.
+{1} está constantemente cutucando o chão ao redor dos pés de {2}.
 {1} is looking at {2} and smiling.
-{1} is looking at {2} and smiling.
+{1} está olhando para {2} e sorrindo.
 {1} is staring intently into the distance.
-{1} is staring intently into the distance.
+{1} está encarando fixamente o horizonte.
 {1} is keeping up with {2}.
-{1} is keeping up with {2}.
+{1} está acompanhando {2}.
 {1} looks pleased with itself.
-{1} looks pleased with itself.
+{1} parece estar se divertindo.
 {1} is still going strong!
-{1} is still going strong!
+{1} está firme e forte!
 {1} is walking in sync with {2}.
-{1} is walking in sync with {2}.
+{1} está andando em sincronia com {2}.
 {1} started spinning around in circles.
-{1} started spinning around in circles.
+{1} começou a girar no lugar.
 {1} looks at {2} with anticipation.
-{1} looks at {2} with anticipation.
+{1} olha para {2} com antecipação.
 {1} fell down and looks a little embarrassed.
-{1} fell down and looks a little embarrassed.
+{1} acabou caindo no chão e parece um pouco envergonhado(a).
 {1} is waiting to see what {2} will do.
-{1} is waiting to see what {2} will do.
+{1} está aguardando para ver o que {2} vai fazer.
 {1} is calmly watching {2}.
-{1} is calmly watching {2}.
+{1} está calmamente observando {2}.
 {1} is looking to {2} for some kind of cue.
-{1} is looking to {2} for some kind of cue.
+{1} está olhando para {2} em busca de algum tipo de sinal.
 {1} is staying in place, waiting for {2} to make a move.
-{1} is staying in place, waiting for {2} to make a move.
+{1} está parado(a) no lugar, esperando {2} se mover.
 {1} obediently sat down at {2}'s feet.
-{1} obediently sat down at {2}'s feet.
+{1} obedientemente sentou-se aos pés de {2}.
 {1} jumped in surprise!
-{1} jumped in surprise!
+{1} pulou de surpresa!
 {1} jumped a little!
-{1} jumped a little!
+{1} pulou um pouquinho!
 \me[{1}]{3} found some \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]{3} encontrou algumas \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]{4} found \c[1]{2} {3}\c[0]!\wtnp[30]
