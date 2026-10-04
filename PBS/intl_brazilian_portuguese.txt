@@ -9716,7 +9716,7 @@ Skipping Tamarind cutscene.
 Morning, \PN, I'm <imp>Professor Tamarind</imp>.
 Bom dia, \PN, eu sou a <imp>Professora Tamarind</imp>.
 I'd say "welcome to Makya!", but that's not really why you're here.
-Eu diria "bem vindo a Makya!", mas não é pra isso que você tá aqui.
+Eu diria "boas-vindas a Makya!", mas não é pra isso que você tá aqui.
 C'mon. Let's get you set up.
 Vem. Vamos aprontar as coisas pra você.
 Looks like we’re both moving on. Don’t worry, I’m not coming with you.
