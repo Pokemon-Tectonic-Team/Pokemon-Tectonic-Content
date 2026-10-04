@@ -61337,317 +61337,317 @@ To ensure that the changes remain, close and reopen RPG Maker XP.
 Set the terrain tag.
 Set the terrain tag.
 {1} is suffering the effects of being poisoned.
-{1} is suffering the effects of being poisoned.
+{1} está sofrendo os efeitos de seu envenenamento.
 {1}'s burn looks painful.
-{1}'s burn looks painful.
+As queimaduras de {1} parecem dolorosas.
 {1}'s frostbite looks painful.
-{1}'s frostbite looks painful.
+{1} parece estar com muito frio.
 {1} seems really tired.
-{1} seems really tired.
+{1} parece muito cansado(a).
 {1} is standing still and twitching.
-{1} is standing still and twitching.
+{1} está imóvel e ocasionalmente tendo espasmos.
 {1} looks dazed and confused.
-{1} looks dazed and confused.
+{1} parece atordoado(a) e confuso(a).
 {1}'s energy is slowly being leeched away.
-{1}'s energy is slowly being leeched away.
+A energia de {1} está lentamente sendo suguada.
 {1} is soaked through.
-{1} is soaked through.
+{1} está enxarcado(a).
 lab
-lab
+laboratório
 {1} is touching some kind of switch.
-{1} is touching some kind of switch.
+{1} está tocando algum tipo de interruptor.
 {1} has a cord in its mouth!
-{1} has a cord in its mouth!
+{1} tem um cabo em sua boca!
 {1} seems to want to touch the machinery.
-{1} seems to want to touch the machinery.
+{1} parece querer tocar no maquinário.
 {1} is sniffing around the room.
-{1} is sniffing around the room.
+{1} está farejando pelo ambiente.
 {1} noticed {2}'s mom is nearby.
-{1} noticed {2}'s mom is nearby.
+{1} percebeu que a mãe de {2} está por perto.
 {1} seems to want to settle down at home.
-{1} seems to want to settle down at home.
+{1} parece querer ficar em casa.
 center
-center
+centro
 {1} looks happy to see the nurse.
-{1} looks happy to see the nurse.
+{1} parece feliz em ver a enfermeira.
 {1} looks a little better just being in the Pokémon Center.
-{1} looks a little better just being in the Pokémon Center.
+{1} parece um pouco melhor só de estar no Centro Pokémon.
 {1} seems fascinated by the healing machinery.
-{1} seems fascinated by the healing machinery.
+{1} parece estar fascinado(a) pelo maquinário de enfermagem.
 {1} looks like it wants to take a nap.
-{1} looks like it wants to take a nap.
+{1} parece querer tirar uma sonequinha.
 {1} chirped a greeting at the nurse.
-{1} chirped a greeting at the nurse.
+{1} comprimenta a enfermeira com um som alegre.
 {1} is watching {2} with a playful gaze.
-{1} is watching {2} with a playful gaze.
+{1} observa {2} com um olhar brincalhão.
 {1} seems to be completely at ease.
-{1} seems to be completely at ease.
+{1} parece estar completamente à vontade.
 {1} is making itself comfortable.
-{1} is making itself comfortable.
+{1} está se acomodando.
 There's a content expression on {1}'s face.
-There's a content expression on {1}'s face.
+Há uma expressão contente no rosto de {1}.
 forest
-forest
+floresta
 {1} seems highly interested in the trees.
-{1} seems highly interested in the trees.
+{1} parece ter muito interesse nas árvores.
 {1} seems to enjoy the buzzing of the bug Pokémon.
-{1} seems to enjoy the buzzing of the bug Pokémon.
+{1} parece gostar do zumbido dos Pokémon inseto.
 {1} is jumping around restlessly in the forest.
-{1} is jumping around restlessly in the forest.
+{1} está pulando incansavelmente pela floresta.
 {1} is wandering around and listening to the different sounds.
-{1} is wandering around and listening to the different sounds.
+{1} está perambulando por aí e ouvindo os diferentes sons.
 {1} is munching at the grass.
-{1} is munching at the grass.
+{1} está mastigando a grama.
 {1} is wandering around and enjoying the forest scenery.
-{1} is wandering around and enjoying the forest scenery.
+{1} está perambulando por aí e curtindo o ambiente da floresta.
 {1} is playing around, plucking bits of grass.
-{1} is playing around, plucking bits of grass.
+{1} está brincando, arrancando pedacinhos de grama.
 {1} is staring at the light coming through the trees.
-{1} is staring at the light coming through the trees.
+{1} está observando a luz que atravessa as árvores.
 {1} is playing around with a leaf!
-{1} is playing around with a leaf!
+{1} está brincando com uma folha!
 {1} seems to be listening to the sound of rustling leaves.
-{1} seems to be listening to the sound of rustling leaves.
+{1} parece estar escutando o som de folhas farfalhando.
 {1} is standing perfectly still and might be imitating a tree...
-{1} is standing perfectly still and might be imitating a tree...
+{1} está perfeitamente imóvel. Provavelmente está imitando uma árvore...
 {1} got tangled in the branches and almost fell down!
-{1} got tangled in the branches and almost fell down!
+{1} se embananou no meio dos galhos e quase caiu no chão!
 {1} was surprised when it got hit by a branch!
-{1} was surprised when it got hit by a branch!
+{1} foi surpreendido(a) quando foi atingido(a) por um galho !
 gym
-gym
+ginásio
 {1} looks eager to battle!
-{1} looks eager to battle!
+{1} parece pronto(a) para batalhar!
 {1} is looking at {2} with a determined gleam in its eye.
-{1} is looking at {2} with a determined gleam in its eye.
+{1} está olhando para {2} com um brilho determinado em seus olhos.
 {1} is trying to intimidate the other trainers.
-{1} is trying to intimidate the other trainers.
+{1} está tentando intimidar os outros treinadores.
 {1} trusts {2} to come up with a winning strategy.
-{1} trusts {2} to come up with a winning strategy.
+{1} confia que {2} tem um bom plano para vencer.
 {1} is keeping an eye on the gym leader.
-{1} is keeping an eye on the gym leader.
+{1} está vigiando o(a) líder de ginásio.
 {1} is ready to pick a fight with someone.
-{1} is ready to pick a fight with someone.
+{1} está pronto(a) para arranjar briga com alguém.
 {1} looks like it might be preparing for a big showdown!
-{1} looks like it might be preparing for a big showdown!
+{1} parece estar se preparando para um grande confronto!
 {1} wants to show off how strong it is!
-{1} wants to show off how strong it is!
+{1} quer mostrar quão forte é!
 {1} is...doing warm-up exercises?
-{1} is...doing warm-up exercises?
+{1} está...se aquecendo?
 {1} is growling quietly in contemplation...
-{1} is growling quietly in contemplation...
+{1} está rosnando baixinho contemplativamente...
 beach
-beach
+praia
 {1} seems to be enjoying the scenery.
-{1} seems to be enjoying the scenery.
+{1} parece admirar a paisagem.
 {1} seems to enjoy the sound of the waves moving the sand.
-{1} seems to enjoy the sound of the waves moving the sand.
+{1} parece gostar do som das ondas movendo a areia.
 {1} looks like it wants to swim!
-{1} looks like it wants to swim!
+{1} parece querer nadar!
 {1} can barely look away from the ocean.
-{1} can barely look away from the ocean.
+{1} não consegue tirar os olhos do oceano.
 {1} is staring longingly at the water.
-{1} is staring longingly at the water.
+{1} está olhando ansiosamente para a água.
 {1} keeps trying to shove {2} towards the water.
-{1} keeps trying to shove {2} towards the water.
+{1} está tentando empurrar {2} pra água.
 {1} is excited to be looking at the sea!
-{1} is excited to be looking at the sea!
+{1} está feliz em ver o oceano!
 {1} is happily watching the waves!
-{1} is happily watching the waves!
+{1} está alegremente observando as ondas!
 {1} is playing on the sand!
-{1} is playing on the sand!
+{1} está brincando na areia!
 {1} is staring at {2}'s footprints in the sand.
-{1} is staring at {2}'s footprints in the sand.
+{1} está olhando as pegadas de {2} na areia.
 {1} is rolling around in the sand.
-{1} is rolling around in the sand.
+{1} está rolando na areia.
 {1} seems to be enjoying the weather.
-{1} seems to be enjoying the weather.
+{1} parece estar gostando do tempo.
 {1} seems to be happy about the rain!
-{1} seems to be happy about the rain!
+{1} parece feliz com a chuva!
 {1} seems to be very surprised that it’s raining!
-{1} seems to be very surprised that it’s raining!
+{1} parece estar muito surpreso(a) que está chovendo!
 {1} beamed happily at {2}!
-{1} beamed happily at {2}!
+{1} sorri alegremente para {2}!
 {1} is gazing up at the rainclouds.
-{1} is gazing up at the rainclouds.
+{1} está olhando para as nuvens de chuva.
 Raindrops keep falling on {1}.
-Raindrops keep falling on {1}.
+Gotas de chuva estão caindo em {1}.
 {1} is looking up with its mouth gaping open.
-{1} is looking up with its mouth gaping open.
+{1} está olhando pro céu com sua boca completamente aberta.
 {1} seems very upset by the weather.
-{1} seems very upset by the weather.
+{1} parece incomodado(a) com o tempo.
 {1} is shivering...
-{1} is shivering...
+{1} está tremendo...
 {1} doesn’t seem to like being all wet...
-{1} doesn’t seem to like being all wet...
+{1} não parece gostar de se molhar...
 {1} keeps trying to shake itself dry...
-{1} keeps trying to shake itself dry...
+{1} não para de tentar se sacudir para se secar...
 {1} moved closer to {2} for comfort.
-{1} moved closer to {2} for comfort.
+{1} se moveu para mais perto de {2} em busca de conforto.
 {1} is looking up at the sky and scowling.
-{1} is looking up at the sky and scowling.
+{1} está olhando pro céu com uma cara rabugenta.
 {1} seems to be having difficulty moving its body.
-{1} seems to be having difficulty moving its body.
+{1} parece estar tendo dificuldades para mover seu corpo.
 {1} is staring up at the sky.
-{1} is staring up at the sky.
+{1} está olhando pro céu.
 {1} looks a bit surprised to see rain.
-{1} looks a bit surprised to see rain.
+{1} parece um pouco surpreso(a) com a chuva.
 {1} keeps trying to shake itself dry.
-{1} keeps trying to shake itself dry.
+{1} não para de tentar se sacudir para se secar...
 The rain doesn't seem to bother {1} much.
-The rain doesn't seem to bother {1} much.
+A chuva não parece incomodar {1} tanto.
 {1} is playing in a puddle!
-{1} is playing in a puddle!
+{1} está brincando em uma poça!
 {1} is slipping in the water and almost fell over!
-{1} is slipping in the water and almost fell over!
+{1} está escorregando na água e quase caiu no chão!
 The storm seems to be making {1} excited.
-The storm seems to be making {1} excited.
+O temporal parece estar alegrando {1}.
 {1} looked up at the sky and shouted loudly!
-{1} looked up at the sky and shouted loudly!
+{1} olhou para o céu e gritou bem alto!
 The storm only seems to be energizing {1}!
-The storm only seems to be energizing {1}!
+A tempestade parece apenas energizar {1}!
 {1} is happily zapping and jumping in circles!
-{1} is happily zapping and jumping in circles!
+{1} está alegremente saltitando em círculos!
 The lightning doesn't bother {1} at all.
-The lightning doesn't bother {1} at all.
+Os raios não parecem incomodar {1} nem um pouco.
 The storm seems to be making {1} a bit nervous.
-The storm seems to be making {1} a bit nervous.
+A tempestade parece estar deixando {1} um pouco nervoso(a).
 The lightning startled {1}!
-The lightning startled {1}!
+Um raio assustou {1}!
 The weather seems to be putting {1} on edge.
-The weather seems to be putting {1} on edge.
+O tempo parece estar deixando {1} tenso(a).
 {1} was startled by the lightning and snuggled up to {2}!
-{1} was startled by the lightning and snuggled up to {2}!
+{1} se assustou com um raio e se aconchegou em {2}!
 {1} is watching the snow fall.
-{1} is watching the snow fall.
+{1} está observando a neve cair.
 {1} is thrilled by the snow!
-{1} is thrilled by the snow!
+{1} está admirado(a) pela neve!
 {1} is staring up at the sky with a smile.
-{1} is staring up at the sky with a smile.
+{1} olha pro céu com um sorriso.
 The snow seems to have put {1} in a good mood.
-The snow seems to have put {1} in a good mood.
+A neve parece ter deixado {1} de bom humor.
 {1} is cheerful because of the cold!
-{1} is cheerful because of the cold!
+{1} está contente por causa do frio!
 {1} is nipping at the falling snowflakes.
-{1} is nipping at the falling snowflakes.
+{1} está mordiscando os flocos de neve que caem.
 {1} wants to catch a snowflake in its mouth.
-{1} wants to catch a snowflake in its mouth.
+{1} quer pegar um floco de neve com a boca.
 {1} is fascinated by the snow.
-{1} is fascinated by the snow.
+{1} está fascinado(a) pela neve.
 {1}'s teeth are chattering!
-{1}'s teeth are chattering!
+Os dentes de {1} estão batendo!
 {1} made its body slightly smaller because of the cold...
-{1} made its body slightly smaller because of the cold...
+{1} encolheu seu corpo por causa do frio...
 {1} is watching the hail fall.
-{1} is watching the hail fall.
+{1} está observando o granizo cair.
 {1} isn't bothered at all by the hail.
-{1} isn't bothered at all by the hail.
+{1} não parece se incomodar nem um pouco com o granizo.
 The hail seems to have put {1} in a good mood.
-The hail seems to have put {1} in a good mood.
+O granizo parece ter deixado {1} de bom humor.
 {1} is gnawing on a piece of hailstone.
-{1} is gnawing on a piece of hailstone.
+{1} está roendo um pedaço de granizo.
 {1} is coated in ice, but doesn't seem to mind.
-{1} is coated in ice, but doesn't seem to mind.
+{1} está coberto(a) de gelo, mas não parece se importar.
 {1} seems unbothered by the frost.
-{1} seems unbothered by the frost.
+{1} parece indiferente ao frio.
 The hail doesn't slow {1} down.
-The hail doesn't slow {1} down.
+O granizo não parece atrapalhar {1}.
 {1} doesn't seem to mind the weather.
-{1} doesn't seem to mind the weather.
+{1} não parece se importar com o tempo.
 {1} is getting pelted by hail!
-{1} is getting pelted by hail!
+{1} está sendo atingido(a) pelo granizo!
 {1} wants to avoid the hail.
-{1} wants to avoid the hail.
+{1} quer evitar o granizo.
 The hail is hitting {1} painfully.
-The hail is hitting {1} painfully.
+O granizo está dolorosamente atingindo {1}.
 {1} looks unhappy.
-{1} looks unhappy.
+{1} parece insatisfeito(a).
 {1} is shaking like a leaf!
-{1} is shaking like a leaf!
+{1} está tremendo como uma folha!
 {1} is coated in sand.
-{1} is coated in sand.
+{1} está coberto(a) de areia.
 The weather doesn't seem to bother {1} at all!
-The weather doesn't seem to bother {1} at all!
+O tempo não parece incomodar {1} nem um pouco!
 The sand can't slow {1} down!
-The sand can't slow {1} down!
+A areia não parece atrapalhar {1}!
 {1} is enjoying the weather.
-{1} is enjoying the weather.
+{1} está gostando do tempo.
 {1} is coated in sand, but doesn't seem to mind.
-{1} is coated in sand, but doesn't seem to mind.
+{1} está coberto(a) de areia, mas não parece se importar.
 {1} seems unbothered by the sandstorm.
-{1} seems unbothered by the sandstorm.
+{1} parece indiferente à tempestade de areia.
 The sand doesn't slow {1} down.
-The sand doesn't slow {1} down.
+A areia não atrapalha {1}.
 {1} is covered in sand...
-{1} is covered in sand...
+{1} está coberto(a) de areia...
 {1} spat out a mouthful of sand!
-{1} spat out a mouthful of sand!
+{1} está cuspindo areia!
 {1} is squinting through the sandstorm.
-{1} is squinting through the sandstorm.
+{1} está apertando os olhos para ver melhor através da tempestade de areia.
 The sand seems to be bothering {1}.
-The sand seems to be bothering {1}.
+A areia parece estar incomodando {1}.
 {1} seems pleased to be out in the sunshine.
-{1} seems pleased to be out in the sunshine.
+{1} parece satisfeito(a) por estar sob a luz do sol.
 {1} is soaking up the sunshine.
-{1} is soaking up the sunshine.
+{1} está absorvendo a luz solar.
 The bright sunlight doesn't seem to bother {1} at all.
-The bright sunlight doesn't seem to bother {1} at all.
+A luz solar intensa não parece incomodar {1} nem um pouco.
 {1} sent a ring-shaped cloud of spores into the air!
-{1} sent a ring-shaped cloud of spores into the air!
+{1} lançou uma nuvem de esporos em forma de anel ao ar!
 {1} is stretching out its body and is relaxing in the sunshine.
-{1} is stretching out its body and is relaxing in the sunshine.
+{1} está esticando seu corpo e relaxando sob a luz solar.
 {1} is giving off a floral scent.
-{1} is giving off a floral scent.
+{1} está com um cheiro floral.
 {1} seems to be happy about the great weather!
-{1} seems to be happy about the great weather!
+{1} parece feliz por causa do ótimo tempo!
 {1} looks thrilled by the sunshine!
-{1} looks thrilled by the sunshine!
+{1} parece admirado(a) pela luz solar!
 {1} blew out a fireball.
-{1} blew out a fireball.
+{1} cuspiu uma bola de fogo.
 {1} is breathing out fire!
-{1} is breathing out fire!
+{1} está cuspindo fogo!
 {1} is hot and cheerful!
-{1} is hot and cheerful!
+{1} está quente e contente!
 {1} is glaring up at the sky.
-{1} is glaring up at the sky.
+{1} está encarando os céus.
 {1} seems personally offended by the sunshine.
-{1} seems personally offended by the sunshine.
+{1} parece sentir-se pessoalmente ofendido(a) pela luz solar.
 The bright sunshine seems to bothering {1}.
-The bright sunshine seems to bothering {1}.
+A luz solar intensa parece incomodar {1}.
 {1} looks upset for some reason.
-{1} looks upset for some reason.
+{1} parece incomodado(a) por algum motivo.
 {1} is trying to stay in {2}'s shadow.
-{1} is trying to stay in {2}'s shadow.
+{1} está tentando ficar na sombra de {2}.
 {1} keeps looking for shelter from the sunlight.
-{1} keeps looking for shelter from the sunlight.
+{1} parece procurar um abrigo contra a luz solar.
 {1} is squinting in the bright sunshine.
-{1} is squinting in the bright sunshine.
+{1} está apertando os olhos para ver melhor através da luz solar intensa.
 {1} is starting to sweat.
-{1} is starting to sweat.
+{1} está começando a suar.
 {1} seems a little uncomfortable in this weather.
-{1} seems a little uncomfortable in this weather.
+{1} parece estar um pouco desconfortável com este tempo.
 {1} looks a little overheated.
-{1} looks a little overheated.
+{1} parece um pouco superaquecido(a).
 {1} seems very hot...
-{1} seems very hot...
+{1} parece estar com muito calor...
 {1} shielded its vision against the sparkling light!
-{1} shielded its vision against the sparkling light!
+{1} protegeu sua visão contra a luz cegante!
 {1} seems to want to play with {2}.
-{1} seems to want to play with {2}.
+{1} parece querer brincar com {2}.
 {1} is singing and humming.
-{1} is singing and humming.
+{1} está cantando e cantarolando.
 {1} is looking up at {2} with a happy expression.
-{1} is looking up at {2} with a happy expression.
+{1} está olhando para {2} com uma expressão alegre.
 {1} swayed and danced around as it pleased.
-{1} swayed and danced around as it pleased.
+{1} se balança e dança livremente.
 {1} is jumping around in a carefree way!
-{1} is jumping around in a carefree way!
+{1} está saltitando de um jeito despreocupado!
 {1} is showing off its agility!
-{1} is showing off its agility!
+{1} está exibindo sua agilidade!
 {1} is moving around happily!
-{1} is moving around happily!
+{1} está perambulando alegremente!
 Whoa! {1} suddenly started dancing in happiness!
-Whoa! {1} suddenly started dancing in happiness!
+Eita! {1} repentinamente começou a dançar de felicidade!
 {1} is steadily keeping up with {2}!
 {1} is steadily keeping up with {2}!
 {1} is happy skipping about.
