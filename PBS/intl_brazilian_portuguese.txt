@@ -4184,8 +4184,6 @@ Empty bottles of seltzer water.
 Garrafas vazias de água com gás.
 [Map46]
 [Map47]
-Aromatic flowers from other regions.
-Aromatic flowers from other regions.
 I found some of these token things in my room.
 I found some of these token things in my room.
 Now I'm foreign to Makya, but I can tell when I've got something valuable.
@@ -4214,30 +4212,30 @@ You ready to pick one of these?
 You ready to pick one of these?
 Did ya find any use for that token?
 Did ya find any use for that token?
+Aromatic flowers from other regions.
+Aromatic flowers from other regions.
 Photobooks of some of the greatest views in Makya.
 Photobooks of some of the greatest views in Makya.
 The one on the cover is near Whitebloom Town.
 The one on the cover is near Whitebloom Town.
+A news program is airing which claims to prove that the Avatar crisis was only possible because of slipping education standards.
+A news program is airing which claims to prove that the Avatar crisis was only possible because of slipping education standards.
+You don't really understand the connection.
+You don't really understand the connection.
 Hiking in Makya has a certain charm.
 Hiking in Makya has a certain charm.
 The region's development is new--not too new, but new enough.
 The region's development is new--not too new, but new enough.
 There's many spots of beautiful wilderness left to explore.
 There's many spots of beautiful wilderness left to explore.
-A news program is airing which claims to prove that the Avatar crisis was only possible because of slipping education standards.
-A news program is airing which claims to prove that the Avatar crisis was only possible because of slipping education standards.
-You don't really understand the connection.
-You don't really understand the connection.
+You shouldn't be talking to a door now.
+You shouldn't be talking to a door now.
 You grab a book on the history of Prizca and open to a random page.
 You grab a book on the history of Prizca and open to a random page.
 "The Defenestration of Prizca is a well-known event where a politician was shoved through a second floor window of Prizca Castle."
 "The Defenestration of Prizca is a well-known event where a politician was shoved through a second floor window of Prizca Castle."
 "The lesser-known Refenestration of Prizca was when his partner Pokémon used Bounce to send him back in."
 "The lesser-known Refenestration of Prizca was when his partner Pokémon used Bounce to send him back in."
-You shouldn't be talking to a door now.
-You shouldn't be talking to a door now.
-An atlas of Makya sits on top of brochures for river cruises in other regions.
-An atlas of Makya sits on top of brochures for river cruises in other regions.
 My parents are going to kill me.
 My parents are going to kill me.
 I brought back a non-native Pokemon from my trip to Unova.
@@ -4264,10 +4262,12 @@ Everyone I know is going wild over the Pokemon you traded me.
 Everyone I know is going wild over the Pokemon you traded me.
 I've got a whole 83 likes on my latest post.
 I've got a whole 83 likes on my latest post.
-"Rapidash, Zebstrika, and Mudsdale: Equine Symbolism and the First King"
-"Rapidash, Zebstrika, and Mudsdale: Equine Symbolism and the First King"
-Over half of this book is footnotes.
-Over half of this book is footnotes.
+An atlas of Makya sits on top of brochures for river cruises in other regions.
+An atlas of Makya sits on top of brochures for river cruises in other regions.
+Only registered guests can go beyond this point.
+Only registered guests can go beyond this point.
+You'll either have to make a reservation, or have a current guest invite you in.
+You'll either have to make a reservation, or have a current guest invite you in.
 During my illustrious sailing career, I conquered every sea of this wide world.
 During my illustrious sailing career, I conquered every sea of this wide world.
 With no challenges ahead of me, I began to grow bored.
@@ -4276,18 +4276,26 @@ I was suddenly struck by an idea--an ambitious journey through Makya's canals!
 I was suddenly struck by an idea--an ambitious journey through Makya's canals!
 I wasn't able to uh... complete my voyage, but I don't regret it one bit!
 I wasn't able to uh... complete my voyage, but I don't regret it one bit!
-Only registered guests can go beyond this point.
-Only registered guests can go beyond this point.
-You'll either have to make a reservation, or have a current guest invite you in.
-You'll either have to make a reservation, or have a current guest invite you in.
-A tasteful arrangement of white carnations and wildflowers.
-A tasteful arrangement of white carnations and wildflowers.
+"Rapidash, Zebstrika, and Mudsdale: Equine Symbolism and the First King"
+"Rapidash, Zebstrika, and Mudsdale: Equine Symbolism and the First King"
+Over half of this book is footnotes.
+Over half of this book is footnotes.
 Between you and me, working as a Team Chasm grunt was so much better than this job.
 Between you and me, working as a Team Chasm grunt was so much better than this job.
-Here I have to smile all the time and deal with upstuck customers.
-Here I have to smile all the time and deal with upstuck customers.
+Here I have to smile all the time and deal with stuck-up customers.
+Here I have to smile all the time and deal with stuck-up customers.
 Back then, I could just sic my Pokemon on anyone who didn't listen.
 Back then, I could just sic my Pokemon on anyone who didn't listen.
+A tasteful arrangement of white carnations and wildflowers.
+A tasteful arrangement of white carnations and wildflowers.
+Welcome!
+Welcome!
+We're at max capacity, unfortunately.
+We're at max capacity, unfortunately.
+I'm afraid you'll have to make a reservation.
+I'm afraid you'll have to make a reservation.
+Our earliest opening is in five months.
+Our earliest opening is in five months.
 "Tulumba and You!"
 "Tulumba and You!"
 "Must-Do Adventures in East Prizca"
@@ -4298,14 +4306,8 @@ Books for tourists.
 Books for tourists.
 ...you realize that you're included in this group.
 ...you realize that you're included in this group.
-Welcome!
-Welcome!
-We're at max capacity, unfortunately.
-We're at max capacity, unfortunately.
-I'm afraid you'll have to make a reservation.
-I'm afraid you'll have to make a reservation.
-Our earliest opening is in five months.
-Our earliest opening is in five months.
+A view of Prizca Castle from across the Eleig.
+A view of Prizca Castle from across the Eleig.
 Do you have an existing reservation?
 Do you have an existing reservation?
 Under the name...
@@ -4314,10 +4316,6 @@ Mavis?
 Mavis?
 No, I'm sorry. We don't seem to have that name in our system.
 No, I'm sorry. We don't seem to have that name in our system.
-A view of Prizca Castle from across the Eleig.
-A view of Prizca Castle from across the Eleig.
-A plaque claims that this clock is over 200 years old, and was relocated from Velenz shortly before the disaster.
-A plaque claims that this clock is over 200 years old, and was relocated from Velenz shortly before the disaster.
 You would think the Avatars would make Makya an awful vacation spot.
 You would think the Avatars would make Makya an awful vacation spot.
 For most, that would be true.
@@ -4326,6 +4324,8 @@ But Trainers across the world are flocking here in droves to take on the threat.
 But Trainers across the world are flocking here in droves to take on the threat.
 Most don't get very far, but it does keep the tourism industry afloat.
 Most don't get very far, but it does keep the tourism industry afloat.
+A plaque claims that this clock is over 200 years old, and was relocated from Velenz shortly before the disaster.
+A plaque claims that this clock is over 200 years old, and was relocated from Velenz shortly before the disaster.
 No.
 No.
 Yes.
@@ -4927,8 +4927,8 @@ We'd have to worry about Pokemon scalping.
 We'd have to worry about Pokemon scalping.
 I make sweets that get sold at the coffee shop. Business is slow, though, so I'm spending time here.
 I make sweets that get sold at the coffee shop.  Business is slow, though, so I'm spending time here.
-Would you like battle, kill some time with me?
-Would you like battle, kill some time with me?
+Would you like to battle, kill some time with me?
+Would you like to battle, kill some time with me?
 We can start whenever you are ready.
 We can start whenever you are ready.
 Shall we start?
@@ -5087,8 +5087,8 @@ Will you entertain an old man like me?
 Will you entertain an old man like me?
 I look forward to being able to battle another accomplished trainer.
 I look forward to being able to battle another accomplished trainer.
-I maybe old, but I'm still got fight in me yet.
-I maybe old, but I'm still got fight in me yet.
+I maybe old, but I've still got fight in me yet.
+I maybe old, but I've still got fight in me yet.
 Amazing! I haven't felt that enthralled since the Shuppet incident! You've done me a great favor.
 Amazing! I haven't felt that enthralled since the Shuppet incident! You've done me a great favor.
 More than you know. Much more than you know.
@@ -15737,10 +15737,6 @@ Doesn’t really make us even, but thanks.
 Doesn’t really make us even, but thanks.
 I need to get Phione somewhere safer, but I’ll see you. Thanks for everything.
 I need to get Phione somewhere safer, but I’ll see you. Thanks for everything.
-North: Cave of Hatching
-North: Cave of Hatching
-East: Frostflow Farms
-East: Frostflow Farms
 Have you seen my new avatar defense technique? Pokésand, go!
 Have you seen my new avatar defense technique? Pokésand, go!
 Hmm, back to the drawing board on this one.
@@ -15749,6 +15745,10 @@ The technique is for avatars, not Trainers. I can't expect it to work perfectly 
 The technique is for avatars, not Trainers. I can't expect it to work perfectly here.
 Huh? Weather wars? What's that?
 Huh? Weather wars? What's that?
+North: Cave of Hatching
+North: Cave of Hatching
+East: Frostflow Farms
+East: Frostflow Farms
 Hey! It's uh... the guy you saw near the Regice Chamber.
 Hey! It's uh... the guy you saw near the Regice Chamber.
 I think I got a decent understanding of what's happened to me.
@@ -15769,14 +15769,14 @@ That's a nice feeling, you know?
 That's a nice feeling, you know?
 How are you... here? This isn't even the right map... I don't actually exist. Sort of, at least... Please... don't cheat when we fight...
 How are you... here? This isn't even the right map... I don't actually exist. Sort of, at least...  Please... don't cheat when we fight...
-Stop that
-Stop that
 Sheeeeeeesh, let's get a looksie at this this little Trainer now!
 Sheeeeeeesh, let's get a looksie at this this little Trainer now!
 Well butter my butt and call me a biscuit, this here Trainer's got us slapped silly!
 Well butter my butt and call me a biscuit, this here Trainer's got us slapped silly!
 What a howdown from our Trainer friend here. Bet they got one o' those fancy candy thingamajigs.
 What a howdown from our Trainer friend here. Bet they got one o' those fancy candy thingamajigs.
+Stop that
+Stop that
 A Pokemon world, and within every battle, a world of struggle.
 A Pokemon world, and within every battle, a world of struggle.
 How much can I fit, into a haiku format? I'm running out of...
@@ -15787,12 +15787,14 @@ I write, erase, rewrite. Erase again, and then, my Ditto changes.
 I write, erase, rewrite. Erase again, and then, my Ditto changes.
 You can barely make out the outline of a cave entrance behind the waterfall.
 You can barely make out the outline of a cave entrance behind the waterfall.
-Well golly me we got a cheater! Looks like they did a little bit of hackerooni.
-Well golly me we got a cheater! Looks like they did a little bit of hackerooni.
-Well I ain't never seen a scrap like that since before my pa started herding Tauros with his bare hands.
-Well I ain't never seen a scrap like that since before my pa started herding Tauros with his bare hands.
-Real shame what happened to his favorite knee.
-Real shame what happened to his favorite knee.
+My Pokemon love the trees and grass. They also love battling!
+My Pokemon love the trees and grass. They also love battling!
+What's that, my Pokemon? You want to go to the pub?
+What's that, my Pokemon? You want to go to the pub?
+I have no choice, I must listen to them. Bye bye!
+I have no choice, I must listen to them. Bye bye!
+Good battling! You should fight my brother, too. He's all the way at the end of the river.
+Good battling! You should fight my brother, too. He's all the way at the end of the river.
 Heya, Trainer!
 Heya, Trainer!
 I heard that a Champion was going to be here, but I couldn't find them.
@@ -15813,20 +15815,12 @@ Maybe I'll get chocolate today...
 Maybe I'll get chocolate today...
 Haha, you're poor! That's really funny!
 Haha, you're poor! That's really funny!
-My Pokemon love the trees and grass. They also love battling!
-My Pokemon love the trees and grass. They also love battling!
-What's that, my Pokemon? You want to go to the pub?
-What's that, my Pokemon? You want to go to the pub?
-I have no choice, I must listen to them. Bye bye!
-I have no choice, I must listen to them. Bye bye!
-Good battling! You should fight my brother, too. He's all the way at the end of the river.
-Good battling! You should fight my brother, too. He's all the way at the end of the river.
-...
-...
-You're cheating, right?
-You're cheating, right?
-I'm just here to play my guitar. No idea who the other guy is...
-I'm just here to play my guitar. No idea who the other guy is...
+Well golly me we got a cheater! Looks like they did a little bit of hackerooni.
+Well golly me we got a cheater! Looks like they did a little bit of hackerooni.
+Well I ain't never seen a scrap like that since before my pa started herding Tauros with his bare hands.
+Well I ain't never seen a scrap like that since before my pa started herding Tauros with his bare hands.
+Real shame what happened to his favorite knee.
+Real shame what happened to his favorite knee.
 Welp, I'll have to abandon my Cave of Hatching visit...
 Welp, I'll have to abandon my Cave of Hatching visit...
 The entrance is blocked, and I stupidly didn't bring any climbing gear.
@@ -15837,6 +15831,12 @@ All I wanted was to experience the legend...
 All I wanted was to experience the legend...
 Take this item, I'm clearly not worthy of it...
 Take this item, I'm clearly not worthy of it...
+...
+...
+You're cheating, right?
+You're cheating, right?
+I'm just here to play my guitar. No idea who the other guy is...
+I'm just here to play my guitar. No idea who the other guy is...
 It was an avatar.
 It was an avatar.
 You're here?
@@ -18376,6 +18376,8 @@ You might be able to take a shot at a little problem of mine.
 You might be able to take a shot at a little problem of mine.
 If you're interested, meet me at the Lighthouse. I've got something to show you.
 If you're interested, meet me at the Lighthouse. I've got something to show you.
+I see you're back. Let me see what you're made of.
+I see you're back. Let me see what you're made of.
 Photos of a young Chara and Scilla sit atop the dresser.
 Photos of a young Chara and Scilla sit atop the dresser.
 Not right now.
@@ -21173,12 +21175,6 @@ Don't.
 Mavis...
 Mavis...
 [Map318]
-\PN, eh? How do ya spell that?
-\PN, eh? How do ya spell that?
-Don't want to have to redo the engraving like 8 years ago.
-Don't want to have to redo the engraving like 8 years ago.
-Nothing like a warmup scrim before the next round!
-Nothing like a warmup scrim before the next round!
 The battles that take place each year are nothing short of inspirational!
 The battles that take place each year are nothing short of inspirational!
 I may be a painter, but battling is my second form of art!
@@ -21187,20 +21183,20 @@ Fantastic! Marvelous! Outstanding!
 Fantastic! Marvelous! Outstanding!
 Your style is so graceful, so forceful, so majestic! You deserve the title of champion!
 Your style is so graceful, so forceful, so majestic!  You deserve the title of champion!
+Nothing like a warmup scrim before the next round!
+Nothing like a warmup scrim before the next round!
+\PN, eh? How do ya spell that?
+\PN, eh? How do ya spell that?
+Don't want to have to redo the engraving like 8 years ago.
+Don't want to have to redo the engraving like 8 years ago.
+Leo's Elite Items
+Leo's Elite Items
+I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES!
+I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES!
 Year 3: Casey, the Blazing Inferno
 Year 3: Casey, the Blazing Inferno
 Year 4: Chara, the Underdog Scrapper
 Year 4: Chara, the Underdog Scrapper
-I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES!
-I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES I WANNA SEE THE BATTLES!
-Leo's Elite Items
-Leo's Elite Items
-For security reasons, this ticketing gate is closed.
-For security reasons, this ticketing gate is closed.
-Even for a newly-minted champion.
-Even for a newly-minted champion.
-The Mightyena is too focused on battling to notice you.
-The Mightyena is too focused on battling to notice you.
 I was so excited to see my Pokemon evolve in time for the tournament, but we got knocked out in the first round.
 I was so excited to see my Pokemon evolve in time for the tournament, but we got knocked out in the first round.
 Oh well! Maybe next year we'll go far. I know we can.
@@ -21209,32 +21205,28 @@ I've learned a thing or two watching you battle. It was so eye-opening!
 I've learned a thing or two watching you battle. It was so eye-opening!
 Next year, I know I can at least make it to the semi- finals!
 Next year, I know I can at least make it to the semi- finals!
-Year 5: Vincent, the Dark Destroyer
-Year 5: Vincent, the Dark Destroyer
-Year 6: Ansel, the Renewed Maverick
-Year 6: Ansel, the Renewed Maverick
-My Pokémon and I might be at a disadvantage since the Tournament is only single battles.
-My Pokémon and I might be at a disadvantage since the Tournament is only single battles.
-It matters not! We will fight through with pure determination!
-It matters not! We will fight through with pure determination!
+The Mightyena is too focused on battling to notice you.
+The Mightyena is too focused on battling to notice you.
+For security reasons, this ticketing gate is closed.
+For security reasons, this ticketing gate is closed.
+Even for a newly-minted champion.
+Even for a newly-minted champion.
 I hope no funky business goes down during the competition.
 I hope no funky business goes down during the competition.
 Outside of that weird quake, it was business as usual.
 Outside of that weird quake, it was business as usual.
 Another successful day of guard duty.
 Another successful day of guard duty.
+My Pokémon and I might be at a disadvantage since the Tournament is only single battles.
+My Pokémon and I might be at a disadvantage since the Tournament is only single battles.
+It matters not! We will fight through with pure determination!
+It matters not! We will fight through with pure determination!
+Year 5: Vincent, the Dark Destroyer
+Year 5: Vincent, the Dark Destroyer
+Year 6: Ansel, the Renewed Maverick
+Year 6: Ansel, the Renewed Maverick
 The Emolga is too focused on battling to notice you.
 The Emolga is too focused on battling to notice you.
-Year 7: Praveen, the Flowing Current
-Year 7: Praveen, the Flowing Current
-Year 8: Elise, the Regal Conqueror
-Year 8: Elise, the Regal Conqueror
-Next year, my Minccino and I are gonna enter.
-Next year, my Minccino and I are gonna enter.
-I can tell she's THIS close to evolving. We'll be unstoppable when we get a team together.
-I can tell she's THIS close to evolving. We'll be unstoppable when we get a team together.
-Just you wait! Minccino and I are gunning for your spot!
-Just you wait! Minccino and I are gunning for your spot!
 Oh! Sorry, \PN.
 Oh! Sorry, \PN.
 Didn’t see you there.
@@ -21273,14 +21265,18 @@ Remember? The one west of the Villa?
 Remember? The one west of the Villa?
 Meet you there...?
 Meet you there...?
+Next year, my Minccino and I are gonna enter.
+Next year, my Minccino and I are gonna enter.
+I can tell she's THIS close to evolving. We'll be unstoppable when we get a team together.
+I can tell she's THIS close to evolving. We'll be unstoppable when we get a team together.
+Just you wait! Minccino and I are gunning for your spot!
+Just you wait! Minccino and I are gunning for your spot!
+Year 7: Praveen, the Flowing Current
+Year 7: Praveen, the Flowing Current
+Year 8: Elise, the Regal Conqueror
+Year 8: Elise, the Regal Conqueror
 Can't let my team get cold, even for just a second!
 Can't let my team get cold, even for just a second!
-The battle strategies that all the Trainers here use are so complex.
-The battle strategies that all the Trainers here use are so complex.
-Swap in! Swap out! Chip damage! Baiting moves!
-Swap in! Swap out! Chip damage! Baiting moves!
-It makes my head dizzy...
-It makes my head dizzy...
 My old rival once set up his sweeper even though I had no chance to recover.
 My old rival once set up his sweeper even though I had no chance to recover.
 "Why did you set up on me?" I asked, "I was already walled."
@@ -21321,6 +21317,20 @@ That night I beat the gym and raced to tell him, "Thank you for your advice. I c
 That night I beat the gym and raced to tell him, "Thank you for your advice. I cannot tell you how happy I am right now."
 My old rival smiled. "This too shall pass."
 My old rival smiled. "This too shall pass."
+The battle strategies that all the Trainers here use are so complex.
+The battle strategies that all the Trainers here use are so complex.
+Swap in! Swap out! Chip damage! Baiting moves!
+Swap in! Swap out! Chip damage! Baiting moves!
+It makes my head dizzy...
+It makes my head dizzy...
+I bet right every round, only to lose it all on the last round...
+I bet right every round, only to lose it all on the last round...
+I could have bought an apartment in Prizca with that money...
+I could have bought an apartment in Prizca with that money...
+Always a doozy getting our equipment set up.
+Always a doozy getting our equipment set up.
+I swear, a fifth of each year's budget just goes towards replacing stuff that got hit by a stray Hydro Pump or Fire Blast...
+I swear, a fifth of each year's budget just goes towards replacing stuff that got hit by a stray Hydro Pump or Fire Blast...
 Ugh, a year of training and I'm out in the first round.
 Ugh, a year of training and I'm out in the first round.
 Wish I qualified for one of the byes...
@@ -21351,24 +21361,16 @@ Haha! You won! You won!
 Haha! You won! You won!
 Incredible!
 Incredible!
-Always a doozy getting our equipment set up.
-Always a doozy getting our equipment set up.
-I swear, a fifth of each year's budget just goes towards replacing stuff that got hit by a stray Hydro Pump or Fire Blast...
-I swear, a fifth of each year's budget just goes towards replacing stuff that got hit by a stray Hydro Pump or Fire Blast...
-I bet right every round, only to lose it all on the last round...
-I bet right every round, only to lose it all on the last round...
-I could have bought an apartment in Prizca with that money...
-I could have bought an apartment in Prizca with that money...
-Year 1: Yezera, the Unstoppable Prodigy
-Year 1: Yezera, the Unstoppable Prodigy
-Year 2: Scilla, the Iron-willed Scrapper
-Year 2: Scilla, the Iron-willed Scrapper
-Yes yes, they'll be starting the next round soon dearie...
-Yes yes, they'll be starting the next round soon dearie...
 Friendly reminder, team composition only matters if you care about winning.
 Friendly reminder, team composition only matters if you care about winning.
 And between you and me, bud, maybe you should just stick with having fun.
 And between you and me, bud, maybe you should just stick with having fun.
+Yes yes, they'll be starting the next round soon dearie...
+Yes yes, they'll be starting the next round soon dearie...
+Year 1: Yezera, the Unstoppable Prodigy
+Year 1: Yezera, the Unstoppable Prodigy
+Year 2: Scilla, the Iron-willed Scrapper
+Year 2: Scilla, the Iron-willed Scrapper
 Yeah.
 Yeah.
 I'm trying.
@@ -21388,8 +21390,8 @@ Well, I guess I can wait around a while longer...
 Well, I guess I can wait around a while longer...
 Glad to have it off my hands.
 Glad to have it off my hands.
-I gotta get out of here before the bureaucrats comes looking for me again. Thanks.
-I gotta get out of here before the bureaucrats comes looking for me again. Thanks.
+I gotta get out of here before the bureaucrats come looking for me again. Thanks.
+I gotta get out of here before the bureaucrats come looking for me again. Thanks.
 You're looking at the one and only employee of the Grouz Mine.
 You're looking at the one and only employee of the Grouz Mine.
 Just here to make sure the place doesn't collapse entirely.
@@ -22276,14 +22278,8 @@ Can't tell them apart.
 Wandered off again?
 Wandered off again?
 [Map329]
-I wonder what drink I should get...
-I wonder what drink I should get...
-A battle is best enjoyed with a can in hand.
-A battle is best enjoyed with a can in hand.
-Oh... the tournament's already over?
-Oh... the tournament's already over?
-I took too long to decide what I wanted to drink...
-I took too long to decide what I wanted to drink...
+\wmYou decide not to bother someone trying to squeeze past the crowd...
+\wmYou decide not to bother someone trying to squeeze past the crowd...
 Oh! You're one of the Trainers entering the Tournament!
 Oh! You're one of the Trainers entering the Tournament!
 Could you do an interview with us? We've been asked to cover the competition.
@@ -22332,12 +22328,14 @@ Thanks for spending your precious time giving us an insight into your mind.
 Thanks for spending your precious time giving us an insight into your mind.
 We'll be rooting for you out there.
 We'll be rooting for you out there.
-\wmYou decide not to bother someone trying to squeeze past the crowd...
-\wmYou decide not to bother someone trying to squeeze past the crowd...
-<-- Competitors
-<-- Competitors
-^ Spectators
-^ Spectators
+I wonder what drink I should get...
+I wonder what drink I should get...
+A battle is best enjoyed with a can in hand.
+A battle is best enjoyed with a can in hand.
+Oh... the tournament's already over?
+Oh... the tournament's already over?
+I took too long to decide what I wanted to drink...
+I took too long to decide what I wanted to drink...
 You...
 You...
 Affixed is your love on creatures. A quality most appreciated.
@@ -22364,6 +22362,20 @@ Gleaned from this, a lesson I have.
 Gleaned from this, a lesson I have.
 But sorrow yet follows.
 But sorrow yet follows.
+<-- Competitors
+<-- Competitors
+^ Spectators
+^ Spectators
+Hey, got a moment? We're with the news.
+Hey, got a moment? We're with the news.
+If you've got the time to do an interview, we'd really appreciate it.
+If you've got the time to do an interview, we'd really appreciate it.
+Great interview \PN, I'm sure people all around Makya will be seeing it soon.
+Great interview \PN, I'm sure people all around Makya will be seeing it soon.
+I don't even like Pokemon that much...
+I don't even like Pokemon that much...
+You won the whole thing? That's pretty cool, I guess.
+You won the whole thing? That's pretty cool, I guess.
 I spent all night watching replays of last year's tournament to get pumped for this year.
 I spent all night watching replays of last year's tournament to get pumped for this year.
 I got front row seats this time. A year's worth of allowance well spent.
@@ -22374,16 +22386,28 @@ I uploaded a clip from your last battle! It's already got 50,000 views!
 I uploaded a clip from your last battle! It's already got 50,000 views!
 The whole internet is gonna blow up from this!
 The whole internet is gonna blow up from this!
-I don't even like Pokemon that much...
-I don't even like Pokemon that much...
-You won the whole thing? That's pretty cool, I guess.
-You won the whole thing? That's pretty cool, I guess.
-Hey, got a moment? We're with the news.
-Hey, got a moment? We're with the news.
-If you've got the time to do an interview, we'd really appreciate it.
-If you've got the time to do an interview, we'd really appreciate it.
-Great interview \PN, I'm sure people all around Makya will be seeing it soon.
-Great interview \PN, I'm sure people all around Makya will be seeing it soon.
+Welcome, \PN!
+Welcome, \PN!
+The tournament started 30 minutes ago, so the first round has already occurred.
+The tournament started 30 minutes ago, so the first round has already occurred.
+However, Helena informed us to give you a first round bye due to emergency circumstances, so you are good to continue.
+However, Helena informed us to give you a first round bye due to emergency circumstances, so you are good to continue.
+Please continue straight and you'll find the player area eventually.
+Please continue straight and you'll find the player area eventually.
+The player area is down the western hallway.
+The player area is down the western hallway.
+Feel free to use our provided trainer services on the way!
+Feel free to use our provided trainer services on the way!
+Holy Miltank you won the whole thing!
+Holy Miltank you won the whole thing!
+I'm sorry to say but I didn't see that coming at all.
+I'm sorry to say but I didn't see that coming at all.
+I'll take your Pokémon for a few seconds.
+I'll take your Pokémon for a few seconds.
+First, you should restore your Pokémon to full health.
+First, you should restore your Pokémon to full health.
+We hope you excel!
+We hope you excel!
 I've crunched the numbers, evaluated teams, placed my bets...
 I've crunched the numbers, evaluated teams, placed my bets...
 This \PN person I'm telling ya, they're lookin' to take the whole thing.
@@ -22404,28 +22428,8 @@ I don't have cash on me right now, so you'll just have to take this instead.
 I don't have cash on me right now, so you'll just have to take this instead.
 I'll be watching your career with great interest.
 I'll be watching your career with great interest.
-I'll take your Pokémon for a few seconds.
-I'll take your Pokémon for a few seconds.
-First, you should restore your Pokémon to full health.
-First, you should restore your Pokémon to full health.
-We hope you excel!
-We hope you excel!
-Welcome, \PN!
-Welcome, \PN!
-The tournament started 30 minutes ago, so the first round has already occurred.
-The tournament started 30 minutes ago, so the first round has already occurred.
-However, Helena informed us to give you a first round bye due to emergency circumstances, so you are good to continue.
-However, Helena informed us to give you a first round bye due to emergency circumstances, so you are good to continue.
-Please continue straight and you'll find the player area eventually.
-Please continue straight and you'll find the player area eventually.
-The player area is down the western hallway.
-The player area is down the western hallway.
-Feel free to use our provided trainer services on the way!
-Feel free to use our provided trainer services on the way!
-Holy Miltank you won the whole thing!
-Holy Miltank you won the whole thing!
-I'm sorry to say but I didn't see that coming at all.
-I'm sorry to say but I didn't see that coming at all.
+No touching the MP.
+No touching the MP.
 Kalos is a rather competitive region.
 Kalos is a rather competitive region.
 Even then, it doesn't have nearly enough events for my family.
@@ -22434,22 +22438,12 @@ So we tour all the nearby regions each year.
 So we tour all the nearby regions each year.
 Excellent battling. I especially loved your team choices.
 Excellent battling. I especially loved your team choices.
-No touching the MP.
-No touching the MP.
 Are you ready to go Trainer? We'll escort you outside.
 Are you ready to go Trainer? We'll escort you outside.
 Alright, let me know when you're ready.
 Alright, let me know when you're ready.
 Alright, let's get this rolling.
 Alright, let's get this rolling.
-Pokemon are a way of life.
-Pokemon are a way of life.
-I don't think we'd be able to survive without Pokemon.
-I don't think we'd be able to survive without Pokemon.
-Your life is also about Pokemon, it seems.
-Your life is also about Pokemon, it seems.
-I respect that a lot. Well done, today.
-I respect that a lot. Well done, today.
 Stupid tournament organizers!
 Stupid tournament organizers!
 Almost everyone got a bye, but not me, of all people!
@@ -22460,10 +22454,16 @@ You won?!
 You won?!
 Must have been because you got a bye...
 Must have been because you got a bye...
-Ugh, someone only ate half of their Tulumba before up and leaving it sitting over there.
-Ugh, someone only ate half of their Tulumba before up and leaving it sitting over there.
-Gross.
-Gross.
+Pokemon are a way of life.
+Pokemon are a way of life.
+I don't think we'd be able to survive without Pokemon.
+I don't think we'd be able to survive without Pokemon.
+Your life is also about Pokemon, it seems.
+Your life is also about Pokemon, it seems.
+I respect that a lot. Well done, today.
+I respect that a lot. Well done, today.
+I'm just here to look like you have security. Talk to the other guy.
+I'm just here to look like you have security. Talk to the other guy.
 Hello there young competitor!
 Hello there young competitor!
 I hope everything has been running smoothly for you.
@@ -22474,22 +22474,24 @@ Young victor, amazing show!
 Young victor, amazing show!
 Would you happen to have time for a photo-shoot later today?
 Would you happen to have time for a photo-shoot later today?
-I'm just here to look like you have security. Talk to the other guy.
-I'm just here to look like you have security. Talk to the other guy.
+Ugh, someone only ate half of their Tulumba before up and leaving it sitting over there.
+Ugh, someone only ate half of their Tulumba before up and leaving it sitting over there.
+Gross.
+Gross.
 We bought one kind of every single piece of merch in the Battle Plaza.
 We bought one kind of every single piece of merch in the Battle Plaza.
 Worth it!
 Worth it!
 Do you sell merch? We're your biggest fans, so we'd love to have some!
 Do you sell merch? We're your biggest fans, so we'd love to have some!
-The left side of the screen shows a scrolling list of the round 2 matchups. You don't see your own name.
-The left side of the screen shows a scrolling list of the round 2 matchups. You don't see your own name.
-The right side shows a variety of highlights from the first round.
-The right side shows a variety of highlights from the first round.
 Whoa, not every day you get to escort a Makyan Champion.
 Whoa, not every day you get to escort a Makyan Champion.
 I hope I get a bonus for this.
 I hope I get a bonus for this.
+The left side of the screen shows a scrolling list of the round 2 matchups. You don't see your own name.
+The left side of the screen shows a scrolling list of the round 2 matchups. You don't see your own name.
+The right side shows a variety of highlights from the first round.
+The right side shows a variety of highlights from the first round.
 I wish I could be enjoying myself here, but I'm absolutely miserable.
 I wish I could be enjoying myself here, but I'm absolutely miserable.
 What kind of woman ditches her fiancé to hook up with a "professional trainer" she just met?
@@ -36379,8 +36381,8 @@ The user risks all to attack the foe. The user faints but does damage equal to i
 The user risks all to attack the foe. The user faints but does damage equal to its HP.
 The user dives down onto the target from the sky. This move is also Flying-type.
 The user dives down onto the target from the sky. This move is also Flying-type.
-The user heightens its mental focus and unleashes its power.
-The user heightens its mental focus and unleashes its power.
+The user focuses its energy and unleashes its power.
+The user focuses its energy and unleashes its power.
 The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.
 The user focuses its mind before launching a punch. It will fail if the user is hit before it is used.
 The target is attacked with a shock wave. It has a 30% chance to numb.
@@ -38415,8 +38417,8 @@ Stares harshly, dealing double damage if they hurt the user this turn. Only usab
 Stares harshly, dealing double damage if they hurt the user this turn. Only usable on the first turn.
 The user heals itself by half of its max HP, or 66% in moonglow.
 The user heals itself by half of its max HP, or 66% in moonglow.
-The user bullies the target, causing mental damage. This has a 30% chance to leech.
-The user bullies the target, causing mental damage. This has a 30% chance to leech.
+The user bullies the target, causing distress. This has a 30% chance to leech.
+The user bullies the target, causing distress. This has a 30% chance to leech.
 The user swings aggressively while suffering from nightmares. This move can only be used while asleep.
 The user swings aggressively while suffering from nightmares. This move can only be used while asleep.
 The user transforms into a cloud of vermin, charging and becoming hidden. On the second turn it ambushes the target.
@@ -40660,7 +40662,7 @@ Damages attackers for 1/8th of their HP when they hit the holder with special at
 Machuca atacantes em 1/8 de seus PV quando atingem o portador com ataques especiais.
 If the holder is hit by an attack, it will switch with another Pokémon in your party.
 Se o portador é atingido por um ataque, ele será trocado para outro Pokémon de sua equipe.
-A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle.
+A card with a mysterious power. When the holder is hit by an attack, the attacker is forced to switch.
 Um cartão de poder misterioso. Quan-<<n>>do o portador é atacado, o atacante é removido de campo.
 A held item. This discarded carapace lets the holder switch out of battle without fail.
 Equipável. Esta carapaça descartável permite ao portador sair de campo sob qualquer circunstância.
@@ -42143,6 +42145,8 @@ Groovy
 Groovy
 Grotesque Vitals
 Grotesque Vitals
+Gut Punch
+Gut Punch
 Hadean Rage
 Hadean Rage
 Hailstone Helm
@@ -42243,8 +42247,6 @@ Infected
 Infected
 Ink Spray
 Ink Spray
-Innards Punch
-Innards Punch
 Inner Heat
 Inner Heat
 Inscrutable Orders
@@ -43696,6 +43698,8 @@ Raises Attack and Sp. Atk whenever any Pokémon uses a dance move.
 Raises Attack and Sp. Atk whenever any Pokémon uses a dance move.
 Heals 1/16th HP every turn. Protected from being poisoned.
 Heals 1/16th HP every turn. Protected from being poisoned.
+When hit with an attacking move, hits back instantly with Mega Punch.
+When hit with an attacking move, hits back instantly with Mega Punch.
 When suffering from recoil, this Pokémon cannot go below 1 HP.
 When suffering from recoil, this Pokémon cannot go below 1 HP.
 During hail, this Pokémon takes 50% less move damage, but its Speed is halved.
@@ -43796,8 +43800,6 @@ This Pokémon is also Grass-type. When hit by an attack, the attacker's ability 
 This Pokémon is also Grass-type. When hit by an attack, the attacker's ability becomes Infected.
 Upon entry, blinds all foes.
 Upon entry, blinds all foes.
-When hit with an attacking move, hits back instantly with Mega Punch.
-When hit with an attacking move, hits back instantly with Mega Punch.
 Summons sunshine for four turns when hit by an attack.
 Summons sunshine for four turns when hit by an attack.
 This Pokémon deals 30% more move damage, but is continually Tormented.
@@ -50810,8 +50812,8 @@ Enemy Trainers have their own teams of Pokémon with their own moves and held it
 Treinadores Rivais têm suas próprias equipes de Pokémon com seus próprios movimentos e itens equipáveis. É importante prestar atenção a esses detalhes para ganhar batalhas.
 Differences
 Diferenças
-The typical trainer has 3 Pokémon, but Gym Leaders will have more. Trainers with more Pokémon also have more move variety and more items on their Pokémon.
-O Treinador típico tem 3 Pokémon, mas Líderes de Ginásio terão mais. Treinadores com mais Pokémon também têm mais variedade e mais itens em seus Pokémon.
+The typical trainer has 4 Pokémon, but Gym Leaders will have more. Trainers with more Pokémon also have more move variety and more items on their Pokémon.
+O Treinador típico tem 4 Pokémon, mas Líderes de Ginásio terão mais. Treinadores com mais Pokémon também têm mais variedade e mais itens em seus Pokémon.
 Pro Trainers
 Treinadores Profissionais
 Pro Trainers are special Trainers, noted by their grey hair and black clothes. Their teams are always 6 Pokémon, all with items, and built around a Tribal Bonus. They're hard!
@@ -50942,7 +50944,7 @@ Weather Synergies
 Sinergias De Clima
 Each weather has dozens of moves and abilities that benefit from that weather. Pokémon using these moves/abilities ignore the downsides of their favored weather!
 Cada Clima tem dezenas de Movimentos e Habilidades que se beneficiam daquele Clima. Pokémon com esses movimentos / habilidades ignoram as desvantagens do Clima que os favorece!
-What are field effects?
+What are Field effects?
 O Que São Efeitos De Campo?
 Field effects are special effects that affect the entire battlefield. Multiple field effects can be active at the same time.
 Efeitos De Campo são efeitos especiais que afetam todo o campo de batalha. Múltiplos efeitos de campo podem estar ativos ao mesmo tempo.
@@ -50978,8 +50980,12 @@ Floral Gramarye
 Grimório Floral
 Floral Gramarye heals every Pokémon on the field for 1/8th HP at the end of every turn.
 O Grimório Floral cura todos os Pokémon em campo em 1/8 de seus PV máximos no final de cada turno.
+What are Side effects?
+O Que São Efeitos Unilaterais?
 Side effects are special effects that affect only one side. Multiple side effects can be active at the same time.
 Efeitos Unilaterais são efeitos especiais que afetam apenas um lado do campo. Múltiplos Efeitos Unilaterais podem estar ativos ao mesmo tempo.
+Side Effect Duration
+Duração De Efeitos Unilaterais
 Side effects last a certain number of turns. The length differs depending on what move or ability summoned the field effect. Some durations can be enhanced by certain items.
 Efeitos Unilaterais duram uma certa quantidade de turnos. A quantidade depende de qual Movimento ou Habilidade invocou o Efeito. Algumas durações podem ser aumentadas com certos itens.
 Screen Effects
@@ -51076,12 +51082,12 @@ Severe Numb: The same as Numb, but the afflicted Pokémon's highest stat is redu
 Imobilização Extrema: O mesmo que Imobilização, mas o Pokémon afetado tem seu maior atributo reduzido ao final de cada turno.
 Kyogre: Primordial Sea
 Kyogre: Mar Primordial
-Boosts the damage of Water- and Electric-type attacks by 50%. Prevents Pokémon not immune to Rain from activating moves' random added effects.
-Aumenta o dano de ataques dos tipos Água e Elétrico em 50%. Previne Pokémon não imunes à chuva de ativarem efeitos adicionais aleatórios.
+Boosts the damage of Electric- and Water-type attacks by 50%. Lowers attack damage of non-immune types or moves by 15%. Pokémon not immune to Rain can't cause moves' random added effects.
+Aumenta o dano de ataques dos tipos Água e Elétrico em 50%. Diminui o dano de tipos e movimentos não imunes em 15%. Previne Pokémon não imunes à chuva de ativarem efeitos adicionais aleatórios.
 Groudon: Desolate Land
 Groudon: Terra Desolada
-Boosts the damage of Fire- and Grass-type attacks by 50%. Prevents Pokémon not immune to Sun from activating critical hits.
-Aumenta o dano de ataques dos tipos Fogo e Grama em 50%. Previne Pokémon não imunes ao Sol de ativarem efeitos adicionais aleatórios.
+Boosts the damage of Fire- and Grass-type attacks by 50%. Lowers attack damage of non-immune types or moves by 15%. Pokémon not immune to Sun can't cause critical hits.
+Aumenta o dano de ataques dos tipos Fogo e Grama em 50%. Diminui o dano de tipos e movimentos não imunes em 15%. Previne Pokémon não imunes ao Sol de ativarem efeitos adicionais aleatórios.
 Necrozma: Event Horizon
 Necrozma: Horizonte De Eventos
 Rock- and Ground-types gain a 50% boost to Special Defense. Deals sandstorm damage at end of turn. Pokémon not immune to Sandstorm take 50% more HP-fraction-based damage.
@@ -51464,10 +51470,6 @@ World Weather
 Clima Dinâmico
 Whether overworld areas experience random weathers.
 Se ativo, áreas fora de batalha experienciam diferentes climas.
-Flashing
-Efeitos Piscantes
-Whether lightning storms display a flashing lightning effect.
-Durante tempestades, mostrar clarões de relâmpagos?
 Force Time
 Forçar Horário
 Force the overworld lighting of a certain hour of the day.
@@ -51494,6 +51496,10 @@ Screenshake
 Tremor Da Tela
 Whether to use screen shake effects. Disable if laggy.
 Usar efeitos de tremor da tela? Desabilite caso haja travamentos.
+Flashing
+Efeitos Piscantes
+Whether to use screen flash effects. Disable if annoying.
+Usar efeitos que piscam a tela? Desabilite se os efeitos forem incômodos.
 Could not create game Options file.
 Could not create game Options file.
 Speed Options
@@ -51820,6 +51826,8 @@ Move Selection
 Mover Seleção
 Take All Items
 Pegar Todos Os Itens
+Mass Feed EXP
+Alim. EXP em massa
 Clear Selection
 Limpar Seleção
 Do what with your {1} selected Pokémon?
@@ -51880,6 +51888,10 @@ ERRO! Não foi possível mover todos os Pokémon no movimento em massa.
 {1} Pokémon foi(oram) movido(s) em massa para {2}.
 No selected Pokémon are holding any items.
 Nenhum Pokémon selecionado tem itens equipados.
+No selected Pokemon can receive any EXP.
+Nenhum Pokémon selecionado pode receber EXP.
+{1} Pokemon were fed a total of {2} EXP!
+{1} Pokémon receberam um total de {2} EXP!
 {1} is no longer locked to sorting.
 {1} agora é ordenável.
 {1} is now locked to sorting.
@@ -51962,6 +51974,12 @@ Only one box was sorted.
 Apenas uma caixa foi ordenada.
 {1} boxes were sorted!
 {1} caixas foram ordenadas!
+There is no EXP stored in the {1}!
+Não tem nenhum EXP guardado no {1}!
+Mass feed this box of Pokemon from the {1}?
+Alimentar em massa esta caixa de Pokémon usando o {1}?
+No Pokemon in this box can receive any EXP.
+Nenhum Pokémon nesta caixa pode receber EXP.
 Shift
 Trocar
 Place
@@ -53928,10 +53946,10 @@ The Avatar of Calyrex has arrived to save its steed!
 The Avatar of Calyrex has arrived to save its steed!
 {1} reers up its hooves above {2}!
 {1} reers up its hooves above {2}!
-{1} raises a hand towards the thunderclouds.
-{1} raises a hand towards the thunderclouds.
-{1} opens its bulb towards the shining sun.
-{1} opens its bulb towards the shining sun.
+The Avatar of Calyrex raises a hand towards the thunderclouds.
+O Avatar de Calyrex ergue suas mãos aos céus trovejantes.
+The Avatar of Calyrex opens its bulb towards the shining sun.
+O Avatar de Calyrex abre seu bulbo ao sol radiante.
 {1} aims its stinger at {2}!
 {1} aims its stinger at {2}!
 The avatar of Genesect is analyzing your whole team for weaknesses...
@@ -57696,6 +57714,10 @@ But it failed, since {1} is not Ice-type!
 {1} resists the recoil!
 {1} will revive in five turns!
 {1} will revive in five turns!
+Base Power is not doubled if a consumable Item (Gem, Berry or Herb)
+Base Power is not doubled if a consumable Item (Gem, Berry or Herb)
+is used while using this move.
+is used while using this move.
 {1}'s stat changes were cleansed by fire!
 {1}'s stat changes were cleansed by fire!
 {1}'s stats are advanced by an energy surge!
@@ -58476,7 +58498,7 @@ Find the second gym leader, located in Novo Town (north of the Shipping Lane).
 Encontre a segunda líder de ginásio, localizada na Cidade Nova (ao Norte da Rota Pesqueira).
 Defeat the Mysterious Woman
 Derrote a Mulher Misteriosa
-A mysterious young women blocks your exit from the Shipping Lane. Defeat her to gain access to Novo Town.
+A mysterious young woman blocks your exit from the Shipping Lane. Defeat her to gain access to Novo Town.
 Uma jovem mulher misteriosa bloqueia sua saída da Rota Pesqueira. Derrote-a para obter acesso à Cidade Nova.
 Defeat Novo Town Gym
 Derrote o Ginásio Da Cidade Nova
@@ -58530,7 +58552,7 @@ You found Rafael in the south east of Velenz, down a ladder. To unlock the door 
 Você encontrou Rafael ao Sudeste de Velenze, descendo uma escada. Para destrancar a porta para o quarto dele, você deve encontrar ao menos 4 dígitos espalhados por Velenze. Velenze fica a Oeste da Floresta Repora.
 Defeat Velenz Gym
 Derrote O Ginásio De Velenze
-Defeat Rafael, leader of Velenz Gym. Velenz is west of Repora Forest. He can be found down a ladder in the north-west part of the town.
+Defeat Rafael, leader of Velenz Gym. Velenz is west of Repora Forest. He can be found down a ladder in the south-east part of the town.
 Derrote Rafael, líder do Ginásio De Velenze. Velenze fica a Oeste da Floresta Repora. Ele pode ser encontrado descendo uma escada na parte Sudeste da cidade.
 Defend Grouz from the Avatar!
 Defenda Grauze Do Avatar!
@@ -58884,7 +58906,7 @@ An impassable hole, filled with stunted grass.
 Um buraco intransitável, cheio de grama seca.
 Use the Flora Sceptre?
 Usar o Cetro Floral?
-With a flourish, you wave the Flora Scepter over the hole.
+With a flourish, you wave the Flora Sceptre over the hole.
 Com um gesto delicado, você balança o Cetro Floral sobre o buraco.
 The grass grew over the hole!
 A grama cresceu por cima do buraco!
@@ -61916,6 +61938,8 @@ Eita! {1} de repente abraçou {2}.
 {1} pulou de surpresa!
 {1} jumped a little!
 {1} pulou um pouquinho!
+{1} seems to be holding something...
+{1} parece estar segurando algo...
 \me[{1}]{3} found some \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]{3} encontrou algumas \c[1]{2}\c[0]!\wtnp[30]
 \me[{1}]{4} found \c[1]{2} {3}\c[0]!\wtnp[30]
@@ -62120,8 +62144,8 @@ Ahh...spectacular. I hope this battle is just as beautiful!
 Ahh...spectacular. I hope this battle is just as beautiful!
 ...shading like this, coloring like that... sorry, what? Did you need something?
 ...shading like this, coloring like that... sorry, what? Did you need something?
-No? Well, they're quite rare. Perhaps Emma offers them...just north of here.
-No? Well, they're quite rare. Perhaps Emma offers them...just north of here.
+No? Well, they're quite rare. Perhaps Nature's Gallery offers them... east of here.
+No? Well, they're quite rare. Perhaps Nature's Gallery offers them... east of here.
 Style and substance are one and the same!
 Style and substance are one and the same!
 Compared to Noel, my fashion is lacking. But with a Ninja Scarf, I'd stand right out!
@@ -63858,10 +63882,6 @@ Zigzagoon
 Zigzagoon
 Patrat
 Patrat
-Don't shake.
-Don't shake.
-Shake.
-Shake.
 Harvest the golden fruit?
 Harvest the golden fruit?
 Use a Moomoo Milk.
@@ -64512,42 +64532,6 @@ Release Imogene forever.
 Release Imogene forever.
 You bet.
 You bet.
-Mass Feed EXP
-Mass Feed EXP
-No selected Pokemon can receive any EXP.
-No selected Pokemon can receive any EXP.
-{1} Pokemon were fed a total of {2} EXP!
-{1} Pokemon were fed a total of {2} EXP!
-There is no EXP stored in the {1}!
-There is no EXP stored in the {1}!
-Mass feed this box of Pokemon from the {1}?
-Mass feed this box of Pokemon from the {1}?
-No Pokemon in this box can receive any EXP.
-No Pokemon in this box can receive any EXP.
-No? Well, they're quite rare. Perhaps Nature's Gallery offers them... east of here.
-No? Well, they're quite rare. Perhaps Nature's Gallery offers them... east of here.
-The typical trainer has 4 Pokémon, but Gym Leaders will have more. Trainers with more Pokémon also have more move variety and more items on their Pokémon.
-O Treinador típico tem 4 Pokémon, mas Líderes de Ginásio terão mais. Treinadores com mais Pokémon também têm mais variedade e mais itens em seus Pokémon.
-What are Field effects?
-O Que São Efeitos De Campo?
-What are Side effects?
-O Que São Efeitos Unilaterais?
-Side Effect Duration
-Duração De Efeitos Unilaterais
-Whether to use screen flash effects. Disable if annoying.
-Usar efeitos que piscam a tela? Desabilite se os efeitos forem incômodos.
-The Avatar of Calyrex raises a hand towards the thunderclouds.
-O Avatar de Calyrex ergue suas mãos aos céus trovejantes.
-The Avatar of Calyrex opens its bulb towards the shining sun.
-O Avatar de Calyrex abre seu bulbo ao sol radiante.
-A mysterious young woman blocks your exit from the Shipping Lane. Defeat her to gain access to Novo Town.
-Uma jovem mulher misteriosa bloqueia sua saída da Rota Pesqueira. Derrote-a para obter acesso à Cidade Nova.
-Defeat Rafael, leader of Velenz Gym. Velenz is west of Repora Forest. He can be found down a ladder in the south-east part of the town.
-Derrote Rafael, líder do Ginásio De Velenze. Velenze fica a Oeste da Floresta Repora. Ele pode ser encontrado descendo uma escada na parte Sudeste da cidade.
-With a flourish, you wave the Flora Sceptre over the hole.
-Com um gesto delicado, você balança o Cetro Floral sobre o buraco.
-{1} seems to be holding something...
-{1} parece estar segurando algo...
 [27]
 0
 Animated
@@ -66395,6 +66379,12 @@ MartialDiscipline
 MartialDiscipline
 Snorer
 Snorer
+LoudSleeper
+LoudSleeper
+FrigidReflection
+FrigidReflection
+GutPunch
+GutPunch
 Spray and Pray
 Spray and Pray
 Curled Up
