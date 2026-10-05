@@ -50205,7 +50205,7 @@ Verifique o menu Info para ver os níveis ativos no momento e seus efeitos nos c
 Tectonic introduced many options that let you customize the game speed, especially in battles.
 Tectonic oferece muitas opções que te permitem customizar a velocidade do jogo, especialmente em batalhas.
 Make sure to go over all the options to determine what you want to enable.
-Certufuque-se de conferir todas as opções para determinar o que você deseja ativar.
+Certifique-se de conferir todas as opções para determinar o que você deseja ativar.
 Want to learn about your active battler's moves?
 Quer saber mais sobre os movimentos do seu combatente ativo?
 Activate the Move Info Panel! It's a feature of the Fight screen.
