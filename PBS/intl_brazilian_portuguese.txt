@@ -50175,71 +50175,71 @@ Começou
 <outln2>Tribal Bonus Info</outln2>
 <outln2>Informações De Bônus De Clãs</outln2>
 Wild Pokemon don't give experience in Pokemon Tectonic.
-Wild Pokemon don't give experience in Pokemon Tectonic.
+Pokémon selvagens não dão experiência no Pokemon Tectonic.
 Don't worry, there's an abundance of experience to gain in other ways.
-Don't worry, there's an abundance of experience to gain in other ways.
+Não se preocupe. Há uma abundância de experiência a ser ganha de outras formas.
 If you encounter a Pokemon you don't want, run away. It's guaranteed!
-If you encounter a Pokemon you don't want, run away. It's guaranteed!
+Se você encontrar um Pokémon que você não quer, apenas fuja. É garantido!
 After a full party heal, defeated enemy trainers will be battle ready again!
-After a full party heal, defeated enemy trainers will be battle ready again!
+Depois de curar sua equipe inteira, treinadores inimigos estarão prontos para batalhar novamente!
 For example, healing at a Pokemon Center triggers this.
-For example, healing at a Pokemon Center triggers this.
+Por exemplo, ao curar-se em um Centro Pokémon.
 Trainers who fled won't come back, however.
-Trainers who fled won't come back, however.
+Treinadores que fugiram não voltarão, entretanto.
 There's a shortcut key to instantly mount the bicycle while walking.
-There's a shortcut key to instantly mount the bicycle while walking.
+Há uma tecla de atalho para instantaneamente montar na bicicleta enquanto você anda.
 Access your control settings with <imp>F1</imp> to customize it.
-Access your control settings with <imp>F1</imp> to customize it.
+Acesse suas configurações de controle com <imp>F1</imp> para personalizá-la.
 Individual Pokemon have unique Traits, Likes, and Dislikes.
-Individual Pokemon have unique Traits, Likes, and Dislikes.
+Pokémon individuais têm Traços, Gostos e Desgostos únicos.
 These have no effect on battle. They're just for fun!
-These have no effect on battle. They're just for fun!
+Eles não têm nenhum efeito em batalha. São apenas por diversão!
 To customize your stats, adjust Style Points in any PokeCenter.
-To customize your stats, adjust Style Points in any PokeCenter.
+Para customizar seus atributos, ajuste Pontos De Estilo em qualquer Centro Pokémon.
 Stats can be changed during battle by 'stat steps'.
-Stats can be changed during battle by 'stat steps'.
+Atributos são alterados em batalha usando 'níveis de atributo'.
 A step is a small change! At +1 steps, only 25% is added to the stat.
-A step is a small change! At +1 steps, only 25% is added to the stat.
+Um nível é uma mudança pequena! Com +1 nível, apenas 25% é adicionado ao atributo.
 Check the Info menu to see the active steps and their effects on the battlers.
-Check the Info menu to see the active steps and their effects on the battlers.
+Verifique o menu Info para ver os níveis ativos no momento e seus efeitos nos combatentes.
 Tectonic introduced many options that let you customize the game speed, especially in battles.
-Tectonic introduced many options that let you customize the game speed, especially in battles.
+Tectonic oferece muitas opções que te permitem customizar a velocidade do jogo, especialmente em batalhas.
 Make sure to go over all the options to determine what you want to enable.
-Make sure to go over all the options to determine what you want to enable.
+Certufuque-se de conferir todas as opções para determinar o que você deseja ativar.
 Want to learn about your active battler's moves?
-Want to learn about your active battler's moves?
+Quer saber mais sobre os movimentos do seu combatente ativo?
 Activate the Move Info Panel! It's a feature of the Fight screen.
-Activate the Move Info Panel! It's a feature of the Fight screen.
+Ative o Painel de Informação De Movimentos! É um recurso da tela de Batalha.
 Press your "Action" key (Z/Shift by default) to toggle it on or off.
-Press your "Action" key (Z/Shift by default) to toggle it on or off.
+Pressione sua tecla "Ação" (Z/Shift por padrão) para mostrá-lo/ocultá-lo.
 Many type matchups were changed in Pokemon Tectonic.
-Many type matchups were changed in Pokemon Tectonic.
+Muitas vantagens e desvantagens de tipo foram alteradas no Pokémon Tectonic.
 To strengthen some types, we had to weaken others.
-To strengthen some types, we had to weaken others.
+Para deixar alguns tipos mais fortes, precisamos deixar outros mais fracos.
 Check the Masterdex or the Battle Guide to learn these changes.
-Check the Masterdex or the Battle Guide to learn these changes.
+Verifique a MasterDex ou o Guia De Batalha para entender essas mudanças.
 Sometimes you will receive evolvable Pokémon at your level cap.
-Sometimes you will receive evolvable Pokémon at your level cap.
+Ocasionalmente, você vai receber Pokémon evoluíveis no seu Limite De Nível.
 Does this mean you can't evolve them until later? No!
-Does this mean you can't evolve them until later? No!
+Isso significa que você tem que esperar para evoluí-lo? Não!
 Just press the Evolve button in your party screen.
-Just press the Evolve button in your party screen.
+Apenas use o botão "Evoluir" na tela da sua equipe.
 Catching and raising lots of Pokémon is useful for Mentoring.
-Catching and raising lots of Pokémon is useful for Mentoring.
+Capturar e treinar vários Pokémon é útil para fazer Mentoria.
 Mentoring lets you copy moves between your Pokémon!
-Mentoring lets you copy moves between your Pokémon!
+A Mentoria te permite copiar movimentos entre seus Pokémon!
 Just talk to the Mentor Coordinator in any PokéCenter.
-Just talk to the Mentor Coordinator in any PokéCenter.
+É só conversar com o Mentor Coordenador em qualquer Centro Pokémon.
 Some moves are both Physical and Special! These are "Adaptive" moves.
-Some moves are both Physical and Special! These are "Adaptive" moves.
+Alguns movimentos são tanto físicos quanto especiais! Eles chão chamados de movimentos "Mistos".
 They change based on the user's stats!
-They change based on the user's stats!
+Eles mudam com base nos atributos do usuário!
 Physical if Attack is higher, and Special if Sp. Atk is higher.
-Physical if Attack is higher, and Special if Sp. Atk is higher.
+Físico se Ataque for maior e Especial se Ataque Especial for maior.
 Every PokéCenter and every Ranger Station will contain the 3 Team Customization NPCs.
-Every PokéCenter and every Ranger Station will contain the 3 Team Customization NPCs.
+Todo Centro Pokémon e toda Estação Ranger conterão os 3 NPCs de Customização Da Equipe.
 Speak to them to learn how they can upgrade your team!
-Speak to them to learn how they can upgrade your team!
+Fale com eles para aprender como eles podem melhorar sua equipe!
 The last 5 boxes of the PC are donation boxes.
 As últimas 5 caixas do Computador são Caixas De Doação.
 Pokémon placed in these boxes can never be withdrawn.
@@ -50247,11 +50247,11 @@ Pokémon colocados nestas caixas não podem mais ser retirados.
 In repayment, you get candy equal to their lifetime EXP earnings.
 Como compensação, você ganha Doces equivalentes ao EXP que o Pokémon ganhou.
 Individual Pokémon have individual appearances.
-Individual Pokémon have individual appearances.
+Pokémon individuais têm aparências individuais.
 They differ in hue and brightness!
-They differ in hue and brightness!
+Eles diferem em tonalidade e em brilho!
 If you wish, you can turn this off in the options.
-If you wish, you can turn this off in the options.
+Se você quiser, é possível desativar isso nas opções.
 \wm#{tutorialMessage}\wtnp<<[>>#{tutorialMessageDuration}<<]>><<1>>
 \wm#{tutorialMessage}\wtnp<<[>>#{tutorialMessageDuration}<<]>><<1>>
 x{1:03d}
