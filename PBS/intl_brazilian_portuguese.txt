@@ -4140,17 +4140,17 @@ You can tell how many of those I've guzzled down over the years.
 You can tell how many of those I've guzzled down over the years.
 [Map44]
 A well-used punching bag.
-A well-used punching bag.
+Um saco de pancadas muito usado.
 Puncture holes dot the left-hand side.
-Puncture holes dot the left-hand side.
+Perfurações marcam o lado esquerdo.
 A bed of fine linens, smelling lightly of perfumed detergent.
-A bed of fine linens, smelling lightly of perfumed detergent.
+Uma cama de lençóis finos com um leve aroma de sabão perfumado.
 Despite that, its not been re-made.
-Despite that, its not been re-made.
+Apesar disso, ela está bagunçada.
 A fairly nondescript fridge.
-A fairly nondescript fridge.
+Uma geladeira sem nenhuma característica marcante.
 Opening it up, you find that the only noteworthy aspect is the large amount of seltzer water.
-Opening it up, you find that the only noteworthy aspect is the large amount of seltzer water.
+Abrindo-a, você descobre que o único aspecto digno de nota é a quantidade cavalar de água com gás.
 When I became a Gym Leader, I was given this key.
 When I became a Gym Leader, I was given this key.
 It unlocks a little prison on this island – a prison for an avatar that’s been locked up for years.
@@ -4181,7 +4181,7 @@ Some day.
 Some day.
 [Map45]
 Empty bottles of seltzer water.
-Empty bottles of seltzer water.
+Garrafas vazias de água com gás.
 [Map46]
 [Map47]
 Aromatic flowers from other regions.
@@ -4375,63 +4375,63 @@ The trash can is empty.
 The trash can is empty.
 [Map49]
 An alarm clock. The alarm's been disabled.
-An alarm clock. The alarm's been disabled.
+Um despertador. Ele está desativado.
 My mom got me this Aron.
-My mom got me this Aron.
+Minha mamãe me deu este Aron.
 I tried to play with him, but he kept giving me this look...
-I tried to play with him, but he kept giving me this look...
+Eu tentei brincar com ele, mas ele não parava de me encarar estranho...
 Something about his big eyes makes me feel weird.
-Something about his big eyes makes me feel weird.
+Algo sobre os olhões dele me fazem me sentir estranha.
 I want a Pokémon that I can trust. Gimme something in the Loyal tribe and you can have this weird rock thing.
-I want a Pokémon that I can trust. Gimme something in the Loyal tribe and you can have this weird rock thing.
+Eu quero um Pokémon que eu possa confiar. Me dá alguma coisa do clã Leal que eu te deixo ficar com essa coisa de pedra esquisita.
 B-but...he's gonna keep looking at me...
-B-but...he's gonna keep looking at me...
+M-mas...ele vai continuar me encarando...
 Don't tease me like that!
-Don't tease me like that!
+Não brinca comigo desse jeito!
 Hooray!
-Hooray!
+Vivaaa!
 Now he can look at you!
-Now he can look at you!
+Agora ele pode encarar você!
 This Pokemon looks at me normal!
-This Pokemon looks at me normal!
+Este Pokémon me olha normal!
 A bouquet of pink flowers.
-A bouquet of pink flowers.
+Um buquê de flores rosa.
 A tag states that it was gathered from the Eleig river delta.
-A tag states that it was gathered from the Eleig river delta.
+Uma etiqueta afirma que elas foram colhidas no delta do rio Eleig.
 The previous owners must have left this.
-The previous owners must have left this.
+Os inquilinos anteriores devem ter deixado isso aqui.
 Think about how rich they must be in order to just leave whole TMs behind!
-Think about how rich they must be in order to just leave whole TMs behind!
+Imagina só quão ricos eles têm que ser para deixar um MT inteiro pra trás!
 We're barely affording this trip, ourselves.
-We're barely affording this trip, ourselves.
+A gente mal consegue pagar por essa viagem.
 I've looked at my bank statement at least four times now.
-I've looked at my bank statement at least four times now.
+A essa altura, eu já devo ter olhado meu extrato bancário pelo menos umas quatro vezes.
 I just don't really want to believe what I'm seeing...
-I just don't really want to believe what I'm seeing...
+É só que... eu não quero acreditar no que eu tô vendo...
 The fridge is stocked with a variety of tropical fruits and brand-name drinks.
-The fridge is stocked with a variety of tropical fruits and brand-name drinks.
+A geladeira foi estocada com uma variedade de frutas tropicais e bebidas de marcas famosas.
 On our first day here, some rich jerk got mad at our little girl for playing on the stairs.
-On our first day here, some rich jerk got mad at our little girl for playing on the stairs.
+No nosso primeiro dia aqui, um babaca rico ficou bravo que nossa menininha estava brincando nas escadas.
 He shouted at her about "wasting his time" until she ran to me crying.
-He shouted at her about "wasting his time" until she ran to me crying.
+Ele ficou gritando com ela sobre "desperdiçar o tempo dele" até que ela viesse até mim chorando.
 I tried to confront him, but he just ran off, right into the gym.
-I tried to confront him, but he just ran off, right into the gym.
+Eu tentei confrontá-lo, mas ele só saiu correndo, direto pro Ginásio.
 Can you believe the nerve of some people?
-Can you believe the nerve of some people?
+Dá pra acreditar na audácia dessa gente?
 The TV is turned off.
-The TV is turned off.
+A TV está desligada.
 A piece of laminated paper attached to front lists the over 300 available TV channels.
-A piece of laminated paper attached to front lists the over 300 available TV channels.
+Um pedaço de papel laminado preso à sua frente lista os mais de 300 canais de TV disponíveis.
 Oh, don't mind me, I'm just restocking this Vending Machine.
-Oh, don't mind me, I'm just restocking this Vending Machine.
+Ah, não ligue pra mim, eu estou apenas reabastecendo essa Máquina De Vendas.
 One of my many hats I wear.
-One of my many hats I wear.
+Um dos muitos papéis que desempenho.
 *sigh*
-*sigh*
+*suspiro*
 No
-No
+Não
 Yes
-Yes
+Sim
 [Map50]
 [Map51]
 I'm studying the process of growing berries in caves and cave-like environments.
@@ -9602,29 +9602,29 @@ Spend enough time here and it begins to feel like a forum.
 Spend enough time here and it begins to feel like a forum.
 [Map136]
 Welcome to Casaba Villa, the best resort town in Makya.
-Welcome to Casaba Villa, the best resort town in Makya.
+Boas-Vindas à Vila Casaba, a melhor cidade turística de Makya.
 My fiancé and I visit here at least once a month.
-My fiancé and I visit here at least once a month.
+Minha noiva e eu visitamos aqui ao menos uma vez ao mês.
 Oh, I'd introduce you to her, but she's enjoying herself at Bluepoint Beach at the moment.
-Oh, I'd introduce you to her, but she's enjoying herself at Bluepoint Beach at the moment.
+Ah, eu apresentaria você a ela, mas ela está curtindo a Praia Bluepoint no momento.
 The door is securely locked.
-The door is securely locked.
+A porta está trancada.
 West: Bluepoint Beach
-West: Bluepoint Beach
+Oeste: Praia Bluepoint
 Northeast: Scenic Path
-Northeast: Scenic Path
+Nordeste: Trilha Cênica
 A third label has been poorly masked with white paint.
-A third label has been poorly masked with white paint.
+Uma terceira marcação foi porcamente encoberta com tinta branca.
 Lambert's House
 Casa Do Lambert
 I've summered here for 20 years.
-I've summered here for 20 years.
+Passei o verão aqui por 20 anos.
 I must say it really went to the dogs once Team Chasm started moving in.
-I must say it really went to the dogs once Team Chasm started moving in.
+Devo dizer que tudo realmente foi por água abaixo quando a Equipe Chasm começou a se instalar.
 I especially don't like the gym leader they stationed here.
-I especially don't like the gym leader they stationed here.
+Eu não gosto nem um pouco do líder de ginásio que eles estabeleceram aqui.
 Before all this, he was a bartender at some establishment for roustabouts.
-Before all this, he was a bartender at some establishment for roustabouts.
+Antes de tudo isso, ele era barman em um estabelecimento para trabalhadores braçais.
 Hey, kiddo. What’s goin’ on? I heard you’re following me.
 Hey, kiddo. What’s goin’ on? I heard you’re following me.
 Well, go right ahead. Not gonna get a Beedrill in my bonnet over some kid toddling after me.
@@ -9644,31 +9644,31 @@ Too bad. If you can’t beat that gym, you don’t deserve to even be in this co
 You’ve always needed my help. Fine -- prove me wrong. We’ll talk again.
 You’ve always needed my help. Fine -- prove me wrong. We’ll talk again.
 Beyond elemental types, Pokémon species are defined by a second affinity.
-Beyond elemental types, Pokémon species are defined by a second affinity.
+Além de seus tipos elementais, espécies Pokémon são definidas por uma outra afinidade.
 These are known as <imp>tribes</imp>.
-These are known as <imp>tribes</imp>.
+Eles são conhecidos como <imp>clãs</imp>.
 Unlike types, a Pokémon's tribes have no effect on their own.
-Unlike types, a Pokémon's tribes have no effect on their own.
+Diferente de tipos, os clãs de um Pokémon não têm efeito por conta própria.
 But if you choose your Pokémon carefully, bringing together those that share a tribe...
-But if you choose your Pokémon carefully, bringing together those that share a tribe...
+Mas, se você escolhe seus Pokémon com cuidado, juntando Pokémon que possuem clãs iguais...
 They'll do fascinating things together!
-They'll do fascinating things together!
+Eles farão coisas fascinantes juntos!
 Back in my youth, I couldn't choose which Pokémon to use. It was too overwhelming.
-Back in my youth, I couldn't choose which Pokémon to use. It was too overwhelming.
+Na minha juventude, eu não conseguia escolher quais Pokémon usar. Eram opções demais.
 My wife said "Pick a tribe, and stick to it!"
-My wife said "Pick a tribe, and stick to it!"
+Minha esposa disse "Escolha um clã e mantenha-se fiel a ele!".
 So I restricted myself to Warriors, my favorite tribe. Problem solved!
-So I restricted myself to Warriors, my favorite tribe.  Problem solved!
+Então eu me restringi aos Guerreiros, meu clã favorito. Problema resolvido!
 It's <i>usually</i> best to listen to her, I've found.
-It's <i>usually</i> best to listen to her, I've found.
+É <i>no geral</i> uma boa ideia escutá-la, eu percebi.
 I volunteer at the PokeCenter here sometimes.
-I volunteer at the PokeCenter here sometimes.
+Eu me voluntario no Centro Pokémon daqui às vezes.
 So many trainers come in with Numbed Pokemon after battling Lambert.
-So many trainers come in with Numbed Pokemon after battling Lambert.
+Tantos treinadores vêm com Pokémon imobilizados após batalhar com Lambert.
 Apparently a lot of new trainers struggle with that status, as it halves the Pokemon's speed and reduces the damage they do.
-Apparently a lot of new trainers struggle with that status, as it halves the Pokemon's speed and reduces the damage they do.
+Aparentemente, muitos treinadores novatos têm dificuldades com essa condição de status, já que ela diminui pela metade a velocidade do Pokémon e diminui o dano que ele dá.
 "Casaba Villa, Makya's #1 Vacation Spot"
-"Casaba Villa, Makya's #1 Vacation Spot"
+"Vila Casaba, local de férias nº1 de Makya"
 Greetings!
 Greetings!
 If appearances are to be believed, you seem to be a fine trainer.
@@ -9700,17 +9700,17 @@ I'll give you some <imp>EXP Candy</imp> every time you manage to beat me.
 Sound good? Hit me up when you wanna try a battle!
 Sound good? Hit me up when you wanna try a battle!
 Each Pokemon has their own Personality Traits.
-Each Pokemon has their own Personality Traits.
+Cada Pokémon tem seus próprios Traços De Personalidade.
 Bonding with a Pokemon, and discovering what makes them unique, can be such a source of joy.
-Bonding with a Pokemon, and discovering what makes them unique, can be such a source of joy.
+Criar vínculos com um Pokémon, descobrindo o que o torna único, pode ser tão gratificante.
 Don't worry about your battles. No matter the personality, any Pokemon can be an excellent battler.
-Don't worry about your battles. No matter the personality, any Pokemon can be an excellent battler.
+Não se preocupe com suas batalhas. Não importa a personalidade, <i>qualquer</i> Pokémon pode ser um excelente combatente.
 Use whatever Pokemon you connect with the most.
-Use whatever Pokemon you connect with the most.
+Use os Pokémon com os quais você mais se identifica.
 That's a lesson that my dear wife taught me.
-That's a lesson that my dear wife taught me.
+Essa é uma lição que minha querida esposa me ensinou.
 She's correct <i>almost</i> all of the time!
-She's correct <i>almost</i> all of the time!
+Ela está <i>quase</i> sempre certa!
 Skipping Tamarind cutscene.
 Skipping Tamarind cutscene.
 Morning, \PN, I'm <imp>Professor Tamarind</imp>.
@@ -9762,29 +9762,29 @@ Líder: Lambert
 Fighting dirty for over a decade.
 Jogando sujo por mais de uma década.
 Hey!
-Hey!
+Ei!
 I'm bored and want to have fun. Let's play hide and seek!
-I'm bored and want to have fun. Let's play hide and seek!
+Eu tô morrendo de tédio e quero brincar. Vamos jogar esconde-esconde!
 I took some TMs from my Pa when he wasn't looking.
-I took some TMs from my Pa when he wasn't looking.
+Eu peguei alguns MTs do meu Papai quando ele não tava olhando.
 If you can find me, I'll give the TMs to you.
-If you can find me, I'll give the TMs to you.
+Se conseguir me achar, eu dou os MTs pra você!
 I'll be somewhere on the route to the foreclosed tunnel. Smell ya later!
-I'll be somewhere on the route to the foreclosed tunnel. Smell ya later!
+Eu vou estar em algum lugar no caminho pro Túnel Interditado
 Closed while Lambert participates in the Makya Championship Tournament.
-Closed while Lambert participates in the Makya Championship Tournament.
+Fechado enquanto Lambert participa do Campeonato Makiense.
 Be careful outside the Villa, you don't want to end up as another incident in the newspapers.
-Be careful outside the Villa, you don't want to end up as another incident in the newspapers.
+Tome cuidado fora da Vila, você não quer acabar como outro incidente nos jornais.
 No, I'm not talking about wild Pokemon.
-No, I'm not talking about wild Pokemon.
+Não, não... Eu não me refiro aos Pokémon selvagens.
 Haven't you heard about the... "avatars" I think they were calling them?
-Haven't you heard about the... "avatars" I think they were calling them?
+Você não ouviu falar dos... "avatares"? Acredito que é assim que estão os chamando.
 It's seemed like all anyone has wanted to talk about for 3 months!
-It's seemed like all anyone has wanted to talk about for 3 months!
+Parece que todo mundo só tem tido interesse em falar sobre isso pelos últimos 3 meses!
 I for one can't wait for the whole thing to blow over, so I can read again about things of real interest.
-I for one can't wait for the whole thing to blow over, so I can read again about things of real interest.
+Eu, pelo menos, mal posso esperar pra coisa toda passar para que eu possa voltar a ler coisas interessantes de verdade.
 Like the stock market.
-Like the stock market.
+Como, por exemplo, o mercado de ações.
 Hey, \PN. I heard you beat Lambert.
 Hey, \PN. I heard you beat Lambert.
 Guessing you’re gonna head for the <imp>mainland</imp> now?
@@ -9796,15 +9796,15 @@ Got something to say. Thanks.
 She hung up...
 She hung up...
 Lambert has some interesting choices of Pokemon.
-Lambert has some interesting choices of Pokemon.
+Lambert tem algumas escolhas interessantes de Pokémon.
 His prized Riolu was a gift from Victoire, another gym leader. Sangfroid, he calls her.
-His prized Riolu was a gift from Victoire, another gym leader. Sangfroid, he calls her.
+Sua estimada Riolu foi um presente de Victoire, outra líder de Ginásio. "Sangfroid", ele a nomeou.
 A beautiful name, in my opinion!
-A beautiful name, in my opinion!
+Um lindo nome, na minha opinião!
 I believe Lambert also has a Croagunk. Or.... two of them?
-I believe Lambert also has a Croagunk. Or.... two of them?
+Acredito que Lambert também tem um Croagunk, ou... dois deles?
 I'm not sure, but I swear I saw a sparring match, where the two seemed identical...
-I'm not sure, but I swear I saw a sparring match, where the two seemed identical...
+Não tenho certeza, mas eu juro que assisti a uma luta de treino onde os dois pareciam idênticos...
 That was a fun game of hide and seek!
 That was a fun game of hide and seek!
 I've learned that if I offer stolen goods to people, they'll let me do whatever I want!
@@ -9830,43 +9830,43 @@ As a fellow competitor, I have nothing to say but to congratulate you on your vi
 I'll take this as the cue to go make my attempt as well. Wish me luck!
 I'll take this as the cue to go make my attempt as well. Wish me luck!
 You haven't completed what you need to on the island yet!
-You haven't completed what you need to on the island yet!
+Você ainda não completou o que precisa fazer na ilha!
 Would you like to leave Casaba Villa and go to the Mainland?
-Would you like to leave Casaba Villa and go to the Mainland?
+Você gostaria de deixar a Vila Casaba e ir para o Continente?
 Oh, you just got a MasterDex? They're pretty neat.
-Oh, you just got a MasterDex? They're pretty neat.
+Ah, você acabou de conseguir uma MasterDex? Elas são bem legais.
 Of all its features, the DexNav is my favorite.
-Of all its features, the DexNav is my favorite.
+De todas as funções dela, o DexNav é a minha favorita.
 It's a really fun way to see what Pokemon you still have to catch in a new area.
-It's a really fun way to see what Pokemon you still have to catch in a new area.
+É uma forma bem divertida de ver quais Pokémon você ainda não capturou em uma área nova.
 Once you've caught one, you can also use it to find more of that same species!
-Once you've caught one, you can also use it to find more of that same species!
+Assim que você captura um Pokémon, você também pode usar o DexNav para encontrar mais daquela espécie!
 Isn't technology amazing?
-Isn't technology amazing?
+A tecnologia não é mesmo incrível?
 As a fisher, you learn to pick up on small inconsistencies around you.
-As a fisher, you learn to pick up on small inconsistencies around you.
+Sendo um pescador, você aprende a perceber pequenas inconsistências ao seu redor.
 Take for example that bush behind me. I bet something's going on with it.
-Take for example that bush behind me. I bet something's going on with it.
+Por exemplo, olha esse arbusto atrás de mim. Eu aposto que tem alguma coisa estranha com ele.
 Would you look at that! Found yourself something nice.
-Would you look at that! Found yourself something nice.
+Olha só! Você acabou encontrando uma coisa bacana.
 Keep an eye out for those sort of things. Don't be afraid to poke around a bit.
-Keep an eye out for those sort of things. Don't be afraid to poke around a bit.
+Fique de olho nesse tipo de coisa. Não hesite em dar uma investigada, se necessário.
 You never know what you might find...
-You never know what you might find...
+Você nunca sabe o que pode acabar encontrando...
 Lambert, the gym leader, came running through here earlier.
-Lambert, the gym leader, came running through here earlier.
+Lambert, o líder de Ginásio, passou correndo por aqui mais cedo.
 He put a rock behind him to block it off, for some reason.
-He put a rock behind him to block it off, for some reason.
+Ele colocou uma pedra atrás dele pra bloquear passagem, por algum motivo.
 You need to get through?
-You need to get through?
+Você precisa passar?
 Well...there's an abandoned tunnel up to the north.
-Well...there's an abandoned tunnel up to the north.
+Bem...tem um túnel abandonado ao norte.
 You can probably find something to blow this rock up if you go there.
-You can probably find something to blow this rock up if you go there.
+Você pode provavelmente encontrar alguma coisa pra explodir essa pedra se for pra lá.
 Oh hey, you cleared out that rock!
-Oh hey, you cleared out that rock!
+Ah, opa, você se livrou daquela pedra!
 Who knew explosives could be so useful?
-Who knew explosives could be so useful?
+Quem diria que explosivos podem ser tão úteis?
 Oh, so it is you!
 Oh, so it is you!
 Forgive my doppelganger – a Ditto that stalks me incessantly, claiming to be the real deal.
@@ -22702,7 +22702,7 @@ You insert the Team Chasm ID Card.
 The door unlocks with a click.
 The door unlocks with a click.
 It's a vending machine!
-It's a vending machine!
+É uma máquina de vendas!
 However, it no longer holds any drinks.
 However, it no longer holds any drinks.
 A logbook with details on Avatar experimentation.
@@ -49343,9 +49343,9 @@ The entry {1} is required in {2} section {3}.
 '{1}' is not a defined type ({2}, section {3}, Immunities).
 '{1}' is not a defined type ({2}, section {3}, Immunities).
 {1} cries out!
-{1} cries out!
+{1} faz barulho!
 Wow, it's a shiny Pokémon!
-Wow, it's a shiny Pokémon!
+Uau, é um Pokémon shiny!
 None
 Nada
 Electric
@@ -50145,13 +50145,13 @@ You must choose a move!
 {1:s}<<n>>ID: {2:05d} OT: {3:s}\wtnp<<[>>0<<]>>
 {1:s}<<r>><<n>>ID: {2:05d}   OT: {3:s}\wtnp<<[>>0<<]>>
 For {1}'s {2},<<n>>{3} sends {4}.<<1>>
-For {1}'s {2},<<r>><<n>>{3} sends {4}.<<1>>
+Pelo {2} de {1},<<n>>{3} envia {4}.<<1>>
 {1} bids farewell to {2}.
-{1} bids farewell to {2}.
+{1} se despede de {2}.
 {1:s}<<n>>ID: {2:05d} OT: {3:s}<<1>>
-{1:s}<<r>><<n>>ID: {2:05d}   OT: {3:s}<<1>>
+{1:s}<<r>><<n>>ID: {2:05d}   TO: {3:s}<<1>>
 Take good care of {1}.
-Take good care of {1}.
+Cuide bem de {1}.
 Species does not exist ({1}).
 Species does not exist ({1}).
 {1} {2}, {3}
@@ -50285,11 +50285,11 @@ It pulses with the frequency of {1}.
 The summoning spot exhausted its energy.
 The summoning spot exhausted its energy.
 A mystical Avatar Totem. You sense it has some purpose, long lost to time.
-A mystical Avatar Totem. You sense it has some purpose, long lost to time.
+Um Totem Avatar místico. Você sente que ele tem algum propósito que foi perdido há muito tempo.
 A mystical Avatar Totem. It pulses with ancient vital energy.
-A mystical Avatar Totem. It pulses with ancient vital energy.
+Um Totem Avatar místico. Ele pulsa com energia vital antiga.
 A mystical Avatar Totem. It pulses with an unusual frequency.
-A mystical Avatar Totem. It pulses with an unusual frequency.
+Um Totem Avatar místico. Ele pulsa com uma frequência incomum.
 \i[SPANNINGBAND]The Spanning Bands glow in sync with the totem.
 \i[SPANNINGBAND]The Spanning Bands glow in sync with the totem.
 However, it does not react further. Perhaps you must find more like it?
@@ -52919,19 +52919,19 @@ The kid in Novo Apartments is asking you to find his Growlithe, which is lost in
 Pokémon Lure
 Pokémon Lure
 Hide and Seek
-Hide and Seek
+Esconde-Esconde
 TM Kid
-TM Kid
+Criança Dos MTs
 Find him.
-Find him.
+Encontre-o.
 Find him again.
-Find him again.
+Encontre-o novamente.
 Casaba Island
-Casaba Island
+Ilha Casaba.
 Play hide and seek with the kid who said they'd give you TMs.
-Play hide and seek with the kid who said they'd give you TMs.
+Jogue Esconde-Esconde com a criança que disse que te daria MTs.
 TMs!
-TMs!
+MTs!
 An Inconvenienced Ranger
 An Inconvenienced Ranger
 Ranger
@@ -53531,7 +53531,7 @@ Fire and Sun Stone
 The 'quest' argument should be a symbol, e.g. ':Quest1'.
 The 'quest' argument should be a symbol, e.g. ':Quest1'.
 \me[{1}]Quest discovered:
-\me[{1}]Quest discovered:
+\me[{1}]Missão descoberta:
 Quest failed:
 Quest failed:
 \me[{1}]Quest completed:
@@ -53549,25 +53549,25 @@ Completed Quests
 Failed Quests
 Failed Quests
 <u>Overview</u>: {1}
-<u>Overview</u>: {1}
+<u>Resumo</u>: {1}
 <u>Task</u>: {1}
-<u>Task</u>: {1}
+<u>Tarefa</u>: {1}
 <u>Location</u>: {1}
-<u>Location</u>: {1}
+<u>Local</u>: {1}
 start
-start
+do início
 completion
-completion
+da conclusão
 failure
-failure
+do fracasso
 <u>Quest received from</u>:
-<u>Quest received from</u>:
+<u>Missão recebida por</u>:
 <u>Quest discovered {1}</u>:
-<u>Quest discovered {1}</u>:
+<u>Local de descoberta da missão</u>:
 <u>Quest {1} time</u>:
-<u>Quest {1} time</u>:
+<u>Hora {1} da missão</u>:
 <u>Reward</u>: {1}
-<u>Reward</u>: {1}
+<u>Recompensa</u>: {1}
 Badges:
 Badges:
 Pokédex:
@@ -54827,11 +54827,11 @@ It was stored in box "{1}".
 You check {1}, and discover that its ability is <imp>{2}</imp>!
 Você verifica {1} e descobre que sua habilidade é <imp>{2}</imp>!
 The {1} is holding {2} <imp>{3}</imp>!
-The {1} is holding {2} <imp>{3}</imp>!
+{1} está segurando <imp>{3}</imp>!
 The {1} is holding {2} {3}!
-The {1} is holding {2} {3}!
+{1} está segurando {3}!
 But it mysteriously crumbled to ash...
-But it mysteriously crumbled to ash...
+Mas o item misteriosamente virou cinzas...
 Would you like to give a nickname to {1}?
 Você gostaria de apelidar {1}?
 Would you like to add {1} to your party?
@@ -58841,15 +58841,15 @@ A porta foi destrancada.
 It's {1}:{2} right now.
 It's {1}:{2} right now.
 The door resists your attempts to open it with a mystic force.
-The door resists your attempts to open it with a mystic force.
+A porta resiste às suas tentativas de abrí-la com uma força mística.
 ...oh?
 ...oh?
 \i[TAROTAMULET]The Tarot Amulet begins vibrating inside of your bag.
-\i[TAROTAMULET]The Tarot Amulet begins vibrating inside of your bag.
+\i[TAROTAMULET]O Amuleto De Tarot começa a vibrar dentro da sua Mochila.
 Not a moment later, it stops vibrating, just as suddenly as it started.
-Not a moment later, it stops vibrating, just as suddenly as it started.
+Pouquíssimo depois, ele para de vibrar, tão repentinamente quanto começou.
 How strange.
-How strange.
+Que estranho.
 Map #{mapName} (#{id}), event #{event.id}: Page has more or less commands than expected: #{mainPage.list.length}
 Map #{mapName} (#{id}), event #{event.id}: Page has more or less commands than expected: #{mainPage.list.length}
 The flame refuses to budge!
@@ -62627,7 +62627,7 @@ Farm food, fresh for feastin'.
 Grab a Tulumba, a Makyan specialty!
 Grab a Tulumba, a Makyan specialty!
 It's a vending machine.
-It's a vending machine.
+É uma máquina de vendas.
 Dock ID {1} has no unlock_switch defined. Cannot unlock!
 Dock ID {1} has no unlock_switch defined. Cannot unlock!
 You can now travel to <imp>{1}</imp> on your boat!
