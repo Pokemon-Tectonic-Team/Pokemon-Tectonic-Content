@@ -51263,7 +51263,7 @@ I can also help Pokemon to relearn moves they learned through TMs, Mentoring, or
 Use TMs
 Use TMs
 Adjust Style Points
-Adjust Style Points
+Ajustar Pontos De Estilo
 Open which utility?
 Open which utility?
 What are Technical Machines?
@@ -56773,151 +56773,151 @@ It seems to be a lump of metal!
 \wmLevel cap raised to {1}!\me<<[>>Bug catching 3rd<<]>>\wtnp<<[>>80<<]>><<1>>
 \wmLevel cap raised to {1}!\me<<[>>Bug catching 3rd<<]>>\wtnp<<[>>80<<]>><<1>>
 Adjust {1}'s Style
-Adjust {1}'s Style
+Ajustar Estilo De {1}
 Free All
-Free All
+Zerar Tudo
 Confirm
-Confirm
+Confirmar
 Final Stats
-Final Stats
+Atrib. Finais
 EHP
-EHP
+PVE
 Pool
-Pool
+Disp.
 Style
-Style
+Estilo
 ACTION/Z for
-ACTION/Z for
+AÇÃO/Z para
 quick set
-quick set
+est. rápd.
 Stocky
-Stocky
+Parrudo
 Aggressive
-Aggressive
+Agressivo
 Defensive
-Defensive
+Defensivo
 Cunning
-Cunning
+Astuto
 Suspicious
-Suspicious
+Suspeito
 Quick
-Quick
+Veloz
 Brutish
-Brutish
+Bruto
 Armored
-Armored
+Blindado
 Attuned
-Attuned
+Calibrado
 Guarded
-Guarded
+Cauteloso
 Unyielding
-Unyielding
+Imparável
 Bulky
-Bulky
+Pesado
 Variable
-Variable
+Variável
 Flowing
-Flowing
+Fluente
 Hunting
-Hunting
+Predador
 Vanguard
-Vanguard
+Vanguarda
 Prepared
-Prepared
+Preparado
 Steady
-Steady
+Estável
 Striking
-Striking
+Distinto
 Spirited
-Spirited
+Corajoso
 Blunt
-Blunt
+Sólido
 Forceful
-Forceful
+Violento
 Smooth
-Smooth
+Suave
 Blitzing
-Blitzing
+Esmagador
 Fortified
-Fortified
+Barricado
 Precautionary
-Precautionary
+Precavido
 Carefree
-Carefree
+Descuidado
 Crafty
-Crafty
+Criativo
 Serene
-Serene
+Sereno
 Energetic
-Energetic
+Energético
 Deliberate
-Deliberate
+Deliberado
 Patient
-Patient
+Paciente
 Flanking
-Flanking
+Flanco
 Strategic
-Strategic
+Estratégico
 Opportunistic
-Opportunistic
+Oportunista
 Determined
-Determined
+Determinado
 Calculating
-Calculating
+Calculista
 Tactical
-Tactical
+Tático
 Protective
-Protective
+Protetor
 Elegant
-Elegant
+Elegante
 Balanced
-Balanced
+Balanceado
 Resetting Style Points due to non-conformity with rules.
-Resetting Style Points due to non-conformity with rules.
+Redefinindo Pontos De Estilo devido à não-conformidade com as regras.
 {1} has more EVs than it's supposed to be able to!
-{1} has more EVs than it's supposed to be able to!
+{1} tem mais EVs do que deveria ter!
 There are still Style Points points left to assign!
-There are still Style Points points left to assign!
+Ainda existem Pontos De Estilo para gastar!
 Fast Attacker
-Fast Attacker
+Atacante Rápido
 Bulky Attacker
-Bulky Attacker
+Atacante Pesado
 Physical Tank
-Physical Tank
+Tanque Físico
 Special Tank
-Special Tank
+Tanque Especial
 Physical Wall
-Physical Wall
+Parede Física
 Special Wall
-Special Wall
+Parede Especial
 Physical Attacker
-Physical Attacker
+Atacante Físico
 Special Attacker
-Special Attacker
+Atacante Especial
 Bulky Physical
-Bulky Physical
+Físico Pesado
 RESTYLE
-RESTYLE
+EDITAR ESTILO
 FIRST STYLE
-FIRST STYLE
+NOVO ESTILO
 What are Style Points?
-What are Style Points?
+O que são Pontos De Estilo?
 I'm the Style Points adjuster. How can I help?
-I'm the Style Points adjuster. How can I help?
+Eu sou o ajustador de Pontos De Estilo. Como posso ajudar?
 Style Points are numbers which have an effect on your Pokemon's stats.
-Style Points are numbers which have an effect on your Pokemon's stats.
+Pontos De Estilo são números que têm efeito nos atributos de seus Pokémon.
 Pokemon start with 10 Style Points in each of their stats.
-Pokemon start with 10 Style Points in each of their stats.
+Pokémon começam com 10 Pontos De Estilo em cada um de seus atributos.
 To add Style Points to a stat, you have to remove them from another.
-To add Style Points to a stat, you have to remove them from another.
+Para adicionar Pontos De Estilo a um atributo, você deve removê-los de outro.
 Investing into Attack and Sp. Atk is extra efficient: they go up at the same time!
-Investing into Attack and Sp. Atk is extra efficient: they go up at the same time!
+Investir em Ataque e Atk. Esp. é extra-eficiente: eles são aumentados ao mesmo tempo!
 Each stat's Style Points value can go as low as 0, and can go as high as 20.
-Each stat's Style Points value can go as low as 0, and can go as high as 20.
+Os Pontos De Estilo de cada atributo podem ser no mínimo 0 e no máximo 20.
 A Pokemon's Style Point total never changes, but Style Points give bigger stat bonuses at higher levels.
-A Pokemon's Style Point total never changes, but Style Points give bigger stat bonuses at higher levels.
+O total de Pontos De Estilo de um Pokémon nunca muda, mas Pontos De Estilo dão maiores bônus de atributo com o aumentar do nível de um Pokémon.
 If you need to move quickly, try using the Quick Set option!
-If you need to move quickly, try using the Quick Set option!
+Se você quer alterá-los rapidamente, tente usar a opção "Estilo Rápido"!
 {1} forced {2} to drop their {3}!
 {1} forced {2} to drop their {3}!
 {1}'s {2} turned to dust.
