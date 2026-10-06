@@ -58839,17 +58839,17 @@ They left behind some items!
 You peer into the binoculars...
 You peer into the binoculars...
 A candy machine. It's out of candy.
-A candy machine. It's out of candy.
+Uma máquina de doces. Está sem doces.
 A candy machine. It has one batch of candy.
-A candy machine. It has one batch of candy.
+Uma máquina de doces. Possui uma leva de doces.
 A candy machine. It contains {1} batches of candy.
-A candy machine. It contains {1} batches of candy.
+Uma máquina de doces. Possui {1} levas de doces.
 A batch costs ${1}. You can't afford to pay that much!
-A batch costs ${1}. You can't afford to pay that much!
+Uma leva custa ${1}. Você não tem esse dinheiro!
 Buy some candy for ${1}?
-Buy some candy for ${1}?
+Comprar alguns doces por ${1}?
 You put in ${1}.
-You put in ${1}.
+Você coloca ${1}.
 Unassigned level passed to candyBatchCost: {1}
 Unassigned level passed to candyBatchCost: {1}
 A locked gate. It has a slot for a keycard.
