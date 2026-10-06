@@ -3805,63 +3805,63 @@ That weird item...?
 That weird item...?
 [Map39]
 *sigh*
-*sigh*
+*suspiro*
 "Hello, valued customer."
-"Hello, valued customer."
+"Olá, estimado cliente."
 "Please be informed that, until further notice, QuickMart stores across Makya will not be stocking Potions or other healing medicine."
-"Please be informed that, until further notice, QuickMart stores across Makya will not be stocking Potions or other healing medicine."
+"Informamos que, até segunda ordem, lojas QuickMart ao redor de Makya não terão mais estoque de Poções ou outros medicamentos.""
 Not like anyone even uses those anymore...
-Not like anyone even uses those anymore...
+Não é como se alguém os usasse, de qualquer maneira...
 Er, by that I mean... should you require healing items for your Pokemon...
-Er, by that I mean... should you require healing items for your Pokemon...
+Éééé, quer dizer... caso você necessite de itens de cura para seus Pokémon...
 "Please access the VendCo <imp>vending machine</imp> conveniently placed near each QuickMart employee."
-"Please access the VendCo <imp>vending machine</imp> conveniently placed near each QuickMart employee."
+"Por favor, acesse as <imp>máquinas de vendas</imp> VendCo, convenientemente colocadas próximas de cada funcionário QuickMart."
 "VendCo is proud to provide for all of your healing needs here in Makya."
-"VendCo is proud to provide for all of your healing needs here in Makya."
+"VendCo tem orgulho de suprir todas as suas necessidades de cura aqui em Makya."
 Hello, and welcome to the Casaba Villa Pokécenter!
-Hello, and welcome to the Casaba Villa Pokécenter!
+Olá, e boas-vindas ao Centro Pokémon da Vila Casaba!
 Oh, you're new to Makya, are you?
-Oh, you're new to Makya, are you?
+Ah, é sua primeira vez em Makya, não é?
 An emergency measure was introduced recently to help trainers who might be in danger from avatar attacks.
-An emergency measure was introduced recently to help trainers who might be in danger from avatar attacks.
+Uma medida de emergência foi introduzida recentemente para ajudar treinadores que podem estar vulneráveis a ataques de Avatares.
 According to that new measure, I'm supposed to give you this.
-According to that new measure, I'm supposed to give you this.
+De acordo com essa nova medida, tenho que te entregar isto.
 Use this Aid Kit to heal your entire party!
-Use this Aid Kit to heal your entire party!
+Use esse Kit Médico para curar sua equipe inteira!
 Fainted Pokemon will be revived and their statuses will be healed.
-Fainted Pokemon will be revived and their statuses will be healed.
+Pokémon desmaiados serão revividos e suas condições de status serão curadas.
 It has a limited number of uses, but any nurse or other healer you meet will restore its supplies back up to full!
-It has a limited number of uses, but any nurse or other healer you meet will restore its supplies back up to full!
+Tem um número limitado de usos, mas qualquer enfermeira ou outro médico que você encontrar pode reabastecê-lo para você.
 Thank you for your patience while I explained all of that.
-Thank you for your patience while I explained all of that.
+Obrigada pela sua paciência enquanto eu explicava tudo isso.
 I will resume my normal duties now.
-I will resume my normal duties now.
+Seguirei com minhas atividades normais agora.
 My Pokemon is mad at me.
-My Pokemon is mad at me.
+Meu Pokémon está bravo comigo.
 It wants to spend more time in the sunshine... but I just want to relax in my room.
-It wants to spend more time in the sunshine... but I just want to relax in my room.
+Ele quer passar mais tempo na Luz Solar... mas eu só quero ficar tranquilo no meu quarto.
 Hmm... maybe it's time to find a Ghost-type Pokemon.
-Hmm... maybe it's time to find a Ghost-type Pokemon.
+Hmm... talvez seja hora de eu encontrar um Pokémon do tipo Fantasma.
 Then I won't have to worry about getting it sunlight.
-Then I won't have to worry about getting it sunlight.
+Assim, não terei que me preocupar em levá-lo para tomar sol.
 If you happen to have one, I'll trade you my Applin for it.
-If you happen to have one, I'll trade you my Applin for it.
+Se você por acaso tiver um, eu te dou meu Applin por ele.
 Fair enough. Maybe I can teach it to enjoy relaxation for once.
-Fair enough. Maybe I can teach it to enjoy relaxation for once.
+Justo. Talvez eu possa ensiná-lo a relaxar um pouco pelo menos uma vez.
 Ah, you got its hopes up. Mean.
-Ah, you got its hopes up. Mean.
+Ah, você criou expectativas nele. Que mancada.
 Sweet, let's get this show on the road.
-Sweet, let's get this show on the road.
+Legal, vambora.
 Dope. C'mon, new buddy. Let's go back to my lair.
-Dope. C'mon, new buddy. Let's go back to my lair.
+Bacana. Vamos lá, amigão. Vamos voltar pro meu covil
 After beating the seventh gym, I decided that the team and I needed a vacation.
-After beating the seventh gym, I decided that the team and I needed a vacation.
+Depois de derrotar o sétimo Ginásio, decidi que minha equipe e eu merecemos umas férias.
 Need to be rested up before the championship, right?
-Need to be rested up before the championship, right?
+É bom estar com a mente descansada antes do Campeonato, não é?
 No
-No
+Não
 Yes
-Yes
+Sim
 [Map40]
 AGHHH!!!
 AGHHH!!!
