@@ -7170,7 +7170,7 @@ It looks like the machine is dead. You can't heal your Pokemon here.
 The PC is dead. You can't access your storage from here.
 The PC is dead. You can't access your storage from here.
 I'll take your Pokémon for a few seconds.
-I'll take your Pokémon for a few seconds.
+Pegarei seus Pokémon por alguns segundos.
 Hehe. Just kidding.
 Hehe. Just kidding.
 [Map103]
@@ -8922,11 +8922,11 @@ I'm just here to discuss some possible changes to the monument with Jovan.
 You've met, I believe?
 You've met, I believe?
 I'll take your Pokémon for a few seconds.
-I'll take your Pokémon for a few seconds.
+Pegarei seus Pokémon por alguns segundos.
 First, you should restore your Pokémon to full health.
-First, you should restore your Pokémon to full health.
+Primeiro, deveríamos restaurar seus Pokémon à saúde máxima.
 We hope you excel!
-We hope you excel!
+Te desejamos sorte!
 Offensive Pokémon need offensive moves.
 Offensive Pokémon need offensive moves.
 Most of the time you’ve got more moves than types.
@@ -22403,11 +22403,11 @@ Holy Miltank you won the whole thing!
 I'm sorry to say but I didn't see that coming at all.
 I'm sorry to say but I didn't see that coming at all.
 I'll take your Pokémon for a few seconds.
-I'll take your Pokémon for a few seconds.
+Pegarei seus Pokémon por alguns segundos.
 First, you should restore your Pokémon to full health.
-First, you should restore your Pokémon to full health.
+Primeiro, deveríamos restaurar seus Pokémon à saúde máxima.
 We hope you excel!
-We hope you excel!
+Te desejamos sorte!
 I've crunched the numbers, evaluated teams, placed my bets...
 I've crunched the numbers, evaluated teams, placed my bets...
 This \PN person I'm telling ya, they're lookin' to take the whole thing.
@@ -58941,15 +58941,15 @@ Equipe Da Insígnia {1}
 Use the Battle Report immediately?
 Usar o Relatório De Batalha imediatamente?
 First, you should restore your Pokémon to full health.
-First, you should restore your Pokémon to full health.
+Primeiro, deveríamos restaurar seus Pokémon à saúde máxima.
 I'll take your Pokémon for a few seconds.
-I'll take your Pokémon for a few seconds.
+Pegarei seus Pokémon por alguns segundos.
 Let's get your Pokémon patched up.
 Let's get your Pokémon patched up.
 Here, let me heal your Pokémon.
 Here, let me heal your Pokémon.
 We hope you excel!
-We hope you excel!
+Te desejamos sorte!
 Best of luck to you!
 Best of luck to you!
 You stuff your Aid Kit full from your large stack of supplies!
