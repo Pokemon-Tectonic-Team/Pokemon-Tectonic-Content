@@ -51165,7 +51165,7 @@ Max. HP<r>{1}<<r>><<n>>Attack<r>{2}<<r>><<n>>Defense<r>{3}<<r>><<n>>Sp. Atk<r>{4
 {1}'s ability was changed to {2}.
 {1}'s ability was changed to {2}.
 Close pocket.
-Close pocket.
+Fechar bolso.
 Select a pocket.
 Selecione um bolso.
 Use
