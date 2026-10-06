@@ -51181,7 +51181,7 @@ Marcar
 {1} is selected.
 {1} selecionado(a).
 There is no Pokémon.
-There is no Pokémon.
+Não há Pokémon.
 The {1} can't be held.
 Não é possível equipar {1}.
 Toss out how many {1}?
@@ -51199,17 +51199,17 @@ Make Mystery Gift
 Choose new quantity of {1} (max. {2}).
 Choose new quantity of {1} (max. {2}).
 How many do you want to withdraw?
-How many do you want to withdraw?
+Quantos(as) você quer retirar?
 Withdrew {1} {2}.
-Withdrew {1} {2}.
+Retirou {1} {2}.
 There's no more room in the Bag.
 Não há mais espaço na Mochila.
 How many do you want to deposit?
-How many do you want to deposit?
+Quantos(as) você quer depositar?
 There's no room to store items.
-There's no room to store items.
+Não há espaço para guardar itens.
 Deposited {1} {2}.
-Deposited {1} {2}.
+Depositou {1} {2}.
 That's too important to toss out!
 Isso é importante demais pra ser jogado fora!
 EMPTY
@@ -51219,11 +51219,11 @@ FECHAR BOLSO
 x{1: 3d}
 x{1: 3d}
 Close storage.
-Close storage.
+Fechar Cofre.
 Withdraw<<n>>Item
-Withdraw<<n>>Item
+Retirar<<n>>Item
 Toss<<n>>Item
-Toss<<n>>Item
+Descartar<<n>>Item
 CANCEL
 CANCELAR
 x{1: 2d}
@@ -51535,37 +51535,37 @@ Win Message
 Loss Message
 Loss Message
 Withdraw Item
-Withdraw Item
+Retirar Item
 Deposit Item
-Deposit Item
+Depositar Item
 Toss Item
-Toss Item
+Descartar Item
 Take out items from storage.
-Take out items from storage.
+Retirar itens do armazenamento.
 Store items in the safe.
-Store items in the safe.
+Guardar itens no cofre.
 Throw away items stored in the safe.
-Throw away items stored in the safe.
+Descartar itens guardados no cofre.
 Do nothing.
-Do nothing.
+Não fazer nada.
 There are no items.
-There are no items.
+Não há itens.
 There's no Mail here.
-There's no Mail here.
+Não há nenhuma Carta aqui.
 What do you want to do with {1}'s Mail?
-What do you want to do with {1}'s Mail?
+O que você deseja fazer com a Carta de {1}?
 Read
-Read
+Ler
 Move to Bag
-Move to Bag
+Mover para a Mochila
 The message will be lost. Is that OK?
-The message will be lost. Is that OK?
+A mensagem será perdida. Tudo bem?
 The Mail was returned to the Bag with its message erased.
-The Mail was returned to the Bag with its message erased.
+A Carta foi retornada à Mochila com sua mensagem apagada.
 The Bag is full.
-The Bag is full.
+A Mochila está cheia.
 \se[PC open]{1} booted up the PC.
-\se[PC open]{1} booted up the PC.
+\se[PC open]{1} ligou o Computador.
 Item Storage
 Item Storage
 Mailbox
