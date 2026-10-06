@@ -50229,7 +50229,7 @@ Capturar e treinar vários Pokémon é útil para fazer Mentoria.
 Mentoring lets you copy moves between your Pokémon!
 A Mentoria te permite copiar movimentos entre seus Pokémon!
 Just talk to the Mentor Coordinator in any PokéCenter.
-É só conversar com o Mentor Coordenador em qualquer Centro Pokémon.
+É só conversar com a Mentora Coordenadora em qualquer Centro Pokémon.
 Some moves are both Physical and Special! These are "Adaptive" moves.
 Alguns movimentos são tanto físicos quanto especiais! Eles chão chamados de movimentos "Mistos".
 They change based on the user's stats!
@@ -51235,19 +51235,19 @@ Search for which move?
 No matching move was found in this tab.
 No matching move was found in this tab.
 Mentor Moves
-Mentor Moves
+Mentoria De Movimentos
 What is Move Mentoring?
-What is Move Mentoring?
+O que é a Mentoria De Movimentos?
 I'm the Mentor Coordinator. How can I help?
-I'm the Mentor Coordinator. How can I help?
+Eu sou a Mentora Coordenadora. Como posso ajudar?
 I help your Pokemon to teach each other moves!
-I help your Pokemon to teach each other moves!
+Eu ajudo seus Pokémon ensinarem movimentos entre si!
 Pokemon can teach moves they know, moves they used to know, and moves earlier on their level up learnset.
-Pokemon can teach moves they know, moves they used to know, and moves earlier on their level up learnset.
+Pokémon podem ensinar movimentos que conhecem, movimentos que costumavam conhecer e movimentos que aprenderam ou poderiam ter aprendido por subir de nível.
 Any Pokemon in your party or in your PC can be a mentor.
-Any Pokemon in your party or in your PC can be a mentor.
+Qualquer Pokémon em sua equipe ou Computador pode ser um mentor.
 Pokemon can be taught any moves on their Other Moves list.
-Pokemon can be taught any moves on their Other Moves list.
+Seus Pokémon podem aprender quaisquer movimentos presentes na sua lista de "Outros Movimentos".
 Relearn Moves
 Relearn Moves
 What is Move Relearning?
@@ -51617,9 +51617,9 @@ Dar a qual Pokémon?
 {1} (PP: {2}/{3})
 {1} (PP: {2}/{3})
 ABLE
-ABLE
+CAPAZ
 NOT ABLE
-NOT ABLE
+INCAPAZ
 INELIGIBLE
 INELIGIBLE
 NOT ENTERED
