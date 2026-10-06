@@ -49813,7 +49813,7 @@ Balls: {1}
 Steps: {1}/{2}<<n>>Balls: {3}
 Steps: {1}/{2}<<n>>Balls: {3}
 Quit
-Quit
+Sair
 Caught: {1}<<n>>Level: {2}<<n>>Balls: {3}
 Caught: {1}<<n>>Level: {2}<<n>>Balls: {3}
 Caught: None<<n>>Balls: {1}
@@ -51729,59 +51729,59 @@ Salvar/Sair
 money
 dinheiro
 Welcome!
-Welcome!
+Boas-Vindas!
 Welcome, VIP! I hope you are satisfied with our services.
-Welcome, VIP! I hope you are satisfied with our services.
+Boas-Vindas, VIP! Esperamos que nossos serviços o satisfaçam.
 Welcome! How may I serve you?
-Welcome! How may I serve you?
+Boas-Vindas! Como posso te ajudar?
 Buy
-Buy
+Comprar
 Sell
-Sell
+Vender
 Quit shopping.
-Quit shopping.
+Sair
 In Bag:<r>{1}
-In Bag:<r>{1}
+Na Mochila:<r>{1}
 x{1}<r>{2}
 x{1}<r>{2}
 You don't have enough {1}.
-You don't have enough {1}.
+Você não tem {1} suficiente.
 Certainly. You want {1}. That will be {2}. OK?
-Certainly. You want {1}. That will be {2}. OK?
+Claro. Você quer {1}. Serão {2}. OK?
 {1} costs {2}. Confirm?
-{1} costs {2}. Confirm?
+{1} custa {2}. Confirmar?
 {1}? Certainly. How many would you like?
-{1}? Certainly. How many would you like?
+{1}? Claro. De quantos(as) você precisa?
 You've selected {1}. Choose the amount.
-You've selected {1}. Choose the amount.
+Você selecionou {1}. Escolha a quantidade.
 {1}, and you want {2}. That will be {3}. OK?
-{1}, and you want {2}. That will be {3}. OK?
+{1}, e você quer {2}. Serão {3}, OK?
 Total cost: {3}. Confirm?
-Total cost: {3}. Confirm?
+Custo total: {3}. Confirmar?
 Failed to delete stored items
 Não foi possível deletar itens guardados
 You have no more room in the Bag.
 Você não tem mais espaço na Mochila.
 Here you are! Thank you!
-Here you are! Thank you!
+Aqui está! Agradecemos a preferência!
 Purchase complete.
-Purchase complete.
+Compra completa.
 I'll throw in a Premier Ball, too.
-I'll throw in a Premier Ball, too.
+Te daremos, também, uma Bola Presenteada.
 You got a free Premier Ball with your purchase!
-You got a free Premier Ball with your purchase!
+Você ganhou uma Bola Presenteada de graça com sua compra!
 I'll throw in some Premier Balls, too.
-I'll throw in some Premier Balls, too.
+Te daremos, também, algumas Bolas Presenteadas.
 You got some free Premier Balls with your purchase!
-You got some free Premier Balls with your purchase!
+Você ganhou algumas Bolas Presenteadas de graça com sua compra!
 {1}? Oh, no. I can't buy that.
-{1}? Oh, no. I can't buy that.
+{1}? Oh, não. Não posso comprar isso.
 {1}? How many would you like to sell?
-{1}? How many would you like to sell?
+{1}? Quantos(as) gostaria de vender?
 I can pay {1}. Would that be OK?
-I can pay {1}. Would that be OK?
+Posso pagar {1}. Tudo bem para você?
 Turned over the {1} and received {2}.
-Turned over the {1} and received {2}.
+Você abriu mão de {1} e recebeu {2}.
 Back
 Voltar
 {1} ({2}/{3})
