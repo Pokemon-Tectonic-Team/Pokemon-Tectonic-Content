@@ -51239,9 +51239,9 @@ Mentoria De Movimentos
 What is Move Mentoring?
 O que é a Mentoria De Movimentos?
 I'm the Mentor Coordinator. How can I help?
-Eu sou a Mentora Coordenadora. Como posso ajudar?
+Sou a Mentora Coordenadora. Como posso ajudar?
 I help your Pokemon to teach each other moves!
-Eu ajudo seus Pokémon ensinarem movimentos entre si!
+Eu ajudo seus Pokémon a ensinarem movimentos entre si!
 Pokemon can teach moves they know, moves they used to know, and moves earlier on their level up learnset.
 Pokémon podem ensinar movimentos que conhecem, movimentos que costumavam conhecer e movimentos que aprenderam ou poderiam ter aprendido por subir de nível.
 Any Pokemon in your party or in your PC can be a mentor.
@@ -51249,17 +51249,17 @@ Qualquer Pokémon em sua equipe ou Computador pode ser um mentor.
 Pokemon can be taught any moves on their Other Moves list.
 Seus Pokémon podem aprender quaisquer movimentos presentes na sua lista de "Outros Movimentos".
 Relearn Moves
-Relearn Moves
+Recordar Movimentos
 What is Move Relearning?
-What is Move Relearning?
+O que é Recordação De Movimentos?
 I'm the Move Relearner. How can I help?
-I'm the Move Relearner. How can I help?
+Sou o Recordador De Movimentos. Como posso ajudar?
 I can teach moves to your Pokémon -- at no cost!
-I can teach moves to your Pokémon -- at no cost!
+Posso ensinar movimetos aos seus Pokémon -- é de graça!
 I know every single move that Pokémon learn while leveling up or evolving.
-I know every single move that Pokémon learn while leveling up or evolving.
+Conheço todo e qualquer movimento que Pokémon aprendem ao subir de nível ou evoluir.
 I can also help Pokemon to relearn moves they learned through TMs, Mentoring, or Sketching!
-I can also help Pokemon to relearn moves they learned through TMs, Mentoring, or Sketching!
+Posso, também, ajudar pokémon a reaprenderem movimentos que aprenderam com TMs, Mentorias ou Rascunhando!
 Use TMs
 Use TMs
 Adjust Style Points
@@ -56903,7 +56903,7 @@ NOVO ESTILO
 What are Style Points?
 O que são Pontos De Estilo?
 I'm the Style Points adjuster. How can I help?
-Eu sou o ajustador de Pontos De Estilo. Como posso ajudar?
+Sou o ajustador de Pontos De Estilo. Como posso ajudar?
 Style Points are numbers which have an effect on your Pokemon's stats.
 Pontos De Estilo são números que têm efeito nos atributos de seus Pokémon.
 Pokemon start with 10 Style Points in each of their stats.
