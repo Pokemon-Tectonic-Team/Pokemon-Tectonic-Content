@@ -58681,85 +58681,85 @@ ANIMATION
 {1} Moves
 {1} Moves
 Category
-Category
+Categoria
 Text
-Text
+Texto
 Attempted to do a combined search, but no matching moves were found.
-Attempted to do a combined search, but no matching moves were found.
+Foi tentada uma pesquisa combinada, mas nenhum movimento foi encontrado.
 No matching moves were found.
-No matching moves were found.
+Nenhum movimento foi encontrado.
 Move data written to Analysis/moves.csv
 Move data written to Analysis/moves.csv
 Search name...
-Search name...
+Procurar nome...
 Not Status
-Not Status
+Não Status
 Which category?
-Which category?
+Qual categoria?
 Search move desc...
-Search move desc...
+Procurar desc. de movimento...
 Tag
-Tag
+Etiqueta
 Effect Chance
-Effect Chance
+Chance De Efeito
 Priority
-Priority
+Prioridade
 Signature
-Signature
+Assinatura
 Has Notes
-Has Notes
+Possui Anotações
 Learnable By
-Learnable By
+Aprendível Por
 Uninvocable
-Uninvocable
+Não Invocável
 Custom Animation
-Custom Animation
+Animação Customizada
 Canon
-Canon
+Canônico
 Which tag?
-Which tag?
+Qual etiqueta?
 Equal to
-Equal to
+Igual a
 Greater than
-Greater than
+Maior que
 Less than
-Less than
+Menor que
 Enter value.
-Enter value.
+Insira valor.
 Which targeting?
-Which targeting?
+Que tipo de alvo?
 Single Target
-Single Target
+Alvo Único
 Multi Target
-Multi Target
+Alvo Múltiplo
 No Target
-No Target
+Sem Alvo
 Which multi-target?
-Which multi-target?
+Que tipo de alvo múltiplo?
 Foes Only
-Foes Only
+Apenas Oponentes
 Targets Allies
-Targets Allies
+Atinge Aliados
 Not Signature
-Not Signature
+Não Assinatura
 Move learnable by?
-Move learnable by?
+Movimento aprendido por?
 Party Pokemon
-Party Pokemon
+Pokémon Na Equipe
 Caught Pokemon
-Caught Pokemon
+Pokémon Capturados
 Is Canon?
-Is Canon?
+É Canônico?
 Does
-Does
+Tem
 Has Custom Animation?
-Has Custom Animation?
+Tem Animação Customizada?
 Level Up Learners
-Level Up Learners
+Aprendedores Por Nível
 Other Learners
-Other Learners
+Outros Aprendedores
 Which sort
-Which sort
+Como ordenar
 Receiving every major tool item.
 Receiving every major tool item.
 Circuit puzzle with ID {1} not found. Aborting.
