@@ -33583,7 +33583,7 @@ Test Form
 Test Form
 [5]
 After You
-After You
+Depois De Você
 Assist
 Assist
 Belly Drum
@@ -33713,7 +33713,7 @@ Sketch
 Slack Off
 Slack Off
 Slash
-Slash
+Talho
 Smelling Salts
 Smelling Salts
 Snore
@@ -33833,11 +33833,11 @@ Thunderous Kick
 Vacuum Wave
 Vacuum Wave
 Acrobatics
-Acrobatics
+Acrobático
 Aerial Ace
-Aerial Ace
+Ás Dos Ares
 Air Slash
-Air Slash
+Golpe De Ar
 Beak Blast
 Beak Blast
 Bleakwind Storm
@@ -33871,9 +33871,9 @@ Tailwind
 Whirlwind
 Whirlwind
 Acid
-Acid
+Ácido
 Acid Spray
-Acid Spray
+Spray Ácido
 Belch
 Belch
 Clear Smog
@@ -33941,7 +33941,7 @@ Thousand Arrows
 Thousand Waves
 Thousand Waves
 Accelerock
-Accelerock
+Rocha Veloz
 Ancient Power
 Ancient Power
 Diamond Storm
@@ -34221,7 +34221,7 @@ Water Shuriken
 Water Spout
 Water Spout
 Absorb
-Absorb
+Absorver
 Aromatherapy
 Aromatherapy
 Bullet Seed
@@ -34331,7 +34331,7 @@ Zap Cannon
 Zing Zap
 Zing Zap
 Agility
-Agility
+Agilidade
 Amnesia
 Amnesia
 Calm Mind
@@ -34569,9 +34569,9 @@ Secret Power
 Revelation Dance
 Revelation Dance
 Acedian Impact
-Acedian Impact
+Impacto Do Torpor
 Aim True
-Aim True
+Mira Inabalável
 Bare Teeth
 Bare Teeth
 Bedfellows
@@ -34685,7 +34685,7 @@ World Revolving
 Young Again
 Young Again
 Adrenalash
-Adrenalash
+Chicote Exaltado
 Art of War
 Art of War
 Aura Flux
@@ -34749,7 +34749,7 @@ Whip Trance
 Whirlwind Kick
 Whirlwind Kick
 Air Strike
-Air Strike
+Mergulho Aéreo
 Atmospheric Burst
 Atmospheric Burst
 Bird's-Eye View
@@ -34809,11 +34809,11 @@ Wind Tunnel
 Wing Crash
 Wing Crash
 Acid Ball
-Acid Ball
+Bola Ácida
 Acid Bath
-Acid Bath
+Banho Ácido
 Acid Breach
-Acid Breach
+Rompimento Ácido
 Battery Acid
 Battery Acid
 Blight
@@ -34919,7 +34919,7 @@ Tread On
 Vent
 Vent
 Adamantine Press
-Adamantine Press
+Prensa Adamantina
 Bedrock Breaker
 Bedrock Breaker
 Blunt Force
@@ -34989,7 +34989,7 @@ Terraform
 Wave of Jade
 Wave of Jade
 Agonize
-Agonize
+Agonizar
 Allergy
 Allergy
 Bio Flash
@@ -35139,7 +35139,7 @@ Wailing Blow
 Wraith Wrath
 Wraith Wrath
 All For One
-All For One
+Todos Por Um
 Bullet Charge
 Bullet Charge
 Cavalry Charge
@@ -35217,7 +35217,7 @@ Weigh Anchor
 Weld
 Weld
 Absolute Radiance
-Absolute Radiance
+Absoluta Radiância
 Blazing Speed
 Blazing Speed
 Broil
@@ -35455,7 +35455,7 @@ Vine Trap
 Whip Kick
 Whip Kick
 Advancing Voltage
-Advancing Voltage
+Voltagem Penetrante
 Amp Up
 Amp Up
 Arc Lamp
@@ -35541,7 +35541,7 @@ Volt Seekers
 Wall of Sound
 Wall of Sound
 Aberrant Mote
-Aberrant Mote
+Partícula Aberrante
 Anatman
 Anatman
 Blind Side
@@ -35635,7 +35635,7 @@ Trickster's Domain
 Tutelage
 Tutelage
 Absolute Zero
-Absolute Zero
+Zero Absoluto
 Aurora Flash
 Aurora Flash
 Chill
@@ -35781,7 +35781,7 @@ Wingspan Eclipse
 Wyrmwounding
 Wyrmwounding
 Abyssal Mist
-Abyssal Mist
+Névoa Abissal
 Backhand
 Backhand
 Bad Blood
@@ -36172,7 +36172,7 @@ Test Move
 Test Move
 [6]
 The user helps the target and makes it use its move right after the user.
-The user helps the target and makes it use its move right after the user.
+O usuário ajuda o alvo, fazendo-o usar seu movimento logo após o usuário.
 The user hurriedly and randomly uses a move among those known by other Pokémon in the party.
 The user hurriedly and randomly uses a move among those known by other Pokémon in the party.
 The user maximizes its Attack in exchange for HP equal to half its max HP.
@@ -36302,7 +36302,7 @@ It enables the user to permanently learn the move last used by the foe. Once use
 By slacking off, the user heals itself by half of its max HP.
 By slacking off, the user heals itself by half of its max HP.
 The target is attacked with a slash of claws or blades. Can random critical hit.
-The target is attacked with a slash of claws or blades. Can random critical hit.
+O alvo é rasgado com um golpe de garras ou de lâminas. Tem chance de acerto crítico.
 This attack inflicts double damage on a numbed foe. It also cures the target's numbing, however.
 This attack inflicts double damage on a numbed foe. It also cures the target's numbing, however.
 The user emits a snoring sound. This move can only be used while asleep.
@@ -36422,11 +36422,11 @@ The user kicks the target with lightning-like movement. It lowers the target's D
 The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.
 The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.
 The user nimbly strikes the foe. Doubles in damage if the user has no item when the move starts.
-The user nimbly strikes the foe. Doubles in damage if the user has no item when the move starts.
+O usuário agilmente atinge o alvo. Dobra de dano se o usuário não tiver nenhum item equipado quando o movimento começar.
 The user confounds the foe with speed, then slashes. Can't miss and skips protections.
-The user confounds the foe with speed, then slashes. Can't miss and skips protections.
+O usuário confunde o oponente com sua velocidade, então ataca. Não pode errar e ignora proteções.
 The user attacks with air that slices even the sky. It has a 40% chance to flinch the target.
-The user attacks with air that slices even the sky. It has a 40% chance to flinch the target.
+O usuário ataca com ar que corta até mesmo os céus. Tem 40% de chance de fazer o alvo hesitar.
 The user heats up its beak before attacking. If hit by a foe's physical move, burns the attacker.
 The user heats up its beak before attacking. If hit by a foe's physical move, burns the attacker.
 The user attacks foes with savagely cold winds. It has a 30% chance to frostbite.
@@ -36458,9 +36458,9 @@ The user heals itself by half of its max HP. The user loses Flying-type this tur
 The user whips up a turbulent whirlwind that doubles the Speed of all party Pokémon for four turns.
 The user whips up a turbulent whirlwind that doubles the Speed of all party Pokémon for four turns.
 The foe is attacked with a spray of harsh acid. It has a 20% chance to lower Sp. Def.
-The foe is attacked with a spray of harsh acid. It has a 20% chance to lower Sp. Def.
+O oponente é atacado com um spray de um ácido forte. Tem 20% de chance de diminuir Def. Esp.
 The user spits fluid that works to melt the target. This lowers the target's Sp. Def by four steps.
-The user spits fluid that works to melt the target. This lowers the target's Sp. Def by four steps.
+O usuário cospe um fluido que derrete o alvo. Isso diminui a Def. Esp. do alvo em quatro níveis.
 The user lets out a damaging belch at the target. Deals double damage if the user has eaten a berry this battle.
 The user lets out a damaging belch at the target. Deals double damage if the user has eaten a berry this battle.
 The user attacks with a cloud of white smoke. This resets the target's positive stat changes.
@@ -36528,7 +36528,7 @@ This move also hits Pokémon that are in the air. Those Pokémon are knocked dow
 The user attacks with a wave that crawls along the ground. Those it hits are trapped.
 The user attacks with a wave that crawls along the ground. Those it hits are trapped.
 The user smashes into the target at high speed. This move always goes first.
-The user smashes into the target at high speed. This move always goes first.
+O usuário esmaga o alvo em alta velocidade. Esse movimento sempre vai primeiro.
 The user attacks with a prehistoric power. It has a 20% chance to raise all stats.
 The user attacks with a prehistoric power. It has a 20% chance to raise all stats.
 The user whips up a storm of diamonds to damage foes, raising its Defense and Sp. Def.
@@ -36802,7 +36802,7 @@ The user multi-hits the target two to five times with throwing stars. This move 
 The user spouts water to damage the foe. Weakens in damage as the user loses HP. Weakest at half HP.
 The user spouts water to damage the foe. Weakens in damage as the user loses HP. Weakest at half HP.
 A nutrient-draining attack. The user's HP is restored by 50% of the damage dealt.
-A nutrient-draining attack. The user's HP is restored by 50% of the damage dealt.
+Um ataque que drena nutrientes. Os PV do usuário são recuperados em 50% do dano causado.
 The user releases a soothing scent that heals all non-volatile status conditions affecting the user's party.
 The user releases a soothing scent that heals all non-volatile status conditions affecting the user's party.
 The user forcefully shoots seeds at the target. It multi-hits two to five times.
@@ -36906,7 +36906,7 @@ The user fires an electric blast like a cannon to inflict damage and cause numbi
 A strong electric blast crashes down on the target. It has a 60% chance to flinch the target.
 A strong electric blast crashes down on the target. It has a 60% chance to flinch the target.
 The user relaxes and lightens its body to move faster, raising its Speed by four steps.
-The user relaxes and lightens its body to move faster, raising its Speed by four steps.
+O usuário relaxa e torna seu corpo mais leve para se mover mais rápido, aumentando sua Velocidade em quatro níveis.
 The user temporarily empties its mind to forget its concerns. It raises the user's Sp. Def by four steps.
 The user temporarily empties its mind to forget its concerns. It raises the user's Sp. Def by four steps.
 The user quietly focuses its mind to raise its Sp. Atk and Sp. Def by two steps.
@@ -37140,9 +37140,9 @@ The user attacks with a secret power that has a 30% chance to cause an effect. T
 The user attacks the target by dancing very hard.
 The user attacks the target by dancing very hard.
 An attack empowered by the might of a lazy king. It skips and destroys protections.
-An attack empowered by the might of a lazy king. It skips and destroys protections.
+Um ataque desferido com o poder de um rei preguiçoso. Ignora e destrói proteções.
 The user steadies its eyes, mind, and body in order to maximize its Accuracy.
-The user steadies its eyes, mind, and body in order to maximize its Accuracy.
+O usuário estabiliza seus olhos, mente e corpo para maximizar sua Precisão.
 The user exposes its teeth in a menacing way, lowering the target's Defense by four steps.
 The user exposes its teeth in a menacing way, lowering the target's Defense by four steps.
 The user and the target both fall asleep, fully restoring their HP and healing any non-volatile status conditions.
@@ -37254,7 +37254,7 @@ Alters the reality of the area to damage a foe. Puzzle Room is created for five 
 The user conjures up the past, transforming the target into their previous evolutionary form.
 The user conjures up the past, transforming the target into their previous evolutionary form.
 The user forms their excitement into a lash with a 20% chance of raising the user's Sp. Atk.
-The user forms their excitement into a lash with a 20% chance of raising the user's Sp. Atk.
+O usuário manifesta seu entusiasmo em um chicote que possui 20% de chance de aumentar seu Atk. Esp.
 Enables random critical hits for the user, doubles its critical hit chance, and raises its Attack and Defense by two steps.
 Enables random critical hits for the user, doubles its critical hit chance, and raises its Attack and Defense by two steps.
 The user contorts the target's chi with an energy pulse, damaging it and lowering its Sp. Def.
@@ -37316,7 +37316,7 @@ The user relentlessly rampages with its whip-like hands for two turns. Each hit 
 The user kicks while rotating at high speed, dashing across the battlefield to deal damage to all nearby battlers.
 The user kicks while rotating at high speed, dashing across the battlefield to deal damage to all nearby battlers.
 A reckless rushing attack from the air. The user also takes 25% recoil.
-A reckless rushing attack from the air. The user also takes 25% recoil.
+Uma investida aérea perigosa vinda dos céus. O usuário também leva 25% de dano colateral.
 The user compresses air around the target to impossible density. If the move is super- or hyper-effective, damage is increased by 30%.
 The user compresses air around the target to impossible density. If the move is super- or hyper-effective, damage is increased by 30%.
 The user takes an aerial look at the field. This raises its Sp. Atk, Defense, and Accuracy by two steps.
@@ -37376,11 +37376,11 @@ Wind rapidly spins the target in place to multi-hit two to five times.
 The target is struck with large, imposing wings. The user also takes 20% recoil.
 The target is struck with large, imposing wings. The user also takes 20% recoil.
 The user lobs harsh acid at the target. It has a 20% chance to lower Sp. Def.
-The user lobs harsh acid at the target. It has a 20% chance to lower Sp. Def.
+O usuário arremessa um ácido forte no alvo. Tem 20% de chance de diminuir Def. Esp.
 The user and target bathe in acid. The user loses half its current HP.
-The user and target bathe in acid. The user loses half its current HP.
+O usuário e o alvo são banhados em ácido. O usuário perde metade de seus PV atuais.
 The user lashes the target with its corroded tail. This hits Steel-types for neutral damage and lowers Defense.
-The user lashes the target with its corroded tail. This hits Steel-types for neutral damage and lowers Defense.
+O usuário chicoteia o alvo com sua cauda corrosiva. Isso atinge tipos Aço com dano neutro e também diminui Defesa.
 The user sprays the target with a corrosive chemical solution. It has a 30% chance to numb.
 The user sprays the target with a corrosive chemical solution. It has a 30% chance to numb.
 The user infects the target with a touch and also destroys any Herbs it's holding.
@@ -37486,7 +37486,7 @@ The user attacks the opposing Pokémon by trampling it. It has a 20% chance to l
 Stress cracks form underneath the target, blasting them with volcanic ash. It has a 40% chance to lower Sp. Def.
 Stress cracks form underneath the target, blasting them with volcanic ash. It has a 40% chance to lower Sp. Def.
 The user slams the target with their rock-hard body.
-The user slams the target with their rock-hard body.
+O usuário lança-se contra o alvo com seu corpo rochoso.
 The user smashes its rock-hard head into the target. The user also takes 33% recoil.
 The user smashes its rock-hard head into the target. The user also takes 33% recoil.
 The user bludgeons the target's arms and legs with a large rock. This has a 50% chance to fracture it.
@@ -37556,7 +37556,7 @@ Churns nearby rocks, dealing damage to nearby Pokémon and removing hazards from
 The user emits a wave of green light to strike near foes. Deals double damage to those slower than the user.
 The user emits a wave of green light to strike near foes. Deals double damage to those slower than the user.
 The user injects the target with an extremely painful bio-chemical. It has a 10% chance to poison.
-The user injects the target with an extremely painful bio-chemical. It has a 10% chance to poison.
+O usuário injeta um bioquímico extremamente doloroso no alvo. Tem 10% de chance de envenenar.
 The user makes the target have an allergic reaction. This lowers their Speed by three steps.
 The user makes the target have an allergic reaction. This lowers their Speed by three steps.
 The user shoots out a quick flash of bioluminescence to damage the target. This move always goes first.
@@ -37702,7 +37702,7 @@ The user attacks while wailing. It has a 40% chance to flinch the target.
 The user channels the anger of wronged spirits, going on a rampage for two turns.
 The user channels the anger of wronged spirits, going on a rampage for two turns.
 The user slashes with gusto, inspiring its allies to follow up by using Slash on the target.
-The user slashes with gusto, inspiring its allies to follow up by using Slash on the target.
+O usuário corta com entusiasmo, inspirando seus aliados a acompanharem usando Talho no alvo.
 The user uses gunpowder to rocket at its foe. It has a 30% chance to raise its Speed.
 The user uses gunpowder to rocket at its foe. It has a 30% chance to raise its Speed.
 A reckless maneuver that forces the user to switch out if it misses. Always goes first.
@@ -37780,7 +37780,7 @@ The user drags the target into the water with a heavy anchor. They become waterl
 Welds heavy steel onto the target, giving it the Steel type and lowering its Speed by four steps.
 Welds heavy steel onto the target, giving it the Steel type and lowering its Speed by four steps.
 Charges by summoning sunshine for five turns, then overwhelms the foe with fiery light on the second turn.
-Charges by summoning sunshine for five turns, then overwhelms the foe with fiery light on the second turn.
+Carrega no primeiro turno, invocando Luz Solar por cinco turnos, então submerge o oponente em luz ardente no segundo turno.
 The user rushes the target at blazing-fast speed. This attack always goes before any other move.
 The user rushes the target at blazing-fast speed. This attack always goes before any other move.
 The user attacks by sending a wave of hot air towards the target. It has a 30% chance to burn.
@@ -38012,7 +38012,7 @@ The user wraps the target in its vines, trapping and binding it for three turns.
 The user whips their legs into the target like a plant. This has a 10% chance of leeching.
 The user whips their legs into the target like a plant. This has a 10% chance of leeching.
 Guaranteed to critical hit if the target has no stat step changes. The target is surged forward, raising all its stats.
-Guaranteed to critical hit if the target has no stat step changes. The target is surged forward, raising all its stats.
+Garante um acerto crítico se o alvo não possui mudanças de atributo. O alvo é disparado para frente, aumentando todos os seus atributos.
 The user assists an ally's next move, boosting its power by 50% and letting it move right after the user.
 The user assists an ally's next move, boosting its power by 50% and letting it move right after the user.
 A flare of electricity creates a bright light, damaging all nearby battlers.
@@ -38098,7 +38098,7 @@ Launches many homing bolts. Deals 50% more damage unless it's the first turn the
 The user rocks out by using each Sound-based move they know. Only one use per battle.
 The user rocks out by using each Sound-based move they know. Only one use per battle.
 The user fires a dimensional mote, lowering the target's Sp. Def.
-The user fires a dimensional mote, lowering the target's Sp. Def.
+O usuário atira uma partícula dimensional, diminuindo a Def. Esp. do alvo.
 The user meditates, raising both its Attack and Sp. Atk by four steps.
 The user meditates, raising both its Attack and Sp. Atk by four steps.
 The user skillfully attacks around the enemy's guard. Can't miss and skips protections.
@@ -38192,7 +38192,7 @@ The user creates a bizarre area in which slower Pokémon get to move first for f
 The user imparts knowledge on its ally Pokémon, raising their Sp. Atk and Sp. Def by two steps.
 The user imparts knowledge on its ally Pokémon, raising their Sp. Atk and Sp. Def by two steps.
 The user chills all near foes so severely that their speed becomes zero.
-The user chills all near foes so severely that their speed becomes zero.
+O usuário congela tão severamente oponentes próximos que suas velocidades tornam-se zero.
 An aurora borealis flashes brightly at the target, lowering their Attack. Always goes first.
 An aurora borealis flashes brightly at the target, lowering their Attack. Always goes first.
 The user lowers the target's body temperature, afflicting it with frostbite.
@@ -38332,7 +38332,7 @@ The Pokémon blots out the sky, summoning eclipse for eight turns and lowering e
 The user roots itself, then strikes at the target with serpentine strength. This has a 30% chance to leech.
 The user roots itself, then strikes at the target with serpentine strength. This has a 30% chance to leech.
 Darkness rolls over the field, damaging all other Pokémon and setting Grey Mist for five turns.
-Darkness rolls over the field, damaging all other Pokémon and setting Grey Mist for five turns.
+Escuridão consome o campo de batalha, causando dano a todos os outros Pokémon e iniciando Névoa Cinzenta por cinco turnos.
 The user insults the target using a compliment. Their Attack and Sp. Atk are raised by three steps, but they hurt themselves in confusion.
 The user insults the target using a compliment. Their Attack and Sp. Atk are raised by three steps, but they hurt themselves in confusion.
 The user maximizes its Sp. Atk in exchange for HP equal to half its max HP.
