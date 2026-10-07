@@ -50973,9 +50973,9 @@ Gravidade
 Gravity grounds all Pokémon, doubles their weight, and doubles all move Accuracy.
 A Gravidade traz todos os Pokémon em campo ao chão, dobra seus pesos e dobra a precisão de todos os movimentos.
 Grey Mist
-Névoa Cinza
+Névoa Cinzenta
 Grey Mist resets all positive and negative stat changes back to neutral at the end of every turn.
-Névoa Cinza redefine todas as mudanças de atributo, negativas ou positivas, de volta para 0 no fim de cada turno.
+Névoa Cinzenta redefine todas as mudanças de atributo, negativas ou positivas, de volta para 0 no fim de cada turno.
 Floral Gramarye
 Grimório Floral
 Floral Gramarye heals every Pokémon on the field for 1/8th HP at the end of every turn.
