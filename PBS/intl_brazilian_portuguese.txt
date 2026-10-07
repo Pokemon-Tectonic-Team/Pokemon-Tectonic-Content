@@ -52489,7 +52489,7 @@ Notes: {1}
 Search results
 Resultados
 ACTION/Z to search further.
-AÇÃO/Z para pesquisar mais a fundo.
+AÇÃO/Z para pesquisar mais.
 ACTION/Z to search.
 AÇÃO/Z para pesquisar
 Seen:
