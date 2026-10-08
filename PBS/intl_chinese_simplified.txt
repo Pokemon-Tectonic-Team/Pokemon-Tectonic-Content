@@ -51431,10 +51431,6 @@ One Form
 {1}精灵
 Ability 1
 特性 1
-Immutable
-不可改变
-Uncopyable
-不可复制
 Ability 2
 特性 2
 7/8 Male
@@ -51883,7 +51879,7 @@ Find the second gym leader, located in Novo Town (north of the Shipping Lane).
 找到第2个道馆馆主，他就在扬帆路北边的望新镇。
 Defeat the Mysterious Woman
 打败神秘女子
-A mysterious young women blocks your exit from the Shipping Lane. Defeat her to gain access to Novo Town.
+A mysterious young woman blocks your exit from the Shipping Lane. Defeat her to gain access to Novo Town.
 一名神秘的女子堵住了扬帆路的出口，打败她就能进入望新镇。
 Defeat Novo Town Gym
 打败望新道馆
@@ -57199,7 +57195,7 @@ Right as you push the seed into the soil, a sapling bursts out of it!
 {1}屹立不倒，仍然准备战斗！
 {1} goes back to sleep after being left alone.
 {1}在被独自留下后睡眠了。
-You recieved a {1} ({2})
+You received a {1} ({2})
 你收到了一个{1}（{2}）
 Editing your team is not allowed at the moment.
 暂时不能编辑队伍。
@@ -64065,6 +64061,10 @@ Release Imogene forever.
 永远地让伊梦珍离开。
 You bet.
 来吧。
+Immutable
+不可改变
+Uncopyable
+不可复制
 [27]
 0
 Animated
