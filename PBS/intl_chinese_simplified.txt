@@ -34162,8 +34162,6 @@ Pyro Ball
 火焰球
 Raging Fury
 大愤慨
-Searing Shot
-火焰弹
 Shell Trap
 陷阱甲壳
 V-create
@@ -36475,9 +36473,9 @@ The user shoots filthy garbage at the target to attack.
 用肮脏的垃圾撞向对手进行攻击。
 The user bites the target with toxic fangs with a 50% chance to poison.
 用有毒的牙齿咬住对手进行攻击，有50%概率使对手中毒。
-A cloud of poison gas is sprayed in the face of the target, poisoning it.
+A cloud of noxious gas is sprayed in the face of the target, poisoning it.
 用一团毒雾喷向目标的脸部，使其陷入中毒。
-The target is stabbed with a tentacle or arm seeped with poison. It has a 10% chance to poison.
+The target is stabbed with a tentacle or arm seeped with toxins. It has a 10% chance to poison.
 用带毒的触手或手臂刺入对手。有10%概率让对手陷入中毒状态。
 The user stabs the target with a poisonous stinger. This has a 30% chance to poison.
 将有毒的针刺入对手进行攻击。有30%概率让对手陷入中毒状态。
@@ -36749,8 +36747,6 @@ Attacks by igniting a small stone and launching it as a fiery ball.
 点燃小石子，形成火球攻击对手。
 The user rampages and attacks while spewing flames for two turns.
 使用者陷入暴走状态，连续2回合喷射出火焰进行攻击。
-An inferno of scarlet flames torches everything around the user. It has a 30% chance to burn.
-用熊熊烈火攻击自身周围所有的精灵。30%概率让对手陷入烧伤状态。
 The user rigs its shell to explode. If hit by a foe's physical move, the shell detonates and hurts all near foes.
 使用者将外壳设置为爆炸装置。若被对手的物理类技能攻击，外壳会爆炸并伤害附近的所有对手。
 With a fiery forehead, the user hurls itself at the foe. This lowers the user's Defense, Sp. Def, and Speed by two steps.
@@ -37403,7 +37399,7 @@ The user envelops the target in a foul wind. It has a 30% chance to poison.
 使用者用一股恶臭的风包围目标。有30%概率使目标中毒。
 The user stabs the opponent with a toxin-infused limb. It has a 10% chance to poison.
 注入毒素的肢体刺向对手。10%概率让对手陷入中毒状态。
-The user shoots the target with a dart made of poison. This move always goes first.
+The user shoots the target with a dart made of toxins. This move always goes first.
 使用毒药制成的飞镖攻击对手。
 The user lays a hazard layer of poison spikes on the foe's side. One layer hurts switched in foes, two layers poisons.
 使用者在对手一侧放置一层毒菱。一层会使替换进入的对手受伤，2层会使对手中毒。
@@ -37881,8 +37877,8 @@ The user pulls the target under the waves with crushing force. This has a 10% ch
 使用者用压倒性的力量将目标拉到波浪下。有10%概率使目标浸水。
 The user douses the target, healing itself by 33% of its max HP in the process.
 使用者淋浇目标，同时回复自身最大HP的33%。
-The user spews alkaline bubbles that melt the target, lowering their Defense by three steps.
-喷出碱性的气泡侵蚀对方，使其物防减小3级。
+The user spews alkaline bubbles that melt the target. For the next two turns, the target's Defense will be lowered by two steps.
+The user spews alkaline bubbles that melt the target. For the next two turns, the target's Defense will be lowered by two steps.
 Halves attack damage taken this turn. Waterlogs any attackers. Fails if used successively.
 将这1回合受到的攻击伤害减半。使攻击者浸水。如果连续使用则失败。
 The user struggles in the water, splashing it onto the target. They become waterlogged.
@@ -64538,6 +64534,18 @@ Uncopyable
 不可复制
 You received a {1} ({2})
 你收到了一个{1}（{2}）
+{1} {2} {3} {4}:{5}
+{1} {2} {3} {4}:{5}
+{1} is covered in foam!
+{1} is covered in foam!
+The foam around {1} is cleared!
+The foam around {1} is cleared!
+{1} is no longer covered in foam!
+{1} is no longer covered in foam!
+The Eroding Foam is melting {1}'s Defense!
+The Eroding Foam is melting {1}'s Defense!
+But it failed, since {1} is already covered in foam!
+But it failed, since {1} is already covered in foam!
 [27]
 0
 Animated
@@ -66781,6 +66789,8 @@ Fractured
 破碎
 Shrinking
 缩小
+Eroding Foam
+侵蚀泡沫
 Sugar Rush
 糖分激增
 Blinded
