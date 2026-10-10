@@ -336,7 +336,7 @@ I paint an impressed expression on their malleable faces – so long as you can 
 Go on, dearest. You know the rules by now.
 去吧，亲爱的，你现在已经知道规矩了。
 \i[TAROTAMULET_ACTIVE]The reversed amulet spasms and the other place impends on you.
-\i[TAROTAMULET_ACTIVE]The reversed amulet spasms and the other place impends on you. 
+\i[TAROTAMULET_ACTIVE]The reversed amulet spasms and the other place impends on you.
 That voice… it’s painfully familiar.
 那声音...熟悉地令人心痛。
 Oh, you already know who I am, child.
@@ -5682,7 +5682,7 @@ Therefore they picked Fire and Poison as their specialties.
 All battles, against Eko or the gym trainers, are 2v2! Double the pain!
 All battles, against Eko or the gym trainers, are 2v2!  Double the pain!
 Ground-types, especially with moves that hit both opposing Pokemon, are rather strong in this gym.
-Ground-types, especially with moves that hit both opposing Pokemon, are rather strong in this gym. 
+Ground-types, especially with moves that hit both opposing Pokemon, are rather strong in this gym.
 Psychic-types and Rock-types are none too shabby either.
 Psychic-types and Rock-types are none too shabby either.
 The final piece to this gym's puzzle are the teleporters.
@@ -19510,7 +19510,7 @@ Whenever saccharite was discovered, digging would be paused until the mineral co
 Mining saccharite takes time and care!
 Mining saccharite takes time and care!
 <imp>Question for Kids</imp>: Have you ever been underground? What was it like?
-<imp>Question for Kids</imp>: Have you ever been underground? What was it like? 
+<imp>Question for Kids</imp>: Have you ever been underground? What was it like?
 Yo, champ in the making!
 嘿，未来的冠军！
 Samorn might not look like it, but she was one of Team Chasm's top battlers.
@@ -26641,7 +26641,7 @@ There was a whole scrum ceremony covering this.
 We can’t just give it away!
 我们不可能拱手让人！
 Forget the ceremony, Kurt. It’s Mavis’ kid.
-Forget the ceremony, Kurt. It’s Mavis’ kid. 
+Forget the ceremony, Kurt. It’s Mavis’ kid.
 So? Helena has been on our behinds for a while and we’ve already pushed this back again and again.
 所以呢？海伦娜盯上我们多久了？我们已经不能再推了！
 If we don’t do this now, she’ll have someone else do it.
