@@ -449,7 +449,7 @@ I know things are dire everywhere right now, but… that’s why I need someone 
 我知道現在到處都很糟糕，但...正因為如此，我需要像你這樣水平的人。
 Someone with experience cleaning up Team Chasm's mistakes.
 一個有清理裂隙隊錯誤經驗的人。
-Meet me in the <imp>Circuit Cave</imp>, it's under the <imp>Canal Desert</imp>.
+Meet me in the <imp>Circuit Cave</imp>. It's under the <imp>Canal Desert</imp>.
 在<imp>電路洞窟</imp>與我會面，它位於<imp>運河沙漠</imp>下方。
 …He hung up.
 ...他掛斷了。
@@ -893,7 +893,7 @@ Healing center's uhh... to the west. So go off and do that now.
 治療中心呃...在西邊。現在趕緊去治療吧。
 She just switches around a lot? That's the "tactics" everyone around here's been hyping up?
 她只是在頻繁的換精靈？這就是他們鼓吹的“戰術”？
-I'm a bit dissapointed. Well, let's avoid getting too cocky. I should actually make my attempt before judging.
+I'm a bit disappointed. Well, let's avoid getting too cocky. I should actually make my attempt before judging.
 我有點失望...不過，也不能太自大了，我應該先試試，再做判斷才對。
 Bye bye!
 回見！
@@ -2475,7 +2475,7 @@ That thing was what we’re calling an <imp>Avatar</imp>.
 那東西就是我們所說的<imp>化身</imp>。
 They started showing up a few months back.
 幾個月前，它們突然出現在野外...
-It's rare to find a trainer that can take one on in a straight-up fight.
+Most trainers aren't brave enough to take one on in a straight-up fight.
 只有很少一部分訓練師有實力與它們正面相持。
 I heard one showed up in here and figured I had to do something before it hurt anyone, but I got cocky.
 之前聽說有這裡一隻化身，便打算在它傷人前消滅它，但我的準備沒有做足...
@@ -2542,7 +2542,7 @@ Ah, thanks. Hopefully you're a better fit than I was.
 啊，謝謝。希望你比我更合適它。
 Now my furniture can rest in peace.
 現在我的傢俱可以安息了。
-My cats and my furnature thank you.
+My cats and my furniture thank you.
 我的貓和傢俱都要謝謝你。
 The Skitty is resting comfortably on the couch.
 向尾喵愜意地躺在沙發上。
@@ -2723,23 +2723,23 @@ I'm having a lot of fun with your Pokemon.
 我們和那隻精靈相處得很開心。
 I hope my Vulpix is having fun with you.
 也希望你和六尾也能好好相處。
-Hey, you're a Trainer right? Please, I need your help.
+Hey, you're a trainer, right? Please, I need your help.
 嘿，你是個訓練師對吧？拜託我，我需要你的幫助。
-My Growlithe got spooked when I was talking it for a walk.
+My Growlithe got spooked when I was taking it for a walk.
 我的卡蒂狗在上次出去散步時受到了驚嚇。
 He ran off, and I wasn't able to find him again.
 然後他就跑了，現在也沒回來。
-He's lost somewhere in Repora Forest.
-他有可能在枯槁森林裡迷路了。
+He's lost somewhere in <imp>Repora Forest</imp>.
+他有可能在<imp>枯槁森林</imp>裡迷路了。
 Please find him, we've been together our entire lives.
 請你幫忙去找找他吧，我這輩子不能沒有他！
-Here is his Pokeball, and his favorite type of treat.
+Here is his Poké Ball, and his favorite type of treat.
 這是他的精靈球，還有他最喜歡的食物。
-He's a smart boy, so all you need to do is show him the treat and he'll return to his Pokeball.
+He's a smart boy, so all you need to do is show him the treat and he'll return to his Poké Ball.
 他是個聰明的孩子，只要你給他這些吃的，他就會自己回到精靈球裡去。
 Have you found my Growlithe yet?
 你找到我的卡蒂狗了嗎？
-I'm sure he's just cowering in some corner...
+I'm sure he's just cowering in a corner somewhere...
 他現在一定蜷縮在某個角落...
 You saved Growlithe! Thank you thank you thank you!
 你找到他了！謝謝，謝謝，真的謝謝你！
@@ -3791,7 +3791,7 @@ I thought you'd have one for sure.
 我還以為你肯定會有呢。
 Whoa! That Pokemon looks sick!
 哇！那個精靈太酷啦！
-Definately gonna take a few photos of this guy.
+Definitely gonna take a few photos of this guy.
 一定要給這傢伙拍幾張照片。
 Everyone I know is going wild over the Pokemon you traded me.
 我周圍的人都對那隻精靈很感興趣。
@@ -3811,7 +3811,7 @@ I wasn't able to uh... complete my voyage, but I don't regret it one bit!
 但是...我沒能完成，不過我一點也不後悔！
 Between you and me, working as a Team Chasm grunt was so much better than this job.
 悄悄告訴你，以前在裂隙隊時，可比現在的工作好多了。
-Here I have to smile all the time and deal with upstuck customers.
+Here I have to smile all the time and deal with stuck-up customers.
 在這裡我得一直微笑著應付那些情緒激動的客戶。
 Back then, I could just sic my Pokemon on anyone who didn't listen.
 要放以前，我直接讓精靈給他們點難忘的教訓了。
@@ -3933,7 +3933,7 @@ Can you believe the nerve of some people?
 你敢信世上竟然還有這種生物！
 The TV is turned off.
 電視沒開。
-A peice of laminated paper attached to front lists the over 300 available TV channels.
+A piece of laminated paper attached to front lists the over 300 available TV channels.
 上面貼著一疊便籤，列出了300多個可以接收的頻道。
 Oh, don't mind me, I'm just restocking this Vending Machine.
 我正在給自動售貨機補貨。
@@ -4428,7 +4428,7 @@ We'd have to worry about Pokemon scalping.
 而且其中很可能會有黑市商人。
 I make sweets that get sold at the coffee shop. Business is slow, though, so I'm spending time here.
 我在咖啡店負責甜點製作，不過生意一直不太好，所以就來這裡打發時間了。
-Would you like battle, kill some time with me?
+Would you like to battle, kill some time with me?
 要跟我來一場戰鬥，消磨掉這無聊的時光嗎？
 We can start whenever you are ready.
 只要你準備好了，我們隨意可以開始。
@@ -4476,7 +4476,7 @@ This battle will be great! I hope I don't ruin my costume though.
 這場戰鬥肯定會很精彩，但希望不要弄髒我的衣服。
 Someone should have recorded that, maybe we could have pretended we were fighting in a World Tournament!
 要是有人把這場戰鬥錄下來，再加點特技就有聯盟大賽的效果了！
-I'm one of the top trainers in the club. Being good at battling makes me feel less nervious when I wear my costumes.
+I'm one of the top trainers in the club. Being good at battling makes me feel less nervous when I wear my costumes.
 我是俱樂部的頂級訓練師，因為擅長精靈對戰，所以在cosplay時候就不會很尷尬了。
 I've started a club here, where locals can battle to entertain their Pokemon. I think of it as a way to give back to this place.
 我在這裡創建了一個俱樂部，大家可以在這裡戰鬥、聊天，也算是我回饋社會的方式吧。
@@ -4532,7 +4532,7 @@ Let's begin then!
 讓我們開始吧！
 Your spirit is sharp, kid, keep at it.
 小傢伙你的精神很敏銳，好好保持吧。
-You're going to be facing the best of club after me kid. Good luck out there.
+You're going to be facing the best of the club after me, kid. Good luck out there.
 戰勝我之後，你將面對的是俱樂部最強的成員，祝你挑戰成功。
 I'm not sure how I did it, but my bike is up there, and I am down here.
 我也不清楚發生了什麼，只知道我的自行車在那上面，而我卻站在這裡。
@@ -4590,7 +4590,7 @@ Will you entertain an old man like me?
 你想陪我這個老傢伙過過招嗎？
 I look forward to being able to battle another accomplished trainer.
 我很期待能跟一位厲害且有膽量的訓練師對戰。
-I maybe old, but I'm still got fight in me yet.
+I maybe old, but I've still got fight in me yet.
 儘管我老了，但鬥志永遠年輕！
 Amazing! I haven't felt that enthralled since the Shuppet incident! You've done me a great favor.
 在怨影娃娃事件過後，我已經很久沒這樣心潮澎湃過了，你幹得不錯，年輕人！
@@ -5777,7 +5777,7 @@ There's no reward to earn by defeating them, and your Pokemon will learn nothing
 擊敗他們不會有任何獎勵，你的精靈也不會從中學到什麼......
 But you and I both, well, we'll gain terabytes of wisdom about battling.
 但你和我，我們都會從中獲得海量的對戰智慧。
-Need I remind you--knowledge is it's own reward.
+Need I remind you--knowledge is its own reward.
 需要我提醒你嗎——知識本身就是回報。
 If you're worried about difficulty, note that the battlers automatically adjust their levels to match your skill level.
 如果你擔心難度，請注意對戰者會自動調整等級以匹配你的技能水平。
@@ -6108,7 +6108,7 @@ I wouldn't advise exploring the sewers, Trainer.
 我不建議你進入下水道，訓練師。
 The Voltorbs in there have always been jumpy, but lately they've been straight up dastardly.
 裡面的霹靂電球們神經兮兮的，總是不講武德搞偷襲！
-I can't help but think its that avatar to blame.
+I can't help but think it's that avatar to blame.
 我懷疑都是因為那個化身的出現。
 Some legendary or another, can't remember the name.
 我只知道是一個傳說中的傢伙，具體叫什麼名字，忘了。
@@ -6347,7 +6347,7 @@ Log Off
 關閉
 Bluepoint Grotto
 藍瑩洞穴
-Németh Apartments
+Novo Apartments
 望新公寓
 Sewers
 下水道
@@ -6607,17 +6607,17 @@ You purchase the Tea Store's Tea.
 你購買了茶店的茶。
 \PN put $2000 into the machine.
 \PN將2000金錢塞進了機器。
-Whoa! A Pokemon dropped out!
+Whoa! A Pokémon dropped out!
 哇！一隻精靈掉了出來！
-You can't afford the suspicious tea.
+You can't afford the suspicious Tea.
 你買不起這種可疑的茶。
-The haunted tea machine hums along.
+The haunted Tea machine hums along.
 這臺鬧鬼的自動販茶機嗡嗡作響。
 You decide against giving any more money to this accursed machine.
 你決定不再給這臺破機器投錢了。
 Another Sinistea dropped out!
 又掉出了一隻來悲茶！
-You can't afford any more tea.
+You can't afford any more Tea.
 你再也買不起茶了。
 Gross, the goods inside the cooler are rotten now.
 糟了，冰櫃裡的食物都腐爛了。
@@ -6625,7 +6625,7 @@ No
 不換
 Yes
 換
-Do Not Buy Tea
+Do not buy Tea
 不買
 Buy Tea
 買茶
@@ -8274,7 +8274,7 @@ If your team’s weak to Ice, maybe here’s where you slip in a Mach Punch or a
 如果你的隊伍弱冰，也許可以在這裡加入音速拳或噴射火焰。
 Think about it.
 好好想想。
-Heyo, \PN. Want some guaranteed one-hundred- percent success rate advice?
+Heyo, \PN. Want some guaranteed one-hundred-percent success rate advice?
 嘿，\PN。想要一些百分百成功的建議嗎？
 Never be afraid to bring, like, five Pokémon that all do the same thing.
 別害怕帶上五隻功能相同的精靈。
@@ -8290,9 +8290,9 @@ Aww. Well, at least read what I’ve written. It’s up on one of the computers.
 啊，好吧，至少讀讀我寫的東西。它在一臺電腦上。
 \PN! Nice to see you.
 \PN！能見到你真好。
-I mean, you're the champion, now, so I suppose its only natural that you'd try take on the Battle Monument.
+I mean, you're the champion, now, so I suppose it's only natural that you'd try to take on the Battle Monument.
 我是說，你現在是冠軍了，所以我理所當然的希望你能來參加對戰紀念碑的挑戰。
-I did some consulting work on the trainer AI, so I'm very aware that its quite a challenge.
+I did some consulting work on the trainer AI, so I'm very aware that it's quite a challenge.
 我之前做過訓練師AI的諮詢工作，所以我知道這有多難。
 Good luck!
 祝你好運！
@@ -8470,7 +8470,7 @@ Uhhh, literally and figuratively, I guess.
 對那把鑰匙越來越在意了。
 Hey y'all, FireStar9 here with another advanced battling vlog!
 大家好，我是火之高興9號，今天是又一場長質量對戰視頻！
-I've in the Canal Desert, where a random Avatar of Maractus is growing a bunch of cacti.
+I'm in the Canal Desert, where a random Avatar of Maractus is growing a bunch of cacti.
 今天我們來到了運河沙漠，還能看到遠處的沙鈴仙人掌化身，正投身於綠化工作。
 And now a challenger has arrived. What luck! Let's see who is destined to succeed in a battle!
 那麼現在，讓我們把目光放到挑戰者身上，看看誰能在戰鬥中拔得頭籌！
@@ -8581,7 +8581,7 @@ The archeological consensus was that they were religious artifacts from an ancie
 考古學界的共識是，它們是崇拜雷吉奇卡斯的古代種族的宗教文物。
 After years of studying them, we moved on to other subjects.
 經過多年的研究，我們轉向了其他課題。
-But then the totems suddently started <i>glowing</i>!
+But then the totems suddenly started <i>glowing</i>!
 但後來這些圖騰突然開始<i>發光</i>了！
 Nobody has been able to figure out how that happened, or what it means.
 至今沒人能弄清楚這是怎麼發生的，或者這意味著什麼。
@@ -9149,7 +9149,7 @@ No way.
 [Map137]
 I'm a safety minded person.
 我是一個很注重安全的人。
-For that reason, I wear a Hi-Vis Jacket with me wherever I go.
+For that reason, I wear a Hi-Viz Jacket with me wherever I go.
 因此，我無論走到哪裡都會帶著一件顯眼的夾克。
 Everything's changed now that Avatars are around.
 但現在有了化身這個威脅...
@@ -9667,7 +9667,7 @@ Bence or Zoé.... Zoé or Bence....
 本斯還是佐伊...本斯還是佐伊...
 Oh, forgive me, I just don't know which of the two gym leaders here I should fight.
 啊，沒什麼，我只是在猶豫挑戰哪位道館館主。
-I hope my current team will work well against both of them, but I can't know for sure.
+I hope my current team will work well against them, but I can't know for sure.
 我不確定我的精靈們，能不能很好地應對他們。
 Help me out, pal, by being my test dummy? I'll wait for your answer.
 能幫幫我不，朋友？來幾場訓練賽？
@@ -9679,9 +9679,9 @@ I'll be here until you wish to battle.
 我會在這裡等你的。
 No regrets!
 不要留有遺憾！
-Hmm.... should I go make a differnent team? Agh, I'm not sure...
+Hmm.... should I go make a different team? Agh, I'm not sure...
 嗯...我需要換掉某些精靈嗎？啊...我不知道該...
-If only I had chose different moves. Maybe I could have won that one.
+If only I had chosen different moves. Maybe I could have won that one.
 如果選的不是那個技能，或許就有機會贏了。
 Restoring my Pokemon to full health, though, ain't much of a choice.
 不過，我不會就此放棄的。
@@ -10053,7 +10053,7 @@ Here we can get you set up with a...
 在這裡，我們可以為您安排...
 ...
 ...
-Hey, is that surfboard? You surf?
+Hey, is that a surfboard? You surf?
 嘿，那是衝浪板嗎？你會衝浪嗎？
 Hey! Parker! C'mere, this dude surfs!
 嘿！帕克！過來，這個傢伙會衝浪
@@ -10145,13 +10145,13 @@ I just came back from a trip to Alola with some of my co-workers.
 我剛跟同事一起去阿羅拉旅行。
 I wanted to catch some Pokemon to help with my dance routines, so I caught a few Oricorio.
 我想捕捉一些能在舞蹈表演上幫到我的精靈，所以捕捉了一些花舞鳥。
-Unfortunately, my sound system broke on the flight back, so now I need to either get a new system or a have a Pokemon do it.
+Unfortunately, my sound system broke on the flight back, so now I need to either get a new system or have a Pokemon do it.
 但我的音響在回來的路上壞了，所以我現在要麼買一套新的，要麼就得找一隻能替代它的精靈。
 I'd probably need a Pokemon with the Loud ability. If you've got one, I'll trade you one of the Oricorio I caught.
 我需要一隻有洪亮嗓門特性的精靈，如果你有的話，我就拿一隻花舞鳥跟你交換（可在箱子裡選擇精靈）。
 A new sound system it is...
 還是再買一套音響吧...
-Asking my manager for another huge purchuse is gonna suck...
+Asking my manager for another huge purchase is gonna suck...
 說服經紀人估計會很困難...
 Oh wow! Yeah, that Pokemon is perfect!
 哇哦，真棒！這隻精靈非常合適！
@@ -10215,7 +10215,7 @@ I once visited there to train. It is where I got my first glimpse of such crushi
 我之前去那裡訓練時，第一次感受到了沉重的壓力。
 The guardians there understand my darkness, and I think they'll appreciate yours as well.
 那裡的守護者們理解我的黑暗，想必也會欣賞你的。
-I've already informed them of your imminent presense. I cannot control you, but your darkness can.
+I've already informed them of your imminent presence. I cannot control you, but your darkness can.
 我會通知他們，你即將出現，的確我無法控制你的行動，但黑暗可以。
 Go forth, and master your darkness, Trainer. Great things await you.
 去吧，掌控你的黑暗，偉大的征途在等著你。
@@ -10311,7 +10311,7 @@ Are you done looking at my cool rock?
 你看完我的石頭了嗎？
 That's cool, I'm glad you like the rock as much as me.
 很酷吧，看來你和我一樣喜歡這塊石頭。
-Thanks! It's a prety cool rock, huh?
+Thanks! It's a pretty cool rock, huh?
 這是一塊很酷的石頭，不是嗎？
 Huh? Where's my rock?
 嗯？我的石頭在哪裡？
@@ -10380,7 +10380,7 @@ Ya don't?
 不是？
 Scram, then. Employees only up here.
 那就滾蛋，只有員工才能進。
-A gaudy copper statue of an Aegislash in Shield Forme.
+A gaudy copper statue of an Aegislash in Shield Form.
 一個盾牌形態的華麗銅像，其實是一隻堅盾劍怪。
 It looks like it has seen better days.
 看起來它的日子不太好過。
@@ -10591,7 +10591,7 @@ You've found Pria, a designer, audio engineer and video producer.
 You've found Zinnia, Lead Designer and Lead Programmer.
 你即將挑戰首席設計師和首席程序員Zinnia
 [Map179]
-Estás a punto de enfrentar a Valrex, traductor al Español.
+You're about to fight Valrex, spanish translator.
 你即將挑戰西班牙語翻譯Valrex。
 Thank you for playing our game!
 感謝您遊玩我們的遊戲！
@@ -10690,7 +10690,7 @@ There are memories to be made, Trainer. Do not leave me apathetic.
 我們都有美好的回憶，訓練師，不要讓我對此感到遺憾。
 A disappointment, to say the least.
 最終，還是失望。
-If there is one think I know though, it is that minds can change. Change mine.
+If there is one thing I know though, it is that minds can change. Change mine.
 我明白，思想是可以改變的，或許我應該改變自己的想法。
 Very well, I shall be here, looking for another memory.
 好的，我就在這裡，等待著下一段回憶。
@@ -10744,7 +10744,7 @@ Ahah! Take that!
 哈哈，接招吧！
 A-hem, I mean, frustration is a natural part of growth. Grow, and approach me again, Trainer.
 我覺得，挫折是成長的自然過程，成長過後再來找我吧，訓練師。
-Afriad? Or cautious? Ah, well, it doesn't matter.
+Afraid? Or cautious? Ah, well, it doesn't matter.
 是害怕，還是謹慎？好吧，無所謂了。
 I will be here. We all smile eventually.
 我會在這裡，我們都會得到微笑。
@@ -10802,7 +10802,7 @@ There's only one direction to go from here. Regain youself, and try again. You c
 從這裡開始，只有一個方向，重新找回自己，再試一次，你可以做得更好。
 Very well, but do not leave me waiting. I abhor idleness.
 很好，但別讓我等太久，我討厭無所事事。
-I am looking for one last trail myself. Are you ready for battle, Trainer?
+I am looking for one last trial myself. Are you ready for battle, Trainer?
 我在尋找最後的蹤跡，準備好了嗎，訓練師？
 Wonderful! It was about time for me to shatter!
 太棒了，是時候讓我崩潰了！
@@ -11285,7 +11285,7 @@ WOWIE! That was some fine log battling!
 哇，真是精彩！
 Any log rider is a friend o' mine, don'chu forget it!
 任何木樁上的戰士，都是我的朋友！
-We're just making sure that the logs sent downstream by the local Biberal don't clog up the waterway.
+We're just making sure that the logs sent downstream by the local Bibarel don't clog up the waterway.
 我們只是在確保自由集團送往下游的原木不會堵塞河道。
 It's honest work, and we get to have a little fun with it.
 這份工作還是挺有意思的。
@@ -11684,13 +11684,13 @@ That battle was fun, but not as fun as gaming.
 這場對決很有趣，但是沒有遊戲有趣！
 What a gorgeous place.
 真是個美麗的地方。
-The flowing water, the lushious flowers...
+The flowing water, the luscious flowers...
 流水潺潺，花香四溢...
 The gleam of the sun reflecting off of the pristine snow and ice...
 純淨的冰雪映著燦爛的陽光...
 Makes me wish Lainie were here to see it with me.
 真希望蘭妮能跟我一起看到這些。
-Whoa, damnit, its cold!
+Whoa, it's cold!
 啊...好冷！
 I must look like an idiot just standing out here without any extra layers.
 我跟個白痴一樣站這裡幹嘛，早知道多穿件衣服了。
@@ -11823,11 +11823,11 @@ A sign is hung on the front door. It reads:
 門前掛著一張牌子，上面寫著：
 "We're off to Casaba Villa for the summer! Any business inquiries can be given to our assistant!"
 "我們去甜瓜度假區玩了！任何業務諮詢都可以交給我們的助手"
-"Tata!"
+"Ta-ta!"
 "拜拜"
 Bicycles are the only correct way to get around a dense town like this one.
 在這樣一個密集的城鎮中自行車是唯一合適的出行方式。
-I'm not just doing errands, right now, though.
+I'm not just doing errands right now, though.
 我現在不只是在跑腿。
 I'm getting some circles done!
 我正在做環形運動！
@@ -11999,10 +11999,10 @@ Maybe I can scare one of them into giving me back my items...
 也許我可以嚇唬他們中的一個，讓他把我的物品還給我......
 East End Exclusives
 東方終藏
-\wuThis man doesn't notice you, he seems to be rambling to someone over the phone.
-\wu這個人沒有注意到你，他似乎在和誰打電話。
-\wuYou don't see a phone though. Maybe an earpiece?
-\wu但你沒有看到手機，是耳機還是超能力？
+This man doesn't notice you, he seems to be rambling to someone over the phone.
+這個人沒有注意到你，他似乎在和誰打電話。
+You don't see a phone though. Maybe an earpiece?
+但你沒有看到手機，是耳機還是超能力？
 The Tunes
 樂之家咖啡
 Who's a good boy? Who's a good boy?
@@ -12045,7 +12045,7 @@ Noel is such a cool dude.
 諾艾爾是個很酷的傢伙。
 Everyone focuses on his sculptures, but I know that his true art is in battling!
 大家都只在意他的雕塑，但我知道他真正的藝術在於戰鬥！
-The amount of offensive pressure his Pokemon create is simply breathtaking.
+The amount of offensive pressure his Pokémon create is simply breathtaking.
 他的精靈能造成非常大的進攻壓力。
 Especially if he manages to set up Frost Spikes.
 尤其是冰菱被撒滿的時候。
@@ -12148,15 +12148,15 @@ It's a baby.
 這是個嬰兒。
 There's nothing interesting going on with this baby.
 他身上沒什麼值得注意的。
-Probably best to leave it alone.
+Probably best to leave them alone.
 最好還是不要碰他。
 The baby laughs at you.
 這個嬰兒正笑眯眯地看著你。
-Once you take the candy out of the baby's hands, it begins wailing loudly.
+Once you take the candy out of the baby's hands, they begin wailing loudly.
 一旦你搶走了這個嬰兒手中的糖果，他便會嚎啕大哭。
 The baby is crying.
 他哭得撕心裂肺。
-It doesn't look like it will stop any time soon.
+It doesn't look like they will stop any time soon.
 看這勢頭他能哭一整天。
 Hey there kiddo, I got a little performance that I'm putting on here.
 嘿，小傢伙，我這裡有一場演出。
@@ -12216,7 +12216,7 @@ To be honest, I'm a little nervous -- being the returning champion and all.
 老實說，你讓我有點緊張 - 畢竟我是衛冕冠軍。
 My name's Elise.
 我叫伊莉莎。
-I normally just run things around here at the castle. Not too unlike my anscestors of old, minus the whole royalty deal.
+I normally just run things around here at the castle. Not too unlike my ancestors of old, minus the whole royalty deal.
 我通常只是在這裡管理城堡的事務。和我的祖先沒什麼不同，只不過沒有皇室的身份。
 Well, while you're here...
 既然今天你出現在了這裡...
@@ -12959,11 +12959,11 @@ I'm glad you came!
 很高興你能來！
 Aren't Eevee just the best?!
 伊布不是最棒的嗎？！
-I wonder where this place get their treats.
+I wonder where this place gets their treats.
 我想知道這裡的零食是哪兒來的。
 It's imported for sure, just wondering who does the supplying.
 我當然知道是買來的，但是是哪兒買來的呢？
-Think they get some of their stuff from that farmstead out west.
+Think they get some of their stuff from that farmstead out west?
 難道是西邊那個農場？
 You got an Eevee Ticket?
 你有伊布兌換券？
@@ -12979,7 +12979,7 @@ No, you don't.
 不，你沒有。
 There's something wonderful about Eevees.
 伊布有一種奇妙之處。
-Want to see what I mean with a battle?
+Want to see what I mean, with a battle?
 想通過一場戰鬥來看看我所說的嗎？
 You're missing out!
 你會後悔錯過這次機會的！
@@ -13940,7 +13940,7 @@ That service is for civilians, however.
 不過這項服務是提供給平民的。
 Trainers like you should know their place.
 向你這樣的訓練師應該有自己的辦法才對。
-Don't even think about challenging the Dreadnaught until you've aquired every other Makyan badge.
+Don't even think about challenging the Dreadnaught until you've acquired every other Makyan badge.
 在獲得馬凱亞其他徽章前，就不要妄圖挑戰這裡了。
 Oh, hello. I see you have some climbing gear.
 嘿，你好，我看到你有一些攀巖設備。
@@ -16743,7 +16743,7 @@ To work I go...
 我這就開始...
 Crafting Poke Balls from Apricorns is an old art, but not an exact science.
 用樹果來製作精靈球，是一種古老的藝術，但並不算一門精確的學科。
-But I can already tell that this ball has wonderous properties.
+But I can already tell that this ball has wondrous properties.
 但我還是能看得出，這個球一定有神器的功效。
 Please, go out and use it on something special.
 請把它用在某些特別的地方吧。
@@ -16912,7 +16912,7 @@ Wonderful! I'm so glad you've taken an interest in our fine establishment.
 很高興你對我們的機構感興趣。
 Follow me, if you would.
 請跟我來。
-Would you like to take our tour again? Your waver from before is still valid.
+Would you like to take our tour again? Your waiver from before is still valid.
 你想再參觀一次嗎？之前簽署的免責協議仍然有效。
 Wonderful! I'm happy to keep sharing the joy of candy with you.
 太好了！我很高興能繼續和你分享甜蜜之旅。
@@ -16975,7 +16975,7 @@ Alright! Let's get started. We'll start by heading to our R&D laboratories!
 好的！讓我們開始吧，第一站，我們將前往研發實驗室。
 Next, we'll be checking out the packing floor.
 接下來是包裝區。
-Alright, here we are out the end of our tour!
+Alright, here we are at the end of our tour!
 這裡，就是此次參觀的終點了！
 Before we wrap things up, there's still one more person you need to meet...
 但在結束之前，你還需要見一個人...
@@ -17081,7 +17081,7 @@ I'm the foreman on duty, and I think you should speak to the other here.
 咱是工頭，還請繼續往裡走！
 Have you ever been teleported by a Pokemon before?
 你曾經被精靈傳送過嗎？
-Clafable, away!
+Clefable, away!
 皮可西，我們走！
 I vomit every time I teleport, but it gets me out of a lot of awkward conversations. Important for business.
 我每次傳送時都會嘔吐，但這也讓我不用跟客戶客套，某種意義上也算幫了大忙。
@@ -17161,7 +17161,7 @@ Specifically, for eliminating a remnant of Team Chasm’s tampering with Regigig
 具體來說，是為了消除被裂隙隊影響的雷吉奇卡斯的殘像。
 That candidate is you, dear. Said remnant is a beast of dire strength.
 那個候選人就是你，小可愛，所謂殘像就是一隻強大的化身，幾乎與野獸無異。
-Find it south of the docks, down the ladder hidden on one the crescent-shaped islands.
+Find it south of the docks, down the ladder hidden on one of the crescent-shaped islands.
 它就在碼頭以南的新月島上，你可以在梯子下面找到它。
 Take care.
 一定要小心。
@@ -17197,7 +17197,7 @@ In space has been angrily scribbled out and, in much newer ink, ‘on the moon�
 “進入太空的”...中間這五個字被塗掉了，下面用新的墨水寫著“登上月球的”。
 ...In small letters on the side is scrawled “haute couture spacesuit?”
 ...側面還有一行小字：“定製高級太空服？”
-A spreedsheet program is open with dozens of tabs, and a dizzing amount of numbers.
+A spreadsheet program is open with dozens of tabs, and a dizzing amount of numbers.
 一個打開了幾十個選項卡的excel，上面大量的數字令人眼花繚亂。
 Briefly skimming the tab names, you see "Johto Expansion", "Moomoo Milk Sourcing", and "Enigma Berry Tests."
 簡單快速地瀏覽了標籤名稱，看到了“哞哞鮮奶採購”，“成都擴展”和“謎芝果測試”。
@@ -17480,7 +17480,7 @@ This place has been a local secret for decades, so why is there a staircase here
 這裡有一個困擾大家幾十年的祕密，那就是為什麼會有樓梯。
 I must bring back my findings to the Academy.
 我必須把我發現的東西告知學院。
-Did the staircase get constructed my Team Chasm, or was is this part of a bigger expanse of ruins?
+Did the staircase get constructed by Team Chasm, or was is this part of a bigger expanse of ruins?
 這個樓梯是由深淵隊建造的？還是這是某個巨型廢墟的一部分？
 Makya's history is intense. So much has been lost and refound, only to be lost again.
 馬凱亞的歷史非常慘烈而動盪，有許多東西遺失，或者被重新找回，但又常常被再次弄丟。
@@ -17552,7 +17552,7 @@ I think I just need some caffeine. You got any coffee?
 或許我還差一些咖啡因，你有咖啡嗎？
 I guess its just me and these views of the sea.
 我想我只能和海景為伴了。
-Ahh, the artistic vigor, its coursing through me!
+Ahh, the artistic vigor—it's coursing through me!
 啊，藝術的活力，它在我體內流淌！
 Please take this hunk of uselessness away from me.
 這個給你了。
@@ -19152,7 +19152,7 @@ She makes a content noise.
 她發出滿足的聲音。
 I come here to relax with my Pokemon. Though, a battle or two won't hurt, either.
 我和我的精靈來這裡，是為了放鬆下身心的，不過來場戰鬥也不錯。
-The Skeevee Eevee needs us, I can feel it.
+The Skeevy Eevee needs us, I can feel it.
 我能感覺到，愛布愛布伊布酒吧正在召喚我。
 Maybe I'll see you there!
 或許我們在那裡還會再見面！
@@ -19584,7 +19584,7 @@ Outside of that weird quake, it was business as usual.
 除了那奇怪的震感之外，一切正常。
 Another successful day of guard duty.
 又是和平的一天。
-Me and my Pokemon might be at a disadvantage since the Tournament is only single battles.
+My Pokémon and I might be at a disadvantage since the Tournament is only single battles.
 競技大會之中只有單打模式，我和我的精靈可能會吃虧。
 It matters not! We will fight through with pure determination!
 但這不重要，我們將堅定不移地戰鬥下去！
@@ -20725,7 +20725,7 @@ At this rate, I'll arrive in Sweetrock Harbor by next May...
 照這個速度，等明年五月我就能回蜜巖港了...
 There truly is no justice in the world.
 世界上果真沒有公平可言。
-Perhaps that one Corviknight just has a chip on it's shoulder.
+Perhaps that one Corviknight just has a chip on its shoulder.
 也許只是那個鋼鎧鴉有什麼不滿。
 I always give my judgement on their coloration, but none before have mustered any sort of answer.
 我經常通過它們的膚色來判斷，它們到底哪個更靠譜一些，但是並沒有一個準確的答案。
@@ -21438,7 +21438,7 @@ I hope you enjoy yourself at our little soiree.
 我希望你在這個小聚會上玩得開心。
 Trainers should just learn to surf with their Pokemon, like they used to.
 訓練師們應該學會跟他們的精靈們一起衝浪，就像以前那樣。
-Me and my Feraligatr were quite the pair...
+My Feraligatr and I were quite the pair...
 我和我的大力鱷就是彼此最好的搭檔...
 Nasty business, that thing with the bridge. Good thing I have a boat...
 過不了橋可太難受了，還好我自己有艘船...
@@ -21933,7 +21933,7 @@ Hey...
 嘿...
 Could I interest you in a Shiny Charm?
 你需要一個閃耀護符嗎？
-Its an item that makes shiny Pokemon more likely to appear to you.
+It's an item that makes shiny Pokemon more likely to appear to you.
 這是一種能讓閃光精靈更容易出現在面前的物品。
 I'll part with it for 200 Battle Points.
 只要200戰鬥積分就可以了。
@@ -22729,7 +22729,7 @@ Roses are red violets are blue, I was born pretty, what happened to you?
 玫瑰是紅色，紫羅蘭是藍色，我天生麗質，你看呆了？
 Snap! That's going in my cringe compilation.
 切！這些可以收錄到失敗集錦裡去了。
-There is so much lens flare that is going our music video.
+There is so much lens flare that is going in our music video.
 我們的音樂MV有很多鏡頭光暈。
 I can already hear my computer fans.
 我已經能聽到電腦風扇的聲音了。
@@ -22887,8 +22887,8 @@ If you stray too far from the path you might get lost in the brush.
 如果你隨便亂走，很可能在裡面迷路。
 Have you been to the Reading Ribombee Café, in Novo Town?
 你去過望新鎮的閱蜂咖啡廳嗎？
-They have the best coffee around.
-他們的咖啡堪稱頂級。
+They have the best <imp>coffee</imp> around.
+他們的<imp>咖啡</imp>堪稱頂級。
 [Map392]
 Sometimes I ask myself important questions.
 有時我會自己思考一些重要的問題。
@@ -23382,7 +23382,7 @@ I almost drowned swimming in the ocean when I was in Team Chasm.
 我在裂隙隊的時候，曾差點在海里游泳淹死。
 It was a pretty sick experience, all things considered.
 那時一次相當變態的經歷。
-I have a metric ton of speakers coming in. I'm gonna cause a cave in with my music.
+I have a metric ton of speakers coming in. I'm gonna cause a cave-in with my music.
 我要運來一大批揚聲器，然後把這裡吼到塌方！
 Just got the call, gonna go grab them. Now how am I going to sneak those down here...
 剛接到電話，貨到了，現在的問題是怎麼運進來...
@@ -23675,7 +23675,7 @@ Yes.
 ...離開這裡。
 Cresselia! It looks like it's in pain...
 克雷色利亞！它看起來很痛苦...
-It looks look it wants you to follow it!
+It looks like it wants you to follow it!
 看起來它想讓你跟上去！
 Well... here we are.
 好了，我們到了。
@@ -23702,7 +23702,7 @@ Excellent work, \PN. I'll be seeing you around, maybe.
 [Map414]
 Darkrai looks at you confused.
 達克萊伊困惑地看著你。
-Suddenly, it seems like it recognized you.
+Suddenly, it seems like it recognizes you.
 突然，它似乎認出了你。
 In a way, you can feel a sense of shame in its eyes.
 在某種程度上，你能從它的眼中感受到一絲羞愧。
@@ -23792,7 +23792,7 @@ Our payday...!
 我們的提成...
 Eh, screw it. Let's go get a day job.
 特奶奶個盹兒的，還是找份日常工作吧。
-I wen through all this effort to get this Zoroark from that weirdo. And for what...
+I went through all this effort to get this Zoroark from that weirdo. And for what...
 我費了那麼大的勁，才從那個怪人手裡搶到索羅亞克，結果...
 Huh? You tryin' to get a piece of the pie?
 啊？你想分一杯羹？
@@ -23882,9 +23882,9 @@ Leave Mesprit.
 [Map420]
 Whoa, Azelf! How did it get here?
 哇，亞克諾姆！它為什麼在這裡？
-The only thing you can glean from it is the self- assured smirk on it's face.
+The only thing you can glean from it is the self-assured smirk on it's face.
 你唯一能從它臉上看到的，就是那自信滿滿的笑容。
-It leans back in the air, kicking up it's feet. It points towards your hand.
+It leans back in the air, kicking up its feet. It points towards your hand.
 它在空中後仰翻騰，指向了你的雙手。
 You were... holding a Pokeball? You look back up to see Azelf shrugging at you, still sporting the same grin.
 你...正拿著一個精靈球？你擡起頭，看到亞克諾姆聳聳肩，臉上還掛著同樣的笑容。
@@ -24026,7 +24026,7 @@ In order to fund further research, I want to find a buyer for this extremely rar
 為了進一步研究的資金，我正在尋找一個識貨的買家。
 You seem like the kind of person that'd like shiny Pokemon.
 看起來你應該很喜歡閃光精靈吧？
-Interested in purchasing this vial of Gleam Powder? Estimated costs total at 250,000.
+Interested in purchasing this vial of Gleam Powder? Estimated costs total at $250,000.
 有興趣買一瓶閃亮粉末嗎？只要250,000金錢喲！
 I've had sponsors with that kind of money.
 已經有人願意給贊助了。
@@ -24308,7 +24308,7 @@ Both too fearful to recognize the harm they cause our King of Kings.
 他們都太過害怕了，以至於無法意識到自身給萬王之王帶來的傷害。
 But not I! With vigor and wit interwoven, <i>I see the world as it always was.</i>
 但我是例外！在活力與智慧的交織下，<i>我看到了世界本來的模樣</i>。
-A wonderful battle – nothing short of greatness! But to what do I owe this sudden late.. ness?
+A wonderful battle – nothing short of greatness! But to what do I owe this sudden late... ness?
 一場精彩絕倫的戰鬥！但是...我怎麼在這裡待到這麼晚了...
 No matter! <i>You are but a grain of sand against His will.</i>
 無妨！<i>在祂的意志中你宛如微塵</i>！
@@ -24397,7 +24397,7 @@ I wonder why.
 但是為什麼我搞不清。
 My job is to keep things clean, but I'm a big sewers enthusiast.
 我的工作是保持這裡的衛生，但我同時也是探險愛好者。
-I've been exploring Makya's for years. My dream is to take a trip to see some of tunnels under Kalos.
+I've been exploring Makya's for years. My dream is to take a trip to see some of the tunnels under Kalos.
 這麼多年我一直在探索馬凱亞地區的地下隧道，希望有一天能去卡洛斯看看。
 For now though, I'll look at the concrete.
 不過現在，還是先幹好本職吧。
@@ -24406,7 +24406,7 @@ Welcome to the Bogdan Cement Plant!
 We reserve guided tours for business partners, but you are more than welcome to view our products.
 我們會為業務合作伙伴提供完善的導遊服務，也非常歡迎大家參觀我們的產品。
 [Map438]
-I caught a few extra Pokemon on my last vacation to Hoenn.
+I caught a few extra Pokémon on my last vacation to Hoenn.
 上次去豐緣度假的時候，我多抓了好幾只精靈。
 I don't really need 'em, but I REALLY need coffee right now.
 但我不是很需要它們，我現在最需要的是一倍咖啡。
@@ -24503,7 +24503,7 @@ Her naming conventions require a thesaurus to decipher.
 她用的那些詞詞典上都不好找！
 She always was kind of a slob. Lambert was always cleaning up her messes.
 而且她總是邋里邋遢的，需要蘭伯特幫她收拾殘局。
-Speaking of, I do wonder how the chop off the old block is doing these days.
+Speaking of, I do wonder how the chip off the old block is doing these days.
 既然說到他了，也不知道那老小子最近怎麼樣。
 Yeah, we should reach out to him sometime. Rafael too.
 是啊，我們應該找機會跟他談談，還有拉斐爾。
@@ -24689,7 +24689,7 @@ Go guard our logging operations, go intimidate a contractor, go destroy an escap
 去守衛我們的伐木作業，去恐嚇一個承包商，去摧毀一個逃脫的實驗...
 I struggled to keep up.
 我努力跟上。
-I took an embarassing loss... a young girl with only a single gym badge.
+I took an embarrassing loss... a young girl with only a single gym badge.
 我遭受了一場尷尬的失敗...一個只有一枚道館徽章的年輕女孩。
 They never let me live it down.
 他們從未放過我。
@@ -28660,7 +28660,7 @@ This Pokémon wears the skull of its deceased mother. Sometimes Cubone's dreams 
 頭上戴著母親的骨頭，因此無法知曉其長相和表情，只知道它一直在哭。
 This Pokémon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon.
 會有節奏地敲響骨頭，並以此和夥伴進行聯絡。節奏有著近50種變化。
-Its custom is to mourn its lost companions. Mounds of dirt by the side of the road mark the graves of the Marowak
+Its custom is to mourn its lost companions. Mounds of dirt by the side of the road mark the graves of the Marowak.
 有哀悼夥伴的習性。如果路邊有隆起的土，那是嘎啦嘎啦的墳墓。
 To brush up on its fighting skills, it will challenge anyone. It has a very strong competitive spirit.
 如果每天不去鍛鍊，壓力就會積攢下來，所以訓練師在培育它的時候，需要在日程管理上好好下番功夫。
@@ -28792,7 +28792,7 @@ Just like a plant, it uses photosynthesis. As a result, it is always enveloped i
 本身並不好鬥，但如果是為了保護夥伴，就會削尖尾巴上的葉片，變成刀刃來作戰。
 It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.
 把體毛凍住，變成銳利的針來保護身體。體溫最低可減小到零下60度。
-Sylveon's ribbon-like feelers emit an aura that erases any sense of hostility, enabling it to stop fights. It wraps its feelers to its Trainer in order to read their feelings.
+Sylveon's ribbon-like feelers emit an aura that erases any sense of hostility, enabling it to stop fights. Its feelers allow it to read their Trainer's feelings.
 會用緞帶般的觸角纏住訓練師的手臂。因為只要觸碰後就能知道對方的心情。
 Its fluffiness, friendliness, and massive size make it beloved by nearly everyone. Attackers don't know where to begin.
 它柔軟、友善、體型巨大，受到幾乎所有人的喜愛。攻擊者不知從何處下手。
@@ -29034,7 +29034,7 @@ The flames it breathes when angry contain toxins. If they cause a burn, it will 
 恐怖的長嚎是其特徵。過去人們曾認為它是來自地獄的使者而對其心存畏懼。
 They are the steeds of the Elite Four of the Apocalypse, and their howls will ring in the end of days... or so the stories go.
 據說它們是天啟四騎士的坐騎，它們的嚎叫將在世界末日時響徹天際...
-Phanpy uses its snout to shower itself with water. However its snout is so strong that when it bumps into you, it may send you flying.
+Phanpy uses its snout to shower itself with water. However, its snout is so strong that when it bumps into you, it may send you flying.
 在河邊挖個豎坑生活。會在住處附近做上鼻子標記，以此來告訴夥伴這裡是自己的領地哦。
 The longer and bigger its tusks, the higher its rank in its herd. The tusks take long to grow.
 擅長把身體蜷成一團，邊高速滾動邊向對手猛撞的攻擊。一旦開始滾動就很難停下來。
@@ -29050,11 +29050,9 @@ Its shell is as hard as sheet rock, and it is also very strong. Its thrashing ca
 會到處胡鬧，相當危險的蛹。在巖盤一樣的外殼內，新的身體正在逐漸成形。
 If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.
 會在山中徘徊以尋求戰鬥對手。但如果遇到的是比自己弱小的對手，它就會視若無睹地離開。
-Mechanitar was discovered by Valrex. It is highly intelligent and non-confrontational, tending to avoid battle if possible.
-班機拉是由瓦爾雷克斯發現的。它非常聰明且不具攻擊性，儘可能避免戰鬥。
-Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.
+Raikou embodies the speed of lightning. This Pokémon's roars send shock waves shuddering through the air and ground as if lightning bolts were crashing down.
 體內蘊藏著雷電般速度的精靈。它的長嚎會如同天雷落地時一樣震動空氣，搖撼大地。
-Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.
+Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It blasts fire that consumes all that it touches.
 體內蘊藏著熔岩般熱情的精靈。被認為是從火山的噴發中誕生，能噴出燃盡一切的火焰。
 Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.
 體內蘊藏著泉水般溫柔的精靈。會用滑行一樣的動作在大地上奔跑，有著淨化渾水的力量。
@@ -29068,7 +29066,7 @@ Treecko has small hooks on the bottom of its feet that enable it to scale vertic
 能夠用腳底的小刺鉤住垂直的牆壁攀爬。會甩動粗粗的尾巴進行摔打。
 The leaves growing out of Grovyle's body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles.
 靠著體內長出的葉子，可以方便地在森林裡隱藏身形躲避敵人。是生活在密林裡的爬樹高手。
-The leaves growing on Sceptile's body are very sharp edged. This Pokémon is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.
+The leaves growing on Sceptile's body are very sharp. This Pokémon is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.
 體內長出的葉子非常銳利。會用敏捷的動作在樹枝間跳來跳去，從敵人的頭上或背後猛撲過去。
 Torchic has a place inside its body where it keeps its flame. Give it a hug - it will be glowing with warmth. This Pokémon is covered all over by a fluffy coat of down.
 會緊貼著訓練師搖搖晃晃地走路。能從嘴裡噴出攝氏1000度的灼熱火球把對手燒焦。
@@ -29358,7 +29356,7 @@ Bagon is a solitary Pokémon that doesn't form groups with others of its kind. I
 每當見到飛在天空上的鳥精靈，它就會羨慕到用頭錘把周圍的東西砸得粉碎。
 Shelgon ignores its hunger entirely, never eating any food. Apparently, Shelgon will evolve once all its energy stores are used up.
 體內的細胞正處於千變萬化的時期。堅硬的殼與骨頭的成分相同。
-While basking in the joy of flight generally keeps this Pokémon in high spirits, Salamence turns into an uncontrollable menace if something angers it.
+While basking in the joy of flight generally keeps this Pokémon in high spirits, it turns into an uncontrollable menace if something angers it.
 因為不斷強烈地祈求著，結果身體的細胞發生了突然變異。終於得到了心心念唸的翅膀。
 From its rear, Beldum emits a magnetic force that rapidly pulls opponents in. They get skewered on Beldum's sharp claws.
 如果把它惹惱，不僅會大鬧一番，還會放出強大的磁力，所以會把機械類的東西都破壞掉。
@@ -29982,7 +29980,7 @@ Apparently, it can detect the innate qualities of leadership. According to legen
 好像能看出哪個人有成為國王的潛質。據說，被它認可的人最終會成為國王。
 In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.
 聽說過去的貴婦們會帶著能散發自己喜歡的香氣的粉香香來代替香水。
-Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it.
+Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, they will have a hard time walking alongside it.
 因為氣味過於強烈，如果不是相當喜愛它的訓練師，要帶著走路都相當困難。
 It uses both white and black magic. It harvests the flowers that grow on witches who regularly walk between life and death.
 它同時使用白魔法和黑魔法。它收穫生長在女巫身上的花朵，這些女巫經常在生與死之間遊走。
@@ -32506,7 +32504,7 @@ Shiver
 陰寒
 Six Feet Under
 絕命之葬
-Soul Eater
+Soul Drain
 靈魂吸取
 Spectral Tongue
 幽靈之舌
@@ -32890,7 +32888,7 @@ Core Collapse
 核心坍縮
 Demon's Kiss
 魔鬼之吻
-Dream Feast
+Dream Absorb
 夢境盛宴
 Eclipse
 日食
@@ -35227,9 +35225,7 @@ A nutrient-draining attack. The user's HP is restored by 75% of the damage dealt
 吸取對手的營養，回覆造成傷害的75%HP。
 The user makes a scary sound by shaking, forcing the target to switch out. Always goes last.
 通過搖晃來發出可怕的聲音，迫使對方進行替換，必定後手行動。
-Lures an enemy into its jaws. If they hit the user this turn, the user's HP is restored by 66% the damage dealt.
-張開大嘴引誘對手，如果其在本回合攻擊了自己，則吸取其造成傷害的2/3。
-Binds the foe with vines, trapping and damaging it for three turns.
+The user wraps the target in its vines, trapping and binding it for three turns.
 用藤蔓捆綁對手，束縛並傷害對手3回合。
 The user whips their legs into the target like a plant. This has a 10% chance of leeching.
 像植物一樣將腿伸向對方，10%概率使其被寄生。
@@ -35245,7 +35241,7 @@ The user surges with electricity. If it deals less than 50% of the target's max 
 身上的電量激增，如果造成的傷害小於對方50%的最大HP，其差值將會反傷自身。
 The user wraps their body in electricity and crashes into the target. The user also takes 20% recoil.
 將自己的身體包裹在電流中，然後撞向對手。自己也會受到20%的傷害。
-Restores a fainted party member to 1 HP. Only one use per battle.
+Revives a fainted party member to 1 HP. Only one use per battle.
 恢復一隻暈倒的同伴的1HP，每場戰鬥只能用一次。
 The user breaks down all insulation to send a barrage of electricity to rampage for two turns.
 使用者破壞所有絕緣體，發送一陣電力進行連續2回合的狂暴攻擊。
@@ -35257,7 +35253,7 @@ The user attacks with courage. Sets a Spikes hazard layer if Full. If Hangry, de
 使用者勇敢地發起攻擊。如果狀態為飽腹，則設置菱。如果狀態為飢餓，則造成雙倍傷害並變為暗屬性。
 The user dances to restore an ally by half of their max HP. They're cured of any status conditions.
 使用者跳舞恢復隊友最大HP的一半。它們的任何狀態異常都會被治癒。
-Deals 50% more damage if faster than the target. Lowers the user's Speed.
+Deals 50% more damage if faster than the target. This lowers the user's Speed.
 如果自己速度快於對手，則威力增加50%。但使用後會減小自己的速度。
 The target is pranked by an electric jolt. They are taunted and unable to use status moves for three turns.
 對手受到惡作劇電擊，使其受到挑釁效果，在3回合內無法使用變化技能。
@@ -35281,17 +35277,17 @@ The user slices with claws of light that have a 50% chance to numb. Can random c
 利用光之爪進行斬擊，50%概率使對手麻痺。容易擊中要害。
 Protects the user's side from status moves this turn. It disables any moves blocked for three turns.
 保護自身和同伴此回合免疫變化技能，此回合阻擋成功的技能，將在3回合內無法使用。
-The target is struck with an electric current and multi-hit two to five times. Has a 10% chance to numb.
-目標被電流擊中，連續攻擊2-5次。有10%的概率使目標麻痺。
+The target is struck with an electric current and multi-hit two to five times.
+目標被電流擊中，連續攻擊2-5次。
 This move creates a directional magnetic field which reduces damage from attacks with 100 or more base power for five turns.
 產生一個定向磁場，在五個回合內減小基礎威力大於等於100的技能造成的傷害。
 Turns the foe's power against it, dealing damage using the target's Sp. Atk stat.
 將對手的力量反制，使用目標的特攻屬性造成傷害。
-An electrified cloud zaps the target, lowering their Speed. This has a 50% chance to flinch.
+An electrified cloud zaps the target, lowering their Speed. It has a 50% chance to flinch the target.
 通過積雨雲內的電荷電擊目標，減小對方的速度，50%概率使其畏縮。
 The user charges, then attacks on the second turn. Charges instantly in rainstorm.
 第1回合開始衝鋒積蓄能量，第2回合發動攻擊，如果處於暴雨天則可以瞬間完成衝鋒。
-The user creates an electric fueled cage, trapping and damaging it for three turns.
+The user creates an electric fueled cage, trapping and binding it for three turns.
 使用者製造一個電力驅動的牢籠，連續3回合困住並傷害目標。
 The user takes an entire grid of power into its belly to slam the target. The user takes 100% recoil.
 將整個電網的能量注入腹部來猛擊對手。但會受到100%的反傷。
@@ -35301,17 +35297,17 @@ The user rocks out by using each Sound-based move they know. Only one use per ba
 使用者使用其知曉的所有聲音類技能進行表演。每場戰鬥只能使用一次。
 The user fires a dimensional mote, lowering the target's Sp. Def.
 使用者發射一個維度微粒，減小目標的特防。
-The user meditates, raising both its Attack and Sp. Atk stats by four steps.
+The user meditates, raising both its Attack and Sp. Atk by four steps.
 使用者冥想，增加自身的物攻和特攻4級。
 The user skillfully attacks around the enemy's guard. Can't miss and skips protections.
 技巧嫻熟，能夠繞開對手防禦。不會被迴避，並無視保護類效果。
 The user slows the target's mind with a psychically infused blow. This has a 30% chance to frostbite.
 將自身的精神力注入對方的大腦中，並模擬冰凍過程，30%概率使其凍傷。
-Splits off a section of the target's psyche. Disables their last used move for 5 turns.
+Splits off a section of the target's psyche. Disables their last used move for five turns.
 分裂目標的心靈，使其最後使用的技能在5回合內無法使用。
 Astral energy explodes around the target. This move always goes first. The user also takes 50% recoil.
 對手周圍爆發出星體能量。必定能夠先制攻擊。但會受到50%的反傷。
-By sacrificing half its total HP, the user makes the target fall asleep.
+By sacrificing half its max HP, the user makes the target fall asleep.
 使用者犧牲自身一半的最大HP，使目標陷入睡眠。
 Doubles in power if the foe is asleep. The user's HP is restored by 50% the damage dealt. This can overheal.
 對睡眠狀態中的對手威力翻倍，並恢復其受到傷害一半的HP，可以過量治療。
@@ -35327,16 +35323,16 @@ The user dizzies the target, then welcomes in eclipse for eight turns.
 使用者使目標混亂，然後召喚8回合的日食。
 The user encourages the target to attack right after the user. Always goes first.
 鼓勵對手在其之後立即發起攻擊，必定能夠先制攻擊。
-The user conjures a giant fist to crush the target, trapping and damaging it for three turns.
+The user conjures a giant fist to crush the target, trapping and binding it for three turns.
 召喚出巨大的拳頭來碾壓對手，將其束縛並在接下來的三個回合內受到傷害。
-The user grabs the target with a conjured hand, trapping and damaging it for three turns.
+The user grabs the target with a conjured hand, trapping and binding it for three turns.
 用召喚出的手抓住對手，將其束縛並在接下來的三個回合內受到傷害。
 The user psychically alters the target's brain to forget. This move disables the target's last move.
 使用者通過心靈感應改變目標的大腦使其遺忘。此技能將禁用目標的上一個技能。
 The user syncs its mind with its teammates, raising its Sp. Atk by three steps, and its allies' by one.
 使用者與隊友同步思維，自身的特攻增加3級，其隊友的特攻增加1級。
-The target is hit by a weak telekinetic force. It has a 10% chance to lower the target's Sp. Def.
-目標被一股弱小的念力擊中。有10%的概率減小目標的特防。
+The target is hit by a weak telekinetic force. It has a 20% chance to lower the target's Sp. Def.
+目標被一股弱小的念力擊中。有20%的概率減小目標的特防。
 The user spends 50% HP to create a Substitute. If successful, the user's Speed is raised by four steps.
 使用者消耗50%的HP來製造一個替身。如果成功，使用者的速度將增加4級。
 The user creates an odd area for eight turns in which Pokémon's offensive and defensive stats are swapped.
@@ -35349,18 +35345,18 @@ The user employs hypnotic suggestion to make a dizzy target fall into a deep sle
 利用催眠暗示讓暈眩的對手陷入沉睡。
 Unveiling its ears, the released psychic power causes the user to rampage and multi-hit two to five times for two turns.
 展開耳朵，釋放出的超能力使使用者在連續2回合中陷入狂暴狀態，每次連續攻擊2-5次。
-Psychic energy assaults the foe and darkens the sky, summoning eclipse for 8 turns.
+Psychic energy assaults the foe and darkens the sky, summoning eclipse for eight turns.
 用精神能量攻擊對手，使天空變暗，並召喚持續八個回合的日食。
 Pierces the mind of the target, inflicting doubt in their abilities, guaranteeing a critical hit on foes with boosted stats.
 穿透目標的心智，在其能力上製造懷疑，對有能力等級增加的目標必定命中要害。
-After making its attack to the targets psyche, the user teleports back to switch places with a party Pokémon.
+After making its attack to the target's psyche, the user teleports back to switch places with a party Pokémon.
 對目標的心智發動攻擊後，使用者進行傳送，與隊伍中的精靈交換位置。
 The user overloads its mind to rampage for two turns.
 使用者過載心智，連續2回合陷入狂暴。
 The user cuts using scissor-like blades of psychic energy. Can random critical hit.
 運用精神能量凝聚成的劍刃劈向對手。容易擊中要害。
-The user manifests a piercing bolt of psychic energy. It has a 50% chance to lower Sp. Def.
-凝聚出一物品有穿透性的精神能量束，50%概率減小對手的特防。
+The user manifests a piercing bolt of psychic energy. It has a 40% chance to lower Sp. Def.
+凝聚出一物品有穿透性的精神能量束，40%概率減小對手的特防。
 The user sends waves of cosmic energy to overwhelm the target's senses. Multi-hits two to five times.
 使用者發送宇宙能量波來壓倒目標的感官。連續攻擊2-5次。
 Protects the user from damage this turn. It also lowers the Sp. Def of special attackers by four steps.
@@ -35373,7 +35369,7 @@ The user perfectly predicts the target's future location, then strikes. It lands
 完美地預測出對手的位置併發起攻擊。攻擊必定會命中。
 The user peruses its kingly stores of knowledge, selecting three random non-Psychic attacks. You choose which one it uses.
 瀏覽自身的知識寶庫，隨機出現三種超能屬性攻擊技能，並選擇其中一種使用。
-The user dazzles the target with celestial visions that lowers its Sp. Atk stat by five steps.
+The user dazzles the target with celestial visions that lowers its Sp. Atk by five steps.
 利用天象視覺混亂目標，減小對方特攻5級。
 The user takes control of the target's mind to unleash an attack on it. Can random critical hit.
 使用者控制目標的大腦對其發動攻擊。可能隨機命中要害。
@@ -35391,28 +35387,29 @@ The user covers the field with an fog of ice crystals, summoning hail and creati
 使用者用冰晶霧氣覆蓋整個場地，召喚冰雹並製造持續5回合的灰霧。
 The user summons a wind that drains vitality from all nearby. This has a 30% chance to frostbite them.
 使用者召喚一陣風，從周圍所有精靈那裡吸取活力。這有30%的概率使它們凍傷。
-Attacks with emotion from jealousy. All opposing Pokémon with stat boosts get frostbitten.
+Attacks with energy from jealousy. All opposing Pokémon with stat boosts get frostbitten.
 用嫉妒的能量攻擊對手。會讓在該回合內能力有所增加的精靈陷入凍傷狀態。
-The user jabs the target with a sharp icicle. It has a 20% chance to lower Defense.
-用銳利的冰柱刺向對手。20%概率減小對手的防禦。
+The user jabs the target with a sharp icicle. It has a 40% chance to lower Defense.
+用銳利的冰柱刺向對手。40%概率減小對手的防禦。
 The target is overwhelmed by cold energy. It has a 30% chance to frostbite.
 目標被寒冷的能量所淹沒。有30%的概率使其凍傷。
 The user lays a hazard layer of frozen spikes on the foe's side. One layer hurts switched in foes, two layers frostbites.
 使用者在對手一側放置一層冰菱。一層會使替換進入的對手受傷，兩層會使對手凍傷。
 Rams the target with frigid force. This has a 10% chance to frostbite.
 向對手砸下一大塊冰，10%概率讓對手陷入凍傷狀態。
-The user attacks the target with a frontal cold wind. It reduces the target's Speed by three steps.
+The user attacks the target with a frontal cold wind. It lowers the target's Speed by three steps.
+以凜冽的寒風攻擊對手，可減小對手的速度3級。 the target's Speed by three steps.
 以凜冽的寒風攻擊對手，可減小對手的速度3級。
-The user absorbs the target's heat, frosbitting it and adding the Ice-type to it.
+The user absorbs the target's heat, frostbiting it and adding the Ice-type to it.
 使用者吸收目標的熱量，使其凍傷並獲得冰屬性。
 The user freezes the target in place, dealing damage and minimizing their Speed and Evasion.
 使用者將目標凍結在原地，造成傷害並使其速度和迴避率的能力等級最小化。
 For the rest of the round, the target's healing is reversed.
 在本回合剩餘時間內，目標的恢復效果反轉。
-The user picks up an iceberg and slams it into the target. Lowers the user's Attack by four steps.
+The user picks up an iceberg and slams it into the target. This lowers the user's Attack by four steps.
 擡起一座冰山並撞向對方，但會減小自身攻擊4級。
-The user slashes the target with ice like a sword. It has a 30% chance to lower Defense.
-像用劍一樣揮動冰刃斬向對手。30%概率減小對手的防禦。
+The user slashes the target with ice like a sword. It has a 20% chance to lower Defense.
+像用劍一樣揮動冰刃斬向對手。20%概率減小對手的防禦。
 Protects the user from attacks. Also frostbites any attacker who physically attacks the user.
 防住對手攻擊的同時，讓攻擊自己的對手陷入凍傷狀態。
 The user targets the target's coldest spots. Its power doubles if the target is frostbitten.
@@ -35429,7 +35426,7 @@ Two turns after this move is used, extreme winter cold attacks the target.
 在兩回合後，極寒之氣將席捲對手。
 The user throws an exploding package at enemies, or one filled with healing treats at allies.
 向對手投擲爆炸包裹，或者向同伴投擲治療包裹。
-The user sheds excess covering, raising Sp. Atk and Speed by three steps, but lowering Sp. Def by two steps.
+The user sheds excess covering. This raises the user's Sp. Atk and Speed by three steps, but lowers Sp. Def by two steps.
 褪去羽毛，大幅度減小自己特防，但特攻和速度增加3級。
 The user raises their Attack and Defense by two steps, and Speed by one step.
 有節奏地顫抖，自身的物攻、物防增加2級，速度增加1級。
@@ -35479,11 +35476,11 @@ The user makes an offering, then multi-hits two to five times. Money is earned f
 使用者連續攻擊2-5次。每次攻擊都會獲得金錢。
 The shine from scales damages the target. This has a 20% chance to reduce the higher of the target's Attack or Sp. Atk.
 使用鱗片的光芒對目標造成傷害，有20%的概率減小目標較高的物攻或特攻1級。
-The user whips up a tornado to tear at the target. It has a 30% chance to make them flinch.
-使用者捲起一陣旋風撕扯目標。有30%的概率使目標畏縮。
+The user whips up a tornado to tear at the target. It has a 40% chance to flinch the target.
+使用者捲起一陣旋風撕扯目標。有40%的概率使目標畏縮。
 The user attacks with overwhelming power, ignoring positive stat changes and abilities.
 以碾壓的力量發起攻擊，無視其特性和增加的能力等級。
-The user channels insane amounts of energy the first turn, then transforms on the second turn.
+The user charges up insane amounts of energy the first turn, then transforms on the second turn.
 使用者在第1回合聚集大量能量，然後在第2回合進行變身。
 The user strikes with a simultaneous three-beam attack. It has a 20% chance each to numb, burn, or frostbite.
 同時發出三道光束攻擊，20%概率使對手麻痺、燒傷或凍傷。
@@ -35493,13 +35490,13 @@ The Pokémon blots out the sky, summoning eclipse for eight turns and lowering e
 遮蔽天空，製造持續8回合的日食天氣，並減小對手的物攻2級。
 The user roots itself, then strikes at the target with serpentine strength. This has a 30% chance to leech.
 聲援自己並蛇行攻擊對方，有30%概率使其被寄生。
-Darkness rolls over the field, damaging all other Pokémon and setting Grey Mist for 5 turns.
+Darkness rolls over the field, damaging all other Pokémon and setting Grey Mist for five turns.
 黑暗籠罩整個場地，對全體精靈造成傷害，設置持續5回合的灰霧。
 The user insults the target using a compliment. Their Attack and Sp. Atk are raised by three steps, but they hurt themselves in confusion.
 使用者用讚美來侮辱目標，讓目標的雙攻增加3級，但目標會因混亂而傷害自己。
 Damages all near foes by summoning a miniature black hole. Gravity is intensified for five turns.
 通過召喚微型黑洞對所有附近的敵方造成傷害。重力增強持續5回合。
-The user removes the energy and light around the target. Super effective vs Electric-types.
+The user removes the energy and light around the target. Super effective versus Electric-types.
 移除對手周圍的能量和光芒。對電屬性精靈效果拔群。
 This attack deals 50% more damage if the target has any raised or lowered stat steps.
 如果目標有任何增加或減小的能力等級，此攻擊傷害增加50%。
@@ -35513,7 +35510,7 @@ The user tries to pick off a weak target. After damage, if the target is below 2
 使用者試圖擊倒一個虛弱的目標。造成傷害後，如果目標的HP低於25%，目標就會立刻瀕死。
 The user burrows into the target's subconscious with emotional manipulation. It has a 10% chance to leech.
 使用者通過情緒操縱鑽入目標的潛意識。有10%的概率使目標陷入寄生。
-The user disarms the target's blade. The target cannot use blade-based moves for two turns.
+The user disarms the target's blade. The target cannot use slice-based moves for two turns.
 使用者解除目標的刀刃武裝。目標在接下來的兩回合內無法使用切割類技能。
 The user restores half of their max HP and raises their Defense, Sp. Def, and critical hit chance by two steps.
 使用者恢復自身最大HP的一半，雙防和命中要害率增加2級。
@@ -35521,13 +35518,13 @@ The target is forced underwater for a brief time, waterlogging it.
 目標被短暫地強行拉入水下，使其浸水。
 The user pushes the target violently into water. This has a 10% chance to waterlog.
 使用者用力將目標推入水中。有10%的概率使目標浸水。
-When the user knocks out a target with this move, the user's Sp. Atk stat rises by five steps.
+When the user knocks out a target with this move, this raises the user's Sp. Atk by five steps.
 使用這個技能擊敗對手後，會增加自己的特攻5級。
 The user indulges its love of battle by striking a foe. Both of the user's Attack and Sp. Atk are raised.
 使用者通過攻擊敵人來滿足對戰鬥的熱愛，使用者的物攻和特攻增加1級。
 The user raises all of their stats by two steps. Fails unless a foe is below half health.
 大幅度增加自身的全屬性，只有對手的HP低於一半時才能成功。
-The user attacks with dark illusions. This also lowers the target's Defense stat by two steps.
+The user attacks with dark illusions. This also lowers the target's Defense by two steps.
 使用黑暗幻象攻擊，同時大幅度減小對手的防禦。
 The target is confronted with painful words. It has a 30% chance to make the target flinch.
 使用刺耳的話語攻擊對手，30%概率造成畏縮。
@@ -35535,7 +35532,7 @@ A punch that inflicts double the damage if the user has been hurt by the foe in 
 如果自己在同1回合中被對手傷害，那麼這一拳會造成雙倍的傷害。
 For the rest of the round, the healing of all damaged Pokémon is reversed.
 在本回合剩餘時間內，所有受過傷的精靈的恢復效果反轉。
-The user prepares a precise cut. Always a critical hit, but lowers the user's Speed.
+The user prepares a precise cut. Always a critical hit. This lowers the user's Speed.
 進行一次精準的攻擊，必定會擊中要害，但也會減小自己的速度。
 The target is dragged viciously through water. This has a 30% chance to waterlog.
 目標被凶狠地拖過水麵。有30%的概率使目標浸水。
@@ -35543,7 +35540,7 @@ The user emits a wave of anxious feelings which overwhelms all nearby Pokémon, 
 散發出一股焦慮的情緒波動，影響所有的精靈，並承受50%的反作用傷害。
 Summons moonglow for eight turns and raises the user's Attack by two steps.
 召喚持續8回合的月輝，使用者的物攻增加2級。
-Lowers the target's Sp. Atk stat, then restores its own HP by the target's Sp. Atk.
+Lowers the target's Sp. Atk, then heals itself by the target's Sp. Atk.
 減小目標的特攻，然後以對方的特攻恢復自身的HP。
 The user chomps hard, cutting the target's HP by 50%, and the user's HP is restored by 50% of that.
 用力一咬，使對手的HP減半，並回復造成傷害一半的HP。
@@ -35571,7 +35568,7 @@ The user assists an ally by boosting the power and Accuracy of its next attack b
 使用者通過增加隊友下一次攻擊的威力和命中率50%來協助隊友。
 Stares harshly, dealing double damage if they hurt the user this turn. Only usable on the first turn.
 怒視對手，如果本回合對手攻擊了自己，則威力翻倍。只能在出場後的首回合使用。
-The user restores half of their max HP, or 66% in moonglow.
+The user heals itself by half of its max HP, or 66% in moonglow.
 使用者恢復自身最大HP的一半，如果在月輝下，則恢復66%。
 The user bullies the target, causing mental damage. This has a 20% chance to leech.
 欺負對手，對其精神上的傷害。20%概率讓對手陷入寄生狀態。
@@ -35587,7 +35584,7 @@ The user smacks the target and steals its item while it is stunned. Items stolen
 使用者拍打目標並趁其暈眩時偷走它的物品。從野生精靈那裡偷來的物品將被儲存起來。
 The target is lulled to sleep. Can only be used during a Full Moon.
 使對手陷入睡眠狀態。只有在滿月期間才能使用。
-The target is pranked with a huge bucket of water. This has a 50% chance to waterlog it.
+The target is pranked with a huge bucket of water. This has a 30% chance to waterlog it.
 目標被惡作劇地澆了一大桶水。有50%的概率使目標浸水。
 The target is hit with a generous donation. Consumes up to 1000 scattered coins. Base power is boosted by 10 for every 100 consumed.
 目標被慷慨的饋贈擊中。消耗最多1000枚散落的硬幣。每消耗100枚，基礎威力增加10點。
@@ -35601,13 +35598,11 @@ The target's mind is overloaded with emotion. Applies Torment to the target.
 目標的大腦被情緒過載。對目標施加折磨效果。
 The user shoots a magical arrow which seeks out the target's weak points. Can random critical hit.
 使用者射出一支尋找目標弱點的魔法箭。可能隨機命中要害。
-An enchanting outcry. This attack never misses and skips protections.
+An enchanting outcry. Can't miss and skips protections.
 迷人的呼喊。此攻擊必定命中且無視保護。
 A patch of medicinal flowers sprouts across the battlefield. This heals every Pokémon for 1/8th HP each turn for five turns.
 使周圍催生出一片草藥花海，5回合內每回合治療所有精靈1/8最大HP。
-The user makes a fool out of the target. This has a 50% chance of jinxing them.
-使用者使目標出醜。有50%的概率使目標陷入不幸。
-The user plays with the target with unneccessary force. It has a 50% chance to lower Attack.
+The user plays with the target with unnecessary force. It has a 50% chance to lower Attack.
 使用者強行和目標玩耍，有50%概率減小目標的物攻1級。
 The user flashes colorful light to damage the target. This move always goes first.
 使用閃爍的七彩光芒攻擊對手，必定能夠先制攻擊。
@@ -35619,7 +35614,7 @@ The user attempts to humble the target, guaranteeing a critical hit on foes with
 先禮後兵，對增加能力的精靈必定擊中要害。
 The user hopes for bad luck, jinxing the target. Attacks against them crit and pierce protection.
 使用者祈求厄運，使目標陷入不幸。對目標的攻擊會命中要害並穿透保護。
-The user wields an exaggerated power to strike the target. Lowers the user's Attack by four steps.
+The user wields an exaggerated power to strike the target. This lowers the user's Attack by four steps.
 施展極其強大的力量打擊對手。而自己的攻擊會減小4級。
 The target is taunted by a deceptive look. It can't use status moves this or next turn. This move always goes first.
 利用欺騙眼神挑釁對手，使其本回合和下回合無法使用變化技能。必定能夠先制攻擊。
@@ -35631,7 +35626,7 @@ The user causes an accident, damaging the target. This has a 30% chance of jinxi
 使用者製造一場意外，對目標造成傷害。有30%的概率使目標陷入不幸。
 The user causes the target to trip and fall. This has a 50% chance of jinxing them.
 使用者使目標絆倒並摔倒。有50%的概率使目標陷入不幸。
-Attacks nearby foes with a misty explosion. User is damaged for 50% of their current HP.
+Attacks nearby foes with a misty explosion. The user loses half its current HP.
 對自己周圍的所有精靈進行攻擊，但會受到當前HP的50%的傷害。
 Summons moonglow for six turns, boosting Fairy-type attacks and heralding the Full Moon.
 召喚持續6回合的月輝，提升妖精屬性攻擊並預示著滿月的到來。
@@ -35641,8 +35636,8 @@ The user throws a tricky punch. Can't miss and skips protections.
 一記香甜的拳擊。必定會命中，並能夠無視對手的保護技能。
 The user bites with playful abandon. This deals double damage on the user's first turn out.
 肆意撕咬對方，如果是此次戰鬥中使用的第一個技能則造成雙倍傷害。
-The user creates a puzzling area for eight turns in which Pokémon's unmodified Attack and Sp. Atk are swapped.
-使用者創造出一個持續8回合的迷惑空間，在這個空間中，精靈的基礎雙攻會互換。
+The user creates a puzzling area for six turns in which Pokémon's unmodified Attack and Sp. Atk are swapped.
+使用者創造出一個持續6回合的迷惑空間，在這個空間中，精靈的基礎雙攻會互換。
 The user spins sugar into a ball launched at the target. The slower the user, the greater the damage.
 將糖旋轉成球向對手發射。自己速度越慢，傷害越高。
 The user causes nearby objects to fall onto the target. This has a 30% chance of jinxing them.
@@ -35663,25 +35658,25 @@ The user gleams with light, lowering each foe's Sp. Atk by two steps and raising
 自身閃爍光芒，大幅度減小所有對手特攻，並大幅度增加自身的特攻。
 The user prepares to defend itself. It'll survive the next three hits which would faint it.
 專心保護自身，接下來3回合內不會倒下。
-The user growls fiercly, lowering each foe's Attack by two steps and raising its own Attack by two steps.
+The user growls fiercely. This lowers each foe's Attack by two steps and raises its own Attack by two steps.
 發出凶猛的咆哮，大幅度減小全體對手的攻擊，並大幅度增加自身的攻擊。
 The user copies and gains the first ability of each foe.
 使用者複製並獲得每個敵方的第一個特性。
-The user yawns, making all near foes drowsy. They'll fall asleep at end of turn next.
+The user yawns, making all near foes drowsy. They'll fall asleep at the end of the next turn.
 打一個大大的哈欠，使靠近的對手在下一個回合睡著。
-The user attacks with a swift chop, destroying barriers, and reducing the target's defense by five steps.
+The user attacks with a swift chop, destroying barriers. This lowers the target's Defense by five steps.
 以迅雷不及掩耳之勢進行攻擊，破壞對方的保護類效果，並減小其防禦5級。
-The user boosts its Attack and Defense, gains a lot of weight, and becomes Fighting-type.
+The user raises its Attack and Defense by two steps, gains a lot of weight. User becomes Fighting-type.
 增加自身的攻擊和防禦，大幅度增加自己的體重，並使自身變為格鬥屬性。
-The user raises their Speed by 4 steps, quadruples their critical hit chance, and becomes Fighting-type.
-增加自身速度4級，自身命中要害的概率增加四倍，並使自身變為格鬥屬性。
-The user takes 50% less attack damage for 3 turns, and becomes Fighting-type.
+The user raises its Speed by two steps and quadruples its critical hit chance. User becomes Fighting-type.
+增加自身速度2級，自身命中要害的概率增加四倍，並使自身變為格鬥屬性。
+The user takes 50% less attack damage for 3 turns. User becomes Fighting-type.
 3回合內受到的攻擊傷害減小50%，並使自身變為格鬥屬性。
 The user summons an allied Tyrogue, raises the Defense of itself and its allies by 2 steps, and becomes Fighting-type.
 使用者召喚一個盟友巴爾郎，並且增加自身和隊友的物防兩級，然後變為格鬥屬性。
 The user ups the Speed and attack count of itself and allies, and becomes Flying-type.
 增加自身合同版的速度和攻擊次數，並使自身變為飛行屬性。
-All near foes are forced to switch out, and the user becomes Flying-type.
+All near foes are forced to switch out. User becomes Flying-type.
 使所有靠近自身的對手換出，並使自身變為飛行屬性。
 A move that only the avatar of Rayquaza can use. All enemies struck lose their flinch immunity.
 只有烈空坐化身才可以使用的技能，所有被擊中的對手都將失去畏縮免疫的效果。
@@ -35689,17 +35684,17 @@ The user slashes all near foes with with poisonous blades or edges. Will be crit
 使用含有劇毒的刀刃砍擊附近所有對手，對已經中毒的目標必定擊中要害。
 It swamps the area around the user with a giant sludge wave, poisoning everyone struck.
 使用大量的汙泥淹沒周圍的區域，使所有被擊中的對手中毒。
-The user sets Grey Mist for 8 turns, gives themselves a Black Sludge, and becomes Poison-type.
+The user sets Grey Mist for 8 turns and gives themselves a Black Sludge. User becomes Poison-type.
 使用者設置灰霧持續8回合，給自己一個黑色汙泥，並變成毒屬性。
-A cloud of poison gas is sprayed at all nearby foes, poisoning them. User becomes a Poison-type.
+A cloud of poison gas is sprayed at all nearby foes, poisoning them. User becomes Poison-type.
 向附近所有對手噴射毒氣雲，使其中毒，並使自身變為毒屬性。
-The user lays 2 hazard layers of poisonous spike traps at the foe's feet, and becomes Poison-type.
+The user lays two hazard layers of poison spikes on the foe's side. User becomes Poison-type.
 使用者在對手腳下放置2層毒菱，並變成毒屬性。
-The user intensifies gravity for five turns, damages all enemies for 1/4th of their max HP, and becomes Ground-type.
+The user intensifies Gravity for five turns and damages all enemies for 1/4th of their max HP. User becomes Ground-type.
 增加5回合內的重力，對所有對手造成25%最大HP的傷害，並使自身變為地面屬性。
-The user restores 1/8th of its HP, but begins eroding. At the end of each turn, its defensive stats are lowered and its attacking stats are raised. User becomes Ground-type.
+The user restores 1/8th of its HP. Raises its offensive-, but lowers defensive stats at the end of each turn. User becomes Ground-type.
 恢復自身1/8HP，但會受到侵蝕，每個回合結束時減小自身防禦，同時增加自身攻擊，並使自身變為地面屬性。
-The user lays 3 hazard layers of spike traps at the foe's feet, and becomes Ground-type.
+The user lays three hazard layers of Spikes on the foe's side. User becomes Ground-type.
 使用者在對手腳下放置3層菱，並變成地面屬性。
 A move that only the avatar of Groudon can use. For the rest of the battle, gravity is intensified and Pokemon have their weight doubled.
 只有固拉多的化身才能使用的技能。在接下來的戰鬥中，重力增強，精靈的重量加倍。
@@ -35707,36 +35702,35 @@ The user attacks with a prehistoric power which raises all its stats.
 使用史前之力進行攻擊，並增加自身全能力。
 The user attacks with a sparkling gem-like ray, dizzying the target.
 使用閃閃發光的寶石射線攻擊對手，並使其混亂。
-Boulders are hurled at all near enemies, harshly lowering their Speed by preventing their movement.
-向所有靠近的對手投擲巨石，通過阻止它們的行動來大幅度減小其速度。
-The sharply raises its speed, gains an extra two moves per turn, and becomes Rock-type.
-大幅度增加自身的速度，每回合額外增加兩次行動力，並使自身變為岩石屬性。
-The user summons a sandstorm for 5 turns, boosts its Def. and Sp. Def, and becomes Rock-type.
-召喚持續5回合的沙暴，增加自身的防禦和特當，並使自身變為岩石屬性。
-The user restores 1/8th of its HP, summons an allied Combee, and becomes Bug-type.
+Boulders are hurled at all near enemies, harshly lowering their Speed by preventing their movement. This lowers their Speed by four steps.
+The user raises its Speed by six steps and gains a Rock Gem. User becomes Rock-type.
+The user raises its Speed by six steps and gains a Rock Gem. User becomes Rock-type.
+The user summons sandstorm for six turns. This raises its Defense and Sp. Def. User becomes Rock-type.
+召喚持續6回合的沙暴，增加自身的防禦和特當，並使自身變為岩石屬性。
+The user restores 1/8th of its HP and summons an allied Combee. User becomes Bug-type.
 使用者恢復自身1/8的HP，召喚一隻隊友的蜂女王，並變為蟲屬性。
 The user sharply boosts their Sp. Atk, Sp. Def, and Speed, and becomes Bug-type.
 增加自身的特攻、特防和速度，並使自身變為蟲屬性。
 Nearby foes are bound with silk, sharply lowering their Speed, Atk., and Sp. Atk User also becomes Bug-type.
 用絲線捆綁附近的對手，大幅度減小其速度、攻擊和特攻，並使自身變為蟲屬性。
-The user applies a damaging curse to all nearby foes. User becomes a Ghost-type.
+The user applies a damaging curse to all nearby foes. User becomes Ghost-type.
 詛咒附近的所有對手，並使自身變為幽靈屬性。
 Attackers against the user suffer recoil for the rest of the battle. User becomes Ghost-type.
 對使用者發動攻擊的精靈在接下來的戰鬥中會受到反噬傷害。使用者變為幽靈屬性。
-The user strikes the target with 3 punches like bullets. This move always goes first.
+The user strikes the target with three punches like bullets. This move always goes first.
 連續三拳像子彈一樣打向對手，必定能夠先制攻擊。
-The user becomes a pain train. This raises the user's Speed by 2 steps.
-使用者成為痛苦的火車頭。這會使使用者的速度增加2級。
-The target is raked with steel claws twice. The user raises its attack after each hit.
+The target is raked with steel claws twice. This raises the user's Attack after each hit.
 使用鋼爪攻擊對手兩次，每次命中都會增加自身攻擊。
 The target is obliterated by a meteoric strike, which raises the user's attack by two steps.
 使用流星一擊湮沒對手，並大幅度增加自身攻擊。
-The user sharply boosts its Defense, gains the ability Filter, and becomes Steel-type.
+The target is obliterated by a meteoric strike. This raises the user's Attack by two steps.
 大幅度增加自身的防禦力，同時將特性變為過濾，並使自身變為鋼屬性。
-The user focuses intently, making every future attack critical. The user becomes a Steel-type.
+The user focuses intently, making every future attack critical. User becomes Steel-type.
 全神貫注，使自身所有攻擊都可以命中要害，同時使自身變為鋼屬性。
-The user creates a Polarized Room for 8 turns, raises both of its Defensive stats, and becomes Steel-type.
-使用者創造出一個持續8回合的極化空間，自身的雙防增加1級，並變成鋼屬性。
+The user raises its Sp. Def by two steps and gains the ability Feedback. User becomes Steel-type.
+The user raises its Sp. Def by two steps and gains the ability Feedback. User becomes Steel-type.
+The user creates a Polarized Room for six turns. This raises its Defense and Sp. Def. User becomes Steel-type.
+使用者創造出一個持續6回合的極化空間，自身的雙防增加1級，並變成鋼屬性。
 The user raises their Attack by four steps and becomes Steel-type.
 增加自身攻擊4級，並使自身變為鋼屬性。
 The user cloaks itself in fire and charges at the foe, burning it. The user also takes 33% recoil.
