@@ -35735,45 +35735,45 @@ The user raises their Attack by four steps and becomes Steel-type.
 增加自身攻擊4級，並使自身變為鋼屬性。
 The user cloaks itself in fire and charges at the foe, burning it. The user also takes 33% recoil.
 將自身包裹在火焰中，衝向對手並用火焰燃燒它，但自身會受到33%的反傷。
-The user attacks by breathing a special, hot fire. This lowers the target's Sp. Atk stat by six steps.
+The user attacks by breathing a special, hot fire. This lowers the target's Sp. Atk by six steps.
 通過呼出特殊的高溫火焰攻擊對手，並減小其特攻6級。
-The user lays 2 hazard layers of flaming spike traps at the foe's feet, and becomes Fire-type.
+The user lays two hazard layers of burning spikes on the foe's side. User becomes Fire-type.
 使用者在對手腳下放置2層焰菱，並變成火屬性。
-The user inflicts burns on all nearby foes. User becomes a Fire-type.
+The user inflicts burns on all nearby foes. User becomes Fire-type.
 使附近的所有對手燒傷，並使自身變為火屬性。
-The user summons sunshine for 5 turns, boosts its Atk. and Sp. Atk, and becomes Fire-type.
-召喚持續5回合的晴天，增加自身的攻擊和特攻，並使自身變為火屬性。
-A spray of bubbles is forcefully ejected at all nearby foes, lowering their Speed by 3 steps.
+The user summons sunshine for six turns. This raises its Attack and Sp. Atk. User becomes Fire-type.
+召喚持續6回合的晴天，增加自身的攻擊和特攻，並使自身變為火屬性。
+A spray of bubbles is forcefully ejected at all nearby foes. This lowers their Speed by three steps.
 一股氣泡強力噴射向所有附近的敵方，使其速度減小3級。
 It swamps the area with a giant wave, hitting every battler nearby and underwater.
 利用大浪攻擊自己周圍所有的精靈。
 The user TODO, boosts its Atk. and Sp. Def, and becomes a Water-type.
 增加自身的攻擊和特防，並使自身變為水屬性。
-The user summons rainstorm for 5 turns, surrounds itself with healing water, and becomes Water-type.
-召喚持續5回合的雨天，同時給自身一個水流環，並使自身變為水屬性。
-The user inflicts waterlog on all nearby foes. User becomes a Water-type.
+The user summons rainstorm for six turns and surrounds itself with Aqua Ring. User becomes Water-type.
+召喚持續6回合的雨天，同時給自身一個水流環，並使自身變為水屬性。
+The user inflicts waterlog on all nearby foes. User becomes Water-type.
 使用者使所有附近的敵方浸水。使用者變為水屬性。
 A move that only the avatar of Kyogre can use. The user commands a Luvdisc avatar and a Remoraid avatar to join it.
 只有蓋歐卡化身才可以使用的技能，召喚一個愛心魚化身和一個鐵炮魚化身協助作戰。
-The user forcefully shoots 6 seeds in rapid succession, spread among nearby enemies.
+The user forcefully shoots six seeds in rapid succession, spread among nearby enemies.
 連續射出六粒種子，並散播給附近的對手。
 A nutrient-draining attack. The user's HP is restored by all the damage taken by the target.
 一種吸取養分的攻擊。使用者的HP通過目標所受到的全部傷害得到恢復。
-A two-turn attack. The user gathers light, then blasts all near foes on the second turn.
+The user charges by gathering light, then blasts all near foes on the second turn.
 第1回合凝聚光能，並在第2回合轟擊所有附近的對手。
 The user embeds its roots to heal by 1/4th every turn for four turns, and becomes Grass-type.
 深深紮根，4回合內每回合恢復自身1/4HP，並使自身變為草屬性。
 Plants seeds on all near foes, draining HP each turn. User becomes Grass-type.
 給附近的所有對手種上種子，每回合恢復HP，並使自身變為草屬性。
-The user scatters bursts of spores to induce sleep on all foes, and then becomes Grass-type.
+The user scatters bursts of spores to induce sleep on all foes. User becomes Grass-type.
 使用者散播孢子爆發使所有敵人陷入睡眠，然後變成草系。
 The user summons an allied Gossifleur, raises the Sp. Def itself and its allies by 2 steps, and becomes Grass-type.
 使用者召喚一個盟友幼綿綿，並且增加自身和隊友的特防兩級，然後變為草屬性。
 A powerful electric blast is let loose on the target, numbing it.
 使用強大的電流攻擊對手，並使其麻痺。
-The user raises its Sp. Atk and Speed by two steps, and becomes Electric-type.
+The user raises its Sp. Atk and Speed by two steps. User becomes Electric-type.
 大幅度增加自身的特攻和速度，並使自身變為電屬性。
-The user inflicts numb on all nearby foes. User becomes an Electric-type.
+The user inflicts numb on all nearby foes. User becomes Electric-type.
 使附近所有對手麻痺，並使自身變為電屬性。
 The user sharply boosts its Sp. Def, gains the ability Unaware, and becomes Psychic-type.
 大幅度增加自身特防，同時將特性變為純樸，並使自身變為超能屬性。
@@ -35781,19 +35781,19 @@ The user raises its Sp. Atk and Sp. Def, maximizes its Accuracy, and becomes Psy
 增加自身的特攻特防，同時將自身命中增加至最大，並使自身變為超能屬性。
 Summons eclipse for 5 turns, resets lowered stats, and user becomes Psychic-type.
 召喚持續5回合的日食，使自身被減小的屬性恢復正常，並變為超能屬性。
-Bounces back status moves for the next 3 turns, and user becomes Psychic-type.
+Bounces back status moves for the next three turns. User becomes Psychic-type.
 接下來3回合反彈狀態類技能，使用者變成超能屬性。
 The user summons an allied Abra, raises the Sp. Atk stat of itself and its allies, and becomes Psychic-type.
 召喚一個凱西一同戰鬥，同時增加自身和同伴的特攻，並使自身變為超能屬性。
-The user creates an Odd Room for 8 turns, raises its Speed, and becomes Psychic-type.
+The user creates an Odd Room for six turns. This raises its Speed. User becomes Psychic-type.
 使用者創造出一個持續8回合的奇異空間，速度增加1級，並變成超能力屬性。
 The target is struck with an absolute zero beam of energy, frostbiting it.
 以溫度極低的光束攻擊對手，並使其凍傷。
 The user inflicts frostbite on all nearby foes. User becomes an Ice-type.
 對附近所有對手造成凍傷，並使自身變為冰屬性。
-The user lays 2 hazard layers of frozen spike traps at the foe's feet, and becomes Ice-type.
+The user lays two hazard layers of frozen spikes on the foe's side. User becomes Ice-type.
 使用者在對手腳下放置2層冰菱，並變成冰屬性。
-The user summons a hail storm for 5 turns, reduces the speed of all enemies by two steps, and becomes Ice-type.
+The user summons hail for six turns. This lowers every foe's Speed by two steps. User becomes Ice-type.
 召喚持續5回合的冰雹，大幅度減小所有對手速度，並使自身變為冰屬性。
 The user sharply boosts their Attack, Defense, and Speed, and becomes Ice-type.
 大幅度增加自身攻擊、防禦、速度，並使自身變為冰屬性。
@@ -35801,20 +35801,16 @@ The user crushes all near foes with evil intent. This deals double damage to tar
 使用者懷著邪惡的意圖粉碎所有附近的敵人。對處於異常狀態的目標造成雙倍傷害。
 The user exhales a mighty gust that inflicts damage and numbs the target.
 呼出強大的氣流攻擊對方，並使其麻痺。
-The user raises its Attack and Speed by two steps, and becomes Dragon-type.
+The user raises its Attack and Speed by two steps. User becomes Dragon-type.
 大幅度增加自身的攻擊和速度，並使自身變為龍屬性。
-The user harshly lowers each near foes best stat, and becomes Dragon-type.
+The user lowers each near foe's highest stat by four steps. User becomes Dragon-type.
 大幅度減小附近對手最高的能力值，並使自身變為龍屬性。
 The user summons an allied Poochyena, raises the Attack stat of itself and its allies, and becomes Dark-type.
 召喚一個土狼犬一同戰鬥，同時增加自身和同伴的攻擊，並使自身變為惡屬性。
-The user torments all near foes, preventing them from repeating moves. The user becomes Dark-type.
+The user torments all near foes, preventing them from repeating moves. User becomes Dark-type.
 折磨附近所有對手，阻止它們重複使用技能，並使自身變為惡屬性。
-The user raises their Sp. Atk by four steps and becomes Fairy-type.
-增加自身特攻4級，並使自身變為妖精屬性。
-Summons moonglow for 5 turns, buffs the defending stats of all allies, and user becomes Fairy-type.
-召喚持續5回合的月輝，增加所有同伴的防禦和特防，並使自身變為妖精屬性。
-The user creates a Puzzle Room for 8 turns, raises both of its Attacking stats, and becomes Fairy-type.
-使用者創造出一個持續8回合的迷惑空間，自身的雙攻增加1級，並變成妖精屬性。
+The user creates a Puzzle Room for six turns. This raises its Attack and Sp. Atk. User becomes Fairy-type.
+使用者創造出一個持續6回合的迷惑空間，自身的雙攻增加1級，並變成妖精屬性。
 This move exists just to showcase the PBS Extensions system.
 這個技能只是為了展示PBS擴展系統。
 [7]
@@ -37616,38 +37612,38 @@ A fossil from a prehistoric Pokémon that once lived on the land. It looks like 
 很久以前生活在地上的古代精靈的化石。好像是頭鰭的一部分。
 A sweet honey with a sweeter aroma. It can be sold to shops for $750.
 一種極其香甜的蜂蜜，可以在商店賣出750金錢。
-A beautiful feather. It can be sold to shops for $1500.
+A beautiful feather. It can be sold to shops for $1,500.
 一種漂亮的羽毛，可以在商店賣出1500金錢。
 A small and rare mushroom. It can be sold to shops for $250.
 一個較小的蘑菇，可以在商店賣出250金錢。
-A large and rare mushroom. It can be sold to shops for $2500.
+A large and rare mushroom. It can be sold to shops for $2,500.
 一種較大的蘑菇，可以在商店賣出2500金錢。
-A rare mushroom which gives off a nice fragrance. It can be sold to shops for $7500.
+A rare mushroom which gives off a nice fragrance. It can be sold to shops for $7,500.
 一種有奇特香味的蘑菇，可以在商店賣出7500金錢。
-A somewhat-small pearl that sparkles in a pretty silver color. It can be sold to shops for $1000.
+A somewhat-small pearl that sparkles in a pretty silver color. It can be sold to shops for $1,000.
 一顆略小的珍珠，可以在商店賣出1000金錢。
-A quite-large pearl that sparkles in a pretty silver color. It can be sold to shops for $4000.
+A quite-large pearl that sparkles in a pretty silver color. It can be sold to shops for $4,000.
 一顆略大的珍珠，可以在商店賣出4000金錢。
 Very large pearls that sparkle in a pretty silver color. It can be sold to shops for $10000.
 一顆極其稀有的珍珠，可以在商店賣出10,000金錢。
-Lovely, red-colored sand with a loose, silky feel. It can be sold to shops for $1500.
-一種可愛的紅色沙子，可以在商店賣出1500金錢。
-A shard of a pretty gem that sparkles in a red color. It can be sold to shops for $6000.
-一種可愛的紅色碎片，可以在商店賣出6000金錢。
-A shard which fell to the ground when a comet approached. It can be sold to shops for $12500.
-一種比較大的可愛紅色碎片，可以在商店賣出12500金錢。
-A nugget of pure gold that gives off a lustrous gleam. It can be sold to shops for $5000.
-一顆散發著光澤的純金，可以在商店賣出5000金錢。
-A big nugget of pure gold that gives off a lustrous gleam. It can be sold to shops for $20000.
+Lovely, red-colored sand with a loose, silky feel. It can be sold to shops for $1,500.
+一種可愛的紅色沙子，可以在商店賣出1,500金錢。
+A shard of a pretty gem that sparkles in a red color. It can be sold to shops for $6,000.
+一種可愛的紅色碎片，可以在商店賣出6,000金錢。
+A shard which fell to the ground when a comet approached. It can be sold to shops for $12,500.
+一種比較大的可愛紅色碎片，可以在商店賣出12,500金錢。
+A nugget of pure gold that gives off a lustrous gleam. It can be sold to shops for $5,000.
+一顆散發著光澤的純金，可以在商店賣出5,000金錢。
+A big nugget of pure gold that gives off a lustrous gleam. It can be sold to shops for $20,000.
 一顆較大的，散發著光澤的純金，可以在商店賣出20,000金錢。
-A very tasty tail of something. It can be sold to shops for $4000.
-一種非常美味的食材，可以在商店賣出4000金錢。
-A bone that is extremely valuable for Pokémon archaeology. It can be sold to shops for $2500.
-一種非常稀有的精靈骨頭，可以在商店賣出2500金錢。
-A copper coin used in a civilization about 3,000 years ago. It can be sold to shops for $1000.
-一種記錄著文明的銅幣，可以在商店賣出1000金錢。
-A silver coin used in a civilization about 3,000 years ago. It can be sold to shops for $5000.
-一種記錄著文明的銀幣，可以在商店賣出5000金錢。
+A very tasty tail of something. It can be sold to shops for $4,000.
+一種非常美味的食材，可以在商店賣出4,000金錢。
+A bone that is extremely valuable for Pokémon archaeology. It can be sold to shops for $2,500.
+一種非常稀有的精靈骨頭，可以在商店賣出2,500金錢。
+A copper coin used in a civilization about 3,000 years ago. It can be sold to shops for $1,000.
+一種記錄著文明的銅幣，可以在商店賣出1,000金錢。
+A silver coin used in a civilization about 3,000 years ago. It can be sold to shops for $5,000.
+一種記錄著文明的銀幣，可以在商店賣出5,000金錢。
 A gold coin used in a civilization about 3,000 years ago. It can be sold to shops for $10,000.
 一種記錄著文明的金幣，可以在商店賣出10,000金錢。
 A vase made in a civilization about 3,000 years ago. It can be sold to shops for $30,000.
@@ -37668,11 +37664,11 @@ A held item. In battles, it sets the holder's base Sp. Atk stat to 120.
 一件可以攜帶的物品。在戰鬥中，將攜帶者的特攻種族設為120。
 A very light stone. It reduces the weight of a Pokémon when held.
 一塊輕石頭，攜帶後可以減輕精靈的重量。
-An item to be held by a Pokémon. It raises Sp. Def by 50% but prevents the use of status moves.
+A held item. It raises Sp. Def by 50% but prevents the use of status moves.
 攜帶該物品的精靈的特防增加50%，但是無法使用變化技能。
-An item to be held by a Pokémon. It raises Defense by 50% but prevents the use of status moves.
+A held item. It raises Defense by 50% but prevents the use of status moves.
 攜帶該物品的精靈的物防增加50%，但是無法使用變化技能。
-An item to be held by a Pokémon. Its Attack and Sp. Atk raise by four steps if hit by a move it's weak to.
+A held item. Its Attack and Sp. Atk raise by four steps if hit by a move it's weak to.
 被針對弱點時，物攻和特攻就會大幅增加。
 When held, it boosts Speed by two steps when intimidated, fascinated, or frustrated once per battle.
 使用後會容易呼喚夥伴，但使用後會消失。攜帶後，在受到威嚇、震懾或阻撓時速度會增加。
@@ -37682,9 +37678,9 @@ Damages attackers for 1/8th of their HP when they hit the holder with special at
 當攻擊者用特殊類技能攻擊擊中攜帶者時，對攻擊者造成其HP的1/8的傷害。
 If the holder is hit by an attack, it will switch with another Pokémon in your party.
 攜帶它的精靈如果受到技能攻擊，就能逃脫戰鬥，並和同行的其他精靈進行替換。
-A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle.
+A card with a mysterious power. When the holder is hit by an attack, the attacker is forced to switch.
 有著神奇力量的卡片。攜帶後，能讓使用了技能的對手退場。
-An item to be held by a Pokémon. This discarded carapace lets the holder switch out of battle without fail.
+A held item. This discarded carapace lets the holder switch out of battle without fail.
 結實堅硬的空殼。攜帶它的精靈必定可以和後備的精靈進行替換。
 An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail.
 必定能從遇到的野生精靈面前逃走。
@@ -37692,9 +37688,9 @@ An item to be held by a Pokémon. It is an egg filled with happiness that earns 
 攜帶的精靈能得到稍微更多的經驗值。
 A held item. After the weilder enters a battle, money generated in that battle is increased by 50%.
 一種攜帶的物品。攜帶者進入戰鬥後，該場戰鬥中獲得的金錢增加50%。
-An item to be held by a Pokémon. The comforting chime of this bell makes it gain happiness twice as fast.
+A held item. The comforting chime of this bell makes it gain happiness twice as fast.
 攜帶後精靈顯得很安穩，變得容易和訓練師親密。
-An item to be held by a Pokémon. It prevents wild Pokémon encounters if the holder is the first one in the party.
+A held item. It prevents wild Pokémon encounters if the holder is the first one in the party.
 攜帶後不容易遇到野生精靈。
 Held item which ups Attack by 40%, but allows the use of only one move.
 會增加攻擊的威力，但只能使出相同的技能。
@@ -37726,7 +37722,8 @@ A band that doubles the damage dealt each turn by binding moves when held.
 能增強綁緊技能的束帶。攜帶後，綁緊技能的威力會變強。
 A held item. It makes multi-hit attacks consistently hit 4 or 5 times.
 一種攜帶物品。它使多次攻擊技能穩定命中4到5次。
-An item to be held by a Pokémon. The user gets both of its legal abilities, but its stats are cut by 10%.
+An item. It makes "two to five" multi-hit attacks consistently hit 4 or 5 times.
+A held item. The user gets both of its legal abilities, but its stats are cut by 10%.
 一種攜帶物品。使用者可以同時擁有兩個合法特性，但能力值減小10%。
 A held item. The holder recovers 30% more HP from draining moves, Ingrain, Aqua Ring, and leech.
 攜帶後，吸取HP的技能可以比平時更多地回覆自己的HP。
@@ -37734,33 +37731,33 @@ A held item that gradually restores the HP of Poison-type Pokémon. It inflicts 
 攜帶後，毒屬性的精靈會緩緩回覆HP。其他屬性的話，HP則會減小。
 A held item. The holder's HP is restored by 1/16th at the end of each turn.
 攜帶後，戰鬥中體力緩緩回覆。
-An item to be held by a Pokémon. The holder restores 1/5th HP of the damage it deals with moves.
+An item to be held item. The holder restores 1/5th HP of the damage it deals with moves.
 一種攜帶物品。會使攜帶者通過技能造成傷害時回覆傷害的1/5的HP。
 A held item. At half health, the holder breaks the balloon and gains an Aqua Ring.
 攜帶後，當自身HP不滿時，被擊破後獲得水流環。
-An item to be held by a Pokémon. It snaps the holder out of a variety of mental warping effects.
+A held item. It snaps the holder out of a variety of mental warping effects.
 攜帶它的精靈著迷時會得到治癒。
-An item to be held by a Pokémon. It restores any lowered stat in battle.
+A held item. It restores any lowered stat in battle.
 給精靈攜帶後能恢復一次減小的能力。
-An item to be held by a Pokémon. Lowered stats on the holder are also applied to foes.
+A held item. Lowered stats on the holder are also applied to foes.
 給精靈攜帶後減小的屬性也會影響到對手一次。
-An item to be held by a Pokémon. Doubles the Speed of the holder's move once per battle.
+A held item. Doubles the Speed of the holder's move once per battle.
 給精靈攜帶後第一次出招時都會使速度翻倍。
 An item to be held by a Pokémon. Boosts the power of a physical move by 33% once per battle.
 一種精靈攜帶的物品。每場戰鬥中一次增加物理技能的威力33%。
 An item to be held by a Pokémon. Boosts the power of a special move by 33% once per battle.
 一種精靈攜帶的物品。每場戰鬥中一次增加特殊技能的威力33%。
-A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges up first.
+A held item. It allows the immediate use of a move that charges up first.
 攜帶它的精靈僅有1次機會可以在第1回合使出需要蓄力的技能。
-A single-use item to be held by a Pokémon. It allows user to skip the recharging turn of an exhausting move.
+A held item. It allows user to skip the recharging turn of an exhausting move.
 攜帶它的精靈僅有1次機會可以跳過1次使用技能後的恢復回合。
 A held item. When a foe raises their stats, the herb is consumed to copy the increase.
 攜帶後對手屬性獲得強化時，消耗香草並複製它的強化。
 A held item. When a foe raises their stats, the herb is consumed to reset their stats.
 一種攜帶物品。當對手增加能力值時，草藥會被消耗並重置對手的能力等級。
-An item to be held by a Pokémon. Ensures a random additional effect activates once per battle.
+A held item. Ensures a random additional effect activates once per battle.
 一種精靈攜帶的物品。確保每場戰鬥中隨機附加效果觸發1次。
-An item to be held by a Pokémon. Ensures a less than full accuracy move lands once per battle.
+A held item. Ensures a less than full accuracy move lands once per battle.
 攜帶後確保一次命中不滿的技能必定命中。
 A held item. It boosts the power of moves by 30%, but at the cost of 10% HP on each hit.
 攜帶後，雖然每次攻擊時HP少量減小，但技能的威力會增加。
@@ -37780,23 +37777,23 @@ A held item. It is a magnifying lens that boosts the Accuracy of moves by 35%.
 一種攜帶物品。它是一個放大鏡，能將技能的命中率增加35%。
 An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual.
 非常沉重的某種尾巴。攜帶後，行動會比平時更加遲緩。
-An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.
+A held item. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP.
 攜帶後，在HP全滿時，即便受到可能會導致瀕死的技能，也能僅以1HP撐過去1次。
-An item to be held by a Pokémon. A bizarre orb that inflicts burn on the holder at the end of a turn.
+A held item. A bizarre orb that inflicts burn on the holder at the end of a turn.
 觸碰後會放出熱量的神奇寶珠。攜帶後，在戰鬥時會變成燒傷狀態。
-An item to be held by a Pokémon. A bizarre orb that inflicts frostbite on the holder at the end of a turn.
+A held item. A bizarre orb that inflicts frostbite on the holder at the end of a turn.
 觸碰後會放出寒氣的神奇寶珠。攜帶後，在戰鬥時會變成凍傷狀態。
-An item to be held by a Pokémon. A bizarre orb that inflicts poison on the holder at the end of a turn.
+A held item. A bizarre orb that inflicts poison on the holder at the end of a turn.
 觸碰後會放出毒的神奇寶珠。攜帶後，在戰鬥時會變成劇毒狀態。
 A held item that damages the holder on every turn. It may latch on to Pokémon that attacks the holder.
 攜帶後，每回合都會受到傷害。有時也會附著到碰到自己的對手身上。
-An item to be held by a Pokémon. When the holder's stats are lowered, it will be switched out of battle.
+A held item. When the holder's stats are lowered, it will be switched out of battle.
 當攜帶它的精靈能力減小時，同行精靈就會自動替換上場。
-These boots prevent the effects of traps set on the battlefield.
+These boots prevent the effects of hazards set on the battlefield.
 不受腳下陷阱等的影響。
 Raises Sp. Atk by two steps when the Pokémon uses a sound move the first time each battle.
 使用聲音相關的技能時，特攻會增加。
-Raises Attack by two steps when the Pokémon uses a blade move the first time each battle.
+Raises Attack by two steps when the Pokémon uses a slice move the first time each battle.
 使用刀劍相關的技能時，攻擊會增加。
 A held item. The holder is protected from the negative effects of weather.
 攜帶它的精靈將不受各種天氣的影響。
@@ -37804,13 +37801,13 @@ A held item. It changes the holder's type in battle. You can change which type b
 攜帶後可以在戰鬥中改變屬性。
 A set of memory discs, one for each type. If held by a Silvally, you can change its type between battles.
 一套記憶光盤，每種類型各一個。如果由銀伴戰獸攜帶，可以在非戰鬥期間更換其屬性。
-A tablet that boosts same-type attacks by 20%. If held by Arceus, you can change its type between battles.
+A tablet that boosts same-type moves by 20%. If held by Arceus, you can change its type between battles.
 可將同屬性攻擊增加20%的石板。如果阿爾宙斯攜帶它，就可以在戰鬥間改變它的屬性。
 An item to be held by a Pokémon. It counts as a member of every tribe.
 攜帶後可以看作任何一個部族。
 A held item. The holder doesn't trigger items, abilities, or effects of targets it hits.
 攜帶它的精靈不會觸發其攻擊對象的物品、特性或者效果。
-A held item. The holder is protected from the random added effects and takes 10% less move damage.
+A held item. Moves used against the holder deal 10% less move damage and can't trigger random added effects.
 一種攜帶物品。攜帶者免受隨機追加效果的影響，並減小10%的技能傷害。
 A held item. The holder is protected from flinching.
 一種攜帶物品。攜帶者不會畏縮。
@@ -37830,7 +37827,7 @@ A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move.
 這是讓蓋諾賽克特攜帶的卡帶。攜帶後，高科技光炮這技能就會變為火屬性。
 A cassette to be held by Genesect. It changes Techno Blast to an Ice-type move.
 這是讓蓋諾賽克特攜帶的卡帶。攜帶後，高科技光炮這技能就會變為冰屬性。
-An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving.
+A held item. The Pokémon holding this peculiar stone is prevented from evolving.
 攜帶的精靈不會進化的神奇石頭。
 A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves.
 攜帶後，速度會減小。飛行屬性以及飄浮精靈會被地面技能擊中。
@@ -37992,23 +37989,23 @@ A ball whose striking appearance makes it popular despite its poor performance.
 一種性能不佳，但外表很受歡迎的球。
 It may be held by a Pokémon to recover from numbing.
 讓精靈攜帶後，可以治癒麻痺。
-It may be held by a Pokémon to recover from sleep.
+讓 held 可以治癒麻痺。 sleep.
 讓精靈攜帶後，可以治癒睡眠。
-It may be held by a Pokémon to recover from poison.
+讓 held 可以治癒睡眠。 poison.
 讓精靈攜帶後，可以治癒中毒。
-It may be held by a Pokémon to recover from a burn.
+讓 held 可以治癒中毒。 burn.
 讓精靈攜帶後，可以治癒燒傷。
-It may be held by a Pokémon to recover from a frostbite.
+讓 held 可以治癒燒傷。 frostbite.
 讓精靈攜帶後，可以治癒冰凍。
-It may be held by a Pokémon to recover from being dizzy.
+讓 held 可以治癒冰凍。 dizzy.
 讓精靈攜帶後，可以治癒混亂。
-It may be held by a Pokémon to recover from being leeched.
+讓 held 可以治癒混亂。 leeched.
 讓精靈攜帶後，可以治癒寄生。
-It may be held by a Pokémon to recover from being waterlogged.
+讓 held 可以治癒寄生。 waterlogged.
 精靈攜帶後可以從浸水狀態中恢復。
-It may be held by a Pokémon to restore a move's PP by 10.
+A held item that can restore a move's PP by 10.
 讓精靈攜帶後，可以回覆10PP。
-It may be held by a Pokémon to recover from any status problem.
+A held item that can cure any status problem.
 讓精靈攜帶後，可以治癒所有異常狀態。
 If held by a Pokémon, it heals its HP by 25% at half health.
 讓精靈攜帶後，可以回覆少量HP。
@@ -38138,9 +38135,9 @@ Used by a hero to halt a terrible disaster. If given to Zamazenta, turns it into
 被英雄用來阻止一場可怕的災難。如果給藏馬然特，會使其變成其盾之王形態。
 Used by a hero to halt a terrible disaster. If given to Zacian, turns it into its Crowned form.
 被英雄用來阻止一場可怕的災難。如果給蒼響，會使其變成其劍之王形態。
-Reins that people presented to the king. They enable Calyrex to connect and communicate with its beloved steed.
+Reins that people presented to the king. They enable Calyrex to connect with its beloved steed.
 拿到光下即可生輝的布。人們曾經將其進獻給豐饒之王以表感謝之意。
-A charm that increases the Exp. Points that Pokémon can get by 10%. A machine-like object is inside the charm.
+A charm that increases the EXP. Pokémon earn by 10%. A machine-like object is inside the charm.
 增加精靈10%可獲得的經驗。
 A charm that doubles the chance of getting a critical catch.
 帶上這個神奇的可增強穩定性的護身符，就能更容易觸發會心捕捉。
@@ -38308,7 +38305,7 @@ A radiant wing. It radiates misery, but you feel peaceful holding it. Returning 
 一隻光芒四射的翅膀，散發著痛苦，卻令人感到安寧。回家，回家...
 A glamorous steel card. While holding it, all vendors cost 10% less and Pokécenter Marts have extra items.
 一張華麗的鋼製卡片。攜帶它時，所有商店的費用減小10%，並且精靈中心商店會有額外的物品。
-A vessel for negative emotions. Perfectly defeat enough trainers to earn its rewards.
+A vessel for negative emotions. To earn its rewards, perfect trainers and make them flee from you.
 一種承載負面情緒的容器。完美擊敗足夠的訓練師以獲得獎勵。
 Held item which ups Attacking stats and Speed by 50%, but allows the use of only one move.
 攜帶後增加50%攻擊和速度，但只能使用一種技能。
@@ -39842,11 +39839,11 @@ Powers up ally Pokémon's special moves by 30%.
 會增加我方的特殊技能30%的威力。
 Raises Attack and Sp. Atk by two steps when its HP is lowered below half.
 當HP低於一半時，增加物攻和特攻2級。
-When the Pokémon eats a Berry, it restores 33% of its max health.
+When this Pokémon eats a Berry, it restores 33% of its max health.
 無論是哪種樹果，食用後，都會回覆33%最大HP。
 Boosts Attack after knocking out any Pokémon.
 打倒對手時會用冰冷的聲音嘶鳴並增加攻擊。
-Doubles the Pokémon's Speed in sunshine.
+Doubles this Pokémon's Speed in sunshine.
 晴朗天氣時，速度會增加。
 Prevents stat steps from being lowered (except when self-inflicted).
 能力等級不會被其他精靈減小。
@@ -39860,7 +39857,7 @@ Can poison the target even if it's a Steel or Poison-type.
 能夠使毒屬性和鋼屬性中毒。
 Lowers everyone else's Speed by two steps when hit by an attack.
 受到攻擊後撒下棉絮，大幅度減小除自己以外的所有精靈的速度。
-When the Pokémon eats a Berry, it will regurgitate that Berry at the end of the next turn and eat it one more time.
+When this Pokémon eats a Berry, it will regurgitate that Berry at the end of the next turn and eat it one more time.
 吃掉樹果的下個回合，會將樹果反芻出來，再吃一次。
 Upon entry, clears the stat changes of other Pokémon.
 上場時清除其他所有精靈的能力變化。
@@ -39874,23 +39871,23 @@ Halves move damage when HP becomes half or less.
 HP減半時，會變得軟弱，攻擊和特攻會減半。
 Raises Attack by four steps when a stat is lowered by a foe.
 如果能力被減小，攻擊就會極大幅增加。
-Changes the weather to Strong Winds, which remove Flying-type's weaknesses. Lingers for 3 turns after leaving.
+Summons Strong Winds, which remove Flying-type's weaknesses. Lingers for three turns after leaving.
 將天氣變為強風，移除飛行屬性的弱點，離場後持續3回合。
-Changes the weather to Harsh Sunlight, which nullifies Water-type moves. Lingers for 3 turns after leaving.
+Summons Harsh Sunlight, which prevents most moves from critting. Lingers for three turns after leaving.
 將天氣變為怒陽，使水屬性技能失效，離場後持續3回合。
-Its shroud protects it from an attack just once.
-通過畫皮覆蓋住身體，可以防住1次攻擊。
+Its shroud protects it from an attack once.
+通過畫皮覆蓋住=身體，可以防住1次攻擊。
 Boosts either Attack or Sp. Atk by two steps according to the foe's defenses.
 根據對手的物防或者特防，增加物攻或特攻2級。
 Powers up Dragon-type moves by 50%.
 龍屬性的技能威力增加50%。
-Summons rainstorm for 4 turns when it enters battle.
+Summons rainstorm for four turns upon entry.
 出場時，召喚持續4回合的暴雨。
-Turns the weather to sunshine for 4 turns when it enters battle.
+Summons sunshine for four turns upon entry.
 出場時，將天氣變為晴朗，持續4回合。
-Heals 1/8 HP in rainstorm, 1/4 when hit by Water-type moves. Loses 1/8 in sunshine, takes 25% more from Fire-type moves.
+Heals 1/8th HP in rainstorm, 1/4th when hit by Water-type moves. Loses 1/8th in sunshine, Fire-type moves do 25% more.
 暴雨天每回合恢復1/8HP，受水攻恢復25%HP。晴天每回合損失1/8HP，受火攻損失25%HP。
-Switches out if its HP becomes half or less.
+Switches out if its HP is lowered below half.
 HP變為一半時，會慌慌張張逃走，退回同行隊伍中。
 Powers up each Pokémon's Fairy-type moves.
 全體的妖精屬性技能變強。
@@ -39898,17 +39895,17 @@ Reduces damage from super-effective attacks by 25%.
 受到效果拔群的攻擊時，可以減弱其威力。
 Physical moves against the Pokémon have a 30% chance to burn the attacker.
 有30%概率讓使用物理類技能攻擊自己的對手變為燒傷。
-In sunshine boosts its and allies' Attack and Sp. Def by 50%.
+In sunshine, boosts its and allies' Attack and Sp. Def by 50%.
 晴朗天氣時，自己與同伴的攻擊和特防能力會增加。
 Protects Grass-type allies from non-volatile status conditions or stat reductions (except self-inflicted).
 保護草屬性隊友免受穩定性異常或能力等級減小效果的影響（自我造成的除外）。
-Doubles Defense. The Pokémon takes double damage from Fire-type moves.
+Doubles Defense. This Pokémon takes double damage from Fire-type moves.
 防禦能力翻倍，但受到火屬性技能攻擊時，受到雙倍傷害。
 Castform transforms with the weather.
 屬性會隨著天氣而變化。
 Reduces damage done to allies by 25%.
 可以減小我方的傷害。
-Doubles the Pokémon's Defense.
+Doubles this Pokémon's Defense.
 精靈的防禦力翻倍。
 The user's Speed is doubled while using Flying-type moves.
 使用飛行屬性技能時速度翻倍。
@@ -39922,9 +39919,7 @@ Boosts Attack by 50% but the user is locked into the first move they use.
 雖然攻擊會增加，但是隻能使出一開始所選的技能。
 Boosts Sp. Atk after knocking out any Pokémon.
 打倒對手時會用恐怖的聲音嘶鳴並增加特攻。
-Attacks with prey caught when using Surf, Dive, or Depth Charge.
-衝浪或潛水時會叼來獵物。受到傷害時，會吐出獵物進行攻擊。
-Doubles the Pokémon's weight.
+Doubles this Pokémon's weight.
 自身的重量會變為2倍。
 It alternates between an Electric-type Mode and a Dark-type Mode.
 每回合結束時會在滿腹花紋與空腹花紋之間交替改變樣子。
@@ -39934,21 +39929,15 @@ Heals non-volatile status conditions each turn if in rainstorm.
 雨天時，每回合回覆穩定性異常。
 Heals 1/8th of its max HP each turn in a hail.
 冰雹時，每回合恢復1/8的HP。
-Doubles the Pokémon's Sp. Def.
-精靈的特防翻倍。
-Comes out disguised as the Pokémon in back.
+Doubles this Pokémon's Sp. Def.
 出場時偽裝成後排的精靈。
 It transforms itself into the Pokémon it is facing.
 變身為當前面對的精靈。
-Ignores screens and other barriers, Substitute, and boosted Defense and Sp. Def.
+Comes out disguised as the Pokémon in the party's last spot.
 無視對手的各種屏障類效果，以及增加的物防和特防。
 Damages an attacker that lands the finishing hit.
 被對手打倒的時候，會給予對手相當於HP剩餘量的傷害。
-The Pokémon is protected from flinching, Intimidate, Fascinate, and Frustrate.
-不會畏縮，不受威嚇、震懾和阻撓的影響。
-Upon entry, lowers the foe's Attack stat by two steps.
-出場時威嚇對手，讓其退縮，減小對手2級物攻。
-Raises Attack when the Pokémon enters a battle.
+This Pokémon is protected from flinching, Intimidate, Fascinate, and Frustrate.
 進入戰鬥時增加攻擊力。
 Physical moves against it inflict 1/8th max HP damage to the foe.
 受到攻擊時，用粗糙的皮膚弄傷使用物理類技能攻擊自己的對手1/8HP。
@@ -39958,9 +39947,9 @@ Immune to non-volatile status conditions while in sunshine.
 晴天時，免疫穩定性異常。
 Immune to Ground-type moves. Immune to grounded hazards.
 免疫地面屬性技能。免疫地面上的各種陷阱。
-Reflects enemy status moves that target the Pokémon or create hazards around it.
+Reflects enemy status moves that target this Pokémon or create hazards around it.
 可以不受到由對手使出的變化技能或者陷阱的影響，並將其反彈。
-The Pokémon only takes damage from attacks.
+This Pokémon only takes damage from attacks.
 不會受到攻擊以外的傷害。
 Steals the held item of a Pokémon it hits.
 奪走被自己的技能擊中的對手的物品。
@@ -39970,7 +39959,7 @@ Its attacks are critical against poisoned targets.
 攻擊中毒狀態的對手時，必定會擊中要害。
 Bounces back stat-lowering effects.
 反彈受到的能力減小效果。
-Grants immunity to Electric-type moves and boosts Speed when hit by one.
+Immune to Electric-type moves and boosts Speed when hit by one.
 受到電屬性的技能攻擊時，不會受到傷害,而是速度會增加。
 Raises Attack after knocking out any Pokémon.
 如果打倒對手，就會充滿自信，攻擊會增加。
@@ -39978,9 +39967,9 @@ Reduces move damage taken by 50% when HP is full.
 HP全滿時，受到的傷害會變少。
 Changes type to match the held Plate.
 自己的屬性會根據攜帶石板的屬性而改變。
-When the Pokémon is hit by an attack, the attacker's ability becomes Mummy.
+When this Pokémon is hit by an attack, the attacker's ability becomes Mummy.
 被攻擊時，使攻擊者的特性變為木乃伊。
-All non-volatile status conditions heal when it switches out.
+All non-volatile status conditions heal when switched out.
 替換時，回覆穩定性異常。
 Powers up super-effective moves by 30%.
 效果拔群的技能威力增加30%。
@@ -39992,7 +39981,7 @@ Non-Normal moves become Normal-type and are powered up by 50%.
 非一般屬性技能全部會變為一般屬性，並且威力增加50%。
 Child attacks after the parent, for 25% of the previous damage.
 攻擊時，孩子會以25%的傷害再攻擊一次。
-When it takes a hit, the Pokémon and the attacker both faint after 3 turns.
+When it takes a hit, this Pokémon and the attacker both faint after three turns.
 當受到攻擊時，該精靈和攻擊者都會在3回合後陷入瀕死。
 Physical attacks against the Pokémon have a 30% chance to poison the attacker.
 被接觸類技能攻擊時，有30%的概率使對手中毒。
@@ -40000,17 +39989,17 @@ Physical moves have a 30% chance to poison targets.
 使用接觸類技能攻擊時，有30%的概率使對手中毒。
 Changes with other Cells if HP becomes half or less.
 HP變為一半時，細胞們會趕來支援，變為完全體形態。
-When an ally faints, the Pokémon also gains their ability or abilities.
+When an ally faints, this Pokémon also gains their ability or abilities.
 其他己方精靈失去戰鬥能力時，獲得其特性。
-Powers up nearby allies moves by 30%.
+Powers up nearby allies' moves by 30%.
 只要處在相鄰位置，技能的威力就會增加。
 Gives priority to status moves, but makes Dark-types immune to them.
 使變化類技能先制度加1，但是惡屬性的精靈會免疫受加成的技能。
-The Pokémon raises the foe's PP usage.
+This Pokémon raises the foe's PP usage.
 給予對手壓迫感，大量減小其使用技能的PP。
 Changes the weather to Heavy Rain, which nullifies Fire-type moves. Lingers for 3 turns after leaving.
 變為不會受到火屬性攻擊的天氣，離場後持續3回合。
-The Pokémon receives 25% less move damage from super-effective attacks.
+This Pokémon receives 25% less move damage from super-effective attacks.
 精靈從效果拔群的攻擊中受到的技能傷害減小25%。
 It changes type to that of the move it's about to use.
 變為與自己將要使出的技能相同的屬性。
@@ -40020,21 +40009,19 @@ Heals 1/8th of its max HP each turn if in rainstorm.
 暴雨天氣時，會回覆1/8HP。
 Powers up moves that have recoil damage by 30%.
 反傷類技能威力增加30%。
-Restores 25% of max HP when withdrawn from battle.
+Restores 25% of max HP when switched out.
 退回同行隊伍後，HP會回覆25%。
 Ripens Berries and doubles their effect.
 使樹果的效果變為2倍。
 Its type matches the memory disc it holds.
 根據攜帶的存儲碟，自己的屬性會改變。
-Protects the Pokémon from recoil damage.
+Protects this Pokémon from recoil damage.
 不會受到反傷的傷害。
-Doubles the Pokémon's Speed in a sandstorm.
+Doubles this Pokémon's Speed in a sandstorm.
 沙暴天氣時，速度翻倍。
-Takes 30% less damage in a sandstorm.
-在沙暴中受到的傷害減小30%。
-Summons a sandstorm for 4 turns when it enters battle.
+Summons a sandstorm for four turns upon entry.
 出場時，會把天氣變為沙暴。
-Immune to Grass-type moves, and raises Attack and Sp. Atk when hit by one.
+Immune to Grass-type moves and raises Attack and Sp. Atk when hit by one.
 免疫草屬性技能，被草屬性技能擊中時增加物攻和特攻1級。
 Forms a powerful school while it has a lot of HP.
 HP多的時候會聚起來變強。
@@ -40052,27 +40039,27 @@ Blocks all random added effects of attacks taken.
 被鱗粉守護著，不會受到技能的追加效果影響。
 Immune to non-volatile status conditions while it has its shell. Below half HP, its shell breaks and it turns aggressive.
 擁有殼時免疫穩定性異常，HP低於一半時，殼破裂並變得好鬥。
-Stat changes in the Pokémon are doubled.
+Stat changes in this Pokémon are doubled.
 該精靈的能力等級變化翻倍。
 Maximizes the frequency of multi-hit moves.
 連續類技能總是能使出最大次數。
-Halves Attack and Speed for 3 turns.
+Halves Attack and Speed for three turns.
 在3回合內，物攻和速度減半。
-Doubles the Pokémon's Speed stat in a hail.
+Doubles this Pokémon's Speed stat in a hail.
 冰雹時，速度翻倍。
 Doubles the critical hit chance of random crit moves. Powers up critical hits by another 50%.
 將隨機命中要害技能的命中要害率翻倍。使命中要害的威力再增加50%。
-Summons a hail for 4 turns when it enters battle.
+Summons a hailstorm for four turns upon entry.
 出場時，開啟4回合的冰雹。
-In sunshine, Sp. Atk is boosted by 50%, but the Pokémon is hurt for 1/10th HP each turn.
+In sunshine, Sp. Atk is boosted by 50%, but this Pokémon is hurt for 1/10th HP each turn.
 晴朗天氣時，特攻增加50%，而每回合HP會減小。
 Boosts Sp. Atk each time a Pokémon faints.
 每當有精靈變為瀕死狀態時，特攻增加1級。
 Speed is raised by two steps at the end of each of its turns.
 回合結束時，速度增加2級。
-Boosts Defense by two steps when hit by an attack.
+Raises Defense when hit by an attack.
 受到攻擊時，物防增加2級。
-Changes between Blade and Shield Forme with attacks and King's Shield.
+Changes between Blade and Shield Form with attacks and King's Shield.
 隨著使用攻擊和王者盾牌技能，在刀劍與盾牌形態之間改變。
 Physical attacks against the Pokémon have a 30% chance to cause numbing.
 有30%概率讓使用物理類技能攻擊自身的對手麻痺。
@@ -40086,9 +40073,9 @@ It can't be knocked out with one hit.
 即使受到對手的技能攻擊，也不會被一擊打倒。一擊必殺的技能也沒有效果。
 Quadruples the critical hit chance of random crit moves.
 將隨機命中要害的命中要害率變為4倍。
-Doubles the Pokémon's Speed in rainstorm.
+Doubles this Pokémon's Speed in rainstorm.
 暴雨天氣時，速度翻倍。
-When the Pokémon is given a non-volatile status condition by another Pokémon, that Pokemon also gets that condition.
+When this Pokémon is given a non-volatile status condition by another Pokémon, that Pokémon also gets that condition.
 當被另一隻精靈賦予穩定性異常時，那隻精靈也會陷入該異常。
 Physical moves against it lower the attacker's Speed by three steps.
 對於使用物理類技能攻擊自身的對手，會減小其速度3級。
@@ -40106,35 +40093,35 @@ Powers up Electric-type moves by 50%.
 電屬性技能的威力增加50%。
 Gives +3 priority to healing and draining moves.
 可以率先使出回覆類技能。
-Every other turn, the Pokémon can't use any move but Slack Off.
+Every other turn, this Pokémon can't use any move but Slack Off.
 每隔1回合，不能使用除偷懶之外的其他技能。
 Ignores modified Defense and Sp. Def while attacking, and ignores modified Attack and Sp. Atk while being attacked.
 攻擊時，無視對手增加或者減小的雙防，被攻擊時，無視對手增加或者減小的雙攻。
-Doubles the Pokémon's Speed if its held item is consumed or lost.
+Doubles this Pokémon's Speed if its held item is consumed or lost.
 如果攜帶的物品丟失或消耗，則使其速度翻倍。
 Physical moves negate all protection effects.
 如果使出的是物理類技能，則可以無視保護類效果進行攻擊。
 Doubles the Accuracy, critical hit rate, and chance to activate random added effects for its allies and itself.
 將自身及隊友的命中率、命中要害率和觸發隨機附加效果的概率翻倍。
-Prevents the Pokémon from falling asleep.
+Prevents this Pokémon from falling asleep.
 因為是不會睡覺的體質，所以不會變為睡眠狀態。
 Immune to Electric-type moves and restores 25% of max HP when hit by one.
 免疫電屬性技能，被電屬性技能攻擊時，恢復1/4的HP。
-When the Pokémon is hit by an attack, the Pokémon and the attacker switch abilities.
+When this Pokémon is hit by an attack, this Pokémon and the attacker switch abilities.
 被攻擊時，和攻擊者交換特性。
 Immune to Water-type moves and restores 25% of max HP when hit by one.
 免疫水屬性技能，被水屬性技能攻擊時，恢復1/4的HP。
 Weakens incoming Fire-type moves, and doubles Water-type damage.
 減小受到的火屬性技能的威力，水屬性技能威力翻倍。
-Physical attacks against the Pokémon raise its Speed by two steps but lower its Defense.
+Physical attacks against this Pokémon raise its Speed by two steps but lower its Defense.
 如果因物理技能受到傷害，防禦會減小，速度會大幅增加。
-Cowardly switches out if its HP becomes half or less.
+Cowardly switches out if its HP is lowered below half.
 HP變為一半時，會慌慌張張逃走，退回同行隊伍中。
 Only super-effective moves will hit.
 不可思議的力量，只有效果拔群的技能才能擊中。
 After being attacked, uses Parting Shot to switch out.
 受到攻擊後，會造成反擊並回到隊伍中。
-The Pokémon gains twice as many stats from leveling up.
+This Pokémon gains twice as many stats from leveling up.
 精靈從升級中獲得的能力增加翻倍。
 At the end of each turn in rainstorm, each Pokémon not immune to rainstorm has their Defense and Sp. Def lowered.
 在暴雨的每個回合結束時，每個不免疫暴雨的負面效果的精靈的雙防減小1級。
@@ -40142,16 +40129,14 @@ After being hit, the Pokémon raises either Defense or Sp. Def based on the atta
 被攻擊擊中後，精靈會根據攻擊的類別增加雙防中的一項。上限為+4。
 Raises Speed by four steps when its HP is lowered below half.
 HP降到一半以下時極大幅度增加速度。
-Grants immunity to Flying-type moves and raises Speed if hit by one.
+Immune to Flying-type moves and raises Speed if hit by one.
 不會受到飛行屬性技能的傷害，而是會增加攻擊。
-After using a wind move, raises the Pokémon's Defense and Sp. Def. Caps out at +4.
-使用風類技能後，精靈的雙防增加1級。上限為+4。
-Protects the Pokémon from recoil damage. The Pokémon doesn't trigger items, abilities, or effects of targets it hits.
+Protects this Pokémon from recoil damage. This Pokémon doesn't trigger items, abilities, or effects of targets it hits.
 免疫反傷傷害，同時不會觸發被擊中目標的物品、特性或技能效果。
 Slips past all types of Spikes hazards. Deals 50% more damage to targets that switched in this turn.
 避開所有類型的尖刺陷阱，對這一回合替換上場的目標造成的傷害增加50%。
-HP-fraction-based damage effects deal 50% more damage to opponents.
-基於HP造成的傷害增加50%。
+HP-fraction-based damage effects deal 35% more damage to opponents.
+基於HP造成的傷害增加35%。
 When another Pokémon faints, consumes their item, ability, and stat steps.
 其他精靈失去戰鬥力時，消除在場的所有物品、特性和能力變化。
 Can hold two different items, if both are Gems.
@@ -40168,29 +40153,27 @@ Turns to Finale Form when only unfainted on team. Ability becomes Synchronize.
 當隊伍只剩下自己後，將變為終結形態，特性更改為同步。
 Inflicts 1/6th max HP damage to the foe when damaged during rainstorm.
 在暴雨天受到攻擊時，對手會扣除1/6的HP。
-Boosts the Pokémon's Attack by 50%, but its attacks cannot faint the target.
+Boosts this Pokémon's Attack by 50%, but its attacks cannot faint the target.
 物攻增加50%，但它的攻擊不會使對手瀕死。
 Sound-based attacks turn Ice-type and are boosted by 30%.
 聲音類技能變成冰屬性，並且威力增加30%。
 Deals double damage against Pokémon that have raised defenses or that are protected by a screen.
 對於增加了防禦或受到屏障保護的精靈造成雙倍傷害。
-Uses Aromatherapy if an attack lowers its HP to half or below.
+Uses Aromatherapy if an attack lowers its HP below half.
 當HP因為被攻擊而降到一半或更低時，立即使用芳香治療。
-Doubles Sp. Def, but the Pokémon can't use status moves.
+Doubles Sp. Def, but this Pokémon can't use status moves.
 特防翻倍，但無法使用變化類技能。
-Uses Assist upon entry, using a random move known by a party member.
-入場時使用藉助，隨機複製同伴的技能。
 During eclipse, it restores its HP by half the damage it deals with attacks.
 日食時，回覆自身攻擊造成傷害的一半的HP。
 Attacks this Pokémon uses that don't share a type with it are boosted by 50%. It can't use attacks of its own types.
 無法使用與自己屬性相同的技能，使用不同屬性的技能時，傷害增加50%。
 At the beginning of every 5th turn, the Pokémon forcibly switches into battle. It chooses which move it will use that turn.
 戰鬥的每第5回合會強制替換上場，並自主選擇使用1個技能。
-At the end of every turn, its stats shift position (Attack-> Defense -> Sp. Atk -> Sp. Def -> Speed -> Attack...)
+At the beginning of every 5th turn, this Pokémon forcibly switches into battle. It chooses which move it will use that turn.
 每回合結束後，能力都會發生轉換。(攻擊->防禦->特攻->特防->速度->攻擊...)
 Healing on the Pokémon is reversed.
 反轉自身的治療效果。
-Special attacks against the Pokémon have a 30% chance to waterlog the attacker.
+Healing on this Pokémon is reversed.
 被特殊類技能攻擊時，有30%概率使攻擊者陷入浸水狀態。
 The effect of healing on foes is reversed.
 使敵方的治療效果發生反轉。
@@ -40198,37 +40181,29 @@ When free from non-volatile status conditions, non-damaging moves by foes are dr
 當沒有處於穩定性異常時，會吸引對手的非傷害類技能。
 Foretold moves hit two turns quicker and deal 30% more damage.
 預言類技能會提前2回合，並增加30%傷害。
-Deals more damage to targets the faster it is than them. Up to a 50% bonus at double Speed.
+Foretelling moves hit two turns quicker and deal 30% more damage.
 速度越快造成的傷害越高，速度為對方的兩倍時，增加50%傷害。
 Your Poké Balls are 50% more effective.
 所有精靈球的捕捉率增加50%。
 Sets a Reflect for 4 turns upon entering the battle.
 入場時，製造持續4回合的反射壁。
-Raises Defense and Sp. Def by three steps when its HP is lowered below half.
+Sets a Reflect for four turns upon entry.
 當HP低於一半時，雙防增加3級。
-Special attacks against the Pokémon have a 30% chance to dizzy the attacker.
-受到特殊攻擊後有30%概率使對手陷入混亂。
-Boosts Attack and Sp. Atk by three steps when a stat is lowered by a foe.
-當被對手減小能力時，增加雙攻3級。
-After using a sound move, all foes are tormented.
+After using a sound move, all foes are Tormented.
 聲音類技能會對敵方全員施加折磨狀態。
-Can hold two different items, if both are Berries.
-可同時攜帶兩個樹果類物品。
 Boosts Defense by 25%. The Pokémon cannot be flinched.
 物防增加25%，且不會畏縮。
 Its attacks are critical against frostbitten targets.
 攻擊陷入凍傷的對手時必定會擊中要害。
 Causes hail to deal double damage and increase Defense of Ice-types by 2.0x instead of 1.5x.
 使冰雹造成的傷害翻倍，並且使冰屬性的物防增加效果從1.5倍變為2倍。
-Its special attacks reduce the target's Sp. Def.
-特殊攻擊減小對方的特防。
-Boosts the power of blade moves by 30%. Blade moves ignore the target's modified Defense and Sp. Def.
+Boosts the power of slice moves by 30%. Slice moves ignore the target's modified Defense and Sp. Def.
 增加切割類技能的威力30%，並且切割類技能無視目標增加或者減小的物防和特防。
 Move damage that's decreased by sunshine is decreased twice as much.
 受陽光削弱的技能會額外減小傷害。
 Increase the EXP gained from battles in which it participates by 50%.
 戰鬥獲得的經驗增加50%。
-Heals from trapping damage it deals. Takes 25% less damage from Pokémon that are trapped.
+Heals from binding damage it deals. Takes 25% less damage from Pokémon that are trapped.
 回覆自身施加的束縛類效果造成的同等傷害的HP。被束縛的精靈攻擊時，受到的傷害減小25%。
 Lays a hazard of levitating stones around the opponent when its HP is lowered below half.
 HP低於一半時，在對手周圍放置隱型巖。
@@ -40238,17 +40213,15 @@ Slips past hazards. On the first turn, its attacks are always critical.
 無視陷阱，出場的第1回合必定會擊中對手的要害。
 Moves ignore immunities due to typing.
 技能無視屬性免疫效果。
-If an attack lowers its HP to half or less, lowers all of the attacker's stats.
+If an attack lowers its HP below half, lowers all of the attacker's stats.
 如果被攻擊到HP低於一半，會使對方全能力減小1級。
 Boosts the power of wind-based moves by 30%.
 風類技能威力增加30%。
-Its attacks are always physical attacks.
-所有攻擊都是物理攻擊。
 Takes 30% less move damage from Pokémon that are shorter than it.
 如果身高比對手高，受到的傷害減小30%。
 Self-destructing at full health leaves it at 1 HP.
 在滿HP時自爆，會留下1HP。
-Receives 33% less move damage, but the Pokémon is hurt for 1/10th HP each turn.
+Receives 33% less move damage, but this Pokémon is hurt for 1/10th HP each turn.
 受到技能傷害減小33%，但每回合減小10%的最大HP。
 Has a 30% chance to burn targets when using physical moves.
 使用物理技能時，30%概率使對方燒傷。
@@ -40258,7 +40231,7 @@ Prevents itself and allies from being poisoned, leeched, or waterlogged.
 自身和隊友不會陷入中毒、寄生、或者浸水。
 Upon entry, consumes scattered coins to heal for 1/10th the amount consumed. This can overheal.
 出場時，消耗散落的金錢來回復HP，回覆量為金錢總價的1/10。可以過量回復。
-Immune to Fighting-type moves, and raises Attack and Sp. Atk if hit by one.
+Immune to Fighting-type moves and raises Attack and Sp. Atk if hit by one.
 免疫格鬥屬性技能，被格鬥屬性技能擊中時物攻和特攻增加1級。
 Physical moves against the Pokémon have a 30% chance to frostbite the attacker.
 受到物理技能攻擊時，30%概率使對方凍傷。
@@ -40282,7 +40255,7 @@ Sets a Lucky Chant upon entering the battle, protecting from critical hits for 1
 進入戰鬥後，10回合內保護自己不會被擊中要害。
 Can hold two items, but drops one when swapping out.
 可以攜帶兩個物品，但在交換精靈時會隨機掉落其中一個。
-Boosts Sp. Attack by 75%, but the Pokémon becomes frostbitten after attacking.
+Boosts Sp. Atk by 75%, but this Pokémon becomes frostbitten after attacking.
 特攻增加75%，但攻擊後會使自己凍傷。
 Immune to Ice-type moves, and raises Attack and Sp. Atk if hit by one.
 免疫冰屬性技能，被冰屬性技能擊中時增加物攻和特攻1級。
@@ -40292,19 +40265,19 @@ Using or being hit by a physical move leaves a rock on the field. Status moves c
 使用物理技能攻擊或被物理攻擊命中時，將留下一塊石頭。能力發生變化時將拾起石塊，每塊恢復25%HP。
 Changes to the form of your choosing after switching out.
 替換後可以選擇一個形態並變成那個形態。
-Upon entry, creates a substitute from 1/4th of its HP.
+Upon entry, creates a Substitute from 1/4th of its HP.
 進入戰鬥後使用25%HP製造一個替身。
 When hit with a special move, hits back instantly with Breach.
 被特殊技能擊中時，會立即使用潮汐一擊進行反擊。
-When a foe hits the Pokémon, they are warned. If they do it again, they become cursed.
+When a foe hits this Pokémon, they are warned. If they do it again, they become cursed.
 被攻擊時，會先警告對手，如果再次受到已經被警告過的對手的攻擊，使對手陷入詛咒。
 Immune to Dragon-type, Fairy-type and Ghost-type attacks.
 免疫龍屬性、妖精屬性和幽靈屬性技能。
 When this Pokémon gains a non-volatile status condition, its Attack is raised by three steps.
 當陷入穩定性異常時，物攻增加3級。
-Powers up the Pokémon's Dark-type moves by 50% in sandstorm.
+Powers up this Pokémon's Dark-type moves by 50% in sandstorm.
 在沙暴中，精靈的惡系技能威力增加50%。
-While the Pokémon is below half health, its attacks poisons those hit.
+While this Pokémon is below half health, its attacks poisons those hit.
 當精靈的HP低於一半時，其攻擊會使被擊中的目標中毒。
 Takes 30% less move damage if a Tailwind is blowing.
 在開啟順風時，受到技能的傷害減小30%。
@@ -40318,15 +40291,13 @@ Prevents Bug- or Poison-type moves during moonglow.
 在月輝天氣中，免疫蟲、毒屬性技能。
 Boosts Attack by 50%, but physical moves deal 25% damage back as recoil.
 物攻增加50%，但使用物理技能時會造成25%的反傷。
-Foes aren't released from its trapping moves even when the Pokémon leaves the field.
-此精靈離場，敵人也不會脫離陷阱類技能的影響。
-33% of all move damage taken by the Pokémon is instead taken at the end of the next turn.
+33% of all move damage taken by this Pokémon is instead taken at the end of the next turn.
 精靈受到的所有技能傷害的33%會在下1回合結束時再承受。
-Doubles the Pokémon's Defense in a sandstorm.
+Doubles this Pokémon's Defense in a sandstorm.
 在沙暴中，精靈的物防翻倍。
-Restores the Pokémon's HP based on damage taken by others from sandstorm.
+Restores this Pokémon's HP based on damage taken by others from sandstorm.
 根據其他精靈因沙暴所受的傷害恢復自身HP。
-The Pokémon is immune to Ground-type moves and takes 20% less damage in sandstorm.
+This Pokémon is immune to Ground-type moves and takes 20% less damage in sandstorm.
 精靈免疫地面屬性技能，在沙暴中受到的傷害減小20%。
 Prevents Water- or Grass-type moves during sandstorm.
 在沙暴天氣中使水、草屬性的技能失效。
@@ -40354,33 +40325,30 @@ Upon entry during eclipse, lowers foe's Attack and Sp. Atk by two steps.
 在日食入場時，減小對手的物攻和特攻2級。
 Raises Sp. Atk by two steps whenever any battler falls asleep.
 每當有一隻精靈在戰鬥中陷入睡眠，大幅度增加自身特攻。
-If an attack lowers its HP to half or less, the attacker becomes drowsy.
+If an attack lowers its HP below half, the attacker becomes drowsy.
 如果攻擊將對手的HP削減到一半或更低，使其進入瞌睡狀態。
 Move damage that's decreased by rainstorm is decreased twice as much.
 暴雨天減小技能傷害的效果加倍。
-Creates Grey Mist for three turns when entering the battlefield.
+Creates Grey Mist for three turns upon entry.
 進入戰場時，製造持續3回合的灰霧。
 Speed is doubled on the first turn.
 出場的第1回合速度翻倍。
-Whenever it uses a status move, becomes energy charged, doubling the power of its next Electric-type attack.
+Whenever it uses a status move, becomes energized, doubling the power of its next Electric-type attack.
 使用變化類技能時，進入充電狀態。
-Boosts power of the Pokémon's sound-based moves by 50%.
+Boosts power of this Pokémon's sound-based moves by 50%.
 精靈聲音類技能的威力增加50%。
-In sandstorm, the Pokémon's Attack is boosted by 30%.
+In sandstorm, this Pokémon's Attack is boosted by 30%.
 在沙暴中，精靈的物攻增加30%。
-If its stats would be changed, instead they're changed half as much in the opposite direction (rounded up).
-當能力發生變化時，會朝相反方向變化一半（四捨五入）。
 Repeats another Pokémon's sound and pulse moves immediately at 50% power.
 立即以50%的威力重複另一隻精靈的聲音類或者脈衝類技能。
-The Pokémon and its allies are protected from flinching, Intimidate, Fascinate, and Frustrate.
+This Pokémon and its allies are protected from flinching, Intimidate, Fascinate, and Frustrate.
 自身及其同伴受到保護，不會受到畏縮、威嚇、震懾和阻撓的影響。
-Uses Lightning Dance if an attack lowers its HP to half or below.
+Uses Lightning Dance if an attack lowers its HP below half.
 被攻擊使自身HP降到一半或更低，會使用閃電舞。
-Upon entry, creates an Emotion Room for four turns, switching Abilities every turn.
+Upon entry, creates an Emotion Room for four turns, which swaps each Pokémon's ability to its other ability each turn.
 出場時，創建一個持續4回合的情感空間，在該空間下，精靈每回合都會切換自身的特性。
-Can't be numbed, waterlogged, or have its Speed reduced.
 不會陷入麻痺、浸水，速度也不會被減小。
-The Pokémon's moves have priority against single targets with increased stats.
+This Pokémon's moves have priority against single targets with increased stats.
 技能對於擁有增加的能力等級的單個對手擁有先制度。
 Eclipse counts down twice as quickly.
 日食天氣的計時速度增加為兩倍。
@@ -40390,15 +40358,15 @@ Dig and Undermine deal 50% more damage.
 挖洞和暗襲要害造成的傷害增加50%。
 Takes half damage from Psychic- and Ghost-type attacks.
 受到的超能、幽靈屬性攻擊傷害減半。
-Boosts Speed by 50% but the Pokémon is locked into the first move they use.
-增加速度50%，但該精靈會被鎖定在它使用的第一個技能中。
-At low health, eats other battlers' low-health triggered berries.
-在低HP的狀態下，會吃掉其他精靈低HP觸發的樹果。
-Upon entry, the Pokémon heals itself for 1/4th max HP. This can overheal.
+Boosts Speed by 40% but this Pokémon is locked into the first move they use.
+增加速度40%，但該精靈會被鎖定在它使用的第一個技能中。
+Powers up super-effective or hyper-effective moves by 30%.
+Powers up super-effective or hyper-effective moves by 30%.
+Upon entry, this Pokémon heals itself for 1/4th max HP. This can overheal.
 進入戰鬥後治療25%最大HP，且可以過量回復。
-Increases Attack by 50%, but the Pokémon is hurt for 1/10th HP each turn.
+Increases Attack by 50%, but this Pokémon is hurt for 1/10th HP each turn.
 攻擊力增加50%，但每回合受到10%最大HP的傷害。
-Increases Sp. Atk by 50%, but the Pokémon is hurt for 1/10th HP each turn.
+Increases Sp. Atk by 50%, but this Pokémon is hurt for 1/10th HP each turn.
 特攻增加50%，但每回合受到10%最大HP的傷害。
 Heals by 1/8th of its max HP each turn if in eclipse.
 日食天氣中，每回合恢復1/8最大HP。
@@ -40410,17 +40378,17 @@ Can hold two different items, if one is clothing and the other is not.
 在攜帶衣物類物品時，可額外攜帶一個非衣物物品。
 Raises all of its stats whenever it knocks out a Pokémon with a critical hit.
 每次擊中要害擊敗敵方時，增加所有屬性。
-After attacking any foe, the Pokémon immediately uses Rest.
+After attacking any foe, this Pokémon immediately uses Rest.
 擊敗對手後立即使用睡覺。
 Takes half damage from Ice- and Flying-type attacks.
 受到冰、飛行屬性攻擊時，傷害減半。
 When attacked with a special move, inflicts 1/8th max HP damage on the attacker.
 被特殊類技能攻擊時，對手會受到1/8HP的傷害。
-Boosts Attack by 75%, but the Pokémon becomes burned after attacking.
+Boosts Attack by 75%, but this Pokémon becomes burned after attacking.
 增加75%攻擊力，但發動攻擊後會燒傷自己。
 During eclipse, gets a 30% boost to Sp. Atk.
 日食天氣下增加30%特攻。
-Double the Pokémon's Speed if any enemy is below half health.
+Double this Pokémon's Speed if any enemy is below half health.
 任何對手HP低於一半時，速度加倍。
 Takes 30% less damage in a rainstorm.
 在暴雨中受到的傷害減小30%。
@@ -40430,53 +40398,49 @@ Heals by 1/8th HP whenever any Pokémon uses a dance or sound move.
 任何精靈使用舞蹈或聲音技能時，恢復1/8最大HP。
 Heals 1/16th HP every turn. Protected from being numbed or waterlogged.
 每回合恢復1/16的HP，並且不會陷入麻痺和浸水。
-Immune to Poison-type moves, and boosts Defense and Sp. Def when hit by one.
-免疫毒屬性技能，被毒屬性技能擊中時增加物防和特防1級。
-Restores 1/8 HP in sunshine, 1/4 when hit by Fire-type moves. Loses 1/8 in rainstorm, takes 25% more from Water-type moves.
+Heals 1/8th HP in sunshine, 1/4th when hit by Fire-type moves. Loses 1/8th in rainstorm, Water-type moves do 25% more.
 晴天每回合恢復1/8HP，受火攻恢復25%HP。暴雨天每回合損失1/8HP，受水攻損失25%HP。
 At the end of every turn, each Pokémon takes 1/8th HP damage. This is treated as Fire-type.
 回合結束時，每隻精靈受到1/8最大HP的火屬性傷害。
-Immune to Fire-type moves, and raises Attack and Sp. Atk if hit by one.
+Immune to Fire-type moves and raises Attack and Sp. Atk if hit by one.
 免疫火屬性技能，被火屬性技能擊中時增加物攻和特攻1級。
 Powers up priority moves by 30%.
 先制技能威力增加30%。
-Upon entry, summons Natural Protection for 4 turns.
-進入戰鬥後，召喚一個持續4回合的自然防護。
-Flying-type attacks have a 40% chance to burn.
-飛行屬性的攻擊有40%概率使對方燒傷。
+Upon entry, summons Natural Protection for eight turns.
+進入戰鬥後，召喚一個持續8回合的自然防護。
 On the first turn, its attacks frostbite the target.
 第1回合的攻擊會使對方凍傷。
 Attacks this Pokémon uses that don't share a type with it are boosted by 30%.
 使用非本屬性技能時，威力增加30%。
 Grows at the end of each turn, slowing down but improving other stats.
 每回合結束時長大，變成速度更低，但其他能力增加的形態。
-Doubles Attack, but the Pokémon becomes dizzy after attacking.
+Doubles Attack, but this Pokémon becomes dizzy after attacking.
 物攻翻倍，但是攻擊後會使自身陷入混亂。
-Upon entry, summons a Cruel Cocoon on the Pokémon's side for 6 turns.
+Upon entry, summons a Cruel Cocoon on this Pokémon's side for six turns.
 進入戰鬥後，召喚一個持續6回合的殘酷之繭。
-Hits opponent with Gust when withdrawn from battle.
+Hits opponent with Gust when switched out.
 離開戰鬥時，使用起風攻擊對手。
-Grants immunity to Bug-type moves, and raises Attack and Sp. Atk when hit by one.
+Immune to Bug-type moves and raises Attack and Sp. Atk when hit by one.
 免疫蟲屬性技能，被蟲屬性技能擊中時增加物攻和特攻1級。
-Upon entry, summons a Misdirecting Fog on the Pokémon's side for 6 turns.
+Upon entry, summons a Misdirecting Fog on this Pokémon's side for six turns.
 進入戰鬥後，召喚持續6回合的迷惑之霧。
 Raises Speed by two steps after knocking out any Pokémon.
 擊敗任意精靈後，大幅度增加速度。
-Immune to Psychic-type moves, and raises Attack and Sp. Atk if hit by one.
+Immune to Psychic-type moves and raises Attack and Sp. Atk if hit by one.
 免疫超能屬性技能，被超能屬性技能擊中時增加物攻和特攻1級。
-Raises Attack and Sp. Atk by two steps when hit by a not-very-effective move.
-被效果不佳的技能擊中時，增加物攻和特攻2級。
-Doubles the Pokémon's Speed in Rooms.
+Doubles this Pokémon's Speed in Rooms.
 當存在空間類效果時，精靈的速度翻倍。
 Take 30% less damage from attacks on turns when it hasn't moved yet.
 如果此回合還未動作，減小30%受到的傷害。
 Raises other allies' Speed by two steps upon entering the battle.
 進入戰鬥後，同伴的速度大幅度增加。
-The Pokémon changes type to that of the move it's about to use. However, it's 20% less accurate.
+Raises other allies' Speed by two steps upon entry.
 會根據即將使用的技能改變屬性，但命中率減小20%。
 Counts as every tribe.
 同時算作每個部族。
-When hit with a special move, hits back instantly with that same move.
+After using a biting move, lowers the target's highest attacking stat by two steps.
+After using a biting move, lowers the target's highest attacking stat by two steps.
+After being attacked with a special move, hits back with that same move.
 被特殊類技能攻擊時，立即使用同樣的技能還擊。
 Boosts Attack and Speed by 30% in hail.
 在冰雹中，物攻和速度增加30%。
@@ -40500,34 +40464,28 @@ Boosts the power of wind-based moves by 50%.
 風類技能威力增加50%。
 Completely protects allies from foes' spread moves.
 保護同伴不受對手的多目標類技能的傷害。
-Pokémon that swap in for this have their Speed raised and their PP fully restored.
-進入戰鬥時，創造一個持續10回合的保護罩，保護自身不受負面狀態影響。
-Turns the held item of a Pokémon it hits into gold coins for you to take.
+Turns the held item of a Pokémon it hits into scattered gold coins for you to take.
 將擊中的精靈身上攜帶的物品轉化為金錢。
 Immune to Fire-type moves and raises Defense and Sp. Def if hit by one.
 免疫火屬性技能，被火屬性技能擊中時增加物防和特防1級。
-Random added effects of bite attacks are +50% more likely likely to occur.
-咬類技能觸發附加效果的概率增加50%。
+Random added effects of bite attacks are +50% more likely to occur.
+咬類技能觸發附加效果的概率增加+50%。
 Draining moves deal 30% more damage. Can overheal when draining.
 吸取類技能增加30%傷害，且可以過量治療。
 Eats pinch berries earlier than normal. Gets a random pinch berry at the end of each turn if it has no item.
 會更早吃掉樹果，沒有攜帶物品時，每回合結束隨機獲得一枚樹果。
-Upon entry, intensifies gravity for five turns.
-進入戰鬥後，增強5回合的重力。
-Moves that bind the opponent deal 50% more damage (on the initial hit).
+Upon entry, intensifies gravity for four turns.
+進入戰鬥後，增強4回合的重力。
+Moves that trap and bind the opponent deal 50% more damage on the initial hit.
 束縛類技能第一次命中時，傷害增加50%。
-Boosts Sp. Def by two steps when hit by an attack.
-受到攻擊時，特防增加2級。
+Raises Sp. Def when hit by an attack.
+受到攻擊時，特防增加1級。
 Raises Attack whenever any Pokémon uses a dance move.
 任何精靈使用舞蹈類技能時都會增加攻擊力。
 Heals 1/16th HP every turn. Protected from being poisoned.
 每回合恢復1/16HP，並且不會陷入中毒。
-Upon entry, traps each opponent in a whirlpool for two turns.
-進入戰鬥後，將所有對手困在潮漩中兩回合。
-Summons eclipse for four turns when it enters battle.
+Summons eclipse for four turns upon entry.
 進入戰鬥後召喚持續4回合的日食天氣。
-If an attack lowers the Pokémon's HP to half or less, the attacker becomes fractured.
-被攻擊到HP低於一半時，使攻擊者陷入破碎狀態。
 Deals 30% more move damage to Pokémon that are taller than it.
 對身高更高的精靈額外造成30%技能傷害。
 Its attacks are critical against burned targets.
@@ -40538,17 +40496,17 @@ The Pokémon is also Ghost-type.
 此精靈也視為幽靈屬性。
 Doubles Sp. Atk, but the Pokémon becomes dizzy after attacking.
 特攻翻倍，但是攻擊後會使自身陷入混亂。
-Immune to Fairy-type moves and restores 25% of max HP if hit by one. This can overheal.
+This Pokémon is also Ghost-type.
 免疫妖精屬性技能，被妖精屬性技能攻擊時，恢復1/4的HP。（可以過量回復）
-Immune to Dark-type moves, and boosts Attack and Sp. Atk when hit by one.
+Doubles Sp. Atk, but this Pokémon becomes dizzy after attacking.
 免疫惡屬性技能，被惡屬性技能擊中時增加物攻和特攻1級。
 Heals by 1/8th of its max HP each turn if in sunshine.
 在晴天天氣中，每回合恢復最大HP的1/8.
-Doubles the Pokémon's Sp. Def in sunshine.
+Immune to Dark-type moves and boosts Attack and Sp. Atk when hit by one.
 在陽光下，精靈的特防翻倍。
 Boosts the power of kicking moves by 30%. Immune to hazards.
 踢類技能威力增加30%，並免疫各種陷阱。
-Traps the foe during gravity.
+Doubles this Pokémon's Sp. Def in sunshine.
 存在重力時，會困住對手。
 Can hold two different items, if both are Herbs.
 可同時攜帶兩個香草類物品。
@@ -40556,7 +40514,7 @@ Wild Pokémon are more likely to appear in pairs and to be species you've never 
 更容易使未捕捉過的野生的精靈成對出現。
 Turns to Finale Form when only unfainted on team. Ability becomes Inner Focus.
 當隊伍只剩下自己後，將變為終結形態，特性更改為精神力。
-The Pokémon and its allies are immune to weather downsides.
+This Pokémon and its allies are immune to weather downsides.
 自身與同伴不受天氣的不利因素影響。
 When entering battle, heals self and allies for 25% of their max health.
 進入戰鬥時，治療自身和同伴25%最大HP。
@@ -40570,7 +40528,7 @@ When hit by a move with 95 or more base power, hits back instantly with Nuzzle.
 當被95基礎威力以上的技能擊中後，立即用蹭蹭臉頰予以還擊。
 Punches, Kicks, and Bites combo together to create special effects.
 拳、腳、牙類技能組合在一起，將產生特殊效果。
-Doubles Speed. Dashes to avoid hazards when entering.
+Doubles Speed. Dashes to avoid hazards upon entry.
 速度翻倍，進入戰鬥時免疫陷阱。
 It can avoid being knocked out by using its face. The face then melts.
 可以避免被擊倒，之後就會融化。
@@ -40586,13 +40544,13 @@ Raises Speed by four steps when a stat is lowered by a foe.
 對手減小自己能力時，極大幅度增加速度。
 Prevents stat steps from being lowered (except when self-inflicted). Protects from critical hits.
 不會被其他精靈減小能力等級，也不會被擊中要害。
-Special attacks against the Pokémon raise its Speed by two steps but lower its Sp. Def.
+Special attacks against this Pokémon raise its Speed by two steps but lower its Sp. Def.
 受到特殊技能攻擊時，大幅度增加自身的速度，但特防會減小。
 Its same-type attack bonus is based on its party members rather than itself.
 使用本屬性技能攻擊時，根據隊內同屬性成員獲得加成。
 When this Pokémon gains a non-volatile status condition, its Sp. Atk is raised by three steps.
 當陷入穩定性異常時，特攻增加3級。
-Comes out disguised as the Pokémon in back. While disguised, copies its ability.
+Comes out disguised as the Pokémon in the party's last spot. While disguised, copies its ability.
 出場時偽裝成後排的精靈。在偽裝期間，複製被偽裝的精靈的特性。
 After being attacked, gains immunity to that move's type but loses other morphed immunities.
 被攻擊後，獲得對該技能屬性的免疫能力，但會失去其他屬性的免疫能力。
@@ -40600,7 +40558,7 @@ Immune to Steel-type moves and raises Speed if hit by one.
 受到鋼屬性技能攻擊時，免疫傷害並增加速度。
 Pokémon take damage from non-volatile status conditions even while switched out.
 精靈即使替換離場，也會受到穩定性異常的傷害。
-The Pokémon is also Grass-type. When hit by an attack, the attacker's ability becomes Infected.
+This Pokémon is also Grass-type. When hit by an attack, the attacker's ability becomes Infected.
 增加草屬性。被攻擊時，使攻擊者的特性變為該特性。
 Summons sunshine for four turns when hit by an attack.
 受到攻擊後釋放大晴天，持續4回合。
@@ -40622,7 +40580,7 @@ Uses Wish after knocking out any Pokémon.
 擊倒任意精靈後使用祈願。
 Ignores Abilities that would affect its moves or activate after hitting the target.
 攻擊時，無視對手的特性。
-If an attack lowers the Pokémon's HP to half or less, the attacker becomes jinxed.
+If an attack lowers this Pokémon's HP below half, the attacker becomes jinxed.
 被攻擊到HP低於一半時，使攻擊者陷入不幸狀態。
 Physical moves against the Pokémon have a 30% chance to leech the attacker.
 受到物理攻擊時，30%概率令對方受到傷害。
@@ -40636,7 +40594,7 @@ Boosts the power of punching moves by 50%.
 拳類技能威力增加30%。
 At end of turn, regenerates its previously-used berry.
 回合結束時，使之前的樹果再生。
-Cannot take damage or be switched out. Hears Perish Song upon entering, ensuring its demise.
+Cannot take damage or be switched out. Hears Perish Song upon entry, ensuring its demise.
 不會受到傷害或者被換出戰場，入場時會立即聽到滅亡之歌。
 Deals 30% more damage when it's slower than the target.
 速度比對方慢時，額外造成30%傷害。
@@ -40650,7 +40608,7 @@ Deals 50% more damage to targets that switched in this turn. Takes 50% less dama
 對本回合換出的精靈造成額外傷害，如果自身在本回合換出，減小50%受到的傷害。
 Doubles the damage and recoil of recoil moves.
 使用反傷類技能時，傷害和反傷都會翻倍。
-Boosts Speed by 50%, but the Pokémon is hurt for 1/10th HP each turn.
+Boosts Speed by 50%, but this Pokémon is hurt for 1/10th HP each turn.
 增加50%速度，但每回合受到1/10HP傷害。
 Protected against critical hits. Heals 1/12th HP every turn if hit by an attack.
 不會被命中要害。被攻擊後每回合回覆1/12HP。
@@ -40668,15 +40626,9 @@ Boosts Attack by 30% in moonglow.
 在月輝下增加30%的攻擊。
 At end of turn, heals 1/12th HP if holding a clothing item.
 在回合結束時，若攜帶衣物類物品，則回覆1/12的HP。
-Transforms into Midnight Form at the Full Moon. Ability becomes No Guard.
-在滿月時會化身黑夜形態。特性變為無防守。
-The Pokémon's Speed is doubled while using Sound-based moves.
+This Pokémon's Speed is doubled while using Sound-based moves.
 使用聲音類技能時，該精靈的速度翻倍。
-Negates enemy status moves that target the Pokémon or create hazards around it.
-可以使對手的以自身為目標或在其周圍佈置阱陷的變化技能無效。
-Traps foes whose Sp. Atk is less than its.
-困住特攻低於自身的對手。
-If an attack lowers the Pokémon's HP to half or less, the attacker becomes cursed.
+If an attack lowers this Pokémon's HP below half, the attacker becomes cursed.
 被攻擊到HP低於一半時，使攻擊者陷入詛咒狀態。
 When attacking during moonglow, uses the target's Attack and Sp. Atk instead of its own.
 在月輝下攻擊時，使用目標的物攻或者特攻進行傷害計算。
@@ -40692,25 +40644,24 @@ The Pokémon can't be Taunted, Encored, Tormented, Heal Blocked, Disabled, Barre
 不會受到任何心靈類效果的影響。
 Disables the opponent's most recently-used move for two turns upon hitting it.
 擊中對手後，使其最後使用的技能失效兩回合。
-Boosts the Pokémon's Speed by 50% in sandstorm or hail.
+Boosts this Pokémon's Speed by 50% in sandstorm or hail.
 在沙暴或冰雹中，精靈的速度增加50%。
 Boosts Attack by 50% if it used a special move last turn, or boosts Sp. Atk if physical.
 在上回合使用特殊技能後增加攻擊，使用物理技能後增加特攻。
 Using a status move in moonglow extends the weather by a turn.
 在月輝下使用變化技能會延長1回合天氣。
-Powers up the Pokémon's Dark-type moves by 50% in sunshine.
+Powers up this Pokémon's Dark-type moves by 50% in sunshine.
 在陽光下，精靈的惡系技能威力增加50%。
-Slips past hazards. Takes 50% less damage if it switched in this turn.
-免疫陷阱類效果的影響。替換出場的回合受到的傷害減小50%。
-If an attack lowers its HP to half or less, waterlogs the attacker.
+Slips past hazards. Takes one third less damage if it switched in this turn.
+免疫陷阱類效果的影響。替換出場的回合受到的傷害減小1/3。
 被攻擊到HP低於一半時，使攻擊者陷入浸水狀態。
 When hit by another Pokémon, destroys one of their items.
 被其他精靈擊中時，會摧毀對方的一個物品。
 Heals 1/8th of its max HP each turn if in moonglow.
 在月輝下每回合回覆1/8的HP。
-The Pokémon and its allies take 25% less move damage during moonglow.
+This Pokémon and its allies take 25% less move damage during moonglow.
 在月輝下，該精靈及其隊友受到的技能傷害減小25%。
-Summons moonglow for four turns when it enters battle.
+Summons moonglow for four turns upon entry.
 進入戰鬥後，召喚持續4回合的月輝。
 When hit in moonglow, steals the attacker's item, or knocks it away.
 當在月輝下被攻擊時，能夠偷走對手的物品或將其拍落。
@@ -40718,11 +40669,11 @@ Hits opponent with Thief when withdrawn from battle.
 在戰鬥中被收回時，會用小偷攻擊對手。
 Immune to the type of the memory disc it holds.
 對存儲盤相同的屬性免疫。
-It changes type to that of the move it's about to use. This works only once each time the Pokémon enters battle.
+It changes type to that of the move it's about to use. This works only once each time this Pokémon enters battle.
 每次戰鬥生效一次，根據即將使用的技能改變自身的屬性。
 Boosts the power of punching moves by 30%, and makes them special when that would be more effective.
 拳類技能威力增加30%，並在更有效的情況下，轉化為特殊攻擊。
-Attackers lose 1/10th of their HP. If the Pokémon is below half health, attackers lose 1/5th instead.
+Attackers lose 1/10th of their HP. If this Pokémon is below half health, attackers lose 1/5th instead.
 攻擊者會減小1/10HP。若自身HP低於一半，攻擊者將減小1/5HP。
 Special moves have a 30% chance to numb targets.
 特殊類技能有30%的概率麻痺對手。
@@ -40734,9 +40685,9 @@ Doubles Speed in moonglow.
 在月輝下速度加倍。
 Boosts Speed by 50% in moonglow. Can't miss during moonglow.
 在月輝下增加50%的速度，且攻擊必中。
-In moonglow, Attack is boosted by 50%, but the Pokémon is hurt for 1/10th HP each turn.
+In moonglow, Attack is boosted by 50%, but this Pokémon is hurt for 1/10th HP each turn.
 在月輝下，攻擊力增加50%，但每回合受到1/10HP的傷害。
-During moonglow, Speed is boosted by 50% and twice as likely to crit.
+During moonglow, this Pokémon is twice as likely to crit and its Speed is boosted by 50%.
 在月輝下，速度增加50%，擊中要害概率增加兩倍。
 Deals no damage to a target while they are using a status move.
 在對方使用變化類技能時，無法對其造成傷害。
@@ -40752,9 +40703,7 @@ Upon entry, creates an Odd Room for four turns, swapping offensive and defensive
 出場時，創建一個持續4回合的奇異空間，交換物攻和物防，特攻和特防。。
 On the first turn, its attacks cause the target to flinch.
 出場的第1回合的攻擊會使對手畏縮。
-Sets a Tailwind for four turns upon entering the battle, increasing Speed.
-進入戰鬥後創造持續4回合的順風。
-Prevents stat steps from being lowered (except when self-inflicted). The Pokémon's weight is doubled.
+Prevents stat steps from being lowered (except when self-inflicted). This Pokémon's weight is doubled.
 能力等級不會被其他精靈減小，並且使體重翻倍。
 After knocking out any Pokémon, raises its Attack and Speed.
 擊倒精靈後增加攻擊和速度。
@@ -40770,35 +40719,35 @@ Heals the Pokémon's non-volatile status conditions each turn if in sunshine.
 晴天時，每回合回覆穩定性異常。
 The Pokémon refuses to fight. However, it gathers extra candy when trainers flee.
 該精靈拒絕戰鬥。然而，當對手的訓練家逃跑時，它會收集額外的糖果。
-The Pokémon receives 33% less move damage if there is an active Room.
+This Pokémon receives 33% less move damage if there is an active Room.
 如果存在任一個激活的空間類效果，精靈受到的技能傷害減小33%。
 Powers up Rock-type moves by 50%.
 岩石屬性技能的威力增加50%。
-Doubles Sp. Def. The Pokémon takes double damage from Psychic-type moves.
+Doubles Sp. Def. This Pokémon takes double damage from Psychic-type moves.
 特防翻倍，但受到的超能技能傷害也翻倍。
 Immune to Flying-type moves and deals 50% more damage with them.
 免疫飛行屬性技能，並且使用飛行屬性技能時傷害增加50%。
 After fainting from exploding, revives after six turns.
 因自爆而瀕死後，6回合後會甦醒。
-The Pokémon's hits deal half damage unless they are critical.
+This Pokémon's hits deal half damage unless they are critical.
 如果沒有命中要害，自身造成的傷害減半。
 Maximizes the frequency of multi-hit moves. Always deals critical hits.
 連續類技能總是能使出最大次數，且必定擊中要害。
 At the end of each of its turns, Speed is lowered but every other stat is raised.
 每個回合結束時，速度會減小，但其他所有能力都會增加。
-While the Pokémon is below half health, its attacks leech those hit.
+While this Pokémon is below half health, its attacks leech those hit.
 半血時攻擊將會寄生對手。
 Special attacks against the Pokémon have a 30% chance to cause numbing.
 受到特殊攻擊時30%概率麻痺對手。
-Whenever a foe raises their stats, the Pokémon follows suit.
+Whenever a foe raises their stats, this Pokémon follows suit.
 對手增加能力時，自身能力也跟著增加。
-The Pokémon's moves deal 50% more damage if they're a different type than last.
+This Pokémon's moves deal 50% more damage if they're a different type than last.
 攻擊時，如果使用的技能和上回合使用的技能屬性不同，造成的傷害增加50%。
 Takes no damage from non-volatile status conditions.
 不會受到穩定性異常的傷害。
 Sets screens for two more turns.
 使屏障類效果延長2回合。
-Attacks against the Pokémon deal 50% more damage, but the attacker takes 100% recoil.
+Attacks against this Pokémon deal 50% more damage, but the attacker takes 100% recoil.
 傷害增加50%，但會受到100%的反傷。
 During eclipse, immune to non-volatile status conditions and stat reductions.
 日食時，免疫穩定性異常和能力等級減小效果。
@@ -40814,17 +40763,19 @@ Upon switch out, lowers the foe's Attack and Sp. Atk stat by insulting them.
 出場時，通過辱罵對手來減小其攻擊和特攻。
 Its physical attacks go last but force the target to switch out after use.
 使用物理攻擊會後出手，但能讓對手強制替換。
-Has a 30% chance to leech targets when using physical moves.
-使用物理技能時有30%的概率寄生對手。
-Right before the Pokémon is attacked, the attacker's stat changes are reset.
+On the first turn, its physical attacks trap the target and damage it for three turns.
+On the first turn, its physical attacks trap the target and damage it for three turns.
+Deals 30% more move damage to Pokémon slower than it.
+Deals 30% more move damage to Pokémon slower than it.
+Right before this Pokémon is attacked, the attacker's stat changes are reset.
 受到攻擊前，重置對手的攻擊能力變化。
-Deals 25% more damage per stockpile.
+Deals 25% more damage per stockpile stack.
 每蓄力一次，造成的傷害增加25%。
 Special moves against the Pokémon have a 30% chance to leech the attacker.
 自身被特殊技能攻擊時，有30%概率寄生對手。
-Raises the Pokémon's Sp. Atk by 50%, including Style Values and other bonuses.
+Raises this Pokémon's Sp. Atk by 50%, including Style Values and other bonuses.
 特攻增加50%。
-The Pokémon's Dragon-type hits deal additional damage equal to half the Pokémon's level.
+This Pokémon's Dragon-type hits deal additional damage equal to half this Pokémon's level.
 精靈的龍屬性攻擊會造成額外傷害，數值等於精靈等級的一半。
 Upon entry, creates a Puzzle Room for four turns, swapping unmodified Attack and Sp. Atk.
 出場時，創建一個持續4回合的迷惑空間，交換基礎物攻和特攻。
