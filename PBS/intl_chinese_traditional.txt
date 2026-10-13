@@ -7604,10 +7604,10 @@ She requires far more preparation than I.
 她總比我需要更長時間。
 Have you made ready?
 你準備好了嗎？
-If you ever find yourself in the <imp>urban expanse</imp> of Prizca with naught to do, find me.
-如果你在大城市裡無事可做了，來找我。
-I’ll be at the riverside, like as not. I have plans involving you and yours.
-我很可能會在河邊，我可能有一些關於你還有你的精靈的計劃。
+If you ever find yourself in the <imp>urban expanse</imp> of Prizca West with naught to do, find me.
+If you ever find yourself in the <imp>urban expanse</imp> of Prizca West with naught to do, find me.
+I’ll be mourning near <imp>Bogdan Cement</imp>, like as not. I have plans involving you and yours.
+I’ll be mourning near <imp>Bogdan Cement</imp>, like as not. I have plans involving you and yours.
 Why are you here?
 你為什麼在這？
 Can I help?
@@ -41779,6 +41779,8 @@ Ball Mimic
 模仿球
 Barrier Maker
 屏障製造
+Battle-Hardened
+Battle-Hardened
 Beaming
 Beaming
 Bellower
@@ -42285,6 +42287,8 @@ Kickback
 回扣
 Killjoy
 掃興
+Knapping Stones
+Knapping Stones
 Knuckleduster
 關鍵節點
 Larder
@@ -42803,8 +42807,6 @@ Swarm Instinct
 Swarm Instinct
 Swift Stomps
 迅猛踩踏
-Sword Breaker
-Sword Breaker
 Sword-Horn Style
 Sword-Horn Style
 Swordplay
@@ -43048,7 +43050,7 @@ In sunshine, boosts its and allies' Attack and Sp. Def by 50%.
 晴朗天氣時，自己與同伴的攻擊和特防能力會增加。
 Protects Grass-type allies from non-volatile status conditions or stat reductions (except self-inflicted).
 保護草屬性隊友免受穩定性異常或能力等級減小效果的影響（自我造成的除外）。
-Doubles Defense. This Pokémon takes double damage from Fire-type moves.
+Doubles this Pokémon's Defense and takes double damage from Fire-type moves.
 防禦能力翻倍，但受到火屬性技能攻擊時，受到雙倍傷害。
 Castform transforms with the weather.
 屬性會隨著天氣而變化。
@@ -43104,7 +43106,7 @@ Its attacks are critical against poisoned targets.
 攻擊中毒狀態的對手時，必定會擊中要害。
 Bounces back stat-lowering effects.
 反彈受到的能力減小效果。
-Immune to Electric-type moves and boosts Speed when hit by one.
+Immune to Electric-type moves and boosts Speed instead.
 受到電屬性的技能攻擊時，不會受到傷害,而是速度會增加。
 Raises Attack after knocking out any Pokémon.
 如果打倒對手，就會充滿自信，攻擊會增加。
@@ -43162,7 +43164,7 @@ Doubles this Pokémon's Speed in a sandstorm.
 沙暴天氣時，速度翻倍。
 Summons a sandstorm for four turns upon entry.
 出場時，會把天氣變為沙暴。
-Immune to Grass-type moves and raises Attack and Sp. Atk when hit by one.
+Immune to Grass-type moves and raises Attack and Sp. Atk instead.
 免疫草屬性技能，被草屬性技能擊中時增加物攻和特攻1級。
 Forms a powerful school while it has a lot of HP.
 HP多的時候會聚起來變強。
@@ -43240,11 +43242,11 @@ Doubles the Accuracy, critical hit rate, and chance to activate random added eff
 將自身及隊友的命中率、命中要害率和觸發隨機附加效果的概率翻倍。
 Prevents this Pokémon from falling asleep.
 因為是不會睡覺的體質，所以不會變為睡眠狀態。
-Immune to Electric-type moves and restores 25% of max HP when hit by one.
+Immune to Electric-type moves and restores 25% of max HP instead.
 免疫電屬性技能，被電屬性技能攻擊時，恢復1/4的HP。
 When this Pokémon is hit by an attack, this Pokémon and the attacker switch abilities.
 被攻擊時，和攻擊者交換特性。
-Immune to Water-type moves and restores 25% of max HP when hit by one.
+Immune to Water-type moves and restores 25% of max HP instead.
 免疫水屬性技能，被水屬性技能攻擊時，恢復1/4的HP。
 Takes half from incoming Fire-type moves and doubles this Pokémon's Water-type move damage.
 Takes half from incoming Fire-type moves and doubles this Pokémon's Water-type move damage.
@@ -43266,7 +43268,7 @@ Powers up moves of the same type by 33%.
 與自身同屬性的技能威力增加33%。
 Raises Speed by four steps when its HP is lowered below half.
 HP降到一半以下時極大幅度增加速度。
-Immune to Flying-type moves and raises Speed if hit by one.
+Immune to Flying-type moves and raises Speed instead.
 不會受到飛行屬性技能的傷害，而是會增加攻擊。
 Protects this Pokémon from recoil damage. This Pokémon doesn't trigger items, abilities, or effects of targets it hits.
 免疫反傷傷害，同時不會觸發被擊中目標的物品、特性或技能效果。
@@ -43280,7 +43282,7 @@ Can hold two different items, if both are Gems.
 可同時攜帶兩個寶石類物品。
 Moves that cause the user to become hidden deal additional damage equal to half this Pokémon's level.
 Moves that cause the user to become hidden deal additional damage equal to half this Pokémon's level.
-Doubles Speed in eclipse.
+Doubles this Pokémon's Speed in eclipse.
 日食天氣時，速度翻倍。
 This Pokémon moves after all other Pokémon do.
 This Pokémon moves after all other Pokémon do.
@@ -43302,7 +43304,7 @@ Deals double damage against Pokémon that have raised defenses or that are prote
 對於增加了防禦或受到屏障保護的精靈造成雙倍傷害。
 Uses Aromatherapy if an attack lowers its HP below half.
 當HP因為被攻擊而降到一半或更低時，立即使用芳香治療。
-Doubles Sp. Def, but this Pokémon can't use status moves.
+Doubles this Pokémon's Sp. Def, but can't use status moves.
 特防翻倍，但無法使用變化類技能。
 During eclipse, it restores its HP by half the damage it deals with attacks.
 日食時，回覆自身攻擊造成傷害的一半的HP。
@@ -43330,6 +43332,8 @@ Your Poké Balls are 50% more effective.
 所有精靈球的捕捉率增加50%。
 Sets a Reflect for four turns upon entry.
 當HP低於一半時，雙防增加3級。
+Raises Defense and Sp. Def by three steps when its HP is lowered below half. This only works once per switch-in.
+Raises Defense and Sp. Def by three steps when its HP is lowered below half. This only works once per switch-in.
 Boosts power of light-based moves by 30%.
 Boosts power of light-based moves by 30%.
 After using a sound move, all foes are Tormented.
@@ -43396,7 +43400,7 @@ Heals by 1/5th HP whenever any Pokémon uses a dance move. Can overheal.
 Heals by 1/5th HP whenever any Pokémon uses a dance move. Can overheal.
 This Pokémon's Speed is doubled while using light-based moves.
 This Pokémon's Speed is doubled while using light-based moves.
-Immune to Fighting-type moves and raises Attack and Sp. Atk if hit by one.
+Immune to Fighting-type moves and raises Attack and Sp. Atk instead.
 免疫格鬥屬性技能，被格鬥屬性技能擊中時物攻和特攻增加1級。
 Boosts Defense by 20%. When this Pokémon takes its second physical hit from the same attacker, they become frostbitten.
 Boosts Defense by 20%. When this Pokémon takes its second physical hit from the same attacker, they become frostbitten.
@@ -43422,10 +43426,10 @@ Its attacks are critical against frostbitten targets.
 攻擊陷入凍傷的對手時必定會擊中要害。
 Boosts Sp. Atk by 75%, but this Pokémon becomes frostbitten after attacking.
 特攻增加75%，但攻擊後會使自己凍傷。
-Immune to Fire- and Electric-type moves and raises Attack and Sp. Atk by two steps if hit by one.
-Immune to Fire- and Electric-type moves and raises Attack and Sp. Atk by two steps if hit by one.
-Immune to Ice-type moves and raises Attack and Sp. Atk if hit by one.
-Immune to Ice-type moves and raises Attack and Sp. Atk if hit by one.
+Immune to Fire- and Electric-type moves and raises Attack and Sp. Atk by two steps instead.
+Immune to Fire- and Electric-type moves and raises Attack and Sp. Atk by two steps instead.
+Immune to Ice-type moves and raises Attack and Sp. Atk instead.
+Immune to Ice-type moves and raises Attack and Sp. Atk instead.
 When hit with an attack, gains that attack's type.
 When hit with an attack, gains that attack's type.
 When hit with a physical move, traps and binds the attacker for three turns. Fails on turns the user switched in.
@@ -43460,7 +43464,7 @@ After knocking out any Pokémon, summons hail for four turns.
 After knocking out any Pokémon, summons hail for four turns.
 Immune to non-volatile status conditions due to its hard shell. Boosts Sp. Atk and Speed by 30% in sandstorm.
 免疫穩定性異常，在沙暴中，特攻和速度增加30%。
-Immune to Bug-type moves and raises Speed if hit by one.
+Immune to Bug-type moves and raises Speed instead.
 對蟲屬性技能免疫，被蟲屬性技能攻擊時，速度增加1級。
 Prevents Bug- or Poison-type moves during moonglow.
 在月輝天氣中，免疫蟲、毒屬性技能。
@@ -43602,8 +43606,8 @@ Heals 1/8th HP in sunshine, 1/4th when hit by Fire-type moves. Loses 1/8th in ra
 Heals 1/8th HP in sunshine, 1/4th when hit by Fire-type moves. Loses 1/8th in rainstorm, Water-type moves do 25% more.
 At the end of every turn, each Pokémon takes 1/8th HP damage. This is treated as Fire-type.
 At the end of every turn, each Pokémon takes 1/8th HP damage. This is treated as Fire-type.
-Immune to Fire-type moves and raises Attack and Sp. Atk if hit by one.
-Immune to Fire-type moves and raises Attack and Sp. Atk if hit by one.
+Immune to Fire-type moves and raises Attack and Sp. Atk instead.
+Immune to Fire-type moves and raises Attack and Sp. Atk instead.
 Powers up priority moves by 30%.
 Powers up priority moves by 30%.
 Upon entry, summons Natural Protection for eight turns.
@@ -43614,20 +43618,20 @@ Attacks this Pokémon uses that don't share a type with it are boosted by 30%.
 Attacks this Pokémon uses that don't share a type with it are boosted by 30%.
 Grows at the end of each turn, slowing down but improving other stats.
 Grows at the end of each turn, slowing down but improving other stats.
-Doubles Attack, but this Pokémon becomes dizzy after attacking.
-Doubles Attack, but this Pokémon becomes dizzy after attacking.
+Doubles this Pokémon's Attack, but becomes dizzy after attacking.
+Doubles this Pokémon's Attack, but becomes dizzy after attacking.
 Upon entry, summons a Cruel Cocoon on this Pokémon's side for six turns.
 Upon entry, summons a Cruel Cocoon on this Pokémon's side for six turns.
 Hits opponent with Gust when switched out.
 Hits opponent with Gust when switched out.
-Immune to Bug-type moves and raises Attack and Sp. Atk when hit by one.
-Immune to Bug-type moves and raises Attack and Sp. Atk when hit by one.
+Immune to Bug-type moves and raises Attack and Sp. Atk instead.
+Immune to Bug-type moves and raises Attack and Sp. Atk instead.
 Upon entry, summons a Misdirecting Fog on this Pokémon's side for six turns.
 Upon entry, summons a Misdirecting Fog on this Pokémon's side for six turns.
 Raises Speed by two steps after knocking out any Pokémon.
 Raises Speed by two steps after knocking out any Pokémon.
-Immune to Psychic-type moves and raises Attack and Sp. Atk if hit by one.
-Immune to Psychic-type moves and raises Attack and Sp. Atk if hit by one.
+Immune to Psychic-type moves and raises Attack and Sp. Atk instead.
+Immune to Psychic-type moves and raises Attack and Sp. Atk instead.
 Doubles this Pokémon's Speed in Rooms.
 Doubles this Pokémon's Speed in Rooms.
 Foretelling moves also hit for half power on the turn they are used.
@@ -43670,8 +43674,8 @@ Turns the held item of a Pokémon it hits into scattered gold coins for you to t
 Turns the held item of a Pokémon it hits into scattered gold coins for you to take.
 Foes that become frostbitten are severely so. This Pokémon's Flying-type moves have a 30% chance to severely frostbite.
 Foes that become frostbitten are severely so. This Pokémon's Flying-type moves have a 30% chance to severely frostbite.
-Immune to Fire-type moves and raises Defense and Sp. Def if hit by one.
-Immune to Fire-type moves and raises Defense and Sp. Def if hit by one.
+Immune to Fire-type moves and raises Defense and Sp. Def instead.
+Immune to Fire-type moves and raises Defense and Sp. Def instead.
 Random added effects of bite attacks are +50% more likely to occur.
 Random added effects of bite attacks are +50% more likely to occur.
 Draining moves deal 30% more damage. Can overheal when draining.
@@ -43716,12 +43720,12 @@ When this Pokémon gains a non-volatile status condition, its Speed is raised by
 When this Pokémon gains a non-volatile status condition, its Speed is raised by three steps.
 This Pokémon is also Ghost-type.
 This Pokémon is also Ghost-type.
-Doubles Sp. Atk, but this Pokémon becomes dizzy after attacking.
-Doubles Sp. Atk, but this Pokémon becomes dizzy after attacking.
-Immune to Fairy-type moves and restores 25% of max HP if hit by one. This can overheal.
-Immune to Fairy-type moves and restores 25% of max HP if hit by one. This can overheal.
-Immune to Dark-type moves and boosts Attack and Sp. Atk when hit by one.
-Immune to Dark-type moves and boosts Attack and Sp. Atk when hit by one.
+Doubles this Pokémon's Sp. Atk, but becomes dizzy after attacking.
+Doubles this Pokémon's Sp. Atk, but becomes dizzy after attacking.
+Immune to Fairy-type moves and restores 25% of max HP instead. This can overheal.
+Immune to Fairy-type moves and restores 25% of max HP instead. This can overheal.
+Immune to Dark-type moves and boosts Attack and Sp. Atk instead.
+Immune to Dark-type moves and boosts Attack and Sp. Atk instead.
 Changes the weather to Ice Age, which damages and prevents healing. Lingers for three turns after leaving.
 Changes the weather to Ice Age, which damages and prevents healing. Lingers for three turns after leaving.
 Heals by 1/8th of its max HP each turn if in sunshine.
@@ -43756,16 +43760,16 @@ Raises Sp. Atk after knocking out any Pokémon.
 Raises Sp. Atk after knocking out any Pokémon.
 When hit by a move with 95 or more base power, hits back instantly with Nuzzle.
 When hit by a move with 95 or more base power, hits back instantly with Nuzzle.
-Immune to Steel-type moves and restores 25% of max HP if hit by one.
+Immune to Steel-type moves and restores 25% of max HP instead.
 免疫鋼屬性技能，並且受到鋼屬性技能攻擊時會恢復最大HP的25%。
 Punches, Kicks, and Bites combo together to create special effects.
 Punches, Kicks, and Bites combo together to create special effects.
-Doubles Speed. Dashes to avoid hazards upon entry.
-Doubles Speed. Dashes to avoid hazards upon entry.
+Doubles this Pokémon's Speed. Dashes to avoid hazards upon entry.
+Doubles this Pokémon's Speed. Dashes to avoid hazards upon entry.
 It can avoid being knocked out by using its face. The face then melts.
 It can avoid being knocked out by using its face. The face then melts.
-Doubles Sp. Def in hail.
-Doubles Sp. Def in hail.
+Doubles this Pokémon's Sp. Def in hail.
+Doubles this Pokémon's Sp. Def in hail.
 During hail, it restores its HP by half the damage it deals with attacks.
 During hail, it restores its HP by half the damage it deals with attacks.
 Each turn, raises Speed by three steps and loses 1/8th max HP. If Speed was maxed, instead Speed and HP are reset.
@@ -43786,8 +43790,8 @@ Comes out disguised as the Pokémon in the party's last spot. While disguised, c
 Comes out disguised as the Pokémon in the party's last spot. While disguised, copies its ability.
 After being attacked, gains immunity to that move's type but loses other morphed immunities.
 After being attacked, gains immunity to that move's type but loses other morphed immunities.
-Immune to Steel-type moves and raises Speed if hit by one.
-Immune to Steel-type moves and raises Speed if hit by one.
+Immune to Steel-type moves and raises Speed instead.
+Immune to Steel-type moves and raises Speed instead.
 Pokémon take damage from non-volatile status conditions even while switched out.
 Pokémon take damage from non-volatile status conditions even while switched out.
 On the first turn, its attacks jinx the target.
@@ -43836,6 +43840,8 @@ Rather than take recoil damage, it swaps out, and its replacement takes that dam
 Rather than take recoil damage, it swaps out, and its replacement takes that damage.
 Pokémon can't raise their stats. Pokémon that dance take damage equal to 1/4th their HP.
 Pokémon can't raise their stats. Pokémon that dance take damage equal to 1/4th their HP.
+After this Pokémon is hit with a super- or hyper-effective move, the attacker takes 33% of the damage dealt as recoil.
+After this Pokémon is hit with a super- or hyper-effective move, the attacker takes 33% of the damage dealt as recoil.
 Boosts the power of punching moves by 50%.
 Boosts the power of punching moves by 50%.
 At end of turn, regenerates its previously-used berry.
@@ -43954,7 +43960,7 @@ Special moves have a 30% chance to numb targets.
 特殊類技能有30%的概率麻痺對手。
 While this Pokémon is unfainted (in battle or switched out), poisoned foes cannot use the same move twice in a row.
 While this Pokémon is unfainted (in battle or switched out), poisoned foes cannot use the same move twice in a row.
-Doubles Speed in moonglow.
+Doubles this Pokémon's Speed in moonglow.
 在月輝下速度加倍。
 Boosts Speed by 50% in moonglow. Can't miss during moonglow.
 在月輝下增加50%的速度，且攻擊必中。
@@ -44000,7 +44006,7 @@ This Pokémon receives 33% less move damage if there is an active Room.
 如果存在任一個激活的空間類效果，精靈受到的技能傷害減小33%。
 Powers up Rock-type moves by 50%.
 岩石屬性技能的威力增加50%。
-Doubles Sp. Def. This Pokémon takes double damage from Psychic-type moves.
+Doubles this Pokémon's Sp. Def, but takes double damage from Psychic-type moves.
 特防翻倍，但受到的超能技能傷害也翻倍。
 Immune to Flying-type moves and deals 50% more damage with them.
 免疫飛行屬性技能，並且使用飛行屬性技能時傷害增加50%。
@@ -44042,7 +44048,7 @@ During eclipse, immune to non-volatile status conditions and stat reductions.
 日食時，免疫穩定性異常和能力等級減小效果。
 At the first chance, copies the legal Abilities of the Pokémon it is facing.
 At the first chance, copies the legal Abilities of the Pokémon it is facing.
-Immune to Poison-type moves and restores 25% of max HP if hit by one.
+Immune to Poison-type moves and restores 25% of max HP instead.
 免疫毒屬性技能，被毒屬性技能攻擊時，恢復1/4的HP。
 Boosts Sp. Def by 20%. When this Pokémon takes its second special hit from the same attacker, they become poisoned.
 Boosts Sp. Def by 20%. When this Pokémon takes its second special hit from the same attacker, they become poisoned.
@@ -44160,7 +44166,7 @@ Doubles critical hit chance for each Speed step up. All moves can random critica
 每有1級增加的速度能力等級，命中要害率翻倍。所有技能都有機率隨機命中要害。
 This Pokémon is also Steel-type, but it takes 15% more damage from moves.
 同時被視為鋼屬性，但受到的技能傷害增加15%。
-Doubles Defense in rainstorm.
+Doubles this Pokémon's Defense in rainstorm.
 在雨天時，物防翻倍。
 Summons a sandstorm for four turns when hit by an attack.
 受到攻擊後召喚持續4回合的沙暴。
@@ -44212,8 +44218,8 @@ Doubles the critical hit chance of random crit moves. This Pokémon's Speed is d
 將隨機命中要害技能的命中要害率翻倍。使用這些技能時，精靈的速度翻倍。
 Its physical attacks reduce the target's Defense.
 物理傷害會減小對手的防禦。
-Immune to Steel-type moves and boosts Defense and Sp. Def when hit by one.
-Immune to Steel-type moves and boosts Defense and Sp. Def when hit by one.
+Immune to Steel-type moves and boosts Defense and Sp. Def instead.
+Immune to Steel-type moves and boosts Defense and Sp. Def instead.
 Punching moves change this Pokémon's secondary type and their power is boosted by 30%.
 拳類技能會改變精靈的附加屬性，並且威力增加30%。
 When this Pokémon charges and becomes hidden, it lowers the Attack and Sp. Atk of all foes.
@@ -44222,9 +44228,9 @@ Special moves against it lower the attacker's Speed and Sp. Atk.
 被特殊技能攻擊時，減小對方的速度和特攻。
 This Pokémon and other battlers don't benefit from same-type attacking bonus.
 全體失去本屬性技能加成。
-Boosts Speed by 50% in rainstorm. Doubles random added effect chance in rainstorm.
+Boosts this Pokémon's Speed by 50% in rainstorm. Doubles random added effect chance in rainstorm.
 在暴雨天氣中，速度增加50%，技能的附加效果的觸發概率翻倍。
-Doubles critical hit chance. Restores HP for half the damage it does with critical hits.
+Doubles this Pokémon's critical hit chance. Restores HP for half the damage it does with critical hits.
 將命中要害率翻倍。用命中要害造成的傷害的一半恢復HP。
 Takes 30% less damage from all tagged moves.
 Takes 30% less damage from all tagged moves.
@@ -44260,7 +44266,7 @@ This Pokémon takes 30% less move damage in hail.
 在冰雹中，精靈受到的技能傷害減小30%。
 Boosts this Pokémon's Sp. Atk and Sp. Def by 30% in sunshine.
 在陽光下，精靈的特攻和特防增加30%。
-Doubles Defense in moonglow.
+Doubles this Pokémon's Defense in moonglow.
 在月輝下防禦翻倍。
 Boosts Defense by 20%. When this Pokémon takes its second physical hit from the same attacker, they become waterlogged.
 Boosts Defense by 20%. When this Pokémon takes its second physical hit from the same attacker, they become waterlogged.
@@ -44314,8 +44320,8 @@ At the end of each turn, if it has no item, gets a random gem that matches the t
 At the end of each turn, if it has no item, gets a random gem that matches the type of one of its attacking moves.
 Makes foes stressed and unable to use their items.
 使對手的物品失效。
-Doubles Defense, but this Pokémon can't use status moves.
-Doubles Defense, but this Pokémon can't use status moves.
+Doubles this Pokémon's Defense, but can't use status moves.
+Doubles this Pokémon's Defense, but can't use status moves.
 In rainstorm, each of its hits is followed by an extra hit at 25% power.
 在雨天時，會以25%的威力進行一次額外的攻擊。
 Prevents its stats from being lowered by more than one step at a time.
@@ -44342,8 +44348,8 @@ Boosts this Pokémon's Speed by 50% and reduces recoil taken by 50% in sunshine.
 Boosts this Pokémon's Speed by 50% and reduces recoil taken by 50% in sunshine.
 Summons eclipse for four turns when hit by an attack.
 受到攻擊後，召喚持續4回合的日食。
-Doubles the speed of allied Pokémon.
-Doubles the speed of allied Pokémon.
+Doubles the Speed of allied Pokémon.
+Doubles the Speed of allied Pokémon.
 Powers up Water-type moves by 50%.
 水屬性技能的威力增加50%。
 It avoids hazards and can't be knocked out with one hit.
@@ -44352,14 +44358,12 @@ When an ally switches in, this Pokémon's Speed is increased.
 When an ally switches in, this Pokémon's Speed is increased.
 This Pokémon's Speed is doubled while using kicking moves.
 使用踢類技能時，該精靈的速度翻倍。
-If an attack lowers this Pokémon's HP below half, the attacker becomes fractured.
-If an attack lowers this Pokémon's HP below half, the attacker becomes fractured.
 After attacking the same foe twice, they become numbed, and a Sanctuary is set on this Pokémon's side for three turns.
 After attacking the same foe twice, they become numbed, and a Sanctuary is set on this Pokémon's side for three turns.
 Boosts the power of slice moves by 30%.
 使用切割類技能時威力增加30%。
-Immune to Steel-type moves and boosts Attack and Sp. Atk when hit by one.
-Immune to Steel-type moves and boosts Attack and Sp. Atk when hit by one.
+Immune to Steel-type moves and boosts Attack and Sp. Atk instead.
+Immune to Steel-type moves and boosts Attack and Sp. Atk instead.
 During hail, boosts Speed and Grass-type damage by 50%.
 冰雹天氣時，速度和草屬性傷害增加50%。
 When hit, the attacker's Speed is reduced, and this Pokémon's next attack against them is boosted by 30%.
@@ -44442,7 +44446,7 @@ Deals 30% more damage to targets that have an item. After attacking a foe, destr
 對攜帶物品的對手造成更高傷害，如果對手攜帶了衣服類物品，則將其破壞。
 After an attack reduces its HP below half, deals 1/4th of the attacker's HP back to the attacker.
 被對手攻擊令自身HP降到一半以下時，使對方減小1/4的HP。
-Immune to Poison-type moves and raises Attack and Sp. Atk if hit by one.
+Immune to Poison-type moves and raises Attack and Sp. Atk instead.
 免疫毒屬性技能，被毒屬性技能擊中時物攻和特攻增加1級。
 Whenever a foe's poison worsens, this Pokémon heals for 25% max HP.
 當對手中毒每次惡化時，自身恢復25%HP。
@@ -64546,6 +64550,8 @@ The Eroding Foam is melting {1}'s Defense!
 The Eroding Foam is melting {1}'s Defense!
 But it failed, since {1} is already covered in foam!
 But it failed, since {1} is already covered in foam!
+A targeting reticle shows which of your battlers the Avatar wants to attack. It will switch to another battler, however, if their attack is made impossible.
+A targeting reticle shows which of your battlers the Avatar wants to attack. It will switch to another battler, however, if their attack is made impossible.
 [27]
 0
 Animated
@@ -66835,6 +66841,8 @@ Sword Horn First Hit
 Sword Horn First Hit
 Fleeting Footwork
 Fleeting Footwork
+Battle-Hardened
+Battle-Hardened
 Amulet Coin
 護身符硬幣
 Fairy Lock
