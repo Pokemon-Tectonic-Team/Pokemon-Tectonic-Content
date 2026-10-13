@@ -2865,7 +2865,7 @@ If you manage to beat one of them in battle, I'll bring my team out of retiremen
 如果你打敗其中任意一人，我就會召回我的隊伍，與你一決勝負。
 I've heard the news. A Trainer beating any of the Former Champions makes waves in our circles.
 我聽說了，打敗任何一位前冠軍在我們的圈子裡都會引起轟動。
-I've got a promise to keep \PN. Got my team back from a cushy retirement -- no small task!
+I've got a promise to keep, \PN. Got my team back from a cushy retirement -- no small task!
 我答應過\PN你。不過讓我的隊伍從舒適愜意的退休生活中回覆戰鬥狀態...這可不是件容易的事啊！
 Wouldn't want to keep them waiting for too long. Fancy to give us one last skirmish?
 我不想讓它們等太久，願意與我們一決勝負嗎？
@@ -2907,7 +2907,7 @@ The Tournament has been growing in size and prestige every year.
 戰鬥節慶典的規模和聲勢每年都在增加。
 Makyans have been battling here ever since Trainers became a thing.
 自從訓練師這種職業出現，馬凱亞人就一直在這裡戰鬥。
-However, it got seriously large and respected once LuxTech started pumped in a bunch of sponsor money.
+However, it got seriously large and respected once LuxTech started pumping in a bunch of sponsor money.
 當然那時候還沒有慶典這一說，聲勢和規模，自然是光華科技參與之後，逐年打上去的。
 Wow, a wallhacker! #content
 哇哦，穿牆哥！ #content
@@ -3064,7 +3064,7 @@ Now go pick out your first starter. I ain't got all day.
 現在快去挑你的第一隻精靈吧，我還有其他事情要忙。
 OK, next is the Normal-types.
 然後是那隻一般屬性的...
-You may want to look these up in your MasterDex, using the <imp>search feature</imp>.
+You may want to look them up in your MasterDex, using the <imp>search feature</imp>.
 不確定的話可以先看一下它們在圖鑑中的<imp>數據和介紹</imp>。
 Skwovet, Zigzagoon, or Patrat?
 貪心栗鼠、蛇紋熊和探探鼠，你打算選哪個？
@@ -3287,13 +3287,13 @@ Really? Teeheehee, get lost, loser.
 啊？不會吧不會吧？那就請你快快滾蛋吧，菜雞。
 Hey! You stepped on our sandcastle!
 你幹什麼！我們的沙堡！
-Let's rough 'em up sis!
+Let's rough 'em up, sis!
 妹妹，跟我一塊兒揍他！
 I'm gonna go tell on you!
 我要告訴你媽媽！
 Our older brother will beat you up!
 我們會讓大哥來揍你的！
-They beat us sis...
+They beat us, sis...
 妹妹，我們輸了....
 Waaaaaah!
 哇啊啊啊！
@@ -8868,7 +8868,7 @@ Spend enough time here and it begins to feel like a forum.
 [Map136]
 West: Bluepoint Beach
 西：藍瑩海灘
-Northeast: Scenic Path
+Northeast: Scenic Trail
 東北：景緻小徑
 A third label has been poorly masked with white paint.
 第三行被人用白色油漆塗掉了。
@@ -14216,7 +14216,7 @@ Good battling! You should fight my brother, too. He's all the way at the end of 
 打得不錯，或許你有興趣跟我哥也來一場，他就在這條河的盡頭。
 Heya, Trainer!
 嗨，訓練師
-I heard that a Champion was going to be here, but I coulnd't find them.
+I heard that a Champion was going to be here, but I couldn't find them.
 我聽說有個冠軍要來這裡，但我找不到人。
 I even brought a Krabby to throw at them and everything! I stole it from a Ranger when he wasn't looking.
 我甚至還趁護林員不注意，偷了只大鉗蟹想扔向他！
@@ -14735,9 +14735,9 @@ We can travel to and from any of our usual locations.
 這樣我們就可以快速往返於一些地點了。
 Where will we be heading?
 我們要去哪兒？
-Have you slid down the conveyer belts?
+Have you slid down the conveyor belts?
 你從傳送帶上滑下來過嗎？
-Preeeety sure we're not allowed to, but its crazy fun.
+Preeeetty sure we're not allowed to, but it's crazy fun.
 當然這樣做很危險，但也很好玩。
 Maybe not as fun as beating the 7th gym will be with my snazzy new Pokemon!
 或許沒有用我新酷炫的精靈打敗第七個道館那麼有趣！
@@ -15634,7 +15634,7 @@ There are so many Pokemon here, far too many for me to consider.
 這裡的精靈種類太多了。
 I've been told that I should be getting a Water-type to help navigate the Eleig.
 現在我需要一隻水屬性的精靈，來幫我渡過埃利格河。
-Would you happen to have one perchance?
+Would you happen to have one, perchance?
 你有合適的嗎？
 I could trade you a Kecleon for it.
 我可以用變隱龍跟你交換（可在箱子裡選擇精靈）。
@@ -15652,7 +15652,7 @@ They are taking quite some time with the paperwork, no?
 他們處理文件的速度也太慢了。
 Check out my new uniform! I think I fit it pretty well.
 快看我的新制服！我覺得我穿著很好看。
-I should take a photo! My folks back home woud love to see this.
+I should take a photo! My folks back home would love to see this.
 我應該拍張照片！我的家人肯定也會喜歡這個。
 Avatars can hold some pretty nice items.
 聽說化身會收集一些財寶。
@@ -16717,7 +16717,7 @@ With that being said, it's nice to craft the aesthetic you wish for. Even if it'
 雖然這麼說，但能有個獨特的外觀，也是蠻不錯的...雖然很難。
 Oh, goodness...
 我的天吶...
-You've got a truly amazing apricorn in your posession.
+You've got a truly amazing apricorn in your possession.
 你這個果子也太特別了！
 It's been my life's dream to work with such a fine specimen.
 如果能用它來...那簡直是我畢生的夢想！
@@ -33475,15 +33475,15 @@ The user holds back when it attacks, and the target is left with at least 1 HP.
 在攻擊的時候手下留情，從而使對手的HP至少會留下1HP。
 The foe is attacked with a powerful beam. The user must rest on the next turn to regain its energy.
 向對手發射強烈的光線進行攻擊。下1回合自己將無法行動。
-The user bites hard on the target with its sharp front fangs. It has a 40% to make the target flinch.
-用銳利的門牙牢牢地咬住對手進行攻擊。40%概率使對手畏縮。
+The user bites hard on the target with its sharp fangs. It has a 50% chance to flinch the target.
+用銳利的門牙牢牢地咬住對手進行攻擊。50%概率使對手畏縮。
 The user lets loose a horribly echoing shout with the power to inflict damage.
 給予對手又吵又響的巨大震動進行攻擊。
 The user releases countless shots of light. Its type varies with the kind of Plate the user is holding.
 向對手放出無數的光彈。屬性會根據自己攜帶的石板不同而改變。
 This move can be used only after the user has used all the other moves it knows in the battle.
 當戰鬥中已學會的技能全部使用過後，才能開始使出珍藏的技能。
-The user leers at nearby foes with sharp eyes. Their Defense stat is reduced by two steps.
+The user leers at nearby foes with sharp eyes. Their Defense is lowered by two steps.
 用犀利的眼神使其害怕，從而減小對方的物防2級。
 The user chants an incantation, preventing the foe from landing critical hits for 10 turns.
 向天許願，從而在10回合內不會被對手的攻擊打中要害。
@@ -33537,7 +33537,7 @@ The user's earsplitting screech reduces the target's Defense stat by four steps.
 發出不由自主想要捂起耳朵的刺耳聲，從而低對手的防禦4級。
 The user blows up to inflict damage on all Pokémon in battle. The user faints upon using this move.
 引發爆炸，攻擊自己周圍所有的精靈。使用後陷入瀕死。
-The user's edges become sharper, raising its Attack stat by three steps.
+The user's edges become sharper, raising its Attack by three steps.
 增加身體的角，變得稜稜角角，從而增加自己的攻擊3級。
 The user shouts with force at the target. This move always hits first.
 朝對手大聲喊叫，必定能夠先制攻擊。
@@ -33647,9 +33647,7 @@ The target is attacked with a knee kick from a jump. If it misses, the user is h
 跳起後用膝蓋撞對手進行攻擊。如果撞偏則自己會受到傷害。
 The target is attacked with a sharp chop. Can random critical hit.
 用銳利的手刀劈向對手進行攻擊。容易擊中要害。
-A powerful low kick that makes the foe fall over. It inflicts greater damage on heavier foes.
-用力踢對手的腳，使其摔倒進行攻擊。對手越重，威力越大。
-The user attacks the target's legs swiftly, reducing the target's Speed stat by two steps.
+The user attacks the target's legs swiftly, lowering the target's Speed by two steps.
 以敏捷的動作瞄準對手的腳進行攻擊。大幅度減小對手的速度。
 The user throws a punch at blinding speed. It is certain to strike first.
 以迅雷不及掩耳之勢出拳。必定能夠先制攻擊。
@@ -33707,7 +33705,7 @@ A corkscrewing attack with the sharp beak acting as a drill. Can random critical
 一邊旋轉，一邊將尖喙刺入對手進行攻擊，更容易擊中要害。
 The user slams the target with its wings. The target is hit twice in a row.
 將翅膀撞向對手進行攻擊。連續2次給予傷害。
-The user covers the target's body with a mass of down that lowers its Attack stat by five steps.
+The user covers the target's body with a mass of down that lowers its Attack by five steps.
 撒出羽毛，籠罩在對手的周圍。大幅減小對手的攻擊5級。
 The user soars, becoming invulnerable, then strikes on the second turn.
 第1回合飛上天空並免疫傷害，第2回合攻擊對手。
@@ -34133,7 +34131,7 @@ The user attacks by pelting the target with leaves. Can random critical hit.
 將葉片打向對手，進行攻擊。容易擊中要害。
 The user handles a sharp leaf like a sword and attacks by slashing. Can random critical hit.
 像用劍一般操縱葉片切斬對手進行攻擊。容易擊中要害。
-A storm of sharp leaves is whipped up. Lowers the user's Sp. Atk by four steps.
+A storm of sharp leaves is whipped up. This lowers the user's Sp. Atk by four steps.
 用尖尖的葉片向對手卷起風暴。使用之後因為反作用力自己的特攻減小4級。
 A seed is planted on the target, causing it to become leeched.
 植入寄生種子後，讓對手陷入寄生狀態。
@@ -34157,11 +34155,11 @@ Protects the user from attacks. Physical attackers take 1/8th HP damage.
 防住對手攻擊的同時，削減使用物理類技能攻擊自己的對手的1/8HP。
 The user scatters bursts of spores that induce sleep. Only one use per battle.
 沙沙沙地撒滿具有催眠效果的孢子，從而讓對手陷入睡眠。
-Lowers the target's Attack stat, then restores its own HP by the target's Attack.
+Lowers the target's Attack, then heals itself by the target's Attack.
 給自己回覆和對手攻擊力相同數值的HP，然後減小對手的攻擊。
-The user restores half of their max HP, or 66% in sunshine.
+The user heals itself by half of its max HP, or 66% in sunshine.
 使用者回復50%的HP，在晴天時回覆量增加到66%。
-The user lands an intense tropical kick on the target. This also lowers the target's Attack stat by two steps.
+The user lands an intense tropical kick on the target. This also lowers the target's Attack by two steps.
 向對手使出來自南國的火熱腳踢，使對手的攻擊減小2級。
 The target is struck with slender, whiplike vines.
 用如同鞭子般彎曲而細長的藤蔓摔打對手。
@@ -35373,7 +35371,7 @@ The user dazzles the target with celestial visions that lowers its Sp. Atk by fi
 利用天象視覺混亂目標，減小對方特攻5級。
 The user takes control of the target's mind to unleash an attack on it. Can random critical hit.
 使用者控制目標的大腦對其發動攻擊。可能隨機命中要害。
-The user imparts knowledge on its ally Pokémon, raising their Sp. Atk and Sp. Def stats by two steps.
+The user imparts knowledge on its ally Pokémon, raising their Sp. Atk and Sp. Def by two steps.
 向同伴傳遞知識，大幅度增加目標的特攻和特防。
 An aurora borealis flashes brightly at the target, lowering their Attack. Always goes first.
 利用極光的閃爍減小對方的攻擊，必定先一步出手。
@@ -35385,8 +35383,8 @@ The target is put to sleep via a deep freeze. The user must rest on the next tur
 目標被深度凍結而陷入睡眠。使用者在下1回合必須休息以恢復能量。
 The user covers the field with an fog of ice crystals, summoning hail and creating Grey Mist for 5 turns.
 使用者用冰晶霧氣覆蓋整個場地，召喚冰雹並製造持續5回合的灰霧。
-The user summons a wind that drains vitality from all nearby. This has a 30% chance to frostbite them.
-使用者召喚一陣風，從周圍所有精靈那裡吸取活力。這有30%的概率使它們凍傷。
+The user summons a wind that drains vitality from all nearby foes. This has a 20% chance to frostbite them.
+使用者召喚一陣風，從周圍所有精靈那裡吸取活力。這有20%的概率使它們凍傷。
 Attacks with energy from jealousy. All opposing Pokémon with stat boosts get frostbitten.
 用嫉妒的能量攻擊對手。會讓在該回合內能力有所增加的精靈陷入凍傷狀態。
 The user jabs the target with a sharp icicle. It has a 40% chance to lower Defense.
@@ -35398,7 +35396,6 @@ The user lays a hazard layer of frozen spikes on the foe's side. One layer hurts
 Rams the target with frigid force. This has a 10% chance to frostbite.
 向對手砸下一大塊冰，10%概率讓對手陷入凍傷狀態。
 The user attacks the target with a frontal cold wind. It lowers the target's Speed by three steps.
-以凜冽的寒風攻擊對手，可減小對手的速度3級。 the target's Speed by three steps.
 以凜冽的寒風攻擊對手，可減小對手的速度3級。
 The user absorbs the target's heat, frostbiting it and adding the Ice-type to it.
 使用者吸收目標的熱量，使其凍傷並獲得冰屬性。
@@ -35703,6 +35700,7 @@ The user attacks with a prehistoric power which raises all its stats.
 The user attacks with a sparkling gem-like ray, dizzying the target.
 使用閃閃發光的寶石射線攻擊對手，並使其混亂。
 Boulders are hurled at all near enemies, harshly lowering their Speed by preventing their movement. This lowers their Speed by four steps.
+向所有靠近的對手投擲巨石，通過阻止它們的行動來大幅度減小其速度。
 The user raises its Speed by six steps and gains a Rock Gem. User becomes Rock-type.
 The user raises its Speed by six steps and gains a Rock Gem. User becomes Rock-type.
 The user summons sandstorm for six turns. This raises its Defense and Sp. Def. User becomes Rock-type.
@@ -37720,8 +37718,7 @@ A Pokémon held item that doubles the duration of multiturn trapping attacks.
 攜帶後，綁緊以及緊束等會持續造成傷害的技能的回合數會增加。
 A band that doubles the damage dealt each turn by binding moves when held.
 能增強綁緊技能的束帶。攜帶後，綁緊技能的威力會變強。
-A held item. It makes multi-hit attacks consistently hit 4 or 5 times.
-一種攜帶物品。它使多次攻擊技能穩定命中4到5次。
+An item. It makes "two to five" multi-hit attacks consistently hit 4 or 5 times.
 An item. It makes "two to five" multi-hit attacks consistently hit 4 or 5 times.
 A held item. The user gets both of its legal abilities, but its stats are cut by 10%.
 一種攜帶物品。使用者可以同時擁有兩個合法特性，但能力值減小10%。
@@ -40791,11 +40788,11 @@ Ignores screens, Substitute, and Abilities that would affect its moves.
 無視對手的屏障、替身以及會影響到自身技能的特性。
 Moves that can flinch are 50% more likely. Deals 50% more damage to Pokémon with flinch immunity.
 使目標畏縮的技能發動畏縮效果的概率增加50%。對處於畏縮免疫效果的精靈造成的傷害增加50%。
-Boosts the power of blade moves by 30%. They're twice as likely to crit.
+Boosts the power of slice moves by 30%. They're twice as likely to crit.
 切割類技能威力增加30%，命中要害率翻倍。
 Takes half damage from Dragon-, Fairy-, and Ghost-type attacks.
 受到龍屬性、妖精屬性和幽靈屬性攻擊的傷害減半。
-If the Pokémon faints from Perish Song, it is revived in a new form.
+If this Pokémon faints from Perish Song, it is revived in a new form.
 如果被滅亡之歌擊敗，將復活並進入新形態。
 Maximizes Sp. Atk when its HP is lowered below half.
 自身HP低於一半時，特攻增加至最大。
@@ -40815,9 +40812,7 @@ Critical hits lower all of the victim's stats.
 擊中要害時，減小其全能力。
 Immune to Dark-type and Bug-type moves.
 免疫惡屬性和蟲屬性技能。
-Spread moves deal 25% more damage instead of 25% less.
-多目標類技能攻擊多個目標時，技能威力不僅不會減小，反而會增加25%。
-When the Pokémon eats a Berry, it raises its Attack and Sp. Atk by two steps.
+When this Pokémon eats a Berry, it raises its Attack and Sp. Atk by two steps.
 精靈吃下樹果時，增加物攻和特攻2級。
 Heals 1/8th of its max HP each turn during sandstorm.
 沙暴天氣時，每回合回覆1/8的HP。
@@ -40835,7 +40830,9 @@ All Pokémon deal 40% more move damage.
 所有精靈增加40%技能傷害。
 Can't be numbed, waterlogged, trapped, or have its Speed lowered.
 不會被麻痺、浸水和無法逃走，速度也不會減小。
-The Pokémon is also Steel-type, but it takes 15% more damage from moves.
+Doubles critical hit chance for each Speed step up. All moves can random critical hit.
+每有1級增加的速度能力等級，命中要害率翻倍。所有技能都有機率隨機命中要害。
+This Pokémon is also Steel-type, but it takes 15% more damage from moves.
 同時被視為鋼屬性，但受到的技能傷害增加15%。
 Doubles Defense in rainstorm.
 在雨天時，物防翻倍。
@@ -40843,25 +40840,23 @@ Summons a sandstorm for four turns when hit by an attack.
 受到攻擊後召喚持續4回合的沙暴。
 When it attacks from underground in sandstorm, it'll transform into Reaper form.
 在沙暴天氣下從地下攻擊時，會化身收割者形態。
-Boosts the Pokémon's Speed by 50% in sandstorm. Can't miss during sandstorm.
+Boosts this Pokémon's Speed by 50% in sandstorm. Can't miss during sandstorm.
 在沙暴中，精靈的速度增加50%，且攻擊必定會命中。
-During sandstorm, the Pokémon's Speed is boosted by 50% and twice as likely to crit.
+During sandstorm, this Pokémon is twice as likely to crit and its Speed is boosted by 50%.
 在沙暴中，精靈的速度增加50%，且命中要害率翻倍。
-Upon entry, traps each opponent in a sand tomb for two turns.
-進入戰鬥後，將對手困在沙塵中兩回合。
 Special moves have a 30% chance to waterlog targets.
 特殊技能有30%的概率使目標浸水。
-Changes the weather to ring eclipse, which heralds the total ring eclipse. Lingers for 3 turns after leaving.
+Changes the weather to Ring Eclipse, which heralds the total Ring Eclipse. Lingers for three turns after leaving.
 將天氣變為環形日食，並預示著環形日全食的到來。離場後天氣持續3回合。
 Powers up Poison-type moves by 50%.
 毒屬性技能的威力增加50%。
-Boosts all of the Pokémon's move damage by 25% during eclipse.
+Boosts all of this Pokémon's move damage by 25% during eclipse.
 日食天氣中，所有技能增加25%傷害。
 Restores 1/4th health after any foe faints.
 對手被擊敗後恢復1/4HP。
 Upon entry during sandstorm, lowers foe's Attack and Sp. Atk by two steps.
 在沙暴入場時，減小對手的物攻和特攻2級。
-Moves used on the Pokémon are disabled for two turns.
+Moves used against this Pokémon are disabled for two turns.
 對此精靈使用的技能將失效兩回合。
 When targeted by a status move, the offending Pokémon becomes poisoned.
 對手對自身使用變化技能後會陷入中毒狀態。
@@ -40875,11 +40870,11 @@ Boosts Attack by 20% in hail, or 40% if also below half health.
 在冰雹天氣中，物攻增加20%，若同時生命值低於一半則增加40%。
 Its attacks are critical against numbed targets.
 對麻痺的目標發動攻擊時必定會命中要害。
-Doubles the critical hit chance of random crit moves. The Pokémon's Speed is doubled while using them.
+Doubles the critical hit chance of random crit moves. This Pokémon's Speed is doubled while using them.
 將隨機命中要害技能的命中要害率翻倍。使用這些技能時，精靈的速度翻倍。
 Its physical attacks reduce the target's Defense.
 物理傷害會減小對手的防禦。
-Punching moves change the Pokémon's secondary type and their power is boosted by 30%.
+Punching moves change this Pokémon's secondary type and their power is boosted by 30%.
 拳類技能會改變精靈的附加屬性，並且威力增加30%。
 Powers up Fighting-type moves by 50%.
 格鬥屬性技能威力增加50%。
@@ -40887,7 +40882,7 @@ Flying-type attacks have a 40% chance to numb.
 飛行屬性的攻擊有40%概率使對方麻痺。
 Special moves against it lower the attacker's Speed and Sp. Atk.
 被特殊技能攻擊時，減小對方的速度和特攻。
-The Pokémon and other battlers don't benefit from same-type attacking bonus.
+This Pokémon and other battlers don't benefit from same-type attacking bonus.
 全體失去本屬性技能加成。
 Boosts Speed by 50% in rainstorm. Doubles random added effect chance in rainstorm.
 在暴雨天氣中，速度增加50%，技能的附加效果的觸發概率翻倍。
@@ -40909,15 +40904,15 @@ Two-turn retreat moves such as Dig deal double damage.
 像挖洞這樣的兩回合技能造成雙倍傷害。
 Attack is boosted by 50% if a Tailwind is blowing.
 順風時攻擊力增加50%。
-The Pokémon is also Bug-type, but its Speed is halved.
+This Pokémon is also Bug-type, but its Speed is halved.
 同時被視為蟲屬性，但速度減半。
 Falls asleep upon entry, but raises all of its stats by two steps.
 進入戰鬥後會直接睡覺，但全能力大幅度增加。
-Whenever the Pokémon falls asleep, each other battler becomes drowsy.
+Whenever this Pokémon falls asleep, each other battler becomes drowsy.
 此精靈睡著時，其他精靈也會陷入瞌睡。
-The Pokémon takes 30% less move damage in hail.
+This Pokémon takes 30% less move damage in hail.
 在冰雹中，精靈受到的技能傷害減小30%。
-Boosts the Pokémon's Sp. Atk and Sp. Def by 30% in sunshine.
+Boosts this Pokémon's Sp. Atk and Sp. Def by 30% in sunshine.
 在陽光下，精靈的特攻和特防增加30%。
 Doubles Defense in moonglow.
 在月輝下防禦翻倍。
@@ -40927,11 +40922,9 @@ After using a sound move, raises the Pokémon's Defense and Sp. Def. Caps out at
 使用聲音類技能後，精靈的雙防增加1級。上限為+4。
 Attacks hit twice for half damage, drain 25% of damage dealt and become special.
 攻擊分為兩次，吸取25%的傷害，並變成特殊技能。
-Raises defenses after using a Grass-, Ground-, or Steel-type move. Caps out at +4.
-使用草屬性、地面屬性或鋼屬性技能後，防禦增加1級。上限為+4。
-The Pokémon and its allies' moves are twice as likely to be critical.
+This Pokémon and its allies' moves are twice as likely to be critical.
 該精靈和其隊友的技能的命中要害率翻倍。
-Leaves two hazard layers of Spikes after it self-destructs.
+Leaves two hazard layers of Spikes after self-destructing.
 自爆後會留下兩層菱。
 Speed is raised each turn. Speed is reset when hit, but the attacker takes 1/8th HP damage for each step lost.
 每回合增加速度，被攻擊後減小速度，速度每次減小給對手造成1/8HP傷害。
@@ -40941,9 +40934,7 @@ Has a 30% chance to dizzy targets when using physical moves.
 使用物理技能時有30%的概率混亂對手。
 Prevents stat steps from being lowered (except when self-inflicted). Immune to weather downsides.
 防止能力等級減小效果（自身造成的除外）。免疫天氣的負面效果。
-Doubles critical hit chance for each Speed step up. All moves can random critical hit.
-每有1級增加的速度能力等級，命中要害率翻倍。所有技能都有機率隨機命中要害。
-Sets a Light Screen for 4 turns upon entering the battle.
+Sets a Light Screen for four turns upon entry.
 進入戰鬥後釋放持續4回合的光牆。
 During eclipse, its moves can't miss and always activate their random effects.
 日食天氣時必定命中，且必定觸發額外效果。
@@ -40955,13 +40946,13 @@ Fly and Dive Bomb deal 50% more damage.
 飛翔和俯衝轟炸的傷害增加50%。
 Can hold a second item by stealing it.
 可以通過小偷攜帶第二件物品。
-If an attack lowers its HP to half or less, leeches the attacker.
+If an attack lowers its HP below half, leeches the attacker.
 如果被攻擊將自身HP降至50%或以下，就會寄生攻擊者。
 Prevents half the self-damage from recoil. Powers up moves that have recoil damage by 20%.
 增加具有反傷效果的技能的威力20%，並且技能的反傷傷害減半。
 Summons rainstorm for four turns when hit by an attack.
 受到攻擊時，召喚持續4回合的暴雨。
-Upon entry, summons a Turbulent Sky on the Pokémon's side for 6 turns.
+Upon entry, summons a Turbulent Sky on this Pokémon's side for six turns.
 進入戰鬥後，製造一個持續6回合的動盪之空。
 Ignores Abilities that would affect its moves. Its attacks can't be redirected to new targets.
 無視會影響到它技能的特性，且必定攻擊選定的對手。
@@ -40973,12 +40964,10 @@ Prevents its stats from being lowered by more than one step at a time.
 被能力減小時，減小量不會超過1級。
 Ignores Abilities that would affect its moves. Dizzies opponents that it hits below half health.
 無視會影響到它技能的特性，如果攻擊後對手的HP低於一半，對手將陷入混亂。
-Changes the weather to Blood Moon, which heralds the Full Blood Moon. Lingers for 3 turns after leaving.
+Changes the weather to Blood Moon, which heralds the Full Blood Moon. Lingers for three turns after leaving.
 將天氣改變為血月，離場後依然能持續3回合。
-The Pokémon benefits twice as much from style points.
+This Pokémon benefits twice as much from style points.
 讓風格點數的加成加倍。
-Upon entry, creates a Trick Room for four turns, inverting the effect of Speed.
-出場時，創建一個持續4回合的戲法空間，反轉場上精靈的速度。
 Powers up Ice-type moves by 50%.
 冰屬性技能的威力增加50%。
 Special moves against the Pokémon have a 30% chance to frostbite the attacker.
@@ -40997,9 +40986,9 @@ Powers up Water-type moves by 50%.
 水屬性技能的威力增加50%。
 It avoids hazards and can't be knocked out with one hit.
 免疫陷阱，並且不會被一擊打倒。
-The Pokémon's Speed is doubled while using kicking moves.
+This Pokémon's Speed is doubled while using kicking moves.
 使用踢類技能時，該精靈的速度翻倍。
-Boosts the power of blade moves by 30%.
+Boosts the power of slice moves by 30%.
 使用切割類技能時威力增加30%。
 During hail, boosts Speed and Grass-type damage by 50%.
 冰雹天氣時，速度和草屬性傷害增加50%。
@@ -41011,13 +41000,11 @@ At the end of each round, lowers other numbed Pokémon's Defense and Sp. Def by 
 回合結束時，其他被麻痺的精靈大幅度減小防禦和特防。
 Boosts damage by 20% if there is a weather. Immune to weather downsides.
 在天氣下增加20%的傷害。免疫天氣的不利影響。
-Flinching moves always activate their random effects.
-能使目標畏縮的技能總會觸發其附加效果。
-Becomes energy charged upon entry, doubling the power of its next Electric-type attack.
+Becomes energized upon entry, doubling the power of its next Electric-type attack.
 入場時獲得充電狀態，其下一次電屬性攻擊的威力翻倍。
-By sacrificing a held item the Pokémon didn't start with, it can negate one attack against it.
+By sacrificing a held item this Pokémon didn't start with, it can negate one attack against it.
 通過犧牲一個精靈入場時未攜帶的物品，它可以抵消一次針對它的攻擊。
-Becomes energy charged when hit by an attack, doubling the power of its next Electric-type attack.
+Becomes energized when hit by an attack, doubling the power of its next Electric-type attack.
 被攻擊時獲得充電狀態，其下一次電屬性攻擊的威力翻倍。
 Its attacks have priority, deal 25% less damage and become special.
 可以率先發起攻擊，傷害減小25%，並變成特殊技能。
@@ -41039,7 +41026,7 @@ Traps the foe during eclipse.
 日食時，困住對手。
 Takes 30% less damage from Pokémon that are trapped.
 從被束縛的精靈那裡受到的傷害減小30%。
-Foes whose stats are lowered by the Pokémon keep those lowered stats even after switching.
+Foes whose stats are lowered by this Pokémon keep those lowered stats even after switching.
 被它減小能力的對手被切換後，也依然保留被減小的能力。
 The Pokémon's Speed is doubled while using recoil moves.
 使用反傷類技能時，該精靈的速度翻倍。
@@ -41053,11 +41040,9 @@ Takes half damage from Dark- and Bug-type moves.
 受到惡、蟲屬性技能攻擊傷害減半。
 Before using a status move against a single foe, lowers their Defense by two steps.
 對單個對手使用變化類技能前，大幅度減小其物防。
-Moves ignore Abilities that would affect its moves or activate after hitting the target, and immunities due to typing.
-技能無視會影響其技能或在擊中目標後激活的特性，以及因屬性而產生的免疫。
-Prevents half the self-damage from recoil and Self-Destruct/Explosion.
+Prevents half the self-damage from recoil and self-destructing.
 減小反傷類技能、自爆和大爆炸的自身扣血。
-If an attacker would activate a random added effect on the Pokémon, that effect is placed on the attacker instead.
+If an attacker would activate a random added effect on this Pokémon, that effect is placed on the attacker instead.
 在受到攻擊並觸發技能的附加效果時，該附加效果由對方承受。
 Blocks random added effects of attacks taken, and prevents critical hits.
 不會受到技能附加效果影響，也不會被擊中要害。
@@ -41065,17 +41050,17 @@ Moves that use stats other than the default deal 50% more damage.
 使用非技能本身默認的進攻端能力時，技能威力增加50%。
 Takes 20% less damage from neutrally effective attacks.
 受到效果一般的攻擊時，受到的傷害減小20%。
-The Pokémon is Mutant-type.
+This Pokémon is Mutant-type.
 此精靈將視為基因屬性。
 Makes the foe nervous and unable to eat Berries or Leftovers.
 讓對手緊張，使其無法食用樹果或剩飯。
 Deals 30% more damage to targets that have an item. After attacking a foe, destroys their clothing items.
 對攜帶物品的對手造成更高傷害，如果對手攜帶了衣服類物品，則將其破壞。
-After an attack reduces its HP to half or less, deals 1/4 of the attacker's HP back to the attacker.
+After an attack reduces its HP below half, deals 1/4th of the attacker's HP back to the attacker.
 被對手攻擊令自身HP降到一半以下時，使對方減小1/4的HP。
-Immune to Poison-type moves, and raises Attack and Sp. Atk if hit by one.
+Immune to Poison-type moves and raises Attack and Sp. Atk if hit by one.
 免疫毒屬性技能，被毒屬性技能擊中時物攻和特攻增加1級。
-Whenever a foe's poison worsens, the Pokémon heals for 25% max HP.
+Whenever a foe's poison worsens, this Pokémon heals for 25% max HP.
 當對手中毒每次惡化時，自身恢復25%HP。
 Powers up Grass-type moves of itself and its allies by 50%.
 自身和同伴的草屬性技能威力增加50%。
@@ -41099,7 +41084,7 @@ Draws in moves from foes with base power 100 or more. Takes 15% less move damage
 吸引基礎攻擊力超過100的對手攻擊，並減小15%受到的傷害。
 Uses Power Split upon entry or when hit by a move.
 進入戰鬥或被命中時，使用力量平分。
-Upon entry, summons a Primal Forest on the Pokémon's side for 6 turns.
+Upon entry, summons a Primal Forest on this Pokémon's side for six turns.
 進入戰鬥時，召喚持續六個回合的原始之森。
 Upon entry, creates a Willful Room for four turns, reducing all hits by 30 damage.
 出場時，創建一個持續4回合的意願空間，減小所有攻擊30點傷害。
@@ -41115,11 +41100,11 @@ The random added effects of moves by all battlers always activate.
 所有精靈使用技能時必定觸發附加效果。
 Ground-type moves deal 50% more damage in eclipse.
 日食天氣時，地面屬性技能威力增加50%。
-Uses Dragon Dance if an attack lowers its HP to half or below.
+Uses Dragon Dance if an attack lowers its HP below half.
 如果被攻擊將自身HP降至50%或以下，就會使用龍舞。
 Boosts the power of rampaging moves by 30%, and makes them physical or special based on which would be more effective.
 將暴走類技能的威力增加30%，並根據哪種更有效將其變為物理或特殊技能。
-The Pokémon starts as a very convincing Pikachu!
+This Pokémon starts as a very convincing Pikachu!
 精靈將作為一隻非常逼真的皮卡超開始戰鬥！
 Transforms into the entire enemy team, except buffed!
 變身為對方的隊伍，並獲得加成！
@@ -43339,7 +43324,7 @@ PokEstate 10 - Seafloor
 PokEstate 11 - River
 莊園11 - 河流
 165
-Aquatopia Menagerie
+Aquatopia
 水世界
 166
 Aegis Insurance
@@ -45212,7 +45197,7 @@ Are you sure you want {1} to forget {2}?
 你確定要讓{1}忘記{2}嗎？
 Success! {1} forget {2} completely.
 成功！{1}完全忘記了{2}。
-TYPE
+Success! {1} forgot {2} completely.
 屬性
 CATEGORY
 類型
@@ -45474,29 +45459,29 @@ Started
 {1}m
 <outln2>Tribal Bonus Info</outln2>
 <outln2>部族簡介</outln2>
-Wild Pokémon don't give experience in Pokémon Tectonic.
+Wild Pokemon don't give experience in Pokemon Tectonic.
 在地震中，擊敗野生的精靈不會給予經驗。
 Please don't kill too many Pokémon, or you'll be punished!
 請不要擊殺太多野生的精靈，否則你會被懲罰！
 Don't worry, there's an abundance of experience to gain in other ways.
 不過不用擔心經驗不足，正常遊戲過程中，可通過其他方式獲得充足的經驗。
-If you encounter a Pokémon you don't want, run away. It's guaranteed!
+If you encounter a Pokemon you don't want, run away. It's guaranteed!
 如果你遇到了你不需要的精靈，直接逃跑好了。逃跑是必定成功的！
 After a full party heal, defeated enemy trainers will be battle ready again!
 在恢復全隊精靈狀態後，比如說在精靈中心恢復，
-For example, healing at a Pokémon Center triggers this.
+For example, healing at a Pokemon Center triggers this.
 例如，在精靈中心治療會觸發這個。
 Trainers who fled won't come back, however.
 不過已經離開的訓練師，就不會再回來了。
-There's a shortcut key(F) to instantly mount the bicycle while walking.
-在步行時，有一個快捷鍵（F）可以立即騎上自行車。
-Access your control setttings with <imp>F1</imp> to customize it.
+There's a shortcut key to instantly mount the bicycle while walking.
+在步行時，有一個快捷鍵可以立即騎上自行車。
+Access your control settings with <imp>F1</imp> to customize it.
 按<imp>F1</imp>後可以自行將鍵位調整為你習慣的方案。
-Individual Pokémon have unique Traits, Likes, and Dislikes.
+Individual Pokemon have unique Traits, Likes, and Dislikes.
 每隻精靈都有獨特的性情、喜好和不喜歡。
 These have no effect on battle. They're just for fun!
 這些內容對對戰沒有影響，只是單純為了好玩^_^。
-To customize your stats, adjust Style Points in any PokéCenter.
+To customize your stats, adjust Style Points in any PokeCenter.
 要定製你的能力風格，可以在任何精靈中心調整風格點數。
 Stats can be changed during battle by 'stat steps'.
 戰鬥中可通過“變化技能”改變能力等級。
@@ -45514,11 +45499,11 @@ Activate the Move Info Panel! It's a feature of the Fight screen.
 新功能，激活技能面板。
 Press your "Action" key (Z/Shift by default) to toggle it on or off.
 按下“功能”鍵(Z/Shift)後，可以開啟或關閉此功能。
-Many type matchups were changed in Pokémon Tectonic.
+Many type matchups were changed in Pokemon Tectonic.
 在該遊戲中，許多屬性剋制關係發生了變化。
 To strengthen some types, we had to weaken others.
 為了加強某些屬性，我們不得不削弱了其中一部分。
-Check the MasterDex or the Battle Guide to learn these changes.
+Check the Masterdex or the Battle Guide to learn these changes.
 查看大師圖鑑或戰鬥指南以瞭解這些變化。
 Sometimes you will receive evolvable Pokémon at your level cap.
 在遊戲過程中，您的精靈會經常達到等級上限。
@@ -45558,16 +45543,16 @@ If you wish, you can turn this off in the options.
 \wm#{tutorialMessage}\wtnp<<[>>#{tutorialMessageDuration}<<]>><<1>>
 x{1:03d}
 x{1:03d}
-By the power of the Primal Clay, a {1} was created!
-憑藉原始黏土的力量，一個{1}誕生了！
+A {1} was created!
+一個{1}誕生了！
 The chosen waypoint is somehow invalid.
 此地點無效。
 Removing access.
 取消訪問。
 The totem pulses with the frequency of {1}.
 圖騰以{1}的頻率脈動。
-Use the {1} to summon {2}?
-使用{1}召喚{2}？
+\i[{1}]Activate the {2} to summon {3}?
+\i[{1}]使用{2}召喚{3}？
 The totem returns to its original state.
 圖騰恢復原狀。
 You sense an powerful presence trying to manifest on this spot.
@@ -45588,8 +45573,8 @@ A mystical Avatar Totem. It pulses with ancient vital energy.
 一個神祕的化身圖騰跳動著古老的生命能量。
 A mystical Avatar Totem. It pulses with an unusual frequency.
 神祕的化身圖騰以不尋常的頻率跳動著。
-\i[SPANNINGBAND]The Spanning Bands glow in sync with the totem. You sense that some sort of connection has been created.
-\i[SPANNINGBAND]跨越之帶與圖騰同步發光。你感覺到某種連接已經建立。
+\i[SPANNINGBAND]The Spanning Bands glow in sync with the totem.
+\i[SPANNINGBAND]跨越之帶與圖騰同步發光。
 However, it does not react further. Perhaps you must find more like it?
 但是它沒有進一步反應或許還需要其他類似的東西？
 You sense the connection to the other totems. Choose your warp location.
@@ -45704,7 +45689,7 @@ Every move has a type. Attacking moves deal different amounts of damage to diffe
 每個技能都有一種屬性，攻擊會根據攻擊者和承受者的屬性不同，造成不同傷害。
 Same-Type Bonus
 本屬性加成
-Pokémon deal 50% more damage with moves the share a type with them. For example, a Raichu deals 50% more damage with an Electric move than a Normal move.
+Pokémon deal 50% more damage with moves they share a type with. For example, a Raichu deals 50% more damage with an Electric move than a Normal move.
 精靈使用與自己屬性相同的技能，會額外增加技能威力。
 Learning Moves
 學習技能
@@ -45840,16 +45825,16 @@ Effects can modify a Pokémon's stats during battle. These are called 'stat step
 你可以在戰鬥中使用變化類技能增加精靈的能力等級，或減小對手的能力等級。
 Bounds of Stat Steps
 統計升降範圍
-Stat steps start at 0, and can increase up to +12 (4x) and down to -12 (.25x). Stat steps are usually reset if you swap the Pokémon out or it faints.
-能力等級從0開始，可以增加到+12（4倍）和減小到-12（0.25倍）。如果交換精靈或它失去意識，能力等級通常會重置。
+Stat steps start at 0, and can increase up to +8 (3x) and down to -8 (.33x). Stat steps are reset if you swap the Pokémon out or it faints.
+能力等級從0開始，可以增加到+8（3倍）和減小到-8（0.33倍）。如果交換精靈或它失去意識，能力等級通常會重置。
 Checking Stat Steps
 檢查當前升降
 You can check the current stat steps of each Pokémon on the battlefield using the Info button. It lists the numerical step as well as resultant multiplier.
 你可以使用戰鬥中的信息功能，查看戰場中的情況，以及精靈的能力值狀態。
 What are abilities?
 特性是什麼
-Abilities are special powers that Pokémon can have based on their species. Most Pokémon can have 2 possible abilities. All abilities activate in battle or in the field.
-特性是精靈根據其種類可以擁有的特殊能力。大多數精靈可以有2種可能的特性。所有特性在戰鬥或野外都會激活。
+Abilities are special powers that Pokémon can have based on their species. Most Pokémon can have one of 2 possible abilities.
+特性是精靈根據其種類可以擁有的特殊能力。大多數精靈可以有2種可能的特性。
 Ability Effects
 特性效果
 Abilities do a wide variety of different things. Understanding your team's abilities is important to winning.
@@ -46048,8 +46033,8 @@ Enemy Trainers have their own teams of Pokémon with their own moves and held it
 敵對訓練師都擁有自己的精靈隊伍 ，有自己的技能搭配和物品攜帶，如果想在戰鬥中獲勝 ，就要注意這些內容。
 Differences
 差異
-The typical trainer has 3 Pokémon, but Gym Leaders will have more. Trainers with more Pokémon also have more move variety and more items on their Pokémon.
-一般的訓練師都只有三隻精靈，但道館館主的精靈數量更多。
+The typical trainer has 4 Pokémon, but Gym Leaders will have more. Trainers with more Pokémon also have more move variety and more items on their Pokémon.
+一般的訓練師都只有四隻精靈，但道館館主的精靈數量更多。
 Pro Trainers
 精英訓練師
 Pro Trainers are special Trainers, noted by their grey hair and black clothes. Their teams are always 6 Pokémon, all with items, and built around a Tribal Bonus. They're hard!
@@ -46064,7 +46049,7 @@ Avatars are powerful enemy Pokémon with unique properties that you will fight a
 化身是擁有獨特能力的強大精靈， 你可以在冒險過程 中與它們戰鬥，它們無法被捕捉。
 Avatars are Healthy
 生命值
-Avatars have at least two health bars, which means they have a lot of health. Much more than double the normal amount!
+Avatars have two health bars, which means they have a lot of health. Much more than double the normal amount!
 化身至少有兩個生命條，這意味著它們擁有大量的生命值。比正常數量多得多！
 Multi-Move
 多次行動
@@ -46096,7 +46081,7 @@ Avatars usually only have a few moves to choose from. They usually alternate bet
 化身的技能數量是有限的，通常會連續或交替使用這些技能。
 Target Choice
 搜索
-A targeting reticle shows which of your battlers the Avatar wants to attack. It will switch to another battler, however, if their attack is made impossible.
+A targeting reticle shows which of your battles the Avatar wants to attack. It will switch to another battler, however, if their attack is made impossible.
 一個瞄準框顯示化身想要攻擊你的哪個精靈。然而，如果他們的攻擊變得不可能，它會切換到另一個精靈。
 Empowered Moves
 賦權技能
@@ -46148,7 +46133,7 @@ Press the Use key (defaults to C) on the evolutions tab to choose a Pokémon in 
 在進化界面按C，可以選擇同一進化樹中的精靈，並進入其條目。
 What are weathers?
 天氣
-Weathers are special states that effect the entire battlefield and help or hinder the Pokémon battling. Only one weather can be active at once.
+Weathers are special states that affect the entire battlefield and help or hinder the Pokémon battling. Only one weather can be active at once.
 天氣是一種影響整個戰場的特殊狀態，會幫助或阻礙精靈戰鬥，同一時間只能有一種天氣。
 Weather Duration
 天氣持續時間
@@ -46194,8 +46179,8 @@ Press to speed up the game.
 按下以加快遊戲速度。
 Press to instantly mount the Bicycle while in the overworld.
 按下W鍵可以快速騎上自行車。
-Opens the Key Bindings window, where you can choose which keyboard keys to use for each control.<<n>>Warning: Remapping controls may cause unexpected bugs!
-打開按鍵綁定窗口，你可以選擇每個控制使用的鍵盤按鍵。<<n>>警告：重新映射控制可能會導致意外的錯誤！
+Opens the Key Bindings window, where you can choose which keyboard keys to use for each control.
+打開按鍵綁定窗口，你可以選擇每個控制使用的鍵盤按鍵。
 Press to reset to the main menu.
 按下以軟重啟遊戲並進入主菜單。
 Take a screenshot. It is put in the Screenshots folder, near your Save Game folder.
@@ -46294,15 +46279,13 @@ What is Move Mentoring?
 什麼是技能導師？
 I'm the Mentor Coordinator. How can I help?
 我是導師協調員。我能幫到你什麼？
-Sorry, it doesn't appear that 1 can have any moves mentored to it at the moment..
-抱歉它現在看起來不能接受指導。。
-I help your Pokémon to teach each other moves!
+I help your Pokemon to teach each other moves!
 我幫助你的精靈互相學習技能！
-Pokémon can teach moves they know, moves they used to know, and moves earlier on their level up learnset.
+Pokemon can teach moves they know, moves they used to know, and moves earlier on their level up learnset.
 精靈可以教授它們已知的技能、曾經知道的技能以及它們等級增加學習集中更早的技能。
-Any Pokémon in your party or in your PC can be a mentor.
+Any Pokemon in your party or in your PC can be a mentor.
 你的隊伍中的任何精靈或電腦中的精靈都可以成為導師。
-Pokémon can be taught any moves on their Other Moves list.
+Pokemon can be taught any moves on their Other Moves list.
 精靈可以學習它們的其他技能列表上的任何技能。
 Relearn Moves
 重新學習技能
@@ -46316,7 +46299,7 @@ I can teach moves to your Pokémon -- at no cost!
 我可以免費教你的精靈技能！
 I know every single move that Pokémon learn while leveling up or evolving.
 我知道精靈在升級或進化時學習的所有技能。
-I can also help Pokémon to relearn moves they learned through TMs, Mentoring, or Sketching!
+I can also help Pokemon to relearn moves they learned through TMs, Mentoring, or Sketching!
 我還可以幫助精靈重新學習它們通過技能機器、導師或素描學習的技能！
 Speech frame {1}.
 文字框{1}。
@@ -46416,8 +46399,8 @@ Which frame surrounds other user interface menus.
 哪個邊框圍繞著其他用戶界面菜單。
 Text Entry
 輸入
-Which method you want to use to enter text. (Use Cursor for Chinese)
-你想使用哪種方法輸入文本。（輸入中文時使用光標）
+Which method you want to use to enter text.
+你想使用哪種方法輸入文本。
 Cursor
 光標
 Keyboard
@@ -46900,9 +46883,7 @@ This Pokémon will not be retrievable after this. Are you sure?
 {1}被釋放了。
 Bye-bye, {1}!
 再見，{1}！
-Box {1} is no longer locked to sorting.
-箱子{1}不再鎖定排序。
-Box {1} is now locked to sorting.
+{1} is now locked to sorting.
 箱子{1}現在鎖定排序。
 Position {1},{2} is empty...
 箱子{1}，{2}是空的...
@@ -48224,8 +48205,8 @@ The two moves have become one! It's a combined move!
 {1}在等待{2}的行動...
 But it failed, since {1} can't gain the status and the weather can't be set!
 但它失敗了，因為{1}無法獲得該狀態，且天氣也無法設置！
-But it failed, since the opposing side already has {1} layers of {2} spikes!
-但它失敗了，因為對方場上已經有{1}層{2}尖刺！
+But it failed, since the opposing side already has {1} layers of {2}!
+但它失敗了，因為對方場上已經有{1}層{2}！
 {1}'s stats can't be changed further!
 {1}的能力不能再改變了！
 But it failed, since there are no valid choices in your party!
@@ -48276,8 +48257,8 @@ SKIPPING BATTLE...
 跳過戰鬥...
 {1} forgot {2}...
 {1}忘記了{2}...
-{1} forgot how to use {2}.<<n>>And...
-{1}忘記了{2}。<<n>>並且...
+{1} forgot how to use {2}.<<n>>And...<<1>>
+{1}忘記了{2}。<<n>>並且...<<1>>
 \se[]{1} learned {2}!\se[Pkmn move learnt]
 \se[]{1}學會了{2}！\se[Pkmn move learnt]
 {1} notices a flammable item amongst your Pokémon!
@@ -48332,7 +48313,7 @@ A Shadow creeps into the dream...
 一個影子潛入了夢境...
 The air around {1} turns dark and distorted.
 {1}周圍的空氣變得黑暗且扭曲。
-{1} is fully charged. Its about to explode!
+{1} is fully charged. It's about to explode!
 {1}充滿了能量。它即將發生爆炸！
 {1} is charging up.
 {1}正在充能。
@@ -48416,21 +48397,21 @@ The freeze will arrive next turn.
 冰凍將在下1回合到來。
 Forevers Traversed yet Ever No Better
 前路已盡無處走，笑談歸去再從頭。
-Your Pokémon lose 10 levels for this fight. EXP goes to the Dispenser.
+Your Pokemon lose 10 levels for this fight. EXP goes to the Dispenser.
 你的精靈在這場戰鬥中會失去10個等級。經驗值會進入分配器。
 Ought Not the Foxtrot to Triple Aught of What We Sought?
 難道我們追求的目標，不應該是狐步舞的三百倍嗎？
 Enemy Pokémon all have an extra ability!
 敵方精靈都有一個額外的特性！
-Your Pokémon don't get extra damage on their same-type attacks.
+Your Pokemon don't get extra damage on their same-type attacks.
 你的精靈失去本屬性加成。
 forge a blade<<n>>from gold/<<n>>pluck out its<<n>>silhouette and/<<n>>wield the<<n>>shadow too!
 金鐵交鳴鑄其形，鋒芒盡出不見影。
-Enemy Pokémon all have an extra item.
+Enemy Pokemon all have an extra item.
 敵方精靈都有一個額外的物品。
 A Portrait of the Opposition in Radiant Ulfire and Stygian Blue
 幽藍璀焰焚不滅，一閃一繪照邪心。
-Enemy Pokémon all have an extra type.
+Enemy Pokemon all have an extra type.
 敵方精靈都有一個額外的屬性。
 The Visitation of the Illusive Inevitable: Landfall
 萬惡盡行終受戮，凡軀豈敢蒙上蒼。
@@ -48456,17 +48437,17 @@ Enemy attacks always activate their additional effects.
 對手的技能必定會觸發附加效果。
 A Litany of Lullabies, Seldom Sung
 曲終收撥當心畫，四弦一聲如裂帛。
-Your Pokémon gain the "Perish Song" status when they enter battle.
+Your Pokemon gain the "Perish Song" status when they enter battle.
 你的精靈在進入戰鬥時會獲得“滅亡之歌”狀態。
 -to a River of Eight Million Grains of Sand that Wears Down the Highest Peak in-
 -到一條侵蝕最高山峰的含有八百萬粒沙的河流-
 Enemy Pokemon recycle consumed items at end of turn. Stolen items turn to dust.
 敵方精靈在回合結束時回收消耗的物品。被盜的物品會消失。
-The battle begins with sandstorm. The foe has extra sandstorm abilities!
+The battle begins with sandstorm. Enemy Pokémon have extra sandstorm abilities!
 戰鬥從沙暴中開始， 對方擁有了額外的沙暴特性！
 Every Beat Betrays the Beast's Burden
 鈿頭銀篦擊節碎，血色羅裙翻酒汙。
-After your Pokémon attack, the attacking stat that was used is lowered by 4 steps.
+After your Pokemon attack, the attacking stat that was used is lowered by 4 steps.
 你的精靈攻擊後，使用的使用的那一項攻擊會減小4級。
 Gored Upon the Horns of the Dilemma - Boredom or the Path of Thorns?
 四面群山皆囹圄，何方歸去見青天？
@@ -48476,21 +48457,21 @@ You were spared from spikes this turn!
 此回合將不會被秒殺！
 Pyres raised<<n>>Here we meet<<n>>Spirits razed<<n>>Reduced to meat
 粉身碎骨渾不怕，要留清白在人間。
-Status conditions affect your Pokémon twice as much!<<n>>Foes ignore the Status Clause!
+Status conditions affect your Pokemon twice as much!
 異常狀態對你的精靈影響加倍！<<n>>敵方無視全狀態睡眠條款！
 Shall Our Truth Lay Asunder Thy Masque and Thee?
 追尋半生盡得志，破去虛妄洗新城。
-Whenever an enemy Pokémon enters at full health, it forms a substitute.
+Whenever an enemy Pokemon enters at full health, it forms a substitute.
 每當敵方精靈以滿血進入時，它會生成一個替身。
 Bedecked with Iron, Bedighted with Venom, Bewinged with Vaults Open and Weapons Free
 角聲滿天秋色裡，塞上燕脂凝夜紫。
-Opposing Pokémon hold super-powerful items. Stolen items turn to dust.
+Opposing Pokemon hold super-powerful items. Stolen items turn to dust.
 對方精靈攜帶超強物品。被盜的物品會消失。
 Lucid? Lose it. Lunacy looms lucent. Let loose.
 盡興一杯忘憂愁，縱歡縱情縱美酒。
-Your Pokémon are Tormented on entry.
+Your Pokemon are Tormented on entry.
 你的精靈在出場時會受到折磨狀態。
-Neutral attacks against your Pokémon are instead Super Effective.
+Neutral attacks against your Pokemon are instead Super Effective.
 對你精靈的效果一般的攻擊反而會變得效果拔群。
 Thy Inimitability, Incapable Imposture. My Immanence, Inconceivable Immaculacy.
 君生高潔滌凡塵，妾意灼灼不敢言。
@@ -48498,7 +48479,7 @@ Your Super Effective attacks become Not Very Effective.
 你的精靈使用效果拔群攻擊時， 會被視作效果不佳攻擊。
 O Agonal Ecstasies, Spare Us Not Our Agonies
 行至終末須盡歡，今生苦短莫為難。
-When enemy Pokémon faint, they deal a quarter of their HP as damage to their last attacker.
+When enemy Pokemon faint, they deal a quarter of their HP as damage to their last attacker.
 當敵方精靈失去意識時，它們會對最後的攻擊者造成其HP四分之一的傷害。
 {1} takes its vengeance!
 {1}進行報復！
@@ -48506,27 +48487,27 @@ I chose a move!
 我選擇了一個技能！
 You chose a move!
 你選擇了一個技能！
-My Pokémon fainted!
+My Pokemon fainted!
 我的精靈失去意識了！
-Your Pokémon fainted!
+Your Pokemon fainted!
 你的精靈失去意識了！
-I sent out a Pokémon!
+I sent out a Pokemon!
 我派出了一隻精靈！
-You sent out a Pokémon!
+You sent out a Pokemon!
 你派出了一隻精靈！
-Wow, I've never seen that Pokémon before!
+Wow, I've never seen that Pokemon before!
 哇，我以前從沒見過這種精靈！
-I'm gonna check my !
-我要去查一下我的！
+I'm gonna check my MasterDex!
+我要去查一下我的大師圖鑑！
 Bounsweet, it says. Playful, but a little dangerous!
 它說這是甜栗鼠。頑皮，但有點危險！
 Numel, huh? Fire-type--hope I don't get burned!
 是熔岩熊貓嗎？火屬性精靈——希望我不會被燒到！
 Krabby... a Water-type... with massive attack power, wow!
 大鉗蟹...水屬性...攻擊力驚人，哇！
-My Pokémon took move damage!
+My Pokemon took move damage!
 我的精靈受到了技能的傷害！
-Your Pokémon took move damage!
+Your Pokemon took move damage!
 你的精靈受到了技能的傷害！
 Thought ya'd be better than that, honestly.
 我本以為你會更強。
@@ -48696,7 +48677,7 @@ Where to direct power?
 {1}被陽光傷害了！
 {1} was hurt by the rain!
 {1}被雨水傷害了！
-{1} caramlizes slightly in the heat.
+{1} caramelizes slightly in the heat.
 {1}在加熱過程中略微焦化。
 {1} was hurt by the moonlight!
 {1}被月輝傷害了！
@@ -48724,7 +48705,7 @@ For {1} to have two items, only one can be Clothing!
 {1}奪回了它的{2}！
 {1} turned {2}'s {3} into gold!
 {1}將{2}的{3}變成了金子！
-But {1} is already charged...
+But {1} is already energized...
 但{1}已經充電了...
 {1}'s fur is standing sharp! {2} is hurt!
 {1}的毛豎起來了{2}受傷了！
@@ -48884,10 +48865,8 @@ Levels: {1}->{2} | Exp: {3}->{4} | gain: {5}
 {1}升到了Lv.{2}！
 {1} learned {2}!
 {1}學會了{2}！
-{1} wants to learn {2}{4}, but it already knows {3} moves.
-{1}想學習{2}{4}，但它已經學會了{3}個技能。
-(matched)
-(匹配)
+{1} wants to learn {2}, but it already knows {3} moves.
+{1}想學習{2}，但它已經學會了{3}個技能。
 {1} forgot how to use {2}. And...
 {1}忘記了{2}，並且...
 Can't have battles larger than 2v2 where both sides have multiple trainers
@@ -48936,12 +48915,12 @@ The {1} joined the battle!
 {1}和{2}加入了戰局！
 {1}, {2} and {3} joined the battle!
 {1}、{2}和{3}加入了戰局！
-Go! {1}{2}!
-去吧，{1}{2}！
-Go! {1}{3} and {2}{4}!
-去吧，{1}{3}和{2}{4}！
-Go! {1}{4}, {2}{5} and {3}{6}!
-去吧，{1}{4}、{2}{5}和{3}{6}！
+Go! {1}!
+去吧，{1}！
+Go! {1} and {2}!
+去吧，{1}和{2}！
+Go! {1}, {2} and {3}!
+去吧，{1}、{2}和{3}！
 \wmA major error has occured! Please screen-shot the following error message and share it in our bug channel.
 \wm發生了一個重大錯誤！請截取以下錯誤消息的屏幕截圖，併發送給芳芳。
 \wmRather than crashing, we will give the victory to you.
@@ -48984,7 +48963,7 @@ Time is dancing to {1}'s tune! This turn is being skipped!
 {1}將在下回合到達！
 {1} pilots into battle!
 {1}到達了戰場！
-You got ${1} and {2} AP for winning!
+You got ${1} for winning!
 你贏得了{1}金錢和{2}AP！
 You picked up ${1}!
 你撿到了{1}金錢！
@@ -49006,12 +48985,12 @@ You outlasted {1} and {2}.
 你獲得了{1}和{2}。
 You outlasted {1}, {2} and {3}.
 你獲得了{1}、{2}和{3}。
-You lost against {1}!{2}
-你輸給了{1}！{2}
-You lost against {1} and {2}!{3}
-你輸給了{1}和{2}！{3}
-You lost against {1}, {2} and {3}!{4}
-你輸給了{1}、{2}和{3}！{4}
+You lost against {1}!
+你輸給了{1}！
+You lost against {1} and {2}!
+你輸給了{1}和{2}！
+You lost against {1}, {2} and {3}!
+你輸給了{1}、{2}和{3}！
 \i[EXPEZDISPENSER]{1} exp was stored in the EXP-EZ Dispenser this battle.
 \i[EXPEZDISPENSER]這場戰鬥中，{1}點經驗值已存入經驗分配器。
 The opposing {1}
@@ -49214,7 +49193,7 @@ The Full Blood Moon is approaching.
 血月即將來臨。
 {1} absorbs the suffering from the hailstorm.
 {1}受到了冰雹的傷害。
-{1} absorbs the suffering from the sandstorm
+{1} absorbs the suffering from the sandstorm.
 {1}受到了沙暴的傷害。
 {1} is shredded by the iron-infused sandstorm!
 {1}被加入了鐵砂的沙暴傷害了！
@@ -49294,13 +49273,13 @@ The {1} withdrew!
 {1}，回來吧！
 {1} withdrew {2}!
 {1}，收回了{2}！
-You're in charge, {1}{2}!
-交給你了，{1}{2}！
-Go for it, {1}{2}!
-去吧，{1}{2}！
-Just a little more! Hang in there, {1}{2}!
-就差一點了，堅持住，{1}{2}！
-Your opponent's weak! Get 'em, {1}{2}!
+You're in charge, {1}!
+交給你了，{1}！
+Go for it, {1}!
+去吧，{1}！
+Just a little more! Hang in there, {1}!
+就差一點了，堅持住，{1}！
+Your opponent's weak! Get 'em, {1}!
 對方很虛弱了，上吧，{1}{2}！
 The {1} entered the battle!
 {1}進入了戰鬥！
@@ -49366,9 +49345,7 @@ You were <imp>ambushed</imp>! The foe gets a free turn!
 你被<imp>伏擊</imp>了！對手獲得了自由的回合！
 {1} reads {2}'s guilty soul!
 {1}讀懂了{2}有罪的靈魂！
-You can only Switch. Do you want to skip?
-你只能切換。你想跳過嗎？
-You can't catch trainers' Pokémon!
+You can't catch trainers' Pokemon!
 你不能捕捉訓練師的精靈！
 You can't catch Avatars!
 你不能抓化身！
@@ -49516,8 +49493,8 @@ The {1} slinks away, disappointed...
 {1}的隊伍在{2}的痛苦中感到快樂！
 {1} traced {2}'s {3}!
 {1}複製了{2}的{3}！
-{1}? {2} can be that, if it wishes.
-{1}？如果{2}願意，它也可以。
+{2}? {1} can be that, if it wishes.
+{2}？如果{1}願意，它也可以。
 {1} imitated the Ability {2}!
 {1}效仿了{2}特性!
 {1} imitated the abilities {2}!
@@ -49560,8 +49537,8 @@ Told to recover a negative amount
 {1}倒下了！
 {1} fell to the ground!
 {1}倒在了地上！
-{1}'s scattered its {2} when fainting.
-{1}在倒下時分散了它的{2}。
+{1}'s scattered its {2} when fainting!
+{1}在倒下時分散了它的{2}！
 But there was no one to revive!
 但是沒有精靈可以復活！
 Its allied {1} was revived to full health!
@@ -49580,7 +49557,7 @@ Its allied {1} was revived to full health!
 {1}的夥伴們離去了！
 You sense the presence of many!
 你感受到了一股強大的力量！
-{1} transformed into its Complete Forme!
+{1} transformed into its Complete Form!
 {1}變成了完全體形態！
 {1} transformed into {2}!
 {1}變成了{2}！
@@ -49608,7 +49585,7 @@ Your team
 我方
 {1} can't hold a {2}!
 {1}不能攜帶{2}！
-But {1} hold's tightly onto its {2}!
+But {1} holds tightly onto its {2}!
 但{1}緊緊地抓著它的{2}！
 {1}-type doesn't exist!
 {1}屬性不存在！
@@ -49796,7 +49773,7 @@ It doesn't affect {1} because another Pokémon in the party is already under thi
 {1}受到了嚴重的中毒傷害！
 {1} was brought to its knees entirely by poison!
 {1}因中毒倒下了！
-The poison worsened! Its damage will be doubled until {1} leaves the field.
+{1}'s poison worsened! The damage will be doubled until it leaves the field.
 毒性加強了，{1}離場前中毒傷害將持續翻倍。
 The poison doubled yet again!
 毒性再次翻倍！
@@ -49830,14 +49807,14 @@ The poison doubled yet again!
 {1}使用了{2}！
 But there was no PP left for the move!
 但是沒有PP了！
-{1} changed to Blade Forme!
+{1} changed to Blade Form!
 {1}變成了刀劍形態！
-{1} changed to Shield Forme!
+{1} changed to Shield Form!
 {1}變成了盾牌形態！
 {1} tried to use {2}!
 {1}試圖使用{2}！
-But, {1} cannot use {2}!
-但{1}無法使用{2}！
+{1} cannot use {2}!
+{1}無法使用{2}！
 {1} snatched {2}'s move!
 {1}搶奪了{2}的技能！
 {1} was forced into battle!
@@ -49876,7 +49853,7 @@ The {1} ensured {2} would hit!
 {1}確保{2}一定命中！
 {1}'s patience pays off!
 {1}的耐心得到了回報！
-{1} expended its charge to empower {2}!
+{1} used its energy to empower {2}!
 {1}消耗了它的充能以增強{2}的能力！
 The bubble surrounding {1} reduced the damage!
 周圍的氣泡減小了{1}受到的傷害！
@@ -49962,7 +49939,7 @@ It doesn't affect {1} since Dark-types are immune to pranks...
 {1}正在與原始之森交流！
 {1}'s stance made {2}'s attack bounce off akwardly!
 {1}的姿態使得{2}的攻擊被尷尬地彈開了!
-The roots guarding {1} dig into {2}!
+{1}'s stance made {2}'s attack bounce off awkwardly!
 保護{1}的根鬚深植在{2}中！
 {1} was stuck by {2}'s venom!
 {1}被{2}的毒液粘住了!
@@ -49980,7 +49957,7 @@ Battle effect #{@id} defines increment proc when its not an integer.
 戰鬥效果#{@id}定義了增量過程，但其不是整數。
 Battle effect #{@id} defines expire proc when its not an integer.
 戰鬥效果#{@id}定義了過期過程，但其不是整數。
-Battle effect #{@id} is set to down down, but its not an integer.
+Battle effect #{@id} is set to tick down, but its not an integer.
 戰鬥效果#{@id}被設置為向下，但其不是整數。
 Battle effect #{@id} was given a maximum, but its not an integer.
 戰鬥效果#{@id}被賦予了一個最大值，但其不是整數。
@@ -50000,7 +49977,7 @@ The ring of water restored {1}'s HP!
 {1}失去了火屬性！
 {1} was dried out!
 {1}被暴晒了！
-{1} began charging power!
+{1} begins to energize!
 {1}開始充電！
 {1} was warned not to attack it again!
 {1}警告對方不要再攻擊！
@@ -50152,7 +50129,7 @@ No moves barred! {1} can use off-type moves again!
 {1}電磁力效果消失了。
 {1} can't use sound-based moves for the next {2} turns!
 {1}在接下來的{2}回合內無法使用聲音類的技能！
-{1} can't use blade-based moves for the next {2} turns!
+{1} can't use slice-based moves for the next {2} turns!
 {1}在接下來的{2}回合內無法使用切割類的技能！
 {1} was subjected to torment!
 {1}受到了折磨！
@@ -50478,7 +50455,7 @@ The swamp on {1}'s side dissapeared.
 {1}這邊的沼澤消失了！
 Spikes were scattered all around {1}'s feet!
 菱撒在了{1}周圍！
-{1} layers of spikes were scattered all around {2}'s feet!
+{1} layers of Spikes were scattered all around {2}'s feet!
 {1}的尖刺散落在了{2}的腳邊！
 The Spikes around {1}'s feet were swept aside!
 {1}腳下週圍的菱被掃開了！
@@ -50764,7 +50741,7 @@ Balanced
 平衡的
 Resetting Style Points due to non-conformity with rules.
 因不合規而被重置。
-{1} has more EVs than its supposed to be able to!
+{1} has more EVs than it's supposed to be able to!
 {1}的點數超過了它的能力！
 There are still Style Points points left to assign!
 還有風格點數可以分配！
@@ -51398,7 +51375,7 @@ But it failed, since {1} is already covered in tar and can't have their Speed lo
 但它失敗了，因為{1}已經被瀝青覆蓋，速度無法減小！
 But it failed, since {1} is already cursed!
 但它失敗了，因為{1}已經被詛咒了！
-But it failed, since {1} is already cursed by the Pharoh!
+But it failed, since {1} is already experiencing the pharaoh's curse!
 但它失敗了，因為{1}已經被法老詛咒了！
 {1} cut its own HP!
 {1}削減了自己的HP！
@@ -51526,12 +51503,12 @@ Which item should {1} fling?
 <u>75 BP</u>: 什麼都可以
 <u>Poison</u>: Poison Orb
 <u>Poison</u>: 劇毒寶珠
-<u>Burn</u>: Burn Orb
+<u>Burn</u>: Flame Orb
 <u>Burn</u>: 火焰寶珠
 <u>Frostbite</u>: Frost Orb
 <u>Frostbite</u>: 冰凍寶珠
-<u>Leech</u>: Big Root, Binding Band
-<u>Leech</u>: 大根莖，緊綁束帶
+<u>Leech</u>: Big Root
+<u>Leech</u>: 大根莖
 <u>Waterlog</u>: Water Balloon
 <u>浸水</u>: 水氣球
 {1} can't use any of its items!
@@ -51612,9 +51589,7 @@ But it failed, since {1} is already giving a dragon ride!
 {1}讓{2}騎在了它的背上！
 {1} calls out to the pack!
 {1}呼喚著同伴！
-{1} joins with an ally!
-{1}與隊友結合！
-{1} gathers an new mind!
+{1} gathers a new mind!
 {1}聚集了新的思維！
 {1} connects with their friend!
 {1}與朋友連接！
@@ -51672,7 +51647,7 @@ item
 物品
 items
 物品
-Error: Asked to remove item #{item} from Pokémon #{name}, but it doesn't have that item
+Error: Asked to remove item #{item} from Pokemon #{name}, but it doesn't have that item
 錯誤：要求從精靈#{name}中移除物品#{item}，但它並沒有那個物品
 {1} can't hold two of the same item!
 {1}不能攜帶兩個相同的物品！
@@ -52166,7 +52141,7 @@ The hatching was a success. I am pleased to allow you this Dragon.
 孵化成功了，很高興能把這條龍交給你。
 You notice a small hole in the rock. Dig into it?
 你看到了一個小洞，要不要鑽進去看看？
-You clambor into the den!
+You clamber into the den!
 你鑽進了洞穴裡！
 You clamber out of the den!
 你爬出了洞穴！
@@ -52180,11 +52155,11 @@ An impassable hole, filled with stunted grass.
 一個無法通過的深坑，裡面長滿了矮小的草。
 Use the Flora Sceptre?
 要使用花之權杖嗎？
-With a flourish, you wave the Flora Scepter over the hole.
+With a flourish, you wave the Flora Sceptre over the hole.
 你興致勃勃地在洞口揮舞著花之權杖。
 The grass grew over the hole!
 洞里長滿了草！
-If that grass grew over the hole, you'd possibly be able to cross it.
+With a flourish, you wave the Flora Sceptre over the hole.
 如果草長得更多一些，或許就能過去了。
 Loyalty
 忠誠
@@ -52262,8 +52237,8 @@ Player cannot receive a Super Item!
 \me[{1}]獲得了1個\c[1]{2}\c[0]！\wtnp[30]
 You combine the {1} and the {2}.
 你將{1}和{2}組合在一起。
-\cl\l[4]\op\wu\i[{1}]\or{2}\wt[30]
-\cl\l[4]\op\wu\i[{1}]\或者{2}\wt[30]
+\cl\l[5]\op\wu\i[{1}]\or{2}\wt[30]
+\cl\l[5]\op\wu\i[{1}]\或者{2}\wt[30]
 Too bad...<<n>>The Bag is full...
 真遺憾...<<n>>揹包滿了...
 \me[Berry get]You picked the {1} \c[1]{2}\c[0].\wtnp[20]
@@ -52292,10 +52267,10 @@ Editing your team is not allowed at the moment.
 暫時不能編輯隊伍。
 \se[Voltorb Flip level up]Ring ring...
 \se[Voltorb Flip level up]叮鈴鈴...
-...It's {1}. Pick up the phone?
-...是{1}。要接電話嗎?
-\se[Voltorb Flip mark]Click.
-\se[Voltorb Flip mark]掛斷。
+\i[SMARTPHONE]...It's {1}. Pick up the phone?
+\i[SMARTPHONE]...是{1}。要接電話嗎?
+\i[SMARTPHONE]\se[Voltorb Flip mark]Click.
+\i[SMARTPHONE]\se[Voltorb Flip mark]掛斷。
 You no longer feel pumped up.
 你不再覺得振奮。
 You've currently completed {1} percent of the Dex.
@@ -52454,16 +52429,20 @@ Time's up!
 時間到！
 ANNOUNCER: The Bug-Catching Contest is over!
 ANNOUNCER: 蟲子捕捉比賽結束了！
-Catch the best Pokémon you can in {1} turns of battle!
+Catch the best Pokemon you can in {1} turns of battle!
 在{1}回合的戰鬥中捕捉最好的精靈！
 Your {1} is rated at {2}.
 你的{1}評分為{2}。
 That's a new high score!
 這是一個新的高分！
-You caught no Pokémon worth any points.
+You caught no Pokemon worth any points.
 你沒有捕捉到任何值得積分的精靈。
-Your best catch was a level {1} {2}, which gives you a score of {3}.
-你最好的捕獲是一隻等級{1}的{2}，這給你帶來了{3}分的得分。
+Your best catch was a shiny level {1} {2}.
+Your best catch was a shiny level {1} {2}.
+Your best catch was a level {1} {2}.
+你最好的捕獲是一隻等級{1}的{2}。
+Your final score is {1}.
+Your final score is {1}.
 Returning to {1}.
 返回到{1}。
 You've earned a reward!
@@ -52518,8 +52497,8 @@ Eggs can't be taught any moves.
 蛋不能學習任何技能。
 {1} already knows {2}.
 {1}已經學會{2}了。
-{1} wants to learn {2}{4}, but it already knows {3} moves.<<1>>
-{1}想學習{2}{4}，但它已經學會了{3}個技能。<<1>>
+{1} wants to learn {2}, but it already knows {3} moves.<<1>>
+{1}想學習{2}，但它已經學會了{3}個技能。<<1>>
 Please choose a move that will be replaced with {1}.
 請選擇{1}要替換的技能。
 You used your last {1}.
@@ -52554,8 +52533,8 @@ The Bag is full. The Pokémon's item could not be removed.
 揹包滿了，無法取出這個物品。
 {1} is now holding the {2}.
 {1}現在拿著{2}。
-You put the <imp>{1}</imp> away in the <icon=bagPocket{2}>\c[1]{3} Pocket\c[0].
-你將<imp>{1}</imp>放進了<icon=bagPocket{2}>\c[1]{3}口袋\c[0]。
+You put the {1} away\nin the <icon=bagPocket{2}>\c<<[>>1<<]>>{3} Pocket\c<<[>>0<<]>>.
+You put the {1} away\nin the <icon=bagPocket{2}>\c<<[>>1<<]>>{3} Pocket\c<<[>>0<<]>>.
 {1} is already holding some {2}.
 {1}現在拿著一些{2}。
 {1} is already holding an {2}.
@@ -52574,10 +52553,10 @@ Ability Capsule can be only used in Mono Ability mode!
 特性膠囊只能在單特性模式下使用！
 You may not make your last able Pokémon a pacifist.
 你不能讓你最後一隻能夠戰鬥的精靈成為和平主義者。
-Would you like to change {1}'s ability to {2}?
+Would you like to change {1}'s Ability to {2}?
 你想把{1}的特性改為{2}嗎？
-{1}'s ability has been changed to {2}!
-{1}的特性已改為{2}！
+{1}'s Ability changed to {2}!
+{1}的特性變成了{2}！
 You get the sense that you shouldn't teleport away right now.
 你有一種感覺，現在不該被傳送走。
 You are prevented from teleporting due to an unknown force.
@@ -52642,7 +52621,7 @@ It has no effect on Pokémon other than Shaymin.
 對謝米之外的精靈無影響。
 This can't be used on the fainted Pokémon.
 這個不能用於失去意識的精靈。
-{1} changed Forme!
+{1} changed Form!
 {1}改變了形態！
 It has no effect on Pokémon other than Tornadus, Thundurus, Landorus, or Enamorus.
 對龍捲雲，雷電雲，土地雲，眷戀雲之外的精靈無影響。
@@ -52672,7 +52651,7 @@ Disperse the Gleam Powder?
 散佈閃亮粉末嗎？
 You disperse the Gleam Powder.
 你散佈了閃亮粉末。
-The scent of the Gleam Powder pulls a shiny Pokémon towards you!
+The scent of the Gleam Powder pulls a shiny Pokemon towards you!
 閃光粉的氣味吸引了一隻閃光精靈向你靠近！
 ... \wt[10]... \wt[10]... \wt[10]...\wt[10]Nope! There's no response.
 ... \wt[10]... \wt[10]... \wt[10]...\wt[10]沒有！沒有一點回應！
@@ -52874,11 +52853,11 @@ Oh, some strange items were left behind!
 \db[Items/TAROTAMULET_active]你將塔羅護身符翻到正面。它現在處於激活狀態。\wtnp[{1}]
 \db[Items/TAROTAMULET]You turn the Tarot Amulet to its back face. It is now disabled.\wtnp[{1}]
 \db[Items/TAROTAMULET]你將塔羅護身符翻到背面。它現在處於禁用狀態。\wtnp[{1}]
-Which form shall the Pokémon take?
+Which form shall the Pokemon take?
 精靈將採取哪種形態？
 {1} swapped to {2}!
 {1}更改為{2}！
-Cannot use this item on that Pokémon.
+Cannot use this item on that Pokemon.
 不能在這個精靈上使用這個物品。
 {1}'s Ability changed to {2}!
 {1}的特性變成了{2}！
@@ -53158,12 +53137,10 @@ There's no more room for Pokémon!<<1>>
 沒有更多空間放置精靈了！<<1>>
 The Pokémon Boxes are full and can't accept any more!
 精靈箱子已滿，無法再接受更多！
-Choose which Pokémon will be sent back to the PC.
-選擇哪隻精靈將被送回電腦。
 {1} is holding multiple items. Take them before transferring?
 {1}正攜帶著多個物品，要將它們取下來嗎？
-{1} is holding an {2}. Would you like to take it before transferring?
-{1}正攜帶著{2}，要將其取下來嗎？
+{1} is holding {2} {3}. Would you like to take it before transferring?
+{1}正攜帶著{3}，要將其取下來嗎？
 Box "{1}" on the Pokémon Storage PC is a donation box.<<1>>
 精靈存儲電腦中的"{1}"箱是一個捐贈箱。<<1>>
 Box "{1}" on the Pokémon Storage PC was full.<<1>>
@@ -54310,7 +54287,7 @@ See the changelog for each species between the Old and New pokemon.txt files.
 查看每個物種在舊版和新版pokemon.txt文件之間的變更日誌。
 Generate changelog per generation
 按世代生成變更日誌
-Generate a species changelog per generation of Pokémon
+Generate a species changelog per generation of Pokemon
 按精靈世代生成物種變更日誌
 Generate dex doc
 生成圖鑑文檔
@@ -54330,13 +54307,13 @@ Evolves into {1} {2}
 進化為{1}{2}
 Find Text In Events
 在事件中查找文本
-Find events which have a peice of text in the params of their command list.
+Find events which have a piece of text in the params of their command list.
 查找命令列表參數中包含某段文本的事件。
 Results printed to console.
 結果已打印到控制檯。
 Replace Text In Events
 在事件中替換文本
-Find events which have a peice of text in the params of their command list, and replace them with a new string.
+Find events with a piece of text in their command params, replace with new string.
 查找命令列表參數中包含某段文本的事件，並用新字符串替換它們。
 Analyze item distribution
 分析物品分佈
@@ -54422,7 +54399,7 @@ Primeval moves information written to Analysis/primeval_moves.txt
 原初技能信息已寫入Analysis/primeval_moves.txt
 List held items
 列出攜帶物品
-List all items that the player's Pokémon can hold for use in battle.
+List all items that the player's Pokemon can hold for use in battle.
 列出玩家的精靈在戰鬥中可以攜帶的所有物品。
 Held item information written to Analysis/held_items.txt
 攜帶物品信息已寫入Analysis/held_items.txt
@@ -54434,7 +54411,7 @@ Held item information written to Analysis/held_items_super.txt
 攜帶物品信息已寫入Analysis/held_items_super.txt
 Count tribes
 統計族群
-Count how many Pokémon are in each tribe.
+Count how many pokemon are in each tribe.
 統計每個族群中有多少精靈。
 Output the tribes count to the console.
 將族群數量輸出到控制檯。
@@ -54916,18 +54893,18 @@ Generate a random new ID for the player.
 為玩家生成一個隨機的新ID。
 The player's ID was changed to {1} (full ID: {2}).
 玩家的ID被改為了{1}（完整ID：{2}）。
-Clear Pokédex
+Clear PokeDex
 清空精靈圖鑑
-Clear all data from the player's Pokédex.
+Clear all data from the player's pokedex.
 清除玩家精靈圖鑑中的所有數據。
-The Pokédex was cleared.
+The PokeDex was cleared.
 精靈圖鑑已被清空。
 Set Stage
 設置階段
 Set which Main Quest Stage the player is considered to be on.
 設置玩家被認為處於哪個主線任務階段。
-Changed the player's main quest stage to #{MainQuestTracker.getNiceNameForStageSymbol(MAIN_QUEST_STAGES.keys[stageCmd])}.
-將玩家的主線任務階段改為了#{MainQuestTracker.getNiceNameForStageSymbol(MAIN_QUEST_STAGES.keys[stageCmd])}。
+Changed the player's main quest stage to #{getMainQuestStages[getMainQuestStages.keys[stageCmd]][0]}.
+將玩家的主線任務階段改為了#{getMainQuestStages[getMainQuestStages.keys[stageCmd]][0]}。
 Add Pokémon
 添加精靈
 Give yourself a Pokémon of a chosen species/level. Goes to PC if party is full.
@@ -55514,7 +55491,7 @@ Tch, don't have one? They sell them in the castle courtyard. Diego's something o
 \wm<i>你彷彿感覺到已經收集到了足夠的光。</i>
 \wm<i>Your friend will be very pleased.</i>
 \wm<i>你的朋友一定會非常高興。</i>
-\wm<i>You should visit her in her very nice house.</i>
+\wm<i>You should visit her very nice house.</i>
 \wm<i>或許可以去漂亮的房子裡拜訪她。</i>
 \wm<i>You're getting close, now.</i>
 \wm<i>你就要成功了。</i>
@@ -55546,25 +55523,25 @@ Which section would you like to read?
 要閱讀哪一部分？
 Tapu Lele's ability "Flutter Totem" creates a "Cruel Cocoon" upon entry that only affects its side and lasts for 6 turns.
 卡璞·蝶蝶的特性“翩翩圖騰”，會在進入戰鬥時製造一個持續6回合，且隻影響己方的“殘酷之繭”。
-At the end of each turn, it heals Pokémon on its side by 1/8th of their max HP.
+At the end of each turn, it heals Pokemon on its side by 1/8th of their max HP.
 在每個回合結束時，它會恢復其同側精靈最大HP的1/8。
 However, they also lose 1 PP from each of their moves. Cruel indeed.
 但這也會讓所有技能的PP減小，這就是其殘酷的地方。
 Tapu Koko's ability "Storm Totem" creates a "Turbulent Sky" upon entry that only affects its side and lasts for 6 turns.
 卡璞·鳴鳴的特性“暴風圖騰”，會在進入戰鬥時製造一個持續6回合，且隻影響己方的“動盪之空”。
-Pokémon on its side get a 30% move damage boost, but they are prevented from using moves that are the same type as the move they most recently used.
+Pokemon on its side get a 30% move damage boost, but they are prevented from using moves that are the same type as the move they most recently used.
 其同側的精靈獲得30%的技能傷害增加，但他們無法使用與最近使用的技能相同屬性的技能。
 Or, to state it another way, they can't use the same move type twice in a row.
 只要上回合使用了某種屬性的技能，下回合同屬性就會被禁止。
 Tapu Bulu's ability "Wild Totem" creates a "Primal Forest" upon entry that only affects its side and lasts for 6 turns.
 卡璞·哞哞的特性“荒野圖騰”，會在進入戰鬥時製造一個持續6回合，且隻影響己方的“原始之森”。
-Whenever a Pokémon on its side is hit by an offensive attack, it becomes enraged.
+Whenever a Pokemon on its side is hit by an offensive attack, it becomes enraged.
 每當其同側的精靈被攻擊命中時，它會陷入狂暴狀態。
 Thereby, its defense stats are both lowered by 1 step and its attack stats are both raised by 1 step.
 這會使其減小自身的防禦和特防， 但增加自身的攻擊和特攻。
 Tapu Fini's ability "Fog Totem" creates a "Misdirecting Fog" upon entry that only affects its side and lasts for 6 turns.
 卡璞·鰭鰭的特性“迷霧圖騰”，會在進入戰鬥時製造一個持續6回合，且隻影響己方的“迷惑之霧”。
-Whenever a foe finishes attacking a Pokémon on its side, the attacker is forced to switch out of battle.
+Whenever a foe finishes attacking a Pokemon on its side, the attacker is forced to switch out of battle.
 每當敵方攻擊其同側的精靈後，攻擊者會被迫替換出戰鬥。
 Unlike moves such as Roar or Whirlwind, however, the trainer has enough time to select the replacement themselves.
 不過跟吼叫之類的技能不同，對方可以自行選擇要上場的精靈。
@@ -55592,7 +55569,7 @@ Hark! Brace yourself for a battle of wonder, where victory is uncertain!
 準備好迎接一場勝負未知的驚奇之戰吧！
 Well, well, well! Fancy a sparring session, with a dash of unpredictability?
 好，好，好！要不要來一場搏擊比賽？
-Hey, you! Up for a surprise Pokémon battle? Or are you too scared?
+Hey, you! Up for a surprise Pokemon battle? Or are you too scared?
 嘿，你！想來一場驚喜的精靈戰鬥嗎？還是你太害怕了？
 Champion, huh? You got the gumption to face my surprises?
 冠軍？哈哈哈！你有勇氣面對我帶來的驚喜嗎？
@@ -55654,7 +55631,7 @@ A loss? How unexpected! It's not like I meticulously planned for this scenario.
 輸了？真是...出乎意料！這不是我精心策劃的結果。
 Well, at least I lost in style.
 好吧，起碼輸得有模有樣。
-Hats off to you, my friend. You battled like a true Pokémon virtuoso.
+Hats off to you, my friend. You battled like a true Pokemon virtuoso.
 向你致敬，我的朋友。你就像一位真正的精靈大師一樣戰鬥。
 Bravo! Your battle strategy was truly a work of art.
 太棒了，你就是戰鬥的藝術家！
@@ -55738,21 +55715,19 @@ Hello, and welcome to the Starters Store!
 你好，歡迎來到初始商店！
 I'm the {1}-type starters salesperson!
 我是{1}屬性的初始專員！
-You can buy a {1}-type starter Pokémon from me if you have ${2} and a {3}.
+You can buy a {1}-type starter Pokemon from me if you have ${2} and a {3}.
 如果你有{2}金錢和一個{3}，你可以從我這裡購買一隻{1}屬性的初始精靈。
-You can buy a {1}-type starter Pokémon from me if you have a {2}.
+You can buy a {1}-type starter Pokemon from me if you have a {2}.
 如果你有一個{2}，你可以從我這裡購買一隻{1}屬性的初始精靈。
 I'm sorry, but it seems as though you don't have that much money.
 抱歉，你錢好像不太夠。
 I'm sorry, but it seems as though you don't have a {1}.
 抱歉，你沒有{1}。
-Which {1}-type starter Pokémon would you like to look at?
+Which {1}-type starter Pokemon would you like to look at?
 你想查看哪隻{1}屬性的初始精靈？
-Understood, please come back if there's a {1}-type starter Pokémon you'd like to purchase!
+Understood, please come back if there's a {1}-type starter Pokemon you'd like to purchase!
 明白了，請在你想購買{1}屬性的初始精靈時再回來！
-View MasterDex
-查看大師圖鑑
-Buy Pokémon
+Buy Pokemon
 購買精靈
 \PN handed over ${1} and a {2} in exchange.
 \PN交出了{1}金錢和一個{2}。
@@ -55768,7 +55743,7 @@ Error! Could not determine how to revive the given fossil.
 \PN交出了{1}和3000金錢。
 The procedure has started, now just to wait...
 正在啟動...
-It's done! Here is your newly revived Pokémon!
+It's done! Here is your newly revived Pokemon!
 完成了！這是你新復活的精靈！
 The fossils can't be the same!
 兩塊化石不能相同！
@@ -55804,7 +55779,7 @@ No need to thank me, its beauty is reward enough.
 不用謝我，美的誕生就是最好的報酬。
 The money isn't bad either...
 當然錢也不差...
-Ah, no suitable Pokémon exists within your collection?
+Ah, no suitable Pokemon exists within your collection?
 啊，你的收藏中沒有合適的精靈？
 Return to me if you encounter any in your travels.
 如果你在旅途中遇到問題了，請及時向我反饋。
@@ -55818,7 +55793,7 @@ Do you like anything you see?
 看上什麼東西了嗎？
 Ohoh! I'm honored that you would pay my store a visit, champion.
 哦吼，冠軍願意光臨，小店真是蓬蓽生輝啊。
-One-Stop Tech Shop, for all your electronic need.
+One-Stop Tech Shop, for all your electronic needs.
 如一維修，滿足你對電子產品的所有需求。
 Hurry and buy some.
 趕緊買買買吧。
@@ -55840,7 +55815,7 @@ Welcome to the Poké Ball Depot! How may I serve you?
 歡迎來到精靈球倉庫！有什麼我能幫忙的嗎？
 Custom Pokéballs, made to order! You won't find these in a mart!
 定製精靈球，僅此一家！這可是在商店裡買不到的！
-How can we help to empower your Pokémon?
+How can we help to empower your Pokemon?
 我們如何幫助增強你的精靈？
 Care to buy some of our extra berry harvest?
 想買一些額外的樹果嗎？
@@ -57898,7 +57873,7 @@ I'll buy.
 我買了。
 Harvest the golden fruit?
 要收穫金色果實嗎？
-Do Not Buy Tea
+Do not buy Tea
 不買
 Buy Tea
 買茶
@@ -58316,11 +58291,11 @@ What?
 什麼？
 Yeah, I've got a batch.
 我這裡有
-Ignore it.
+Ignore them.
 不理他。
 Make a funny face.
 做個鬼臉。
-Take its candy.
+Take their candy.
 搶走它的糖果。
 Huh?
 哈？
@@ -58545,20 +58520,20 @@ Charmer
 Deceiver
 欺詐之聲
 7
+Esoteric
+隱修之路
+8
 Fortune
 幸運之助
-8
+9
 Harmonic
 和聲之誠
-9
+10
 Industrious
 勤勉之手
-10
+11
 Loyal
 忠誠之心
-11
-Mystic
-隱修之路
 12
 Noble
 貴胄之血
@@ -58590,6 +58565,9 @@ Tyrannical
 Warrior
 猛士之勇
 22
+Mystic
+Mystic
+23
 Test Tribe
 測試部族
 [28]
@@ -58600,7 +58578,7 @@ Your team members take one third less damage from sources that aren't attacks.
 Your team members deal 20% more move damage after their first turn.
 全員從自身上場的第2回合開始，技能造成的傷害增加20%。
 2
-Your team deal 20% more move damage on their first turn out.
+Your team deals 20% more move damage on their first turn out.
 全員第1回合技能造成的傷害增加20%。
 3
 Your team's 'Not Very Effective' or 'Barely Effective' moves deal 50% more damage.
@@ -58612,23 +58590,23 @@ Your team members heal for 1/10th HP when swapping out. Your Aid Kit heals for 2
 Your team takes 20% less move damage on the turns they enter.
 全員剛上場的回合受到的技能傷害減小20%。
 6
-Enemy trainers majorly overestimate how much damage their moves do.
-對方訓練師會嚴重高估技能造成的傷害。
+Your team deals 15% more move damage with attacks that don't share a type with their species.
+Your team deals 15% more move damage with attacks that don't share a type with their species.
 7
-Your team members' moves have a +30% chance to activate their moves' additional effects.
-技能觸發附加效果的概率增加30%。
-8
-Your team takes 10% less move damage.
-全員減小10%受到的技能傷害。
-9
-You gain 10% more money from battles. If you have more than $100,000, your team gets a boost to Attack, Defense, Sp. Atk, and Sp. Def (before modifiers). This bonus scales with the level cap and is currently {b1}.
-戰鬥得金錢加10%。擁有的金錢超100,000，雙攻和雙防會增加。與等級上限相關，目前{b1}。
-10
-Your team members gain 10% more EXP in battles. They also get a small boost to Attack, Defense, Sp. Atk, and Sp. Def (before modifiers). This bonus scales with the level cap and is currently {b}.
-戰鬥獲得額外10%經驗，小幅度增加雙攻和雙防。與等級上限相關，目前為{b}。
-11
 Whenever a member of your team uses a status move, they'll deal 25% more move damage next turn.
 精靈使用變化類技能後，下回合技能造成的傷害增加25%。
+8
+Your team members' moves have a +30% chance to activate their additional effects.
+技能觸發附加效果的概率增加30%。
+9
+Your team takes 10% less move damage.
+全員減小10%受到的技能傷害。
+10
+You gain 10% more money and coins in battles. If you have more than $100,000, your team gets a boost to Attack, Defense, Sp. Atk, and Sp. Def (before modifiers). This bonus scales with the level cap and is currently {b1}.
+戰鬥得金錢加10%。擁有的金錢超100,000，雙攻和雙防會增加。與等級上限相關，目前{b1}。
+11
+Your team members gain 10% more EXP in battles. They also get a small boost to Attack, Defense, Sp. Atk, and Sp. Def (before modifiers). This bonus scales with the level cap and is currently {b}.
+戰鬥獲得額外10%經驗，小幅度增加雙攻和雙防。與等級上限相關，目前為{b}。
 12
 Your team members take 15% less move damage if they're using a status move this turn.
 精靈使用變化類技能的回合，減小15%受到的技能傷害。
@@ -58636,8 +58614,8 @@ Your team members take 15% less move damage if they're using a status move this 
 Your team has 30% increased Sp. Def. Foes can't lower your team's Sp. Def.
 全員獲得30%額外特防，且特防不會減小。
 14
-Your team members berries heal them for 25% more (multiplicative) and their gem-boosted attacks deal 25% more damage (multiplicative).
-攜帶樹果的效果增加25%，寶石造成的傷害增加25%。
+Your team members' berries heal them for 50% more (multiplicative) and their gem-boosted attacks deal 25% more damage (multiplicative).
+攜帶樹果的效果增加50%，寶石造成的傷害增加25%。
 15
 Your able party members and battlers heal for 1/10th HP whenever a foe faints.
 對方失去戰鬥力時，恢復10%HP。
@@ -58645,20 +58623,20 @@ Your able party members and battlers heal for 1/10th HP whenever a foe faints.
 Your team has 30% increased Defense. Foes can't lower your team's Defense.
 全員的物防增加30%，且物防不會減小。
 17
-Enemy Pokemon's chance to activate their additional effects against your team members is halved.
+Effects placed by your Pokémon last 50% longer (rounded down).
 對方技能造成額外效果的概率減半。
 18
 Your team has 15% increased Speed.
 使用攻擊技能的回合，減小15%受到的傷害。
 19
-Your Pokemon deal 15% more damage to targets that haven’t moved yet this turn. Your priority attacks and priority status moves have doubled PP.
-對於還沒有行動的對手的傷害增加15%。先制技能需要多消耗1點PP。
+Your Pokémon deal 15% more damage to targets that haven’t moved yet this turn. Your priority attacks and priority status moves have doubled PP.
+Your Pokémon deal 15% more damage to targets that haven’t moved yet this turn. Your priority attacks and priority status moves have doubled PP.
 20
-Ignore the first time each battle that one of your team members would flinch or get a status condition.
+Ignore the first time each battle that one of your team members would flinch or get a non-volatile status condition.
 每場戰鬥免疫1次異常狀態或畏縮。
 21
-Your team members take 15% less move damage if they're using an attack this turn.
-全員“效果拔群”的技能增加15%傷害。
+Your team members take 15% less move damage if they choose an attack this turn.
+Your team members take 15% less move damage if they choose an attack this turn.
 22
 This tribe exists to test the PBS extensions system
 此部族用於測試PBS擴展系統。
@@ -59075,7 +59053,7 @@ Whimsical
 Witty
 幽默風趣
 137
-Test Trait
+Experimental
 測試性情
 [30]
 0
@@ -59244,7 +59222,7 @@ Coffee
 Iced Lattes
 冰拿鐵
 55
-Hot Cocao
+Hot Cocoa
 熱可可
 56
 Chocolate Milk
@@ -60317,9 +60295,9 @@ Burnt Up
 燃盡
 Dried Out
 乾涸
-Charged
+Energized
 充電
-Charge Expended
+Energy Expended
 耗盡電荷
 Choice Locked
 選擇鎖定
@@ -60531,7 +60509,7 @@ Telekinesis Turns
 心靈感應回合
 Throat Injured Turns
 喉嚨受傷回合
-Blade Disarming Turns
+Slice Disarming Turns
 刀片解除武裝回合
 Tormented
 折磨
@@ -60545,7 +60523,7 @@ Trapping Move
 陷阱技能
 Trapped By
 被困住
-Constricted Turns
+Binding Turns
 被捆綁回合數
 Not Slacking Off
 沒有偷懶
@@ -61019,7 +60997,7 @@ Connect all Avatar Totems.
 點亮所有化身圖騰。
 Defeat all 7 former Makyan champions.
 擊敗7位馬凱亞前冠軍。
-After being crowned champion, defeat Pokémon Master Vanya with a full team of genderless Pokémon.
+Defeat Pokémon Master Vanya with a full team of genderless Pokémon.
 成為冠軍後，使用一支全員無性別的隊伍打敗凡雅。
 Complete a full attempt of the Battle Monument (5 battles won).
 完成一次完整的對戰紀念碑。
