@@ -7305,7 +7305,7 @@ Leyendo los pedazos de papel que encontraste, insertas el código en los candado
 After a bit of jostling, the lock opens!
 Luego de un poco de forcejeo, ¡El candado se abre!
 It takes eight digits, but with enough finagling you'd be able to open it with just <imp>four</imp>.
-Necesita ocho dígitos, pero con suficiente forcejeo podrías abrirlo con sólo <imp>cuatro</imp>.
+Necesita ocho dígitos, pero con suficiente forcejeo podrías abrirlo con solo <imp>cuatro</imp>.
 Oh, heya.
 Oh, hola.
 So... I'm a gym leader now. I guess.
