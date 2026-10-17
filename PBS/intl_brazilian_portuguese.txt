@@ -64700,7 +64700,7 @@ Your Pokémon deal 15% more damage to targets that haven’t moved yet this turn
 Seus Pokémon causam 15% mais dano a alvos que não se moveram ainda neste turno. Seus movimentos de Prioridade têm seus PP dobrados.
 20
 Ignore the first time each battle that one of your team members would flinch or get a non-volatile status condition.
-Igora a primeira vez na batalha que um de seus membros da equipe Hesitaria ou ganharia uma Condição De Status.
+Ignora a primeira vez na batalha que um de seus membros da equipe Hesitaria ou ganharia uma Condição De Status.
 21
 Your team members take 15% less move damage if they choose an attack this turn.
 Os membros da sua equipe levam 15% menos dano se eles escolheram atacar neste turno.
