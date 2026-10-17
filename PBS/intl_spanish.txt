@@ -21620,7 +21620,7 @@ Son los momentos destacados de tu anterior combate.
 Over top, the casters share their surprise about your upset victory.
 Arriba de eso, los presentadores comparten su sorpresa sobre tu inesperada victoria.
 Fans are being interviewed about if they are rooting for you or your brother.
-Los fans están siendo entrevistados sobre si te apoyan a tí o a tu hermano.
+Los fans están siendo entrevistados sobre si te apoyan a ti o a tu hermano.
 The more casual fans are put off by Zain's personality, and so choose you by default.
 A los fans más casuales no les agrada la personalidad de Zain, así que te eligen a ti por default.
 In general people don't seem to know much about you.
