@@ -38314,7 +38314,7 @@ El usuario se impone al objetivo con una gran presencia, disminuyendo su stat m�
 Attacks all foes with dormant draconic energy. Power increases by 50% in eclipse.
 Ataca a todos los rivales con energía dracónica latente. Es potenciado un 50% en eclipse.
 The user sprays the target with a shrinking liquid. For the next three turns, the target's highest stat will be lowered by two steps.
-El usuario rocía al objetivo con un extraño líquido reductor. Durante los siguientes tres turnos, la stat más alta del objetivo será reducida dos grados. 
+El usuario rocía al objetivo con un extraño líquido reductor. Durante los siguientes tres turnos, la stat más alta del objetivo será reducida dos grados.
 The user makes an offering, then multi-hits two to five times. Scatters coins for each hit.
 El usuario hace una ofrenda, luego atacando entre dos a cinco veces. Esparce dinero luego de cada golpe.
 The user whips up a tornado to tear at the target. It has a 40% chance to flinch the target.
@@ -58553,7 +58553,7 @@ Encontraste a Rafael al sureste de Velenz, debajo de una escalera. Para desbloqu
 Defeat Velenz Gym
 Vence al Gimnasio de Velenz
 Defeat Rafael, leader of Velenz Gym. Velenz is west of Repora Forest. He can be found down a ladder in the south-east part of the town.
-Vence a Rafael, líder del Gimnasio de Velenz. Velenz está al oeste del Bosque Repora. Puede ser encontrado por una escalera al sureste del pueblo. 
+Vence a Rafael, líder del Gimnasio de Velenz. Velenz está al oeste del Bosque Repora. Puede ser encontrado por una escalera al sureste del pueblo.
 Defend Grouz from the Avatar!
 ¡Defiende a Grouz del Avatar!
 Professor Tamarind called, informing you of an Avatar of Titanix which is rampaging in the Grouz Mine Yard. She's promised a reward if you can defeat the Avatar.
@@ -66337,14 +66337,18 @@ Ropa Formal
 Code Errors
 Code Errors
 [32]
+Juggling Thrown
+Juggling Thrown
+Juggling Caught
+Juggling Caught
 Aqua Ring
 Acua Aro
-Attract
-Atracción
 Beak Blast
 Pico Cañón
-Condensate
-Condensar
+Shard Surge
+Aro de Fragmentos
+Cold Snap
+Cold Snap
 Bide Turns
 Turnos Venganza
 Bide Damage
@@ -66353,26 +66357,56 @@ Bide Target
 Objetivo Venganza
 Burnt Up
 Post-Llama Final
+Sublimated
+Sublimado
 Dried Out
 Seco
-Charged
-Cargado
-Charge Expended
-Carga Usada
+Energized
+Energizado
+Energy Expended
+Energia Usada
 Choice Locked
 Objeto Elección
-Confusion Turns
-Turnos Confusión
 Counter Damage
 Daño Contraataque
 Counter Target
 Objetivo Contraataque
 Curse-Warned
 Advertencia-Maldición
+Numb-Warned
+Numb-Warned
+Poison-Warned
+Poison-Warned
+Burn-Warned
+Burn-Warned
+Frost-Warned
+Frost-Warned
+Dizzy-Warned
+Dizzy-Warned
+Leech-Warned
+Leech-Warned
+Waterlog-Warned
+Waterlog-Warned
 Cursed
 Maldito
+Pharoah's Curse
+Maldición Faraónica
 Dancer
 Pareja de Baile
+Echo
+Eco
+MartialDiscipline
+DisciplinaMarcial
+Snorer
+Roncador
+LoudSleeper
+Ronquido Constante
+FrigidReflection
+Reflección Frígida
+GutPunch
+GutPunch
+Spray and Pray
+Bombardeo Masivo
 Curled Up
 Rizo Guardia
 Destiny Bond
@@ -66394,11 +66428,13 @@ Turnos Otra Vez
 Must Use
 Debe Usar
 Endure
-Otra Vez
+Endure
 Fight Forever
 Lucha Eterna
 First Pledge
 Primer Voto
+Flinch Next Turn
+Flinch Next Turn
 Flinch
 Amedrentado
 Crit Chance Up
@@ -66407,7 +66443,7 @@ Focus Punch
 Puño Certero
 Follow Me
 Señuleo
-Ability Supressed
+Ability Surpressed
 Habilidad Suprimida
 Gem Consumed
 Gema Consumida
@@ -66417,6 +66453,12 @@ Skill Herb Consumed
 Hierba Ajuste Consumida
 Luck Herb Consumed
 Hierba Suerte Consumida
+Mirror Herb Consumed
+Hierba Copia consumida
+Mirror Herb Copied Stats
+Hierba Copia Stats Copiadas
+Paradox Herb Consumed
+Hierba Paradoja Consumida
 Grudge
 Rabia
 Healing Blocked
@@ -66436,9 +66478,13 @@ Atado A
 Illusion
 Ilusión
 Moves Imprisoned
-MovimientoS Sellados
+Movimientos Sellados
 Ingrained
 Arraigado
+Cannot Escape
+No Puede Escapar
+Evil Roots
+Raíces Malvadas
 Deeply Ingrained
 Fuertemente Arraigado
 Instruct
@@ -66452,15 +66498,15 @@ Sembrado
 Locked On
 Fijando Blanco
 Locked On To
-Fijando Blanco A  
+Fijando Blanco A
 Magic Bounce
 Espejo Mágico
 Magic Coat
 Capa Mágica
+Primeval Magic Coat
+Capa Mágica Primitiva
 Magnet Risen
 Levitón
-Cannot Escape
-No Puede Escapar
 Marked for Death
 Marca Mortal
 Imprisoned in ice
@@ -66485,8 +66531,16 @@ Nightmared
 En Pesadilla
 Rampage Turns
 Turnos Arrasando
+Will Faint After Rampage
+Will Faint After Rampage
+Rampage Locked
+Rampage Locked
+Uproar Turns
+Turnos Alboroto
 Parental Bond
 Amor Filial
+Diffraction
+Difracción
 Perish Song Turns
 Turnos Canto Mortal
 Pickup Item
@@ -66523,8 +66577,6 @@ Pursuit
 Persecución
 Quash
 Último Lugar
-Rage
-Furia
 Roosting
 Respiro
 Shell Trap
@@ -66543,20 +66595,22 @@ Spotlight
 Foco
 Stockpile Charges
 Cargas Reserva
-Stockpile Def
-Def Reserva
-Stockpile Sp Def
-Def Es. Reserva
 Substitute Health
 Salud del Sustituto
 Taunted Turns
 Turnos en Mofa
 Barred Turns
 Turnos en Veto
+Type Restricted
+Type Restricted
+Type Restricted Turns
+Type Restricted Turns
 Telekinesis Turns
 Turnos en Telekinesis
 Throat Injured Turns
 Turnos con Golpe Mordaza
+Slice Disarming Turns
+Slice Disarming Turns
 Tormented
 Atormentado
 Transformed
@@ -66567,30 +66621,32 @@ Trapping Turns
 Turnos Atrapando
 Trapping Move
 Movimientos Atrapando
+Trapping Ability
+Trapping Ability
 Trapped By
 Atrapado por
+Binding Turns
+Binding Turns
 Not Slacking Off
 No Relajándose
 Two Turn Attack
 Ataque Dos Turnos
+Sensed By
+Sensed By
 Added Type
 Tipo Añadido
 Item Lost
 Objetio Perdido
-Uproar Turns
-Turnos Alboroto
 Weight Changed
 Camibios en Peso
-Weight Doubled
-Peso Duplicado
 Weight Halved
 Mitad de Peso
 Drowsy
 Adormecido
 Choice Locking
 Objeto Elección
-BallFetch
-BallFetch
+Stats Raised
+Stats Aumentadas
 Stats Dropped
 Stats Disminuidas
 Burning Jealousy
@@ -66613,20 +66669,16 @@ Chose Status
 Eligió Estado
 Chose Attack
 Eligió Ataque
+Transformed Type
+Transformed Type
 Assisting
 Asistiendo
 Confusion Chance
 Chance de Confusión
 Flinch Immune
 Inmune a ser Amedrentado
-Ignores Added Effects
-Ignora Efectos Secundarios
-Sublimate
-Sublimado
 Weak to Bug
 Débil a Bicho
-Added Crit Chance
-Índice Crítico Aumentado
 Charm Turns
 Turnos Encanto
 Charm Chance
@@ -66653,6 +66705,12 @@ Venom Guard
 Guardia Venenoso
 Root Shelter
 Refugio Forestal
+Floodgate
+Esclusa
+Red-Hot Retreat
+Caparazón Incandescente
+Ice-Nine Wall
+Coraza Témpano
 Extra Turns
 Turnos Extra
 Extra Turn
@@ -66671,22 +66729,14 @@ Carrying
 Llevando
 Riding Dragon
 Montando Dragón
-Maestro
-Maestro
-GaleWings
-Alas Vendaval
-Trench Carver
-Nato en la Fosa
-Swift Stomps
-Pisada Rauda
+Move Speed Doubled
+Velocidad Duplicada
 Shimmering Heat
 Tormenta de Hollín
 Flare Witch
 Fulgor Embrujado
 Halving Damage Turns
 Turnos con Mitad de Daño
-Echo
-Eco
 Eroding
 Erosionando
 Total Focus
@@ -66695,6 +66745,10 @@ Indestructible
 Indestructible
 Swapping to Cushion
 Cambiando a Aliado
+Hit and Run Switch
+Hit and Run Switch
+Selected for Misdirecting Fog Switch
+Selected for Misdirecting Fog Switch
 Exhaustion
 Agotamiento
 Protect Will Fail
@@ -66711,30 +66765,84 @@ Reverb Ward
 Muro Especial
 Baneful Bunker
 Búnker
-Red-Hot Retreat
-Caparazón Incandescente
-Icicle Armor
-Coraza Tépano
 Spiky Shield
 Barrera Espinosa
 Mirror Shield
 Escudo Reflejante
 Cranial Guard
 Guardia Craneal
-Volatile Toxin
-Toxina Volatil
+Heliopause
+Heliopause
 Switched In
 Entrando al Campo
 Mutated
 Mutado
 Delayed Reaction
 Reacción Tardía
+Delayed Damage
+Delayed Damage
 Bubble Barrier
 Barrera Burbuga
 Chewing Berry
 Masticando Baya
 Auto-Pilot
 Auto-Piloto
+Last Gasp
+Aliento Final
+Jinxed
+Jinxed
+Fractured
+Fracturado
+Shrinking
+Reducción
+Eroding Foam
+Espuma Corrosiva
+Sugar Rush
+Subidón de Azúcar
+Blinded
+Cegado
+Refuge
+Refugio
+Frozen Sculpture
+Frozen Sculpture
+Collecting Colors
+Collecting Colors
+Trailing Rainbows
+Rastro de Arcoíris
+Trailing Rainbows Deletes Fire
+Trailing Rainbows Deletes Fire
+Tangling Vines
+Lianas Rebeldes
+No Time Skip
+No Time Skip
+Action Star
+Estrella de Acción
+Feather Charm Force Switch
+Feather Charm Force Switch
+Under Quarantine
+En Cuarentena
+Quarantined by
+Quarantined by
+Bypass Exhaustion
+Bypass Exhaustion
+Hit This Turn
+Hit This Turn
+Incoming Damage Turns
+Incoming Damage Turns
+Incoming Damage Amount
+Incoming Damage Amount
+Extra Hiding Turn
+Extra Hiding Turn
+Sprig Horn First Hit
+Sprig Horn First Hit
+Scythe Horn First Hit
+Scythe Horn First Hit
+Sword Horn First Hit
+Sword Horn First Hit
+Fleeting Footwork
+Danza Frugal
+Battle-Hardened
+Endurecido en Combate
 Amulet Coin
 Moneda Amuleto
 Fairy Lock
@@ -66745,18 +66853,18 @@ Fusion Flare
 Llama Fusión
 Gravity Turns
 Turnos Gravedad
-Happy Hour
-Paga Extra
+Intense Gravity
+Intense Gravity
 Ion Deluge
 Aluvión de Iones
-Money Dropped
-Moneda Soltada
-Fortune
-Fortuna
+Hard Worker
+Hard Worker
+Treasure Tracker
+Busca-tesoros
 Neutralizing Gas
 Gas Reactivo
-Trick Room
-Zona Rara
+Trickster's Domain
+Trickster's Domain
 Puzzle Room
 Zona Enigmática
 Odd Room
@@ -66775,16 +66883,26 @@ Bliss
 Alegría
 Floral Gramarye
 Gramarye Floral
+Slumbering Shield Ready
+Slumbering Shield Ready
+Slumbering Sword Ready
+Slumbering Sword Ready
+Rusted Shield Dropped
+Rusted Shield Dropped
+Rusted Sword Dropped
+Rusted Sword Dropped
+Pokémon Entered
+Pokémon Entered
 Turns Till Move
 Turnos Hasta Movimiento
-Incoming Move
-Movimiento Venidero
+Incoming
+Incoming
 Foretold Move User Index
 Usuario Movimiento Predicho
 Foretold Move User Party Index
 Equipo Usuario Movimiento Predicho
-Incoming Move Type
-Tipo de Movimiento Venidero
+Incoming Type
+Incoming Type
 Healing Wish
 Deseo Cura
 Lunar Dance
@@ -66793,20 +66911,28 @@ Turns Till Wish
 Turnos Hasta Deseo
 Wish Heal Amount
 Cantidad Curación Deseo
-Wish Maker
-Usuario de Deseo
-Refuge
-Refugio
+Wish Maker User Index
+Wish Maker User Index
+Wish Maker Party Index
+Wish Maker Party Index
 PassingAbility
 HabilidadPasada
 PassingStats
 StatsPasados
+PassingKO
+PassingKO
 Kickback
 Escudo Aliado
 Kickback Amount
 Cantidad Escudo Aliado
-Gauss Aftershock
-Repercusión de Gauss 
+Storm Trail
+Tormenta Venidera
+Mist Trail
+Rastro de Niebla
+Magma Trail
+Rastro de Lava
+Stormshards
+Tempestad Pétrea
 Echoed Voice Counter
 Contador Eco Voz
 Echoed Voice Used
@@ -66827,8 +66953,10 @@ Mist
 Niebla
 Safeguard
 Velo Sagrado
-Diamond Field
-Campo de Diamantes
+Sanctuary
+Sanctuary
+Natural Protection
+Protección Natural
 Crafty Shield
 Truco Defensa
 Mat Block
@@ -66837,8 +66965,6 @@ Quick Guard
 Anticipo
 Wide Guard
 Vastaguardia
-Quarantine
-Cuarentena
 Rainbow Turns
 Turnos Arcoíris
 Sea of Fire Turns
@@ -66847,6 +66973,8 @@ Swamp Turns
 Turnos Pantano
 Spikes
 Púas
+Spikes Removed
+Púas Removidas
 Poison Spikes
 Púas Venenosas
 Flame Spikes
@@ -66857,6 +66985,8 @@ Stealth Rock
 Trampa Rocas
 Feather Ward
 Espinas Aladas
+Live Wire
+Cable Vivo
 Sticky Web
 Red Viscosa
 Misdirecting Fog
@@ -66867,12 +66997,40 @@ Cruel Cocoon
 Crisálida Cruel
 Turbulent Sky
 Cielo Turbulento
+Spring Plantings
+Siembras de Primavera
+Summer Festivals
+Festividades de Verano
+Festivals' End
+Festivals' End
+Autumn Harvests
+Cosechas de Otoño
+Winter Hunts
+Cazas de Invierno
+Hunts' End
+Hunts' End
+Feathers Dropped
+Feathers Dropped
+Scales Dropped
+Scales Dropped
+Fangs Dropped
+Fangs Dropped
+Scutes Dropped
+Scutes Dropped
 Last Round Fainted
 Debilitado Última Ronda
 Spent Tyrannical Immunity
 Inmunidad Tiránico Gastada
+Hero's Journey - KO
+Hero's Journey - KO
+Hero's Journey - Revenge
+Hero's Journey - Revenge
+Hero's Journey - Status
+Hero's Journey - Status
 Tailwind Turns
 Turnos de Viento Afín
+Primeval Tailwind
+Primeval Tailwind
 Items Supressed
 Objetos Suprimidos
 Bulwark
@@ -66883,25 +67041,14 @@ Perennial Payload
 Munición Perenne
 Traumatized
 Traumatizado
-[32]
-Ability Surpressed
-Habilidad Suprimida
-Mirror Herb Consumed
-Hierba Copia consumida
-Mirror Herb Copied Stats
-Hierba Copia Stats Copiadas
-Paradox Herb Consumed
-Hierba Paradoja Consumida
-Move Speed Doubled
-Velocidad Duplicada
-Indestructible
-Indestructible
-Last Gasp
-Aliento Final
-Natural Protection
-Protección Natural
-Spikes Removed
-Púas Removidas
+Money Dropped
+Money Dropped
+Wishing Well
+Fuente de los Deseos
+Turns Until Freeze
+Turns Until Freeze
+Coral Overgrowth
+Coral Exuberante
 [33]
 Crowning Achievement
 Coronación
