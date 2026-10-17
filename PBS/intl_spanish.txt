@@ -50865,7 +50865,7 @@ Un símbolo muestra cuál de tus combatientes el Avatar quiere atacar. Sin embar
 Empowered Moves
 Movimientos Empoderados.
 Some Avatars have Empowered attacks, which are powered-up versions of other attacks. They take up both of an Avatar's moves on that turn.
-Algunos Avatares tienen ataques Empoderos, versiones más fuertes de otros ataques. Estos usan los dos movimientos del Avatar en ese turno.
+Algunos Avatares tienen ataques Empoderados, versiones más fuertes de otros ataques. Estos usan los dos movimientos del Avatar en ese turno.
 Experience Reward
 Recompensa de Experiencia
 When an Avatar is destroyed, every Pokémon on your team is given experience, even those that are fainted.
