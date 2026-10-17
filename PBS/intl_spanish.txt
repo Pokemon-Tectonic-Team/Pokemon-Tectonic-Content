@@ -18765,7 +18765,7 @@ Soy el capataz en guardia, y creo que deberías hablar con el otro aquí.
 Have you ever been teleported by a Pokemon before?
 ¿Has sido teletransportado por un Pokémon antes?
 Clefable, away!
-Clefable, away!
+¡Clefable, fuera!
 I vomit every time I teleport, but it gets me out of a lot of awkward conversations. Important for business.
 Vomito cada vez que me teletransporto, pero me saca de un montón de conversaciones incómodas. Importante para el trabajo.
 You have no idea how many times I've teleported away from family dinners.
