@@ -40700,8 +40700,8 @@ An item to be held by a Pokémon. It doubles the duration of Rooms created by th
 Equipável. Dobra a duração de Salas criadas pelo portador.
 A held item that doubles the duration of binding moves and abilities.
 Um equipável que dobra a duração de movimentos e habilidades que causam aprisionamento.
-A held item. It makes multi-hit attacks consistently hit 4 or 5 times.
-Equipável. Faz ataques multi-acerto sempre acertarem 4 ou 5 vezes.
+A held item. It makes "two to five" multi-hit attacks consistently hit 4 or 5 times.
+Equipável. Faz ataques multi-acerto que acertam "duas a cinco vezes" sempre acertarem 4 ou 5 vezes.
 A held item. The user gets both of its legal abilities, but its stats are cut by 10%.
 Equipável. O portador ganha suas duas habilidades lícitas, mas seus atributos são cortados em 10%.
 A held item. Signature attacks made by the holder are boosted by 40%.
