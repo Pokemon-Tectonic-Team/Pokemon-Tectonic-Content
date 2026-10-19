@@ -33877,7 +33877,7 @@ Acid
 Acid Spray
 Spray Ácido
 Belch
-Belch
+Eructação
 Clear Smog
 Clear Smog
 Coil
@@ -33911,9 +33911,9 @@ Venom Drench
 Venoshock
 Venoshock
 Bonemerang
-Bonemerang
+Ossomerangue
 Bulldoze
-Bulldoze
+Tremor
 Dig
 Dig
 Drill Run
@@ -33977,9 +33977,9 @@ Tar Shot
 Wide Guard
 Wide Guard
 Bug Bite
-Bug Bite
+Picada
 Bug Buzz
-Bug Buzz
+Zumbido
 Defend Order
 Defend Order
 Fell Stinger
@@ -34067,11 +34067,11 @@ Will-O-Wisp
 Autotomize
 Autotomia
 Behemoth Bash
-Behemoth Bash
+Pancada Colossal
 Behemoth Blade
-Behemoth Blade
+Espada Colossal
 Bullet Punch
-Bullet Punch
+Soco Projétil
 Doom Desire
 Doom Desire
 Double Iron Bash
@@ -34113,13 +34113,13 @@ Sunsteel Strike
 Swords Dance
 Swords Dance
 Blast Burn
-Blast Burn
+Explosão Ardente
 Blaze Kick
-Blaze Kick
+Chute Labareda
 Burning Jealousy
 Burning Jealousy
 Burn Up
-Burn Up
+Chama Final
 Ember
 Ember
 Eruption
@@ -34171,11 +34171,11 @@ V-create
 Aqua Jet
 Jato D'Água
 Brine
-Brine
+Salmoura
 Bubble
-Bubble
+Bolhas
 Bubble Beam
-Bubble Beam
+Jato De Bolhas
 Clamp
 Clamp
 Dive
@@ -34225,7 +34225,7 @@ Absorver
 Aromatherapy
 Aromaterapia
 Bullet Seed
-Bullet Seed
+Rajada De Sementes
 Chloroblast
 Chloroblast
 Cotton Guard
@@ -34283,7 +34283,7 @@ Vine Whip
 Wood Hammer
 Wood Hammer
 Bolt Beak
-Bolt Beak
+Bico-Raio
 Charge
 Charge
 Charge Beam
@@ -34395,7 +34395,7 @@ Raio Aurora
 Aurora Veil
 Véu De Aurora
 Blizzard
-Blizzard
+Nevasca
 Frost Breath
 Frost Breath
 Glacial Lance
@@ -34417,7 +34417,7 @@ Icy Wind
 Powder Snow
 Powder Snow
 Breaking Swipe
-Breaking Swipe
+Impacto Vasto
 Clangorous Soul
 Clangorous Soul
 Core Enforcer
@@ -34455,11 +34455,11 @@ Twister
 Assurance
 Asseveração
 Beat Up
-Beat Up
+Espancar
 Bite
-Bite
+Mordida
 Brutal Swing
-Brutal Swing
+Balanço Violento
 Ceaseless Edge
 Ceaseless Edge
 Confide
@@ -34575,9 +34575,9 @@ Mira Inabalável
 Bare Teeth
 Mostrar Dentes
 Bedfellows
-Bedfellows
+Companheiros De Cama
 Butting Heads
-Butting Heads
+Marrada Marrenta
 Center
 Center
 Cha-ching
@@ -34699,15 +34699,15 @@ Tempestade De Aura
 Bar
 Inibir
 Bear Hug
-Bear Hug
+Abraço De Urso
 Breakdance
 Breakdance
 Built Different
-Built Different
+É Hora Do Show
 Bulwark
-Bulwark
+Muralha
 Burst Haymaker
-Burst Haymaker
+Bordoada Violenta
 Capoeira
 Capoeira
 Columnar Pin
@@ -34755,11 +34755,11 @@ Mergulho Aéreo
 Atmospheric Burst
 Estouro Atmosférico
 Bird's-Eye View
-Bird's-Eye View
+Vista Aérea
 Bluster
-Bluster
+Turbulência
 Boreal Wind
-Boreal Wind
+Vento Boreal
 Classical Physics
 Classical Physics
 Cold Front
@@ -34817,9 +34817,9 @@ Banho Ácido
 Acid Breach
 Rompimento Ácido
 Battery Acid
-Battery Acid
+Ácido De Bateria
 Blight
-Blight
+Infectar
 Clump Up
 Clump Up
 Dissolution
@@ -34923,9 +34923,9 @@ Vent
 Adamantine Press
 Prensa Adamantina
 Bedrock Breaker
-Bedrock Breaker
+Moedor De Matriz
 Blunt Force
-Blunt Force
+Contundir
 Cranial Guard
 Cranial Guard
 Crystal Gleam
@@ -34953,7 +34953,7 @@ Luna Sucre
 Megalith Rite
 Megalith Rite
 Monolith Drop
-Monolith Drop
+Colapso Monolítico
 Omnishelter
 Omnishelter
 Petrify
@@ -34995,9 +34995,9 @@ Agonizar
 Allergy
 Alergia
 Bio Flash
-Bio Flash
+Bioluminescência
 Burrow Blitz
-Burrow Blitz
+Ímpeto Da Colônia
 Carapace Crush
 Carapace Crush
 Clackaclack
@@ -35067,7 +35067,7 @@ Arco Da Aliança
 Astral Shift
 Deslocamento Astral
 Bind Fate
-Bind Fate
+Maldição Infame
 Cold Shoulder
 Cold Shoulder
 Critical Error
@@ -35143,7 +35143,7 @@ Wraith Wrath
 All For One
 Todos Por Um
 Bullet Charge
-Bullet Charge
+Bala De Canhão
 Cavalry Charge
 Cavalry Charge
 Everhone
@@ -35221,9 +35221,9 @@ Weld
 Absolute Radiance
 Absoluta Radiância
 Blazing Speed
-Blazing Speed
+Investida Ígnea
 Broil
-Broil
+Torrar
 Cleansing Flames
 Cleansing Flames
 Crimson Storm
@@ -35303,13 +35303,13 @@ Dilúvio Arqueano
 As Crystal
 Como Cristal
 Breach
-Breach
+Emergir
 Bubble Barrage
-Bubble Barrage
+Saraivada De Bolhas
 Bubble Barrier
-Bubble Barrier
+Bolha-Barreira
 Bubble Blaster
-Bubble Blaster
+Canhão De Bolhas
 Cavitation
 Cavitation
 Drag Beneath
@@ -35389,11 +35389,11 @@ Anestesiar
 Autumn Blast
 Rajada Outonal
 Blades of Grass
-Blades of Grass
+Folhas De Grama
 Blossom
-Blossom
+Florescer
 Breathe Life
-Breathe Life
+Trazer À Vida
 Camouflage
 Camouflage
 Coco Drop
@@ -35467,7 +35467,7 @@ Lâmpada Sinuosa
 Bad Ending
 Final Ruim
 Beam Struggle
-Beam Struggle
+Confronto Energético
 Capacity Burst
 Capacity Burst
 Current Crash
@@ -35549,9 +35549,9 @@ Partícula Aberrante
 Anatman
 Anatman
 Blind Side
-Blind Side
+Ponto Cego
 Brain Freeze
-Brain Freeze
+Congela-Mentes
 Censor
 Censor
 Core Collapse
@@ -35721,9 +35721,9 @@ Arquemito
 Axe to Grind
 Fúria Cortante
 Bitter Bile
-Bitter Bile
+Bile Amarga
 Calamitous Slash
-Calamitous Slash
+Talho Calamitoso
 Carnage
 Carnage
 Chow Down
@@ -35789,11 +35789,11 @@ Sarcasmo
 Bad Blood
 Rancor
 Black Hole
-Black Hole
+Buraco Negro
 Blackout
-Blackout
+Apagão
 Browbeat
-Browbeat
+Amedrontar
 Call of the Void
 Call of the Void
 Caltrop Arts
@@ -35881,9 +35881,9 @@ Melodia Nefasta
 Bash and Borrow
 Agora É Meu
 Bed Time
-Bed Time
+Hora De Dormir
 Bucket Drop
-Bucket Drop
+Derrubalda
 Charity
 Charity
 Coral Overgrowth
@@ -36186,7 +36186,7 @@ O usuário atura ataques por dois turnos, então ataca de volta, causando o dobr
 The user traps the target by physically blocking its way or scaring it in place.
 O usuário prende o alvo, bloqueando fisicamente seu caminho ou o impedindo de se mover por medo.
 The user drops onto the target with its full body weight. It has a 30% chance to numb.
-O usuário se joga no alvo com todo o peso de seu corpo. Tem 30% de chance de causar Imobilização.
+O usuário se joga no alvo com todo o peso de seu corpo. Tem 30% de chance de causar imobilização.
 The user attacks everything around it with the destructive power of a terrible, explosive sound.
 O usuário ataca tudo à sua volta com a força destrutiva de um estrondo ensurdecedor.
 The user changes its type to become the same type as one of its moves.
@@ -36202,7 +36202,7 @@ A reckless, life-risking tackle. The user also takes 33% recoil.
 The user attacks the foe with an echoing voice. If this move is used every turn, it does greater damage.
 The user attacks the foe with an echoing voice. If this move is used every turn, it does greater damage.
 The user compels the target to keep using only the move it last used for three turns.
-The user compels the target to keep using only the move it last used for three turns.
+Obriga o alvo a continuar usando apenas o seu último movimento utilizado por três turnos.
 An attack move that cuts down the target's HP to equal the user's HP.
 An attack move that cuts down the target's HP to equal the user's HP.
 The user endures any attack with at least 1 HP. It always fails if it is used in succession.
@@ -36234,7 +36234,7 @@ The user growls, scaring nearby foes. Their Attack is lowered by two steps.
 The user stiffens all the muscles in its body to raise its Defense by three steps.
 The user stiffens all the muscles in its body to raise its Defense by three steps.
 The user sticks out its head and attacks by slamming into the foe. It has a 50% chance to numb.
-The user sticks out its head and attacks by slamming into the foe. It has a 50% chance to numb.
+O usuário prepara sua cabeça e ataca, colidindo-a contra o alvo. Tem 50% de chance de causar imobilização.
 The user makes a soothing bell chime to heal the non-volatile status conditions of all the party Pokémon.
 The user makes a soothing bell chime to heal the non-volatile status conditions of all the party Pokémon.
 The user assists an ally by boosting the power of its next attack by 50%.
@@ -36318,7 +36318,7 @@ The user stockpiles power, reducing move damage taken by 30%. This can be stacke
 Used only if the user has no PP. It also hurts the user.
 Used only if the user has no PP. It also hurts the user.
 The user eats its held Berry, then raises Defense and Sp. Def by one step each.
-The user eats its held Berry, then raises Defense and Sp. Def by one step each.
+O usuário come sua fruta equipada, então aumenta sua Defesa e Def. Esp. em um nível cada.
 The user spends 25% HP to create a doll to protect it from move damage, additional effects, and status moves.
 The user spends 25% HP to create a doll to protect it from move damage, additional effects, and status moves.
 The user chomps hard on the target with its sharp front fangs. It cuts the target's HP to half.
@@ -36328,7 +36328,7 @@ The user generates odd sound waves from its body. The target becomes dizzy.
 The user consumes its Stockpile to heal itself by 50% of its max HP per stack. This can overheal.
 The user consumes its Stockpile to heal itself by 50% of its max HP per stack. This can overheal.
 Star-shaped rays are shot at the target. Can't miss and skips protections.
-Star-shaped rays are shot at the target. Can't miss and skips protections.
+Raios em forma de estrela são atirados no alvo. Não pode errar e ignora proteções.
 A physical attack in which the user slams into the target with its whole body.
 A physical attack in which the user slams into the target with its whole body.
 A full-body attack for slamming into the foe. The user also takes 25% recoil.
@@ -36358,7 +36358,7 @@ One turn after this move is used, the target's HP is restored by half the user's
 The user is roused, raising its Attack and Sp. Atk by two steps.
 The user is roused, raising its Attack and Sp. Atk by two steps.
 The user yawns, making the target drowsy. They'll fall asleep at end of the next turn.
-The user yawns, making the target drowsy. They'll fall asleep at end of the next turn.
+O usuário boceja, fazendo com que o alvo fique sonolento. O alvo irá dormir no final do turno seguinte.
 The user looses a flurry of open-palmed arm thrusts that multi-hit two to five times.
 The user looses a flurry of open-palmed arm thrusts that multi-hit two to five times.
 The user looses a blast of aura from deep within its body. Can't miss and skips protections.
@@ -36430,7 +36430,7 @@ O usuário confunde o oponente com sua velocidade, então ataca. Não pode errar
 The user attacks with air that slices even the sky. It has a 40% chance to flinch the target.
 O usuário ataca com ar que corta até mesmo os céus. Tem 40% de chance de fazer o alvo hesitar.
 The user heats up its beak before attacking. If hit by a foe's physical move, burns the attacker.
-The user heats up its beak before attacking. If hit by a foe's physical move, burns the attacker.
+O usuário esquenta seu bico antes de atacar. Se atingido por um movimento físico inimigo, queima o atacante.
 The user attacks foes with savagely cold winds. It has a 30% chance to frostbite.
 The user attacks foes with savagely cold winds. It has a 30% chance to frostbite.
 The user tucks in its wings and strikes from a low altitude. The user also takes 33% recoil.
@@ -36440,7 +36440,7 @@ The user attacks using a sound wave based on words it has learned. It also dizzi
 The user whips up a wind to blow away protective screens on the opponent's side. Also removes hazards on both sides.
 The user whips up a wind to blow away protective screens on the opponent's side. Also removes hazards on both sides.
 A corkscrewing attack with the sharp beak acting as a drill. Can random critical hit.
-A corkscrewing attack with the sharp beak acting as a drill. Can random critical hit.
+O usuário faz um ataque espiralado usando seu bico como uma broca. Tem chance de acerto crítico.
 The user slams the target with its wings. The target is hit twice in a row.
 O usuário golpeia o alvo com suas asas. O alvo é atingido duas vezes seguidas.
 The user covers the target's body with a mass of down that lowers its Attack by five steps.
@@ -36452,7 +36452,7 @@ The user whips up a gust of wind to attack the target.
 The user absorbs its target's HP. The user's HP is restored by 75% of the damage dealt.
 O usuário absorve os PV de seu alvo. Os PV do usuário são curados em 75% do dano causado.
 The target is jabbed with a sharply pointed beak or horn. Can random critical hit.
-The target is jabbed with a sharply pointed beak or horn. Can random critical hit.
+O alvo é perfurado com um bico ou chifre pontiagudo. Tem chance de acerto crítico.
 The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.
 The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.
 The user heals itself by half of its max HP. The user loses Flying-type this turn.
@@ -36464,7 +36464,7 @@ O oponente é atacado com um spray de um ácido forte. Tem 20% de chance de dimi
 The user spits fluid that works to melt the target. This lowers the target's Sp. Def by four steps.
 O usuário cospe um fluido que derrete o alvo. Isso diminui a Def. Esp. do alvo em quatro níveis.
 The user lets out a damaging belch at the target. Deals double damage if the user has eaten a berry this battle.
-The user lets out a damaging belch at the target. Deals double damage if the user has eaten a berry this battle.
+O usuário solta um arroto repugnante contra o alvo. Dá o dobro de dano se o usuário tiver comido uma fruta nesta batalha.
 The user attacks with a cloud of white smoke. This resets the target's positive stat changes.
 The user attacks with a cloud of white smoke. This resets the target's positive stat changes.
 The user coils up and concentrates. This raises its Attack, Defense, and Accuracy by two steps.
@@ -36498,9 +36498,9 @@ Nearby poisoned foes have their Attack, Sp. Atk, and Speed lowered by three step
 The user drenches the foe in a special poisonous liquid. Its power doubles if the target is poisoned.
 The user drenches the foe in a special poisonous liquid. Its power doubles if the target is poisoned.
 The user throws the bone it holds. The bone loops to hit the target twice, coming and going.
-The user throws the bone it holds. The bone loops to hit the target twice, coming and going.
+O usuário atira o osso que segura. O osso dá meia-volta e atinge o alvo duas vezes: ao ir e ao voltar.
 The user strikes everything around it by stomping on the ground. This lowers hit Pokémon's Speed.
-The user strikes everything around it by stomping on the ground. This lowers hit Pokémon's Speed.
+O usuário atinge tudo ao seu redor ao pisotear o chão. Isso diminui, em um nível, a Velocidade de todos os Pokémon atingidos.
 The user burrows, charging and becoming hidden, then attacks on the second turn.
 The user burrows, charging and becoming hidden, then attacks on the second turn.
 The user crashes into its target while rotating its body like a drill. Can random critical hit.
@@ -36564,9 +36564,9 @@ Pours sticky tar over the target, lowering its Speed by six steps and making it 
 The user and its allies are protected from spread moves for a turn. Always fails if used in succession.
 The user and its allies are protected from spread moves for a turn. Always fails if used in succession.
 The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.
-The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.
+O usuário pica o alvo. Se o alvo tiver uma Fruta equipada, o usuário a come e ganha seus efeitos.
 The user vibrates its wings to make a damaging sound wave. It has a 20% chance to lower Sp. Def.
-The user vibrates its wings to make a damaging sound wave. It has a 20% chance to lower Sp. Def.
+O usuário vibra suas asas para criar uma parede nociva de som. Tem 20% de chance de diminuir a Def. Esp. do alvo em um nível.
 The user calls its underlings to shield it, raising its Defense and Sp. Def by two steps. Always goes first.
 The user calls its underlings to shield it, raising its Defense and Sp. Def by two steps. Always goes first.
 When the user knocks out a target with this move, this raises the user's Attack by five steps.
@@ -36654,11 +36654,11 @@ The user shoots a sinister, bluish-white flame at the target to inflict a burn.
 The user sheds part of its body to make itself lighter and raise its Speed by four steps.
 O usuário perde parte de seu corpo, tornando-se mais leve e aumentando sua Velocidade em quatro níveis.
 The user becomes a gigantic shield and slams into the target.
-The user becomes a gigantic shield and slams into the target.
+O usuário se torna um enorme escudo e colide contra o alvo.
 The user becomes a gigantic sword and cuts the target.
-The user becomes a gigantic sword and cuts the target.
+O usuário se torna uma enorme espada colossal e corta o alvo.
 The user strikes the target with tough punches as fast as bullets. This move always goes first.
-The user strikes the target with tough punches as fast as bullets. This move always goes first.
+O usuário atinge o alvo com socos rápidos como balas. Esse movimento sempre vai primeiro.
 The user foretells doom. Two turns later, the targeted spot is hit with a concentrated beam of light.
 The user foretells doom. Two turns later, the targeted spot is hit with a concentrated beam of light.
 The user rotates, centering the hex nut in its chest, and then strikes twice. Each hit has a 30% chance to flinch the target.
@@ -36698,13 +36698,13 @@ The user slams into the target with the force of a meteor. Can't be stopped by t
 A frenetic dance to uplift the fighting spirit. It raises the user's Attack by four steps.
 A frenetic dance to uplift the fighting spirit. It raises the user's Attack by four steps.
 The target is razed by a fiery explosion. The user is exhausted on the next turn.
-The target is razed by a fiery explosion. The user is exhausted on the next turn.
+O alvo é arrasado por uma explosão ardente. O usuário deve descansar no turno seguinte.
 The user launches a fiery kick. It has a 10% chance to burn.
-The user launches a fiery kick. It has a 10% chance to burn.
+O usuário dá um chute flamejante. Tem 10% de chance de causar queimadura.
 Attacks with energy from jealousy. All opposing Pokémon with stat boosts get burned.
-Attacks with energy from jealousy. All opposing Pokémon with stat boosts get burned.
+Ataca com a ira ardente da inveja. Todos os oponentes com aumentos de atributo sofrem queimadura.
 To inflict massive damage, the user uses up its Fire-typing. This move can't be used if the user is not a Fire type.
-To inflict massive damage, the user uses up its Fire-typing. This move can't be used if the user is not a Fire type.
+Para inflingir um dano massivo, o usuário consome sua tipagem de Fogo. Esse movimento falha se o usuário não for do tipo Fogo.
 The target is attacked with small flames. It has a 10% chance to burn.
 The target is attacked with small flames. It has a 10% chance to burn.
 The user attacks in an explosive fury. Weakens in damage as the user loses HP. Weakest at half HP.
@@ -36754,11 +36754,11 @@ The user rigs its shell to explode. If hit by a foe's physical move, the shell d
 With a fiery forehead, the user hurls itself at the foe. This lowers the user's Defense, Sp. Def, and Speed by two steps.
 With a fiery forehead, the user hurls itself at the foe. This lowers the user's Defense, Sp. Def, and Speed by two steps.
 If the target's HP is half or less, this attack will hit with double the power.
-If the target's HP is half or less, this attack will hit with double the power.
+Se os PV do alvo forem 50% ou menos, este ataque terá seu dano dobrado.
 A spray of bubbles is jetted at the target. This has a 20% chance to lower their Speed.
-A spray of bubbles is jetted at the target. This has a 20% chance to lower their Speed.
+Uma rajada de bolhas é lançada contra o alvo. Tem 20% de chance de diminuir a Velocidade do alvo em um nível.
 A spray of bubbles is forcefully ejected at the target. It also lowers the foe's Speed.
-A spray of bubbles is forcefully ejected at the target. It also lowers the foe's Speed.
+Uma rajada de bolhas é fortemente lançada contra o alvo. Diminui a Velocidade do alvo em um nível.
 The user clamps onto the target, trapping and binding it for three turns.
 The user clamps onto the target, trapping and binding it for three turns.
 Diving on the first turn, charging and becoming hidden, the user hits from below water on the second turn.
@@ -36806,7 +36806,7 @@ Um ataque que drena nutrientes. Os PV do usuário são recuperados em 50% do dan
 The user releases a soothing scent that heals all non-volatile status conditions affecting the user's party.
 O usuário solta um aroma tranquilizante que cura todas as condições de status não voláteis afetando sua equipe.
 The user forcefully shoots seeds at the target. It multi-hits two to five times.
-The user forcefully shoots seeds at the target. It multi-hits two to five times.
+O usuário rapidamente atira sementes contra o alvo. Resulta em acertos múltiplos, de duas a cinco vezes.
 The user launches its amassed chlorophyll to inflict damage on the target. The user loses half its current HP.
 The user launches its amassed chlorophyll to inflict damage on the target. The user loses half its current HP.
 The user protects itself by wrapping its body in soft cotton, raising its Defense by five steps.
@@ -36860,7 +36860,7 @@ The target is struck with slender, whiplike vines.
 The user slams its rugged body into the target to attack. The user also takes 33% recoil.
 The user slams its rugged body into the target to attack. The user also takes 33% recoil.
 Attacks with an electrified beak. Deals 50% more damage unless the target has moved this turn.
-Attacks with an electrified beak. Deals 50% more damage unless the target has moved this turn.
+O usuário ataca com um bico eletrizado. Dá 50% a mais de dano se o alvo ainda não se moveu neste turno.
 The user becomes energized, doubling the power of its next Electric-type attack. Also raises the user's Defense and Sp. Def.
 The user becomes energized, doubling the power of its next Electric-type attack. Also raises the user's Defense and Sp. Def.
 The user fires a concentrated bundle of electricity, raising the user's Sp. Atk by two steps.
@@ -36968,7 +36968,7 @@ O alvo é atingido por um feixe arco-íris. Tem 40% de chance de diminuir Ataque
 The user puts up a rainbow-colored screen to halve move damage for five turns, or reduce it by 33% in multi battles. Only usable in hail.
 O usuário coloca uma tela arco-íris para reduzir pela metade (ou 33%, em batalhas múltiplas), o dano de ataques. Usável apenas no granizo.
 A blizzard strikes all near foes. Can't miss in hail. It has a 30% chance to frostbite.
-A blizzard strikes all near foes. Can't miss in hail. It has a 30% chance to frostbite.
+Uma forte nevasca atinge todos os oponentes próximos. Não pode errar durante granizo. Tem 30% de chance de causar frio.
 The user blows a cold breath on the target. This attack always results in a critical hit.
 The user blows a cold breath on the target. This attack always results in a critical hit.
 The user attacks by hurling a blizzard-cloaked icicle lance at opposing Pokémon.
@@ -36990,7 +36990,7 @@ The user attacks with a gust of chilled air. It also lowers the targets' Speed b
 The user attacks with a chilling gust of powdery snow. It has a 10% chance to frostbite.
 The user attacks with a chilling gust of powdery snow. It has a 10% chance to frostbite.
 The user swings its tail wildly at opposing Pokémon, lowering their Attack or Sp. Atk (whichever is higher) by two steps.
-The user swings its tail wildly at opposing Pokémon, lowering their Attack or Sp. Atk (whichever is higher) by two steps.
+O usuário ferozmente balança sua cauda contra Pokémon oponentes, diminuindo o Ataque ou Atk. Esp. (o que for maior) deles em dois níveis.
 The user raises all its stats by two steps, at the cost of 33% of its max HP.
 The user raises all its stats by two steps, at the cost of 33% of its max HP.
 The user sends out a telluric shockwave, damaging and dizzying all foes.
@@ -37026,11 +37026,11 @@ A small tornado hits the target. It has a 40% chance to flinch the target.
 If the target has already taken some damage in the same turn, this attack's power is doubled.
 Se o alvo já houver levado algum dano no mesmo turno, este ataque tem seu dano dobrado.
 Hits once for each party Pokémon. Deals more damage based on their Attack.
-Hits once for each party Pokémon. Deals more damage based on their Attack.
+Acerta uma vez para cada Pokémon na sua equipe. Dá mais dano baseado no Ataque dos membros.
 The target is bitten with viciously sharp fangs. It has a 20% chance to lower Defense.
-The target is bitten with viciously sharp fangs. It has a 20% chance to lower Defense.
+O alvo é mordido com presas extremamente afiadas. Tem 20% de chance de diminuir Defesa em um nível.
 The user swings its body around violently to inflict damage on everything in its vicinity.
-The user swings its body around violently to inflict damage on everything in its vicinity.
+O usuário balança seu corpo violentamente para causar danos a tudo em sua volta.
 The user slashes its shell blade, leaving a hazard layer of Spikes under the target if none have already been placed.
 The user slashes its shell blade, leaving a hazard layer of Spikes under the target if none have already been placed.
 The user tells the target a secret, lowering its Sp. Atk by three steps. Always goes first.
@@ -37146,9 +37146,9 @@ O usuário estabiliza seus olhos, mente e corpo para maximizar sua Precisão.
 The user exposes its teeth in a menacing way, lowering the target's Defense by four steps.
 O usuário expõe seus dentes de uma forma ameaçadora, diminuindo a Defesa do alvo em quatro níveis.
 The user and the target both fall asleep, fully restoring their HP and healing any non-volatile status conditions.
-The user and the target both fall asleep, fully restoring their HP and healing any non-volatile status conditions.
+Tanto o alvo quanto o usuário caem no sono, recuperando totalmente seus PV e curando quaisquer condições de status não voláteis.
 The user engages the target in a head-to-head fight. The damage is based on the target's Attack rather than their Defense.
-The user engages the target in a head-to-head fight. The damage is based on the target's Attack rather than their Defense.
+O usuário confronta o alvo em uma disputa cabeça-a-cabeça. O dano é baseado no Ataque do alvo em vez de sua Defesa.
 The user concentrates to stabilize its mood. It raises the user's Sp. Def by three steps.
 The user concentrates to stabilize its mood. It raises the user's Sp. Def by three steps.
 The user attacks with the full force of The Market. Scatters coins.
@@ -37268,15 +37268,15 @@ Este Pokémon carrega no primeiro turno, e então libera um poderoso feixe de au
 The target is barred by rules which prevent it from using off-type moves for three more turns.
 Por mais três turnos, o alvo é inibido por regras que o previnem de usar movimentos que não sejam de seu próprio tipo.
 The user hugs the target intensely, trapping and binding it for three turns.
-The user hugs the target intensely, trapping and binding it for three turns.
+O usuário abraça o alvo intensamente, prendendo-o e constringindo-o por três turnos.
 The user improvises a dance, raising its two weakest stats by three steps.
-The user improvises a dance, raising its two weakest stats by three steps.
+O usuário improvisa uma dança, aumentando seus dois atributos mais fracos em três níveis.
 The user flexes its rocky skin, raising its Attack and Defense by two steps and gaining the Rock-type.
-The user flexes its rocky skin, raising its Attack and Defense by two steps and gaining the Rock-type.
+O usuário exibe sua pele rochosa, aumentando seu Ataque e sua Defesa em dois níveis e ganhando o tipo Pedra.
 The user and its allies take 50% less attack damage this turn. Always fails if used in succession.
-The user and its allies take 50% less attack damage this turn. Always fails if used in succession.
+O usuário e seus aliados levam 50% menos dano neste turno. Sempre falha se usado em sucessão.
 The user risks an explosive arcing full bodied punch against the target.
-The user risks an explosive arcing full bodied punch against the target.
+O usuário arrisca um soco explosivo, arqueado e de corpo inteiro contra o alvo.
 Combining dance and martial art, the user strikes the target and raises its Speed by two steps.
 Combining dance and martial art, the user strikes the target and raises its Speed by two steps.
 Pins the target with building materials. The target becomes barred.
@@ -37322,11 +37322,11 @@ Uma investida aérea perigosa vinda dos céus. O usuário também leva 25% de da
 The user compresses air around the target to impossible density. If the move is super- or hyper-effective, damage is increased by 30%.
 O usuário comprime, a densidades impossíveis, o ar ao redor ao alvo. Se o movimento é super ou hiperefetivo, o dano é aumentado em 30%.
 The user takes an aerial look at the field. This raises its Sp. Atk, Defense, and Accuracy by two steps.
-The user takes an aerial look at the field. This raises its Sp. Atk, Defense, and Accuracy by two steps.
+O usuário observa o campo de batalha de cima. Isso aumenta Atk. Esp., Defesa e Precisão em dois níveis.
 The user fires a stormy gust at the target. This also raises the user's Sp. Atk by two steps.
-The user fires a stormy gust at the target. This also raises the user's Sp. Atk by two steps.
+O usuário solta uma rajada de vento contra o alvo. Isso também aumenta o Atk. Esp. do usuário em dois níveis.
 The user whips up a cold north wind to attack the target. It has a 30% chance to frostbite.
-The user whips up a cold north wind to attack the target. It has a 30% chance to frostbite.
+O usuário sopra um frio vento do norte para atacar o alvo. Tem 30% de chance de causar frio.
 An apple falls from high up to strike the foe. Always goes first. Deals double damage in intense Gravity.
 An apple falls from high up to strike the foe. Always goes first. Deals double damage in intense Gravity.
 The user propels a gale-force wind at the target. It has a 10% chance to frostbite.
@@ -37384,9 +37384,9 @@ O usuário e o alvo são banhados em ácido. O usuário perde metade de seus PV 
 The user lashes the target with its corroded tail. This hits Steel-types for neutral damage and lowers Defense.
 O usuário chicoteia o alvo com sua cauda corrosiva. Isso atinge tipos Aço com dano neutro e também diminui Defesa.
 The user sprays the target with a corrosive chemical solution. It has a 30% chance to numb.
-The user sprays the target with a corrosive chemical solution. It has a 30% chance to numb.
+O usuário borrifa uma substância química corrosiva no alvo. Tem 30% de chance de causar imobilização.
 The user infects the target with a touch and also destroys any Herbs it's holding.
-The user infects the target with a touch and also destroys any Herbs it's holding.
+O usuário infecta o alvo com um toque, também destruindo quaisquer Ervas que o alvo possua.
 The user launches a ball of trash to roll over all foes. The targets' held Berry or Gem stick to the ball and become unusable.
 The user launches a ball of trash to roll over all foes. The targets' held Berry or Gem stick to the ball and become unusable.
 The user partially dissolves, raising its Sp. Def by five steps.
@@ -37490,9 +37490,9 @@ Stress cracks form underneath the target, blasting them with volcanic ash. It ha
 The user slams the target with their rock-hard body.
 O usuário lança-se contra o alvo com seu corpo rochoso.
 The user smashes its rock-hard head into the target. The user also takes 33% recoil.
-The user smashes its rock-hard head into the target. The user also takes 33% recoil.
+O usuário atinge o alvo com sua cabeça dura como pedra. O usuário também leva 33% de dano colateral.
 The user bludgeons the target's arms and legs with a large rock. This has a 50% chance to fracture it.
-The user bludgeons the target's arms and legs with a large rock. This has a 50% chance to fracture it.
+O usuário atinge os braços e pernas do alvo com uma grande pedra. Isso tem 50% de chance de causar uma fratura.
 Protects the user from damage this turn. The user will counter with Granite Head if attacked.
 Protects the user from damage this turn. The user will counter with Granite Head if attacked.
 The user attacks with the bright glint of crystals.
@@ -37520,7 +37520,7 @@ The target's item is spelled away with Lunar Magic. Additionally, the target is 
 The user calls all rocks to join it, summoning sandstorm for five turns and laying a hazard of levitating stones around the target.
 The user calls all rocks to join it, summoning sandstorm for five turns and laying a hazard of levitating stones around the target.
 The user drops a single piece of solid bedrock on the target, fracturing them.
-The user drops a single piece of solid bedrock on the target, fracturing them.
+O usuário derruba um enorme pedaço sólido de rocha-matriz no alvo, que é fraturado no processo.
 Protects the user and its allies from spread moves this turn and foes' moves get redirected to the user. Fails if used in succession.
 Protects the user and its allies from spread moves this turn and foes' moves get redirected to the user. Fails if used in succession.
 The user afflicts the target by turning their skin into stone. This has a 30% chance to fracture it.
@@ -37562,9 +37562,9 @@ O usuário injeta um bioquímico extremamente doloroso no alvo. Tem 10% de chanc
 The user makes the target have an allergic reaction. This lowers their Speed by three steps.
 O usuário causa uma reação alérgica no alvo. Isso diminui a Velocidade do alvo em três níveis.
 The user shoots out a quick flash of bioluminescence to damage the target. This move always goes first.
-The user shoots out a quick flash of bioluminescence to damage the target. This move always goes first.
+O usuário cria um rápido flash de bioluminescência para atacar o alvo. Este movimento sempre vai primeiro.
 An army of insects, working as one, strike at the target from below. Super effective versus Ground-types.
-An army of insects, working as one, strike at the target from below. Super effective versus Ground-types.
+Um exército de insetos, agindo como um, ataca o alvo por baixo. Superefetivo contra o tipo Terra.
 The user crushes the target with a hardened carapace. It has a 30% chance to lower the target's Defense.
 The user crushes the target with a hardened carapace. It has a 30% chance to lower the target's Defense.
 The user attacks with a horrible clattering noise. It has a 20% chance to lower Sp. Def.
@@ -37632,7 +37632,7 @@ Dois turnos depois desse movimento ser usado, os PV do alvo são curados em trê
 The user goes into another plane and displaces the target's soul. This move does 30% more damage if the user is asleep.
 O usuário visita outro plano de realidade para deslocar a alma do alvo. Causa 30% a mais de dano se o usuário estiver dormindo.
 Disables the target's last used move for four turns, then lowers a relevant stat on them by four steps.
-Disables the target's last used move for four turns, then lowers a relevant stat on them by four steps.
+Anula o último movimento usado pelo alvo por quatro turnos, então diminui um atributo relevante dele em quatro níveis.
 The user attacks with bitter emotion. This lowers the target's Attack and Sp. Atk by two steps if in hail.
 The user attacks with bitter emotion. This lowers the target's Attack and Sp. Atk by two steps if in hail.
 The user causes a glitch in reality. This attack always results in a critical hit.
@@ -37706,7 +37706,7 @@ The user channels the anger of wronged spirits, going on a rampage for two turns
 The user slashes with gusto, inspiring its allies to follow up by using Slash on the target.
 O usuário corta com entusiasmo, inspirando seus aliados a acompanharem usando Talho no alvo.
 The user uses gunpowder to rocket at its foe. It has a 30% chance to raise its Speed.
-The user uses gunpowder to rocket at its foe. It has a 30% chance to raise its Speed.
+O usuário usa pólvora para se disparar contra seu oponente. Tem 30% de chance de aumentar a Velocidade do usuário em um nível.
 A reckless maneuver that forces the user to switch out if it misses. Always goes first.
 A reckless maneuver that forces the user to switch out if it misses. Always goes first.
 Inflicts physical or special damage, whichever deals more. Then, raises Attack or Sp. Atk, whichever wasn't used.
@@ -37784,9 +37784,9 @@ Welds heavy steel onto the target, giving it the Steel type and lowering its Spe
 Charges by summoning sunshine for five turns, then overwhelms the foe with fiery light on the second turn.
 Carrega no primeiro turno, invocando luz solar por cinco turnos, então submerge o oponente em luz ardente no segundo turno.
 The user rushes the target at blazing-fast speed. This attack always goes before any other move.
-The user rushes the target at blazing-fast speed. This attack always goes before any other move.
+O usuário avança contra o alvo, deixando labaredas no chão onde pisa. Este ataque sempre vai antes de qualquer movimento.
 The user attacks by sending a wave of hot air towards the target. It has a 30% chance to burn.
-The user attacks by sending a wave of hot air towards the target. It has a 30% chance to burn.
+O usuário ataca lançando uma onda de calor intenso contra o alvo. Tem 30% de chance de causar queimadura.
 Guaranteed to critical hit if the target has stat step changes. The target is cleansed, reseting their stat changes.
 Guaranteed to critical hit if the target has stat step changes. The target is cleansed, reseting their stat changes.
 The foe is engulfed in a firestorm, trapping and binding it for three turns.
@@ -37866,13 +37866,13 @@ Carrega no primeiro turno, invocando um temporal por cinco turnos, então submer
 The user shoots purified water, also healing the non-volatile status conditions of all the party Pokémon.
 O usuário atira água purificada, também curando as condições de status não voláteis de todos os Pokémon da equipe.
 The user jumps out of the water to attack. Has a 20% chance to lower Defense.
-The user jumps out of the water to attack. Has a 20% chance to lower Defense.
+O usuário pula pra fora da água para atacar. Tem 20% de chance de diminuir a Defesa do alvo em um nível.
 The user creates numerous bubbles to explode against the target. Multi-hits two to five times.
-The user creates numerous bubbles to explode against the target. Multi-hits two to five times.
+O usuário cria inúmeras bolhas para explodirem contra o alvo. Resulta em acertos múltiplos, de duas a cinco vezes.
 The user creates a bubble to shield their ally. The next time they're hit, 50% of the move damage is instead dealt back as recoil.
-The user creates a bubble to shield their ally. The next time they're hit, 50% of the move damage is instead dealt back as recoil.
+O usuário cria uma bolha que envolve seu aliado. Na próxima vez que ele for atacado, 50% do dano é refletido como dano colateral ao atacante.
 A blast of bubbles is shot at the target. It has a 20% chance to lower the target's Speed.
-A blast of bubbles is shot at the target. It has a 20% chance to lower the target's Speed.
+Uma parede de bolhas é arremessada contra o alvo. Tem 20% de chance de diminuir a Velocidade do alvo em um nível.
 A water vacuum is induced and rapidly collapsed, generating an intense pulsing water blast. The user loses 1/8th of its max HP.
 A water vacuum is induced and rapidly collapsed, generating an intense pulsing water blast. The user loses 1/8th of its max HP.
 The user pulls the target under the waves with crushing force. This has a 10% chance to waterlog.
@@ -37950,11 +37950,11 @@ O usuário aplica substâncias anestésicas, imobilizando o alvo.
 The user uses wind to blast its leaves at the target. This lowers the user's Defense and Sp. Def by two steps.
 O usuário usa vento para lançar suas folhas contra o alvo. Isso diminui a Defesa e Def. Esp. do usuário em dois níveis.
 The user gracefully slashes the target three times. The next time this move is used, it will hit one extra time.
-The user gracefully slashes the target three times. The next time this move is used, it will hit one extra time.
+O usuário graciosamente corta o alvo três vezes. Na próxima vez que este movimento for utilizado, ele cortará uma vez a mais.
 Flowers blooms with intensity, damaging the target and raising the user's Sp. Atk by two steps.
-Flowers blooms with intensity, damaging the target and raising the user's Sp. Atk by two steps.
+Flores desabrocham intensamente, causando dano ao alvo e aumentando o Atk. Esp. do usuário em dois níveis.
 Revives a fainted Grass-type party member to full HP. Only one use per battle.
-Revives a fainted Grass-type party member to full HP. Only one use per battle.
+Revive e completamente recupera os PV de um aliado do tipo Grama desmaiado. Apenas um uso por batalha.
 The user fades into the foliage, charging and becoming hidden, then strikes from stealth on the second turn.
 The user fades into the foliage, charging and becoming hidden, then strikes from stealth on the second turn.
 The user drops some heads from high up. The taller the user compared to the target, the greater the damage.
@@ -38024,7 +38024,7 @@ Um clarão de eletricidade é usado para criar uma luz forte que atinge todos os
 For the rest of the round, the target's healing is reversed. Always goes first.
 Pelo resto do turno, a cura do alvo é invertida. Sempre vai primeiro.
 The user and the target pit their energy against one another. The damage is based on the target's Sp. Atk rather than their Sp. Def.
-The user and the target pit their energy against one another. The damage is based on the target's Sp. Atk rather than their Sp. Def.
+O usuário e o alvo entram em uma disputa de poderes. O dano é baseado no Atk. Esp. do alvo ao invés de em sua Def. Esp.
 The user surges with electricity. If it deals less than 50% of the target's max health, the user takes the difference as recoil.
 The user surges with electricity. If it deals less than 50% of the target's max health, the user takes the difference as recoil.
 The user wraps their body in electricity and crashes into the target. The user also takes 20% recoil.
@@ -38106,9 +38106,9 @@ O usuário atira uma partícula dimensional, diminuindo a Def. Esp. do alvo.
 The user meditates, raising both its Attack and Sp. Atk by four steps.
 O usuário medita, aumentando tanto seu Ataque quanto seu Atk. Esp. em quatro níveis.
 The user skillfully attacks around the enemy's guard. Can't miss and skips protections.
-The user skillfully attacks around the enemy's guard. Can't miss and skips protections.
+O usuário habilidosamente ataca um ponto fraco da guarda do oponente. Não pode errar e ignora proteções.
 The user slows the target's mind with a psychically infused blow. This has a 30% chance to frostbite.
-The user slows the target's mind with a psychically infused blow. This has a 30% chance to frostbite.
+O usuário atrasa a mente do alvo com um golpe imbuído de energia psíquica. Isso tem 30% de chance de causar frio.
 Splits off a section of the target's psyche. Disables their last used move for five turns.
 Splits off a section of the target's psyche. Disables their last used move for five turns.
 Astral energy explodes around the target. This move always goes first. The user also takes 50% recoil.
@@ -38276,9 +38276,9 @@ Invoca os aspectos de muitos dragões, atacando com um movimento físico e com u
 The user attacks fueled by ire. Deals double damage if it's a critical hit.
 O usuário ataca movido pela ira. Dá o dobro de dano se resultar em um acerto crítico.
 The user spits digestive juices at the target, destroying their held item.
-The user spits digestive juices at the target, destroying their held item.
+O usuário cospe suco gástrico no alvo, destruindo seu item equipável.
 The user slashes the foe while menacing. During eclipse, the target also becomes burned.
-The user slashes the foe while menacing. During eclipse, the target also becomes burned.
+O usuário ameaçadoramente corta o alvo. Durante o eclipse, o alvo também é queimado.
 The user rips and tears its way across the battlefield, damaging all near Pokémon and taking 50% recoil.
 The user rips and tears its way across the battlefield, damaging all near Pokémon and taking 50% recoil.
 The user bites to drain the target's energy. The user's HP is restored by 50% of the damage dealt.
@@ -38340,11 +38340,11 @@ O usuário insulta o alvo usando um elogio. O Ataque e Atk. Esp. do alvo são au
 The user maximizes its Sp. Atk in exchange for 33% of its max HP.
 O usuário maximiza seu Atk. Esp. em troca de 33% de seus PV máximos.
 Bites a hole in reality, creating a black hole to damage all near foes. Gravity is intensified for five turns.
-Bites a hole in reality, creating a black hole to damage all near foes. Gravity is intensified for five turns.
+Morde uma fenda na realidade, criando um buraco negro que ataca todos os oponentes próximos. Intensifica Gravidade por cinco turnos.
 The user removes the energy and light around the target. Super effective versus Electric-types.
-The user removes the energy and light around the target. Super effective versus Electric-types.
+O usuário remove a energia e a luz que cercam o alvo. Superefetivo contra o tipo Elétrico.
 This attack deals 50% more damage if the target has any raised or lowered stat steps.
-This attack deals 50% more damage if the target has any raised or lowered stat steps.
+Este ataque dá 50% mais dano se o alvo possui mudanças de atributo, sejam elas positivas ou negativas.
 The user sacrifices their ally to cover all near foes in total darkness, making them drowsy. Fails if the user has no ally.
 The user sacrifices their ally to cover all near foes in total darkness, making them drowsy. Fails if the user has no ally.
 Deftly sets a hazard layer of damaging Spikes around the foe, then switches out.
@@ -38432,9 +38432,9 @@ O usuário canta de forma irritante e indiferente, irritando o alvo. Tem 30% de 
 The user smacks the target and steals its item while it is stunned. Items stolen from wild Pokémon are stored.
 O usuário golpeia o alvo e rouba seu item enquanto ele está atordoado. Itens roubados de Pokémon selvagens são guardados.
 The target is lulled to sleep. Can only be used during a Full Moon.
-The target is lulled to sleep. Can only be used during a Full Moon.
+O alvo é induzido ao sono. Só pode ser usado durante a Lua Cheia.
 The target is pranked with a huge bucket of water. This has a 30% chance to waterlog it.
-The target is pranked with a huge bucket of water. This has a 30% chance to waterlog it.
+O alvo é vítima de uma pegadinha com um enorme balde d'água. Isso tem 30% de chance de causar ensopamento.
 The target is hit with a generous donation. Consumes up to 1000 scattered coins. Base power is boosted by 10 for every 100 consumed.
 The target is hit with a generous donation. Consumes up to 1000 scattered coins. Base power is boosted by 10 for every 100 consumed.
 Healing coral forms on the foe's side. For the next four turns, attacks on foes heal the user for 33% of the damage dealt. This can overheal.
@@ -66662,7 +66662,7 @@ Stats Raised
 Stats Dropped
 Stats Dropped
 Burning Jealousy
-Burning Jealousy
+Inveja Ardente
 Jaw Lock
 Jaw Lock
 Jaw Locker
