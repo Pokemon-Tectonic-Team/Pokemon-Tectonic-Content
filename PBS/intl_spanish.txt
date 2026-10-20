@@ -614,14 +614,6 @@ East: Grouz
 Este: Grouz
 North: Gigalith's Guts
 Norte: Tripas de Gigalith
-Formation 4C, Gurdurr!
-¡Gurdurr, formación 4C!
-Get ready to block 'em!
-¡Prepárense para bloquearlos!
-Our defensive line collapsed...
-Nuestra línea defensiva colapsó…
-We need to hit the gym. I hope Eko is taking challengers!
-Tenemos que ir al gimnasio. ¡Espero que Eko esté aceptando desafíos!
 Hey champ, how's it hanging?
 Hey, ¿qué tal todo?
 Recently got a few uhh... assets, that I'm looking to sell. Fell off of a Trainer's backpack.
@@ -642,6 +634,14 @@ You missing the cash? Hmm.
 ¿No tienes el dinero? Hmm.
 You've... got your own set of problems, huh?
 Tienes... tus propios problemas, ¿eh?
+Formation 4C, Gurdurr!
+¡Gurdurr, formación 4C!
+Get ready to block 'em!
+¡Prepárense para bloquearlos!
+Our defensive line collapsed...
+Nuestra línea defensiva colapsó…
+We need to hit the gym. I hope Eko is taking challengers!
+Tenemos que ir al gimnasio. ¡Espero que Eko esté aceptando desafíos!
 Oh… you destroyed it.
 Oh… lo destruiste.
 I was watching that avatar, and you just… dismissed it.
@@ -700,20 +700,14 @@ Welp, I've gotta go! Grandpapa's gonna give me a tour of the mines today!
 ¡Bueno, tengo que irme! ¡Abuelito va a darme un tour por las minas hoy!
 Tranquill! No! Use your Tranquill powers! ...oh.
 ¡Tranquill! ¡No! ¡Usa tus poderes de Tranquill!
-Swirlix goes bye-bye...
-Swirlix dice adiosito…
+Tranquill goes bye-bye...
+Tranquill dice adiosito…
 You with the rangers? Ah, doesn't matter. No one's nabbing our haul!
 ¿Estás con los rangers? Ah, no importa. ¡Nadie nos va a birlar nuestro botín!
 I swear, if our fourth was here, we'd kick your teeth in! Where'd that chick run off to, anyways? She needs some teeth-kicking too...
 Te lo juro, si nuestro cuarto estuviera aquí, ¡Te sacaríamos lo dientes! ¿Adónde se metió esa chica de todos modos? Tampoco le vendría tener un par de dientes fuera…
 I've taken worse! If you think I'm done protecting the boss, you don't know me!
 ¡He tenido peores! Si piensas que no seguiré protegiendo al jefe, ¡No me conoces!
-Makya's one of the few regions where creative archaeology is still legal. You're kinda lookin' like competition.
-Makya es una de las pocas regiones donde la arqueología creativa es todavía legal. Tú te pareces a la competencia.
-Maybe that's my cue to try a different tactic. I gotta be more subtle than challenging random strangers...
-Quizás esa sea mi señal para intentar una táctica diferente. Debería ser más sutil que desafiar a extraños aleatoriamente…
-Well ain't that a cryin' shame. Guess Makya's a bit rougher than I thought...
-Bueno, tremenda pena. Supongo que Makya es un tanto más dura de lo que pensé.
 Excuse me! We were about to settle this in battle.
 ¡Perdóname! Estábamos a punto de resolver esto con un combate.
 But, fine, I guess we can find common ground in disposing of you.
@@ -738,24 +732,30 @@ You too, you old hag.
 Tu también, vieja bruja.
 I think you'll find me back here so long as you keep trying to gain entrance, you entitled brat.
 Creo que me encontrarás aquí mientras sigas intentando entrar, mocoso malcriado.
+Makya's one of the few regions where creative archaeology is still legal. You're kinda lookin' like competition.
+Makya es una de las pocas regiones donde la arqueología creativa es todavía legal. Tú te pareces a la competencia.
+Maybe that's my cue to try a different tactic. I gotta be more subtle than challenging random strangers...
+Quizás esa sea mi señal para intentar una táctica diferente. Debería ser más sutil que desafiar a extraños aleatoriamente…
+Well ain't that a cryin' shame. Guess Makya's a bit rougher than I thought...
+Bueno, tremenda pena. Supongo que Makya es un tanto más dura de lo que pensé.
 Those Evolution Stones are all ours! You can't have any!
 ¡Estas Piedras Evolutivas son nuestras! ¡No puedes tener ninguna!
 Aagh! Fine! I'll leave! I've got my evolutions, anyways.
 ¡Aagh! ¡Bien! ¡Me iré! Ya conseguí mis evoluciones, de todos modos.
 ...I'll be back. I'll be back, and if I ever see you again, things're gonna be different. I swear I'll...
 …yo volveré. Volveré, y si te veo otra vez, las cosas van a ser diferentes. Juro que…
-I refuse to let someone like her into the Academy.
-Me niego a dejar a alguien como ella en la Academia.
-We have enough of her sort at the Academy as it stands...
-Ya tenemos suficiente de su tipo en la Academia ahora mismo…
+The berry plant is growing.
+El árbol de bayas está creciendo.
 Yo...so I heard there was like, some items to steal on this route?
 Entonces... escuché que había, ¿algunos objetos que robar en esta ruta?
 I got nothin' to say. You good at battling.
 No tengo nada que decir. Eres bueno combatiendo.
 Bruh. Ok then, I guess.
 Bruh. Ok entonces, supongo.
-The berry plant is growing.
-Yo...so I heard there was like, some items to steal on this route?
+I refuse to let someone like her into the Academy.
+Me niego a dejar a alguien como ella en la Academia.
+We have enough of her sort at the Academy as it stands...
+Ya tenemos suficiente de su tipo en la Academia ahora mismo…
 Listen, kid, I'm gonna give you one last warning: you can either hit the road, or bite the dust. No? Fine. We'll do it the hard way.
 Escucha, chico, te daré una última advertencia: o te pones en marcha, o caes rendido. ¿No? Bien. Lo haremos en la manera difícil.
 Hah, well, you win some, you lose some. I'm not so broken up about it.
@@ -1816,16 +1816,18 @@ You've found Lilypad, a playtester and contributor.
 Has encontrado a Lilypad, playtester y colaboradora.
 Stream Disasterpiece by Mori Calliope!
 Stream Disasterpiece by Mori Calliope!
+It is I, Riptide, and you made it through our gauntlet of nuzlockers and perfecters!
+It is I, Riptide, and you made it through our gauntlet of nuzlockers and perfecters!
+Is it strange to see me twice? Probably, but I made this basement, so my rules.
+Is it strange to see me twice? Probably, but I made this basement, so my rules.
+Now let us see if the AI can steer this strategy. Have fun!
+Now let us see if the AI can steer this strategy. Have fun!
+Wow it actually did something? That's awesome! I mean uh, thank you for playing our game!
+Wow it actually did something? That's awesome! I mean uh, thank you for playing our game!
 You've found Attea, a spriter and design contributor.
 Has encontrado a Attea, spriter y colaboradora en diseño.
-It is I, Riptide, and you made it through our gauntlet of nuzlockers and perfecters!
-It is I, Riptide, and you made it through our gauntlet of nuzlockers and perfecters!
-Is it strange to see me twice? Probably, but I made this basement, so my rules.
-Is it strange to see me twice? Probably, but I made this basement, so my rules.
-Now let us see if the AI can steer this strategy. Have fun!
-Now let us see if the AI can steer this strategy. Have fun!
-Wow it actually did something? That's awesome! I mean uh, thank you for playing our game!
-Wow it actually did something? That's awesome! I mean uh, thank you for playing our game!
+I made Pokémon World Tour, you should play it. It has polyamorous clown girls, and pirates.
+I made Pokémon World Tour, you should play it. It has polyamorous clown girls, and pirates.
 You've found Emmi, a designer.
 Has encontrado a Emmi, diseñadora.
 You've found Bella, a playtester.
@@ -3541,48 +3543,28 @@ Sí
 No
 No
 [Map38]
-Okay, now just to dig the moat!
-Ok, ¡Ahora a cavar hasta el foso!
-They beat us, sis....
-Nos vencieron, hermana...
 It’s Michi, Jovan’s Tropius. She seems to be hiding behind him.
 Es Michi, el Tropius de Jovan. Parece estar escondiéndose detrás suyo.
 It’s strange to see such a large creature look so worried.
 Es extraño ver a una criatura tan grande tan preocupada.
+Okay, now just to dig the moat!
+Ok, ¡Ahora a cavar hasta el foso!
+They beat us, sis....
+Nos vencieron, hermana...
 East: Casaba Villa
 Este: Villa Casaba
-I see some prize money on the horizon!
-¡Veo un premio en el horizonte!
-You know what? I'd best be spending me money instead of losin' it!
-¿Sabes qué? ¡Debería gastar mi dinero en vez de perderlo!
-Well, there goes me shore leave money.
-Bueno, ahí van mis únicos ahorros.
 Didn't see me comin' did ya!?
 ¿¡No me viste venir eh!?
 You won't see me goin' will ya?
 ¿No me verás venir eh?
 I'll see you again. You won't see me!
 Te veré de nuevo. ¡Tú no me verás!
-You've checked the documents and returned! Will you accept the mind-reading Yungoos for a mere $3000?
-¡Viste tus documentos y regresaste! ¿Aceptarás este Yungoos adivino por unos meros $3000?
-Having trouble predicting your opponent's moves, my child?
-¿Te cuesta predecir los movimientos de tu oponente, mi niño?
-Then let me offer you a genuine mind-reader: this Yungoos!
-¡Déjame ofrecerte un verdadero adivino: este Yungoos!
-No games, no tricks. Just, erm, $3000.
-Sin juegos, sin trucos. Solo, eh, $3000.
-Youngsters these days. So skeptical...
-Los jóvenes estos días. Tan escépticos...
-Check your MasterDex! I'm telling you, it can read your opponent's mind!
-¡Mira tu MasterDex! ¡No te miento, puede leer los pensamientos de tu oponente!
-\PN hands over $3000.
-\PN paga los $3000.
-Now you will see its mystical powers!
-¡Ahora verás sus poderes místicos!
-Now, time to go treat myself to a salon day.
-Ahora, voy a regalarme un día en la peluquería.
-Make some more money and check your MasterDex! This is well worth it.
-¡Haz algo de dinero y usa tu MasterDex! Esto vale mucho la pena.
+I see some prize money on the horizon!
+¡Veo un premio en el horizonte!
+You know what? I'd best be spending me money instead of losin' it!
+¿Sabes qué? ¡Debería gastar mi dinero en vez de perderlo!
+Well, there goes me shore leave money.
+Bueno, ahí van mis únicos ahorros.
 I developed a multi-hit attack during Lambert's self-defense course.
 Desarrollé un movimiento de multi-golpes durante el curso de defensa personal de Lambert.
 I don't get much chance to battle, though.
@@ -3595,6 +3577,28 @@ Ah, excellent!
 ¡Ah, excelente!
 Ah, pardon my indulgence in even asking.
 Ah, perdona mi indulgencia en incluso preguntar.
+You've checked the documents and returned! Will you accept the mind-reading Yungoos for a mere $3000?
+¡Viste tus documentos y regresaste! ¿Aceptarás este Yungoos adivino por unos meros $3000?
+Having trouble predicting your opponent's moves, my child?
+¿Te cuesta predecir los movimientos de tu oponente, mi niño?
+Then let me offer you a genuine mind-reader: this Yungoos!
+¡Déjame ofrecerte un verdadero adivino: este Yungoos!
+No games, no tricks. Just, erm, $3000.
+Sin juegos, sin trucos. Solo, eh, $3000.
+What say you, my child?
+What say you, my child?
+Youngsters these days. So skeptical...
+Los jóvenes estos días. Tan escépticos...
+Check your MasterDex! I'm telling you, it can read your opponent's mind!
+¡Mira tu MasterDex! ¡No te miento, puede leer los pensamientos de tu oponente!
+\PN hands over $3000.
+\PN paga los $3000.
+Now you will see its mystical powers!
+¡Ahora verás sus poderes místicos!
+Now, time to go treat myself to a salon day.
+Ahora, voy a regalarme un día en la peluquería.
+Make some more money and check your MasterDex! This is well worth it.
+¡Haz algo de dinero y usa tu MasterDex! Esto vale mucho la pena.
 Wait a minute sis! This loser doesn't even have two pokemon!
 ¡Un minuto hermana! ¡Este perdedor ni tiene dos Pokémon!
 Really? Teeheehee, get lost, loser.
@@ -3611,8 +3615,6 @@ They beat us, sis...
 Nos derrotó, hermana…
 Waaaaaah!
 ¡Waaaaaah!
-This is gonna be the best castle ever!
-¡Este va a ser el mejor castillo de la historia!
 Hey! Hey!
 ¡Hey! ¡Hey!
 Look at this cool Sentret! It's so so fast!
@@ -3635,6 +3637,8 @@ Why did nobody tell me the shop is closed??
 ¿¿Por qué nadie me dijo que la tienda está cerrada??
 Aww...
 Oww...
+This is gonna be the best castle ever!
+¡Este va a ser el mejor castillo de la historia!
 I burnth my thongue...
 'e que'é 'i le'gua...
 You're theriothly too good!
@@ -3725,20 +3729,6 @@ Either way, I’m <i>lichen</i> this idea already!
 ¡Como sea!
 See you there.
 Te veo allí.
-Wow, you found me again!
-Wow, ¡Me encontraste de nuevo!
-A loss is a loss, I guess I owe you that second TM now.
-Una derrota es una derrota, supongo que ahora te debo la segunda MT.
-I'll head back to town now. That was a fun game. I'm pretty worked up, hehe.
-Volveré al pueblo ahora. Fue un juego divertido. Estoy bastante avivado, jeje.
-You know, I fancy myself quite the battler! Care to see?
-Sabes, ¡Me apetece mostrar un buen combatiente! ¿Quieres ver?
-You... You're quite the battler...\wt[20]
-Tú... eres un buen combatiente...\wt[20]
-I-I'm going to leave now.
-M-me voy ahora.
-You, defeat me? My goodness!
-Tú, ¿Me derrotaste? ¡Dios mío!
 <i>Sniff sniff</i>
 <i>Sniff sniff</i>
 I can smell energy on you! We must battle!
@@ -3747,10 +3737,20 @@ The stench of defeat!
 ¡El odor de la derrota!
 Smell ya later!
 ¡Nos olemos luego!
-I’m itching to get some more play with this team.
-Ansío seguir usando este equipo.
-Finally using held items again! It’s refreshing.
-¡Finalmente puedo usar objetos equipables de nuevo! Es refresacante
+You know, I fancy myself quite the battler! Care to see?
+Sabes, ¡Me apetece mostrar un buen combatiente! ¿Quieres ver?
+You... You're quite the battler...\wt[20]
+Tú... eres un buen combatiente...\wt[20]
+I-I'm going to leave now.
+M-me voy ahora.
+You, defeat me? My goodness!
+Tú, ¿Me derrotaste? ¡Dios mío!
+Wow, you found me again!
+Wow, ¡Me encontraste de nuevo!
+A loss is a loss, I guess I owe you that second TM now.
+Una derrota es una derrota, supongo que ahora te debo la segunda MT.
+I'll head back to town now. That was a fun game. I'm pretty worked up, hehe.
+Volveré al pueblo ahora. Fue un juego divertido. Estoy bastante avivado, jeje.
 Wow, you got here fast!
 ¡Wow, llegaste aquí rápido!
 Freakishly fast. How many trainers did you beat on your way here...?
@@ -3777,14 +3777,18 @@ Maybe we’ll see each other there.
 Quizás nos veremos allí.
 Until then, best of luck against Lambert!
 ¡Hasta entonces, te deseo lo mejor contra Lambert!
-No way.
-Ni hablar.
-Seems legit.
-Suena légitimo.
+I’m itching to get some more play with this team.
+Ansío seguir usando este equipo.
+Finally using held items again! It’s refreshing.
+¡Finalmente puedo usar objetos equipables de nuevo! Es refresacante
 Yes
 Sí
 No
 No
+No way.
+Ni hablar.
+Seems legit.
+Suena légitimo.
 Nah.
 Nah.
 Yeah.
@@ -10596,6 +10600,8 @@ In case you're wondering -- it's a building in the very north of the Battle Plaz
 En caso de que te lo preguntes -- es un edificio en la parte más al norte de la Plaza Batalla.
 Right next to the entrance to the Tournament Grounds.
 Justo al lado de la entrada a las Tierras de Campeonato.
+The door is boarded up.
+La puerta está cerrada.
 Hello! Would you be interested in signing a petition to demolish the road?
 ¡Hola! ¿Te interesaría firmar una petición para demoler el camino?
 This road currently has no financial benefit to the city ever since the bridge to the south was destroyed.
@@ -10616,36 +10622,34 @@ Eventually, we'll get enough signatures that the city's council has to listen.
 Eventualmente, obtendremos firmas suficientes para que el municipio de la ciudad tenga que escuchar.
 The city will be much better off for pedestrians.
 La ciudad será mucho mejor para los pedestres.
-The door is boarded up.
-La puerta está cerrada.
 Look at the shiny bird!
 ¡Mira al ave brillante!
 I wanna go up there to talk to it, but my dads never let me.
 Quiero ir allí arriba para hablar con ella, pero mis papás nunca me dejan.
 When I grow up, I wanna be a shiny bird...
 Cuando crezca, quiero ser una ave brillante...
-A Shiny Corviknight!
-¡Un Corviknight Variocolor!
-It's too busy watching the city to notice you.
-Está muy ocupado observando la ciudad como para prestarte atención.
 There you are. Ready now?
 Ahí estas. ¿Listo?
 You’re insufferable some times, you know that?
 Eres insufrible a veces, ¿Sabes eso?
 That last one was… real close.
 Esa última estuvo… muy cerca.
-It doesn't look like this has moved in a while.
-No parece que esto se haya movido en un tiempo.
-Bence's House
-La Casa de Bence
-The Grand Hotel:
-El Gran Hotel:
-Makya's first five-star hotel!
-¡El primer hotel de cinco estrellas de Makya!
+A Shiny Corviknight!
+¡Un Corviknight Variocolor!
+It's too busy watching the city to notice you.
+Está muy ocupado observando la ciudad como para prestarte atención.
 It's weird seeing the streets here so empty.
 Es raro ver las calles aquí tan vacías.
 It's a combination of the road closure, and the Battle Festival happening right nearby.
 Es una combinación de la clausura del camino, y la Festival Bastalla ocurriendo aquí cerca.
+The Grand Hotel:
+El Gran Hotel:
+Makya's first five-star hotel!
+¡El primer hotel de cinco estrellas de Makya!
+Bence's House
+La Casa de Bence
+It doesn't look like this has moved in a while.
+No parece que esto se haya movido en un tiempo.
 I'm a bit of a Striker.
 Soy algo así como un Delantero
 I got all sorts of tools that I can use to put the ball in the net.
@@ -10656,16 +10660,16 @@ You would not believe the mix-ups I do with this.
 No creerías las jugadas que hago con esto.
 I might be the best to ever do it, just saying.
 Podría ser el mejor en la historia, sólo digo.
-Bogdan Cement Company
-Compañía de Cemento Bogdan
-Tourism Sector
-Sector Turístico
 Whooo-ee, look at them water towers!
 ¡Yuju, mira esas torres de agua!
 Always surprises me how much is needed for concrete and other such manufacturin'.
 Siempre me sorprende todo lo que se necesita para el concreto y otras manufacturas.
 And I thought growin' crops needed a lot...
 Y pensaba que los cultivos necesitaban demasiado...
+Tourism Sector
+Sector Turístico
+Bogdan Cement Company
+Compañía de Cemento Bogdan
 What are you doing here?
 ¿Qué estás haciendo aquí?
 Which one are you?
@@ -35340,6 +35344,8 @@ Mending Spring
 Fuente Reparadora
 Pressure Burst
 Aplastapresión
+Pressure Stream
+Pressure Stream
 Rainstorm
 Tormenta de Lluvia
 Ramming Speed
@@ -35684,8 +35690,6 @@ Icicle Pin
 Trampa Carámbano
 Icy Injection
 Inyección Helada
-Inure
-Habituarse
 Invite Hail
 Invitar al Granizo
 Looming Winter
@@ -36010,6 +36014,8 @@ Primeval Stand Together
 Estar Unidos Primitivo
 Empowered Brave Bird
 Pájaro Osado Empoderado
+Primeval Bird's-Eye View
+Primeval Bird's-Eye View
 Primeval Tailwind
 Viento Afín Primitivo
 Primeval Whirlwind
@@ -36355,7 +36361,7 @@ One turn after this move is used, the target's HP is restored by half the user's
 Un turno luego de que este movimiento haya sido usado, el objetivo recupera la mitad de los PS máximos del usuario.
 The user is roused, raising its Attack and Sp. Atk by two steps.
 El usuario es estímulado, aumentando su Ataque y Ataque Especial dos grados.
-The user yawns, making the target drowsy. They'll fall asleep at end of the next turn.
+The user yawns, making the target drowsy. They'll fall asleep at the end of the next turn.
 El usuario bosteza, adormeciendo al objetivo. Caerán dormidos al final del siguiente turno.
 The user looses a flurry of open-palmed arm thrusts that multi-hit two to five times.
 El usuario desata una ráfaga de palmadas que golpean de dos a cinco veces seguidas.
@@ -36785,8 +36791,8 @@ The user bursts into a bubbly song. Pokémon hit by this are cured of burn. Deal
 El usuario canta, invocando gran cantidad de burbujas. Este movimiento cura la quemadura de Pokémon atacados. Aliados reciben 50% menos de daño.
 The user immerses the target in superheated steam. This has a 30% chance to burn.
 El usuario dispara vapor súper caliente al objetivo. Tiene un 30% de probabilidad de quemar al objetivo.
-It swamps the area with a giant wave, hitting every battler nearby and underwater. Has a 10% chance to waterlog.
-Inunda el área con una ola gigante, golpeando a cada Pokémon siguiente. Tiene un 10% de probabilidad de embeber.
+It swamps the area with a giant wave, hitting every battler nearby and underwater.
+Agua de pantano ataca a todo Pokémon a su alrededor y bajo agua.
 Strikes the target thrice, with mastery of the Water style. Always results in a critical hit.
 El usuario ataca tres veces con la maestría del Estilo Fluido. Siempre resulta en un golpe crítico.
 The user lunges at the target and has a 40% chance to flinch the target.
@@ -37901,6 +37907,8 @@ The user opens a spring to blast the target, also forming an Aqua Ring around th
 El usuario abre una fuente para disparar al objetivo, también formando un Acua Aro a su alrededor, curándose 10% de sus PS totales cada turno.
 Attacks with pressurized water. Deals 50% more damage if the user has been hurt by the foe in the same turn.
 Ataca con agua presurizada. Es potenciado un 50% si el usuario fue lastimado por el oponente en el mismo turno.
+The target is struck with a stream of pressurized water. This has a 10% chance to waterlog.
+The target is struck with a stream of pressurized water. This has a 10% chance to waterlog.
 Summons rainstorm for six turns, boosting Water-type attacks and hindering most others.
 Invoca tormenta de lluvia durante seis turnos, potenciando ataques tipo Agua y mermando ataques de la mayoría de otros tipos.
 The user rams its sharp face right into the target. This lowers the user's Speed by three steps.
@@ -37947,7 +37955,7 @@ The user uses wind to blast its leaves at the target. This lowers the user's Def
 El usuario usa viento para atacar con sus hojas. Disminuye ambas stats defensivas del usuario dos grados.
 The user gracefully slashes the target three times. The next time this move is used, it will hit one extra time.
 El usuario acuchilla con elegancia al objetivo tres veces. La próxima vez que utilice este movimiento, golpeará una vez más.
-Flowers blooms with intensity, damaging the target and raising the user's Sp. Atk by two steps.
+Flowers bloom with intensity, damaging the target and raising the user's Sp. Atk by two steps.
 Plantas florecen con intensidad, atacando al objetivo y aumentando el Ataque Especial del usuario dos grados.
 Revives a fainted Grass-type party member to full HP. Only one use per battle.
 Revives a fainted Grass-type party member to full HP. Only one use per battle.
@@ -38241,8 +38249,6 @@ The user pins the target down with icy spikes, applying frostbite and trapping i
 El usuario clava al objetivo con picos congelados, helándolo y atrapándolo.
 Injects supercold liquid into the target, damaging them and halving all future healing.
 El usuario inyecto un líquido congelado al objetivo, dañándolo y diviendo a la mitad toda curación futura.
-The user inures themselves to a harsh environment, shedding their type weaknesses.
-El usuario se adapta a unas condiciones hostiles, removiendo sus debilidades.
 The user frostbites the target, then welcomes in hail for eight turns.
 El usuario hiela al objetivo, luego invita al granizo durante ocho turnos.
 The user foretells imminent winter. Two turns later, extreme cold attacks the targeted spot.
@@ -38561,6 +38567,8 @@ The user summons an allied Tyrogue. This raises its Defense by three steps, and 
 El usuario invoca un Tyrogue aliado, aumenta su Defensa y la de sus aliados 2 grados, y se vuelve tipo Lucha.
 The user tucks in its wings and charges from a low altitude. The user also takes 33% recoil.
 El usuario extiende sus alas y ataca desde una baja altura. El usuario recibe un 33% de daño de retroceso.
+The user raises its Sp. Atk and Defense by two steps and maximizes its Accuracy. User becomes Flying-type.
+The user raises its Sp. Atk and Defense by two steps and maximizes its Accuracy. User becomes Flying-type.
 The user sets a powerful tailwind for 6 turns, which also increases move damage by 30%. User becomes Flying-type.
 El usuario levanta un poderoso viento afín durante 6 turnos, que también aumenta el daño un 30%. El usuario se vuelve tipo Volador.
 All near foes are forced to switch out. User becomes Flying-type.
@@ -38635,8 +38643,6 @@ The user summons sunshine for six turns. This raises its Attack and Sp. Atk. Use
 El usuario invoca la luz solar durante seis gurnos, potenciando ambos de sus Ataques, y se vuelve tipo Fuego.
 A spray of bubbles is forcefully ejected at all nearby foes. This lowers their Speed by three steps.
 Un rayo de burbujas es disparado con fuerza a rivales cercanos. Esto disminuye su Velocidad tres grados.
-It swamps the area with a giant wave, hitting every battler nearby and underwater.
-Agua de pantano ataca a todo Pokémon a su alrededor y bajo agua.
 The user enters a state of total focus, prevents stat steps from being lowered, raises Attack and Sp. Def, and becomes Water-type.
 El usuario se concentra por completo, impidiendo que sus stats sean reducidas, aumenta Ataque, Defensa Especial, y se vuelve tipo Agua.
 The user summons rainstorm for six turns and surrounds itself with Aqua Ring. User becomes Water-type.
@@ -64552,6 +64558,26 @@ But it failed, since {1} is already covered in foam!
 But it failed, since {1} is already covered in foam!
 A targeting reticle shows which of your battlers the Avatar wants to attack. It will switch to another battler, however, if their attack is made impossible.
 A targeting reticle shows which of your battlers the Avatar wants to attack. It will switch to another battler, however, if their attack is made impossible.
+This is the final level cap. It cannot be raised.
+This is the final level cap. It cannot be raised.
+Once at level {1}, your Pokémon cannot gain experience or have EXP Candies used on them.
+Once at level {1}, your Pokémon cannot gain experience or have EXP Candies used on them.
+Rare Candies can be used, but only {1} times, up to level {2}.
+Rare Candies can be used, but only {1} times, up to level {2}.
+Rare Candies can still be used, however.
+Rare Candies can still be used, however.
+{1}'s level was raised above the level cap, which shouldn't happen.<<n>><<[>>Debug: {2}<<]>>
+{1}'s level was raised above the level cap, which shouldn't happen.<<r>><<n>><<[>>Debug: {2}<<]>>
+It won't have any effect due to the rare candy level cap at {1}.
+It won't have any effect due to the rare candy level cap at {1}.
+Every PokéCenter and every Ranger Station will contain the 4 Team Customization NPCs.
+Every PokéCenter and every Ranger Station will contain the 4 Team Customization NPCs.
+TMs are commonplace in our modern world, but they can be unwieldy to use.
+TMs are commonplace in our modern world, but they can be unwieldy to use.
+Whether to auto-screenshot your Party Showcase after major victories.
+Whether to auto-screenshot your Party Showcase after major victories.
+Whether to play the EXP-EZ Dispenser feeding animation.
+Whether to play the EXP-EZ Dispenser feeding animation.
 [27]
 0
 Animated
@@ -66443,7 +66469,7 @@ Focus Punch
 Puño Certero
 Follow Me
 Señuleo
-Ability Surpressed
+Ability Suppressed
 Habilidad Suprimida
 Gem Consumed
 Gema Consumida
