@@ -64575,9 +64575,9 @@ Todo Centro Pokémon e toda Estação Ranger conterão os 4 NPCs de Customizaç�
 TMs are commonplace in our modern world, but they can be unwieldy to use.
 MTs são bem comuns em nosso mundo moderno, mas podem ser um tanto impráticas de usar.
 Whether to auto-screenshot your Party Showcase after major victories.
-Whether to auto-screenshot your Party Showcase after major victories.
+Automaticamente tirar uma foto do seu time após grandes vitórias?
 Whether to play the EXP-EZ Dispenser feeding animation.
-Whether to play the EXP-EZ Dispenser feeding animation.
+Mostrar seus Pokémon comendo os doces do REXPartidor?
 [27]
 0
 Animated
