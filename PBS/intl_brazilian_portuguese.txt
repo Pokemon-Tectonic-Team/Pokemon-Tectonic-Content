@@ -614,14 +614,6 @@ East: Grouz
 East: Grouz
 North: Gigalith's Guts
 North: Gigalith's Guts
-Formation 4C, Gurdurr!
-Formation 4C, Gurdurr!
-Get ready to block 'em!
-Get ready to block 'em!
-Our defensive line collapsed...
-Our defensive line collapsed...
-We need to hit the gym. I hope Eko is taking challengers!
-We need to hit the gym. I hope Eko is taking challengers!
 Hey champ, how's it hanging?
 Hey champ, how's it hanging?
 Recently got a few uhh... assets, that I'm looking to sell. Fell off of a Trainer's backpack.
@@ -642,6 +634,14 @@ You missing the cash? Hmm.
 You missing the cash? Hmm.
 You've... got your own set of problems, huh?
 You've... got your own set of problems, huh?
+Formation 4C, Gurdurr!
+Formation 4C, Gurdurr!
+Get ready to block 'em!
+Get ready to block 'em!
+Our defensive line collapsed...
+Our defensive line collapsed...
+We need to hit the gym. I hope Eko is taking challengers!
+We need to hit the gym. I hope Eko is taking challengers!
 Oh… you destroyed it.
 Oh… you destroyed it.
 I was watching that avatar, and you just… dismissed it.
@@ -700,20 +700,14 @@ Welp, I've gotta go! Grandpapa's gonna give me a tour of the mines today!
 Welp, I've gotta go! Grandpapa's gonna give me a tour of the mines today!
 Tranquill! No! Use your Tranquill powers! ...oh.
 Tranquill! No! Use your Tranquill powers! ...oh.
-Swirlix goes bye-bye...
-Swirlix goes bye-bye...
+Tranquill goes bye-bye...
+Tranquill goes bye-bye...
 You with the rangers? Ah, doesn't matter. No one's nabbing our haul!
 You with the rangers? Ah, doesn't matter. No one's nabbing our haul!
 I swear, if our fourth was here, we'd kick your teeth in! Where'd that chick run off to, anyways? She needs some teeth-kicking too...
 I swear, if our fourth was here, we'd kick your teeth in! Where'd that chick run off to, anyways? She needs some teeth-kicking too...
 I've taken worse! If you think I'm done protecting the boss, you don't know me!
 I've taken worse! If you think I'm done protecting the boss, you don't know me!
-Makya's one of the few regions where creative archaeology is still legal. You're kinda lookin' like competition.
-Makya's one of the few regions where creative archaeology is still legal. You're kinda lookin' like competition.
-Maybe that's my cue to try a different tactic. I gotta be more subtle than challenging random strangers...
-Maybe that's my cue to try a different tactic. I gotta be more subtle than challenging random strangers...
-Well ain't that a cryin' shame. Guess Makya's a bit rougher than I thought...
-Well ain't that a cryin' shame. Guess Makya's a bit rougher than I thought...
 Excuse me! We were about to settle this in battle.
 Excuse me! We were about to settle this in battle.
 But, fine, I guess we can find common ground in disposing of you.
@@ -738,24 +732,30 @@ You too, you old hag.
 You too, you old hag.
 I think you'll find me back here so long as you keep trying to gain entrance, you entitled brat.
 I think you'll find me back here so long as you keep trying to gain entrance, you entitled brat.
+Makya's one of the few regions where creative archaeology is still legal. You're kinda lookin' like competition.
+Makya's one of the few regions where creative archaeology is still legal. You're kinda lookin' like competition.
+Maybe that's my cue to try a different tactic. I gotta be more subtle than challenging random strangers...
+Maybe that's my cue to try a different tactic. I gotta be more subtle than challenging random strangers...
+Well ain't that a cryin' shame. Guess Makya's a bit rougher than I thought...
+Well ain't that a cryin' shame. Guess Makya's a bit rougher than I thought...
 Those Evolution Stones are all ours! You can't have any!
 Those Evolution Stones are all ours! You can't have any!
 Aagh! Fine! I'll leave! I've got my evolutions, anyways.
 Aagh! Fine! I'll leave! I've got my evolutions, anyways.
 ...I'll be back. I'll be back, and if I ever see you again, things're gonna be different. I swear I'll...
 ...I'll be back. I'll be back, and if I ever see you again, things're gonna be different. I swear I'll...
-I refuse to let someone like her into the Academy.
-I refuse to let someone like her into the Academy.
-We have enough of her sort at the Academy as it stands...
-We have enough of her sort at the Academy as it stands...
+The berry plant is growing.
+The berry plant is growing.
 Yo...so I heard there was like, some items to steal on this route?
 Yo...so I heard there was like, some items to steal on this route?
 I got nothin' to say. You good at battling.
 I got nothin' to say. You good at battling.
 Bruh. Ok then, I guess.
 Bruh. Ok then, I guess.
-The berry plant is growing.
-The berry plant is growing.
+I refuse to let someone like her into the Academy.
+I refuse to let someone like her into the Academy.
+We have enough of her sort at the Academy as it stands...
+We have enough of her sort at the Academy as it stands...
 Listen, kid, I'm gonna give you one last warning: you can either hit the road, or bite the dust. No? Fine. We'll do it the hard way.
 Listen, kid, I'm gonna give you one last warning: you can either hit the road, or bite the dust. No? Fine.  We'll do it the hard way.
 Hah, well, you win some, you lose some. I'm not so broken up about it.
@@ -3543,28 +3543,40 @@ Yes
 No
 No
 [Map38]
-Okay, now just to dig the moat!
-Okay, now just to dig the moat!
-They beat us, sis....
-They beat us, sis....
 It’s Michi, Jovan’s Tropius. She seems to be hiding behind him.
 It’s Michi, Jovan’s Tropius. She seems to be hiding behind him.
 It’s strange to see such a large creature look so worried.
 It’s strange to see such a large creature look so worried.
+Okay, now just to dig the moat!
+Okay, now just to dig the moat!
+They beat us, sis....
+They beat us, sis....
 East: Casaba Villa
 East: Casaba Villa
-I see some prize money on the horizon!
-I see some prize money on the horizon!
-You know what? I'd best be spending me money instead of losin' it!
-You know what? I'd best be spending me money instead of losin' it!
-Well, there goes me shore leave money.
-Well, there goes me shore leave money.
 Didn't see me comin' did ya!?
 Didn't see me comin' did ya!?
 You won't see me goin' will ya?
 You won't see me goin' will ya?
 I'll see you again. You won't see me!
 I'll see you again. You won't see me!
+I see some prize money on the horizon!
+I see some prize money on the horizon!
+You know what? I'd best be spending me money instead of losin' it!
+You know what? I'd best be spending me money instead of losin' it!
+Well, there goes me shore leave money.
+Well, there goes me shore leave money.
+I developed a multi-hit attack during Lambert's self-defense course.
+I developed a multi-hit attack during Lambert's self-defense course.
+I don't get much chance to battle, though.
+I don't get much chance to battle, though.
+Would you allow me the chance to teach my Multi Strike attack to your Pokemon?
+Would you allow me the chance to teach my Multi Strike attack to your Pokemon?
+It should be simple enough for many Pokemon.
+It should be simple enough for many Pokemon.
+Ah, excellent!
+Ah, excellent!
+Ah, pardon my indulgence in even asking.
+Ah, pardon my indulgence in even asking.
 You've checked the documents and returned! Will you accept the mind-reading Yungoos for a mere $3000?
 You've checked the documents and returned! Will you accept the mind-reading Yungoos for a mere $3000?
 Having trouble predicting your opponent's moves, my child?
@@ -3573,6 +3585,8 @@ Then let me offer you a genuine mind-reader: this Yungoos!
 Then let me offer you a genuine mind-reader: this Yungoos!
 No games, no tricks. Just, erm, $3000.
 No games, no tricks. Just, erm, $3000.
+What say you, my child?
+What say you, my child?
 Youngsters these days. So skeptical...
 Youngsters these days. So skeptical...
 Check your MasterDex! I'm telling you, it can read your opponent's mind!
@@ -3585,18 +3599,6 @@ Now, time to go treat myself to a salon day.
 Now, time to go treat myself to a salon day.
 Make some more money and check your MasterDex! This is well worth it.
 Make some more money and check your MasterDex!  This is well worth it.
-I developed a multi-hit attack during Lambert's self-defense course.
-I developed a multi-hit attack during Lambert's self-defense course.
-I don't get much chance to battle, though.
-I don't get much chance to battle, though.
-Would you allow me the chance to teach my Multi Strike attack to your Pokemon?
-Would you allow me the chance to teach my Multi Strike attack to your Pokemon?
-It should be simple enough for many Pokemon.
-It should be simple enough for many Pokemon.
-Ah, excellent!
-Ah, excellent!
-Ah, pardon my indulgence in even asking.
-Ah, pardon my indulgence in even asking.
 Wait a minute sis! This loser doesn't even have two pokemon!
 Wait a minute sis! This loser doesn't even have two pokemon!
 Really? Teeheehee, get lost, loser.
@@ -3613,8 +3615,6 @@ They beat us, sis...
 They beat us, sis...
 Waaaaaah!
 Waaaaaah!
-This is gonna be the best castle ever!
-This is gonna be the best castle ever!
 Hey! Hey!
 Hey! Hey!
 Look at this cool Sentret! It's so so fast!
@@ -3637,6 +3637,8 @@ Why did nobody tell me the shop is closed??
 Why did nobody tell me the shop is closed??
 Aww...
 Aww...
+This is gonna be the best castle ever!
+This is gonna be the best castle ever!
 I burnth my thongue...
 I burnth my thongue...
 You're theriothly too good!
@@ -3727,20 +3729,6 @@ Either way, I’m <i>lichen</i> this idea already!
 Either way, I’m <i>lichen</i> this idea already!
 See you there.
 See you there.
-Wow, you found me again!
-Wow, you found me again!
-A loss is a loss, I guess I owe you that second TM now.
-A loss is a loss, I guess I owe you that second TM now.
-I'll head back to town now. That was a fun game. I'm pretty worked up, hehe.
-I'll head back to town now. That was a fun game. I'm pretty worked up, hehe.
-You know, I fancy myself quite the battler! Care to see?
-You know, I fancy myself quite the battler! Care to see?
-You... You're quite the battler...\wt[20]
-You... You're quite the battler...\wt[20]
-I-I'm going to leave now.
-I-I'm going to leave now.
-You, defeat me? My goodness!
-You, defeat me? My goodness!
 <i>Sniff sniff</i>
 <i>Sniff sniff</i>
 I can smell energy on you! We must battle!
@@ -3749,10 +3737,20 @@ The stench of defeat!
 The stench of defeat!
 Smell ya later!
 Smell ya later!
-I’m itching to get some more play with this team.
-I’m itching to get some more play with this team.
-Finally using held items again! It’s refreshing.
-Finally using held items again! It’s refreshing.
+You know, I fancy myself quite the battler! Care to see?
+You know, I fancy myself quite the battler! Care to see?
+You... You're quite the battler...\wt[20]
+You... You're quite the battler...\wt[20]
+I-I'm going to leave now.
+I-I'm going to leave now.
+You, defeat me? My goodness!
+You, defeat me? My goodness!
+Wow, you found me again!
+Wow, you found me again!
+A loss is a loss, I guess I owe you that second TM now.
+A loss is a loss, I guess I owe you that second TM now.
+I'll head back to town now. That was a fun game. I'm pretty worked up, hehe.
+I'll head back to town now. That was a fun game. I'm pretty worked up, hehe.
 Wow, you got here fast!
 Wow, you got here fast!
 Freakishly fast. How many trainers did you beat on your way here...?
@@ -3779,14 +3777,18 @@ Maybe we’ll see each other there.
 Maybe we’ll see each other there.
 Until then, best of luck against Lambert!
 Until then, best of luck against Lambert!
-No way.
-No way.
-Seems legit.
-Seems legit.
+I’m itching to get some more play with this team.
+I’m itching to get some more play with this team.
+Finally using held items again! It’s refreshing.
+Finally using held items again! It’s refreshing.
 Yes
 Yes
 No
 No
+No way.
+No way.
+Seems legit.
+Seems legit.
 Nah.
 Nah.
 Yeah.
@@ -10598,6 +10600,8 @@ In case you're wondering -- it's a building in the very north of the Battle Plaz
 In case you're wondering -- it's a building in the very north of the Battle Plaza.
 Right next to the entrance to the Tournament Grounds.
 Right next to the entrance to the Tournament Grounds.
+The door is boarded up.
+The door is boarded up.
 Hello! Would you be interested in signing a petition to demolish the road?
 Hello! Would you be interested in signing a petition to demolish the road?
 This road currently has no financial benefit to the city ever since the bridge to the south was destroyed.
@@ -10618,36 +10622,34 @@ Eventually, we'll get enough signatures that the city's council has to listen.
 Eventually, we'll get enough signatures that the city's council has to listen.
 The city will be much better off for pedestrians.
 The city will be much better off for pedestrians.
-The door is boarded up.
-The door is boarded up.
 Look at the shiny bird!
 Look at the shiny bird!
 I wanna go up there to talk to it, but my dads never let me.
 I wanna go up there to talk to it, but my dads never let me.
 When I grow up, I wanna be a shiny bird...
 When I grow up, I wanna be a shiny bird...
-A Shiny Corviknight!
-A Shiny Corviknight!
-It's too busy watching the city to notice you.
-It's too busy watching the city to notice you.
 There you are. Ready now?
 There you are. Ready now?
 You’re insufferable some times, you know that?
 You’re insufferable some times, you know that?
 That last one was… real close.
 That last one was… real close.
-It doesn't look like this has moved in a while.
-It doesn't look like this has moved in a while.
-Bence's House
-Bence's House
-The Grand Hotel:
-The Grand Hotel:
-Makya's first five-star hotel!
-Makya's first five-star hotel!
+A Shiny Corviknight!
+A Shiny Corviknight!
+It's too busy watching the city to notice you.
+It's too busy watching the city to notice you.
 It's weird seeing the streets here so empty.
 It's weird seeing the streets here so empty.
 It's a combination of the road closure, and the Battle Festival happening right nearby.
 It's a combination of the road closure, and the Battle Festival happening right nearby.
+The Grand Hotel:
+The Grand Hotel:
+Makya's first five-star hotel!
+Makya's first five-star hotel!
+Bence's House
+Bence's House
+It doesn't look like this has moved in a while.
+It doesn't look like this has moved in a while.
 I'm a bit of a Striker.
 I'm a bit of a Striker.
 I got all sorts of tools that I can use to put the ball in the net.
@@ -10658,16 +10660,16 @@ You would not believe the mix-ups I do with this.
 You would not believe the mix-ups I do with this.
 I might be the best to ever do it, just saying.
 I might be the best to ever do it, just saying.
-Bogdan Cement Company
-Bogdan Cement Company
-Tourism Sector
-Tourism Sector
 Whooo-ee, look at them water towers!
 Whooo-ee, look at them water towers!
 Always surprises me how much is needed for concrete and other such manufacturin'.
 Always surprises me how much is needed for concrete and other such manufacturin'.
 And I thought growin' crops needed a lot...
 And I thought growin' crops needed a lot...
+Tourism Sector
+Tourism Sector
+Bogdan Cement Company
+Bogdan Cement Company
 What are you doing here?
 What are you doing here?
 Which one are you?
@@ -36012,6 +36014,8 @@ Primeval Stand Together
 Primeval Stand Together
 Empowered Brave Bird
 Empowered Brave Bird
+Primeval Bird's-Eye View
+Primeval Bird's-Eye View
 Primeval Tailwind
 Primeval Tailwind
 Primeval Whirlwind
@@ -36357,7 +36361,7 @@ One turn after this move is used, the target's HP is restored by half the user's
 One turn after this move is used, the target's HP is restored by half the user's max HP.
 The user is roused, raising its Attack and Sp. Atk by two steps.
 The user is roused, raising its Attack and Sp. Atk by two steps.
-The user yawns, making the target drowsy. They'll fall asleep at end of the next turn.
+The user yawns, making the target drowsy. They'll fall asleep at the end of the next turn.
 O usuário boceja, fazendo com que o alvo fique com sono. O alvo irá dormir no final do turno seguinte.
 The user looses a flurry of open-palmed arm thrusts that multi-hit two to five times.
 The user looses a flurry of open-palmed arm thrusts that multi-hit two to five times.
@@ -36475,10 +36479,10 @@ The user shoots filthy garbage at the target to attack.
 The user shoots filthy garbage at the target to attack.
 The user bites the target with toxic fangs with a 50% chance to poison.
 The user bites the target with toxic fangs with a 50% chance to poison.
-A cloud of poison gas is sprayed in the face of the target, poisoning it.
-A cloud of poison gas is sprayed in the face of the target, poisoning it.
-The target is stabbed with a tentacle or arm seeped with poison. It has a 10% chance to poison.
-The target is stabbed with a tentacle or arm seeped with poison. It has a 10% chance to poison.
+A cloud of noxious gas is sprayed in the face of the target, poisoning it.
+A cloud of noxious gas is sprayed in the face of the target, poisoning it.
+The target is stabbed with a tentacle or arm seeped with toxins. It has a 10% chance to poison.
+The target is stabbed with a tentacle or arm seeped with toxins. It has a 10% chance to poison.
 The user stabs the target with a poisonous stinger. This has a 30% chance to poison.
 The user stabs the target with a poisonous stinger. This has a 30% chance to poison.
 The user hits the target with its tail. Can random critical hit.
@@ -37951,7 +37955,7 @@ The user uses wind to blast its leaves at the target. This lowers the user's Def
 O usuário usa vento para lançar suas folhas contra o alvo. Isso diminui a Defesa e Def. Esp. do usuário em dois níveis.
 The user gracefully slashes the target three times. The next time this move is used, it will hit one extra time.
 O usuário graciosamente corta o alvo três vezes. Na próxima vez que este movimento for utilizado, ele cortará uma vez a mais.
-Flowers blooms with intensity, damaging the target and raising the user's Sp. Atk by two steps.
+Flowers bloom with intensity, damaging the target and raising the user's Sp. Atk by two steps.
 Flores desabrocham intensamente, causando dano ao alvo e aumentando o Atk. Esp. do usuário em dois níveis.
 Revives a fainted Grass-type party member to full HP. Only one use per battle.
 Revive e completamente recupera os PV de um aliado do tipo Grama desmaiado. Apenas um uso por batalha.
@@ -38563,6 +38567,8 @@ The user summons an allied Tyrogue. This raises its Defense by three steps, and 
 The user summons an allied Tyrogue. This raises its Defense by three steps, and its allies' by one. User becomes Fighting-type.
 The user tucks in its wings and charges from a low altitude. The user also takes 33% recoil.
 The user tucks in its wings and charges from a low altitude. The user also takes 33% recoil.
+The user raises its Sp. Atk and Defense by two steps and maximizes its Accuracy. User becomes Flying-type.
+The user raises its Sp. Atk and Defense by two steps and maximizes its Accuracy. User becomes Flying-type.
 The user sets a powerful tailwind for 6 turns, which also increases move damage by 30%. User becomes Flying-type.
 The user sets a powerful tailwind for 6 turns, which also increases move damage by 30%. User becomes Flying-type.
 All near foes are forced to switch out. User becomes Flying-type.
@@ -64564,6 +64570,14 @@ Rare Candies can still be used, however.
 {1}'s level was raised above the level cap, which shouldn't happen.<<r>><<n>><<[>>Debug: {2}<<]>>
 It won't have any effect due to the rare candy level cap at {1}.
 It won't have any effect due to the rare candy level cap at {1}.
+Every PokéCenter and every Ranger Station will contain the 4 Team Customization NPCs.
+Every PokéCenter and every Ranger Station will contain the 4 Team Customization NPCs.
+TMs are commonplace in our modern world, but they can be unwieldy to use.
+TMs are commonplace in our modern world, but they can be unwieldy to use.
+Whether to auto-screenshot your Party Showcase after major victories.
+Whether to auto-screenshot your Party Showcase after major victories.
+Whether to play the EXP-EZ Dispenser feeding animation.
+Whether to play the EXP-EZ Dispenser feeding animation.
 [27]
 0
 Animated

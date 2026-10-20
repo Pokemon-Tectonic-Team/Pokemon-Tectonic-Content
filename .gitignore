@@ -1,4 +1,5 @@
 *.dat
+!brazilian_portuguese.dat
 !spanish.dat
 !english.dat
 !chinese_simplified.dat
