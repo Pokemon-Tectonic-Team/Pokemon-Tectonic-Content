@@ -40927,7 +40927,7 @@ Doce famoso da Cidade De Mahogany. Use-o para curar todas as condições de stat
 Very sweet chocolate. It restores the HP of one Pokémon by 40 points and makes it happier.
 Chocolate bem doce. Recupera os PV de um Pokémon em 40 pontos e o torna mais feliz.
 Water with a high mineral content. It restores the HP of one Pokémon by 50 points.
-Água com alto teor de mineirais. Recupera os PV de um Pokémon em 50 pontos.
+Água com alto teor de minerais. Recupera os PV de um Pokémon em 50 pontos.
 A fizzy soda drink. It restores the HP of one Pokémon by 100 points.
 Uma bebida gaseificada. Use-o para curar todas as condições de status de um Pokémon.
 A very sweet drink. It restores the HP of one Pokémon by 150 points.
