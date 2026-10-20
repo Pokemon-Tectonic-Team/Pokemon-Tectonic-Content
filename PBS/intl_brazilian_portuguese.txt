@@ -535,7 +535,7 @@ Bom, agradeço pelo, hã... patrocínio... da sua família no passado. Providenc
 Mom isn't happy. She's sick of us leeching off of the company's success. 'Prove yourselves', she said.
 Nossa mãe não está feliz. Cansada de ver a gente parasitando o sucesso da empresa. 'Provem o seu valor', ela disse.
 So now your brother's got it in his head to become a Champion. That'll show her, right?
-Então, agora seu irmão colocou na cabeça que vai virar um Campeão. Isso vai mostrar pra ela, não vai?
+Então, agora, seu irmão colocou na cabeça que vai virar um Campeão. Isso vai mostrar pra ela, não vai?
 Not if you become Champion first.
 Não se você se tornar Campeão primeiro.
 Your brother <imp>Zain</imp> is already in the <imp>Makya region</imp>, with who knows how many badges.
@@ -64545,7 +64545,7 @@ Uncopyable
 You received a {1} ({2})
 You received a {1} ({2})
 {1} {2} {3} {4}:{5}
-{1} {2} {3} {4}:{5}
+{2} de {1} de {3}, {4}:{5}
 {1} is covered in foam!
 {1} is covered in foam!
 The foam around {1} is cleared!
