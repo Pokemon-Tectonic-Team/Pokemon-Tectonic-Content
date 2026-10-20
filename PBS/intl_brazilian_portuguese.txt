@@ -9608,7 +9608,7 @@ Spend enough time here and it begins to feel like a forum.
 West: Bluepoint Beach
 Oeste: Praia Bluepoint
 Northeast: Scenic Trail
-Northeast: Scenic Trail
+Nordeste: Trilha Cênica
 A third label has been poorly masked with white paint.
 Uma terceira marcação foi porcamente encoberta com tinta branca.
 The door is securely locked.
@@ -59319,7 +59319,7 @@ You have nowhere to teleport to!
 Want to teleport from here and return to {1}?
 Want to teleport from here and return to {1}?
 \i[AIDKIT]Your Aid Kit was refreshed to {1} charges.
-\i[AIDKIT]Your Aid Kit was refreshed to {1} charges.
+\i[AIDKIT]Seu Kit Médico foi renovado para {1} cargas.
 You are out of charges.
 You are out of charges.
 Your entire team is already fully healed!
