@@ -9964,73 +9964,73 @@ Yes
 Yes
 [Map138]
 The berry plant is growing.
-The berry plant is growing.
+A árvore frutífera está crescendo.
 I caught this Pichu in the really tall grass!
-I caught this Pichu in the really tall grass!
+Eu capturei este Pichu na grama bem alta!
 Oh, didn't you know?
-Oh, didn't you know?
+Ah, você não sabe?
 The Pokémon that live there don't live in the other grass!
-The Pokémon that live there don't live in the other grass!
+Os Pokémon que vivem lá não são os mesmos que vivem na outra grama!
 Even my new Pokémon couldn't cut it...
-Even my new Pokémon couldn't cut it...
+Nem mesmo meu Pokémon novo deu conta...
 Hmm, we'll see how they do on another try.
-Hmm, we'll see how they do on another try.
+Hmm, veremos como ele vai se sair na próxima tentativa.
 I wonder if there's good things to catch in the Cave up to the North...
-I wonder if there's good things to catch in the Cave up to the North...
+Me pergunto se têm coisas boas para capturar na Caverna ao Norte...
 Wow, uh… reaching for your Poke Balls already, huh?
-Wow, uh… reaching for your Poke Balls already, huh?
+Nossa, é… já chega assim, puxando uma Pokébola?
 I’m not here to battle you.
-I’m not here to battle you.
+Eu não estou aqui pra batalhar com você.
 I don't even have a <imp>Pokemon next to me</imp>!
-I don't even have a <imp>Pokemon next to me</imp>!
+Eu nem sequer tenho um <imp>Pokémon ao meu lado</imp>!
 ...
 ...
 To clarify… It’s standard for Trainers in Makya to have their follower Pokemon at their side when they are seeking a battle.
-To clarify… It’s standard for Trainers in Makya to have their follower Pokemon at their side when they are seeking a battle.
+Para esclarecer… É convenção entre Treinadores de Makya ter um Pokémon ao seu lado caso você esteja procurando uma batalha.
 Frankly, I would have assumed you knew that already…
-Frankly, I would have assumed you knew that already…
+Francamente, eu imaginava que você já soubesse disso…
 Anyways, now for the real reason I'm here.
-Anyways, now for the real reason I'm here.
+De qualquer maneira, sobre o real motivo de eu estar aqui…
 Name's Jovan. I'm an inventor working for Sweetrock Candy Company.
-Name's Jovan. I'm an inventor working for Sweetrock Candy Company.
+Me chamo Jovan. Sou um inventor que trabalha para a Fábrica De Doces de Sweetrock.
 You’re \PN, right? I’ve been instructed to grant you one of our prototypes.
-You’re \PN, right? I’ve been instructed to grant you one of our prototypes.
+Você é \PN, não é? Fui instruído a te conceder um de nossos protótipos.
 Here. Take this.
-Here. Take this.
+Aqui. Pegue isto.
 This device will store your EXP Candy, letting you disburse it to your Pokemon quickly and efficiently.
-This device will store your EXP Candy, letting you disburse it to your Pokemon quickly and efficiently.
+Este dispositivo guardará seus Doces de EXP, te permitindo dá-los a seus Pokémon de forma rápida e eficiente.
 It will also store the excess energy generated from battling.
-It will also store the excess energy generated from battling.
+Ele também guardará o excesso de energia gerada durante batalhas.
 That can happen when you over-train your Pokemon.
-That can happen when you over-train your Pokemon.
+Isso pode acontecer quando você treina em excesso seus Pokémon.
 It turns that energy into more EXP Candy!
-It turns that energy into more EXP Candy!
+Ele transformará essa energia em mais Doces De EXP!
 That’s the idea, anyways. Let me know if you encounter any bugs.
-That’s the idea, anyways. Let me know if you encounter any bugs.
+Ou, pelo menos, esse é o intuito. Me diga se encontrar quaisquer bugs.
 I’ve tested it thoroughly, but putting products into the wild can be such a crapshoot…
-I’ve tested it thoroughly, but putting products into the wild can be such a crapshoot…
+Eu testei tudo minuciosamente, mas lançar produtos no mercado é uma verdadeira loteria…
 Anyways, I have some research to do at the abandoned shop on Bluepoint Beach.
-Anyways, I have some research to do at the abandoned shop on Bluepoint Beach.
+De qualquer maneira, tenho algumas pesquisas para fazer na loja abandonada da Praia Bluepoint.
 If you meet me there, I might have another cool invention to give you.
-If you meet me there, I might have another cool invention to give you.
+Se me encontrar por lá, talvez eu tenha outra invenção legal para te dar.
 Now if you’ll excuse me, I have to find out where my transportation has wandered off to.
-Now if you’ll excuse me, I have to find out where my transportation has wandered off to.
+Agora, se me der licença, tenho que descobrir onde meu meio de transporte foi parar.
 Michi? Are you over here?
-Michi? Are you over here?
+Michi? Você está aí?
 …of course you are.
-…of course you are.
+…é claro que está.
 I dropped my items! Where did they go?
-I dropped my items! Where did they go?
+Eu derrubei meus itens! Onde eles estão?
 I can't believe I lost so badly!
-I can't believe I lost so badly!
+Não acredito que eu tomei essa coça!
 Guess I'll have to try again later.
-Guess I'll have to try again later.
+Acho que vou ter que tentar de novo mais tarde.
 Come back tomorrow, I might have more energy then...
-Come back tomorrow, I might have more energy then...
+Volte amanhã, talvez eu tenha mais energia...
 A well-fed Tropius. It’s carrying a large saddle with many attached bags.
-A well-fed Tropius. It’s carrying a large saddle with many attached bags.
+Uma Tropius bem alimentada. Está carregando uma grande sela com várias bolsas presas a ela.
 You hear beeping and whirring sounds from inside them.
-You hear beeping and whirring sounds from inside them.
+Você ouve bipes e zumbidos vindos de dentro das bolsas.
 [Map139]
 Welcome to the Starters Store! We stock a selection of Starter Pokemon from every region!
 Welcome to the Starters Store! We stock a selection of Starter Pokemon from every region!
