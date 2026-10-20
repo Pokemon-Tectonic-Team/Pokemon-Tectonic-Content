@@ -614,14 +614,6 @@ East: Grouz
 東：古治鎮
 North: Gigalith's Guts
 北：怪巖腸道
-Formation 4C, Gurdurr!
-鐵骨土人，4C陣型！
-Get ready to block 'em!
-準備好擋住它們！
-Our defensive line collapsed...
-我們的防線崩潰了...
-We need to hit the gym. I hope Eko is taking challengers!
-我們需要去道館，希望艾克會接受我們的挑戰！
 Hey champ, how's it hanging?
 嘿冠軍，最近怎麼樣?
 Recently got a few uhh... assets, that I'm looking to sell. Fell off of a Trainer's backpack.
@@ -642,6 +634,14 @@ You missing the cash? Hmm.
 唔，你說你手頭緊？
 You've... got your own set of problems, huh?
 你...你也有自己的難處吧?
+Formation 4C, Gurdurr!
+鐵骨土人，4C陣型！
+Get ready to block 'em!
+準備好擋住它們！
+Our defensive line collapsed...
+我們的防線崩潰了...
+We need to hit the gym. I hope Eko is taking challengers!
+我們需要去道館，希望艾克會接受我們的挑戰！
 Oh… you destroyed it.
 啊...你把它幹掉了。
 I was watching that avatar, and you just… dismissed it.
@@ -700,20 +700,14 @@ Welp, I've gotta go! Grandpapa's gonna give me a tour of the mines today!
 好吧，我也得走了！爺爺說今天要帶我參觀礦山!
 Tranquill! No! Use your Tranquill powers! ...oh.
 不！咕咕鴿！快使用你的鴿之力！
-Swirlix goes bye-bye...
-咕咕鴿...
+Tranquill goes bye-bye...
+Tranquill goes bye-bye...
 You with the rangers? Ah, doesn't matter. No one's nabbing our haul!
 你是護林員那邊的？哈，無所謂了，反正沒人能搶走我們的戰利品！
 I swear, if our fourth was here, we'd kick your teeth in! Where'd that chick run off to, anyways? She needs some teeth-kicking too...
 要是我們第四個隊友在這裡，肯定能把你打得滿地找牙！那小妞到底跑哪去了？也太無組織無紀律了...
 I've taken worse! If you think I'm done protecting the boss, you don't know me!
 我什麼局面沒見過啊？你別以為我就這麼放棄了，小瞧人也是有限度的！
-Makya's one of the few regions where creative archaeology is still legal. You're kinda lookin' like competition.
-馬凱亞是目前為數不多，仍允許進行考古創新研究的地區。你...莫不是競爭對手？
-Maybe that's my cue to try a different tactic. I gotta be more subtle than challenging random strangers...
-這或許是讓我嘗試不同策略的預警，看來以後得更加謹慎地行事了...
-Well ain't that a cryin' shame. Guess Makya's a bit rougher than I thought...
-真是令人悲憤的恥辱感啊。看來馬凱亞比我想象中更棘手...
 Excuse me! We were about to settle this in battle.
 不好意思，我們兩個本打算通過戰鬥來解決問題的。
 But, fine, I guess we can find common ground in disposing of you.
@@ -738,24 +732,30 @@ You too, you old hag.
 還有你，礙事的老太婆！
 I think you'll find me back here so long as you keep trying to gain entrance, you entitled brat.
 不管你以後來多少次，我都會在這裡擋住你的去路，自以為是的小鬼！
+Makya's one of the few regions where creative archaeology is still legal. You're kinda lookin' like competition.
+馬凱亞是目前為數不多，仍允許進行考古創新研究的地區。你...莫不是競爭對手？
+Maybe that's my cue to try a different tactic. I gotta be more subtle than challenging random strangers...
+這或許是讓我嘗試不同策略的預警，看來以後得更加謹慎地行事了...
+Well ain't that a cryin' shame. Guess Makya's a bit rougher than I thought...
+真是令人悲憤的恥辱感啊。看來馬凱亞比我想象中更棘手...
 Those Evolution Stones are all ours! You can't have any!
 那些進化石都是我們的！你一個也別想帶走！
 Aagh! Fine! I'll leave! I've got my evolutions, anyways.
 啊啊！行吧！我走我走！反正我已經拿到想要的進化石了。
 ...I'll be back. I'll be back, and if I ever see you again, things're gonna be different. I swear I'll...
 ...我一定會回來的。下次再見到你，一切都會不同。我發誓...我一定會...
-I refuse to let someone like her into the Academy.
-我不會允許她這樣的人入學的。
-We have enough of her sort at the Academy as it stands...
-學校裡她這樣的學生已經太多了...
+The berry plant is growing.
+樹果還在生長中。
 Yo...so I heard there was like, some items to steal on this route?
 聽說這是一條適合偷物品的路？
 I got nothin' to say. You good at battling.
 我無話可說，你很擅長對戰。
 Bruh. Ok then, I guess.
 我覺得，差不多吧。
-The berry plant is growing.
-樹果還在生長中。
+I refuse to let someone like her into the Academy.
+我不會允許她這樣的人入學的。
+We have enough of her sort at the Academy as it stands...
+學校裡她這樣的學生已經太多了...
 Listen, kid, I'm gonna give you one last warning: you can either hit the road, or bite the dust. No? Fine. We'll do it the hard way.
 聽著，小鬼，最後一次警告：要麼滾蛋要麼死！什麼？好吧。那我們就用硬的。
 Hah, well, you win some, you lose some. I'm not so broken up about it.
@@ -1816,8 +1816,6 @@ You've found Lilypad, a playtester and contributor.
 You've found Lilypad, a playtester and contributor.
 Stream Disasterpiece by Mori Calliope!
 Stream Disasterpiece by Mori Calliope!
-You've found Attea, a spriter and design contributor.
-You've found Attea, a spriter and design contributor.
 It is I, Riptide, and you made it through our gauntlet of nuzlockers and perfecters!
 It is I, Riptide, and you made it through our gauntlet of nuzlockers and perfecters!
 Is it strange to see me twice? Probably, but I made this basement, so my rules.
@@ -1826,6 +1824,10 @@ Now let us see if the AI can steer this strategy. Have fun!
 Now let us see if the AI can steer this strategy. Have fun!
 Wow it actually did something? That's awesome! I mean uh, thank you for playing our game!
 Wow it actually did something? That's awesome! I mean uh, thank you for playing our game!
+You've found Attea, a spriter and design contributor.
+You've found Attea, a spriter and design contributor.
+I made Pokémon World Tour, you should play it. It has polyamorous clown girls, and pirates.
+I made Pokémon World Tour, you should play it. It has polyamorous clown girls, and pirates.
 You've found Emmi, a designer.
 You've found Emmi, a designer.
 You've found Bella, a playtester.
@@ -3541,48 +3543,28 @@ Yes
 No
 沒有
 [Map38]
-Okay, now just to dig the moat!
-現在該挖護城河了！
-They beat us, sis....
-They beat us, sis....
 It’s Michi, Jovan’s Tropius. She seems to be hiding behind him.
 那是米奇，約凡的熱帶龍。她似乎藏在他的身後。
 It’s strange to see such a large creature look so worried.
 看到這麼大的生物看起來如此擔憂，真是奇怪。
+Okay, now just to dig the moat!
+現在該挖護城河了！
+They beat us, sis....
+They beat us, sis....
 East: Casaba Villa
 東：甜瓜度假區
-I see some prize money on the horizon!
-喲，這不是行走的零花錢嘛！
-You know what? I'd best be spending me money instead of losin' it!
-早知道我就把錢花掉了，現在都便宜了你！
-Well, there goes me shore leave money.
-完了，休假資金沒了。
 Didn't see me comin' did ya!?
 你沒看到我在這裡，對吧？
 You won't see me goin' will ya?
 我不會再讓你發現的！
 I'll see you again. You won't see me!
 我會瞧瞧地接近你，在你發現我之前！
-You've checked the documents and returned! Will you accept the mind-reading Yungoos for a mere $3000?
-You've checked the documents and returned! Will you accept the mind-reading Yungoos for a mere $3000?
-Having trouble predicting your opponent's moves, my child?
-Having trouble predicting your opponent's moves, my child?
-Then let me offer you a genuine mind-reader: this Yungoos!
-Then let me offer you a genuine mind-reader: this Yungoos!
-No games, no tricks. Just, erm, $3000.
-No games, no tricks. Just, erm, $3000.
-Youngsters these days. So skeptical...
-Youngsters these days. So skeptical...
-Check your MasterDex! I'm telling you, it can read your opponent's mind!
-Check your MasterDex! I'm telling you, it can read your opponent's mind!
-\PN hands over $3000.
-\PN hands over $3000.
-Now you will see its mystical powers!
-Now you will see its mystical powers!
-Now, time to go treat myself to a salon day.
-Now, time to go treat myself to a salon day.
-Make some more money and check your MasterDex! This is well worth it.
-Make some more money and check your MasterDex!  This is well worth it.
+I see some prize money on the horizon!
+喲，這不是行走的零花錢嘛！
+You know what? I'd best be spending me money instead of losin' it!
+早知道我就把錢花掉了，現在都便宜了你！
+Well, there goes me shore leave money.
+完了，休假資金沒了。
 I developed a multi-hit attack during Lambert's self-defense course.
 我在蘭伯特的防身術課堂上，學會了多重攻擊。
 I don't get much chance to battle, though.
@@ -3595,6 +3577,28 @@ Ah, excellent!
 啊，太好了!
 Ah, pardon my indulgence in even asking.
 啊，打擾了。
+You've checked the documents and returned! Will you accept the mind-reading Yungoos for a mere $3000?
+You've checked the documents and returned! Will you accept the mind-reading Yungoos for a mere $3000?
+Having trouble predicting your opponent's moves, my child?
+Having trouble predicting your opponent's moves, my child?
+Then let me offer you a genuine mind-reader: this Yungoos!
+Then let me offer you a genuine mind-reader: this Yungoos!
+No games, no tricks. Just, erm, $3000.
+No games, no tricks. Just, erm, $3000.
+What say you, my child?
+What say you, my child?
+Youngsters these days. So skeptical...
+Youngsters these days. So skeptical...
+Check your MasterDex! I'm telling you, it can read your opponent's mind!
+Check your MasterDex! I'm telling you, it can read your opponent's mind!
+\PN hands over $3000.
+\PN hands over $3000.
+Now you will see its mystical powers!
+Now you will see its mystical powers!
+Now, time to go treat myself to a salon day.
+Now, time to go treat myself to a salon day.
+Make some more money and check your MasterDex! This is well worth it.
+Make some more money and check your MasterDex!  This is well worth it.
 Wait a minute sis! This loser doesn't even have two pokemon!
 等下妹妹！這個菜雞連兩隻精靈都沒有！
 Really? Teeheehee, get lost, loser.
@@ -3611,30 +3615,30 @@ They beat us, sis...
 妹妹，我們輸了....
 Waaaaaah!
 哇啊啊啊！
+Hey! Hey!
+Hey! Hey!
+Look at this cool Sentret! It's so so fast!
+Look at this cool Sentret! It's so so fast!
+It's so fast that when it KOs something, it can switch out before another Pokémon comes in!
+It's so fast that when it KOs something, it can switch out before another Pokémon comes in!
+I'll give you the Sentret for uh, $3000. I need a LOT of ice cream.
+I'll give you the Sentret for uh, $3000. I need a LOT of ice cream.
+But...ice cream...
+But...ice cream...
+Go, Sentret! Super speed!
+Go, Sentret! Super speed!
+Hooray! Time to get ice cream!
+Hooray! Time to get ice cream!
+That's not enough! I need way more ice cream than you could afford!
+That's not enough! I need way more ice cream than you could afford!
+WHAT???
+WHAT???
+Why did nobody tell me the shop is closed??
+Why did nobody tell me the shop is closed??
+Aww...
+Aww...
 This is gonna be the best castle ever!
 它會是最好的城堡!
-Hey! Hey!
-Hey! Hey!
-Look at this cool Sentret! It's so so fast!
-Look at this cool Sentret! It's so so fast!
-It's so fast that when it KOs something, it can switch out before another Pokémon comes in!
-It's so fast that when it KOs something, it can switch out before another Pokémon comes in!
-I'll give you the Sentret for uh, $3000. I need a LOT of ice cream.
-I'll give you the Sentret for uh, $3000. I need a LOT of ice cream.
-But...ice cream...
-But...ice cream...
-Go, Sentret! Super speed!
-Go, Sentret! Super speed!
-Hooray! Time to get ice cream!
-Hooray! Time to get ice cream!
-That's not enough! I need way more ice cream than you could afford!
-That's not enough! I need way more ice cream than you could afford!
-WHAT???
-WHAT???
-Why did nobody tell me the shop is closed??
-Why did nobody tell me the shop is closed??
-Aww...
-Aww...
 I burnth my thongue...
 咬到舌頭了...
 You're theriothly too good!
@@ -3725,20 +3729,6 @@ Either way, I’m <i>lichen</i> this idea already!
 Either way, I’m <i>lichen</i> this idea already!
 See you there.
 See you there.
-Wow, you found me again!
-哇，你又找到我了！
-A loss is a loss, I guess I owe you that second TM now.
-輸了就是輸了，這個技能機也給你了。
-I'll head back to town now. That was a fun game. I'm pretty worked up, hehe.
-真好玩！嘿嘿！不過現在我要回去了，今天好開心！
-You know, I fancy myself quite the battler! Care to see?
-我覺得自己還是很擅長對戰的！要不要見識一下？
-You... You're quite the battler...\wt[20]
-你...你真厲害...\wt[20]
-I-I'm going to leave now.
-我...我得走了。
-You, defeat me? My goodness!
-這...怎麼可能？我...輸了？
 <i>Sniff sniff</i>
 <i>嗅嗅嗅</i>
 I can smell energy on you! We must battle!
@@ -3747,10 +3737,20 @@ The stench of defeat!
 失敗的惡臭！
 Smell ya later!
 願再聞其詳！
-I’m itching to get some more play with this team.
-I’m itching to get some more play with this team.
-Finally using held items again! It’s refreshing.
-Finally using held items again! It’s refreshing.
+You know, I fancy myself quite the battler! Care to see?
+我覺得自己還是很擅長對戰的！要不要見識一下？
+You... You're quite the battler...\wt[20]
+你...你真厲害...\wt[20]
+I-I'm going to leave now.
+我...我得走了。
+You, defeat me? My goodness!
+這...怎麼可能？我...輸了？
+Wow, you found me again!
+哇，你又找到我了！
+A loss is a loss, I guess I owe you that second TM now.
+輸了就是輸了，這個技能機也給你了。
+I'll head back to town now. That was a fun game. I'm pretty worked up, hehe.
+真好玩！嘿嘿！不過現在我要回去了，今天好開心！
 Wow, you got here fast!
 哇，你來得真快！
 Freakishly fast. How many trainers did you beat on your way here...?
@@ -3777,14 +3777,18 @@ Maybe we’ll see each other there.
 也許我們會在那裡見面。
 Until then, best of luck against Lambert!
 直到那時，祝你對抗蘭伯特好運！
-No way.
-No way.
-Seems legit.
-Seems legit.
+I’m itching to get some more play with this team.
+I’m itching to get some more play with this team.
+Finally using held items again! It’s refreshing.
+Finally using held items again! It’s refreshing.
 Yes
 學
 No
 不學
+No way.
+No way.
+Seems legit.
+Seems legit.
 Nah.
 Nah.
 Yeah.
@@ -10596,6 +10600,8 @@ In case you're wondering -- it's a building in the very north of the Battle Plaz
 你不知道在哪裡嗎？就在對戰區最北邊的建築裡。
 Right next to the entrance to the Tournament Grounds.
 就在競技大會那邊的入口處。
+The door is boarded up.
+這扇門被木板封死了。
 Hello! Would you be interested in signing a petition to demolish the road?
 你好，你願意簽署一份拆除這條路的聯名請願書嗎？
 This road currently has no financial benefit to the city ever since the bridge to the south was destroyed.
@@ -10616,36 +10622,34 @@ Eventually, we'll get enough signatures that the city's council has to listen.
 我們總有一天能得到足夠多的支持，讓議會不得不聽取我們的聲音。
 The city will be much better off for pedestrians.
 這隻會讓城市更美好。
-The door is boarded up.
-這扇門被木板封死了。
 Look at the shiny bird!
 快看那隻閃亮的鳥兒！
 I wanna go up there to talk to it, but my dads never let me.
 我想上去跟它談談，但我爸爸從來不讓我去那兒。
 When I grow up, I wanna be a shiny bird...
 等我長大了，我也要變成一隻閃亮的鳥...
-A Shiny Corviknight!
-是閃光鋼鎧鴉！
-It's too busy watching the city to notice you.
-它正忙著巡視城市，根本沒注意到你。
 There you are. Ready now?
 你在這裡。現在準備好了嗎？
 You’re insufferable some times, you know that?
 有時候你真是讓人受不了，你知道嗎？
 That last one was… real close.
 那最後一次真的很接近。
-It doesn't look like this has moved in a while.
-It doesn't look like this has moved in a while.
-Bence's House
-本斯家
-The Grand Hotel:
-宏偉酒店：
-Makya's first five-star hotel!
-馬凱亞第一家五星級！
+A Shiny Corviknight!
+是閃光鋼鎧鴉！
+It's too busy watching the city to notice you.
+它正忙著巡視城市，根本沒注意到你。
 It's weird seeing the streets here so empty.
 在這裡看到街道如此空曠真是奇怪。
 It's a combination of the road closure, and the Battle Festival happening right nearby.
 這是道路封閉和戰鬥節慶典臨近的原因。
+The Grand Hotel:
+宏偉酒店：
+Makya's first five-star hotel!
+馬凱亞第一家五星級！
+Bence's House
+本斯家
+It doesn't look like this has moved in a while.
+It doesn't look like this has moved in a while.
 I'm a bit of a Striker.
 我要當前鋒！
 I got all sorts of tools that I can use to put the ball in the net.
@@ -10656,16 +10660,16 @@ You would not believe the mix-ups I do with this.
 你一定不敢相信，我竟然把這個給弄混了。
 I might be the best to ever do it, just saying.
 我可能會是史上最強的前鋒！當然我只是說說而已。
-Bogdan Cement Company
-博登澆築
-Tourism Sector
-旅行區
 Whooo-ee, look at them water towers!
 哇哦，快看這些水塔！
 Always surprises me how much is needed for concrete and other such manufacturin'.
 沒想到造它需要用那麼多混凝土！
 And I thought growin' crops needed a lot...
 比我在鄉下一年用的都多...
+Tourism Sector
+旅行區
+Bogdan Cement Company
+博登澆築
 What are you doing here?
 你在做什麼？
 Which one are you?
@@ -35340,6 +35344,8 @@ Mending Spring
 治癒之泉
 Pressure Burst
 壓力爆破
+Pressure Stream
+Pressure Stream
 Rainstorm
 傾盆大雨
 Ramming Speed
@@ -35684,8 +35690,6 @@ Icicle Pin
 冰柱圖釘
 Icy Injection
 凍液注射
-Inure
-適者生存
 Invite Hail
 天冰
 Looming Winter
@@ -36010,6 +36014,8 @@ Primeval Stand Together
 原初團結一致
 Empowered Brave Bird
 賦權勇鳥猛攻
+Primeval Bird's-Eye View
+Primeval Bird's-Eye View
 Primeval Tailwind
 原初順風
 Primeval Whirlwind
@@ -36355,7 +36361,7 @@ One turn after this move is used, the target's HP is restored by half the user's
 使用此技能1回合後，目標回覆使用者最大HP的一半。
 The user is roused, raising its Attack and Sp. Atk by two steps.
 使用者被喚醒，增加物攻和特攻2級。
-The user yawns, making the target drowsy. They'll fall asleep at end of the next turn.
+The user yawns, making the target drowsy. They'll fall asleep at the end of the next turn.
 打個大哈欠引起睡意。在下1回合讓對手陷入睡眠狀態。
 The user looses a flurry of open-palmed arm thrusts that multi-hit two to five times.
 The user looses a flurry of open-palmed arm thrusts that multi-hit two to five times.
@@ -36785,8 +36791,8 @@ The user bursts into a bubbly song. Pokémon hit by this are cured of burn. Deal
 The user bursts into a bubbly song. Pokémon hit by this are cured of burn. Deals 50% less damage to allies.
 The user immerses the target in superheated steam. This has a 30% chance to burn.
 將滾燙的蒸汽噴向對手。30%概率讓對手燒傷。
-It swamps the area with a giant wave, hitting every battler nearby and underwater. Has a 10% chance to waterlog.
-用巨浪淹沒場地，擊中附近的每個精靈以及水下的精靈。有10%的概率使目標浸水。
+It swamps the area with a giant wave, hitting every battler nearby and underwater.
+利用大浪攻擊自己周圍所有的精靈。
 Strikes the target thrice, with mastery of the Water style. Always results in a critical hit.
 將水之流派修煉至大成的仿若行雲流水般的3次連擊。必定會擊中要害。
 The user lunges at the target and has a 40% chance to flinch the target.
@@ -37901,6 +37907,8 @@ The user opens a spring to blast the target, also forming an Aqua Ring around th
 打開一眼泉水攻擊對手，同時給自己一個水流環，每回合恢復10%HP。
 Attacks with pressurized water. Deals 50% more damage if the user has been hurt by the foe in the same turn.
 使用加壓水槍進行攻擊，如果此回合內被對方攻擊過，則傷害增加50%。
+The target is struck with a stream of pressurized water. This has a 10% chance to waterlog.
+The target is struck with a stream of pressurized water. This has a 10% chance to waterlog.
 Summons rainstorm for six turns, boosting Water-type attacks and hindering most others.
 召喚持續6回合的暴雨，提升水屬性攻擊並阻礙大多數其他攻擊。
 The user rams its sharp face right into the target. This lowers the user's Speed by three steps.
@@ -37947,7 +37955,7 @@ The user uses wind to blast its leaves at the target. This lowers the user's Def
 The user uses wind to blast its leaves at the target. This lowers the user's Defense and Sp. Def by two steps.
 The user gracefully slashes the target three times. The next time this move is used, it will hit one extra time.
 優雅地砍擊目標三次，下次使用這招將額外再多砍一次。
-Flowers blooms with intensity, damaging the target and raising the user's Sp. Atk by two steps.
+Flowers bloom with intensity, damaging the target and raising the user's Sp. Atk by two steps.
 在下方綻放鮮花，造成傷害。大幅度增加自己的特攻。
 Revives a fainted Grass-type party member to full HP. Only one use per battle.
 Revives a fainted Grass-type party member to full HP. Only one use per battle.
@@ -38241,8 +38249,6 @@ The user pins the target down with icy spikes, applying frostbite and trapping i
 使用者用冰刺釘住目標，使其凍傷並被困住。
 Injects supercold liquid into the target, damaging them and halving all future healing.
 將超低溫液體注射到對手身上，對其造成傷害並減半其之後的治療效果。
-The user inures themselves to a harsh environment, shedding their type weaknesses.
-使得自己適應惡劣的環境，擺脫自己的屬性弱點。
 The user frostbites the target, then welcomes in hail for eight turns.
 使用者使目標凍傷，然後召喚8回合的冰雹。
 The user foretells imminent winter. Two turns later, extreme cold attacks the targeted spot.
@@ -38561,6 +38567,8 @@ The user summons an allied Tyrogue. This raises its Defense by three steps, and 
 The user summons an allied Tyrogue. This raises its Defense by three steps, and its allies' by one. User becomes Fighting-type.
 The user tucks in its wings and charges from a low altitude. The user also takes 33% recoil.
 收攏翅膀，通過低空飛行突擊對手。自己也會受到33%傷害。
+The user raises its Sp. Atk and Defense by two steps and maximizes its Accuracy. User becomes Flying-type.
+The user raises its Sp. Atk and Defense by two steps and maximizes its Accuracy. User becomes Flying-type.
 The user sets a powerful tailwind for 6 turns, which also increases move damage by 30%. User becomes Flying-type.
 The user sets a powerful tailwind for 6 turns, which also increases move damage by 30%. User becomes Flying-type.
 All near foes are forced to switch out. User becomes Flying-type.
@@ -38635,8 +38643,6 @@ The user summons sunshine for six turns. This raises its Attack and Sp. Atk. Use
 召喚持續6回合的晴天，增加自身的攻擊和特攻，並使自身變為火屬性。
 A spray of bubbles is forcefully ejected at all nearby foes. This lowers their Speed by three steps.
 一股氣泡強力噴射向所有附近的敵方，使其速度減小3級。
-It swamps the area with a giant wave, hitting every battler nearby and underwater.
-利用大浪攻擊自己周圍所有的精靈。
 The user enters a state of total focus, prevents stat steps from being lowered, raises Attack and Sp. Def, and becomes Water-type.
 The user enters a state of total focus, prevents stat steps from being lowered, raises Attack and Sp. Def, and becomes Water-type.
 The user summons rainstorm for six turns and surrounds itself with Aqua Ring. User becomes Water-type.
@@ -64552,6 +64558,26 @@ But it failed, since {1} is already covered in foam!
 But it failed, since {1} is already covered in foam!
 A targeting reticle shows which of your battlers the Avatar wants to attack. It will switch to another battler, however, if their attack is made impossible.
 A targeting reticle shows which of your battlers the Avatar wants to attack. It will switch to another battler, however, if their attack is made impossible.
+This is the final level cap. It cannot be raised.
+This is the final level cap. It cannot be raised.
+Once at level {1}, your Pokémon cannot gain experience or have EXP Candies used on them.
+Once at level {1}, your Pokémon cannot gain experience or have EXP Candies used on them.
+Rare Candies can be used, but only {1} times, up to level {2}.
+Rare Candies can be used, but only {1} times, up to level {2}.
+Rare Candies can still be used, however.
+Rare Candies can still be used, however.
+{1}'s level was raised above the level cap, which shouldn't happen.<<n>><<[>>Debug: {2}<<]>>
+{1}'s level was raised above the level cap, which shouldn't happen.<<r>><<n>><<[>>Debug: {2}<<]>>
+It won't have any effect due to the rare candy level cap at {1}.
+It won't have any effect due to the rare candy level cap at {1}.
+Every PokéCenter and every Ranger Station will contain the 4 Team Customization NPCs.
+Every PokéCenter and every Ranger Station will contain the 4 Team Customization NPCs.
+TMs are commonplace in our modern world, but they can be unwieldy to use.
+TMs are commonplace in our modern world, but they can be unwieldy to use.
+Whether to auto-screenshot your Party Showcase after major victories.
+Whether to auto-screenshot your Party Showcase after major victories.
+Whether to play the EXP-EZ Dispenser feeding animation.
+Whether to play the EXP-EZ Dispenser feeding animation.
 [27]
 0
 Animated
@@ -66443,7 +66469,7 @@ Focus Punch
 集中拳
 Follow Me
 跟隨我
-Ability Surpressed
+Ability Suppressed
 特性被壓制
 Gem Consumed
 寶石被消耗
