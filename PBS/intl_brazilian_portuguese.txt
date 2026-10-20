@@ -51267,23 +51267,23 @@ Conheço todo e qualquer movimento que Pokémon aprendem ao subir de nível ou e
 I can also help Pokemon to relearn moves they learned through TMs, Mentoring, or Sketching!
 Posso, também, ajudar pokémon a reaprenderem movimentos que aprenderam com TMs, Mentorias ou Rascunhando!
 Use TMs
-Use TMs
+Usar MTs
 Adjust Style Points
 Ajustar Pontos De Estilo
 Open which utility?
 Open which utility?
 What are Technical Machines?
-What are Technical Machines?
+O que são Máquinas Técnicas?
 I'm the Tech Supporter. How can I help?
-I'm the Tech Supporter. How can I help?
+Eu sou a Assistente Técnica. Como posso ajudar?
 Technical Machines, or TMs for short, are items that teach moves to your Pokemon!
-Technical Machines, or TMs for short, are items that teach moves to your Pokemon!
+Máquinas Técnicas, ou, abreviadamente, MTs, são itens que ensinam movimentos aos seus Pokémon.
 TMs are common place in our modern world, and they be unwieldy to use.
-TMs are common place in our modern world, and they be unwieldy to use.
+MTs são bem comuns em nosso mundo moderno, mas podem ser um tanto impráticas de usar.
 I'm here to help you use your TMs quickly and efficiently.
-I'm here to help you use your TMs quickly and efficiently.
+Estou aqui para te ajudar a usar seus MTs de forma rápida e eficiente.
 Just select a Pokemon, and you'll be able to teach it any of the compatible TMs you own!
-Just select a Pokemon, and you'll be able to teach it any of the compatible TMs you own!
+Apenas escolha um Pokémon, e eu serei capaz de ensiná-lo qualquer uma das MTs compatíveis que você possui!
 Speech frame {1}.
 Speech frame {1}.
 Audio Options
@@ -64571,9 +64571,9 @@ Rare Candies can still be used, however.
 It won't have any effect due to the rare candy level cap at {1}.
 It won't have any effect due to the rare candy level cap at {1}.
 Every PokéCenter and every Ranger Station will contain the 4 Team Customization NPCs.
-Every PokéCenter and every Ranger Station will contain the 4 Team Customization NPCs.
+Todo Centro Pokémon e toda Estação Ranger conterão os 4 NPCs de Customização Da Equipe.
 TMs are commonplace in our modern world, but they can be unwieldy to use.
-TMs are commonplace in our modern world, but they can be unwieldy to use.
+MTs são bem comuns em nosso mundo moderno, mas podem ser um tanto impráticas de usar.
 Whether to auto-screenshot your Party Showcase after major victories.
 Whether to auto-screenshot your Party Showcase after major victories.
 Whether to play the EXP-EZ Dispenser feeding animation.
