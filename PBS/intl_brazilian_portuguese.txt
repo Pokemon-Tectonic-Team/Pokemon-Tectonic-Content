@@ -4439,65 +4439,65 @@ Sim
 [Map50]
 [Map51]
 I'm studying the process of growing berries in caves and cave-like environments.
-I'm studying the process of growing berries in caves and cave-like environments.
+Estou estudando o processo de cultivar frutas em ambientes cavernosos.
 Feel free to take some!
-Feel free to take some!
+Sinta-se livre para pegar algumas!
 Careful in the mud, though.
-Careful in the mud, though.
+Só tome cuidado com a lama.
 South: Casaba Villa
-South: Casaba Villa
+Sul: Vila Casaba
 North: Volcanic Shore
-North: Volcanic Shore
+Norte: Costa Vulcânica
 I came here to rediscover my love of adventure.
-I came here to rediscover my love of adventure.
+Vim para cá para redescobrir meu amor por aventuras.
 Would you mind awfully if we were to battle?
-Would you mind awfully if we were to battle?
+Você se importaria muito se a gente batalhasse?
 You have thoroughly shamed me...
-You have thoroughly shamed me...
+Você me humilhou profundamente...
 That was most enjoyable, perhaps we shall cross Pokémon again!
-That was most enjoyable, perhaps we shall cross Pokémon again!
+Isso foi muito agradável, talvez voltemos a batalhar novamente!
 There's another bit of text, but it's illegible.
-There's another bit of text, but it's illegible.
+Tem outro pedaço de texto, mas é ilegível.
 Please be advised!
-Please be advised!
+Por favor, esteja ciente!
 The mottled spots of ground are areas where wild Pokémon can attack you.
-The mottled spots of ground are areas where wild Pokémon can attack you.
+As partes manchadas de solo são áreas onde Pokémon selvagens podem atacar você.
 Please avoid them if you aren't ready to fend off wild Pokémon!
-Please avoid them if you aren't ready to fend off wild Pokémon!
+Por favor, evite-as se não conseguir afastar Pokémon selvagens!
 The berry plant is growing.
-The berry plant is growing.
+A árvore frutífera está crescendo.
 You have absconded with my fungus.
-You have absconded with my fungus.
+Afanaste meu fungo.
 Nevermind my meditations upon its structure, sustenance, and provenance - surely your whims trump any of my concerns.
-Nevermind my meditations upon its structure, sustenance, and provenance - surely your whims trump any of my concerns.
+Menosprezemos minhas meditações acerca de sua estrutura, sustento e origem - com certeza, vossos caprichos prevalecem sobre os meus.
 Must I entertain strangers even now? We are waiting for a sudden serendipitous arrival.
-Must I entertain strangers even now? We are waiting for a sudden serendipitous arrival.
+Devo eu lidar com estranhos mesmo agora? Estamos à espera de uma afortunada e repentina chegada.
 By no idea of mine, let me make myself clear.
-By no idea of mine, let me make myself clear.
+Não por ideia minha - permita-me manifestar.
 And yet, perhaps she was not entirely wrong.
-And yet, perhaps she was not entirely wrong.
+E, ainda assim, talvez ela não estivesse integralmente incorreta.
 The steel-grey nature of your spirit is apparent to me even now.
-The steel-grey nature of your spirit is apparent to me even now.
+A natureza cinza-aço de teu espírito é evidente a mim - mesmo agora.
 Would you speak with my companion, perchance?
-Would you speak with my companion, perchance?
+Porventura podes falar com minha companheira?
 She is resting to the south.
-She is resting to the south.
+Ela repousa ao Sul.
 I shall remain here and contemplate the impermanence of... well, fungi, I suppose.
-I shall remain here and contemplate the impermanence of... well, fungi, I suppose.
+Permanecerei aqui, contemplando a impermanência de... bem, fungos, suponho.
 If you would take your leave, this mushroom demands my full attention.
-If you would take your leave, this mushroom demands my full attention.
+Se puder se retirar, este cogumelo demanda minha completa atenção.
 We ran out of sweets at the resort, so we're turning to desperate measures.
-We ran out of sweets at the resort, so we're turning to desperate measures.
+Ficamos sem doces no resort, então estamos recorrendo a medidas extremas.
 The blue mineral over there is edible. And quite energizing, if my coworkers are to be believed.
-The blue mineral over there is edible. And quite energizing, if my coworkers are to be believed.
+Aquele mineral azul bem ali é comestível. E bastante revigorante, se formos acreditar nos meus colegas de trabalho.
 Except... I don't think I can bring myself to serve rocks to our guests.
-Except... I don't think I can bring myself to serve rocks to our guests.
+Entretanto... não acho que consigo me ver servindo pedras para nossos convidados.
 So, I decided to give my mining tool away to the first trainer to pass through.
-So, I decided to give my mining tool away to the first trainer to pass through.
+Então, resolvi dar minha ferramenta de mineração para o primeiro treinador que passasse por aqui.
 Here.
-Here.
+Aqui está.
 Wish me luck facing my boss.
-Wish me luck facing my boss.
+Me deseje sorte para enfrentar meu chefe.
 [Map52]
 A few cookbooks have been set out.
 A few cookbooks have been set out.
