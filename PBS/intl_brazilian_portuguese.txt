@@ -59083,27 +59083,27 @@ Canal Deserto
 Feebas' Fin
 Nadadeira De Feebas
 Tomorrow's weather forecast for {1}!
-Tomorrow's weather forecast for {1}!
+Esta é a previsão do tempo de amanhã para {1}!
 The area will experience normal conditions all day.
-The area will experience normal conditions all day.
+A área experienciará condições normais o dia todo.
 This means cloud cover at around 50 percent, with a very low chance for precipitation.
-This means cloud cover at around 50 percent, with a very low chance for precipitation.
+Isso significa uma cobertura de nuvens em torno de 50%, com baixíssima probabilidade de precipitação.
 The morning will see {1}.
-The morning will see {1}.
+A manhã terá {1}.
 That weather will continue into the afternoon.
-That weather will continue into the afternoon.
+O tempo continuará dessa forma durante a tarde.
 That evening: even more of the same.
-That evening: even more of the same.
+Durante a noite: ainda mais do mesmo.
 However, things will shake up in the evening with {1}.
-However, things will shake up in the evening with {1}.
+Entretanto, as coisas mudarão durante a noite com {1}.
 In the afternoon, that will make way for {1}.
-In the afternoon, that will make way for {1}.
+Durante a tarde, isso dará lugar para {1}.
 The day will close out with the same conditions.
-The day will close out with the same conditions.
+O dia será encerrado com condições semelhantes.
 More {1} will return in the evening.
-More {1} will return in the evening.
+Mais de {1} retornará no período da tarde.
 Finally, in the evening we'll get {1}.
-Finally, in the evening we'll get {1}.
+Finalmente, no período da noite, teremos {1}.
 Please take caution!
 Please take caution!
 We warn the viewer to be careful.
@@ -59111,27 +59111,27 @@ We warn the viewer to be careful.
 We recommend citizens stay indoors.
 We recommend citizens stay indoors.
 cloudy skies with light rain showers
-cloudy skies with light rain showers
+um céu nublado com chuvas leves
 cloudy skies with light snowfall
-cloudy skies with light snowfall
+um céu nublado com neve fraca
 sunny skies with dry, dusty air
-sunny skies with dry, dusty air
+um céu ensolarado com ar seco e poeirento
 sunny skies and hot temperatures
-sunny skies and hot temperatures
+um céu ensolarado e temperatura elevada
 overcast skies with high ambient humidity
-overcast skies with high ambient humidity
+um céu coberto com alta umidade do ar
 total cloud cover and heavy rain with thunder
-total cloud cover and heavy rain with thunder
+um céu totalmente coberto e chuva forte com trovões
 blizzard conditions with high winds and heavy snowfall
-blizzard conditions with high winds and heavy snowfall
+nevasca com ventos fortes e neve intensa
 hot and dry sandstorm conditions
-hot and dry sandstorm conditions
+um tempo seco e quente com tempestades de areia
 cold and wet fog wtih reduced visibility
-cold and wet fog wtih reduced visibility
+um nevoeiro frio e úmido com visibilidade reduzida
 smoggy and dangerous conditions
-smoggy and dangerous conditions
+um nevoeiro denso, poluído e perigoso
 lightly cloudy skies with no precipitation
-lightly cloudy skies with no precipitation
+um céu levemente nublado sem precipitação
 Oh? They dropped something else as well!
 Ah? Deixou cair mais alguma coisa!
 The fleeing trainer dropped some food!
