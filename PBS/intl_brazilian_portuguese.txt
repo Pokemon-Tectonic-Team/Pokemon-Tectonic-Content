@@ -9858,37 +9858,37 @@ Você ainda não completou o que precisa fazer na ilha!
 Would you like to leave Casaba Villa and go to the Mainland?
 Você gostaria de deixar a Vila Casaba e ir para o Continente?
 Oh, so it is you!
-Oh, so it is you!
+Oh, então és tu!
 Forgive my doppelganger – a Ditto that stalks me incessantly, claiming to be the real deal.
-Forgive my doppelganger – a Ditto that stalks me incessantly, claiming to be the real deal.
+Perdoe minha sósia – uma Ditto que me persegue incessantemente, afirmando ser a verdadeira.
 I had a dream that I would find someone here, and here you are!
-I had a dream that I would find someone here, and here you are!
+Sonhei que encontraria alguém aqui, e aqui estás!
 May I read your palm?
-May I read your palm?
+Posso ler tua mão?
 Oh? Afraid I may hex you?
-Oh? Afraid I may hex you?
+Oh? Com medo que eu lhe amaldiçoe?
 Rest assured, gramarye isn’t my forte.
-Rest assured, gramarye isn’t my forte.
+Tranquilize-se, feitiçaria não é meu forte.
 Very well.
-Very well.
+Muito bem.
 At least take this. It’s designed to ward off evil.
-At least take this. It’s designed to ward off evil.
+Ao menos pegue isto. Foi feito para afastar o mal.
 Many thanks.
-Many thanks.
+Agradeço.
 Now, let me see... yes, of course.
-Now, let me see... yes, of course.
+Agora, vejamos... sim, é claro.
 You are the shuttle of fate’s weave. Undoubtedly who I have awaited.
-You are the shuttle of fate’s weave. Undoubtedly who I have awaited.
+És a lançadeira que o destino usa para tecer. Indubitavelmente, és quem eu aguardava.
 Your future is fraught with danger, of course, so I made this to ward off evil influences. Please, take it.
-Your future is fraught with danger, of course, so I made this to ward off evil influences. Please, take it.
+Teu futuro é repleto de perigos, é claro, então fiz isto para afastar influências malignas. Por favor, pegue.
 Well, I think my stalker and I shall be off now.
-Well, I think my stalker and I shall be off now.
+Bom, acredito que minha perseguidora e eu nos retiraremos agora.
 She wishes to visit some <imp>ice cave</imp> or another to prove a point.
-She wishes to visit some <imp>ice cave</imp> or another to prove a point.
+Ela deseja visitar uma <imp>caverna de gelo</imp> qualquer para provar um ponto.
 I dare not leave her alone, claiming to be me, so off I go!
-I dare not leave her alone, claiming to be me, so off I go!
+Não ouso deixá-la sozinha, passando-se por mim; portanto, vou partindo!
 Fare you well, traveler!
-Fare you well, traveler!
+Passar bem, viajante!
 Lambert, the gym leader, came running through here earlier.
 Lambert, o líder de Ginásio, passou correndo por aqui mais cedo.
 He put a rock behind him to block it off, for some reason.
@@ -9910,19 +9910,19 @@ We'll see.
 Oh, shut up.
 Oh, shut up.
 Sure.
-Sure.
+Claro.
 I don't need your help.
-I don't need your help.
+Não preciso da sua ajuda.
 No
-No
+Não
 Yes
-Yes
+Sim
 Maybe later.
-Maybe later.
+Talvez depois.
 Sure, let's go.
 Sure, let's go.
 No way.
-No way.
+De jeito nenhum.
 [Map137]
 I'm a safety minded person.
 I'm a safety minded person.
@@ -59931,7 +59931,7 @@ Appearance changed to {1}!
 LEARNED
 LEARNED
 Screenshot saved to folder {1}<<1>>
-Screenshot saved to folder {1}<<1>>
+Captura de tela salva na pasta {1}<<1>>
 There's no more room for Pokémon!<<1>>
 There's no more room for Pokémon!<<1>>
 The Pokémon Boxes are full and can't accept any more!
