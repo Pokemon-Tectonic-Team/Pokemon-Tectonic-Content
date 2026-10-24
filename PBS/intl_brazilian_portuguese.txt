@@ -10044,9 +10044,9 @@ Espero que encontre um Pokémon que te faça feliz!
 [Map141]
 [Map142]
 A plushie of Poliwag.
-A plushie of Poliwag.
+Uma pelúcia de Poliwag.
 A tag informs you that its official name is "Waggles"!
-A tag informs you that its official name is "Waggles"!
+Uma etiqueta te diz que seu nome oficial é "Polinho"!
 [Map143]
 [Map144]
 Have you taken a stroll down the Eleig River?
