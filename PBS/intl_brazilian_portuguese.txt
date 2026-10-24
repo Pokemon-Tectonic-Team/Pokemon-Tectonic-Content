@@ -5791,9 +5791,9 @@ Yes
 Yes
 [Map67]
 It's locked.
-It's locked.
+Trancada.
 A sign on the door reads "Employees Only!!"
-A sign on the door reads "Employees Only!!"
+Uma placa na porta diz "Apenas Funcionários!!".
 [Map68]
 I'm participating in the current archival project at the Digsite Ruins.
 I'm participating in the current archival project at the Digsite Ruins.
