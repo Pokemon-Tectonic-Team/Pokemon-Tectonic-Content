@@ -3608,7 +3608,7 @@ Ei! Você pisou no nosso castelo de areia!
 Let's rough 'em up, sis!
 Vamos dar uma surra nessa pessoa, maninha!
 I'm gonna go tell on you!
-Eu vou contar isso que vocẽ fez!
+Eu vou contar isso que você fez!
 Our older brother will beat you up!
 Nosso irmãozão vai te arrebentar!
 They beat us, sis...
@@ -9744,7 +9744,7 @@ Isso aconteceu há oito anos.
 But, uh, those people didn’t just disappear. Half the people you meet are gonna be ex-members.
 Mas, hã, as pessoas na organização não sumiram, simplesmente. Metade das pessoas que você encontrar serão ex-membros.
 Even more than that in the regional administration. They’re chill, but just… it’s better to know.
-Ainda mais que a metade na administração reginal. Eles são tranquilos, mas, enfim... é melhor saber.
+Ainda mais que isso na administração regional. Eles são tranquilos, mas, enfim... é melhor saber.
 Oh, so you did your research? Great. Spares me the effort.
 Ah, então você fez umas pesquisas? Ótimo. Me poupa o trabalho de explicar.
 Anyways.
@@ -9778,7 +9778,7 @@ Jogando sujo por mais de uma década.
 Hey, \PN. I heard you beat Lambert.
 Ei, \PN. Ouvi falar que você derrotou o Lambert.
 Guessing you’re gonna head for the <imp>mainland</imp> now?
-Imagino que vocẽ pretende ir para o <imp>continente</imp> agora?
+Imagino que você pretende ir para o <imp>continente</imp> agora?
 Well, before you go, meet me at the dock, 'kay?
 Bem, antes de ir, me encontre das docas, okay?
 Got something to say. Thanks.
