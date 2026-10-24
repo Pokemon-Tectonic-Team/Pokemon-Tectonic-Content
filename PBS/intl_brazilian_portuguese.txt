@@ -10033,13 +10033,13 @@ You hear beeping and whirring sounds from inside them.
 Você ouve bipes e zumbidos vindos de dentro das bolsas.
 [Map139]
 Welcome to the Starters Store! We stock a selection of Starter Pokemon from every region!
-Welcome to the Starters Store! We stock a selection of Starter Pokemon from every region!
+Boas-vindas à Loja De Iniciais! Temos um estoque de Pokémon Iniciais de todas as regiões!
 If you've found a Token you can exchange one with one of our employees for a matching starter.
-If you've found a Token you can exchange one with one of our employees for a matching starter.
+Se encontrou uma Ficha, você pode trocá-la com um de nossos funcionários por um inicial correspondente.
 For example, you could exchange a Grass Token for a Bulbasaur, a Snivy or a Grookey.
-For example, you could exchange a Grass Token for a Bulbasaur, a Snivy or a Grookey.
+Por exemplo, você poderia trocar uma Ficha De Grama por um Bulbassauro, um Snivy ou um Grookey.
 I hope you find a Pokemon that makes you happy!
-I hope you find a Pokemon that makes you happy!
+Espero que encontre um Pokémon que te faça feliz!
 [Map140]
 [Map141]
 [Map142]
