@@ -2634,33 +2634,33 @@ Where is she now?
 Where is she now?
 [Map26]
 What the...
-What the...
+Mas o quê...
 Nevermind. Kid, I need some help.
-Nevermind. Kid, I need some help.
+Deixa pra lá. Você aí, eu preciso de uma ajudinha.
 That thing needs to go down, and I’m fresh out of Pokémon.
-That thing needs to go down, and I’m fresh out of Pokémon.
+Aquela coisa precisa ser derrotada, mas eu tô completamente sem Pokémon.
 Please. We can’t let it escape.
-Please. We can’t let it escape.
+Por favor. Não podemos deixar aquilo escapar.
 Don’t underestimate it.
-Don’t underestimate it.
+Não subestime aquela coisa.
 You'll need to send out <imp>two Pokemon at a time</imp> to even stand a chance.
-You'll need to send out <imp>two Pokemon at a time</imp> to even stand a chance.
+Você vai precisar usar <imp>dois Pokémon de uma só vez</imp> para sequer ter alguma chance.
 I don’t have anything left. This is all on you.
-I don’t have anything left. This is all on you.
+Eu não tenho mais nada, então a batalha é por sua conta.
 I can’t thank you enough. Honest.
-I can’t thank you enough. Honest.
+Eu nem sei como agradecer. De verdade.
 That thing was what we’re calling an <imp>Avatar</imp>.
-That thing was what we’re calling an <imp>Avatar</imp>.
+Aquela coisa era o que chamamos de "<imp>Avatar</imp>".
 They started showing up a few months back.
-They started showing up a few months back.
+Eles começaram a aparecer há alguns meses.
 Most trainers aren't brave enough to take one on in a straight-up fight.
-Most trainers aren't brave enough to take one on in a straight-up fight.
+A maior parte dos treinadores não ousam cruzar o caminho ou batalhar com essas coisas.
 I heard one showed up in here and figured I had to do something before it hurt anyone, but I got cocky.
-I heard one showed up in here and figured I had to do something before it hurt anyone, but I got cocky.
+Ouvi falar que um apareceu por aqui e achei que deveria fazer algo a respeito antes que ele machucasse alguém, mas fui confiante demais.
 Anyways, the name’s Lambert.
-Anyways, the name’s Lambert.
+De qualquer forma, eu sou o Lambert.
 I’ve got a feeling I’ll see you around the gym sometime soon, yeah?
-I’ve got a feeling I’ll see you around the gym sometime soon, yeah?
+Sinto que vou te ver no ginásio em breve, não vou?
 [Map27]
 [Map28]
 It's an amateur painting of a battle.
@@ -9622,23 +9622,23 @@ Ah, eu apresentaria você a ela, mas ela está curtindo a Praia Bluepoint no mom
 Lambert's House
 Casa Do Lambert
 Hey, kiddo. What’s goin’ on? I heard you’re following me.
-Hey, kiddo. What’s goin’ on? I heard you’re following me.
+E aí, pivete. O que que tá rolando? Ouvi dizer que você tá me seguindo.
 Well, go right ahead. Not gonna get a Beedrill in my bonnet over some kid toddling after me.
-Well, go right ahead. Not gonna get a Beedrill in my bonnet over some kid toddling after me.
+Bom, vai em frente. Não vou ficar com um Kricketot na minha cabeça só porque tem uma criança pirracenta correndo atrás de mim.
 By the time you find me, I’ll be Champion, and mom will have her mind made up.
-By the time you find me, I’ll be Champion, and mom will have her mind made up.
+Quando você me encontrar, eu já vou ser Campeão. A mamãe já vai ter tomado a decisão dela há muito tempo.
 Yeah, sure, make it sound like a real competition.
-Yeah, sure, make it sound like a real competition.
+Tá, claro. Fica à vontade se quiser fazer parecer que é uma competição de verdade.
 What? Persian got your tongue? Whatever -- I didn’t call to hear you talk.
-What? Persian got your tongue? Whatever -- I didn’t call to hear you talk.
+Que foi? Um Miau comeu a sua língua? Tanto faz -- eu não te liguei pra te ouvir matraquear.
 Tsk, tsk. Feisty little runt.
-Tsk, tsk. Feisty little runt.
+Tsc, tsc. Pivete ranzinza.
 You’re at the gym in that villa, right? Real gaudy place. I remember the gym -- want some advice?
-You’re at the gym in that villa, right? Real gaudy place. I remember the gym -- want some advice?
+Você tá no ginásio daquela vila, né? Lugar bem extravagante. Eu lembro do ginásio -- quer uns conselhos?
 Too bad. If you can’t beat that gym, you don’t deserve to even be in this competition. Bye!
-Too bad. If you can’t beat that gym, you don’t deserve to even be in this competition. Bye!
+Ah, é uma peninha. Se você não conseguir derrotar aquele ginásio, você nem mesmo merece estar competindo comigo. Tchau, tchau!
 You’ve always needed my help. Fine -- prove me wrong. We’ll talk again.
-You’ve always needed my help. Fine -- prove me wrong. We’ll talk again.
+Você sempre precisou da minha ajuda. Pois bem -- prova que eu tô errado. A gente se fala por aí.
 I've summered here for 20 years.
 Passei o verão aqui por 20 anos.
 I must say it really went to the dogs once Team Chasm started moving in.
@@ -9686,37 +9686,37 @@ Essa é uma lição que minha querida esposa me ensinou.
 She's correct <i>almost</i> all of the time!
 Ela está <i>quase</i> sempre certa!
 Greetings!
-Greetings!
+Saudações!
 If appearances are to be believed, you seem to be a fine trainer.
-If appearances are to be believed, you seem to be a fine trainer.
+Se as aparências não estiverem me enganando, você parece treinar muito bem seus Pokémon.
 Got time to battle?
-Got time to battle?
+Tem um minutinho para batalhar?
 I'll be challenging Lambert's gym soon, but I need more practice with this team.
-I'll be challenging Lambert's gym soon, but I need more practice with this team.
+Estarei desafiando o ginásio do Lambert em breve, mas preciso de um pouco mais de prática com esta equipe.
 Put it together just recently. Custom built to counter that ruffian.
-Put it together just recently. Custom built to counter that ruffian.
+Montei ela recentemente. Feita especialmente para neutralizar aquele arruaceiro.
 Gotta put in the work if I'm gonna perfect him!
-Gotta put in the work if I'm gonna perfect him!
+Tenho que me dedicar se quiser aperfeiçoá-lo!
 Call me <imp>Vanya</imp>.
-Call me <imp>Vanya</imp>.
+Pode me chamar de <imp>Vanya</imp>.
 Know that I am unique among trainers.
-Know that I am unique among trainers.
+Saiba que eu sou únicum entre treinadores.
 In my quest for perfect victories, I have suffered perfect defeats as well.
-In my quest for perfect victories, I have suffered perfect defeats as well.
+Em minha busca por vitórias perfeitas, eu também sofri derrotas perfeitas.
 Near everyone runs off after a bad loss, but not I.
-Near everyone runs off after a bad loss, but not I.
+Quase todo mundo sai correndo depois de tomar uma surra, mas eu não.
 You can <imp>perfect</imp> my team all you want, and I'll <imp>stay right here</imp>.
-You can <imp>perfect</imp> my team all you want, and I'll <imp>stay right here</imp>.
+Você pode <imp>aperfeiçoar</imp> minha equipe o quanto quiser: eu vou <imp>ficar bem aqui</imp>.
 I'm much too fun to deprive you of my presence so easily.
-I'm much too fun to deprive you of my presence so easily.
+Eu sou divertida demais para te privar de minha presença tão facilmente.
 If my personality isn't enough of an incentive, I've also got this backpack full of sweets.
-If my personality isn't enough of an incentive, I've also got this backpack full of sweets.
+Se minha personalidade não for um incentivo bom o suficiente, eu também tenho essa bolsa cheia de doces.
 I'll give you some <imp>EXP Candy</imp> every time you manage to beat me.
-I'll give you some <imp>EXP Candy</imp> every time you manage to beat me.
+Te darei alguns <imp>Doces De EXP</imp> toda vez que conseguir me derrotar.
 Sound good? Hit me up when you wanna try a battle!
-Sound good? Hit me up when you wanna try a battle!
+Beleza? Quando quiser batalhar, é só falar comigo!
 The berry plant is growing.
-The berry plant is growing.
+A árvore frutífera está crescendo.
 Skipping Tamarind cutscene.
 Skipping Tamarind cutscene.
 Morning, \PN, I'm <imp>Professor Tamarind</imp>.
@@ -9726,39 +9726,39 @@ Eu diria "boas-vindas a Makya!", mas não é pra isso que você tá aqui.
 C'mon. Let's get you set up.
 Vem. Vamos aprontar as coisas pra você.
 Looks like we’re both moving on. Don’t worry, I’m not coming with you.
-Looks like we’re both moving on. Don’t worry, I’m not coming with you.
+Parece que nós dois estamos seguindo em frente. Não se preocupe, eu não vou com você.
 But, uh, there’s something I kinda forgot to fill you in on.
-But, uh, there’s something I kinda forgot to fill you in on.
+Mas, hm, tem uma coisa que eu meio que esqueci de te falar.
 Do you know about <imp>Team Chasm</imp>?
-Do you know about <imp>Team Chasm</imp>?
+Você sabe sobre a <imp>Equipe Chasm</imp>?
 So, Team Chasm used to run this place. All of it -- the whole region.
-So, Team Chasm used to run this place. All of it -- the whole region.
+Então, a Equipe Chasm costumava governar esse lugar. Tudo -- a região inteira.
 They turned Makya from wilderness to a real region over the past twenty years.
-They turned Makya from wilderness to a real region over the past twenty years.
+Eles fizeram Makya ir de puro mato para uma região de verdade no decorrer dos últimos vinte anos.
 Then, well, you know how it goes.
-Then, well, you know how it goes.
+E então, bom, você sabe como é.
 Some kid trainer decides to go on a rampage and takes the whole organization down.
-Some kid trainer decides to go on a rampage and takes the whole organization down.
+Uma criança treinadora aleatória se empolga um pouquinho e derruba a organização inteira.
 That was eight years ago.
-That was eight years ago.
+Isso aconteceu há oito anos.
 But, uh, those people didn’t just disappear. Half the people you meet are gonna be ex-members.
-But, uh, those people didn’t just disappear. Half the people you meet are gonna be ex-members.
+Mas, hã, as pessoas na organização não sumiram, simplesmente. Metade das pessoas que você encontrar serão ex-membros.
 Even more than that in the regional administration. They’re chill, but just… it’s better to know.
-Even more than that in the regional administration.  They’re chill, but just… it’s better to know.
+Ainda mais que a metade na administração reginal. Eles são tranquilos, mas, enfim... é melhor saber.
 Oh, so you did your research? Great. Spares me the effort.
-Oh, so you did your research? Great. Spares me the effort.
+Ah, então você fez umas pesquisas? Ótimo. Me poupa o trabalho de explicar.
 Anyways.
-Anyways.
+De qualquer forma.
 I know you only care about being Champion and impressing Mommy.
-I know you only care about being Champion and impressing Mommy.
+Eu sei que você só liga pra virar Campeão e impressionar sua Mamãe.
 But between the avatars and, uh, other issues, I’ve got problems that need taking care of.
-But between the avatars and, uh, other issues, I’ve got problems that need taking care of.
+Mas, entre os avatares e, hã, outras questões, tenho alguns problemas que precisam ser resolvidos.
 You’re talented and I can make it worth your while.
-You’re talented and I can make it worth your while.
+Você tem talento e eu posso fazer valer a pena para você.
 Well, keep it in mind.
-Well, keep it in mind.
+Bom, se prepare para algo assim.
 See ya, kid.
-See ya, kid.
+Até mais.
 Hey!
 Ei!
 I'm bored and want to have fun. Let's play hide and seek!
@@ -9776,15 +9776,15 @@ Líder: Lambert
 Fighting dirty for over a decade.
 Jogando sujo por mais de uma década.
 Hey, \PN. I heard you beat Lambert.
-Hey, \PN. I heard you beat Lambert.
+Ei, \PN. Ouvi falar que você derrotou o Lambert.
 Guessing you’re gonna head for the <imp>mainland</imp> now?
-Guessing you’re gonna head for the <imp>mainland</imp> now?
+Imagino que vocẽ pretende ir para o <imp>continente</imp> agora?
 Well, before you go, meet me at the dock, 'kay?
-Well, before you go, meet me at the dock, 'kay?
+Bem, antes de ir, me encontre das docas, okay?
 Got something to say. Thanks.
-Got something to say. Thanks.
+Tenho umas coisas pra te falar. Obrigada.
 She hung up...
-She hung up...
+Ela desligou...
 Be careful outside the Villa, you don't want to end up as another incident in the newspapers.
 Tome cuidado fora da Vila, você não quer acabar como outro incidente nos jornais.
 No, I'm not talking about wild Pokemon.
@@ -9800,29 +9800,29 @@ Como, por exemplo, o mercado de ações.
 Closed while Lambert participates in the Makya Championship Tournament.
 Fechado enquanto Lambert participa do Campeonato Makiense.
 You keen to take me up on my offer?
-You keen to take me up on my offer?
+E aí? Aceita minha oferta?
 Understood.
-Understood.
+De boa.
 I'll be here until you wish to battle.
-I'll be here until you wish to battle.
+Vou estar aqui até que você queira batalhar.
 Nice. Let's get into it.
-Nice. Let's get into it.
+Legal. Bora lá.
 Well fought!
-Well fought!
+Bela luta!
 As promised, despite your overwhelming victory, I remain enthusiastic to try again.
-As promised, despite your overwhelming victory, I remain enthusiastic to try again.
+Como prometi, apesar da sua vitória avassaladora, continuo entusiasmado para tentar novamente.
 Well, still some kinks to work out, it seems.
-Well, still some kinks to work out, it seems.
+Interessante, me parece que ainda tenho alguns ajustes a fazer.
 Heal up, and return to me at your leisure.
-Heal up, and return to me at your leisure.
+Vá se curar e volte a me procurar quando quiser.
 As a fellow competitor, I have nothing to say but to congratulate you on your victory over Lambert.
-As a fellow competitor, I have nothing to say but to congratulate you on your victory over Lambert.
+Como ume colegue competidore, não tenho nada a dizer além de te parabenizar pela sua vitória sobre Lambert.
 I'll take this as the cue to go make my attempt as well. Wish me luck!
-I'll take this as the cue to go make my attempt as well. Wish me luck!
+Vou tomar isso como um sinal para ir fazer minha própria tentativa. Me deseje sorte!
 That was a fun game of hide and seek!
-That was a fun game of hide and seek!
+Foi divertido brincar de esconde-esconde com você!
 I've learned that if I offer stolen goods to people, they'll let me do whatever I want!
-I've learned that if I offer stolen goods to people, they'll let me do whatever I want!
+Eu aprendi que, se eu oferecer bens roubados para as pessoas, elas vão me deixar fazer o que quiser!
 Lambert has some interesting choices of Pokemon.
 Lambert tem algumas escolhas interessantes de Pokémon.
 His prized Riolu was a gift from Victoire, another gym leader. Sangfroid, he calls her.
@@ -9920,7 +9920,7 @@ Sim
 Maybe later.
 Talvez depois.
 Sure, let's go.
-Sure, let's go.
+Claro, vamos batalhar.
 No way.
 De jeito nenhum.
 [Map137]
@@ -45566,7 +45566,7 @@ Pokémon Trainer
 Pokémon Trainer
 321
 Your Brother
-Your Brother
+Seu Irmão
 322
 Tuber
 Tuber
@@ -50299,13 +50299,13 @@ Um Totem Avatar místico. Ele pulsa com energia vital antiga.
 A mystical Avatar Totem. It pulses with an unusual frequency.
 Um Totem Avatar místico. Ele pulsa com uma frequência incomum.
 \i[SPANNINGBAND]The Spanning Bands glow in sync with the totem.
-\i[SPANNINGBAND]The Spanning Bands glow in sync with the totem.
+\i[SPANNINGBAND]As Bandanas Cruzadas brilham em sincronia com o totem.
 However, it does not react further. Perhaps you must find more like it?
-However, it does not react further. Perhaps you must find more like it?
+Entretanto, ele não 
 You sense the connection to the other totems. Choose your warp location.
-You sense the connection to the other totems. Choose your warp location.
+Você sente a conexão com os outros totens. Escolha pra onde quer se teletransportar.
 There are no active totems to warp to.
-There are no active totems to warp to.
+Não há totens ativos para se teletransportar.
 Basic Strategy
 Estratégia Básica
 How do I win battles?
@@ -58835,9 +58835,9 @@ It'd be a good place to set a trip wire.
 Could not find event to show emote for.
 Could not find event to show emote for.
 It left behind some items!
-It left behind some items!
+Deixou alguns itens para trás!
 It left behind an item!
-It left behind an item!
+Deixou um item para trás!
 They left behind an item!
 They left behind an item!
 They left behind some items!
@@ -59043,9 +59043,9 @@ Editing your team is not allowed at the moment.
 \se[Voltorb Flip level up]Ring ring...
 \se[Voltorb Flip level up]Piririm piririm piririm...
 \i[SMARTPHONE]...It's {1}. Pick up the phone?
-\i[SMARTPHONE]...It's {1}. Pick up the phone?
+\i[SMARTPHONE]...É {1}. Atender o telefone?
 \i[SMARTPHONE]\se[Voltorb Flip mark]Click.
-\i[SMARTPHONE]\se[Voltorb Flip mark]Click.
+\i[SMARTPHONE]\se[Voltorb Flip mark]Clique.
 You no longer feel pumped up.
 You no longer feel pumped up.
 You've currently completed {1} percent of the Dex.
@@ -62371,7 +62371,7 @@ Congratulations, \PN! You've proven that even the best can be outshone... tempor
 Oh, look! A defeat. Just what I needed to keep my ego in check. Thanks for that, \PN.
 Oh, look! A defeat. Just what I needed to keep my ego in check. Thanks for that, \PN.
 {1} hands you a pouch of candy.
-{1} hands you a pouch of candy.
+{1} te dá um saquinho de doces.
 Cannot set the chosen NPC1 to be the same as the chosen NPC2.
 Cannot set the chosen NPC1 to be the same as the chosen NPC2.
 Cannot set the chosen NPC2 to be the same as the chosen NPC1.
@@ -62428,14 +62428,14 @@ Here, take it.
 Here, take it.
 All I ask is that you appreciate it for many years, young one.
 All I ask is that you appreciate it for many years, young one.
-\i[SPANNINGBAND]What? The Spanning Bands are suddenly glowing!
-\i[SPANNINGBAND]What? The Spanning Bands are suddenly glowing!
+\i[SPANNINGBAND]What?   are suddenly glowing!
+\i[SPANNINGBAND]O quê? De repente, as Bandanas Cruzadas começaram a brilhar!
 \i[SPANNINGBAND]They glow in sync with the <imp>Avatar Totem</imp>.
-\i[SPANNINGBAND]They glow in sync with the <imp>Avatar Totem</imp>.
+\i[SPANNINGBAND]Elas brilham em sincronia com o <imp>Totem De Avatar</imp>.
 \i[SPANNINGBAND]A vision of Casaba Villa flashes across your mind.
-\i[SPANNINGBAND]A vision of Casaba Villa flashes across your mind.
+\i[SPANNINGBAND]Um vislumbre da Vila Casaba aparece em sua mente.
 \i[SPANNINGBAND]You sense that some sort of <imp>connection</imp> has been made.
-\i[SPANNINGBAND]You sense that some sort of <imp>connection</imp> has been made.
+\i[SPANNINGBAND]Você sente que algum tipo de <imp>conexão</imp> foi feita.
 \wmThe victor is \PN!\me[Bug catching 1st]
 \wmThe victor is \PN!\me[Bug catching 1st]
 The waiting room for tournament entrants is ahead.
