@@ -4063,7 +4063,7 @@ Ah, assim você me mata. Bom, volte aqui depois de se preparar.
 Oh, I’ve got a good feeling about this bout.
 Ah, tenho um bom pressentimento sobre essa batalha.
 You ain’t facing Gym Leader Lambert today.
-Você não vai enfrentar o Lambert, o Líder De Ginásio hoje.
+Você não vai enfrentar Lambert, o Líder De Ginásio hoje.
 No, this is former Team Chasm Captain Lambert, at your service.
 Não, não. Aqui quem fala é Lambert, o ex-capitão da Equipe Chasm, ao seu dispor.
 Let’s dance!
@@ -56777,7 +56777,7 @@ It seems to be a lump of metal!
 {1} is veiled with crystal! It's a {2}-type!
 {1} is veiled with crystal! It's a {2}-type!
 \wmLevel cap raised to {1}!\me<<[>>Bug catching 3rd<<]>>\wtnp<<[>>80<<]>><<1>>
-\wmLevel cap raised to {1}!\me<<[>>Bug catching 3rd<<]>>\wtnp<<[>>80<<]>><<1>>
+\wmLimite de nível aumentado para {1}!\me<<[>>Bug catching 3rd<<]>>\wtnp<<[>>80<<]>><<1>>
 Adjust {1}'s Style
 Ajustar Estilo De {1}
 Free All
