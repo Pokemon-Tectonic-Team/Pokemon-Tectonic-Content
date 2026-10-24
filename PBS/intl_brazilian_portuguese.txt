@@ -27098,91 +27098,91 @@ You've found Destiny, an Artist and Spriter.
 You've found Destiny, an Artist and Spriter.
 [Map452]
 An old industrial generator hums quietly in the corner.
-An old industrial generator hums quietly in the corner.
+Um velho gerador industrial zune baixo no canto da sala.
 It's cold to the touch...
-It's cold to the touch...
+É frio ao toque...
 A steel crate.
-A steel crate.
+Uma caixa de aço.
 The room is so cold that you are afraid to touch it.
-The room is so cold that you are afraid to touch it.
+A sala é tão fria que você tem receio de tocá-la.
 Its front face has been slid up, revealing the emptiness inside.
-Its front face has been slid up, revealing the emptiness inside.
+Sua face frontal foi aberta, revelando o vazio em seu interior.
 A thin layer of frost coats the top of this crate. The logo on the side is too faded to make out...
-A thin layer of frost coats the top of this crate. The logo on the side is too faded to make out...
+Uma fina camada de gelo cobre o topo desta caixa. O logo na lateral está muito desbotado para reconhecer...
 Lab Notes 1 - February 16
-Lab Notes 1 - February 16
+Anotação De Laboratório 1 - 16 De Fevereiro
 Initial Ex-Nihilo Construction experiments successful.
-Initial Ex-Nihilo Construction experiments successful.
+Experimentos iniciais Ex-Nihilo Construction foram um sucesso.
 Subject TEKTON 96% success rate with complex objects up to 0.2 meters in diameter.
-Subject TEKTON 96% success rate with complex objects up to 0.2 meters in diameter.
+Sujeito TEKTON tem 96% de taxa de sucesso com objetos complexos de até 0.2 metros de diâmetro.
 Operational parameter requirements for OBJ-TAO-3 achieved.
-Operational parameter requirements for OBJ-TAO-3 achieved.
+Requisitos de parâmetro operacionais para OBJ-TAO-3 alcançados.
 First-pass instructions list completed by science team.
-First-pass instructions list completed by science team.
+Lista de instruções preliminares concluída pela equipe científica.
 Keep reading?
-Keep reading?
+Continuar lendo?
 Lab Notes 2 - February 24
-Lab Notes 2 - February 24
+Anotação De Laboratório 2 - 24 De Fevereiro
 OBJ-TAO-3 successfully constructed after 9 iterations on instruction list.
-OBJ-TAO-3 successfully constructed after 9 iterations on instruction list.
+OBJ-TAO-3 construído com sucesso após 9 iterações sobre a lista de instruções.
 Subject TEKTON noted particularly exhausted after process completion.
-Subject TEKTON noted particularly exhausted after process completion.
+Sujeito TEKTON parecia particularmente exausto depois da conclusão do processo.
 Initial scans conclude 86% match with predicted structure.
-Initial scans conclude 86% match with predicted structure.
+Análises iniciais indicam uma correspondência de 86% com a estrutura prevista.
 Anecdotal observations note object’s extremely low temperature.
-Anecdotal observations note object’s extremely low temperature.
+Observações anedóticas apontam para uma temperatura extremamente baixa do objeto.
 OBJ-TAO-3 temporarily housed in laboratory sub-storage room 4.
-OBJ-TAO-3 temporarily housed in laboratory sub-storage room 4.
+OBJ-TAO-3 temporariamente alojado na sala secundária de armazenamento 4 do laboratório. 
 Lab Notes 3 - March 8
-Lab Notes 3 - March 8
+Anotação De Laboratório 3 - 8 De Março
 Shipment received from Unova.
-Shipment received from Unova.
+Encomenda recebida de Unova.
 Contents: Schematics detailing OBJ-TAO-X, both visible light and x-ray imaging.
-Contents: Schematics detailing OBJ-TAO-X, both visible light and x-ray imaging.
+Conteúdo: Esquemas detalhando OBJ-TAO-X, incluindo luz visível e imagens de raio X.
 Official objection submitted by science team: Recreating well-studied objects seen as waste of limited subject TEKTON activity time.
-Official objection submitted by science team: Recreating well-studied objects seen as waste of limited subject TEKTON activity time.
+Objeção oficial enviada pela equipe científica: recriar objetos já bem estudados é visto como um desperdício do já limitado tempo de atividade de Sujeto TEKTON.
 Objection overruled by operations team— OBJ- TAO-X construction process set to start immediately.
-Objection overruled by operations team— OBJ- TAO-X construction process set to start immediately.
+Objeção rejeitada pela equipe de operações — o processo de construção de OBJ-TAO-X será iniciado imediatamente.
 Construction completed after 2 iterations on instruction list.
-Construction completed after 2 iterations on instruction list.
+Construção concluída depois de 2 iterações sobre a lita de instruções.
 Lab Notes 4 - March 20
-Lab Notes 4 - March 20
+Anotação De Laboratório 4 - 20 De Março
 Laboratory sub-storage room 4 internal temperature measured -16°C, a new lowest value.
-Laboratory sub-storage room 4 internal temperature measured -16°C, a new lowest value.
+A temperatura interna da sala secundária de armazenamento 4 do laboratório foi avaliada em -16°, um novo recorde de menor valor.
 Concerns about storage structural integrity raised to engineering team.
-Concerns about storage structural integrity raised to engineering team.
+Preocupações sobre a integridade estrutural do local foram passadas à equipe de engenharia.
 Severe mental exhaustion noted in science team members interacting with OBJ-TAO-3.
-Severe mental exhaustion noted in science team members interacting with OBJ-TAO-3.
+Exaustão mental severa foi observada em membros da equipe científica que interagiram com OBJ-TAO-3.
 OBJ-TAO-3 hazard class upgraded from level 1 to level 2.
-OBJ-TAO-3 hazard class upgraded from level 1 to level 2.
+Classe de perigo de OBJ-TAO-3 aumentada do nível 1 para o nível 2.
 Lab Notes 5 - May 4
-Lab Notes 5 - May 4
+Anotação De Laboratório 5 - 4 De Maio
 10:15: Lab assistant (ID E-SCI213) collapsed while conducting routine materials analysis of OBJ-TAO-3.
-10:15: Lab assistant (ID E-SCI213) collapsed while conducting routine materials analysis of OBJ-TAO-3.
+10:15: Assistente de laboratório (ID E-SCI213) colapsou enquanto conduzia uma análise rotineira de materiais de OBJ-TAO-3.
 10:20: E-SCI213 found unresponsive to all stimuli. Medical team alerted.
-10:20: E-SCI213 found unresponsive to all stimuli.  Medical team alerted.
+10:20: E-SCI213 não apresentou resposta a qualquer estímulo. Equipe médica alertada.
 10:30: Medical team arrival. Initial medical diagnosis: sudden onset stroke.
-10:30: Medical team arrival. Initial medical diagnosis: sudden onset stroke.
+10:30: Chegada da equipe médica. Diagnóstico inicial: Acidente Vascular Cerebral (AVC) de início súbito.
 11:00: Stroke theory dismissed by results of CT scan. Employee E-SCI213 catatonia unexplained.
-11:00: Stroke theory dismissed by results of CT scan.  Employee E-SCI213 catatonia unexplained.
+11:00: Hipótese de AVC descartada pelos resultados da tomografia computadorizada. Catatonia de E-SCI213 não possui explicações.
 12:15: Emergency safety team meeting.
-12:15: Emergency safety team meeting.
+12:15: Reunião da equipe de segurança em emergências.
 14:45: OBJ-TAO-3 hazard class upgraded from level 2 to level 4.
-14:45: OBJ-TAO-3 hazard class upgraded from level 2 to level 4.
+14:45: Classe de perigo de OBJ-TAO-3 aumentada do nível 2 para o nível 4.
 Lab Notes 6 - May 5
-Lab Notes 6 - May 5
+Anotação De Laboratório 6 - 5 De Maio
 Science team concerned about ability to predict hazard class of novel constructions.
-Science team concerned about ability to predict hazard class of novel constructions.
+Equipe científica encontra-se preocupada sobre capacidade de previsão do nível de perigo de futuras construções.
 Science and internal affairs teams meeting tomorrow to iterate on safety review processes.
-Science and internal affairs teams meeting tomorrow to iterate on safety review processes.
+Equipes científica e assuntos internos se reunirão amanhã para aprimorar os processos de análise de segurança.
 OBJ-TAO-3, OBJ-TAO-X, and all TAO project research notes moved to permanent isolation storage in volcanic environment.
-OBJ-TAO-3, OBJ-TAO-X, and all TAO project research notes moved to permanent isolation storage in volcanic environment.
+OBJ-TAO-3, OBJ-TAO-X e todas as notas de pesquisa do projeto TAO foram movidos permanentemente para um armazenamento isolado em ambiente vulcânico.
 The shelves are barren.
-The shelves are barren.
+Prateleiras vazias.
 Yes
-Yes
+Sim
 No
-No
+Não
 [Map453]
 I don't think we're in Makya anymore, \PN...
 I don't think we're in Makya anymore, \PN...
