@@ -7537,93 +7537,93 @@ Ok.
 [Map116]
 [Map117]
 So it’s you again. I presume my impostor’s amulet is keeping you safe?
-So it’s you again. I presume my impostor’s amulet is keeping you safe?
+Então és tu novamente. Presumo que o amuleto de minha impostora está lhe mantendo em segurança?
 My name – our name – is <imp>Imogene</imp>.
-My name – our name – is <imp>Imogene</imp>.
+Meu nome – nosso nome – é <imp>Imogene</imp>.
 The Ditto is around here somewhere, I imagine. I can’t ever lose her.
-The Ditto is around here somewhere, I imagine. I can’t ever lose her.
+A Ditto deve estar por perto, imagino. Não posso perdê-la.
 We were wandering Kalos before deciding to come home to Makya.
-We were wandering Kalos before deciding to come home to Makya.
+Estávamos vagando por Kalos antes de decidirmos voltar para casa, em Makya.
 If we can settle this matter of identity anywhere, it will be here.
-If we can settle this matter of identity anywhere, it will be here.
+Se formos capazes de resolver esta questão de identidade em algum lugar, será aqui.
 And as for this cave, I have a request.
-And as for this cave, I have a request.
+E, quanto a esta caverna, tenho um pedido a fazer.
 Indeed you can. I did not choose this barren cave at random.
-Indeed you can. I did not choose this barren cave at random.
+De fato, podes. Não escolhi esta estéril caverna à toa.
 It is a place of power, and I intend to prove myself the real Imogene once and for all.
-It is a place of power, and I intend to prove myself the real Imogene once and for all.
+É um lugar poderoso, e pretendo provar que sou a Imogene verdadeira de uma vez por todas.
 *sigh*
-*sigh*
+*suspiro*
 I am the real Imogene. The other woman that looks like me is my Ditto doppelganger, who claims just the opposite.
- I am the real Imogene. The other woman that looks like me is my Ditto doppelganger, who claims just the opposite.
+Sou a verdadeira Imogene. A outra mulher – parecida comigo – é minha sósia Ditto, e afirma o exato oposto.
 And I would like prove her wrong here and now.
-And I would like prove her wrong here and now.
+E desejo prová-la como errada aqui e agora.
 Fire-cracked bones can be read to divine the future. Ice forms a mirror that reflects oneself.
-Fire-cracked bones can be read to divine the future.  Ice forms a mirror that reflects oneself.
+Ossos rachados pelo fogo podem ser lidos para prever o futuro. O gelo forma um espelho que reflete quem o observa.
 Let us combine the two – crater this ice with a duel and see our true identities in the fractures.
-Let us combine the two – crater this ice with a duel and see our true identities in the fractures.
+Combinemos ambos – abramos crateras neste gelo com um duelo e, nas fraturas, vislumbremos nossa identidade.
 Not without me you don’t! I’d rather you hex me than try and perform a reading without me!
-Not without me you don’t! I’d rather you hex me than try and perform a reading without me!
+Nada disso, não sem mim! Preferiria que me amaldiçoasse a que tentasse fazer uma leitura sem mim!
 The both of us, against our beloved traveler!
-The both of us, against our beloved traveler!
+Nós duas, contra nosso querido viajante!
 Fine… I’ll hold my horses. But don’t leave us waiting.
-Fine… I’ll hold my horses. But don’t leave us waiting.
+Tudo bem… vou segurar a onda. Mas não deixe-nos esperando.
 Good! Quail before my inner fire, and reveal your soul to my eye!
-Good! Quail before my inner fire, and reveal your soul to my eye!
+Ótimo! Trema ao ver meu fogo interior queimar e revele tua alma ao meu olhar!
 …You battle with shocking clarity.
-…You battle with shocking clarity.
+…Batalhas com espantosa clareza.
 Unbowed, even before the both of us.
-Unbowed, even before the both of us.
+Inabalável, mesmo perante nós duas.
 Fascinating…
-Fascinating…
+Fascinante…
 These hairline fractures… the ice shrapnel… hmm.
-These hairline fractures… the ice shrapnel… hmm.
+Essas microfissuras… os estilhaços de gelo… hmm.
 It portends nonsense. Gibberish.
-It portends nonsense. Gibberish.
+Agouram somente bobagens. Não há nexo algum.
 That both of us are dead already, and the same regardless.
-That both of us are dead already, and the same regardless.
+Dizem que ambas estamos mortas, e, mesmo assim, somos uma só.
 And look at the scarring around our oh-so-helpful ritualist?
-And look at the scarring around our oh-so-helpful ritualist?
+E, tu, podes analisar as marcas ao redor de nosso cooperante ritualista?
 So your name is \PN.
-So your name is \PN.
+Então… teu nome é \PN.
 And, what, you will walk backwards? You are a bridge that opposes heroes and villains?
-And, what, you will walk backwards? You are a bridge that opposes heroes and villains?
+E – quê? – Andarás contra multidões? És uma ponte que interpõe heróis e vilões?
 Something about nostalgia, but I think you stepped on that part.
-Something about nostalgia, but I think you stepped on that part.
+Algo sobre nostalgia, mas creio que pisaste nesta parte.
 Nothing of use, then. Not to us, at least. I hope our makeshift augury at least did you some good.
-Nothing of use, then. Not to us, at least. I hope our makeshift augury at least did you some good.
+Nada crucial, então. Ao menos, não para nós. Espero que nossa improvisada augúria lhe tenha feito algum bem.
 If not, forgive this flight of fancy wasting your time. Remember: SHE came up with the idea.
-If not, forgive this flight of fancy wasting your time.  Remember: SHE came up with the idea.
+Caso contrário, perdoe este devaneio que lhe custou teu tempo. Lembra-te: foi ELA quem teve a ideia.
 Hmm… maybe this trip was worth more than that changeling imagines.
-Hmm… maybe this trip was worth more than that changeling imagines.
+Hmm… talvez esta viagem tenha valido mais a pena do que aquele metamorfo imagina.
 If you ever find yourself in the <imp>urban expanse</imp> with naught to do, find me.
-If you ever find yourself in the <imp>urban expanse</imp> with naught to do, find me.
+Se tu, por acaso, te encontrares na <imp>extensão urbana</imp> com nada a fazer, me procure.
 I’ll be in the <imp>business sector</imp>, like as not. I have plans involving you and yours.
-I’ll be in the <imp>business sector</imp>, like as not. I have plans involving you and yours.
+Estarei no <imp>setor empresarial</imp>, provavelmente. Tenho planos envolvendo tu e os teus.
 Whoa! Is all well?
-Whoa! Is all well?
+Opa! Estás bem?
 Here – I suppose I can spare some supplies. Let us get your team in shape, shall we?
-Here – I suppose I can spare some supplies. Let us get your team in shape, shall we?
+Aqui – suponho que eu possa ceder alguns suprimentos. Curarei tua equipe, que tal?
 Go find out if my… companion… is ready.
-Go find out if my… companion… is ready.
+Vá perguntar se minha… companheira… está pronta.
 She requires far more preparation than I.
-She requires far more preparation than I.
+Ela precisa de muito mais preparação do que eu.
 Have you made ready?
-Have you made ready?
+Preparaste-te?
 If you ever find yourself in the <imp>urban expanse</imp> of Prizca West with naught to do, find me.
-If you ever find yourself in the <imp>urban expanse</imp> of Prizca West with naught to do, find me.
+Se tu, por acaso, te encontrares na <imp>extensão urbana</imp> da Prizca Ocidental com nada a fazer, me procure.
 I’ll be mourning near <imp>Bogdan Cement</imp>, like as not. I have plans involving you and yours.
-I’ll be mourning near <imp>Bogdan Cement</imp>, like as not. I have plans involving you and yours.
+Estarei lamentando na <imp>Bogdan Cimentos</imp>, provavelmente. Tenho planos envolvendo tu e os teus.
 Why are you here?
-Why are you here?
+Por que você está aqui?
 Can I help?
-Can I help?
+Posso ajudar?
 ...What?
-...What?
+...Quê?
 Hold up.
-Hold up.
+Espera um pouco.
 Let's go.
-Let's go.
+Vamos.
 [Map118]
 [Map119]
 The storage PC in the Pokemon Center here is busted, so we set up an impromptu one here.
