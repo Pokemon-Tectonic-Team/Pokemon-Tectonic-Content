@@ -3047,6 +3047,8 @@ Sure sure, that battle was good. But have you taken a look at these bikes?
 当然当然，这场战斗很精彩，但你看到这些自行车了吗？
 You see all those bikes behind me? They're the best you'll find, ever.
 你看到我身后那些自行车了吗？它们是马凯亚最好的车。
+Dialogue here.
+Dialogue here.
 I've been attending the festival every year since it was founded!
 自从庆典开办以来，我每年都来参加!
 The Trainers here get better every year...
@@ -3081,10 +3083,10 @@ A huge crowd blocking the south.
 A huge crowd blocking the south.
 Dare I detour through the Karnafil Estates construction site?
 Dare I detour through the Karnafil Estates construction site?
-I heard some punks set up a <imp>rest spot.</imp>
-I heard some punks set up a <imp>rest spot.</imp>
-They probably wouldn't let a 'suit' like me use it, though...
-They probably wouldn't let a 'suit' like me use it, though...
+There's a PokeCenter down there, but its been taken over by some punks.
+There's a PokeCenter down there, but its been taken over by some punks.
+They probably wouldn't let a 'suit' like me use it...
+They probably wouldn't let a 'suit' like me use it...
 I've been stationed here to help in case of injury.
 我被派到这里是为了阻止有人受伤。
 Oh, I'm finally getting paged!
@@ -27252,32 +27254,12 @@ Of course.
 当然。
 [Map454]
 [Map455]
-Cutscene goes here.
-Cutscene goes here.
+Dialogue here.
+Dialogue here.
 There is no door handle.
 There is no door handle.
-This dynamite was meant to clear rubble in Velenz.
-This dynamite was meant to clear rubble in Velenz.
-With all the chaos, I knew they wouldn't notice if a couple sticks went missing.
-With all the chaos, I knew they wouldn't notice if a couple sticks went missing.
-$12k for 3 sticks, that's my first and only offer.
-$12k for 3 sticks, that's my first and only offer.
-Jeeze, it's like people don't respect graft anymore.
-Jeeze, it's like people don't respect graft anymore.
-My side-gig really is boomin'!
-My side-gig really is boomin'!
-You hand over $12,000 in exchange.
-You hand over $12,000 in exchange.
-Alright, gotta return to my shift watchin' that stupid ghost town.
-Alright, gotta return to my shift watchin' that stupid ghost town.
-Not like anything's gonna happen.
-Not like anything's gonna happen.
-I don't see the cash on ya. No tricks, now!
-I don't see the cash on ya. No tricks, now!
-No
-No
-Yes
-Yes
+DIALOGUE HERE
+DIALOGUE HERE
 [Map456]
 A map. It resembles Makya.
 一张地图。它很像马凯亚。
@@ -27291,6 +27273,30 @@ You insert the Team Chasm ID Card.
 你插入了裂隙队身份卡。
 The door unlocks with a click.
 门咔哒一声解锁了。
+[Map457]
+This dynamite was meant to clear rubble in Velenz.
+This dynamite was meant to clear rubble in Velenz.
+With all the chaos, I knew they wouldn't notice if a couple sticks went missing.
+With all the chaos, I knew they wouldn't notice if a couple sticks went missing.
+$12k for 3 sticks, that's my first and only offer.
+$12k for 3 sticks, that's my first and only offer.
+Jeeze, it's like people don't respect graft anymore.
+Jeeze, it's like people don't respect graft anymore.
+My side-gig really is boomin'!
+My side-gig really is boomin'!
+You hand over $12,000 in exchange.
+You hand over $12,000 in exchange.
+Alright, gotta return to my shift watchin' that stupid ghost town.
+Alright, gotta return to my shift watchin' that stupid ghost town.
+Not like anything's gonna happen.
+Not like anything's gonna happen.
+I don't see the cash on ya. No tricks, now!
+I don't see the cash on ya. No tricks, now!
+No
+No
+Yes
+Yes
+[Map458]
 [1]
 Bulbasaur
 妙蛙种子
@@ -38395,8 +38401,8 @@ The user chomps hard, cutting the target's HP by 50%, and the user's HP is resto
 用力1咬，使对手的HP减半，并回复造成伤害一半的HP。
 Damages the target's life force directly. During moonglow, the target also becomes frostbitten.
 直接伤害对手，在月辉期间，对手还会陷入冻伤状态。
-The user tries to surprise-attack the target. Cannot miss in moonglow. Can random critical hit.
-突袭对手发起攻击。在月辉下该技能时必定命中。可能随机命中要害。
+The user tries to surprise-attack the target. Cannot miss in moonglow. Can random critical hit, and does so twice as often.
+突袭对手发起攻击。在月辉下该技能时必定命中。可能随机命中要害，且命中要害率翻倍。
 The user attacks and steals the foe's held item. It can't steal if the user holds an item.
 可以窃取对手的携带物。如果自身有携带物，则无法窃取。
 The user entangles the target's mind with dark thoughts, leeching it.
@@ -45944,6 +45950,26 @@ Gretchen
 格蕾琴
 Marcel
 马塞尔
+Sofiya
+Sofiya
+Joseph
+Joseph
+Velimir
+Velimir
+Luka
+Luka
+Petar
+Petar
+Jakov
+Jakov
+Spike and Freya
+Spike and Freya
+Lea
+Lea
+Andre
+Andre
+Karissa
+Karissa
 Eric
 埃里克
 Kristiane
@@ -48725,6 +48751,12 @@ Karanfil Estates
 456
 Center Station
 中央站
+457
+Karanfil Center
+Karanfil Center
+458
+Karanfil Leasing Office
+Karanfil Leasing Office
 [22]
 How are your Pokémon doing?\mMy \TP's really energetic. It's a handful!\mOh yeah, I managed to beat a tough \TE.\mI need to make my party stronger.
 你的精灵最近怎么样？\m我的\TP精力充沛得很。真是个调皮鬼！\m对了，我最近打败了一个难缠的\TE。\m我得让我的队伍变得更强大。
@@ -64578,6 +64610,10 @@ Whether to auto-screenshot your Party Showcase after major victories.
 Whether to auto-screenshot your Party Showcase after major victories.
 Whether to play the EXP-EZ Dispenser feeding animation.
 Whether to play the EXP-EZ Dispenser feeding animation.
+{1} and {2} swapped Abilities!
+{1} and {2} swapped Abilities!
+cold and wet fog with reduced visibility
+cold and wet fog with reduced visibility
 [27]
 0
 Animated
