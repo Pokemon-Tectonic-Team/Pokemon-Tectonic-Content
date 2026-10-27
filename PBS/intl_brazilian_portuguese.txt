@@ -3047,6 +3047,8 @@ Sure sure, that battle was good. But have you taken a look at these bikes?
 Sure sure, that battle was good. But have you taken a look at these bikes?
 You see all those bikes behind me? They're the best you'll find, ever.
 You see all those bikes behind me? They're the best you'll find, ever.
+Dialogue here.
+Dialogue here.
 I've been attending the festival every year since it was founded!
 I've been attending the festival every year since it was founded!
 The Trainers here get better every year...
@@ -3081,10 +3083,10 @@ A huge crowd blocking the south.
 A huge crowd blocking the south.
 Dare I detour through the Karnafil Estates construction site?
 Dare I detour through the Karnafil Estates construction site?
-I heard some punks set up a <imp>rest spot.</imp>
-I heard some punks set up a <imp>rest spot.</imp>
-They probably wouldn't let a 'suit' like me use it, though...
-They probably wouldn't let a 'suit' like me use it, though...
+There's a PokeCenter down there, but its been taken over by some punks.
+There's a PokeCenter down there, but its been taken over by some punks.
+They probably wouldn't let a 'suit' like me use it...
+They probably wouldn't let a 'suit' like me use it...
 I've been stationed here to help in case of injury.
 I've been stationed here to help in case of injury.
 Oh, I'm finally getting paged!
@@ -27132,7 +27134,7 @@ Análises iniciais indicam uma correspondência de 86% com a estrutura prevista.
 Anecdotal observations note object’s extremely low temperature.
 Observações anedóticas apontam para uma temperatura extremamente baixa do objeto.
 OBJ-TAO-3 temporarily housed in laboratory sub-storage room 4.
-OBJ-TAO-3 temporariamente alojado na sala secundária de armazenamento 4 do laboratório. 
+OBJ-TAO-3 temporariamente alojado na sala secundária de armazenamento 4 do laboratório.
 Lab Notes 3 - March 8
 Anotação De Laboratório 3 - 8 De Março
 Shipment received from Unova.
@@ -27252,32 +27254,12 @@ Of course.
 Of course.
 [Map454]
 [Map455]
-Cutscene goes here.
-Cutscene goes here.
+Dialogue here.
+Dialogue here.
 There is no door handle.
 There is no door handle.
-This dynamite was meant to clear rubble in Velenz.
-This dynamite was meant to clear rubble in Velenz.
-With all the chaos, I knew they wouldn't notice if a couple sticks went missing.
-With all the chaos, I knew they wouldn't notice if a couple sticks went missing.
-$12k for 3 sticks, that's my first and only offer.
-$12k for 3 sticks, that's my first and only offer.
-Jeeze, it's like people don't respect graft anymore.
-Jeeze, it's like people don't respect graft anymore.
-My side-gig really is boomin'!
-My side-gig really is boomin'!
-You hand over $12,000 in exchange.
-You hand over $12,000 in exchange.
-Alright, gotta return to my shift watchin' that stupid ghost town.
-Alright, gotta return to my shift watchin' that stupid ghost town.
-Not like anything's gonna happen.
-Not like anything's gonna happen.
-I don't see the cash on ya. No tricks, now!
-I don't see the cash on ya. No tricks, now!
-No
-No
-Yes
-Yes
+DIALOGUE HERE
+DIALOGUE HERE
 [Map456]
 A map. It resembles Makya.
 A map. It resembles Makya.
@@ -27291,6 +27273,30 @@ You insert the Team Chasm ID Card.
 You insert the Team Chasm ID Card.
 The door unlocks with a click.
 The door unlocks with a click.
+[Map457]
+This dynamite was meant to clear rubble in Velenz.
+This dynamite was meant to clear rubble in Velenz.
+With all the chaos, I knew they wouldn't notice if a couple sticks went missing.
+With all the chaos, I knew they wouldn't notice if a couple sticks went missing.
+$12k for 3 sticks, that's my first and only offer.
+$12k for 3 sticks, that's my first and only offer.
+Jeeze, it's like people don't respect graft anymore.
+Jeeze, it's like people don't respect graft anymore.
+My side-gig really is boomin'!
+My side-gig really is boomin'!
+You hand over $12,000 in exchange.
+You hand over $12,000 in exchange.
+Alright, gotta return to my shift watchin' that stupid ghost town.
+Alright, gotta return to my shift watchin' that stupid ghost town.
+Not like anything's gonna happen.
+Not like anything's gonna happen.
+I don't see the cash on ya. No tricks, now!
+I don't see the cash on ya. No tricks, now!
+No
+No
+Yes
+Yes
+[Map458]
 [1]
 Bulbasaur
 Bulbasaur
@@ -38395,8 +38401,8 @@ The user chomps hard, cutting the target's HP by 50%, and the user's HP is resto
 The user chomps hard, cutting the target's HP by 50%, and the user's HP is restored by 50% of that.
 Damages the target's life force directly. During moonglow, the target also becomes frostbitten.
 Damages the target's life force directly. During moonglow, the target also becomes frostbitten.
-The user tries to surprise-attack the target. Cannot miss in moonglow. Can random critical hit.
-The user tries to surprise-attack the target. Cannot miss in moonglow. Can random critical hit.
+The user tries to surprise-attack the target. Cannot miss in moonglow. Can random critical hit, and does so twice as often.
+The user tries to surprise-attack the target. Cannot miss in moonglow. Can random critical hit, and does so twice as often.
 The user attacks and steals the foe's held item. It can't steal if the user holds an item.
 The user attacks and steals the foe's held item. It can't steal if the user holds an item.
 The user entangles the target's mind with dark thoughts, leeching it.
@@ -45944,6 +45950,26 @@ Gretchen
 Gretchen
 Marcel
 Marcel
+Sofiya
+Sofiya
+Joseph
+Joseph
+Velimir
+Velimir
+Luka
+Luka
+Petar
+Petar
+Jakov
+Jakov
+Spike and Freya
+Spike and Freya
+Lea
+Lea
+Andre
+Andre
+Karissa
+Karissa
 Eric
 Eric
 Kristiane
@@ -48725,6 +48751,12 @@ Distrito Karanfil
 456
 Center Station
 Estação Central
+457
+Karanfil Center
+Karanfil Center
+458
+Karanfil Leasing Office
+Karanfil Leasing Office
 [22]
 How are your Pokémon doing?\mMy \TP's really energetic. It's a handful!\mOh yeah, I managed to beat a tough \TE.\mI need to make my party stronger.
 How are your Pokémon doing?\mMy \TP's really energetic.  It's a handful!\mOh yeah, I managed to beat a tough \TE.\mI need to make my party stronger.
@@ -50301,7 +50333,7 @@ Um Totem Avatar místico. Ele pulsa com uma frequência incomum.
 \i[SPANNINGBAND]The Spanning Bands glow in sync with the totem.
 \i[SPANNINGBAND]As Bandanas Cruzadas brilham em sincronia com o totem.
 However, it does not react further. Perhaps you must find more like it?
-Entretanto, ele não 
+Entretanto, ele não reage mais. Talvez você deva achar outros semelhantes?
 You sense the connection to the other totems. Choose your warp location.
 Você sente a conexão com os outros totens. Escolha pra onde quer se teletransportar.
 There are no active totems to warp to.
@@ -64578,6 +64610,10 @@ Whether to auto-screenshot your Party Showcase after major victories.
 Automaticamente tirar uma foto do seu time após grandes vitórias?
 Whether to play the EXP-EZ Dispenser feeding animation.
 Mostrar seus Pokémon comendo os doces do REXPartidor?
+{1} and {2} swapped Abilities!
+{1} and {2} swapped Abilities!
+cold and wet fog with reduced visibility
+cold and wet fog with reduced visibility
 [27]
 0
 Animated
