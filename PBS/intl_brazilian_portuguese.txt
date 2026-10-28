@@ -24647,15 +24647,15 @@ Estou sumindo. Estou com medo.
 [Map380]
 [Map381]
 Excuse me! I was admiring my reflection.
-Excuse me! I was admiring my reflection.
+Licencinha! Eu estava admirando meu reflexo.
 It's hard to boost my ego when some Trainer wallops me like that.
-It's hard to boost my ego when some Trainer wallops me like that.
+É difícil alimentar meu ego se eu levo uma sova dessas.
 Fine, that's well and dandy. Can you move out of the way?
-Fine, that's well and dandy. Can you move out of the way?
+Ótimo, maravilha. Agora, dá pra você sair da frente?
 I said.
-I said.
+Eu disse.
 Can. You. Move. Out. Of. The. Way.
-Can. You. Move. Out. Of. The. Way.
+Dá. Pra. Você. Sair. Da. Frente.
 [Map382]
 You interact with the blank display, but there is no effect.
 You interact with the blank display, but there is no effect.
