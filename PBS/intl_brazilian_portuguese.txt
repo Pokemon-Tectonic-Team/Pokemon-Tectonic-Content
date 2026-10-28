@@ -25365,13 +25365,13 @@ The ghosts, man. Ghosts?
 Os fantasmas, cara. Fantasmas?
 [Map405]
 It looks like you can jump out from here.
-It looks like you can jump out from here.
+Parece que, daqui, você pode pular para fora.
 You'll stay a little longer.
-You'll stay a little longer.
+Você ficará um pouco mais.
 Jump out.
-Jump out.
+Pular para fora.
 Not right now.
-Not right now.
+Agora não.
 [Map406]
 Electric bikes rule! All the other punks don't know what they're missing out on!
 Electric bikes rule! All the other punks don't know what they're missing out on!
