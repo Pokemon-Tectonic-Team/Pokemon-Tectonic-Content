@@ -614,14 +614,6 @@ East: Grouz
 东：古治镇
 North: Gigalith's Guts
 北：怪岩肠道
-Formation 4C, Gurdurr!
-铁骨土人，4C阵型！
-Get ready to block 'em!
-准备好挡住它们！
-Our defensive line collapsed...
-我们的防线崩溃了...
-We need to hit the gym. I hope Eko is taking challengers!
-我们需要去道馆，希望艾克会接受我们的挑战！
 Hey champ, how's it hanging?
 嘿冠军，最近怎么样?
 Recently got a few uhh... assets, that I'm looking to sell. Fell off of a Trainer's backpack.
@@ -642,6 +634,14 @@ You missing the cash? Hmm.
 唔，你说你手头紧？
 You've... got your own set of problems, huh?
 你...你也有自身的难处吧?
+Formation 4C, Gurdurr!
+铁骨土人，4C阵型！
+Get ready to block 'em!
+准备好挡住它们！
+Our defensive line collapsed...
+我们的防线崩溃了...
+We need to hit the gym. I hope Eko is taking challengers!
+我们需要去道馆，希望艾克会接受我们的挑战！
 Oh… you destroyed it.
 啊...你把它干掉了。
 I was watching that avatar, and you just… dismissed it.
@@ -700,20 +700,14 @@ Welp, I've gotta go! Grandpapa's gonna give me a tour of the mines today!
 好吧，我也得走了！爷爷说今天要带我参观矿山!
 Tranquill! No! Use your Tranquill powers! ...oh.
 不！咕咕鸽！快使用你的鸽之力！
-Swirlix goes bye-bye...
-咕咕鸽...
+Tranquill goes bye-bye...
+Tranquill goes bye-bye...
 You with the rangers? Ah, doesn't matter. No one's nabbing our haul!
 你是护林员那边的？哈，无所谓了，反正没人能抢走我们的战利品！
 I swear, if our fourth was here, we'd kick your teeth in! Where'd that chick run off to, anyways? She needs some teeth-kicking too...
 要是我们第4个队友在这里，肯定能把你打得满地找牙！那小妞到底跑哪去了？也太无组织无纪律了...
 I've taken worse! If you think I'm done protecting the boss, you don't know me!
 我什么局面没见过啊？你别以为我就这么放弃了，小瞧人也是有限度的！
-Makya's one of the few regions where creative archaeology is still legal. You're kinda lookin' like competition.
-马凯亚是目前为数不多，仍允许进行考古创新研究的地区。你...莫不是竞争对手？
-Maybe that's my cue to try a different tactic. I gotta be more subtle than challenging random strangers...
-这或许是让我尝试不同策略的预警，看来以后得更加谨慎地行事了...
-Well ain't that a cryin' shame. Guess Makya's a bit rougher than I thought...
-真是令人悲愤的耻辱感啊。看来马凯亚比我想象中更棘手...
 Excuse me! We were about to settle this in battle.
 不好意思，我们2个本打算通过战斗来解决问题的。
 But, fine, I guess we can find common ground in disposing of you.
@@ -738,24 +732,30 @@ You too, you old hag.
 还有你，碍事的老太婆！
 I think you'll find me back here so long as you keep trying to gain entrance, you entitled brat.
 不管你以后来多少次，我都会在这里挡住你的去路，自以为是的小鬼！
+Makya's one of the few regions where creative archaeology is still legal. You're kinda lookin' like competition.
+马凯亚是目前为数不多，仍允许进行考古创新研究的地区。你...莫不是竞争对手？
+Maybe that's my cue to try a different tactic. I gotta be more subtle than challenging random strangers...
+这或许是让我尝试不同策略的预警，看来以后得更加谨慎地行事了...
+Well ain't that a cryin' shame. Guess Makya's a bit rougher than I thought...
+真是令人悲愤的耻辱感啊。看来马凯亚比我想象中更棘手...
 Those Evolution Stones are all ours! You can't have any!
 那些进化石都是我们的！你一个也别想带走！
 Aagh! Fine! I'll leave! I've got my evolutions, anyways.
 啊啊！行吧！我走我走！反正我已经拿到想要的进化石了。
 ...I'll be back. I'll be back, and if I ever see you again, things're gonna be different. I swear I'll...
 ...我一定会回来的。下次再见到你，一切都会不同。我发誓...我一定会...
-I refuse to let someone like her into the Academy.
-我不会允许她这样的人入学的。
-We have enough of her sort at the Academy as it stands...
-学校里她这样的学生已经太多了...
+The berry plant is growing.
+树果还在生长中。
 Yo...so I heard there was like, some items to steal on this route?
 听说这是一条适合偷物品的路？
 I got nothin' to say. You good at battling.
 我无话可说，你很擅长对战。
 Bruh. Ok then, I guess.
 我觉得，差不多吧。
-The berry plant is growing.
-树果还在生长中。
+I refuse to let someone like her into the Academy.
+我不会允许她这样的人入学的。
+We have enough of her sort at the Academy as it stands...
+学校里她这样的学生已经太多了...
 Listen, kid, I'm gonna give you one last warning: you can either hit the road, or bite the dust. No? Fine. We'll do it the hard way.
 听着，小鬼，最后一次警告：要么滚蛋要么死！什么？好吧。那我们就用硬的。
 Hah, well, you win some, you lose some. I'm not so broken up about it.
@@ -1816,8 +1816,6 @@ You've found Lilypad, a playtester and contributor.
 你找到了测试者和贡献者Lilypad。
 Stream Disasterpiece by Mori Calliope!
 收听Mori Calliope的Disasterpiece！
-You've found Attea, a spriter and design contributor.
-你找到了画师和设计贡献者Attea。
 It is I, Riptide, and you made it through our gauntlet of nuzlockers and perfecters!
 是我，Riptide，你成功通过了我们Nuzlocke和完胜的重重考验！
 Is it strange to see me twice? Probably, but I made this basement, so my rules.
@@ -1826,6 +1824,10 @@ Now let us see if the AI can steer this strategy. Have fun!
 现在让我们看看AI能不能驾驭这个策略。玩得开心！
 Wow it actually did something? That's awesome! I mean uh, thank you for playing our game!
 哇，它真的做了什么？太厉害了！我是说...呃，感谢你玩我们的游戏！
+You've found Attea, a spriter and design contributor.
+你找到了画师和设计贡献者Attea。
+I made Pokémon World Tour, you should play it. It has polyamorous clown girls, and pirates.
+I made Pokémon World Tour, you should play it. It has polyamorous clown girls, and pirates.
 You've found Emmi, a designer.
 你找到了设计师Emmi。
 You've found Bella, a playtester.
@@ -3045,6 +3047,8 @@ Sure sure, that battle was good. But have you taken a look at these bikes?
 当然当然，这场战斗很精彩，但你看到这些自行车了吗？
 You see all those bikes behind me? They're the best you'll find, ever.
 你看到我身后那些自行车了吗？它们是马凯亚最好的车。
+Dialogue here.
+Dialogue here.
 I've been attending the festival every year since it was founded!
 自从庆典开办以来，我每年都来参加!
 The Trainers here get better every year...
@@ -3079,10 +3083,10 @@ A huge crowd blocking the south.
 A huge crowd blocking the south.
 Dare I detour through the Karnafil Estates construction site?
 Dare I detour through the Karnafil Estates construction site?
-I heard some punks set up a <imp>rest spot.</imp>
-I heard some punks set up a <imp>rest spot.</imp>
-They probably wouldn't let a 'suit' like me use it, though...
-They probably wouldn't let a 'suit' like me use it, though...
+There's a PokeCenter down there, but its been taken over by some punks.
+There's a PokeCenter down there, but its been taken over by some punks.
+They probably wouldn't let a 'suit' like me use it...
+They probably wouldn't let a 'suit' like me use it...
 I've been stationed here to help in case of injury.
 我被派到这里是为了阻止有人受伤。
 Oh, I'm finally getting paged!
@@ -3541,48 +3545,28 @@ Yes
 No
 没有
 [Map38]
-Okay, now just to dig the moat!
-现在该挖护城河了！
-They beat us, sis....
-他们打败我们了，姐姐...
 It’s Michi, Jovan’s Tropius. She seems to be hiding behind him.
 那是米奇，约凡的热带龙。她似乎藏在他的身后。
 It’s strange to see such a large creature look so worried.
 看到这么大的生物看起来如此担忧，真是奇怪。
+Okay, now just to dig the moat!
+现在该挖护城河了！
+They beat us, sis....
+他们打败我们了，姐姐...
 East: Casaba Villa
 东：甜瓜度假区
-I see some prize money on the horizon!
-哟，这不是行走的零花钱嘛！
-You know what? I'd best be spending me money instead of losin' it!
-早知道我就把钱花掉了，现在都便宜了你！
-Well, there goes me shore leave money.
-完了，休假资金没了。
 Didn't see me comin' did ya!?
 你没看到我在这里，对吧？
 You won't see me goin' will ya?
 我不会再让你发现的！
 I'll see you again. You won't see me!
 我会悄悄地接近你，在你发现我之前！
-You've checked the documents and returned! Will you accept the mind-reading Yungoos for a mere $3000?
-你查阅了文件后返回了！你会接受这只读心的猫鼬少吗？仅需5000金钱！
-Having trouble predicting your opponent's moves, my child?
-孩子，是不是很难预测对手的技能？
-Then let me offer you a genuine mind-reader: this Yungoos!
-那就让我给你介绍一个真正的读心者：这只猫鼬少！
-No games, no tricks. Just, erm, $3000.
-不玩把戏，不搞花招。就只是，嗯，3000金钱。
-Youngsters these days. So skeptical...
-现在的年轻人。真怀疑一切...
-Check your MasterDex! I'm telling you, it can read your opponent's mind!
-检查你的大师图鉴！我告诉你，它能读懂对手的想法！
-\PN hands over $3000.
-\PN交出了3000金钱。
-Now you will see its mystical powers!
-现在你要见识它神奇的力量了！
-Now, time to go treat myself to a salon day.
-现在，是时候去享受一下沙龙时光了。
-Make some more money and check your MasterDex! This is well worth it.
-多赚点钱，检查你的大师图鉴！这绝对值得。
+I see some prize money on the horizon!
+哟，这不是行走的零花钱嘛！
+You know what? I'd best be spending me money instead of losin' it!
+早知道我就把钱花掉了，现在都便宜了你！
+Well, there goes me shore leave money.
+完了，休假资金没了。
 I developed a multi-hit attack during Lambert's self-defense course.
 我在兰伯特的防身术课堂上，学会了多重攻击。
 I don't get much chance to battle, though.
@@ -3595,6 +3579,28 @@ Ah, excellent!
 啊，太好了!
 Ah, pardon my indulgence in even asking.
 啊，打扰了。
+You've checked the documents and returned! Will you accept the mind-reading Yungoos for a mere $3000?
+你查阅了文件后返回了！你会接受这只读心的猫鼬少吗？仅需5000金钱！
+Having trouble predicting your opponent's moves, my child?
+孩子，是不是很难预测对手的技能？
+Then let me offer you a genuine mind-reader: this Yungoos!
+那就让我给你介绍一个真正的读心者：这只猫鼬少！
+No games, no tricks. Just, erm, $3000.
+不玩把戏，不搞花招。就只是，嗯，3000金钱。
+What say you, my child?
+What say you, my child?
+Youngsters these days. So skeptical...
+现在的年轻人。真怀疑一切...
+Check your MasterDex! I'm telling you, it can read your opponent's mind!
+检查你的大师图鉴！我告诉你，它能读懂对手的想法！
+\PN hands over $3000.
+\PN交出了3000金钱。
+Now you will see its mystical powers!
+现在你要见识它神奇的力量了！
+Now, time to go treat myself to a salon day.
+现在，是时候去享受一下沙龙时光了。
+Make some more money and check your MasterDex! This is well worth it.
+多赚点钱，检查你的大师图鉴！这绝对值得。
 Wait a minute sis! This loser doesn't even have two pokemon!
 等下妹妹！这个菜鸡连两只精灵都没有！
 Really? Teeheehee, get lost, loser.
@@ -3611,8 +3617,6 @@ They beat us, sis...
 他们打败我们了，姐姐...
 Waaaaaah!
 哇啊啊啊！
-This is gonna be the best castle ever!
-它会是最好的城堡!
 Hey! Hey!
 嘿！嘿！
 Look at this cool Sentret! It's so so fast!
@@ -3635,6 +3639,8 @@ Why did nobody tell me the shop is closed??
 为什么没人告诉我商店关门了？？
 Aww...
 唔...
+This is gonna be the best castle ever!
+它会是最好的城堡!
 I burnth my thongue...
 咬到舌头了...
 You're theriothly too good!
@@ -3725,20 +3731,6 @@ Either way, I’m <i>lichen</i> this idea already!
 不管怎样，我已经<i>地衣</i>这个想法了！
 See you there.
 那里见。
-Wow, you found me again!
-哇，你又找到我了！
-A loss is a loss, I guess I owe you that second TM now.
-输了就是输了，这个技能机也给你了。
-I'll head back to town now. That was a fun game. I'm pretty worked up, hehe.
-真好玩！嘿嘿！不过现在我要回去了，今天好开心！
-You know, I fancy myself quite the battler! Care to see?
-我觉得自身还是很擅长对战的！要不要见识一下？
-You... You're quite the battler...\wt[20]
-你...你真厉害...\wt[20]
-I-I'm going to leave now.
-我...我得走了。
-You, defeat me? My goodness!
-这...怎么可能？我...输了？
 <i>Sniff sniff</i>
 <i>嗅嗅嗅</i>
 I can smell energy on you! We must battle!
@@ -3747,10 +3739,20 @@ The stench of defeat!
 失败的恶臭！
 Smell ya later!
 愿再闻其详！
-I’m itching to get some more play with this team.
-我迫不及待想多用这支队伍打打。
-Finally using held items again! It’s refreshing.
-终于又用携带物了！真令人耳目一新。
+You know, I fancy myself quite the battler! Care to see?
+我觉得自身还是很擅长对战的！要不要见识一下？
+You... You're quite the battler...\wt[20]
+你...你真厉害...\wt[20]
+I-I'm going to leave now.
+我...我得走了。
+You, defeat me? My goodness!
+这...怎么可能？我...输了？
+Wow, you found me again!
+哇，你又找到我了！
+A loss is a loss, I guess I owe you that second TM now.
+输了就是输了，这个技能机也给你了。
+I'll head back to town now. That was a fun game. I'm pretty worked up, hehe.
+真好玩！嘿嘿！不过现在我要回去了，今天好开心！
 Wow, you got here fast!
 哇，你来得真快！
 Freakishly fast. How many trainers did you beat on your way here...?
@@ -3777,14 +3779,18 @@ Maybe we’ll see each other there.
 也许我们会在那里见面。
 Until then, best of luck against Lambert!
 直到那时，祝你对抗兰伯特好运！
-No way.
-不可能。
-Seems legit.
-看起来很正经。
+I’m itching to get some more play with this team.
+我迫不及待想多用这支队伍打打。
+Finally using held items again! It’s refreshing.
+终于又用携带物了！真令人耳目一新。
 Yes
 学
 No
 不学
+No way.
+不可能。
+Seems legit.
+看起来很正经。
 Nah.
 不。
 Yeah.
@@ -10596,6 +10602,8 @@ In case you're wondering -- it's a building in the very north of the Battle Plaz
 你不知道在哪里吗？就在对战区最北边的建筑里。
 Right next to the entrance to the Tournament Grounds.
 就在锦标赛广场那边的入口处。
+The door is boarded up.
+这扇门被木板封死了。
 Hello! Would you be interested in signing a petition to demolish the road?
 你好，你愿意签署一份拆除这条路的联名请愿书吗？
 This road currently has no financial benefit to the city ever since the bridge to the south was destroyed.
@@ -10616,36 +10624,34 @@ Eventually, we'll get enough signatures that the city's council has to listen.
 我们总有一天能得到足够多的支持，让议会不得不听取我们的声音。
 The city will be much better off for pedestrians.
 这只会让城市更美好。
-The door is boarded up.
-这扇门被木板封死了。
 Look at the shiny bird!
 快看那只闪亮的鸟儿！
 I wanna go up there to talk to it, but my dads never let me.
 我想上去跟它谈谈，但我爸爸从来不让我去那儿。
 When I grow up, I wanna be a shiny bird...
 等我长大了，我也要变成一只闪亮的鸟...
-A Shiny Corviknight!
-是闪光钢铠鸦！
-It's too busy watching the city to notice you.
-它正忙着巡视城市，根本没注意到你。
 There you are. Ready now?
 你在这里。现在准备好了吗？
 You’re insufferable some times, you know that?
 有时候你真是让人受不了，你知道吗？
 That last one was… real close.
 那最后一次真的很接近。
-It doesn't look like this has moved in a while.
-看起来这东西有一段时间没动过了。
-Bence's House
-本斯家
-The Grand Hotel:
-宏伟酒店：
-Makya's first five-star hotel!
-马凯亚第一家5星级酒店！
+A Shiny Corviknight!
+是闪光钢铠鸦！
+It's too busy watching the city to notice you.
+它正忙着巡视城市，根本没注意到你。
 It's weird seeing the streets here so empty.
 在这里看到街道如此空旷真是奇怪。
 It's a combination of the road closure, and the Battle Festival happening right nearby.
 这是道路封闭和战斗节庆典临近的原因。
+The Grand Hotel:
+宏伟酒店：
+Makya's first five-star hotel!
+马凯亚第一家5星级酒店！
+Bence's House
+本斯家
+It doesn't look like this has moved in a while.
+看起来这东西有一段时间没动过了。
 I'm a bit of a Striker.
 我要当前锋！
 I got all sorts of tools that I can use to put the ball in the net.
@@ -10656,16 +10662,16 @@ You would not believe the mix-ups I do with this.
 你一定不敢相信，我竟然把这个给弄混了。
 I might be the best to ever do it, just saying.
 我可能会是史上最强的前锋！当然我只是说说而已。
-Bogdan Cement Company
-博登浇筑
-Tourism Sector
-旅行区
 Whooo-ee, look at them water towers!
 哇哦，快看这些水塔！
 Always surprises me how much is needed for concrete and other such manufacturin'.
 没想到造它需要用那么多混凝土！
 And I thought growin' crops needed a lot...
 比我在乡下一年用的都多...
+Tourism Sector
+旅行区
+Bogdan Cement Company
+博登浇筑
 What are you doing here?
 你在做什么？
 Which one are you?
@@ -27248,32 +27254,12 @@ Of course.
 当然。
 [Map454]
 [Map455]
-Cutscene goes here.
-Cutscene goes here.
+Dialogue here.
+Dialogue here.
 There is no door handle.
 There is no door handle.
-This dynamite was meant to clear rubble in Velenz.
-This dynamite was meant to clear rubble in Velenz.
-With all the chaos, I knew they wouldn't notice if a couple sticks went missing.
-With all the chaos, I knew they wouldn't notice if a couple sticks went missing.
-$12k for 3 sticks, that's my first and only offer.
-$12k for 3 sticks, that's my first and only offer.
-Jeeze, it's like people don't respect graft anymore.
-Jeeze, it's like people don't respect graft anymore.
-My side-gig really is boomin'!
-My side-gig really is boomin'!
-You hand over $12,000 in exchange.
-You hand over $12,000 in exchange.
-Alright, gotta return to my shift watchin' that stupid ghost town.
-Alright, gotta return to my shift watchin' that stupid ghost town.
-Not like anything's gonna happen.
-Not like anything's gonna happen.
-I don't see the cash on ya. No tricks, now!
-I don't see the cash on ya. No tricks, now!
-No
-No
-Yes
-Yes
+DIALOGUE HERE
+DIALOGUE HERE
 [Map456]
 A map. It resembles Makya.
 一张地图。它很像马凯亚。
@@ -27287,6 +27273,30 @@ You insert the Team Chasm ID Card.
 你插入了裂隙队身份卡。
 The door unlocks with a click.
 门咔哒一声解锁了。
+[Map457]
+This dynamite was meant to clear rubble in Velenz.
+This dynamite was meant to clear rubble in Velenz.
+With all the chaos, I knew they wouldn't notice if a couple sticks went missing.
+With all the chaos, I knew they wouldn't notice if a couple sticks went missing.
+$12k for 3 sticks, that's my first and only offer.
+$12k for 3 sticks, that's my first and only offer.
+Jeeze, it's like people don't respect graft anymore.
+Jeeze, it's like people don't respect graft anymore.
+My side-gig really is boomin'!
+My side-gig really is boomin'!
+You hand over $12,000 in exchange.
+You hand over $12,000 in exchange.
+Alright, gotta return to my shift watchin' that stupid ghost town.
+Alright, gotta return to my shift watchin' that stupid ghost town.
+Not like anything's gonna happen.
+Not like anything's gonna happen.
+I don't see the cash on ya. No tricks, now!
+I don't see the cash on ya. No tricks, now!
+No
+No
+Yes
+Yes
+[Map458]
 [1]
 Bulbasaur
 妙蛙种子
@@ -35340,6 +35350,8 @@ Mending Spring
 治愈之泉
 Pressure Burst
 压力爆破
+Pressure Stream
+Pressure Stream
 Rainstorm
 倾盆大雨
 Ramming Speed
@@ -35684,8 +35696,6 @@ Icicle Pin
 冰柱图钉
 Icy Injection
 冻液注射
-Inure
-适者生存
 Invite Hail
 天冰
 Looming Winter
@@ -36010,6 +36020,8 @@ Primeval Stand Together
 原初团结一致
 Empowered Brave Bird
 赋权勇鸟猛攻
+Primeval Bird's-Eye View
+Primeval Bird's-Eye View
 Primeval Tailwind
 原初顺风
 Primeval Whirlwind
@@ -36355,7 +36367,7 @@ One turn after this move is used, the target's HP is restored by half the user's
 使用此技能1回合后，目标回复使用者最大HP的一半。
 The user is roused, raising its Attack and Sp. Atk by two steps.
 使用者被唤醒，双攻增加2级。
-The user yawns, making the target drowsy. They'll fall asleep at end of the next turn.
+The user yawns, making the target drowsy. They'll fall asleep at the end of the next turn.
 打个大哈欠引起睡意。在下一回合让对手陷入睡眠状态。
 The user looses a flurry of open-palmed arm thrusts that multi-hit two to five times.
 使用者连续发出掌推攻击，连续攻击2至5次。
@@ -36785,8 +36797,8 @@ The user bursts into a bubbly song. Pokémon hit by this are cured of burn. Deal
 使用者唱起泡泡歌。被命中的精灵会回复烧伤。对队友造成的伤害减半。
 The user immerses the target in superheated steam. This has a 30% chance to burn.
 将滚烫的蒸汽喷向对手。有30%概率让对手烧伤。
-It swamps the area with a giant wave, hitting every battler nearby and underwater. Has a 10% chance to waterlog.
-用巨浪淹没场地，命中附近的每只精灵以及水下的精灵。有10%概率使目标浸水。
+It swamps the area with a giant wave, hitting every battler nearby and underwater.
+利用大浪攻击自身周围所有的精灵。
 Strikes the target thrice, with mastery of the Water style. Always results in a critical hit.
 将水之流派修炼至大成的仿若行云流水般的3次连击，必定会命中要害。
 The user lunges at the target and has a 40% chance to flinch the target.
@@ -37901,6 +37913,8 @@ The user opens a spring to blast the target, also forming an Aqua Ring around th
 打开一眼泉水攻击对手，同时给自身一个水流环，每回合回复10%HP。
 Attacks with pressurized water. Deals 50% more damage if the user has been hurt by the foe in the same turn.
 使用加压水枪进行攻击，如果此回合内被对方攻击过，则伤害增加50%。
+The target is struck with a stream of pressurized water. This has a 10% chance to waterlog.
+The target is struck with a stream of pressurized water. This has a 10% chance to waterlog.
 Summons rainstorm for six turns, boosting Water-type attacks and hindering most others.
 开启持续6回合的雨天，增加水属性攻击并阻碍大多数其他攻击。
 The user rams its sharp face right into the target. This lowers the user's Speed by three steps.
@@ -37947,7 +37961,7 @@ The user uses wind to blast its leaves at the target. This lowers the user's Def
 使用者借助风力将叶片猛烈击向目标，使用者的双防减小2级。
 The user gracefully slashes the target three times. The next time this move is used, it will hit one extra time.
 优雅地砍击目标3次，下次使用这招将额外再多砍一次。
-Flowers blooms with intensity, damaging the target and raising the user's Sp. Atk by two steps.
+Flowers bloom with intensity, damaging the target and raising the user's Sp. Atk by two steps.
 在下方绽放鲜花，造成伤害。大幅度增加自身的特攻。
 Revives a fainted Grass-type party member to full HP. Only one use per battle.
 回复一名已倒下的草属性队友的全部HP。每场战斗只能使用一次。
@@ -38241,8 +38255,6 @@ The user pins the target down with icy spikes, applying frostbite and trapping i
 使用者用冰刺钉住目标，使其冻伤并被困住。
 Injects supercold liquid into the target, damaging them and halving all future healing.
 将超低温液体注射到对手身上，对其造成伤害并减半其之后的治疗效果。
-The user inures themselves to a harsh environment, shedding their type weaknesses.
-使得自身适应恶劣的环境，摆脱自身的属性弱点。
 The user frostbites the target, then welcomes in hail for eight turns.
 使用者使目标冻伤，然后召唤8回合的冰雹。
 The user foretells imminent winter. Two turns later, extreme cold attacks the targeted spot.
@@ -38389,8 +38401,8 @@ The user chomps hard, cutting the target's HP by 50%, and the user's HP is resto
 用力1咬，使对手的HP减半，并回复造成伤害一半的HP。
 Damages the target's life force directly. During moonglow, the target also becomes frostbitten.
 直接伤害对手，在月辉期间，对手还会陷入冻伤状态。
-The user tries to surprise-attack the target. Cannot miss in moonglow. Can random critical hit.
-突袭对手发起攻击。在月辉下该技能时必定命中。可能随机命中要害。
+The user tries to surprise-attack the target. Cannot miss in moonglow. Can random critical hit, and does so twice as often.
+突袭对手发起攻击。在月辉下该技能时必定命中。可能随机命中要害，且命中要害率翻倍。
 The user attacks and steals the foe's held item. It can't steal if the user holds an item.
 可以窃取对手的携带物。如果自身有携带物，则无法窃取。
 The user entangles the target's mind with dark thoughts, leeching it.
@@ -38561,6 +38573,8 @@ The user summons an allied Tyrogue. This raises its Defense by three steps, and 
 使用者召唤队友巴尔郎。自身的物防增加3级，队友的物防增加1级。变为格斗属性。
 The user tucks in its wings and charges from a low altitude. The user also takes 33% recoil.
 收拢翅膀，通过低空飞行突击对手。自身也会受到33%的反伤。
+The user raises its Sp. Atk and Defense by two steps and maximizes its Accuracy. User becomes Flying-type.
+The user raises its Sp. Atk and Defense by two steps and maximizes its Accuracy. User becomes Flying-type.
 The user sets a powerful tailwind for 6 turns, which also increases move damage by 30%. User becomes Flying-type.
 开启持续6回合的强力顺风，该顺风会使技能的威力增加30%。变为飞行属性。
 All near foes are forced to switch out. User becomes Flying-type.
@@ -38635,8 +38649,6 @@ The user summons sunshine for six turns. This raises its Attack and Sp. Atk. Use
 开启持续6回合的晴天。双攻增加1级。变为火属性。
 A spray of bubbles is forcefully ejected at all nearby foes. This lowers their Speed by three steps.
 向所有附近的对手强力喷射气泡。它们的速度减小3级。
-It swamps the area with a giant wave, hitting every battler nearby and underwater.
-利用大浪攻击自身周围所有的精灵。
 The user enters a state of total focus, prevents stat steps from being lowered, raises Attack and Sp. Def, and becomes Water-type.
 使用者进入完全专注状态，能力等级不会减小，物攻和特防增加1级，变为水属性。
 The user summons rainstorm for six turns and surrounds itself with Aqua Ring. User becomes Water-type.
@@ -45938,6 +45950,26 @@ Gretchen
 格蕾琴
 Marcel
 马塞尔
+Sofiya
+Sofiya
+Joseph
+Joseph
+Velimir
+Velimir
+Luka
+Luka
+Petar
+Petar
+Jakov
+Jakov
+Spike and Freya
+Spike and Freya
+Lea
+Lea
+Andre
+Andre
+Karissa
+Karissa
 Eric
 埃里克
 Kristiane
@@ -48719,6 +48751,12 @@ Karanfil Estates
 456
 Center Station
 中央站
+457
+Karanfil Center
+Karanfil Center
+458
+Karanfil Leasing Office
+Karanfil Leasing Office
 [22]
 How are your Pokémon doing?\mMy \TP's really energetic. It's a handful!\mOh yeah, I managed to beat a tough \TE.\mI need to make my party stronger.
 你的精灵最近怎么样？\m我的\TP精力充沛得很。真是个调皮鬼！\m对了，我最近打败了一个难缠的\TE。\m我得让我的队伍变得更强大。
@@ -64552,6 +64590,30 @@ But it failed, since {1} is already covered in foam!
 But it failed, since {1} is already covered in foam!
 A targeting reticle shows which of your battlers the Avatar wants to attack. It will switch to another battler, however, if their attack is made impossible.
 A targeting reticle shows which of your battlers the Avatar wants to attack. It will switch to another battler, however, if their attack is made impossible.
+This is the final level cap. It cannot be raised.
+This is the final level cap. It cannot be raised.
+Once at level {1}, your Pokémon cannot gain experience or have EXP Candies used on them.
+Once at level {1}, your Pokémon cannot gain experience or have EXP Candies used on them.
+Rare Candies can be used, but only {1} times, up to level {2}.
+Rare Candies can be used, but only {1} times, up to level {2}.
+Rare Candies can still be used, however.
+Rare Candies can still be used, however.
+{1}'s level was raised above the level cap, which shouldn't happen.<<n>><<[>>Debug: {2}<<]>>
+{1}'s level was raised above the level cap, which shouldn't happen.<<r>><<n>><<[>>Debug: {2}<<]>>
+It won't have any effect due to the rare candy level cap at {1}.
+It won't have any effect due to the rare candy level cap at {1}.
+Every PokéCenter and every Ranger Station will contain the 4 Team Customization NPCs.
+Every PokéCenter and every Ranger Station will contain the 4 Team Customization NPCs.
+TMs are commonplace in our modern world, but they can be unwieldy to use.
+TMs are commonplace in our modern world, but they can be unwieldy to use.
+Whether to auto-screenshot your Party Showcase after major victories.
+Whether to auto-screenshot your Party Showcase after major victories.
+Whether to play the EXP-EZ Dispenser feeding animation.
+Whether to play the EXP-EZ Dispenser feeding animation.
+{1} and {2} swapped Abilities!
+{1} and {2} swapped Abilities!
+cold and wet fog with reduced visibility
+cold and wet fog with reduced visibility
 [27]
 0
 Animated
@@ -66443,7 +66505,7 @@ Focus Punch
 集中拳
 Follow Me
 看我嘛
-Ability Surpressed
+Ability Suppressed
 特性被压制
 Gem Consumed
 宝石被消耗
