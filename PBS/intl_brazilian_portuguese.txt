@@ -5301,93 +5301,93 @@ Why not?
 [Map58]
 [Map59]
 A Bicycle. It looks slightly dinged up.
-A Bicycle. It looks slightly dinged up.
+Uma bicicleta. Ela parece ter algumas avarias.
 Young master, before you head out!
-Young master, before you head out!
+Jovem líder, antes de você ir embora!
 I should have told you this while we were sailing-- your family owns an unused Estate here in Makya.
-I should have told you this while we were sailing-- your family owns an unused Estate here in Makya.
+Deveria ter dito isso enquanto navegávamos -- sua família é dona de uma propriedade não utilizada aqui em Makya.
 Since you're taking on the Makyan Gym Challenge, I took the initiative to renovate the grounds for our use.
-Since you're taking on the Makyan Gym Challenge, I took the initiative to renovate the grounds for our use.
+Já que você vai encarar o Desafio Dos Ginásios de Makya, tomei a iniciativa de reformar a propriedade para que possamos usá-la.
 I've set up a system that sends the Pokemon you store in your PC to this <imp>PokÉstate</imp>.
-I've set up a system that sends the Pokemon you store in your PC to this <imp>PokÉstate</imp>.
+Organizei um sistema que envia os Pokémon que você guarda em seu Computador a essa <imp>PokéPropriedade</imp>.
 I'll take care of them there while you are busy with your journey.
-I'll take care of them there while you are busy with your journey.
+Cuidarei deles enquanto você se preocupa com sua jornada.
 I love Pokemon variety, so I've prepared lots of <imp>EXP Candy</imp> to give you as your collection grows.
-I love Pokemon variety, so I've prepared lots of <imp>EXP Candy</imp> to give you as your collection grows.
+Amo variedade Pokémon, por isso preparei muitos <imp>Doces De EXP</imp> para te dar conforme sua coleção for crescendo.
 Once you've earned some, I'll send them to you through the PC.
-Once you've earned some, I'll send them to you through the PC.
+Assim que você ganhar alguns doces, eu os enviarei a você pelo Computador.
 Would you like to view the PokÉstate? I can take us over there for a visit.
-Would you like to view the PokÉstate? I can take us over there for a visit.
+Você gostaria de ver a PokéPropriedade? Posso levar-nos até lá para uma visita.
 Understood, I'll wait for you on the boat in the mean time.
-Understood, I'll wait for you on the boat in the mean time.
+Entendido, te esperarei no barco enquanto isso.
 If you want to visit the PokÉstate, send me a ping at any PC.
-If you want to visit the PokÉstate, send me a ping at any PC.
+Se você desejar visitar a PokéPropriedade, entre em contato comigo em qualquer Computador.
 I'll take you there immediately.
-I'll take you there immediately.
+Te levarei lá imediatamente.
 Understood, I'll sail us over.
-Understood, I'll sail us over.
+Entendido, navegarei-nos até lá.
 I bought these orbs to spice up my juggling act.
-I bought these orbs to spice up my juggling act.
+Comprei estes orbes para dar uma turbinada nas minhas performances de malabarismo.
 Ended up burning down a tent, poisoning a clown, and freezing my brother.
-Ended up burning down a tent, poisoning a clown, and freezing my brother.
+Acabei incendiando uma tenda, envenenando uma palhaça e congelando meu irmão.
 I'm out of a job. Take pity, and buy 'em off me?
-I'm out of a job. Take pity, and buy 'em off me?
+Estou desempregado. Tenha piedade e compre eles de mim?
 I'm asking $5,000 for the three of them. Package deal.
-I'm asking $5,000 for the three of them. Package deal.
+Estou pedindo $5.000 pelos três. Pacote completo.
 I really dropped the ball on this.
-I really dropped the ball on this.
+Eu realmente <i>pisei na bola</i> dessa vez.
 My gratitude is immense!
-My gratitude is immense!
+Minha gratidão é inestimável!
 \PN hands over $5,000 in exchange.
-\PN hands over $5,000 in exchange.
+\PN paga $5.000 em troca.
 Time to travel the countryside to find where they might need a man of my talents.
-Time to travel the countryside to find where they might need a man of my talents.
+Hora de viajar para o interior para encontrar um lugar onde podem estar precisando de um homem com meus talentos.
 You're broke, just like me! Come back when you can help.
-You're broke, just like me! Come back when you can help.
+Você está tão liso quanto eu! Volte para cá quando puder ajudar.
 Though I have no legal authority to stop you, I would ask you refrain from entering the area to the west.
-Though I have no legal authority to stop you, I would ask you refrain from entering the area to the west.
+Apesar de não possuir nenhuma autoridade legal para te impedir, te recomendo evitar entrar na área a oeste.
 Novo College has sent me to study the curious ecological conditions of the shipwrecks there.
-Novo College has sent me to study the curious ecological conditions of the shipwrecks there.
+O Instituto De Nova me enviou para cá para estudar as curiosas condições ecológicas dos naufrágios de lá.
 We have a unique opportunity to study deep water Pokémon dredged up around the ships!
-We have a unique opportunity to study deep water Pokémon dredged up around the ships!
+Temos uma oportunidade única de estudar Pokémon das profundezas que foram trazidos à superfície por conta dos navios.
 However, the shipwrecks are dangerous...
-However, the shipwrecks are dangerous...
+Entretato, os naufrágios são perigosos...
 ...but you're going to go in anyways, aren't you? Well, I warned you, so my hands are clean.
-...but you're going to go in anyways, aren't you?  Well, I warned you, so my hands are clean.
+...mas você vai ir para lá de qualquer maneira, não vai? Bem, eu te avisei, então lavo minhas mãos.
 Hey, you!
-Hey, you!
+Ei, você!
 Yeah, you, get over here!
-Yeah, you, get over here!
+É, você, vem aqui!
 I picked up this bike in Novo Town. The people up there are crazy for bikes, so it was easy to find one.
-I picked up this bike in Novo Town. The people up there are crazy for bikes, so it was easy to find one.
+Peguei esta bicicleta na Cidade Nova. O pessoal de lá é doido por bicicletas, então foi fácil achar uma.
 For the same reason, though, everyone already got one, so I wasn't able to sell.
-For the same reason, though, everyone already got one, so I wasn't able to sell.
+Mas, por essa mesma razão, todo mundo já tem uma, então não consegui vender.
 Seems like the whole job was a bust, so just take it.
-Seems like the whole job was a bust, so just take it.
+Me parece que todo esse trabalho foi um fracasso, então só pega ela.
 You never saw me, and I didn't cause you any problems. Peace.
-You never saw me, and I didn't cause you any problems. Peace.
+Você nunca me viu, e eu não te causei problema nenhum. Paz.
 The berry plant is growing.
-The berry plant is growing.
+A árvore frutífera está crescendo.
 It looks excited to take on the next shipment!
-It looks excited to take on the next shipment!
+Parece empolgado para carregar a próxima remessa!
 North: Shipping Lane
-North: Shipping Lane
+Norte: Rota Pesqueira
 These docks may look small, but they're important.
-These docks may look small, but they're important.
+Essas docas podem parecer pequenas, mas elas são importantes.
 Every week a shipment comes of groceries and other necessities for Novo Town.
-Every week a shipment comes of groceries and other necessities for Novo Town.
+Toda semana, uma remessa de mantimentos e outras coisas essenciais chega para ser levada à Cidade Nova.
 They get some stuff from the big city, but can't rely on it for everything.
-They get some stuff from the big city, but can't rely on it for everything.
+Eles recebem algumas coisas da cidade grande, mas não dá pra depender dela pra tudo.
 Mt. Kilna makes it harder to get stuff in between, even with Gigalith's Guts cutting through it.
-Mt. Kilna makes it harder to get stuff in between, even with Gigalith's Guts cutting through it.
+O Mt. Kilna dificulta o transporte de mantimentos, mesmo que as Entranhas De Gigalith o atravessem.
 Not right now.
-Not right now.
+Agora não.
 Sure.
-Sure.
+Tudo bem.
 No
-No
+Não
 Yes
-Yes
+Sim
 [Map60]
 I didn’t think there’d be so many people… and you know they’re watching me.
 I didn’t think there’d be so many people… and you know they’re watching me.
@@ -53749,7 +53749,7 @@ O que você gostaria de fazer?
 You notice a voice message from {1}, the PokÉstate caretaker.
 Você nota uma mensagem de voz de {1}, cuidador da Poképropriedade.
 Greetings, young master. I have good news.
-Saudações, jovem mestre. Tenho boas notícias.
+Saudações, jovem líder. Tenho boas notícias.
 \ME[Bug catching 2nd]You've earned a new PokéDex completion reward!\wtnp[60]
 \ME[Bug catching 2nd]Você ganhou uma nova recompensa de preenchimento da PokéDex!\wtnp[60]
 \ME[Bug catching 2nd]You've earned {1} new PokéDex completion rewards!\wtnp[60]
