@@ -61295,11 +61295,11 @@ Please wait.\wtnp[0]
 All text in the game was extracted and saved to PBS\{1}.<<1>>
 All text in the game was extracted and saved to PBS\{1}.<<1>>
 To localize the text for a particular language, translate every second line in the file.<<1>>
-To localize the text for a particular language, translate every second line in the file.<<1>>
+\wtnp[0]
 Also add the language name after the underscore. Use the same name as you put in the LANGUAGES setting.<<1>>
-Also add the language name after the underscore. Use the same name as you put in the LANGUAGES setting.<<1>>
+\wtnp[0]
 After translating and editing the name, choose "Compile Text."
-After translating and editing the name, choose "Compile Text."
+\wtnp[0]
 Successfully compiled text and saved it to {1}.<<1>>
 Successfully compiled text and saved it to {1}.<<1>>
 Failed to compile text: {1}
