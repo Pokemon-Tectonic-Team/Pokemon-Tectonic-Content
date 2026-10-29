@@ -2846,7 +2846,7 @@ Aqui é uma trilha sinalizada? Ah, aí não tem graça.
 Today, nature has brought a Trainer to clobber me.
 Hoje, a natureza enviou um treinador pra chutar o meu traseiro!
 Makyan biodiversity is amazing! It's a Pokéwatcher's dream!
-A biodiversidade Makyense é incrível! É o sonho de qualquer observador de Pokémon!
+A biodiversidade Makiense é incrível! É o sonho de qualquer observador de Pokémon!
 Wow, you found me!
 Uau, você me achou!
 Here, I owe you this, but it's not over yet.
@@ -5390,183 +5390,183 @@ Yes
 Sim
 [Map60]
 I didn’t think there’d be so many people… and you know they’re watching me.
-I didn’t think there’d be so many people… and you know they’re watching me.
+Eu não achei que teriam tantas pessoas… e você sabe que elas estão me olhando.
 I hate it out here…
-I hate it out here…
+Eu odeio aqui fora…
 Oh!
 Oh!
 I didn’t think – I mean, I’m sorry, I – wait.
-I didn’t think – I mean, I’m sorry, I – wait.
+Eu não sabia – quer dizer, desculpa, eu – espera.
 You’re a trainer. I was given these to train by – by my friend, so… fight me?
-You’re a trainer. I was given these to train by – by my friend, so… fight me?
+Você treina Pokémon. Uma – uma amiga me pediu pra treinar estes Pokémon, então… batalhe comigo?
 W-well, I – no, I’m a trainer. Face me.
-W-well, I – no, I’m a trainer. Face me.
+B-bem, eu – não, eu sou uma treinadora. Me enfrente.
 I – I’m not going to let you through until you do.
-I – I’m not going to let you through until you do.
+Eu – eu não vou te deixar passar até você me enfrentar.
 Oh, no, I’m so sorry.
-Oh, no, I’m so sorry.
+Ah, não, me desculpa.
 Artemisia isn’t – she flies me places.
-Artemisia isn’t – she flies me places.
+A Artemisia não é – ela me leva voando para os lugares.
 She doesn’t fight unless I – I’m sorry. I’m talking your ear off.
-She doesn’t fight unless I – I’m sorry. I’m talking your ear off.
+Ela não batalha a não ser que eu – me desculpa. Eu estou falando demais.
 OK. Good.
-OK. Good.
+Ok. Ótimo.
 I mean, thanks.
-I mean, thanks.
+Quer dizer, obrigada.
 Oh. Well, that wasn’t – I didn’t mind that.
-Oh. Well, that wasn’t – I didn’t mind that.
+Ah. Bom, isso não foi tão – até que eu não me incomodei.
 You’re not… nevermind.
-You’re not… nevermind.
+Você não é… deixa para lá.
 Maybe we’ll meet again – but, uh, I’m – thank you.
-Maybe we’ll meet again – but, uh, I’m – thank you.
+Talvez nos encontremos de novo – mas, hã, foi um – obrigada.
 The berry plant is growing.
-The berry plant is growing.
+A árvore frutífera está crescendo.
 I'm bored of searching for the <imp>Dragon Den</imp> around here.
-I'm bored of searching for the <imp>Dragon Den</imp> around here.
+Estou cansado de procurar pelo <imp>Covil De Dragão</imp> daqui.
 Let's battle, instead!
-Let's battle, instead!
+Vamos batalhar em vez disso!
 Welp, looks like we're not close to an even match.
-Welp, looks like we're not close to an even match.
+É, parece que não estamos nem perto de ter uma batalha justa.
 You just make sure to keep on truckin' with that team of yours!
-You just make sure to keep on truckin' with that team of yours!
+Continue firme aí com sua equipe!
 If only I had that Dragon-type...
-If only I had that Dragon-type...
+Se eu conseguisse achar aquele Pokémon tipo Dragão...
 Looking forward to seeing how you grow!
-Looking forward to seeing how you grow!
+Ansioso para ver o quanto você vai crescer!
 North: Novo Town
-North: Novo Town
+Norte: Cidade Nova
 South: Feebas' Fin
-South: Feebas' Fin
+Sul: Nadadeira De Feebas
 A sharpened mind is the key to victory. Has yours been whetted?
-A sharpened mind is the key to victory. Has yours been whetted?
+Uma mente afiada é a chave para a vitória. Como está o fio de sua mente?
 Yours is a razor's edge. I must hone my own.
-Yours is a razor's edge. I must hone my own.
+Sua mente é limpa como um corte de navalha. Devo afiar minha própria.
 Outsmarted and outmatched...for now.
-Outsmarted and outmatched...for now.
+Superado em inteligência e força... por enquanto.
 Hey, give me some practice, won't'cha? I'm gonna need it to become one of Eko's gym trainers!
-Hey, give me some practice, won't'cha? I'm gonna need it to become one of Eko's gym trainers!
+Ei, tu pode praticar um pouquinho comigo? Preciso treinar para me tornar um dos treinadores do ginásio de Eko!
 Ouch! Maybe I need to go back and study some more. I don't even have a Poison-type yet!
-Ouch! Maybe I need to go back and study some more.  I don't even have a Poison-type yet!
+Ai! Talvez eu devesse voltar e estudar um pouquinho mais. Eu nem tenho um Pokémon do tipo Venenoso ainda!
 See? I didn't do too bad! I could totally work for them!
-See? I didn't do too bad! I could totally work for them!
+Viu só? Eu não fui tão mal assim! Eu poderia totalmente trabalhar para elu!
 You got some hot moves! Remind me to introduce you to Lainie -- she'd love ya!
-You got some hot moves! Remind me to introduce you to Lainie -- she'd love ya!
+Você manda muito bem! Me lembre de te apresentar pra Lainie -- ela amaria te conhecer!
 Hi.
-Hi.
+Oi.
 I just wanna say—who planted these berries here?
-I just wanna say—who planted these berries here?
+Eu só queria dizer—quem foi que plantou essas frutas aqui?
 The Timburr have enough distractions as it is.
-The Timburr have enough distractions as it is.
+Os Timburr já não têm distrações o suficiente?
 Whatever. Here.
-Whatever. Here.
+Tanto faz. Aqui.
 This thing will save you time like you wouldn’t believe.
-This thing will save you time like you wouldn’t believe.
+Essa coisa vai te poupar uma quantidade inacreditável de tempo.
 More convenient than flying everywhere.
-More convenient than flying everywhere.
+Mais conveniente do que voar para todo lado.
 I’d use one, myself, if not for the nausea.
-I’d use one, myself, if not for the nausea.
+Eu mesmo usaria um desses, se não fosse pela náusea.
 But uh… it probably won’t affect you!
-But uh… it probably won’t affect you!
+Mas hã… provavelmente ela não vai te afetar!
 My next official stop is at <imp>Prizca West</imp>, north of the river. Let’s meet up there—
-My next official stop is at <imp>Prizca West</imp>, north of the river. Let’s meet up there—
+Minha próxima parada oficial é na <imp>Prizca Ocidental</imp>, ao norte do rio. Vamos nos encontrar por lá—
 Actually… I’ll be making a pitstop at <imp>LuxTech</imp> first. Stop by, if you’d like.
-Actually… I’ll be making a pitstop at <imp>LuxTech</imp> first. Stop by, if you’d like.
+Na verdade…, estarei fazendo uma parada na <imp>LuxTech</imp> antes. Dê uma passada por lá, se quiser.
 Or don’t. I don’t control your life.
-Or don’t. I don’t control your life.
+Ou não. Eu não mando em você.
 *ahem*... I’ll be off.
-*ahem*... I’ll be off.
+*cof*... vou indo.
 At least this time I don’t have to figure out where she is…
-At least this time I don’t have to figure out where she is…
+Pelo menos desta vez, não preciso descobrir onde ela está…
 I swear…
-I swear…
+Juro…
 The door is locked with an old rusty padlock.
-The door is locked with an old rusty padlock.
+A porta está trancada com um cadeado velho e enferrujado.
 You press against the door, and the padlock snaps in half!
-You press against the door, and the padlock snaps in half!
+Você força a porta. O cadeado quebra ao meio!
 Maybe if I turn like this he'll catch my good side.
-Maybe if I turn like this he'll catch my good side.
+Talvez se eu me virar assim ele consiga captar meu lado bom.
 Take a hike, we have a portrait to finish!
-Take a hike, we have a portrait to finish!
+Vai caminhar, nós temos um retrato para finalizar!
 I'm searchin' for that bolt of lightning to inspire me. Hit me with it!
-I'm searchin' for that bolt of lightning to inspire me. Hit me with it!
+Estou em busca de uma luz para me inspirar. Me ilumine!
 Ah, I just found the perfect riff! I need to have Lainie listen to this! She'd love it!
-Ah, I just found the perfect riff! I need to have Lainie listen to this! She'd love it!
+Ah, acabei de encontrar o riff perfeito! Eu preciso mostrar isso pra Lainie! Ela iria adorar!
 Damn! I was feelin' it for a second there, but then it just fell apart.
-Damn! I was feelin' it for a second there, but then it just fell apart.
+Droga! Por um segundo, eu estava entrando no ritmo, mas a coisa toda acabou desmoronando.
 Serves me right for composing during battle.
-Serves me right for composing during battle.
+Bem feito pra mim, por estar compondo no meio de uma batalha.
 GOTCHA! Prepare to be--
-GOTCHA! Prepare to be--
+TE PEGUEI! Se prepare para--
 Wait. You're not a ranger? Where did you get that card, then?
-Wait. You're not a ranger? Where did you get that card, then?
+Espera. Você não é ranger? De onde você tirou esse cartão, então?
 ...
 ...
 From... her? The battler who dismantled Team Chasm?!
-From... her? The battler who dismantled Team Chasm?!
+Com... ela? A treinadora que dissolveu a Equipe Chasm?!
 If you're a friend of hers, you're a friend of mine. Greetings, comrade.
-If you're a friend of hers, you're a friend of mine.  Greetings, comrade.
+Se ela é sua amiga, eu também sou. Saudações, camarada.
 I'd love to assist you, but resources are slim. My only asset is that Prism Stone over there.
-I'd love to assist you, but resources are slim. My only asset is that Prism Stone over there.
+Adoraria te ajudar, mas meus recursos são escassos. Meu único bem é aquela Pedra Prismática bem ali.
 It's every evolutionary stone condensed into one, so it functions well as bait for social parasites.
-It's every evolutionary stone condensed into one, so it functions well as bait for social parasites.
+Ela tem o poder de todas as pedras evolutivas em uma só, então funciona bem como isca para parasitas sociais.
 I'll let you appropriate it if you can beat me.
-I'll let you appropriate it if you can beat me.
+Te deixarei ficar com ela se conseguir me derrotar.
 You look like a skilled battler, and I need more tactical training.
-You look like a skilled battler, and I need more tactical training.
+Você parece ter habilidade em batalhas, e eu preciso de mais treinamento tático.
 It looks like it's taking a needed rest on the bench.
-It looks like it's taking a needed rest on the bench.
+Parece que está tendo um merecido descanso no banco.
 Excuse me, I'm posing here.
-Excuse me, I'm posing here.
+Com licença, estou posando aqui.
 Don't interfere with the artistic process!
-Don't interfere with the artistic process!
+Não interfira no processo artístico!
 I somehow managed to paint you into the portrait...
-I somehow managed to paint you into the portrait...
+De algum jeito, eu consegui te pintar no retrato...
 It's been a rocky enough job as it is.
-It's been a rocky enough job as it is.
+O trabalho já tem sido uma pedra no meu sapato por si só.
 A splash of brown, then some red...Gotta get the colours on this perfect!
-A splash of brown, then some red...Gotta get the colours on this perfect!
+Um pouco de marrom, então vermelho... Preciso que essas cores sejam perfeitas!
 This job's been a rocky one even without your interference.
-This job's been a rocky one even without your interference.
+Este trabalho tem sido uma pedra no meu sapato antes mesmo da sua interferência.
 It’s Michi, the Tropius.
-It’s Michi, the Tropius.
+É Michi, a Tropius.
 She sniffs eagerly at your bag’s berry pocket.
-She sniffs eagerly at your bag’s berry pocket.
+Ela alegremente fareja o bolso de frutas da sua mochila.
 She looks disappointed that you took the Sitrus Berry.
-She looks disappointed that you took the Sitrus Berry.
+Ela parece desapontada por você ter pegado a Fruta Cítrica.
 You ready? Can we – can we skip the talking and just fight?
-You ready? Can we – can we skip the talking and just fight?
+Tudo pronto? Dá pra gente – dá pra gente pular a conversa e só batalhar?
 You're ready to battle? Excellent.
-You're ready to battle? Excellent.
+Tudo pronto para a batalha? Excelente.
 Don't hold back. Our enemy doesn't.
-Don't hold back. Our enemy doesn't.
+Não modere sua força. Nosso inimigo não o faz.
 Top stuff!
-Top stuff!
+Supimpa!
 You may not be Makyan, but you've clearly had your own struggle. Yezera was right to connect with you.
-You may not be Makyan, but you've clearly had your own struggle. Yezera was right to connect with you.
+Você pode não ser Makiense, mas claramente teve seus próprios conflitos. Yezera estava certa ao se conectar com você.
 Well, no time for chit-chat. I've got to find a new spot, and some new bait!
-Well, no time for chit-chat. I've got to find a new spot, and some new bait!
+Bom, não há tempo para papo furado. Tenho que encontrar um novo lugar, e uma nova isca!
 Farewell, comrade, and good luck.
-Farewell, comrade, and good luck.
+Até a próxima, camarada, e boa sorte.
 Well fought! Those gym "leaders" won't stand a chance.
-Well fought! Those gym "leaders" won't stand a chance.
+Boa luta! Esses "líderes" de ginásio não terão chance.
 The Prism Stone is yours, comrade.
-The Prism Stone is yours, comrade.
+A Pedra Prismática é sua, camarada.
 Still, my mission continues.
-Still, my mission continues.
+Mesmo assim, minha missão continua.
 I'll continue scouting this area for Chasm presence.
-I'll continue scouting this area for Chasm presence.
+Continuarei patrulhando esta área em busca de atividade Chasm.
 Repositioning to Velenz may be in order.
-Repositioning to Velenz may be in order.
+Reposicionar-me para Velenz pode ser cabível.
 I've heard reports of increasing Chasm presence in that area.
-I've heard reports of increasing Chasm presence in that area.
+Ouvi relatos de atividade Chasm cada vez maior naquela área.
 Plus, the caverns there will provide great ambush spots.
-Plus, the caverns there will provide great ambush spots.
+Além disso, as cavernas de lá servirão como ótimos pontos de emboscada.
 No.
-No.
+Não.
 A Togekiss?
-A Togekiss?
+Uma Togekiss?
 Let's go.
-Let's go.
+Vamos.
 [Map61]
 Ello, landlubber, welcome to the Fin.
 Olá, marinheiro de água doce. Boas-vindas à Nadadeira.
