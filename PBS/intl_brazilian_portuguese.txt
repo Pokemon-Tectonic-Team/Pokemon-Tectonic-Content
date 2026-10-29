@@ -40589,17 +40589,17 @@ Um fóssil de um antigo Pokémon que viveu no oceano. Assemelha-se a um Lileep.
 A fossil of an ancient Pokémon that lived in the sea. It resembles Anorith.
 Um fóssil de um antigo Pokémon que viveu no oceano. Assemelha-se a um Anorith.
 A fossil from a prehistoric Pokémon that lived on the land. It resembles Cranidos.
-Um fóssil de um Pokémon pré-<<n>>-histórico que viveu em terra firme. Assemelha-se a um Cranidos.
+Um fóssil de um antigo Pokémon que viveu em terra firme. Assemelha-se a um Cranidos.
 A fossil from a prehistoric Pokémon that lived on the land. It resembles Shieldon.
-Um fóssil de um Pokémon pré-<<n>>-histórico que viveu em terra firme. Assemelha-se a um Shieldon.
+Um fóssil de um antigo Pokémon que viveu em terra firme. Assemelha-se a um Shieldon.
 A fossil of an ancient Pokémon that lived in the sea in ancient times. It resembles Tirtouga.
 Um fóssil de um antigo Pokémon que viveu no oceano em tempos antigos. Assemelha-se a um Tirtouga.
 A fossil of an ancient Pokémon that flew in the sky in ancient times. It resembles Archen.
 Um fóssil de um antigo Pokémon que voou nos céus em tempos antigos. Assemelha-se a um Archen.
 A fossil from a prehistoric Pokémon that once lived on the land. It resembles Tyrunt.
-Um fóssil de um Pokémon pré-<<n>>-histórico que viveu em terra firme. Assemelha-se a um Tyrunt.
+Um fóssil de um antigo Pokémon que viveu em terra firme. Assemelha-se a um Tyrunt.
 A fossil from a prehistoric Pokémon that once lived on the land. It resembles Amaura.
-Um fóssil de um Pokémon pré-<<n>>-histórico que viveu em terra firme. Assemelha-se a um Amaura.
+Um fóssil de um antigo Pokémon que viveu em terra firme. Assemelha-se a um Amaura.
 A fossil from a strange Pokémon that once lived on the land. It resembles Makyan Omanyte.
 Um fóssil de um estranho Pokémon que viveu em terra firme. Assemelha-se a um Omanyte Makiense.
 A fossil from a strange Pokémon that once lived on the land. It resembles Makyan Kabuto.
@@ -40665,7 +40665,7 @@ Equipável. Aumenta Def. Esp. em 50% mas previne o uso de movimentos de status.
 A held item. It raises Defense by 50% but prevents the use of status moves.
 Equipável. Aumenta Defesa em 50% mas previne o uso de movimentos de status.
 A held item. Its Attack and Sp. Atk raise by four steps if hit by a move it's weak to.
-Equipável. O Atk. e Atk. Esp. do por-<<n>>tador aumentam em 4 níveis se atin-<<n>>gido por um ataque ao qual é fraco.
+Equipável. Aumenta o Ataque e Atk. Esp. do portador em quatro níveis se atingido super ou hiperefetivamente.
 When held, it boosts Speed by two steps when intimidated, fascinated, or frustrated once per battle.
 Equipável. Consumido para aumentar Vel. em dois níveis quando o portador é intimidado, fascinado ou frustrado.
 Damages attackers for 1/8th of their HP when they hit the holder with physical attacks.
@@ -40675,7 +40675,7 @@ Machuca atacantes em 1/8 de seus PV quando atingem o portador com ataques especi
 If the holder is hit by an attack, it will switch with another Pokémon in your party.
 Se o portador é atingido por um ataque, ele será trocado para outro Pokémon de sua equipe.
 A card with a mysterious power. When the holder is hit by an attack, the attacker is forced to switch.
-Um cartão de poder misterioso. Quan-<<n>>do o portador é atacado, o atacante é removido de campo.
+Um cartão de poder misterioso. Quando o portador é atacado, o atacante é removido de campo.
 A held item. This discarded carapace lets the holder switch out of battle without fail.
 Equipável. Esta carapaça descartável permite ao portador sair de campo sob qualquer circunstância.
 A held item. It is an egg filled with happiness that earns 50% extra Exp. Points in battle.
@@ -40727,7 +40727,7 @@ Equipável. Os PV do portador são recuperados em 1/16 ao final de cada turno.
 A held item. The holder restores 1/5th HP of the damage it deals with moves.
 Equipável. O portador recupera seus PV em 1/5 do dano que ele causa com ataques.
 A held item. At half health, the holder breaks the balloon and gains an Aqua Ring, healing 10% HP per turn.
-Equipável. Com metade da vida, o por-<<n>>tador estoura o balão e ganha um A-<<n>>nel D'Água, curando 10% PV por turno.
+Equipável. Com metade da vida, o balão é estourado e invoca um Anel D'Água, curando 10% PV por turno.
 A held item. It snaps the holder out of a variety of mental warping effects.
 Equipável. É consumida para livrar o usuário de uma variedade de efeitos de manipulação mental.
 A held item. It restores any lowered stat in battle.
@@ -40819,11 +40819,11 @@ Equipável. O portador é protegido de Hesitação.
 A held item. The holder is protected from stat drops (except when self-inflicted).
 Equipável. O portador é protegido de diminuições de atributo (exceto quanto auto-inflingidas).
 When used on Dialga, this large, glowing gem wells with power and allows the Pokémon to change form.
-Quando usada em Dialga, essa grande e brilhante jóia se enche de poder e permite ao Pokémon mudar de forma.
+Se usada em Dialga, essa grande e brilhante jóia se enche de poder e permite ao Pokémon mudar de forma.
 When used on Palkia, this large, glowing orb wells with power and allows the Pokémon to change form.
-Quando usado em Palkia, esse grande e brilhante orbe se enche de poder e permite ao Pokémon mudar de forma.
+Se usado em Palkia, esse grande e brilhante orbe se enche de poder e permite ao Pokémon mudar de forma.
 When used on Giratina, this large, glowing gem wells with power and allows the Pokémon to change form.
-Quando usada em Giratina, essa gran-<<n>>de e brilhante jóia se enche de poder e permite ao Pokémon mudar de forma.
+Se usada em Giratina, essa grande e brilhante jóia se enche de poder e permite ao Pokémon mudar de forma.
 A cassette to be held by Genesect. It changes Techno Blast to a Water-type move.
 Uma fita cassete usada por Genesect. Muda o tipo da Rajada Tecnológica para Água.
 A cassette to be held by Genesect. It changes Techno Blast to an Electric-type move.
@@ -40855,7 +40855,7 @@ Uma areia extremamente fina que aumenta o dano de ataques do tipo Terrestre do p
 A long, sharp beak that boosts the holder's Flying-type moves by 20%.
 Um bico longo e afiado que aumenta o dano de ataques do tipo Voador do portador em 20%.
 A spoon imbued with telekinetic power that boosts Psychic-type moves by 20%.
-Uma colher imbuída em poder teleciné-<<n>>tico que aumenta o dano de ataques do tipo Psíquico do portador em 20%.
+Uma colher imbuída em poder psíquico que aumenta o dano de ataques do tipo Psíquico do portador em 20%.
 A shiny, silver powder that boosts the holder's Bug-type moves by 20%.
 Uma poeira brilhante como prata que aumenta o dano de ataques do tipo Inseto do portador em 20%.
 An unbreakable stone that boosts the holder's Rock-type moves by 20%.
@@ -40969,7 +40969,7 @@ Uma bola medicinal que restaura os PV de um Pokémon capturado e elimina quaisqu
 A Poké Ball that makes caught Pokémon more friendly.
 Uma bola que torna Pokémon capturados mais amigáveis.
 A comfortable Poké Ball that makes a caught wild Pokémon gain happiness twice as quickly.
-Uma bola confortável que faz Poké-<<n>>mon selvagens capturados ganharem felicidade duas vezes mais rápido.
+Uma bola confortável que faz Pokémon capturados ganharem felicidade duas vezes mais rápido.
 A somewhat different Ball that becomes up to 4x better the more turns there are in a battle.
 Uma bola um tanto diferente que fica até 4x melhor quanto maior o número de turnos passados em uma batalha.
 A somewhat different Poké Ball which has 3x strength on the first turn of a wild encounter.
@@ -40977,7 +40977,7 @@ Uma bola com 3x eficácia apenas no primeiro turno de uma batalha selvagem.
 A somewhat different Poké Ball that works better the lower the Pokémon's level is below your level cap.
 Uma bola que fica mais eficaz quanto menor for o nível do Pokémon em comparação ao seu Limite De Nível.
 A somewhat different Poké Ball that works at 3.5x strength on Pokémon species that were previously caught.
-Uma bola um tanto diferente que tem 3.5x eficácia contra Pokémon de es-<<n>>pécies já capturadas anteriormente.
+Uma bola um tanto diferente que tem 3.5x eficácia contra Pokémon de espécies já capturadas antes.
 A Poké Ball whose strength varies with the Pokémon's weight.
 Uma bola cuja eficácia varia de acordo com o peso do Pokémon alvo.
 A Poké Ball with 4x strength against Pokémon species with 100 or more base Speed.
@@ -40995,7 +40995,7 @@ Uma bola cuja admirável aparência a torna popular, apesar de seu mau desempenh
 The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.
 A melhor bola com o nível supremo de eficácia. Capturará qualquer Pokémon selvagem sem falhar.
 A ball with a mythical quality. It will catch any wild Pokémon without fail, and turn that Pokémon shiny.
-Uma bola de qualidade mítica. Captu-<<n>>rará qualquer Pokémon selvagem sem falhar, transformando-o em shiny.
+Uma bola de qualidade mítica. Capturará qualquer Pokémon selvagem sem falhar, tornando-o shiny.
 The Poke ball that contains Arceus. Unable to be replicated by humans, so how did you see this description.
 A Pokébola que contém Arceus. Não é replicável por humanos, então como você viu esta descrição?
 A held item that can cure numbing.
@@ -41103,9 +41103,9 @@ Um amuleto com forma de dente. Aumenta o EXP. ganho de Doces De EXP. em 15%.
 A comforting charm which doubles the happiness your Pokémon gain from being close to you.
 Um amuleto reconfortante que dobra a felicidade que seus Pokémon ganham por estarem próximos a você.
 A shiny red orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
-Um orbe brilhante e vermelho ao qual diz-se estar ligada uma lenda. Sabe-<<n>>-se que está ligado a Hoenn.
+Um orbe brilhante e vermelho ao qual se diz estar ligada uma lenda.<<n>>Sabe-se que está ligado a Hoenn.
 A shiny blue orb that is said to have a legend tied to it. It's known to be connected with the Hoenn region.
-Um orbe brilhante e azul ao qual diz-<<n>>-se estar ligada uma lenda. Sabe-se que está ligado a Hoenn.
+Um orbe brilhante e azul ao qual se diz estar ligada uma lenda. Sabe-se que está ligado a Hoenn.
 Reshiram's body, in stone form. An expert in ancient relics may be able to transform it.
 O corpo de Reshiram petrificado. Um especialista em relíquias antigas pode ser capaz de transformá-la.
 Zekrom's body, in stone form. An expert in ancient relics may be able to transform it.
@@ -41207,7 +41207,7 @@ Uma máquina que armazena Doces De Exp. Use em seus Pokémon para dá-los os Doc
 Use on a Pokémon to switch it into another one of its forms.
 Use em um Pokémon para trocá-lo para uma de suas formas.
 An ancient pair of interlocking ceramic rings. Unlocks the ability to teleport between Avatar Totems.
-Um antigo par de anéis de cerâmica entrelaçados. Desbloqueia o tele-<<n>>transporte entre Totens De Avatar.
+Um antigo par de anéis de cerâmica enlaçados. Permite o teletransporte entre Totens De Avatar.
 A miniature Avatar Totem. Use it to teleport to any unlocked Avatar Totems throughout Makya.
 Um Totem Avatar em miniatura. Use para se transportar para quaisquer Totens Avatar que achou em Makya.
 An advanced transporter which allows you to access your Pokémon Storage to withdraw or deposit Pokémon.
@@ -41221,23 +41221,23 @@ Uma máquina compacta e versátil que pode ser usada para repelir ou atrair Pok�
 A fragrance that increases the chance of wild double battles, and attracts uncaught Pokémon.
 Uma fragrância que aumenta a chance de batalhas selvagens em dupla e atrai Pokémon não capturados.
 A high tech surveillance device. Use it to scout out the teams of nearby trainers or mid-battle.
-Alta tecnologia de vigilância. Use para examinar as equipes de trei-<<n>>nadores próximos ou em batalha.
+Tecnologia de vigilância. Use para examinar as equipes de treinadores próximos ou durante uma batalha.
 Used to scout the teams of nearby trainers and the behaviour of nearby Avatars. Can also be used mid-battle.
-Pode examinar equipes de treinado-<<n>>res e comportamento de avatares próximos. Pode ser usado em batalha.
+Examina equipes de treinadores e o comportamento de avatares próximos. Pode ser usado em batalha.
 Condensed essence of life. Holding it allows you to run, bike, and surf faster. Can be toggled on or off.
 Essência condensada da vida. Segurá-lo te permite se mover mais rápido. Pode ser ligado e desligado.
 A small compass. Relic of a heroic age. It can be used to find lootable items nearby.
-Uma bússola pequena. Relíquia de eras heróicas. Pode ser usada para encon-<<n>>trar saqueáveis nas redondezas.
+Uma bússola pequena. Relíquia de eras heróicas. Pode ser usada para encontrar tesouros nas redondezas.
 An electrified glove with a claw-like shape. Recovers the first failed Poké Ball thrown in a wild battle.
 Uma luva eletrizada com um formato de garra. Recupera a 1ª Pokébola que falhou em uma batalha selvagem.
 An ancient horn. Sound it to start a 3v3 wild battle. Foes will be higher level and likely to have rare moves.
-Uma corneta antiga. Use para uma ba-<<n>>talha selvagem 3v3. Inimigos têm mai-<<n>>or nível e chance de terem mov. raros.
+Uma corneta antiga. Inicia uma batalha selvagem 3v3. Inimigos têm maior nível e podem ter mov. raros.
 Proof of ownership for the house you bought in Prizca East.
 Prova de propriedade para a casa que você comprou na Prizca Oriental.
 A small vial of gleaming powder. Can be used once to ensure the next wild Pokémon you find is shiny.
 Um pequeno frasco de pó cintilante. Consuma para garantir que o próximo Pokémon encontrado seja Shiny.
 Infinitely mutating alien DNA. It allows a Pokémon with two abilities to switch abilities when used.
-DNA alienígena em constante muta-<<n>>ção. Use para permitir a um Pokémon trocar entre suas duas habilidades.
+DNA alien em constante mutação. Use para permitir a um Pokémon trocar entre suas duas habilidades.
 A hi-tech recording device which creates a Battle Report by analyzing the results of momentous battles.
 Um dispositivo tecnológico que cria um Relatório De Batalha ao analisar o resultado de batalhas importantes.
 An upgraded, hi-tech recording device. It increases experience earned from battles by 10%.
