@@ -59353,21 +59353,21 @@ Want to teleport from here and return to {1}?
 \i[AIDKIT]Your Aid Kit was refreshed to {1} charges.
 \i[AIDKIT]Seu Kit Médico foi renovado para {1} cargas.
 You are out of charges.
-You are out of charges.
+Você não tem mais cargas.
 Your entire team is already fully healed!
-Your entire team is already fully healed!
+Toda a sua equipe já está totalmente curada!
 Healing your entire team by {1}.
-Healing your entire team by {1}.
+Curando toda a sua equipe em {1}.
 You don't have a Aid Kit to upgrade.
-You don't have a Aid Kit to upgrade.
+Você não possui um Kit Médico para melhorar.
 Your Aid Kit already has the maximum number of charges.
-Your Aid Kit already has the maximum number of charges.
+Seu Kit Médico já tem o número máximo de cargas.
 Your Aid Kit has been increased to {1} charges.
-Your Aid Kit has been increased to {1} charges.
+Seu Kit Médico foi aumentado para {1} cargas.
 Your Aid Kit already has the maximum healing amount.
-Your Aid Kit already has the maximum healing amount.
+Seu Kit Médico já atingiu a quantidade máxima de cura.
 Your Aid Kit now heals an additional {1} HP per charge.
-Your Aid Kit now heals an additional {1} HP per charge.
+Seu Kit Médico agora cura {1} PV adicionais por carga.
 You are too skilled to learn any more from a battle report.
 You are too skilled to learn any more from a battle report.
 Walk
