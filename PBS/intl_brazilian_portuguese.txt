@@ -4920,7 +4920,7 @@ Ginásio De Nova
 Leader: Eko
 Líder: Eko
 The Searing Scientist!
-Ê Cientiste Incandescente!
+Y Cientisty Incandescente!
 The Starters Store opened up a few months ago, and I got a job stocking Pokemon there.
 A Loja De Iniciais foi aberta há alguns meses, e eu consegui um emprego lá como repositor.
 That's the building right behind me.
@@ -62649,7 +62649,7 @@ I've got the tools. Just don't tell anyone.
 Any interest in buying?
 Any interest in buying?
 Trust me, nobody needs these more than you.
-Trust me, nobody needs these more than you.
+Confia em mim, ninguém precisa deles tanto quanto você.
 Nature's Gallery, your gateway to nature's beauty.
 Nature's Gallery, your gateway to nature's beauty.
 Welcome to Emma's Empolorium! What're you looking for today?
