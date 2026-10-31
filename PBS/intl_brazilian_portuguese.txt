@@ -782,27 +782,27 @@ True.
 True.
 [Map4]
 Intricate technical diagrams display on a huge screen.
-Intricate technical diagrams display on a huge screen.
+Diagramas técnicos complexos são mostrados em uma enorme tela.
 You think they may have something to do with electricity.
-You think they may have something to do with electricity.
+Você acha que eles podem ter algo a ver com eletricidade.
 Please, you gotta help me!
-Please, you gotta help me!
+Por favor, você tem que me ajudar!
 I imported all these Geodudes from Alola to study their geomagnetic properties, but the moment I let them out this avatar appeared!
-I imported all these Geodudes from Alola to study their geomagnetic properties, but the moment I let them out this avatar appeared!
+Eu importei todos estes Geodudes de Alola para poder estudar suas propriedades geomagnéticas, mas, no exato momento que os deixei sair das pokébolas, este avatar apareceu!
 I don't know what to do, it's made the Geodudes go into a frenzy!
-I don't know what to do, it's made the Geodudes go into a frenzy!
+Não sei o que fazer. Ele fez os Geodudes ficarem malucos!
 If you could defeat it for me, I'll be waiting over here.
-If you could defeat it for me, I'll be waiting over here.
+Se você puder derrotá-lo para mim, estarei esperando bem aqui.
 If you could defeat the avatar over there for me, I'll be waiting here.
-If you could defeat the avatar over there for me, I'll be waiting here.
+Se você puder derrotar aquele avatar para mim, estarei esperando aqui.
 Goodness me, thank you. Here, take this Geodude.
-Goodness me, thank you. Here, take this Geodude.
+Minha nossa, muito obrigado. Aqui, tome este Geodude.
 You not only deserve a reward, but my hypothesis is that the avatar appeared when I had so many together in one place....
-You not only deserve a reward, but my hypothesis is that the avatar appeared when I had so many together in one place....
+Você não apenas merece uma recompensa, como minha hipótese é de que o avatar apareceu porque eu tinha muitos reunidos em um só lugar...
 My hypothesis is that the avatar appeared when I had too many Alolan Geodudes together in one place....
-My hypothesis is that the avatar appeared when I had too many Alolan Geodudes together in one place....
+Minha hipótese é a de que o avatar apareceu porque eu tinha muitos Geodudes de Alola juntos num só lugar...
 Dozens of paper bookmarks dot the pages of a book titled "A History of Ferrous Mining Techniques."
-Dozens of paper bookmarks dot the pages of a book titled "A History of Ferrous Mining Techniques."
+Dezenas de marcações riscam as páginas de um livro chamado "A História Das Técnicas De Mineração De Ferrosos".
 [Map5]
 [Map6]
 I was supposed to have a meeting with Kurt today about gracefully decommissioning some of the cluster, but he never showed up.
