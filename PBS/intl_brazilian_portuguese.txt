@@ -5259,45 +5259,45 @@ You offering?
 Tá se oferecendo?
 [Map57]
 I get to go home... doesn’t even seem real yet.
-I get to go home... doesn’t even seem real yet.
+Eu posso voltar para casa... ainda nem parece real.
 I guess I’m still the gym leader.
-I guess I’m still the gym leader.
+Quer dizer, acho que ainda sou o líder de ginásio.
 Gonna need to find someone else to take the job, eventually. But for now I get to go home.
-Gonna need to find someone else to take the job, eventually. But for now I get to go home.
+Vou ter que achar outra pessoa para assumir esse cargo, eventualmente. Mas, por agora, eu posso voltar para casa.
 And maybe I’m gonna have a talk with Andris and the rest of them, about what happened.
-And maybe I’m gonna have a talk with Andris and the rest of them, about what happened.
+E, talvez, eu converse com Andris e o restante do pessoal sobre o que aconteceu.
 And about sticking me in a cave for a few years to deal with the consequences...
-And about sticking me in a cave for a few years to deal with the consequences...
+E sobre terem me enfiado em uma caverna por alguns anos para lidar com as consequências...
 Psst.
 Psst.
 Pass it on.
-Pass it on.
+Passa adiante.
 She offers a Poké Ball.
-She offers a Poké Ball.
+Ela oferece uma Pokébola.
 You're no fun.
-You're no fun.
+Você é uma chatice.
 Excellent.
-Excellent.
+Excelente.
 Never ask why. Only why not.
-Never ask why. Only why not.
+Nunca pergunte "por quê?". Apenas "por que não?".
 Oh, sorry about the wait, I was just preparing to go back on duty.
-Oh, sorry about the wait, I was just preparing to go back on duty.
+Ah, desculpe pela demora, eu estava apenas me preparando para voltar pro serviço.
 I've been investigating a group of thieves.
-I've been investigating a group of thieves.
+Estive investigando um grupo de ladrões.
 They're hiding out in the \c[2]Kilna Turf\c[0], the route to the east of town.
-They're hiding out in the \c[2]Kilna Turf\c[0], the route to the east of town.
+Eles estão se escondendo no \c[2]Campo De Kilna\c[0], a rota a leste da cidade.
 The tall grass makes a good hiding place for criminals and their stolen goods.
-The tall grass makes a good hiding place for criminals and their stolen goods.
+A grama alta acaba por ser um bom esconderijo para criminosos e seus bens roubados.
 If you decide to go over there, you could nab yourself some items which have been forgotten by their owners and those thieves.
-If you decide to go over there, you could nab yourself some items which have been forgotten by their owners and those thieves.
+Se você decidir ir para lá, você pode acabar encontrando alguns itens que foram esquecidos por seus donos -- e por aqueless ladrões.
 No need to worry--the trainers there aren't too strong.
-No need to worry--the trainers there aren't too strong.
+Não precisa se preocupar--os treinadores de lá não são tão fortes.
 Have a good one!
-Have a good one!
+Tenha um bom dia!
 Huh?
-Huh?
+Hã?
 Why not?
-Why not?
+Por que não?
 [Map58]
 [Map59]
 A Bicycle. It looks slightly dinged up.
