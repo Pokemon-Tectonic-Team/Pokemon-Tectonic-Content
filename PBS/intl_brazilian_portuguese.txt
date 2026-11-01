@@ -8407,295 +8407,291 @@ Yeah, I've got a batch.
 Yeah, I've got a batch.
 [Map123]
 Only authorized personnel are allowed through this door.
-Only authorized personnel are allowed through this door.
+Apenas pessoal autorizado é permitido além desta porta.
 Well, we'd probably let Lainie in.
-Well, we'd probably let Lainie in.
+Bom, nós provavelmente deixaríamos a Lainie entrar.
 She's pretty cool.
-She's pretty cool.
+Ela é bem legal.
 Huh?
-Huh?
+Hã??
 Didn't my shift end already?
-Didn't my shift end already?
+Meu expediente já não tinha acabado?
 Something's gone wrong here.
-Something's gone wrong here.
+Tem alguma coisa errada aqui.
 I was training up a new Combee, but with Dolly back...
-I was training up a new Combee, but with Dolly back...
+Eu estava treinando uma nova Combeee. Mas, agora que tenho Dolly de volta...
 You seem like a Trainer with a good heart. Would you like to have it?
-You seem like a Trainer with a good heart. Would you like to have it?
+Você parece ter um bom coração. Gostaria de ficar com ela?
 I can hang onto it for now. But my offer still stands, if you change your mind.
-I can hang onto it for now. But my offer still stands, if you change your mind.
+Eu posso mantê-la por agora. Mas minha oferta continua em pé, se mudar de ideia.
 Wonderful! I'm sure she will have a good home with you.
-Wonderful! I'm sure she will have a good home with you.
+Maravilha! Tenho certeza que ela terá um bom lar com você.
 Treat it well, alright? Make Dolly proud.
-Treat it well, alright? Make Dolly proud.
-How long has it been since I've seen Dolly? Eight years?
-How long has it been since I've seen Dolly? Eight years?
+Trate-a bem, viu? Deixe a Dolly orgulhosa.
 It’s almost surreal seeing her again. So much has changed...
-It’s almost surreal seeing her again. So much has changed...
+É quase surreal vê-la de novo. Tanta coisa mudou...
 Always make sure to read what you can on open, unlocked computers.
-Always make sure to read what you can on open, unlocked computers.
+Sempre se certifique de ler tudo que puder em computadores desbloqueados.
 You never know what you might find!
-You never know what you might find!
+Você nunca sabe o que pode acabar encontrando!
 Like credit card information.
-Like credit card information.
+Como, por exemplo, o cartão de crédito de alguém.
 I do research on which types are strong against other types.
-I do research on which types are strong against other types.
+Eu pesquiso sobre quais tipos são fortes contra outros tipos.
 For example, Psychic-type is strong against Steel-type, and resists it!
-For example, Psychic-type is strong against Steel-type, and resists it!
+Por exemplo, o tipo Psíquico é forte contra o tipo Aço, além de resistí-lo!
 Most people don't know that!
-Most people don't know that!
+A maior parte das pessoas não sabe disso!
 Of course, it's intuitive once you look at how well Alakazam handles its metal spoons!
-Of course, it's intuitive once you look at how well Alakazam handles its metal spoons!
+É claro, isso acaba se tornando intuitivo uma vez que você olha para quão bem um Alakazam manuseia suas colheres de metal!
 You got a key?
-You got a key?
+Você tem uma chave?
 Understood. Head right on in, trainer.
-Understood. Head right on in, trainer.
+Entendido. Pode entrar.
 You got a key for the lab?
-You got a key for the lab?
+Você tem uma chave para o laboratório?
 If not, we can't let you in.
-If not, we can't let you in.
-Grass-types are the best. I love how pure and natural they are.
-Grass-types are the best. I love how pure and natural they are.
+Se não tem, não podemos te deixar entrar.
 My entire team shrugs off magical attacks like they're nothing!
-My entire team shrugs off magical attacks like they're nothing!
+Toda a minha equipe ignora ataques mágicos como se não fossem nada!
 Oh, by "magical" I mean Fairy and Ghost-type.
-Oh, by "magical" I mean Fairy and Ghost-type.
+Ah, com "mágicos", me refiro aos tipos Fada e Fantasma.
 Natural beats supernatural any day of the week, in my book.
-Natural beats supernatural any day of the week, in my book.
+O natural supera o sobrenatural até de olhos fechados.
 The Fossil Research Lab has so many fossils that we're just giving them away!
-The Fossil Research Lab has so many fossils that we're just giving them away!
+O Laboratório De Pesquisa De Fósseis tem tantos fósseis sobrando que a gente está só doando eles!
 You can pay to get your fossils revived, too.
-You can pay to get your fossils revived, too.
+Além disso, você pode pagar para ter seus fósseis revividos.
 Talk to my associate in the room to our left.
-Talk to my associate in the room to our left.
+Fale com minha associada na sala à nossa esquerda.
 Oh, Dolly! I thought I’d never see you again!
-Oh, Dolly! I thought I’d never see you again!
+Ah, Dolly! Pensei que nunca mais te veria!
 And you -- I can’t thank you enough for getting her back to me. How’d you find her?
-And you -- I can’t thank you enough for getting her back to me. How’d you find her?
+E você -- nunca vou conseguir agradecer o suficiente por ter conseguido recuperar ela para mim. Como você a encontrou?
 Oh, uh... well, don’t worry about that.
-Oh, uh... well, don’t worry about that.
+Ah, hã... bom, não se preocupa com isso.
 Anyways, uh, gotta see a man about a Poochyena. Toodles!
-Anyways, uh, gotta see a man about a Poochyena.  Toodles!
+De qualquer forma, hã, tenho que ver um cara a respeito de uma Poochyena. Tchauzinho!
 Umph!
-Umph!
+Ooof!
 It’s you! Uh...
-It’s you! Uh...
+É você! Hã...
 Well, I mean, like, technically yeah.
-Well, I mean, like, technically yeah.
+Bom, quer dizer, tipo, <i>tecnicamente</i> sim.
 But they stole them first! Team Chasm needs to pay back its dues, y’hear me? They stole those Pokémon years ago!
-But they stole them first! Team Chasm needs to pay back its dues, y’hear me? They stole those Pokémon years ago!
+Mas eles roubaram eles primeiro! A Equipe Chasm precisa pagar pelo que fez, tá me entendendo? Eles roubaram esses Pokémon anos atrás!
 Yeah, you got it!
-Yeah, you got it!
+Isso aí, exatamente!
 I, like, totally can’t stand the idea of some ex-Team Chasm jerks keeping some Pokémon that prolly still wants to go back home.
-I, like, totally can’t stand the idea of some ex-Team Chasm jerks keeping some Pokémon that prolly still wants to go back home.
+Eu, tipo, totalmente não consigo suportar a ideia dos ex-membros babacas da Equipe Chasm continuarem com Pokémon que eles roubaram e que provavelmente ainda querem voltar para casa.
 I, uh, guess I maybe kinda should’ve explained that earlier.
-I, uh, guess I maybe kinda should’ve explained that earlier.
+Eu, hã, acho que eu meio que devia ter explicado isso mais cedo.
 But, like, hey, no harm no foul, right? My name’s <imp>Candy</imp>.
-But, like, hey, no harm no foul, right? My name’s <imp>Candy</imp>.
+Mas, tipo, ei, águas passadas, né? Meu nome é <imp>Candy</imp>.
 And you’re \PN -- I know, like, everything about you. So, hey, you’re cool. You, uh, want to team up?
-And you’re \PN -- I know, like, everything about you.  So, hey, you’re cool. You, uh, want to team up?
+E você é \PN -- eu sei, tipo, tudinho sobre você. Então, ei, você é legal. Você, hã, quer unir forças?
 Yeaaah, damn straight. Finally got a friend my age. Go Candy!
-Yeaaah, damn straight. Finally got a friend my age.  Go Candy!
+Uhull! É isso aí! Finalmente uma amizade com a mesma idade que eu. Vaaaai Candy!
 Anyways, I’ll 100% be in touch. So we can inflict some more justice.
-Anyways, I’ll 100% be in touch. So we can inflict some more justice.
+Enfim, eu 100% vou entrar em contato. Assim, a gente vai poder aplicar um pouco mais de justiça.
 Sayonara!
 Sayonara!
 Oof. Rejected hard.
-Oof. Rejected hard.
+Aiê. Rejeitada <i>hard</i>.
 Welp, that’s your loss! Hell, if you keep working with Tamarind and Andris, I might just be your next rival!
-Welp, that’s your loss! Hell, if you keep working with Tamarind and Andris, I might just be your next rival!
+Tão tá, problema seu! Alias, se você continuar trabalhando com a Tamarind e com a Andris, pode ser que eu acabe me tornando sua próxima rival!
 Watch your back!
-Watch your back!
+Toma cuidado!
 Premise 1: Ice both resists and is super-effective against Ground.
-Premise 1: Ice both resists and is super-effective against Ground.
+Premissa 1: Gelo tanto resiste quanto é superefetivo contra Terrestre.
 Premise 2: Rock both resists and is super-effective against Ice.
-Premise 2: Rock both resists and is super-effective against Ice.
+Premissa 2: Pedra tanto resiste quanto é superefetiva contra Gelo.
 Final premise: Ground is super-effective against Rock.
-Final premise: Ground is super-effective against Rock.
+Premissa final: Terrestre é superefetivo contra Pedra.
 Conclusion: To maintain consistency, Ground must resist Rock!
-Conclusion: To maintain consistency, Ground must resist Rock!
+Conclusão: Para manter consistência, Terrestre deve resistir Pedra!
 The world is just perfectly balanced, isn't it?
-The world is just perfectly balanced, isn't it?
+O mundo é perfeitamente balanceado, não é?
 Now I just need to figure out what's going on with Psychic...
-Now I just need to figure out what's going on with Psychic...
+Agora eu só tenho que entender o que tá rolando com o tipo Psíquico...
 The door reads "Authorized personnel only!"
-The door reads "Authorized personnel only!"
+A porta diz "Apenas pessoal autorizado!".
 Welcome to Novo College!
-Welcome to Novo College!
+Boas-vindas ao Instituto de Nova!
 Feel free to check out any of our labs and classrooms to learn what kind of place we are.
-Feel free to check out any of our labs and classrooms to learn what kind of place we are.
+Fique à vontade para visitar qualquer um de nossos laboratórios e salas de aula para descobrir que tipo de lugar somos.
 You can also log onto the PC over there to read lots about our history, our majors, and other stuff.
-You can also log onto the PC over there to read lots about our history, our majors, and other stuff.
+Você pode, também, logar nos Computadores logo ali para ler bastante sobre nossa história, nossos cursos e outros assuntos.
 Dolly here got, uh, reappropriated by Team Chasm... how long has it been? Eight years?
-Dolly here got, uh, reappropriated by Team Chasm...  how long has it been? Eight years?
+A Dolly aqui foi, hã, reapropriada pela Equipe Chasm por... por quanto tempo foi? Oito anos?
 It’s almost surreal seeing her again.
-It’s almost surreal seeing her again.
+É quase surreal poder ver ela de novo.
 Welcome to the Novo College Informational Site! Please select one of the following subjects to learn more!
-Welcome to the Novo College Informational Site!  Please select one of the following subjects to learn more!
+Boas-vindas ao Site Informacional do Insituto De Nova! Por favor, selecione um dos assuntos seguintes para saber mais!
 Makyan paleontology is in an exciting time. Recent excursions have promised field-shaking discoveries.
-Makyan paleontology is in an exciting time. Recent excursions have promised field-shaking discoveries.
+A paleontologia Makiense vive um momento muito empolgante. Algumas expedições recentes prometem descobertas capazes de abalar o campo de estudos.
 The avatar crisis has only existed for less than half a year, but already fossil analysis has found striking resemblances to ancient Pokemon.
-The avatar crisis has only existed for less than half a year, but already fossil analysis has found striking resemblances to ancient Pokemon.
+A crise avatar existe há menos de meio ano, mas análises de fósseis já revelaram semelhanças impressionantes com Pokémon ancestrais.
 Skeletons found by researchers are significantly larger than the bone structure of modern counterparts.
-Skeletons found by researchers are significantly larger than the bone structure of modern counterparts.
+Esqueletos encontrados por pesquisadores são significantemente maiores que a estrutura óssea de seus equivalentes modernos.
 Novo College has an accoladed history in the material sciences.
-Novo College has an accoladed history in the material sciences.
+O Instituto de Nova tem um premiado histórico na ciência dos materiais.
 The Rematerializer was voted by Trainers as one of the most useful inventions in the last decade.
-The Rematerializer was voted by Trainers as one of the most useful inventions in the last decade.
+O Rematerializador foi elegido por treinadores como uma das ferramentas mais úteis da última década.
 We also work closely with Pokemon Centers in order to improve medicinal practices.
-We also work closely with Pokemon Centers in order to improve medicinal practices.
+Também colaboramos estreitamente com os Centros Pokémon a fim de aprimorar as práticas medicinais.
 Makya has a stunningly biodiverse ecosystem, which has raised the mystery of how it got to that point.
-Makya has a stunningly biodiverse ecosystem, which has raised the mystery of how it got to that point.
+Makya possui um ecossistema incrivelmente biodiverso, o que levanta o mistério de como chegou a esse ponto.
 One theory is that immigration to the region has brought stowaway Pokemon, or foreign Pokemon released into the wild.
-One theory is that immigration to the region has brought stowaway Pokemon, or foreign Pokemon released into the wild.
+Uma teoria é que a imigração à região trouxe Pokémon clandestinos, ou Pokémon estrangeiros que acabaram sendo soltos na natureza.
 Another theory is the Makyan environmental policy is particularly effective.
-Another theory is the Makyan environmental policy is particularly effective.
+Outra teoria é a de que a política ambiental de Makya é particularmente efetiva.
 For both theories, the counterargument is that fossil records show that Makya has had this biodiversity before human settlements were even founded.
-For both theories, the counterargument is that fossil records show that Makya has had this biodiversity before human settlements were even founded.
+Para ambas as teorias, o contra-argumento é o de que registros de fósseis mostram que Makya tinha sua biodiversidade antes mesmo de assentamentos humanos serem formados.
 In collaboration with Eko, Novo Town's Gym Leader, Novo College is developing new pain-relief medication for Pokemon.
-In collaboration with Eko, Novo Town's Gym Leader, Novo College is developing new pain-relief medication for Pokemon.
+Em colaboração com Eko, líder de ginásio da Cidade Nova, o Instituto De Nova está desenvolvendo um novo medicamento analgésico para Pokémon.
 While status-relieving medicine serves a purpose, its main flaw is that it is reactive rather than proactive.
-While status-relieving medicine serves a purpose, its main flaw is that it is reactive rather than proactive.
+Apesar de medicamentos aliviadores de status terem seu propósito, sua principal falha é a de serem reativos, em vez de proativos.
 As a response to this issue, the College has been working to develop a new ointment, which can be applied to Pokemon once a day.
-As a response to this issue, the College has been working to develop a new ointment, which can be applied to Pokemon once a day.
+Como resposta a esse problema, o Instituto tem trabalhado para desenvolver uma nova pomada, que pode ser aplicada nos Pokémon uma vez ao dia.
 Unlike existing medicines, it serves to stop status pains before they happen.
-Unlike existing medicines, it serves to stop status pains before they happen.
+Ao contrário de medicamentos existentes, ela serve para anular as dores causadas por condições de status antes mesmo delas começarem.
 Pokemon in the midst of battle will still feel the effects, long-term pain will be numbed a few minutes after combat.
-Pokemon in the midst of battle will still feel the effects, long-term pain will be numbed a few minutes after combat.
+Pokémon no meio de uma batalha ainda sentirão os efeitos, mas a dor persistente será amenizada poucos minutos após o combate.
 Career battling Pokemon benefit most from this, as continued exposure to untreated status can result in chronic pains once the Pokemon retires from battling.
-Career battling Pokemon benefit most from this, as continued exposure to untreated status can result in chronic pains once the Pokemon retires from battling.
+Pokémon que batalham por carreira são os que mais se beneficiam disso, já que a exposição contínua a condições de status não tratadas pode resultar em dores crônicas quando o Pokémon se aposentar das batalhas.
 The avatar crisis has disrupted much of Makya's already strained infrastructure, as travel between settlements has become quite dangerous.
-The avatar crisis has disrupted much of Makya's already strained infrastructure, as travel between settlements has become quite dangerous.
+A crise avatar desestabilizou grande parte da infraestrutura já frágil de Makya, uma vez que o deslocamento entre zonas seguras se tornou bastante perigoso.
 To help combat this, Novo College has been offering free courses to Trainers and Rangers who wish to keep Makyan routes safe.
-To help combat this, Novo College has been offering free courses to Trainers and Rangers who wish to keep Makyan routes safe.
+Para ajudar a combater isso, o Instituto de Nova tem oferecido cursos gratuitos a treinadores e rangers que desejam manter as rotas de Makya seguras.
 Multiple professors and students work to develop new strategies to defeat these avatars.
-Multiple professors and students work to develop new strategies to defeat these avatars.
+Múltiplos professores e estudantes trabalham para desenvolver novas estratégias para derrotar esses avatares.
 Experienced Trainers with a history of battling avatars are encouraged to volunteer in educational roles.
-Experienced Trainers with a history of battling avatars are encouraged to volunteer in educational roles.
+Treinadores experientes com um histórico de combater avatares são encorajados a se voluntariarem em papéis educacionais.
 One of the College's latest projects involved tracking genetic signatures in the Golett, Baltoy, and Castform families.
-One of the College's latest projects involved tracking genetic signatures in the Golett, Baltoy, and Castform families.
+Um dos projetos mais recentes do Instituto envolveu o rastreamento de assinaturas genéticas nas famílias de Gollet, Baltoy e Castform.
 While the exact methods of reproduction elude scientists, many suspect that selection forces remain at play.
-While the exact methods of reproduction elude scientists, many suspect that selection forces remain at play.
+Embora os métodos exatos de reprodução ainda sejam um mistério para os cientistas, muitos suspeitam que forças de seleção continuem atuando.
 How this natural selection impacts man-made Pokemon could have remarkable insights on how other Pokemon change form over millennia.
-How this natural selection impacts man-made Pokemon could have remarkable insights on how other Pokemon change form over millennia.
+A forma como essa seleção natural afeta Pokémon feitos por humanos pode oferecer pistas notáveis em como outros Pokémon mudam de forma no decorrer de milênios.
 Applications for the current school year are closed.
-Applications for the current school year are closed.
+Inscrições para o atual ano letivo estão encerradas.
 Acceptance letters will be sent out shortly.
-Acceptance letters will be sent out shortly.
+Cartas de aceitação serão enviadas em breve.
 LuxTech Scholars will be contacted by a representative on their first week of classes.
-LuxTech Scholars will be contacted by a representative on their first week of classes.
+Os estudantes de LuxTech serão contatados por um representante em sua primeira semana de aula.
 Greetings. I hope you’ve come prepared to answer a few questions.
-Greetings. I hope you’ve come prepared to answer a few questions.
+Saudações. Espero que tenha se preparado para responder a algumas perguntas.
 Thank you. I would like a firsthand account.
-Thank you. I would like a firsthand account.
+Obrigado. Gostaria de um relato em primeira mão.
 Concerning the avatars and their effects.
-Concerning the avatars and their effects.
+É sobre os avatares e seus efeitos.
 No, but I would appreciate it.
-No, but I would appreciate it.
+Não, mas mas eu seria grato.
 Understandable. I require more data, however.
-Understandable. I require more data, however.
+Compreensível, mas preciso de mais dados.
 Upon more elaborate consideration, I decided to not have you present our findings with me.
-Upon more elaborate consideration, I decided to not have you present our findings with me.
+Após reconsiderar, decidi que você não apresentará nossas descobertas comigo.
 I think you’ll be glad to hear that. I would like to hear your personal opinions, though.
-I think you’ll be glad to hear that. I would like to hear your personal opinions, though.
+Acredito que está contente em ouvir isso. Ainda assim, gostaria de ouvir suas opiniões.
 Could you give me an estimate of how many avatars you have fought during your time in Makya?
-Could you give me an estimate of how many avatars you have fought during your time in Makya?
+Pode me dar uma estimativa de quantos avatares você batalhou contra durante sua estadia em Makya?
 Significantly more encounters than the average individual, certainly.
-Significantly more encounters than the average individual, certainly.
+Significativamente mais encontros do que o cidadão médio, certamente.
 That many? Noted.
-That many? Noted.
+Tantos assim? Anotado.
 I have my own estimates based on public records and hearsay. I will default to those.
-I have my own estimates based on public records and hearsay. I will default to those.
+Tenho minhas próprias estimativas baseadas em registros públicos e boatos. Vou me pautar por elas.
 Do you take no thrill in defeating these beings? Unfortunately I fear you may be an expert in the matter.
-Do you take no thrill in defeating these beings?  Unfortunately I fear you may be an expert in the matter.
+Você não sente nenhuma emoção em derrotar essas coisas? Infelizmente, temo que vocẽ seja especialista no assunto.
 So, have you noticed any common traits between avatars?
-So, have you noticed any common traits between avatars?
+Então, você notou alguma característica em comum entre os avatares?
 As the local people have found out.
-As the local people have found out.
+Como a população local descobriu.
 I will trust your judgment, as an experienced battler.
-I will trust your judgment, as an experienced battler.
+Confiarei em seu julgamento de duelista experiente.
 Ah, yes. I’ve heard of this phenomenon.
-Ah, yes. I’ve heard of this phenomenon.
+Ah, sim. Ouvi falar desse fenômeno.
 I have my suspicions that the true nature of the avatars and Makya’s unique properties share a common origin.
-I have my suspicions that the true nature of the avatars and Makya’s unique properties share a common origin.
+Tenho minhas suspeitas de que tanto a verdadeira natureza dos avatares quanto as propriedades únicas de Makya compartilham uma origem em comum.
 The unique ecological pressures that create the Makyan forms must stem from the same source as the avatars. I’m certain of it.
-The unique ecological pressures that create the Makyan forms must stem from the same source as the avatars. I’m certain of it.
+As pressões ecológicas únicas que dão origem às formas de Makya devem ser provenientes da mesma fonte que os avatares. Tenho certeza disso.
 This region has several pockets of blatantly unnatural climatology – its immense cave network chief among them.
-This region has several pockets of blatantly unnatural climatology – its immense cave network chief among them.
+Esta região tem diversos focos de uma climatologia gritantemente antinatural – sua imensa rede de cavernas é o principal deles.
 There is more to this region than I have discovered thus far.
-There is more to this region than I have discovered thus far.
+Há mais na região do que consegui descobrir até o momento.
 ...But, excuse me. I am not asking questions. I am talking your ear off.
-...But, excuse me. I am not asking questions. I am talking your ear off.
+...Mas, com licença. Não estou mais fazendo perguntas. Estou apenas tagarelando.
 I need to collect my findings to present to the local experts in regional forms and the ranger captains.
-I need to collect my findings to present to the local experts in regional forms and the ranger captains.
+Preciso juntar minhas descobertas para apresentar aos especialistas locais em formas regionais e aos capitães ranger.
 I would like to talk with you again. Do you know the <imp>menagerie in Velenz</imp>?
-I would like to talk with you again. Do you know the <imp>menagerie in Velenz</imp>?
+Gostaria de conversar com você novamente. Você conhece a <imp>Coleção De Velenze</imp>?
 I would suggest we meet there.
-I would suggest we meet there.
+Sugiro que nos encontremos lá.
 Though, considering the timing, it would perhaps be better to wait until after the tournament is over. That way at least one burden will be off your mind.
-Though, considering the timing, it would perhaps be better to wait until after the tournament is over. That way at least one burden will be off your mind.
+Entretanto, considerando o momento, provavelmente seria melhor esperar até que o torneio termine. Dessa forma, ao menos uma preocupação estará fora de sua mente.
 In fact, if it may help you in achieving a quick victory, take these.
-In fact, if it may help you in achieving a quick victory, take these.
+Aliás, caso te ajude a alcançar uma vitória mais rápida, pegue isto.
 Best of luck. Goodbye, \PN.
-Best of luck. Goodbye, \PN.
+Boa sorte. Até mais, \PN.
 Our college isn't too grand, but we have three ace areas.
-Our college isn't too grand, but we have three ace areas.
+Nosso instituto não é tão grandioso, mas nós temos três áreas de destaque.
 Paleontology, 3D printing, and electronics.
-Paleontology, 3D printing, and electronics.
+Paleontologia, impressão 3D e eletrônica.
 When you combine them, you get the largest fossil studies and revival program in the world!
-When you combine them, you get the largest fossil studies and revival program in the world!
+Quando você as combina, você tem o maior programa de estudos e ressurreição de fósseis do mundo!
 No thanks.
-No thanks.
+Não, valeu.
 Sure.
-Sure.
+Claro.
 You're stealing Pokémon?
-You're stealing Pokémon?
+Você está roubando Pokémon?
 You're rescuing Pokémon?
-You're rescuing Pokémon?
+Você está resgatando Pokémon?
 No way.
-No way.
+Negativo.
 Fields of Study
-Fields of Study
+Campos de Estudo
 Research Topics
-Research Topics
+Tópicos de Pesquisa
 Application Information
-Application Information
+Informações de Matrículas
 Log Off
-Log Off
+Sair
 Fossil Studies
-Fossil Studies
+Estudos de Fósseis
 Material Studies
-Material Studies
+Estudos de Materiais
 Makyan Ecology
-Makyan Ecology
+Ecologia Makiense
 Go Back
-Go Back
+Voltar
 Nociception
-Nociception
+Nocicepção
 Avatars
 Avatares
 Man-made Pokémon
-Man-made Pokémon
+Pokémon Artificiais
 Depends on the question.
-Depends on the question.
+Depende da pergunta.
 Do I have to?
-Do I have to?
+Eu preciso?
 Not my strong suit.
-Not my strong suit.
+Não é o meu forte.
 A few?
-A few?
+Alguns?
 Dozens.
-Dozens.
+Dezenas.
 Hard to say.
-Hard to say.
+Difícil dizer.
 Too many...
-Too many...
+Muitos...
 Aggressive.
-Aggressive.
+Agressivos.
 Powerful.
-Powerful.
+Poderosos.
 Type-changing.
-Type-changing.
+Mudam de tipo.
 [Map124]
 Grouz Station Captain, at your service.
 Grouz Station Captain, at your service.
