@@ -2664,43 +2664,43 @@ Sinto que vou te ver no ginásio em breve, não vou?
 [Map27]
 [Map28]
 It's an amateur painting of a battle.
-It's an amateur painting of a battle.
+É uma pintura amadora de uma batalha.
 On the left side, a girl in a large pink dress shouts a command to a Haxorus.
-On the left side, a girl in a large pink dress shouts a command to a Haxorus.
+Do lado esquerdo, uma garota com um vestido grande e rosa grita comandos a um Haxorus.
 On the right side, a Raichu looks back with trusting eyes at its elderly trainer.
-On the right side, a Raichu looks back with trusting eyes at its elderly trainer.
+Do lado direito, um Raichu olha para trás com um olhar confiante para seu treinador idoso.
 A history program is running on the TV at low volume.
-A history program is running on the TV at low volume.
+Um programa de história está passando na TV em um volume baixo.
 A historian is giving a long speech about a battle 500 years ago.
-A historian is giving a long speech about a battle 500 years ago.
+Uma historiadora está fazendo um longo discurso sobre uma batalha que aconteceu há 500 anos.
 Odds are good that you have a Rematerializer. Most trainers do nowadays.
-Odds are good that you have a Rematerializer. Most trainers do nowadays.
+Há boas chances de você ter um Rematerializador. A maior parte dos treinadores tem hoje em dia.
 You have me to thank for that, I put a decade of work into that beautiful machine.
-You have me to thank for that, I put a decade of work into that beautiful machine.
+Sou eu quem você tem a agradecer por isso: coloquei uma década de trabalho nessa bela máquina.
 My magnum opus. I probably don't have another one of those in me.
-My magnum opus. I probably don't have another one of those in me.
+Minha <i>magnum opus</i>. Provavelmente, nunca mais conseguirei criar nada igual.
 Since then, I've started up a hobby tinkering with technical machines.
-Since then, I've started up a hobby tinkering with technical machines.
+Desde então, comecei um <i>hobby</i> de fazer ajustes e reparos em Máquinas Técnicas.
 Like this one. Here, I want you to have it.
-Like this one. Here, I want you to have it.
+Tipo essa aqui. Tome, quero que pegue.
 Take care of yourself now.
-Take care of yourself now.
+Se cuide, ok?
 I see that you're a trainer!
-I see that you're a trainer!
+Vejo que você treina Pokémon!
 Perhaps you've met our son Louis?
-Perhaps you've met our son Louis?
+Talvez tenha conhecido nosso filho, o Louis?
 He started the Novo Battling Club.
-He started the Novo Battling Club.
+Ele começou o Clube De Batalhas de Nova.
 They meet for battles in the large flower field in the south part of town.
-They meet for battles in the large flower field in the south part of town.
+Eles se reúnem para batalhar no grande campo florido na parte Sul da cidade.
 I never would have known we had such accomplished trainers living here if it weren't for Louis.
-I never would have known we had such accomplished trainers living here if it weren't for Louis.
+Eu nunca saberia que temos tantos treinadores talentosos vivendo aqui se não fosse pelo Louis.
 I'm proud of my little boy.
-I'm proud of my little boy.
+Estou tão orgulhosa do nosso garotinho.
 An unopened envelope sits in the trash.
-An unopened envelope sits in the trash.
+Um envelope fechado está jogado na lixeira.
 It seems to have been sent by someone named "Dr. Hekata."
-It seems to have been sent by someone named "Dr.  Hekata."
+Parece que foi enviado por alguém chamado "Dra. Hekata".
 [Map29]
 I caught a Meowth during my tour to Galar, to build my cat collection.
 I caught a Meowth during my tour to Galar, to build my cat collection.
