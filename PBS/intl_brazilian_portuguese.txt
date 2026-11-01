@@ -4352,33 +4352,33 @@ Yes
 Yes
 [Map48]
 You see a book titled "Dealing with Retirement."
-You see a book titled "Dealing with Retirement."
+Você nota um livro entitulado "Lidando Com a Aposentadoria".
 Hello, hello! I am the official Name Rater! Want me to rate the nicknames of your Pokémon?
-Hello, hello! I am the official Name Rater! Want me to rate the nicknames of your Pokémon?
+Olá, olá! Eu sou o Nomeador oficial! Quer que eu avalie os apelidos de seus Pokémon?
 ...
 ...
 Is what I would say. In the modern day my services are no longer needed by trainers.
-Is what I would say. In the modern day my services are no longer needed by trainers.
+É o que eu diria nos velhos tempos. Nos dias modernos, meus serviços não são mais necessários para treinadores.
 People started realizing that you could just rename your Pokemon at any point by calling them a different name. No need for a middleman.
-People started realizing that you could just rename your Pokemon at any point by calling them a different name. No need for a middleman.
+As pessoas começaram a perceber que você pode renomear seus Pokémon a qualquer momento se apenas começar a chamá-los por um nome diferente. Não precisa de nenhum intermediário.
 I always said that a new name was 'vastly superior' or 'fit better', even when it wasn't true!
-I always said that a new name was 'vastly superior' or 'fit better', even when it wasn't true!
+Eu sempre dizia que um nome novo era 'vastamente superior' ou que 'combinava mais', mesmo que isso não fosse verdade!
 Most Pokemon can understand the basics of human speech. How else could they listen to your commands in battles?
-Most Pokemon can understand the basics of human speech. How else could they listen to your commands in battles?
+A maior parte dos Pokémon entendem do básico da fala humana. Caso contrário, como eles entenderiam seus comandos em batalha?
 How fortunate for us that Pokemon don't mind the names we give them. They love us all the same.
-How fortunate for us that Pokemon don't mind the names we give them. They love us all the same.
+Quanta sorte nós temos: os Pokémon não se importam com os nomes que os damos. Eles nos amam de qualquer maneira!
 Take good care of them, Trainer. The right name will come to you in due time.
-Take good care of them, Trainer. The right name will come to you in due time.
+Cuide bem deles, viajante. Você encontrará o nome certo no momento apropriado.
 And don't bother coming to me when it does come. Do it yourself!
-And don't bother coming to me when it does come.  Do it yourself!
+E não se incomode em me procurar quando isso acontecer. Faça por conta própria!
 I found this odd Stufful a few weeks ago.
-I found this odd Stufful a few weeks ago.
+Encontrei esta estranha Stufful algumas semanas atrás.
 I've decided to call her Nene.
-I've decided to call her Nene.
+Decidi chamá-la de Nene.
 I think we'll get along for a long time.
-I think we'll get along for a long time.
+Acho que vamos nos dar bem por muito tempo.
 The trash can is empty.
-The trash can is empty.
+A lixeira está vazia.
 [Map49]
 An alarm clock. The alarm's been disabled.
 Um despertador. Ele está desativado.
