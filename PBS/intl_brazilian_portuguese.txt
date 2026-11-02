@@ -23446,29 +23446,29 @@ The salty ocean breeze, the pristine yellow sandstone... it's all just so much!
 The salty ocean breeze, the pristine yellow sandstone... it's all just so much!
 [Map348]
 Are those things down there even Pokemon?
-Are those things down there even Pokemon?
+Aquelas coisas lá em baixo sequer <i>são</i> Pokémon?
 Ain't many people able to stand up to them, let alone get a close enough look to learn anything.
-Ain't many people able to stand up to them, let alone get a close enough look to learn anything.
+Não existem muitos treinadores capazes de enfrentá-las, quanto mais de se aproximarem o suficiente para tentar aprender alguma coisa.
 My whole team's been running on fumes and the Aid Kit for weeks...
-My whole team's been running on fumes and the Aid Kit for weeks...
+Minha equipe inteira tem dado o suor e sangue à base de Kits Médicos por semanas...
 They get KO'd at least twice a day...
-They get KO'd at least twice a day...
+Eles são nocauteados ao menos duas vezes ao dia...
 Welcome to the Containment Club my friend.
-Welcome to the Containment Club my friend.
+Boas-vindas ao Clube De Contenção, camarada.
 Hope you're ready to sit here for hours on end hoping that nothing crawls through that hole.
-Hope you're ready to sit here for hours on end hoping that nothing crawls through that hole.
+Espero que tenha se preparado para sentar aqui por horas e horas, rezando para que nada saia rastejando por aquele buraco.
 Months old lecture notes.
-Months old lecture notes.
+Anotações de aula de meses atrás.
 They've been half erased, and are too blurry to read.
-They've been half erased, and are too blurry to read.
+Estão parcialmente apagadas e borradas demais para serem legíveis.
 It takes at least five of us at a time to keep the creepy-crawlies from getting out.
-It takes at least five of us at a time to keep the creepy-crawlies from getting out.
+É preciso de ao menos cinco de nós de uma só vez para impedir que as criaturas rastejantes escapem.
 The unscientific reality warping portal just had to open right under one of Makya's most populated places...
-The unscientific reality warping portal just had to open right under one of Makya's most populated places...
+Um portal que distorce realidades e desafia qualquer lógica humana tinha que se abrir logo embaixo de um dos lugares mais povoados de Makya...
 You got your 'mons ready?
-You got your 'mons ready?
+Seus Pokémon estão prontos?
 It's hairier than a Stoutland down there.
-It's hairier than a Stoutland down there.
+A situação lá embaixo tá mais feia do que um Purugly.
 [Map349]
 The force of the Ultra Wormhole pushes you back!
 The force of the Ultra Wormhole pushes you back!
@@ -39485,7 +39485,7 @@ Chave Da Câmara 7
 Chamber 8 Key
 Chave Da Câmara 8
 UB Containment Key
-Chave Contenção De UCs
+Chave Conteção UCs
 Factory Pass
 Passe Para A Fábrica
 Ruined Tower Key
@@ -40388,7 +40388,7 @@ Chaves Da Câmara 7
 Chamber 8 Keys
 Chaves Da Câmara 8
 UB Containment Keys
-Chaves Inibição UCs
+Chaves Contenção UCs
 Factory Passes
 Passes Para A Fábrica
 Ruined Tower Keys
@@ -48426,10 +48426,10 @@ Worker's Bunk
 Dormitório Dos Funcionários
 348
 UB Containment
-Contenção De UBs
+Contenção De UCs
 349
 UB Portal
-Portal UB
+Portal UC
 350
 Forgotten Grave Site
 Local Do Ermo Túmulo
