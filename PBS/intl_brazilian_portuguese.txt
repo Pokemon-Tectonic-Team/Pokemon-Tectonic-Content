@@ -1976,12 +1976,6 @@ Get lost kid.
 Sure.
 Sure.
 [Map19]
-Be wary of Abilities that grant a Pokemon an immunity they might otherwise not have.
-Cuidado com Habilidades que dão a um Pokémon uma imunidade que ele normalmente não teria.
-You might think that an Ice-type attack will knock out your opponent's Leavanny, only to find out that it has Cold Reception!
-Você provavelmente acha que um ataque do tipo Gelo nocautearia a Leavanny de seu oponente, mas ela tem a habilidade Recepção Gélida!
-Abilities that grant resistances, such as Realist and Tough, should also be respected.
-Habilidades que dão resistências, como Realista e Dureza, também devem ser respeitadas.
 I live for trash TV.
 Eu vivo pra assistir novelas ruins.
 Last week Kimberly slapped Evan because she caught him reading a romance novel that featured a cycling couple.
@@ -2000,20 +1994,32 @@ Here's how I enjoy these shows to the max, you should try it too.
 Essa aqui é a forma que eu aproveito ao máximo esses programas, você deveria tentar, também.
 Trash TV really is the best. Can't wait for the next episode.
 Novelas ruins são muito boas. Mal posso esperar pelo próximo episódio.
-The TV shows a Dragon-tamer breaking up with a Lady in what seems like a staged moment.
-A TV mostra um domador de Dragões terminando o seu relacionamento com sua namorada no que parece ser uma cena ensaiada.
+Be wary of Abilities that grant a Pokemon an immunity they might otherwise not have.
+Cuidado com Habilidades que dão a um Pokémon uma imunidade que ele normalmente não teria.
+You might think that an Ice-type attack will knock out your opponent's Leavanny, only to find out that it has Cold Reception!
+Você provavelmente acha que um ataque do tipo Gelo nocautearia a Leavanny de seu oponente, mas ela tem a habilidade Recepção Gélida!
+Abilities that grant resistances, such as Realist and Tough, should also be respected.
+Habilidades que dão resistências, como Realista e Dureza, também devem ser respeitadas.
 If your Pokemon attacks the same target with the same attack, the damage will always be the same!
 Se o seu Pokémon ataca o mesmo alvo com o mesmo ataque, o dano sempre será o mesmo!
 That means that if you're able to crunch the numbers, you can figure out how many attacks it'll take to knock out an opposing Pokemon!
 Isso significa que, se você conseguir fazer os cálculos, dá pra descobrir quantos ataques você precisa para nocautear um Pokémon adversário.
 Critical hits are the exception to this, of course.
 Acertos críticos são a exceção disso, é claro.
+The TV shows a Dragon-tamer breaking up with a Lady in what seems like a staged moment.
+A TV mostra um domador de Dragões terminando o seu relacionamento com sua namorada no que parece ser uma cena ensaiada.
 It seems like Ribombee is helping organize the books!
 Parece que Ribombee está ajudando a organizar os livros.
-A book called "Gangs of Castelia" lays on the table.
-Um livro chamado "Gangues De Castelia" descansa na mesa.
-A sticker on the front states that it was adapted into a major motion picture.
-Um adesivo na frente afirma que a obra foi adaptada para um grande filme.
+Hey, you want a cup of coffee?
+Ei, você quer um copo de café?
+It's gonna cost you $250.
+Vai custar $250.
+Sounds good. Come back when you want a cup.
+Sem problemas. Volte aqui quando quiser um copo.
+Thank you for your patronage.
+Agradecemos pela sua preferência.
+Wow, you are broke. Go get some cash.
+Uau, você tá liso. Vai ganhar alguma grana.
 Oh hello dearie, you wouldn't happen to be a Trainer would you?
 Ah! Olá, meu bem. Você não treina Pokémon, por acaso, treina?
 My husband and I have decided to get another Fairy- type friend for our Ribombees and Cutieflies.
@@ -2034,32 +2040,26 @@ Things are going well dear, your Pokemon has been quite the hit with our custome
 As coisas têm sido boas, meu bem. Seu Pokémon está fazendo o maior sucesso com nossos clientes.
 Take care of the old mascot dear, I'm sure it hates being cooped up in a place like this.
 Cuide bem do nosso antigo mascote, meu bem. Tenho certeza que ele não gostaria de ficar confinado em um lugar como este.
-Hey, you want a cup of coffee?
-Ei, você quer um copo de café?
-It's gonna cost you $250.
-Vai custar $250.
-Sounds good. Come back when you want a cup.
-Sem problemas. Volte aqui quando quiser um copo.
-Thank you for your patronage.
-Agradecemos pela sua preferência.
-Wow, you are broke. Go get some cash.
-Uau, você tá liso. Vai ganhar alguma grana.
-Ribombee seems to really be enjoying the TV show.
-Ribombee parece estar gostando bastante do programa que está passando na TV.
+A book called "Gangs of Castelia" lays on the table.
+Um livro chamado "Gangues De Castelia" descansa na mesa.
+A sticker on the front states that it was adapted into a major motion picture.
+Um adesivo na frente afirma que a obra foi adaptada para um grande filme.
 My Obstagoon and I love to come here to read.
 Meu Obstagoon e eu amamos vir aqui para ler.
 Many people are surprised that an Obstagoon would like reading.
 Muitas pessoas se surpreendem pelo fato de um Obstagoon gostar de ler.
 I tell them not to judge a book by its cover!
 Eu digo para elas não julgarem um livro pela capa!
-It's a TV guide.
-É um guia de TV.
-You're surprised they still make these.
-Você se supreende pelo fato de ainda fabricarem essas coisas.
+Ribombee seems to really be enjoying the TV show.
+Ribombee parece estar gostando bastante do programa que está passando na TV.
 I hate reading. I don't even know why I come here.
 Eu odeio ler. Eu nem sei por que eu venho para cá.
 The coffee isn't even that great...
 O café nem é tão bom assim...
+It's a TV guide.
+É um guia de TV.
+You're surprised they still make these.
+Você se supreende pelo fato de ainda fabricarem essas coisas.
 I have a younger brother who is very, very dense.
 Eu tenho um irmãozinho que é muito, muito tapado.
 He's obsessed with water and the ocean. And especially with making metaphors about them.
@@ -2074,12 +2074,6 @@ Did I just use a water metaphor? Ugh, maybe it's rubbing off on me...
 Eu acabei de usar uma metáfora com água, não acabei? Ahh, talvez esteja me contagiando...
 Hundreds of comic books, magazines, and graphic novels line the shelves.
 Centenas de histórias em quadrinhos, revistas e mangás ocupam as prateleiras.
-The adults don't let me swim in the pond, so I like to run down to the Eleig River.
-Os adultos não me deixam nadar no lago, então eu gosto de correr até o Rio Eleig.
-But my shortcut there, the Gigalith's Guts, has a bunch of Avatars now.
-Mas meu atalho para lá, as Entranhas De Gigalith, tem um montão de Avatares agora.
-It stinks!
-Que porcaria!
 Many Trainers starting their Gym Challenge know that Burn can reduce an enemy Pokemon's Attack.
 Muitos treinadores que estão começando seus Desafios De Ginásios sabem que Queimadura pode reduzir o Ataque de um Pokémon adversário.
 But some Trainers still don't know that Frostbite reduces an enemy's Special Attack.
@@ -2088,6 +2082,16 @@ On top of this, Numb reduces all of a Pokemon's damage while being coupled with 
 Além disso, Imobilização reduz todo o dano de um Pokémon, além de reduzir Velocidade.
 While it might be appealing to utilize Numb's flexibility, the specialized effects of Frostbite and Burn are stronger than that of Numb's.
 Apesar de parecer tentador utilizar a flexibilidade da Imobilização, os efeitos especializados do Frio e da Queimadura são mais fortes do que os da Imobilização.
+The adults don't let me swim in the pond, so I like to run down to the Eleig River.
+Os adultos não me deixam nadar no lago, então eu gosto de correr até o Rio Eleig.
+But my shortcut there, the Gigalith's Guts, has a bunch of Avatars now.
+Mas meu atalho para lá, as Entranhas De Gigalith, tem um montão de Avatares agora.
+It stinks!
+Que porcaria!
+The atmosphere here is nice.
+A atmosfera daqui é agradável.
+I should really come more often.
+Eu realmente deveria vir aqui mais vezes.
 Hey, interested in the Novo Battling Club?
 Ei, você tem interesse no Clube De Batalha de Nova?
 If you haven't met him already, you can speak with Louis to participate in the battles.
@@ -2102,10 +2106,6 @@ Dizzy Pokemon have their abilities surpressed and take extra damage!
 Pokémon Atordoados têm suas abilidades suprimidas, além de levarem mais dano!
 Leeched Pokemon have their health stolen by their opponent! In a double battle, the healing is split between both opponents.
 Pokémon Parasitados têm seus Pontos de Vida roubados pelo oponente! Em uma batalha em duplas, a cura é repartida entre ambos os oponentes.
-The atmosphere here is nice.
-A atmosfera daqui é agradável.
-I should really come more often.
-Eu realmente deveria vir aqui mais vezes.
 It seems like the Riolu is trying to reach for a book, but it's too short to grab it on its own.
 Parece que este Riolu está tentando alcançar um livro, mas é baixinho demais para fazer isso sozinho.
 Do you want to help the Pokemon?
@@ -5591,7 +5591,7 @@ Heal Bell would be so nice to have for this gym.
 Sino Da Cura seria um movimento tão bom para se ter neste ginásio.
 I did a mistake letting my Skitty forget it.
 Cometi o erro de deixar minha Skitty esquecê-lo.
-I'll have to visit the Move Maniac so my Skitty can <imp>relearn</imp> Heal Bell.
+I'll have to visit the Move Relearner, so my Skitty can <imp>relearn</imp> Heal Bell.
 Terei que visitar o Recordador De Movimentos para que minha Skitty possa <imp>reaprender</imp> Sino Da Cura.
 He's hanging in the Novo PokeCenter.... and in practically every other PokeCenter, somehow.
 Ele está no Centro Pokémon de Nova... e em praticamente qualquer outro Centro Pokémon, de alguma forma.
@@ -5609,12 +5609,6 @@ It waits in the suspicious house in the Shipping Lane! Destroy it, and rid me of
 Ela lhe aguarda dentro da casa suspeita da Rota Pesqueira! Destrua-a e me liberte dessa coisa maldita de uma vez por todas!
 Oh? Have you sent the avatar back from whence it came?! Excellent! Your talents are second-to-none!
 Ah? Você mandou a avatar de volta para de onde ela veio?! Excelente! Seus talentos são inigualáveis!
-I thought this gym would be a cinch.
-Eu achei que este ginásio seria fichinha.
-A whole team of fish couldn't possibly lose to a Fire- type gym!
-Uma equipe inteira de peixes não poderia possivelmente perder para um ginásio do tipo Fogo.
-I totally forgot that Poison is strong against Water.
-Eu totalmente esqueci que o tipo Venenoso é forte contra o tipo Água.
 What, do you miss the lick of flames and bite of acid? Shall we duel once more?
 O quê? Você sente falta do queimar das chamas e do arder do ácido? Deveríamos duelar uma vez mais?
 Congratulations on reaching me!
@@ -5667,18 +5661,42 @@ I yearn for the day I might challenge you again! Either here, or in the Champion
 Anseio pelo dia no qual eu poderei te desafiar novamente! Seja aqui, ou no Campeonato!
 So long!
 Até mais!
-Bruh... this waiting room doesn't have any places to sit down.
-Cara... essa sala de espera não tem nenhum lugar para eu me sentar.
-No pain, no gain? Must be what Eko's thinking.
-<i>No pain, no gain</i>? Deve ser o que y Eko está pensando.
+I thought this gym would be a cinch.
+Eu achei que este ginásio seria fichinha.
+A whole team of fish couldn't possibly lose to a Fire- type gym!
+Uma equipe inteira de peixes não poderia possivelmente perder para um ginásio do tipo Fogo.
+I totally forgot that Poison is strong against Water.
+Eu totalmente esqueci que o tipo Venenoso é forte contra o tipo Água.
 This is not a lab! It is a gym! In labs we have safety precautions. Here, unsafe conditions are the goal!
 Isto não é um laboratório! É um ginásio! Em laboratórios, temos precauções de segurança. Aqui, nós <i>queremos</i> que as condições sejam perigosas!
 Oh-ho? So you want safe passage? Very well. You've earned the shortcut.
 Ora, ora? Então, você quer uma passagem segura? Muito bem. Você fez por merecer o atalho.
 The wild reaches of Makya won't have safety guidelines. If you can endure this, you can endure them.
 As regiões selvagens de Makya não possuem diretrizes de segurança. Se você der conta deste ginásio, você conseguirá dar conta delas.
+Bruh... this waiting room doesn't have any places to sit down.
+Cara... essa sala de espera não tem nenhum lugar para eu me sentar.
+No pain, no gain? Must be what Eko's thinking.
+<i>No pain, no gain</i>? Deve ser o que y Eko está pensando.
 White text flies by on a dark purple background.
 Texto branco passar rapidamente por um fundo preto.
+Sorry for blocking the way, but I'm desperately dehydrated.
+Desculpe por bloquear a passagem, mas eu estava desesperadamente desidratado.
+You have a <imp>Fresh Water</imp>! I'll be taking that...
+Você tem uma <imp>Água Fresca</imp>! Me dá isso aqui...
+The man takes a Fresh Water from your bag.
+O homem pega a Água Fresca da sua mochila.
+Ahhhh.... that helps a lot. Thanks.
+Ahhhh... isso ajuda bastante. Obrigado.
+Consider the lockdown over.
+Considere o fechamento acabado.
+The scientists keep offering me liquids in beakers, but I've had too many close calls with caustic chemicals to just trust 'em on the contents.
+Os cientistas estão me oferendo líquidos em béqueres, mas houveram muitos incidentes com substâncias químicas cáusticas para eu simplesmente confiar no que tem dentro deles!
+I can't leave my post, so blocking the gym entrance is my only leverage.
+Não posso deixar meu posto, então bloquear a entrada do ginásio é minha única saída.
+I'm plopping down here until a challenger like yourself grabs me a <imp>Fresh Water</imp>.
+Vou ficar parado aqui até que um desafiante como você me traga um pouco de <imp>Água Fresca</imp>.
+There are <imp>vending machines</imp> in all PokéCenters and Ranger Stations.
+Há <imp>máquinas de venda</imp> em todos os Centros Pokémon e Estações Ranger.
 Yo, champ in the making!
 Opa, futuro campeão!
 Eko is the gym leader here, and they love pain in all its forms.
@@ -5701,32 +5719,14 @@ Se não as desbloquear, vai acabar por ter que percorrer um caminho complicado!
 Parabéns por derrotar o ginásio!
 You pushed through the pain just fine.
 Você lidou muito bem com a dor.
-Sorry for blocking the way, but I'm desperately dehydrated.
-Desculpe por bloquear a passagem, mas eu estava desesperadamente desidratado.
-You have a <imp>Fresh Water</imp>! I'll be taking that...
-Você tem uma <imp>Água Fresca</imp>! Me dá isso aqui...
-The man takes a Fresh Water from your bag.
-O homem pega a Água Fresca da sua mochila.
-Ahhhh.... that helps a lot. Thanks.
-Ahhhh... isso ajuda bastante. Obrigado.
-Consider the lockdown over.
-Considere o fechamento acabado.
-The scientists keep offering me liquids in beakers, but I've had too many close calls with caustic chemicals to just trust 'em on the contents.
-Os cientistas estão me oferendo líquidos em béqueres, mas houveram muitos incidentes com substâncias químicas cáusticas para eu simplesmente confiar no que tem dentro deles!
-I can't leave my post, so blocking the gym entrance is my only leverage.
-Não posso deixar meu posto, então bloquear a entrada do ginásio é minha única saída.
-I'm plopping down here until a challenger like yourself grabs me a <imp>Fresh Water</imp>.
-Vou ficar parado aqui até que um desafiante como você me traga um pouco de <imp>Água Fresca</imp>.
-There are <imp>vending machines</imp> in all PokéCenters and Ranger Stations.
-Há <imp>máquinas de venda</imp> em todos os Centros Pokémon e Estações Ranger.
+A 3-D model displays the the chemical makeup of Makyan Tangela venom.
+Um modelo 3-D mostra a composição química do veneno de uma Tangela Makiense.
 I hope you won't find this cruel. The suffering I'm about to inflict is strictly necessary.
 Espero que não ache isso cruel. O sofrimento que estou prestes a infligir é estritamente necessário.
 ...Noted. Please avail yourself of this teleporter. Taking the long way may subject any afflicted Pokemon to undue injury.
 ...Anotado. Por favor, utilize este teletransportador. Tomar o caminho mais longo pode submeter quaisquer Pokémon afetados a ferimentos desnecessários.
 Thank you for your participation. Step carefully, now! Wouldn't want any lingering side effects... heh.
 Agradeço sua participação. Ande com cuidado, hein! Não queremos lidar com efeitos colaterais indesejados... heh.
-A 3-D model displays the the chemical makeup of Makyan Tangela venom.
-Um modelo 3-D mostra a composição química do veneno de uma Tangela Makiense.
 Our glorious Champion! Good evening!
 Triunfante Medalhista de Makya! Boa noite!
 Or morning! I’m not in the business of keeping count of the hours. That’s for the interns!
@@ -8428,6 +8428,8 @@ Wonderful! I'm sure she will have a good home with you.
 Maravilha! Tenho certeza que ela terá um bom lar com você.
 Treat it well, alright? Make Dolly proud.
 Trate-a bem, viu? Deixe a Dolly orgulhosa.
+How long has it been since I've seen Dolly? Eight years?
+Quanto tempo faz desde que vi a Dolly? Oito anos?
 It’s almost surreal seeing her again. So much has changed...
 É quase surreal vê-la de novo. Tanta coisa mudou...
 Always make sure to read what you can on open, unlocked computers.
@@ -8452,6 +8454,8 @@ You got a key for the lab?
 Você tem uma chave para o laboratório?
 If not, we can't let you in.
 Se não tem, não podemos te deixar entrar.
+Grass-types are the best. I love how pure and natural they are.
+Tipos Grama são os melhores. Eu amo o quão puros e naturais eles são.
 My entire team shrugs off magical attacks like they're nothing!
 Toda a minha equipe ignora ataques mágicos como se não fossem nada!
 Oh, by "magical" I mean Fairy and Ghost-type.
@@ -24616,11 +24620,11 @@ Legends say that the crystals here can link us to the future.
 Dizem as lendas que os cristais daqui podem nos ligar ao futuro.
 Well I'm going to go eat a bowl of ramen while singing old opera music! I want to see the crystals link me to THAT!
 Bom, eu vou comer uma tigela de lámen equanto eu canto ópera antiga! Quero ver esses cristais me ligarem a ISSO!
-If only I could forsee what Pokemon you used...
+If only I could foresee what Pokemon you used...
 Se eu ao menos pudesse prever quais Pokémon você iria usar...
 You know if you look deeply into one of those crystals...
 Sabe, se você olhar bem fundo em um daqueles cristais...
-...You see a reflection, and not the future. Dissapointing, right?!
+...You see a reflection, and not the future. Disappointing, right?!
 ...Você vê um reflexo, e não o futuro. Decepcionante, não é?!
 I was just about to see the answer to life's greatest mystery.
 Eu tava prestes a ver a resposta pro maior mistério da vida.
@@ -26460,12 +26464,12 @@ I'm looking to secure a deal here, but I've been stonewalled by management.
 I'm looking to secure a deal here, but I've been stonewalled by management.
 No pun intended.
 No pun intended.
+Up Ahead: Product Showroom
+Up Ahead: Product Showroom
 A display showcases constructions used in the Makyan sewer system.
 A display showcases constructions used in the Makyan sewer system.
 The pattern on the tapestry in the back seems familiar.
 The pattern on the tapestry in the back seems familiar.
-Up Ahead: Product Showroom
-Up Ahead: Product Showroom
 I feel like I see these furniture pieces in a lot of places.
 I feel like I see these furniture pieces in a lot of places.
 I wonder why.
@@ -34684,8 +34688,6 @@ Weaseling
 Weaseling
 Weather Burst
 Weather Burst
-Wishing Well
-Wishing Well
 World Revolving
 World Revolving
 Young Again
@@ -35380,6 +35382,8 @@ Waterlog
 Waterlog
 Wavebreak
 Wavebreak
+Well Wishes
+Well Wishes
 Wetland Waltz
 Wetland Waltz
 Whale Song
@@ -37255,8 +37259,6 @@ The user strikes the target, then slinks into the water. The user takes 33% less
 The user strikes the target, then slinks into the water. The user takes 33% less damage this turn.
 The user causes the air around the target to explode. The move's type is changed based on the active weather.
 The user causes the air around the target to explode. The move's type is changed based on the active weather.
-The user throws away up to 1000 scattered coins to bless its side, blocking random added effects and healing for 1/16th HP each turn. Lasts one turn per 100 coins.
-The user throws away up to 1000 scattered coins to bless its side, blocking random added effects and healing for 1/16th HP each turn. Lasts one turn per 100 coins.
 Alters the reality of the area to damage a foe. Puzzle Room is created for five turns.
 Alters the reality of the area to damage a foe. Puzzle Room is created for five turns.
 The user conjures up the past, transforming the target into their previous evolutionary form.
@@ -37943,6 +37945,8 @@ The target is doused with water in order to waterlog it.
 The target is doused with water in order to waterlog it.
 The user crashes into the target with the force of a large wave. This has a 40% chance to lower Defense.
 The user crashes into the target with the force of a large wave. This has a 40% chance to lower Defense.
+The user throws away 500 scattered coins to heal itself by half of its max HP and bless its side with a Rainbow for eight turns.
+The user throws away 500 scattered coins to heal itself by half of its max HP and bless its side with a Rainbow for eight turns.
 The user attacks the target using graceful fluid movements, also forming an Aqua Ring around themselves, healing 10% HP per turn.
 The user attacks the target using graceful fluid movements, also forming an Aqua Ring around themselves, healing 10% HP per turn.
 The user's song heals the non-volatile status conditions of all party Pokémon, and forms an Aqua Ring around itself, healing 10% HP per turn.
@@ -40682,11 +40686,11 @@ A held item. The comforting chime of this bell makes it gain happiness twice as 
 Equipável. O soar reconfortante deste guizo faz seu portador ganhar felicidade duas vezes mais rápido.
 A held item. It prevents wild Pokémon encounters if the holder is the first one in the party.
 Equipável. Previne batalhas selvagens se o portador for o primeiro Pokémon na equipe.
-Held item which ups Attack by 40%, but allows the use of only one move.
+Held item which boosts Attack by 40%, but allows the use of only one move.
 Equipável que aumenta Ataque em 40%, mas permite o uso de apenas um movimento.
-Held item which ups Sp. Atk by 40%, but allows the use of only one move.
+Held item which boosts Sp. Atk by 40%, but allows the use of only one move.
 Equipável que aumenta Atk. Esp. em 40%, mas permite o uso de apenas um movimento.
-Held item which boosts Speed by 40% but allows the use of only one move.
+Held item which boosts Speed by 40%, but allows the use of only one move.
 Equipável que aumenta Velocidade em 40%, mas permite o uso de apenas um movimento.
 Held item which boosts move damage by 25%, but lowers the user's Speed by 15%.
 Equipável. Aumenta o dano de ataques em 25%, mas diminui a Velocidade do portador em 15%.
@@ -40754,10 +40758,10 @@ A well-worn belt that boosts the holder's supereffective moves by 20%.
 Uma faixa desgastada que aumenta o dano de ataques superefetivos do portador em 20%.
 A held item. Boosts a move used consecutively by 20% more each time. This resets if another move is used.
 Equipável. Usos em sequência de um ataque aumentam seu dano em 20%. Volta a 0 se a sequência é quebrada.
-A held item. It is a headband that boosts the power of physical moves by 15%.
-Equipável. É uma bandana que aumenta o dano de ataques físicos em 15%.
-A held item. It is a thick pair of glasses that boosts the power of special moves by 15%.
-Equipável. Um par de óculos espesso que aumenta o dano de ataques especiais em 15%.
+A held item. It is a headband that boosts Attack by 15%.
+Equipável. É uma bandana que aumenta o Ataque do portador em 15%.
+A held item. It is a thick pair of glasses that boosts Special Attack by 15%.
+Equipável. É um par de óculos espesso que aumenta o Atk. Esp. do portador em 15%.
 A held item. They are boots that boost Speed by 10%.
 Equipável. São botas que aumentam Velocidade em 10%.
 A held item. Doubles the holder's critical-hit chance.
@@ -62545,7 +62549,7 @@ Não restam muitos dados genéticos neste fóssil...
 It would not be ethical to revive it.
 Não seria ético revivê-lo.
 As an aside, my grad student across the table isn't so fastidious...
-Aliás, meu aluno graduante, que está sentado do outro lado da mesa, não é tão criterioso assim... 
+Aliás, meu aluno graduante, que está sentado do outro lado da mesa, não é tão criterioso assim...
 Please make sure he doesn't get his hands on any sub-par specimens like this one.
 Por favor, não deixe ele colocar as mãos em espécimes de baixa qualidade, como este.
 Error! Could not determine how to revive the given fossil.
@@ -62561,7 +62565,7 @@ Quê!? Você quer que eu faça um fóssil de combo? Sem chance.
 Maybe someone else is interested in creative torture, but I sure am not.
 Talvez outra pessoa tenha interesse em tortura criativa, mas eu com certeza não tenho.
 I uh... can't actually revive this. Haven't completed the relevant coursework yet.
-Eu hã... na verdade não consigo reviver isso. Não completei as disciplinas necessárias ainda. 
+Eu hã... na verdade não consigo reviver isso. Não completei as disciplinas necessárias ainda.
 Go talk to my supervisor. She can help you.
 Fale com a minha supervisora. Ela pode te ajudar.
 \PN hands over the {1} and $2000.
@@ -64610,6 +64614,16 @@ Mostrar seus Pokémon comendo os doces do REXPartidor?
 {1} and {2} swapped Abilities!
 cold and wet fog with reduced visibility
 cold and wet fog with reduced visibility
+\i[TAROTAMULET]The Tarot Amulet glows with power!
+\i[TAROTAMULET]The Tarot Amulet glows with power!
+{1} raises a hand towards the thunderclouds.
+{1} raises a hand towards the thunderclouds.
+{1} opens its bulb towards the shining sun.
+{1} opens its bulb towards the shining sun.
+"Canon Name Here"
+"Canon Name Here"
+{1} threw {2} coins into the Wishing Well!
+{1} threw {2} coins into the Wishing Well!
 [27]
 0
 Animated
