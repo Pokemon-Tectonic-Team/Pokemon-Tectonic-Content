@@ -1976,12 +1976,6 @@ Get lost kid.
 Sure.
 来吧。
 [Map19]
-Be wary of Abilities that grant a Pokemon an immunity they might otherwise not have.
-要警惕那些赋予精灵免疫能力的特性。
-You might think that an Ice-type attack will knock out your opponent's Leavanny, only to find out that it has Cold Reception!
-你可能以为冰属性攻击能击倒对手的保姆虫，却没想到它带着冷遇！
-Abilities that grant resistances, such as Realist and Tough, should also be respected.
-像现实主义和坚不可摧这种，可以赋予精灵抗性的特性，都应当重视起来。
 I live for trash TV.
 我超爱看肥皂剧的。
 Last week Kimberly slapped Evan because she caught him reading a romance novel that featured a cycling couple.
@@ -2000,20 +1994,32 @@ Here's how I enjoy these shows to the max, you should try it too.
 这就是我充分享受这些电视剧的方式，你也可以试试。
 Trash TV really is the best. Can't wait for the next episode.
 肥皂剧真是太好看啦，下一集什么时候播啊！
-The TV shows a Dragon-tamer breaking up with a Lady in what seems like a staged moment.
-电视上正在播出一位驯龙师和一位女士闹分手的剧情。
+Be wary of Abilities that grant a Pokemon an immunity they might otherwise not have.
+要警惕那些赋予精灵免疫能力的特性。
+You might think that an Ice-type attack will knock out your opponent's Leavanny, only to find out that it has Cold Reception!
+你可能以为冰属性攻击能击倒对手的保姆虫，却没想到它带着冷遇！
+Abilities that grant resistances, such as Realist and Tough, should also be respected.
+像现实主义和坚不可摧这种，可以赋予精灵抗性的特性，都应当重视起来。
 If your Pokemon attacks the same target with the same attack, the damage will always be the same!
 如果你的精灵以相同的技能，攻击同一个目标，那么伤害将始终一样！
 That means that if you're able to crunch the numbers, you can figure out how many attacks it'll take to knock out an opposing Pokemon!
 所以你可以计算出需要多少招，才能打倒对方的精灵!
 Critical hits are the exception to this, of course.
 如果命中要害了另说。
+The TV shows a Dragon-tamer breaking up with a Lady in what seems like a staged moment.
+电视上正在播出一位驯龙师和一位女士闹分手的剧情。
 It seems like Ribombee is helping organize the books!
 蝶结萌虻正在帮忙整理书籍！
-A book called "Gangs of Castelia" lays on the table.
-桌上放着一本名叫《卡斯蒂利亚黑帮》的书。
-A sticker on the front states that it was adapted into a major motion picture.
-根据封标显示，这本书曾被改编成电视剧。
+Hey, you want a cup of coffee?
+你好，要来杯咖啡吗？
+It's gonna cost you $250.
+一共250金钱。
+Sounds good. Come back when you want a cup.
+什么时候想喝了再来吧。
+Thank you for your patronage.
+谢谢惠顾。
+Wow, you are broke. Go get some cash.
+你破产了吗？这里需要现金支付。
 Oh hello dearie, you wouldn't happen to be a Trainer would you?
 哦，你好，你不会碰巧是训练师吧？
 My husband and I have decided to get another Fairy- type friend for our Ribombees and Cutieflies.
@@ -2034,32 +2040,26 @@ Things are going well dear, your Pokemon has been quite the hit with our custome
  一切都很顺利，你的精灵很受我们顾客的欢迎。
 Take care of the old mascot dear, I'm sure it hates being cooped up in a place like this.
 另外还请你照顾好那只小仙奶，或许它只是不喜欢被关在这里吧。
-Hey, you want a cup of coffee?
-你好，要来杯咖啡吗？
-It's gonna cost you $250.
-一共250金钱。
-Sounds good. Come back when you want a cup.
-什么时候想喝了再来吧。
-Thank you for your patronage.
-谢谢惠顾。
-Wow, you are broke. Go get some cash.
-你破产了吗？这里需要现金支付。
-Ribombee seems to really be enjoying the TV show.
-蝶结萌虻好像真的很喜欢这个电视节目。
+A book called "Gangs of Castelia" lays on the table.
+桌上放着一本名叫《卡斯蒂利亚黑帮》的书。
+A sticker on the front states that it was adapted into a major motion picture.
+根据封标显示，这本书曾被改编成电视剧。
 My Obstagoon and I love to come here to read.
 我和堵拦熊最爱来这里看书。
 Many people are surprised that an Obstagoon would like reading.
 很多人对此感到吃惊。
 I tell them not to judge a book by its cover!
 我总是教训他们不要以貌取熊！
-It's a TV guide.
-电视节目表。
-You're surprised they still make these.
-什么年代了还有这玩意！
+Ribombee seems to really be enjoying the TV show.
+蝶结萌虻好像真的很喜欢这个电视节目。
 I hate reading. I don't even know why I come here.
 我讨厌读书...我都不知道为什么会来这里。
 The coffee isn't even that great...
 咖啡也不怎么好喝...
+It's a TV guide.
+电视节目表。
+You're surprised they still make these.
+什么年代了还有这玩意！
 I have a younger brother who is very, very dense.
 我弟弟真是太太太太奇怪了。
 He's obsessed with water and the ocean. And especially with making metaphors about them.
@@ -2074,12 +2074,6 @@ Did I just use a water metaphor? Ugh, maybe it's rubbing off on me...
 我刚刚是不是也用了水的比喻？我也要变奇怪了吗...
 Hundreds of comic books, magazines, and graphic novels line the shelves.
 书架上摆放着数以百计的漫画书、杂质和小说。
-The adults don't let me swim in the pond, so I like to run down to the Eleig River.
-大人们不让我在池塘里游泳，所以我就常去埃利格河。
-But my shortcut there, the Gigalith's Guts, has a bunch of Avatars now.
-但是现在怪岩肠道里有很多的化身，这条捷径已经没法走了。
-It stinks!
-好烦！
 Many Trainers starting their Gym Challenge know that Burn can reduce an enemy Pokemon's Attack.
 很多训练师都知道。烧伤可以减小对手的物攻。
 But some Trainers still don't know that Frostbite reduces an enemy's Special Attack.
@@ -2088,6 +2082,16 @@ On top of this, Numb reduces all of a Pokemon's damage while being coupled with 
 此外，还有麻痹这个状态，不只是减小精灵的速度，还能减小它所造成的所有伤害。
 While it might be appealing to utilize Numb's flexibility, the specialized effects of Frostbite and Burn are stronger than that of Numb's.
 虽说麻痹的效果听起来厉害，但冻伤和烧伤的针对性更好。
+The adults don't let me swim in the pond, so I like to run down to the Eleig River.
+大人们不让我在池塘里游泳，所以我就常去埃利格河。
+But my shortcut there, the Gigalith's Guts, has a bunch of Avatars now.
+但是现在怪岩肠道里有很多的化身，这条捷径已经没法走了。
+It stinks!
+好烦！
+The atmosphere here is nice.
+这里的氛围很好。
+I should really come more often.
+我真该多来几次。
 Hey, interested in the Novo Battling Club?
 嘿，对望新对战俱乐部有兴趣吗？
 If you haven't met him already, you can speak with Louis to participate in the battles.
@@ -2102,10 +2106,6 @@ Dizzy Pokemon have their abilities surpressed and take extra damage!
 混乱状态下精灵会失去其特性！
 Leeched Pokemon have their health stolen by their opponent! In a double battle, the healing is split between both opponents.
 而处于寄生状态的精灵将会被吸走自身的HP！如果是双打对战，这部分HP会平均分给2个对手。
-The atmosphere here is nice.
-这里的氛围很好。
-I should really come more often.
-我真该多来几次。
 It seems like the Riolu is trying to reach for a book, but it's too short to grab it on its own.
 利欧路好像想拿一本书，但以它的身高根本够不到。
 Do you want to help the Pokemon?
@@ -5609,12 +5609,6 @@ It waits in the suspicious house in the Shipping Lane! Destroy it, and rid me of
 它就在扬帆路那栋可疑的房子里！彻底解决那个该死的东西，让我脱离苦海吧！
 Oh? Have you sent the avatar back from whence it came?! Excellent! Your talents are second-to-none!
 哦？你已经把那个化身送到它该去的地方了？好！真是让人放心的实力！
-I thought this gym would be a cinch.
-我本以为这个道馆会很简单。
-A whole team of fish couldn't possibly lose to a Fire- type gym!
-毕竟我的鱼鱼队伍是不可能输给火属性道馆的！
-I totally forgot that Poison is strong against Water.
-但我忘了现在毒克水！
 What, do you miss the lick of flames and bite of acid? Shall we duel once more?
 什么，你怀念火焰的舔舐和酸液的咬噬了？那就让我们再决斗一场吧！
 Congratulations on reaching me!
@@ -5667,18 +5661,42 @@ I yearn for the day I might challenge you again! Either here, or in the Champion
 希望有一天能再次考验你！不管是在这里，还是在锦标赛上!
 So long!
 再会！
-Bruh... this waiting room doesn't have any places to sit down.
-唉...这个等候厅里连个座位都没有。
-No pain, no gain? Must be what Eko's thinking.
-估计这就是艾克的主意，让我们在这里体会痛苦。
+I thought this gym would be a cinch.
+我本以为这个道馆会很简单。
+A whole team of fish couldn't possibly lose to a Fire- type gym!
+毕竟我的鱼鱼队伍是不可能输给火属性道馆的！
+I totally forgot that Poison is strong against Water.
+但我忘了现在毒克水！
 This is not a lab! It is a gym! In labs we have safety precautions. Here, unsafe conditions are the goal!
 这里不是实验室！这是个道馆！在实验室里我们得遵守安全准则，但在这里，不安全就是我们的准则!
 Oh-ho? So you want safe passage? Very well. You've earned the shortcut.
 哦？你想安全通过？好吧，你赢得了使用捷径的权力。
 The wild reaches of Makya won't have safety guidelines. If you can endure this, you can endure them.
 马凯亚的野外可没有安全准则可循。只要你能忍受这里的考验，就能在外界生存下去。
+Bruh... this waiting room doesn't have any places to sit down.
+唉...这个等候厅里连个座位都没有。
+No pain, no gain? Must be what Eko's thinking.
+估计这就是艾克的主意，让我们在这里体会痛苦。
 White text flies by on a dark purple background.
 白色的文字在紫色的屏幕上快速滚动着。
+Sorry for blocking the way, but I'm desperately dehydrated.
+抱歉，我挡了你的路，但我已经有些脱水了。
+You have a <imp>Fresh Water</imp>! I'll be taking that...
+你有一瓶<imp>美味之水</imp>！我想要的就是这个...
+The man takes a Fresh Water from your bag.
+他以迅雷不及掩耳之势，从你的包里拿走了一瓶美味之水。
+Ahhhh.... that helps a lot. Thanks.
+啊...得救了，万分感谢。
+Consider the lockdown over.
+我这就让开这条路。
+The scientists keep offering me liquids in beakers, but I've had too many close calls with caustic chemicals to just trust 'em on the contents.
+这里的科学家们只用烧杯提供给我一些奇奇怪怪的液体喝，但我见过他们做实验的样子，实在是不敢下口。
+I can't leave my post, so blocking the gym entrance is my only leverage.
+但我又不能随便离开岗位，所以只能用这种方法寻求生命之源。
+I'm plopping down here until a challenger like yourself grabs me a <imp>Fresh Water</imp>.
+我只能等在这里，期盼着那些...训练师带来的<imp>美味之水</imp>。
+There are <imp>vending machines</imp> in all PokéCenters and Ranger Stations.
+所有精灵中心和护林员哨站都有<imp>自动售货机</imp>。
 Yo, champ in the making!
 嘿，未来的冠军！
 Eko is the gym leader here, and they love pain in all its forms.
@@ -5701,32 +5719,14 @@ If you don't unlock them, you'll find yourself walking a harsh path!
 恭喜你通过了道馆挑战！
 You pushed through the pain just fine.
 你成功克制了自身的痛苦。
-Sorry for blocking the way, but I'm desperately dehydrated.
-抱歉，我挡了你的路，但我已经有些脱水了。
-You have a <imp>Fresh Water</imp>! I'll be taking that...
-你有一瓶<imp>美味之水</imp>！我想要的就是这个...
-The man takes a Fresh Water from your bag.
-他以迅雷不及掩耳之势，从你的包里拿走了一瓶美味之水。
-Ahhhh.... that helps a lot. Thanks.
-啊...得救了，万分感谢。
-Consider the lockdown over.
-我这就让开这条路。
-The scientists keep offering me liquids in beakers, but I've had too many close calls with caustic chemicals to just trust 'em on the contents.
-这里的科学家们只用烧杯提供给我一些奇奇怪怪的液体喝，但我见过他们做实验的样子，实在是不敢下口。
-I can't leave my post, so blocking the gym entrance is my only leverage.
-但我又不能随便离开岗位，所以只能用这种方法寻求生命之源。
-I'm plopping down here until a challenger like yourself grabs me a <imp>Fresh Water</imp>.
-我只能等在这里，期盼着那些...训练师带来的<imp>美味之水</imp>。
-There are <imp>vending machines</imp> in all PokéCenters and Ranger Stations.
-所有精灵中心和护林员哨站都有<imp>自动售货机</imp>。
+A 3-D model displays the the chemical makeup of Makyan Tangela venom.
+一个展示了马凯亚蔓藤怪毒液化学成分的3D模型。
 I hope you won't find this cruel. The suffering I'm about to inflict is strictly necessary.
 我希望你不会觉得这残忍，因为这些是必须承受之痛。
 ...Noted. Please avail yourself of this teleporter. Taking the long way may subject any afflicted Pokemon to undue injury.
 ...好的，你可以使用传送门了。绕远路会对受伤的精灵造成持续的2次伤害。
 Thank you for your participation. Step carefully, now! Wouldn't want any lingering side effects... heh.
 感谢您的参与，但现在请小心行事，只要你不想留下后遗症...呵呵。
-A 3-D model displays the the chemical makeup of Makyan Tangela venom.
-一个展示了马凯亚蔓藤怪毒液化学成分的3D模型。
 Our glorious Champion! Good evening!
 晚上好，我们的冠军！
 Or morning! I’m not in the business of keeping count of the hours. That’s for the interns!
@@ -26464,12 +26464,12 @@ I'm looking to secure a deal here, but I've been stonewalled by management.
 我想在这里找一份工作，但遭到了管理层的丑拒。
 No pun intended.
 我是说拒绝...我不丑！
+Up Ahead: Product Showroom
+前方：产品陈列室
 A display showcases constructions used in the Makyan sewer system.
 一个展示柜展示了马凯亚下水道系统中使用的建筑结构。
 The pattern on the tapestry in the back seems familiar.
 后面挂毯上的图案看起来很熟悉。
-Up Ahead: Product Showroom
-前方：产品陈列室
 I feel like I see these furniture pieces in a lot of places.
 我觉得这些家具在很多地方都能用到。
 I wonder why.
@@ -34688,8 +34688,6 @@ Weaseling
 黄鼠之袭
 Weather Burst
 天气爆发
-Wishing Well
-许愿井
 World Revolving
 世界旋转
 Young Again
@@ -35384,6 +35382,8 @@ Waterlog
 浸水
 Wavebreak
 破浪
+Well Wishes
+Well Wishes
 Wetland Waltz
 湿地圆舞曲
 Whale Song
@@ -37259,8 +37259,6 @@ The user strikes the target, then slinks into the water. The user takes 33% less
 使用者攻击目标后潜入水中。该回合受到的伤害减小33%。
 The user causes the air around the target to explode. The move's type is changed based on the active weather.
 使目标周围的空气爆炸，根据当前天气类型决定此技能的属性。
-The user throws away up to 1000 scattered coins to bless its side, blocking random added effects and healing for 1/16th HP each turn. Lasts one turn per 100 coins.
-使用者丢弃最多1000枚散落的金钱以祝福己方，阻隔随机附加效果并每回合回复HP的1/16。每100枚金钱持续1回合。
 Alters the reality of the area to damage a foe. Puzzle Room is created for five turns.
 使用者改变区域的现实来伤害目标。开启5回合的迷惑空间。
 The user conjures up the past, transforming the target into their previous evolutionary form.
@@ -37947,6 +37945,8 @@ The target is doused with water in order to waterlog it.
 目标被大量水浇湿，从而使其浸水。
 The user crashes into the target with the force of a large wave. This has a 40% chance to lower Defense.
 使用者以大浪的冲击力撞向目标。有40%概率减小目标的物防。
+The user throws away 500 scattered coins to heal itself by half of its max HP and bless its side with a Rainbow for eight turns.
+The user throws away 500 scattered coins to heal itself by half of its max HP and bless its side with a Rainbow for eight turns.
 The user attacks the target using graceful fluid movements, also forming an Aqua Ring around themselves, healing 10% HP per turn.
 用流畅优美的动作攻击对手，并给自身一个水流环，每回合回复10%HP。
 The user's song heals the non-volatile status conditions of all party Pokémon, and forms an Aqua Ring around itself, healing 10% HP per turn.
@@ -64614,6 +64614,16 @@ Whether to play the EXP-EZ Dispenser feeding animation.
 {1} and {2} swapped Abilities!
 cold and wet fog with reduced visibility
 cold and wet fog with reduced visibility
+\i[TAROTAMULET]The Tarot Amulet glows with power!
+\i[TAROTAMULET]The Tarot Amulet glows with power!
+{1} raises a hand towards the thunderclouds.
+{1} raises a hand towards the thunderclouds.
+{1} opens its bulb towards the shining sun.
+{1} opens its bulb towards the shining sun.
+"Canon Name Here"
+"Canon Name Here"
+{1} threw {2} coins into the Wishing Well!
+{1} threw {2} coins into the Wishing Well!
 [27]
 0
 Animated
