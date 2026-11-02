@@ -5591,7 +5591,7 @@ Heal Bell would be so nice to have for this gym.
 如果带一个治愈铃声就好了。
 I did a mistake letting my Skitty forget it.
 我竟然犯这种错误。
-I'll have to visit the Move Maniac so my Skitty can <imp>relearn</imp> Heal Bell.
+I'll have to visit the Move Relearner, so my Skitty can <imp>relearn</imp> Heal Bell.
 我得去找技能教学狂，让我的向尾喵<imp>重新学会</imp>这招了。
 He's hanging in the Novo PokeCenter.... and in practically every other PokeCenter, somehow.
 望新的精灵中心应该有吧...毕竟在每个精灵中心都能见到他们。
@@ -24620,11 +24620,11 @@ Legends say that the crystals here can link us to the future.
 传说，这里的水晶可以让我们与未来联系在一起。
 Well I'm going to go eat a bowl of ramen while singing old opera music! I want to see the crystals link me to THAT!
 好吧，我要去吃拉面了，还要一边唱着古老的歌剧，一边把这里的水晶让我想到的东西记录下来！
-If only I could forsee what Pokemon you used...
+If only I could foresee what Pokemon you used...
 如果我能猜到你会用什么精灵就好了...
 You know if you look deeply into one of those crystals...
 如果你深入观察这些水晶...
-...You see a reflection, and not the future. Dissapointing, right?!
+...You see a reflection, and not the future. Disappointing, right?!
 ...你看到的就是倒影，而不是未来，是不是很失望？
 I was just about to see the answer to life's greatest mystery.
 我即将看到人生最大谜团的答案。
@@ -40686,11 +40686,11 @@ A held item. The comforting chime of this bell makes it gain happiness twice as 
 携带后，精灵显得很安稳，变得容易和训练师亲密。
 A held item. It prevents wild Pokémon encounters if the holder is the first one in the party.
 一种携带物。如果携带者是队伍中的第一位，可以防止遭遇野生精灵。
-Held item which ups Attack by 40%, but allows the use of only one move.
+Held item which boosts Attack by 40%, but allows the use of only one move.
 携带后，物攻增加40%，但只能使用相同的技能。
-Held item which ups Sp. Atk by 40%, but allows the use of only one move.
+Held item which boosts Sp. Atk by 40%, but allows the use of only one move.
 携带后，特攻增加40%，但只能使用相同的技能。
-Held item which boosts Speed by 40% but allows the use of only one move.
+Held item which boosts Speed by 40%, but allows the use of only one move.
 携带后，速度增加40%，但只能使用相同的技能。
 Held item which boosts move damage by 25%, but lowers the user's Speed by 15%.
 携带后，伤害增加25%，但速度会减小15%。
@@ -40758,10 +40758,10 @@ A well-worn belt that boosts the holder's supereffective moves by 20%.
 一条黑色带子。携带后，效果拔群的技能威力增加20%。
 A held item. Boosts a move used consecutively by 20% more each time. This resets if another move is used.
 一种携带物。携带后，连续使用同一个技能时，威力增加20%。
-A held item. It is a headband that boosts the power of physical moves by 15%.
-一种携带物。这是一条头带，可使物理类技能的威力增加15%。
-A held item. It is a thick pair of glasses that boosts the power of special moves by 15%.
-一种携带物。这是一副厚眼镜，可使特殊类技能的威力增加15%。
+A held item. It is a headband that boosts Attack by 15%.
+一种携带物。这是一条头带，物攻增加15%。
+A held item. It is a thick pair of glasses that boosts Special Attack by 15%.
+一种携带物。这是一副厚眼镜，特攻增加15%。
 A held item. They are boots that boost Speed by 10%.
 携带后，速度增加10%。
 A held item. Doubles the holder's critical-hit chance.
