@@ -23471,7 +23471,7 @@ It's hairier than a Stoutland down there.
 A situação lá embaixo tá mais feia do que um Purugly.
 [Map349]
 The force of the Ultra Wormhole pushes you back!
-The force of the Ultra Wormhole pushes you back!
+A força da Ultrafenda espacial te empurra para trás!
 [Map350]
 ...It’s a Ditto.
 ...It’s a Ditto.
@@ -62307,7 +62307,7 @@ You hug the bag.
 You get some strange looks from around the gym.
 You get some strange looks from around the gym.
 A {1} emerged from the wormhole!
-A {1} emerged from the wormhole!
+{1} emergiu da ultrafenda espacial!
 Think you can handle whatever strategy I'm hiding?
 Think you can handle whatever strategy I'm hiding?
 Ah, my dear friend \PN, care for another battle?
