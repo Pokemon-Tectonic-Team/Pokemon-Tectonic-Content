@@ -605,181 +605,181 @@ Thank you, \PN.
 Thank you, \PN.
 [Map3]
 Oh, so now I can't even go to college because of something my dad did?
-Oh, so now I can't even go to college because of something my dad did?
+Ah, agora eu não posso nem mesmo ir pra faculdade por causa de uma coisa que O MEU PAI fez?
 Thanks a lot, jerk.
-Thanks a lot, jerk.
+Valeu mesmo, babaca.
 West: Novo Town
-West: Novo Town
+Oeste: Cidade Nova
 East: Grouz
-East: Grouz
+Leste: Grauze
 North: Gigalith's Guts
-North: Gigalith's Guts
+Norte: Entranhas De Gigalith
 Hey champ, how's it hanging?
-Hey champ, how's it hanging?
+E aí, chapa. Como vai?
 Recently got a few uhh... assets, that I'm looking to sell. Fell off of a Trainer's backpack.
-Recently got a few uhh... assets, that I'm looking to sell. Fell off of a Trainer's backpack.
+Recentemente, consegui alguns hã... itens... que quero vender. Cairam da mochila de um treinador.
 I'm a nice guy, so I'll give you a nice price.
-I'm a nice guy, so I'll give you a nice price.
+Sou um cara legal, então vou fazer no precinho pra você.
 You got $5000 on you? I've got a Numel with your name on it if so.
-You got $5000 on you? I've got a Numel with your name on it if so.
+Você tem $5000 aí? Se tiver, eu tenho um Numel reservado só pra você aqui.
 You sure? You ain't gonna find a deal like this again.
-You sure? You ain't gonna find a deal like this again.
+Tem certeza? Você não vai encontrar uma oferta como esta de novo.
 Heh, pleasure doing business with ya.
-Heh, pleasure doing business with ya.
+Heh, prazer fazer negócios com você.
 \PN hands over $5000 in exchange.
-\PN hands over $5000 in exchange.
+\PN entrega $5000 em troca.
 Well, gotta hit the road. Cash is only useful if you spend it, ya know.
-Well, gotta hit the road. Cash is only useful if you spend it, ya know.
+Bom, tenho que dar no pé. Dinheiro só é útil se você gasta ele, hehe.
 You missing the cash? Hmm.
-You missing the cash? Hmm.
+Tá sem grana? Hmm.
 You've... got your own set of problems, huh?
-You've... got your own set of problems, huh?
+Você... você tem seus próprios problemas pra resolver, né?
 Formation 4C, Gurdurr!
-Formation 4C, Gurdurr!
+Formação 4C, Gurdurr!
 Get ready to block 'em!
-Get ready to block 'em!
+Se prepare para bloquear passagem!
 Our defensive line collapsed...
-Our defensive line collapsed...
+Nossa linha de defesa colapsou...
 We need to hit the gym. I hope Eko is taking challengers!
-We need to hit the gym. I hope Eko is taking challengers!
+Precisamos ir ao ginásio. Espero que Eko esteja aceitando desafiantes!
 Oh… you destroyed it.
-Oh… you destroyed it.
+Ah… você destruiu.
 I was watching that avatar, and you just… dismissed it.
-I was watching that avatar, and you just… dismissed it.
+Eu estava observando aquele avatar, e vocẽ só… dispensou ele.
 Well, it couldn’t last forever.
-Well, it couldn’t last forever.
+Bom, ele não ia durar para sempre.
 Nice to meet you. My name’s <imp>Skyler</imp>.
-Nice to meet you. My name’s <imp>Skyler</imp>.
+Prazer em te conhecer. Meu nome é <imp>Skyler</imp>.
 You were superb, by the way. Fought like the sun against the morning mist.
-You were superb, by the way. Fought like the sun against the morning mist.
+Você batalhou de forma esplêndida, a propósito. Lutou como o sol luta contra a neblina matinal.
 And, I suppose I can’t complain. I can leave now, at the very least.
-And, I suppose I can’t complain. I can leave now, at the very least.
+E, suponho que não posso reclamar. Ao menos, posso sair daqui agora.
 Skyler.
 Skyler.
 I don’t know what else you want me to say. I’m a traveler on a pilgrimage of sorts, which I can now continue.
-I don’t know what else you want me to say. I’m a traveler on a pilgrimage of sorts, which I can now continue.
+Não sei o que mais você quer que eu diga. Sou um viajante em uma espécie de peregrinação, a qual agora posso continuar.
 All thanks to you, of course.
-All thanks to you, of course.
+Graças a você, é claro.
 I’d opted to take a short nap before continuing my pilgrimage.
-I’d opted to take a short nap before continuing my pilgrimage.
+Decidi tirar um pequeno cochilo antes de continuar minha peregrinação.
 Hah. Bit of a mistake. The avatar showed up while I was sleeping, not that I minded.
-Hah. Bit of a mistake. The avatar showed up while I was sleeping, not that I minded.
+Hah. Pequeno erro. O avatar apareceu enquanto eu dormia. Não que eu tenha me importado.
 Makya’s a beautiful region, full of beautiful people. But I’m going to admit that I’m here for the avatars.
-Makya’s a beautiful region, full of beautiful people.  But I’m going to admit that I’m here for the avatars.
+Makya é uma região linda, cheia de pessoas lindas. Mas devo admitir: estou aqui pelos avatares.
 Everyone’s concerned with how dangerous they are, but I think they’re missing the point.
-Everyone’s concerned with how dangerous they are, but I think they’re missing the point.
+Todos estão preocupados com o quão perigosos eles são, mas acredito que eles não estão entendendo a questão de verdade.
 We’ve gotten jaded. Pokémon used to be magical. We used to worship them. I think we’ve forgotten that.
-We’ve gotten jaded. Pokémon used to be magical. We used to worship them. I think we’ve forgotten that.
+Nos tornamos dessensibilizados. Pokémon costumavam ser mágicos. Costumávamos cultuá-los. Acredito que nos esquecemos disso.
 So are you! Look how you fought!
-So are you! Look how you fought!
+Você também é! Olhe para o jeito que você lutou!
 But I’m interested in you nonetheless. Call it a dangerous obsession or a leap of faith – your pick.
-But I’m interested in you nonetheless. Call it a dangerous obsession or a leap of faith – your pick.
+Mas, ainda assim, tenho interesse em você. Chame de "uma obsessão perigosa" ou de "um salto de fé" – você decide.
 But were they always? You’ve heard legends of Pokémon raising mountains and oceans.
-But were they always? You’ve heard legends of Pokémon raising mountains and oceans.
+Mas eles sempre foram? Você conhece lendas de Pokémon que ergueram montanhas e oceanos.
 We were created by Pokémon, and they’ll be the end of us someday.
-We were created by Pokémon, and they’ll be the end of us someday.
+Fomos criados por Pokémon, e eles se tornarão o nosso fim algum dia.
 At least, that’s what they say of Arceus and Yveltal, not to mention all the rest.
-At least, that’s what they say of Arceus and Yveltal, not to mention all the rest.
+Pelo menos, é o que dizem a respeito de Arceus e de Yveltal. Sem contar todo o resto.
 I’m glad to hear you agree.
-I’m glad to hear you agree.
+Fico feliz em saber que concorda.
 Maybe it’s a foolish endeavor, seeking these things out. I’m sure they’d maul me given half a chance.
-Maybe it’s a foolish endeavor, seeking these things out. I’m sure they’d maul me given half a chance.
+Talvez seja uma atitude estúpida, ir atrás dessas coisas. Tenho certeza que me dilacerariam na primeira oportunidade.
 But maybe reverence, not fear, is what they’re looking for.
-But maybe reverence, not fear, is what they’re looking for.
+Mas talvez reverência, e não medo, seja o que eles estão procurando.
 In any case, I’m glad I met you. Technically, I suppose you saved me.
-In any case, I’m glad I met you. Technically, I suppose you saved me.
+De qualquer forma, fico feliz em ter te conhecido. Tecnicamente, suponho que você me salvou.
 I’ll be back on my little journey now, but, uh, I’ll see you again.
-I’ll be back on my little journey now, but, uh, I’ll see you again.
+Voltarei à minha pequena jornada agora. Mas, hã, nos veremos novamente.
 A trainer like you must be seeking badges, right? So let’s meet in the <imp>town ruined by avatars</imp>.
-A trainer like you must be seeking badges, right? So let’s meet in the <imp>town ruined by avatars</imp>.
+Um viajante como você deve estar atrás de insígnias, não é? Pois vamos nos encontrar na <imp>cidade que foi arruinada por avatares</imp>.
 I hear there’s a gym leader there. So long, my knight in shining armor.
-I hear there’s a gym leader there. So long, my knight in shining armor.
+Ouvi falar que há um líder de ginásio por lá. Até mais, meu paladino em armadura reluzente.
 My grandpapa gave me this Tranquill. He's in the ground now. Wanna fight?
-My grandpapa gave me this Tranquill. He's in the ground now. Wanna fight?
+Meu vovô me deu este Tranquill. Ele está no chão agora. Quer batalhar?
 Welp, I've gotta go! Grandpapa's gonna give me a tour of the mines today!
-Welp, I've gotta go! Grandpapa's gonna give me a tour of the mines today!
+Bom, preciso ir! Vovô vai me levar para conhecer as minas hoje!
 Tranquill! No! Use your Tranquill powers! ...oh.
-Tranquill! No! Use your Tranquill powers! ...oh.
+Tranquill! Não! Use seus poderes de Tranquill! ...ah.
 Tranquill goes bye-bye...
-Tranquill goes bye-bye...
+Tranquill disse tchau-tchau...
 You with the rangers? Ah, doesn't matter. No one's nabbing our haul!
-You with the rangers? Ah, doesn't matter. No one's nabbing our haul!
+Você tá com os rangers? Ah, não importa. Ninguém vai pegar nossa mercadoria!
 I swear, if our fourth was here, we'd kick your teeth in! Where'd that chick run off to, anyways? She needs some teeth-kicking too...
-I swear, if our fourth was here, we'd kick your teeth in! Where'd that chick run off to, anyways? She needs some teeth-kicking too...
+Eu juro por tudo: se o nosso quarto membro estivesse aqui, a gente chutaria a sua bunda! Onde diabos aquela garota se meteu, afinal de contas? Ela também tá precisando levar uns chutes...
 I've taken worse! If you think I'm done protecting the boss, you don't know me!
-I've taken worse! If you think I'm done protecting the boss, you don't know me!
+Já aguentei coisa pior! Se você acha que eu vou parar de proteger o chefe, tu não me conhece!
 Excuse me! We were about to settle this in battle.
-Excuse me! We were about to settle this in battle.
+Com licença! Estávamos prestes a resolver isso com uma batalha.
 But, fine, I guess we can find common ground in disposing of you.
-But, fine, I guess we can find common ground in disposing of you.
+Mas, tudo bem. Acho que podemos chegar ao consenso de que precisamos te descer o sarrafo.
 ...Hmph. Very well. I suppose brute force is your people's specialty. Follow my lead.
-...Hmph. Very well. I suppose brute force is your people's specialty. Follow my lead.
+...Hmph. Pois bem. Suponho que força-bruta é a especialidade da sua gente. Siga-me.
 Bah! I have nothing left, and now she is free to waltz on in to the College. Is that what you wanted?
-Bah! I have nothing left, and now she is free to waltz on in to the College. Is that what you wanted?
+Não! Não me resta mais nada, e agora ela vai poder perambular pelo Instituto. Era isso que você queria?
 No, you know what? I'm leaving.
-No, you know what? I'm leaving.
+Quer saber? Quer saber? Vou embora.
 The only way I'm coming back is if it's with my dad and a few of his friends.
-The only way I'm coming back is if it's with my dad and a few of his friends.
+Só voltarei se for com meu pai e com alguns dos amigos dele.
 I knew who you were the second I saw your last name on the role sheet.
-I knew who you were the second I saw your last name on the role sheet.
+Eu soube quem você era no momento que vi seu sobrenome na lista de inscrições.
 The last time I heard it, it had "Lieutenant" in front of it.
-The last time I heard it, it had "Lieutenant" in front of it.
+A última vez que o ouvi, havia um "Tenente" na frente dele.
 If only you'd inherited some of his prowess in battle, you might've made it past me. Go then, and don't come back.
-If only you'd inherited some of his prowess in battle, you might've made it past me. Go then, and don't come back.
+Se você ao menos tivesse herdado um pouco da destreza dele em batalha, você teria sido capaz de passar por mim. Vá, então, e não volte mais.
 Urgh... oh, shove off, why don't you?
-Urgh... oh, shove off, why don't you?
+Affe... ah, vai ver se tu tô na esquina, vai?
 You too, you old hag.
-You too, you old hag.
+Você também, sua bruxa velha.
 I think you'll find me back here so long as you keep trying to gain entrance, you entitled brat.
-I think you'll find me back here so long as you keep trying to gain entrance, you entitled brat.
+Acho que você vai me encontrar aqui enquanto não parar de tentar entrar no Instituto, sua pirralha mimada.
 Makya's one of the few regions where creative archaeology is still legal. You're kinda lookin' like competition.
-Makya's one of the few regions where creative archaeology is still legal. You're kinda lookin' like competition.
+Makya é uma das poucas regiões onde a arqueologia criativa ainda é legalizada. Você meio que parece concorrência.
 Maybe that's my cue to try a different tactic. I gotta be more subtle than challenging random strangers...
-Maybe that's my cue to try a different tactic. I gotta be more subtle than challenging random strangers...
+Talvez esse seja o meu sinal para tentar uma tática diferente. Preciso ser mais sutil do que ficar desafiando estranhos aleatórios...
 Well ain't that a cryin' shame. Guess Makya's a bit rougher than I thought...
-Well ain't that a cryin' shame. Guess Makya's a bit rougher than I thought...
+Caramba, que pena, hein? Acho que Makya é mais durona do que eu imaginava...
 Those Evolution Stones are all ours! You can't have any!
-Those Evolution Stones are all ours! You can't have any!
+Essas Pedras De Evolução são todas nossas! Você não vai pegar nenhuma!
 Aagh! Fine! I'll leave! I've got my evolutions, anyways.
-Aagh! Fine! I'll leave! I've got my evolutions, anyways.
+Aagh! Tá bem! Eu vou embora! Eu já tenho minhas evoluções, de qualquer jeito.
 ...I'll be back. I'll be back, and if I ever see you again, things're gonna be different. I swear I'll...
-...I'll be back. I'll be back, and if I ever see you again, things're gonna be different. I swear I'll...
+...Eu vou voltar. Eu vou voltar, e se eu te ver de novo, as coisas vão ser bem diferentes. Eu juro que eu vou...
 The berry plant is growing.
-The berry plant is growing.
+A árvore frutífera está crescendo.
 Yo...so I heard there was like, some items to steal on this route?
-Yo...so I heard there was like, some items to steal on this route?
+Opa... então, ouvi falar que tem alguns itens para roubar nesta rota?
 I got nothin' to say. You good at battling.
-I got nothin' to say. You good at battling.
+Nada a declarar. Você batalha muito bem.
 Bruh. Ok then, I guess.
-Bruh. Ok then, I guess.
+Rapaz. Tá bom, então, né.
 I refuse to let someone like her into the Academy.
-I refuse to let someone like her into the Academy.
+Me recuso a deixar alguém como ela entrar no Instituto.
 We have enough of her sort at the Academy as it stands...
-We have enough of her sort at the Academy as it stands...
+Já temos gentinha suficiente do tipo dela na academia...
 Listen, kid, I'm gonna give you one last warning: you can either hit the road, or bite the dust. No? Fine. We'll do it the hard way.
-Listen, kid, I'm gonna give you one last warning: you can either hit the road, or bite the dust. No? Fine.  We'll do it the hard way.
+Escuta, jovem, eu vou te dar mais um aviso: ou você vira sorvete e evapora daqui, ou tu vai pras cucuia, tendeu? Não? Tá bom. A gente faz do jeito difícil, então.
 Hah, well, you win some, you lose some. I'm not so broken up about it.
-Hah, well, you win some, you lose some. I'm not so broken up about it.
+Hah, bom, dia da caça, dia do caçador. Num vô me remoer por causa disso.
 Helena can't afford proper guards for LuxTech's shipments, so there'll always be business for me. See you around, hero.
-Helena can't afford proper guards for LuxTech's shipments, so there'll always be business for me.  See you around, hero.
+A Helena não tem condição de pagar por guardas que se prezem para as entregas da LuxTech, então sempre vai ter trabalho pra mim. Te vejo por aí, heróizinho.
 C'mon, kid. We're not giving up on this little nook unless we have to... and I'm not scared of your little posse.
-C'mon, kid. We're not giving up on this little nook unless we have to... and I'm not scared of your little posse.
+Qual foi, pivete. A gente não vai abrir mão desse cantinho, a não ser que sejamos obrigados... e eu não tenho medo da sua trupe.
 No thanks.
-No thanks.
+Não, valeu.
 I'll take it.
-I'll take it.
+Ok, aceito.
 Hello.
-Hello.
+Oi.
 Who are you?
-Who are you?
+Quem é você?
 Why are you here?
-Why are you here?
+Por que está aqui?
 They ARE dangerous.
-They ARE dangerous.
+Eles SÃO perigosos.
 Pokémon are animals.
-Pokémon are animals.
+Pokémon são animais.
 True.
-True.
+Verdade.
 [Map4]
 Intricate technical diagrams display on a huge screen.
 Diagramas técnicos complexos são mostrados em uma enorme tela.
