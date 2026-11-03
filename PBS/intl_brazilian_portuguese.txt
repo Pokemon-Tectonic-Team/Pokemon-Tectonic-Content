@@ -44607,1090 +44607,728 @@ Mutante
 Flex
 Flex
 [13]
-0
 Wild
 Wild
-1
 Ancient Priest
 Ancient Priest
-2
 Another Possible
 Another Possible
-3
 Another Possible
 Another Possible
-4
 Another Possible
 Another Possible
-5
 Another Possible
 Another Possible
-6
 Archfriend
 Archfriend
-7
 Aroma Lady
 Aroma Lady
-8
 Aroma Lady
 Aroma Lady
-9
 Aroma Lady
 Aroma Lady
-10
 Artificial Trainer
 Artificial Trainer
-11
 Artist
 Artist
-12
 Artist
 Artist
-13
 Artist
 Artist
-14
 Artist
 Artist
-15
 Artist
 Artist
-16
 Backers
 Backers
-17
 Backers
 Backers
-18
 Backpacker
 Backpacker
-19
 Backpacker
 Backpacker
-20
 Baker
 Baker
-21
 Battle Girl
 Battle Girl
-22
 Battle Girl
 Battle Girl
-23
 Battle Girl
 Battle Girl
-24
 Battle Girl
 Battle Girl
-25
 Beauty
 Beauty
-26
 Beauty
 Beauty
-27
 Beauty
 Beauty
-28
 Beauty
 Beauty
-29
 Beauty
 Beauty
-30
 Beauty
 Beauty
-31
 Belle & Pa
 Belle & Pa
-32
 Biker
 Biker
-33
 Biker
 Biker
-34
 Bird Keeper
 Bird Keeper
-35
 Bird Keeper
 Bird Keeper
-36
 Bird Keeper
 Bird Keeper
-37
 Black Belt
 Black Belt
-38
 Black Belt
 Black Belt
-39
 Black Belt
 Black Belt
-40
 Black Belt
 Black Belt
-41
 Boarder
 Boarder
-42
 Bug Catcher
 Bug Catcher
-43
 Bug Catcher
 Bug Catcher
-44
 Bug Catcher
 Bug Catcher
-45
 Burglar
 Burglar
-46
 Butler
 Butler
-47
 Cameraman
 Cameraman
-48
 Cameraman
 Cameraman
-49
 Camper
 Camper
-50
 Camper
 Camper
-51
 Camper
 Camper
-52
 CEO
 CEO
-53
 Challenger
 Challenger
-54
 Champion
 Champion
-55
 Champion
 Champion
-56
 Chef
 Chef
-57
 Clerk
 Clerk
-58
 Clerk
 Clerk
-59
 Clerk
 Clerk
-60
 Clown
 Clown
-61
 Collector
 Collector
-62
 Collector
 Collector
-63
 Cool Squad
 Cool Squad
-64
 Cooltrainer
 Cooltrainer
-65
 Cooltrainer
 Cooltrainer
-66
 Cooltrainer
 Cooltrainer
-67
 Cooltrainer
 Cooltrainer
-68
 Pro Trainer
 Pro Trainer
-69
 Cooltrainer
 Cooltrainer
-70
 Cooltrainer
 Cooltrainer
-71
 Cooltrainer
 Cooltrainer
-72
 Cooltrainer
 Cooltrainer
-73
 Pro Trainer
 Pro Trainer
-74
 Cowgirl
 Cowgirl
-75
 Criminal Team
 Criminal Team
-76
 Cyclist
 Cyclist
-77
 Cyclist
 Cyclist
-78
 Cyclist
 Cyclist
-79
 Cyclist
 Cyclist
-80
 Dancer
 Dancer
-81
 Dandy
 Dandy
-82
 Delinquent
 Delinquent
-83
 Depot Agent
 Depot Agent
-84
 Developer
 Developer
-85
 Aroma Lady
 Aroma Lady
-86
 Camper
 Camper
-87
 Hiker
 Hiker
-88
 Pro Trainer
 Pro Trainer
-89
 Pokémon Ranger
 Pokémon Ranger
-90
 Doctor
 Doctor
-91
 Double Team
 Double Team
-92
 Double Team
 Double Team
-93
 Dragon Tamer
 Dragon Tamer
-94
 Dragon Tamer
 Dragon Tamer
-95
 Dragon Tamer
 Dragon Tamer
-96
 Elder
 Elder
-97
 Expert
 Expert
-98
 Expert
 Expert
-99
 Fairy Tale Girl
 Fairy Tale Girl
-100
 Firebreather
 Firebreather
-101
 Fisherman
 Fisherman
-102
 Fisherman
 Fisherman
-103
 Former Champion
 Former Champion
-104
 Former Champion
 Former Champion
-105
 Former Champion
 Former Champion
-106
 Former Champion
 Former Champion
-107
 Former Champion
 Former Champion
-108
 Former Champion
 Former Champion
-109
 Former Champion
 Former Champion
-110
 Gambler
 Gambler
-111
 Gardener
 Gardener
-112
 Gentleman
 Gentleman
-113
 Gentleman
 Gentleman
-114
 Gentleman
 Gentleman
-115
 Guitarist
 Guitarist
-116
 Guitarist
 Guitarist
-117
 Guitarist
 Guitarist
-118
 Harlequin
 Harlequin
-119
 Hex Maniac
 Hex Maniac
-120
 Hex Maniac
 Hex Maniac
-121
 Hex Maniac
 Hex Maniac
-122
 Hiker
 Hiker
-123
 Hiker
 Hiker
-124
 Hiker
 Hiker
-125
 Hooligans
 Hooligans
-126
 Hoopster
 Hoopster
-127
 Ideal Trainer
 Ideal Trainer
-128
 Idol
 Idol
-129
 Infielder
 Infielder
-130
 Interviewers
 Interviewers
-131
 Cosplayer
 Cosplayer
-132
 Janitor
 Janitor
-133
 Jogger
 Jogger
-134
 Juggler
 Juggler
-135
 Katy
 Katy
-136
 Killu
 Killu
-137
 Kimono Girl
 Kimono Girl
-138
 Lady
 Lady
-139
 Lady
 Lady
-140
 Lady
 Lady
-141
 Lady
 Lady
-142
 Lass
 Lass
-143
 Lass
 Lass
-144
 Lass
 Lass
-145
 Lass
 Lass
-146
 Lass
 Lass
-147
 Lass
 Lass
-148
 Gym Leader
 Gym Leader
-149
 Gym Leader
 Gym Leader
-150
 Gym Leader
 Gym Leader
-151
 Gym Leader
 Gym Leader
-152
 Gym Leader
 Gym Leader
-153
 Gym Leader
 Gym Leader
-154
 Gym Leader
 Gym Leader
-155
 Gym Leader
 Gym Leader
-156
 Gym Leader
 Gym Leader
-157
 Linebacker
 Linebacker
-158
 Pokémon Ranger
 Pokémon Ranger
-159
 Pokémon Ranger
 Pokémon Ranger
-160
 Pokémon Ranger
 Pokémon Ranger
-161
 Maid
 Maid
-162
 Maid
 Maid
-163
 Masked Villain
 Masked Villain
-164
 Masked Villain
 Masked Villain
-165
 Masked Villains
 Masked Villains
-166
 Masked Villains
 Masked Villains
-167
 Masked Villain
 Masked Villain
-168
 Medium
 Medium
-169
 Neckbeard
 Neckbeard
-170
 Nightmare Queen
 Nightmare Queen
-171
 Nightmare of
 Nightmare of
-172
 Ninja Boy
 Ninja Boy
-173
 Nurse
 Nurse
-174
 Nursery Aide
 Nursery Aide
-175
 Oddish
 Oddish
-176
 Office Worker
 Office Worker
-177
 Office Worker
 Office Worker
-178
 Parasol Lady
 Parasol Lady
-179
 Parasol Lady
 Parasol Lady
-180
 Picnicker
 Picnicker
-181
 Pilot
 Pilot
-182
 Poké Fan
 Poké Fan
-183
 Poké Fan
 Poké Fan
-184
 Poké Fan
 Poké Fan
-185
 Poké Fan
 Poké Fan
-186
 Poké Fan
 Poké Fan
-187
 Poké Kid
 Poké Kid
-188
 Poké Maniac
 Poké Maniac
-189
 Pokémon Breeder
 Pokémon Breeder
-190
 Pokémon Breeder
 Pokémon Breeder
-191
 Pokémon Breeder
 Pokémon Breeder
-192
 Pokémon Breeder
 Pokémon Breeder
-193
 Pokémon Breeder
 Pokémon Breeder
-194
 Pokémon Breeder
 Pokémon Breeder
-195
 Pokémon Breeder
 Pokémon Breeder
-196
 Pokémon Breeder
 Pokémon Breeder
-197
 Champion
 Champion
-198
 Pokémon Master
 Pokémon Master
-199
 Pokémon Ranger
 Pokémon Ranger
-200
 Pokémon Ranger
 Pokémon Ranger
-201
 Driller
 Driller
-202
 Pokémon Ranger
 Pokémon Ranger
-203
 Pokémon Ranger
 Pokémon Ranger
-204
 Driller
 Driller
-205
 Pokémon Ranger
 Pokémon Ranger
-206
 Pokémon Ranger
 Pokémon Ranger
-207
 Driller
 Driller
-208
 Pokémon Ranger
 Pokémon Ranger
-209
 Pokémon Ranger
 Pokémon Ranger
-210
 Driller
 Driller
-211
 Androgynous
 Androgynous
-212
 Feminine
 Feminine
-213
 Masculine
 Masculine
-214
 Pokémon Trainer
 Pokémon Trainer
-215
 Pokémon Trainer
 Pokémon Trainer
-216
 Pokémon Trainer
 Pokémon Trainer
-217
 Pokémon Trainer
 Pokémon Trainer
-218
 Policeman
 Policeman
-219
 Policeman
 Policeman
-220
 Preschooler
 Preschooler
-221
 Preschooler
 Preschooler
-222
 Professor
 Professor
-223
 Psychic
 Psychic
-224
 Psychic
 Psychic
-225
 Psychic
 Psychic
-226
 Psychic
 Psychic
-227
 Psychic
 Psychic
-228
 Psychic
 Psychic
-229
 Psychic
 Psychic
-230
 Punk
 Punk
-231
 Punk
 Punk
-232
 Punks
 Punks
-233
 Rancher
 Rancher
-234
 Reporter
 Reporter
-235
 Reporter
 Reporter
-236
 Rich Boy
 Rich Boy
-237
 Rich Boy
 Rich Boy
-238
 Rich Boy
 Rich Boy
-239
 Rich Boy
 Rich Boy
-240
 Rich Couple
 Rich Couple
-241
 Rising Star
 Rising Star
-242
 Rising Star
 Rising Star
-243
 Rising Star
 Rising Star
-244
 Rising Star
 Rising Star
-245
 Roller Skater
 Roller Skater
-246
 Roller Skater
 Roller Skater
-247
 Roughneck
 Roughneck
-248
 Roughneck
 Roughneck
-249
 Ruin Maniac
 Ruin Maniac
-250
 Ruin Maniac
 Ruin Maniac
-251
 Sage
 Sage
-252
 Sailor
 Sailor
-253
 Sailor
 Sailor
-254
 School Kid
 School Kid
-255
 School Kid
 School Kid
-256
 School Kid
 School Kid
-257
 School Kid
 School Kid
-258
 School Kid
 School Kid
-259
 School Kid
 School Kid
-260
 School Kid
 School Kid
-261
 School Kid
 School Kid
-262
 Scientist
 Scientist
-263
 Scientist
 Scientist
-264
 Scientist
 Scientist
-265
 Scientist
 Scientist
-266
 Scientist
 Scientist
-267
 Scientist
 Scientist
-268
 Scientist
 Scientist
-269
 Seeker
 Seeker
-270
 Shadow
 Shadow
-271
 Sightseer
 Sightseer
-272
 Sightseer
 Sightseer
-273
 Sis and Bro
 Sis and Bro
-274
 Skier
 Skier
-275
 Skier
 Skier
-276
 Skier
 Skier
-277
 Smasher
 Smasher
-278
 Socialite
 Socialite
-279
 Socialite
 Socialite
-280
 Spirit Guardian
 Spirit Guardian
-281
 Spirit Guardian
 Spirit Guardian
-282
 Spirit Guardian
 Spirit Guardian
-283
 Spirit Guardian
 Spirit Guardian
-284
 Striker
 Striker
-285
 Super Nerd
 Super Nerd
-286
 Surfer
 Surfer
-287
 Suspicious Man
 Suspicious Man
-288
 Swimmer
 Swimmer
-289
 Swimmer
 Swimmer
-290
 Swimmer
 Swimmer
-291
 Swimmer
 Swimmer
-292
 Swimmer
 Swimmer
-293
 Swimmer
 Swimmer
-294
 Swimmer
 Swimmer
-295
 Swimmer
 Swimmer
-296
 Swimmer
 Swimmer
-297
 Swimmer
 Swimmer
-298
 Swimmer
 Swimmer
-299
 Swimmer
 Swimmer
-300
 Guardian Deity
 Guardian Deity
-301
 Guardian Deity
 Guardian Deity
-302
 Guardian Deity
 Guardian Deity
-303
 Guardian Deity
 Guardian Deity
-304
 Teacher
 Teacher
-305
 Tech Wizard
 Tech Wizard
-306
 Teenager
 Teenager
-307
 Teenager
 Teenager
-308
 Thief
 Thief
-309
 Tourist
 Tourist
-310
 Tourist
 Tourist
-311
 Pokémon Trainer
 Pokémon Trainer
-312
 Pokémon Trainer
 Pokémon Trainer
-313
 Pokémon Trainer
 Pokémon Trainer
-314
 Pokémon Trainer
 Pokémon Trainer
-315
 Pokémon Trainer
 Pokémon Trainer
-316
 Pokémon Trainer
 Pokémon Trainer
-317
 Pokémon Trainer
 Pokémon Trainer
-318
 Pokémon Trainer
 Pokémon Trainer
-319
 Pokémon Trainer
 Pokémon Trainer
-320
 Pokémon Trainer
 Pokémon Trainer
-321
 Your Brother
 Seu Irmão
-322
 Tuber
 Tuber
-323
 Tuber
 Tuber
-324
 Tuber
 Tuber
-325
 Tuber
 Tuber
-326
 Twins
 Twins
-327
 Twins
 Twins
-328
 Twins
 Twins
-329
 Ultra
 Ultra
-330
 Collector
 Collector
-331
 Scientist
 Scientist
-332
 Veteran
 Veteran
-333
 Veteran
 Veteran
-334
 Veteran
 Veteran
-335
 Veteran
 Veteran
-336
 Veteran
 Veteran
-337
 Wild
 Wild
-338
 Waiter
 Waiter
-339
 Waiter
 Waiter
-340
 Waiter
 Waiter
-341
 Waitress
 Waitress
-342
 Waitress
 Waitress
-343
 Waitress
 Waitress
-344
 Whimsical Boy
 Whimsical Boy
-345
 Wild Pack
 Wild Pack
-346
 Wild Party
 Wild Party
-347
 Wild Party
 Wild Party
-348
 Wild Party
 Wild Party
-349
 Wild Party
 Wild Party
-350
 Worker
 Worker
-351
 Worker
 Worker
-352
 Worker
 Worker
-353
 Worker
 Worker
-354
 Worker
 Worker
-355
 Worker
 Worker
-356
 Young Couple
 Young Couple
-357
 Young Couple
 Young Couple
-358
 Youngster
 Youngster
-359
 Youngster
 Youngster
-360
 Youngster
 Youngster
-361
 Test Trainer
 Test Trainer
 [14]
