@@ -2956,65 +2956,65 @@ Fight
 Fight
 [Map32]
 Room 101\nCurrent Residents: Kaylee, Aisha
-Room 101\nCurrent Residents: Kaylee, Aisha
+Quarto 101\nResidentes Atuais: Kaylee, Aisha
 Room 103\nCurrent Resident: Eric
-Room 103\nCurrent Resident: Eric
+Quarto 103\nResidente Atual: Eric
 Hello, welcome to Novo Apartments.
-Hello, welcome to Novo Apartments.
+Olá, boas-vindas aos Apartamentos de Nova.
 We have no vacancies at the moment, unfortunately.
-We have no vacancies at the moment, unfortunately.
+Não temos vagas no momento, infelizmente.
 I was so excited by the idea of moving to a smaller town, away from the hustle and bustle of Prizca.
-I was so excited by the idea of moving to a smaller town, away from the hustle and bustle of Prizca.
+Estava tão empolgade pela ideia de me mudar para uma cidade menor, longe de toda agitação e correria de Prizca.
 Away from my parents, too.
-Away from my parents, too.
+Longe dos meus pais, também.
 The privacy, the freedom, the agency, it's all been great.
-The privacy, the freedom, the agency, it's all been great.
+A privacidade, a liberdade, a autonomia. Tudo isso tem sido ótimo.
 It's just...
-It's just...
+É só que...
 I can't get used to how quiet it is all the time.
-I can't get used to how quiet it is all the time.
+Não consigo me acostumar com o quão parado tudo é o tempo todo.
 Room 102\nCurrent Residents: Iseul, Galina
-Room 102\nCurrent Residents: Iseul, Galina
+Quarto 102\nResidentes Atuais: Iseul, Galina
 Hey, you're a trainer, right? Please, I need your help.
-Hey, you're a trainer, right? Please, I need your help.
+Ei, você treina Pokémon, né? Por favor, preciso da sua ajuda.
 My Growlithe got spooked when I was taking it for a walk.
-My Growlithe got spooked when I was taking it for a walk.
+Meu Growlithe se assustou quando estávamos passeando.
 He ran off, and I wasn't able to find him again.
-He ran off, and I wasn't able to find him again.
+Ele saiu correndo, e não fui mais capaz de encontrá-lo.
 He's lost somewhere in <imp>Repora Forest</imp>.
-He's lost somewhere in <imp>Repora Forest</imp>.
+Ele está perdido em algum lugar da <imp>Floresta Repora</imp>.
 Please find him, we've been together our entire lives.
-Please find him, we've been together our entire lives.
+Por favor, encontre ele. Estivemos juntos nossas vidas inteiras.
 Here is his Poké Ball, and his favorite type of treat.
-Here is his Poké Ball, and his favorite type of treat.
+Aqui estão a Pokébola e o petisco favorito dele.
 He's a smart boy, so all you need to do is show him the treat and he'll return to his Poké Ball.
-He's a smart boy, so all you need to do is show him the treat and he'll return to his Poké Ball.
+Ele é um garoto inteligente, então tudo que precisa fazer é mostrá-lo o petisco. Ele vai voltar pra bola dele assim que o fizer.
 I bought a Pokémon Lure to try and bring him back, but turns out it only works on wild Pokémon...
-I bought a Pokémon Lure to try and bring him back, but turns out it only works on wild Pokémon...
+Comprei um Incenso Pokémon para tentar atraí-lo de volta, mas Incensos só funcionam com Pokémon selvagens...
 I'm sure it'd be useful to a trainer like you. You can have it if you bring my Growlithe back.
-I'm sure it'd be useful to a trainer like you. You can have it if you bring my Growlithe back.
+Tenho certeza que ele é útil para pessoas que treinam Pokémon, como você. Se trazer meu Growlithe de volta, te deixo ficar com ele.
 Have you found my Growlithe yet?
-Have you found my Growlithe yet?
+Conseguiu encontrar meu Growlithe?
 He's lost in Repora Forest.
-He's lost in Repora Forest.
+Ele está perdido na Floresta Repora.
 I'm sure he's just cowering in a corner somewhere...
-I'm sure he's just cowering in a corner somewhere...
+Tenho certeza que ele está encolhido de medo em algum canto qualquer...
 You saved Growlithe! Thank you thank you thank you!
-You saved Growlithe! Thank you thank you thank you!
+Você salvou o Growlithe! Muito, muito, muito obrigado!
 Trainers are amazing, aren't they, Growlithe!?
-Trainers are amazing, aren't they, Growlithe!?
+Essas pessoas que treinam Pokémon são incríveis! Não são, Growlithe?
 Don't you want to become big and strong just like their Pokemon?
-Don't you want to become big and strong just like their Pokemon?
+Você não quer ficar grande e forte como os Pokémon delas?
 Yeah! One day, I'll grow just as strong as you! I'll help people just like you did.
-Yeah! One day, I'll grow just as strong as you! I'll help people just like you did.
+Sim! Um dia, vou ser tão forte como você! Vou ajudar as pessoas assim como você ajuda.
 Here's the Lure like I promised, as thanks for saving my Pokemon!
-Here's the Lure like I promised, as thanks for saving my Pokemon!
+Aqui está o Incenso que prometi como agradecimento por ter salvado meu Pokémon!
 Maybe the Rangers that are stationed here will help me get stronger!
-Maybe the Rangers that are stationed here will help me get stronger!
+Talvez os Rangers que estão morando aqui me ajudem a ficar mais forte!
 They fought tons of battles back when Team Chasm was around. They must be total vets!
-They fought tons of battles back when Team Chasm was around. They must be total vets!
+Eles lutaram inúmeras batalhas quando a Equipe Chasm existia. Eles devem ser veteranos de verdade!
 Room 104\nCurrent Residents: Manuel, Anja
-Room 104\nCurrent Residents: Manuel, Anja
+Quarto 104\nResidentes Atuais: Manuel, Anja
 [Map33]
 A survey of the sewer ecosystem is plotted.
 A survey of the sewer ecosystem is plotted.
@@ -5798,83 +5798,83 @@ A sign on the door reads "Employees Only!!"
 Uma placa na porta diz "Apenas Funcionários!!".
 [Map68]
 I'm participating in the current archival project at the Digsite Ruins.
-I'm participating in the current archival project at the Digsite Ruins.
+Estou participando do atual projeto de arquivamento no Sítio Arqueológico das Ruínas.
 Those ginormous statues won't document themselves, so we have to!
-Those ginormous statues won't document themselves, so we have to!
+Aquelas estátuas gigantescas não vão se documentar sozinhas, então alguém tem que fazer o serviço!
 I wrote a whole paper on the special significance of where each Regi was placed in the main chamber.
-I wrote a whole paper on the special significance of where each Regi was placed in the main chamber.
+Escrevi uma tese inteira sobre os significados da escolha do posicionamento de cada um dos Regis na câmara principal.
 I spy a MasterDex!
-I spy a MasterDex!
+Estou vendo que você tem uma MasterDex!
 Yours truly submitted lots of information for that project.
-Yours truly submitted lots of information for that project.
+Fui responsável por fornecer muitas informações para esse projeto.
 Collecting information on this here Boldore was especially difficult.
-Collecting information on this here Boldore was especially difficult.
+Coletar informações sobre esta Boldore logo ali foi especialmente difícil.
 She just loved phasing my carefully collected notes out of existence!
-She just loved phasing my carefully collected notes out of existence!
+Ela adorava ficar fazendo as anotações que eu havia reunido com tanto cuidado sumirem do nosso plano de existência!
 [Map69]
 [Map70]
 I always thought of myself as quite dedicated, but my roommate blows me out of the water.
-I always thought of myself as quite dedicated, but my roommate blows me out of the water.
+Sempre achei que eu fosse bem dedicada às coisas que eu gosto, mas a minha colega de quarto me deixa no chinelo.
 I've gotta scrounge up some more Eevee Tickets and visit that pub in Prizca East.
-I've gotta scrounge up some more Eevee Tickets and visit that pub in Prizca East.
+Tenho que dar um jeito de arranjar mais alguns Bilhetes Eevee e visitar aquele pub na Prizca Oriental.
 Then, I'll be able to call myself a true fan!
-Then, I'll be able to call myself a true fan!
+Só assim serei capaz de me chamar de "uma fã de verdade"!
 DO YOU LIKE GALARIAN ZIGZAGOON?
-DO YOU LIKE GALARIAN ZIGZAGOON?
+VOCÊ GOSTA DO ZIGZAGOON DE GALAR?
 GO LOUD GO OFF GALARIAN ZIGZAGOOOOOOOOOOOOOOOOOOOOON!
-GO LOUD GO OFF GALARIAN ZIGZAGOOOOOOOOOOOOOOOOOOOOON!
+MANDA VER, DETONA, ZIGZAGON DE GALAAAAAAAAAAAAAARRRRR!
 [Map71]
 Hey, Trainer. I've got an offer you might want.
-Hey, Trainer. I've got an offer you might want.
+Ei, viajante. Tenho uma oferta que talvez te interesse.
 My Pokemon breeding company has been producing too many Eevees.
-My Pokemon breeding company has been producing too many Eevees.
+Minha empresa de procriação Pokémon tem produzido Eevees demais.
 They're a popular request, but market fluctuations left us with a bit too much excess.
-They're a popular request, but market fluctuations left us with a bit too much excess.
+Elas são um pedido popular, mas as flutuações do mercado acabaram nos deixando com um excedente.
 Contractually, I'm not allowed to give them away, but trading? A loophole covers me there.
-Contractually, I'm not allowed to give them away, but trading? A loophole covers me there.
+Contratualmente, não posso apenas doá-las, mas trocá-las? Uma brecha me cobre nessa situação.
 I'll trade you for any Normal-type Pokemon.
-I'll trade you for any Normal-type Pokemon.
+Trocarei ela com você por qualquer Pokémon do tipo Normal.
 And pass up on a good deal like this? Where else can you get an Eevee this easy?
-And pass up on a good deal like this? Where else can you get an Eevee this easy?
+E perder uma oportunidade como esta? Onde mais você encontraria uma Eevee tão facilmente?
 Well, I'm not really going anywhere till I get rid of this Eevee.
-Well, I'm not really going anywhere till I get rid of this Eevee.
+Bom, eu não vou a lugar nenhum antes de me livrar desta Eevee.
 Pleasure doing business with you.
-Pleasure doing business with you.
+É um prazer fazer negócios com você.
 Take care of the little guy, ya hear?
-Take care of the little guy, ya hear?
+Cuide bem do bichinho, ok?
 How's the little guy treating you?
-How's the little guy treating you?
+Como o bichinho está te tratando?
 If you're looking for a stone for it, you might be able to find one if you go off the beaten path a bit.
-If you're looking for a stone for it, you might be able to find one if you go off the beaten path a bit.
+Se estiver em busca de alguma pedra para ele, talvez você consiga encontrar uma se sair um pouco da rota mais comum.
 Who knows? Just a hunch.
-Who knows? Just a hunch.
+Quem sabe? Só um palpite.
 A Pokemon Contest is running.
-A Pokemon Contest is running.
+Um Concurso Pokémon está acontecendo.
 A Glaceon used Aurora Veil and Frost Breath in sequence.
-A Glaceon used Aurora Veil and Frost Breath in sequence.
+Uma Glaceon usa uma sequência de Véu De Aurora e Bafo Gelado.
 The live audience is enraptured by the spectacular display!
-The live audience is enraptured by the spectacular display!
+O público presente está maravilhado com a visão espetacular!
 No
-No
+Não
 Yes
-Yes
+Sim
 [Map72]
 I was attacked by an avatar a few weeks ago.
-I was attacked by an avatar a few weeks ago.
+Fui atacada por um avatar há algumas semanas.
 You'd think that I'd know how to battle since my parents were Chasm, but no.
-You'd think that I'd know how to battle since my parents were Chasm, but no.
+É de se imaginar que eu saberia batalhar, já que meus pais eram Chasm, mas não.
 I was caught with my pants down.
-I was caught with my pants down.
+Fui pega com a boca na botija.
 I only met my roommate recently.
-I only met my roommate recently.
+Conheci minha colega de quarto apenas recentemente.
 Apparently both of her parents... Were in Team Chasm?
-Apparently both of her parents... Were in Team Chasm?
+Aparentemente, ambos os pais dela... Faziam parte da Equipe Chasm?
 I guess I shouldn't judge. I hear some professors still hold a grudge, though.
-I guess I shouldn't judge. I hear some professors still hold a grudge, though.
+Acho que não deveria julgar. Mas ouvi dizer que alguns professores ainda têm rancor.
 Their fight with Team Chasm ended like a decade ago, right? Why keep the bad blood?
-Their fight with Team Chasm ended like a decade ago, right? Why keep the bad blood?
+O combate à Equipe Chasm acabou há uma decada, não acabou? Por que continuar com essa amargura toda?
 But on the other hand, if somebody sicced a Salamence on my school, I'd be pissed.
-But on the other hand, if somebody sicced a Salamence on my school, I'd be pissed.
+Por outro lado, se alguém soltasse um Salamence na minha escola, eu ficaria furiosa.
 [Map73]
 I've been working with the local Pokemon Center in order to improve the healing stations.
 I've been working with the local Pokemon Center in order to improve the healing stations.
@@ -34405,7 +34405,7 @@ Véu De Aurora
 Blizzard
 Nevasca
 Frost Breath
-Frost Breath
+Bafo Gelado
 Glacial Lance
 Glacial Lance
 Hail
