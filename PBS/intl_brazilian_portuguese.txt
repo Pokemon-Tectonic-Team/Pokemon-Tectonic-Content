@@ -4119,31 +4119,31 @@ Vamos lá.
 [Map42]
 [Map43]
 Room 204\nCurrent Resident: Noah
-Room 204\nCurrent Resident: Noah
+Quarto 204\nResidente Atual: Noah
 1, 2, 3, 4!
 1, 2, 3, 4!
 Lets go, lets go!
-Lets go, lets go!
+Vamos lá, vamos lá!
 You should keep active, it has a ton of health benefits.
-You should keep active, it has a ton of health benefits.
+Você deveria fazer atividades físicas. Tem um montão de benefícios para a saúde.
 Both for you and your Pokemon!
-Both for you and your Pokemon!
+Tanto você quanto seus Pokémon!
 Room 203\nCurrent Residents: Dana, Sophia
-Room 203\nCurrent Residents: Dana, Sophia
+Quarto 203\nResidentes Atuais: Dana, Sophia
 Room 201\nCurrent Residents: Theodore, Julian
-Room 201\nCurrent Residents: Theodore, Julian
+Quarto 201\nResidentes Atuais: Theodore, Julian
 I'm glad this complex has this room, where I can train my Pokemon safely.
-I'm glad this complex has this room, where I can train my Pokemon safely.
+Ainda bem que este complexo tem esta sala. Aqui, eu posso treinar meus Pokémon em segurança.
 Not that much tends to happen between these two...
-Not that much tends to happen between these two...
+Não acontece muita coisa interessante entre esses dois...
 Room 202\nCurrent Resident: Ruby
-Room 202\nCurrent Resident: Ruby
+Sala 202\nResidente Atual: Ruby
 You can work out all you want, but you won't build any muscle if you don't get enough protein.
-You can work out all you want, but you won't build any muscle if you don't get enough protein.
+Você pode treinar o quanto quiser, mas você nunca vai conseguir crescer nenhum músculo se não consumir proteínas suficientes.
 Here, the perfect drink for exercise...
-Here, the perfect drink for exercise...
+Aqui: a bebida perfeita para fazer exercícios...
 You can tell how many of those I've guzzled down over the years.
-You can tell how many of those I've guzzled down over the years.
+Dá pra perceber quantos desses eu bebi ao longo dos anos.
 [Map44]
 A well-used punching bag.
 Um saco de pancadas muito usado.
@@ -5877,71 +5877,71 @@ But on the other hand, if somebody sicced a Salamence on my school, I'd be pisse
 Por outro lado, se alguém soltasse um Salamence na minha escola, eu ficaria furiosa.
 [Map73]
 I've been working with the local Pokemon Center in order to improve the healing stations.
-I've been working with the local Pokemon Center in order to improve the healing stations.
+Estive trabalhando em conjunto com o Centro Pokémon local com o objetivo de melhorar as estações de cura.
 The college gave me a decent grant in order to do so. I'm trying to make the thing more energy efficient.
-The college gave me a decent grant in order to do so.  I'm trying to make the thing more energy efficient.
+O instituto me concedeu um auxílio financeiro decente para isso. Estou tentando fazer essa coisa ser mais energeticamente eficiente.
 Hopefully this research will let us set up centers in even more places.
-Hopefully this research will let us set up centers in even more places.
+Esperamos que esta pesquisa nos permita montar centros em ainda mais lugares.
 [Map74]
 Fed up with doing nothing -- Out hunting Avatars.
-Fed up with doing nothing -- Out hunting Avatars.
+Cansei de não fazer nada -- Saí para caçar Avatares.
 [Map75]
 [Map76]
 What are you doing?
-What are you doing?
+O que que você tá fazendo?
 Get the hell out of my room!
-Get the hell out of my room!
+Mete o pé do meu quarto!
 Give me a second to compose myself. I'd like to give an apology if you talk to me later.
-Give me a second to compose myself. I'd like to give an apology if you talk to me later.
+Me dê um segundo para me recompor. Gostaria de pedir desculpas caso você fale comigo depois.
 Ok. Sorry. I'm calmer now. That was really rude of me to do that.
-Ok. Sorry. I'm calmer now. That was really rude of me to do that.
+Ok. Desculpa. Estou mais calmo agora. Foi muito rude da minha parte ter dito aquilo.
 Just get out of here! Leave, ok?
-Just get out of here! Leave, ok?
+Só saia daqui! Saia, ok?
 Hey, I was rude earlier. I was just in the moment and I don't like distractions.
-Hey, I was rude earlier. I was just in the moment and I don't like distractions.
+Ei, eu fui rude mais cedo. Estava muito concentrado e eu não gosto de distrações.
 Doesn't excuse my behavior though.
-Doesn't excuse my behavior though.
+Mesmo assim, isso não justifica meu comportamento.
 Sorry.
-Sorry.
+Desculpa.
 Here, take this. As a token of goodwill. I shouldn't be drinking caffiene anyways.
-Here, take this. As a token of goodwill. I shouldn't be drinking caffiene anyways.
+Aqui, tome isto. Como um gesto de boa vontade. Eu não deveria estar tomando cafeína, de qualquer forma.
 I'll be better next time.
-I'll be better next time.
+Farei melhor na próxima vez.
 Just leave, ok!
-Just leave, ok!
+Só saia, ok?
 Zoé forever! Bence should pack it up and go home!
-Zoé forever! Bence should pack it up and go home!
+Zoé para sempre! O Bence deveria fazer as malas e ir embora!
 Oh, you've never heard of them?
-Oh, you've never heard of them?
+Ah, você nunca ouviu falar deles?
 Zoé is the rock-tough Gym Leader of Prizca West, and Bence is a loser weakling trying to take her spot.
-Zoé is the rock-tough Gym Leader of Prizca West, and Bence is a loser weakling trying to take her spot.
+A Zoé é a Líder De Ginásio durona da Prizca Ocidental, e o Bence é um fracote bunda mole que está tentando tomar o lugar dela.
 You'd think the government would do something, but the Gymnasium Office has cowardly ignored all my emails.
-You'd think the government would do something, but the Gymnasium Office has cowardly ignored all my emails.
+Seria de se imaginar que o Governo faria alguma coisa a respeito, mas o Departamento de Ginásios tem ignorado covardemente todos os meus e-mails.
 You got the Prizca West badge, that means... you beat Zoe?!
-You got the Prizca West badge, that means... you beat Zoe?!
+Você tem a insígnia da Prizca Ocidental. Isso significa... você derrotou a Zoe?!
 You must be some trainer. I've still got a ways to go before I can even approach her level.
-You must be some trainer. I've still got a ways to go before I can even approach her level.
+Você deve treinar Pokémon muito bem. Ainda tenho um longo caminho a seguir antes de chegar perto do nível dela.
 ...tell me you wallopped Bence, too, right?
-...tell me you wallopped Bence, too, right?
+...me diz que você chutou a bunda do Bence, também. Chutou?
 [Map77]
 I hope I get to go spelunking for my Paleontology courses.
-I hope I get to go spelunking for my Paleontology courses.
+Espero que eu possa sair para explorar cavernas nas minhas aulas de Paleontologia.
 Makya has such grand caves, after all. It'd be a shame to not get to see them.
-Makya has such grand caves, after all. It'd be a shame to not get to see them.
+Makya tem cavernas tão grandiosas, afinal de contas. Seria uma pena não poder ir vê-las.
 There's one with a bunch of petrified Pokemon. And one where water flows in intricate patterns.
-There's one with a bunch of petrified Pokemon. And one where water flows in intricate patterns.
+Tem uma com um montão de Pokémon petrificados. E uma onde a água flui em padrões complexos.
 And! And... I'm boring you, aren't I.
-And! And... I'm boring you, aren't I.
+E uma! E uma... eu tô te entediando, não tô?
 Unpacking sucks. I wish I didn't have to do it.
-Unpacking sucks. I wish I didn't have to do it.
+Desempacotar é um saco. Queria não precisar fazer isso.
 I found this while unpacking. I don't know where I got it, and I don't want it.
-I found this while unpacking. I don't know where I got it, and I don't want it.
+Encontrei isto enquanto desempacotava. Não sei como consegui, mas não quero.
 Take it. I don't want another trip to the dumpster.
-Take it. I don't want another trip to the dumpster.
+Tome. Eu não quero fazer outra viagem até a lixeira.
 Unpacking suuuuuuucksssss. Chores suuuuckkkkk.
-Unpacking suuuuuuucksssss. Chores suuuuckkkkk.
+Desempacotar é um saaaaaaaaaaaaco. Afazeres são um saaaaaaaaaaaaco.
 Ugh.
-Ugh.
+Aff.
 [Map78]
 The Kadabra is focusing very hard.
 The Kadabra is focusing very hard.
