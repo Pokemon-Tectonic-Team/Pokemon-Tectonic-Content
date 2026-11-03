@@ -645,7 +645,7 @@ Precisamos ir ao ginásio. Espero que Eko esteja aceitando desafiantes!
 Oh… you destroyed it.
 Ah… você destruiu.
 I was watching that avatar, and you just… dismissed it.
-Eu estava observando aquele avatar, e vocẽ só… dispensou ele.
+Eu estava observando aquele avatar, e você só… dispensou ele.
 Well, it couldn’t last forever.
 Bom, ele não ia durar para sempre.
 Nice to meet you. My name’s <imp>Skyler</imp>.
@@ -691,7 +691,7 @@ De qualquer forma, fico feliz em ter te conhecido. Tecnicamente, suponho que voc
 I’ll be back on my little journey now, but, uh, I’ll see you again.
 Voltarei à minha pequena jornada agora. Mas, hã, nos veremos novamente.
 A trainer like you must be seeking badges, right? So let’s meet in the <imp>town ruined by avatars</imp>.
-Um viajante como você deve estar atrás de insígnias, não é? Pois vamos nos encontrar na <imp>cidade que foi arruinada por avatares</imp>.
+Viajantes como você estão em busca de insígnias, não é? Pois vamos nos encontrar na <imp>cidade que foi arruinada por avatares</imp>.
 I hear there’s a gym leader there. So long, my knight in shining armor.
 Ouvi falar que há um líder de ginásio por lá. Até mais, meu paladino em armadura reluzente.
 My grandpapa gave me this Tranquill. He's in the ground now. Wanna fight?
@@ -8607,7 +8607,7 @@ Tantos assim? Anotado.
 I have my own estimates based on public records and hearsay. I will default to those.
 Tenho minhas próprias estimativas baseadas em registros públicos e boatos. Vou me pautar por elas.
 Do you take no thrill in defeating these beings? Unfortunately I fear you may be an expert in the matter.
-Você não sente nenhuma emoção em derrotar essas coisas? Infelizmente, temo que vocẽ seja especialista no assunto.
+Você não sente nenhuma emoção em derrotar essas coisas? Infelizmente, temo que você seja especialista no assunto.
 So, have you noticed any common traits between avatars?
 Então, você notou alguma característica em comum entre os avatares?
 As the local people have found out.
