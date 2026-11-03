@@ -5746,51 +5746,51 @@ Claro.
 [Map65]
 [Map66]
 Wow! Well done! That must have been nervewracking.
-Wow! Well done! That must have been nervewracking.
+Uau! Muito bem! Aquilo deve ter sido estressante.
 I wonder why those two Pokemon came here in the first place.
-I wonder why those two Pokemon came here in the first place.
+Por que será que aqueles dois Pokémon vieram para cá, pra começo de conversa?
 Aren't Absol drawn to areas with upcoming disasters?
-Aren't Absol drawn to areas with upcoming disasters?
+Absol não são atraídos para áreas onde há desastre iminente?
 Yikes. I hope they predicted wrong.
-Yikes. I hope they predicted wrong.
+Eita. Espero que eles tenham previsto errado.
 Anyways, thanks for all the help.
-Anyways, thanks for all the help.
+De qualquer forma, obrigado pela ajuda.
 I'm gonna get out of this place, it's got to be packed with bad vibes.
-I'm gonna get out of this place, it's got to be packed with bad vibes.
+Vou dar o fora daqui, este lugar deve estar cheio de vibrações ruins.
 Oh, man, perfect timing!
-Oh, man, perfect timing!
+Ah, cara, que conveniente!
 I came up here to investigate a noise complaint.
-I came up here to investigate a noise complaint.
+Vim aqui para cima para investigar uma reclamação de barulho.
 Turns out there's this freaking ghost spirit thing running around!
-Turns out there's this freaking ghost spirit thing running around!
+Acontece que essa coisa-espírito-gigante esquisita tá correndo pra todo lado!
 Then out of nowhere an Absol busts into the room and they start staring each other down!
-Then out of nowhere an Absol busts into the room and they start staring each other down!
+Então, do absoluto nada, um Absol invadiu a sala e eles começaram a se encarar!
 I'm too afraid to get close, and I'm too afraid to leave them alone.
-I'm too afraid to get close, and I'm too afraid to leave them alone.
+Eu tô com medo demais pra chegar perto, mas tô com medo demais para deixar eles aqui.
 Could you, ya know, deal with it?
-Could you, ya know, deal with it?
+Você poderia, sabe, dar um jeito?
 Well don't look at me, I left my Pokemon at home!
-Well don't look at me, I left my Pokemon at home!
+Ei, não olha pra mim! Eu deixei meus Pokémon em casa!
 Absol is silently staring at the spirit.
-Absol is silently staring at the spirit.
+Absol está encarando o espírito silenciosamente.
 It has a tense expression, but it's shaking slightly.
-It has a tense expression, but it's shaking slightly.
+Tem uma expressão tensa, mas está levemente trêmulo.
 The Absol looks at you, expression blank, but trembling.
-The Absol looks at you, expression blank, but trembling.
+O Absol olha para você, expressão vazia, mas tremendo.
 If you tried to catch it, it probably wouldn't put up a fight.
-If you tried to catch it, it probably wouldn't put up a fight.
+Se o tentasse capturar, ele provavelmente não tentaria resistir.
 You'll leave the Pokemon here for now.
-You'll leave the Pokemon here for now.
+Você deixa o Pokémon aqui por enquanto.
 You bring out a Pokéball from your bag while petting the Absol on its head.
-You bring out a Pokéball from your bag while petting the Absol on its head.
+Você tira uma Pokébola da sua mochila enquanto faz carinho na cabeça do Absol.
 You swear you see the faintest smile form on it before it enters the ball.
-You swear you see the faintest smile form on it before it enters the ball.
+Você jura ter visto um leve sorriso formar-se em seu rosto antes dele entrar na pokébola.
 You don't have a Pokeball to give it.
-You don't have a Pokeball to give it.
+Você não possui Pokébolas para usar.
 No
-No
+Não
 Yes
-Yes
+Sim
 [Map67]
 It's locked.
 Trancada.
