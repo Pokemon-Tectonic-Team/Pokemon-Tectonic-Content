@@ -1958,23 +1958,23 @@ Log Off
 Sair
 [Map18]
 I've always dreamed of being a Pokemon Trainer! Yesterday I went out and caught some. Now my mom HAS to let me be a trainer!
-I've always dreamed of being a Pokemon Trainer!  Yesterday I went out and caught some. Now my mom HAS to let me be a trainer!
+Eu sempre sonhei em ser um Treinador Pokémon! Ontem, eu saí de casa e capturei alguns. Agora a mamãe TEM que me deixar ser um treinador!
 You understand right? If I do well in my first battle, my mom will see what I'm capable of!
-You understand right? If I do well in my first battle, my mom will see what I'm capable of!
+Você entende, né? Se eu me sair bem na minha primeira batalha, a mamãe vai ver do que eu sou capaz!
 Battle?
-Battle?
+Batalha?
 You just don't get it.
-You just don't get it.
+Ahh, você não entende.
 LET'S GOOOOOOOOOOOOO!!!!
-LET'S GOOOOOOOOOOOOO!!!!
+VAMO LÁÁÁÁÁÁÁÁÁÁÁÁÁÁ!!!!
 I'm down but not out. You can't ever put me down.
-I'm down but not out. You can't ever put me down.
+Eu caí, mas não vou desistir. Você nunca vai conseguir me desanimar.
 ...
 ...
 Get lost kid.
-Get lost kid.
+Some daqui, pivete.
 Sure.
-Sure.
+Tá bom.
 [Map19]
 I live for trash TV.
 Eu vivo pra assistir novelas ruins.
@@ -6959,7 +6959,7 @@ Known Incidents
 Undefined Incidents
 Undefined Incidents
 Log Off
-Log Off
+Sair
 Bluepoint Grotto
 Gruta De Bluepoint
 Novo Apartments
@@ -49439,7 +49439,7 @@ Bitmap's width ({1}) is not a multiple of frame count ({2}) [Bitmap={3}]
 Pokémon
 Pokémon
 Log Off
-Log Off
+Sair
 \se[PC open]The Pokémon Storage System was opened.
 \se[PC open]O Sistema De Armazenamento Pokémon foi aberto.
 \ssYou insert the Omnidrive into the PC.
@@ -63145,9 +63145,9 @@ Pride is right.
 Don't beat yourself up.
 Don't beat yourself up.
 Traits: Pokemon and You!
-Traits: Pokemon and You!
+Traços: Pokémon e Você!
 Latest Log Entry
-Latest Log Entry
+Último Registro
 Sorry, not yet.
 Sorry, not yet.
 Hah, évidemment.
