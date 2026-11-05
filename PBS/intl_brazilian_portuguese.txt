@@ -2403,9 +2403,9 @@ Sudeste: Colinas Âmbar
 Grouz Mine
 Mina De Grauze
 My my, I hope you aren't here to battle. I won't be able to tell my Pokemon anything if you keep taking my breath away.
-Minha nossa, espero que você não esteja aqui para batalhar. Não serei capaz de dizer aos meus Pokémon o que fazer se você for tirar meu fôlego deste jeito.
+Minha nossa, espero que não esteja aqui para batalhar. Não serei capaz de dizer aos meus Pokémon o que fazer se você for tirar meu fôlego deste jeito.
 Oh, you are? Ah, I suppose a rose as pretty as you would have some very sharp thorns...
-Ah, você está aqui para batalhar? Suponho que uma rosa tão encantadora quanto você deva ter espinhos bem afiados...
+Ah, você está? Suponho que uma rosa tão encantadora deva ter espinhos bem afiados...
 I laid out each of these starter tokens to maybe attract someone suitable... for battle.
 Deixei estas fichas de iniciais para, talvez, atrair alguém compatível... para batalhar.
 Perhaps you'll be able to satisfy both criteria...
@@ -2547,11 +2547,11 @@ Ter vindo aqui levou meus pensamentos à duvida e a lugares ainda mais sombrios.
 The other Imogene has already left, unable to bear it any longer.
 A outra Imogene já foi embora – não foi capaz de suportar.
 She left a note stating simply that she knew what she must do, and that she goes now to a place of death and quiet oblivion.
-Ela deixou uma carta simplesmente dizendo que ela já sabia o que precisa fazer, e que ela vai, agora, a um lugar de morte e silente oblívio.
+Ela deixou uma carta simplesmente dizendo que já sabia o que precisa fazer, e que vai, agora, a um lugar de morte e silente oblívio.
 I choose to interpret it as guidance to find a <imp>burial ground or mausoleum</imp>, and not as her last goodbyes...
 Escolhi interpretá-la como uma orientação para encontrar um <imp>local de sepultamento ou um mausoléu</imp>, e não como sua despedida final...
 I’m unsure if there is a difference for us.
-Estou incerta se há diferença para nós.
+Apesar de que estou incerta se há diferença para nós.
 \PN… I don’t know that we should exist.
 \PN… não tenho certeza se deveríamos existir.
 There is something fundamentally wrong with us. Our state is not natural, nor is it tenable.
