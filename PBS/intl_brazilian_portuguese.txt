@@ -2019,7 +2019,7 @@ Sem problemas. Volte aqui quando quiser um copo.
 Thank you for your patronage.
 Agradecemos pela sua preferência.
 Wow, you are broke. Go get some cash.
-Uau, você tá liso. Vai ganhar alguma grana.
+Uau, você tá indo à falência. Vai ganhar alguma grana.
 Oh hello dearie, you wouldn't happen to be a Trainer would you?
 Ah! Olá, meu bem. Você não treina Pokémon, por acaso, treina?
 My husband and I have decided to get another Fairy- type friend for our Ribombees and Cutieflies.
@@ -2341,297 +2341,297 @@ Your Pokemon are now healed.
 [Map24]
 [Map25]
 Presenting, my very own Flex-type attack!
-Presenting, my very own Flex-type attack!
+Apresentando: meu próprio movimento de tipo Flexível!
 Is it Physical, you ask? Special, perhaps? It's both, of course!
-Is it Physical, you ask? Special, perhaps? It's both, of course!
+"É Físico" — talvez esteja se perguntando — "Especial, talvez?". É ambos, é claro!
 Your Pokemon uses whichever is best for their stats!
-Your Pokemon uses whichever is best for their stats!
+Seus Pokémon irão usar o que for melhor para seus atributos!
 Is there a catch, hmmm? ...Yes...the move misses 20 percent of the time.
-Is there a catch, hmmm? ...Yes...the move misses 20 percent of the time.
+Se tem algum truque? ...Sim... o movimento erra 20 por cento das vezes.
 Whaddya say? Tons of Pokemon can be taught this move.
-Whaddya say? Tons of Pokemon can be taught this move.
+O que me diz? Muitos Pokémon podem aprender este movimento.
 Truly you've struck the motherload of moves!
-Truly you've struck the motherload of moves!
+Você realmente encontrou a mina de ouro dos movimentos!
 Fine... I just wanted something to do now that the mine's closed...
-Fine... I just wanted something to do now that the mine's closed...
+Sem problemas... Eu só queria algo para fazer agora que a mina está fechada...
 What're you doing?!
-What're you doing?!
+O que você está fazendo?!
 You're \PN, right? The trainer the Professor called in?
-You're \PN, right? The trainer the Professor called in?
+Você é \PN, não é? A pessoa que a Professora chamou?
 So go destroy that Avatar before we're all killed!
-So go destroy that Avatar before we're all killed!
+Então, vá logo destruir aquele avatar antes que todos nós sejamos mortos!
 I used to use a lot of Life Orbs. Didn't care if my Pokemon got hurt so long as they did the work.
-I used to use a lot of Life Orbs. Didn't care if my Pokemon got hurt so long as they did the work.
+Eu costumava usar muitos Orbes Da Vida. Não ligava se meus Pokémon se machucassem, contanto que dessem conta do serviço.
 But I'm not that kind of person any more. I'm looking to rid myself of them.
-But I'm not that kind of person any more. I'm looking to rid myself of them.
+Mas não sou mais esse tipo de pessoa. Estou tentando me livrar dos Orbes.
 The only Pokémon who I give a Life Orb to nowadays is my trusty Nidoking here.
-The only Pokémon who I give a Life Orb to nowadays is my trusty Nidoking here.
+O único Pokémon para quem dou Orbes Da Vida hoje em dia é meu bom e velho Nidoking aqui.
 Isn't that right, buddy?
-Isn't that right, buddy?
+Não é mesmo, amigão?
 You see, my partner here has the Sheer Force ability.
-You see, my partner here has the Sheer Force ability.
+Sabe, meu parceiro aqui tem a habilidade Força Absoluta.
 It means Nidoking can use moves that have random added effects, like Trample, without losing HP in the process.
-It means Nidoking can use moves that have random added effects, like Trample, without losing HP in the process.
+Isso significa que Nidoking pode usar movimentos com efeitos adicionais aleatórios, como Atropelar, sem perder seus PV no processo.
 I've just got one left. I'll sell it to you for $6,000. Fair market value.
-I've just got one left. I'll sell it to you for $6,000. Fair market value.
+Só tenho uma sobrando. Vou te vender por $6.000. Preço justo de mercado.
 Sounds good. I'll be on patrol for awhile now, so hit me up if you change your mind.
-Sounds good. I'll be on patrol for awhile now, so hit me up if you change your mind.
+Sem problemas. Estarei em patrulha por um tempo, então é só falar comigo se mudar de ideia.
 Here ya go, pleasure doing business.
-Here ya go, pleasure doing business.
+Aqui está, prazer fazer negócios.
 \PN hands over $6000 in exchange.
-\PN hands over $6000 in exchange.
+\PN entrega $6000 em troca.
 Guess I'll go back on patrol now.
-Guess I'll go back on patrol now.
+Bom, de volta à patrulha.
 Looks like you're a bit short on cash.
-Looks like you're a bit short on cash.
+Parece que você está meio sem dinheiro.
 I get that, wasn't in the best financial spot myself before I joined Chasm.
-I get that, wasn't in the best financial spot myself before I joined Chasm.
+Entendo, também não estava na melhor situação financeira antes de entrar pra Equipe Chasm.
 Despite their pain, my team still loves battling.
-Despite their pain, my team still loves battling.
+Apesar de suas dores, minha equipe ainda ama batalhar.
 To be honest, I don't deserve their forgiveness. I hurt them, but they still forgave me.
-To be honest, I don't deserve their forgiveness. I hurt them, but they still forgave me.
+Para ser sincero, eu não mereço o perdão deles: eu os machuquei. Mesmo assim, eles me perdoaram.
 I get a bit emotional everytime I think about it, haha.
-I get a bit emotional everytime I think about it, haha.
+Eu fico um pouco sentimental sempre que penso a respeito, haha.
 West: Kilna Turf
-West: Kilna Turf
+Oeste: Campo De Kilna
 North: East Tunnel
-North: East Tunnel
+Norte: Túnel Leste
 East: Grouz Mine
-East: Grouz Mine
+Leste: Mina De Grauze
 South-East: Amber Hills
-South-East: Amber Hills
+Sudeste: Colinas Âmbar
 Grouz Mine
 Mina De Grauze
 My my, I hope you aren't here to battle. I won't be able to tell my Pokemon anything if you keep taking my breath away.
-My my, I hope you aren't here to battle. I won't be able to tell my Pokemon anything if you keep taking my breath away.
+Minha nossa, espero que você não esteja aqui para batalhar. Não serei capaz de dizer aos meus Pokémon o que fazer se você for tirar meu fôlego deste jeito.
 Oh, you are? Ah, I suppose a rose as pretty as you would have some very sharp thorns...
-Oh, you are? Ah, I suppose a rose as pretty as you would have some very sharp thorns...
+Ah, você está aqui para batalhar? Suponho que uma rosa tão encantadora quanto você deva ter espinhos bem afiados...
 I laid out each of these starter tokens to maybe attract someone suitable... for battle.
-I laid out each of these starter tokens to maybe attract someone suitable... for battle.
+Deixei estas fichas de iniciais para, talvez, atrair alguém compatível... para batalhar.
 Perhaps you'll be able to satisfy both criteria...
-Perhaps you'll be able to satisfy both criteria...
+Talvez você consiga satisfazer ambos os critérios...
 The top of the sign is labeled "Grouz Mine Bulletin."
-The top of the sign is labeled "Grouz Mine Bulletin."
+"Quadro De Avisos Da Mina De Grauze" está escrito na parte de cima da placa.
 Remnants of old, yellowed papers are still stapled to the rest.
-Remnants of old, yellowed papers are still stapled to the rest.
+Restos de papéis amarelados e velhos ainda estão grudados na madeira.
 What a disgrace.
-What a disgrace.
+Que desgraça.
 We're supposed to be keeping this area safe.
-We're supposed to be keeping this area safe.
+Deveríamos estar mantendo esta área segura.
 A call for you, Trainer.
-A call for you, Trainer.
+Uma ligação para você, viajante.
 The ranger hands you a cell phone.
-The ranger hands you a cell phone.
+O ranger te entrega um celular.
 Heard a certain metal worm is no longer with us. You won’t see me at the funeral.
-Heard a certain metal worm is no longer with us. You won’t see me at the funeral.
+Ouvi dizer que uma certa minhoca de metal gigante não está mais entre nós. Eu não vou comparecer ao funeral.
 Anyways, I’m a woman of my word – I’ll be your friend in high places.
-Anyways, I’m a woman of my word – I’ll be your friend in high places.
+Enfim, sou uma mulher de palavra – vou ser sua amiga com influência.
 I’m holed up in <imp>Helena’s place</imp>, west of the LuxTech eyesore.
-I’m holed up in <imp>Helena’s place</imp>, west of the LuxTech eyesore.
+Estou aqui na <imp>casa da Helena</imp>, a oeste daquela monstruosidade tenebrosa que a LuxTech construiu.
 North-west of the lake, can’t miss it.
-North-west of the lake, can’t miss it.
+Noroeste do lago, não dá para errar.
 Oh, and bring your team. I invited another guest.
-Oh, and bring your team. I invited another guest.
+Ah, e traz a sua equipe. Eu convidei outra pessoa, também.
 Ah, where were you in the good ol’ days? You would’ve made a great grunt!
-Ah, where were you in the good ol’ days? You would’ve made a great grunt!
+Ah, onde você estava nos bons e velhos tempos? Você teria muito potencial como recruta!
 ...That’s a compliment, by the way. See ya there.
-...That’s a compliment, by the way. See ya there.
+...Isso foi um elogio, a propósito. Te vejo lá.
 You gotta keep sharp! Don’t tell me you’re sick of fights.
-You gotta keep sharp! Don’t tell me you’re sick of fights.
+Você tem que manter em forma! Não me diga que se cansou de batalhar.
 Our guest’s pretty good, too. She might teach you a thing or two.
-Our guest’s pretty good, too. She might teach you a thing or two.
+Nossa convidade é muito boa, também. Ela pode te ensinar uma coisa ou outra.
 Well, see ya.
-Well, see ya.
+Bem, até mais.
 You think I’M bad? Try working with Helena for a few years. Especially back when she had strike teams at her disposal.
-You think I’M bad? Try working with Helena for a few years. Especially back when she had strike teams at her disposal.
+Você acha que EU sou ruim? Tenta trabalhar com a Helena por uns anos. Especialmente quando ela tinha equipes de ataque à disposição.
 You’re strong. You’ve proven that. This’ll be a piece of cake. Trust me. So I’ll see ya there.
-You’re strong. You’ve proven that. This’ll be a piece of cake. Trust me. So I’ll see ya there.
+Você é forte. Já provou isso. Isso vai ser moleza. Confia em mim. Então, te vejo lá.
 …She hung up.
-…She hung up.
+…Ela desligou.
 Thanks for the help.
-Thanks for the help.
+Obrigado pela ajuda.
 Dr. Hekata's House
-Dr. Hekata's House
+Casa da Dra. Hekata.
 The door is boarded up.
-The door is boarded up.
+A porta está bloqueada com tábuas.
 Hello, \PN. It’s been quite some time!
-Hello, \PN. It’s been quite some time!
+Olá, \PN. Há quanto tempo!
 Though I’ve heard tales of someone that looked like you talking to someone that looked like me by a certain river that I know a certain Ditto appreciates.
-Though I’ve heard tales of someone that looked like you talking to someone that looked like me by a certain river that I know a certain Ditto appreciates.
+Embora tenha ouvido boatos de alguém que se parecia com você conversando com alguém que se parecia comigo, perto de um rio que, pelo que sei, uma certa Ditto gosta bastante.
 Well, I say that, but I suppose I’ve never verified that she is, in fact, a Ditto.
-Well, I say that, but I suppose I’ve never verified that she is, in fact, a Ditto.
+Bom, estou dizendo estas coisas, mas suponho que nunca verifiquei se ela, realmente, é uma Ditto.
 I have never seen her un-transformed, specifically.
-I have never seen her un-transformed, specifically.
+Nunca a vi destransformada, especificamente.
 I have tried tossing a Poké Ball at her, with no effect other than a withering glower.
-I have tried tossing a Poké Ball at her, with no effect other than a withering glower.
+Tentei atirar uma Pokébola nela. Não obtive outro resultado além de um olhar furioso.
 She could be anything, I suppose, but what else can take human form for so long with such accuracy?
-She could be anything, I suppose, but what else can take human form for so long with such accuracy?
+Ela poderia ser qualquer coisa, suponho, mas o que mais pode tomar forma humana por tanto tempo, com tanta precisão?
 A particularly persistent and vocal Zoroark? Perhaps some other Pokémon that learns Transform?
-A particularly persistent and vocal Zoroark? Perhaps some other Pokémon that learns Transform?
+Uma Zoroark particularmente dedicada e eloquente? Talvez algum outro Pokémon que saiba se Transformar?
 Or perhaps she really is simply a doppelganger of eldritch origin, or a spirit haunting me for some forgotten transgression.
-Or perhaps she really is simply a doppelganger of eldritch origin, or a spirit haunting me for some forgotten transgression.
+Ou, talvez, ela simplesmente seja uma <i>doppelganger</i> de origem ancestral, ou um espírito que me assombra por algum motivo há muito apagado.
 The one that gave you that amulet – not that it matters.
-The one that gave you that amulet – not that it matters.
+Sou aquela que lhe deu este amuleto – não que seja importante.
 Don’t worry, I don’t take any offense! My doppelganger and I are more alike than we are different.
-Don’t worry, I don’t take any offense! My doppelganger and I are more alike than we are different.
+Não se preocupe: não tomarei como ofensa! Minha sósia e eu somos mais parecidas do que somos diferentes.
 How, precisely, would a Ditto learn to imitate my manners with such care...?
-How, precisely, would a Ditto learn to imitate my manners with such care...?
+Como, precisamente, uma Ditto aprenderia a imitar meus maneirismos com tanto esmero...?
 I suppose it bears little tangible relevance to my situation, though.
-I suppose it bears little tangible relevance to my situation, though.
+Suponho que isso é de pouquíssima relevância para a minha situação, no entanto.
 Oh, I’m sorry I’m such a glum philosopher archetype.
-Oh, I’m sorry I’m such a glum philosopher archetype.
+Ah, peço desculpas por ter este arquétipo de filósofa sombria.
 If I must play a stock role in your story, I would prefer to be an oracle distributing wisdom, or a magical creature bestowing some blessing or artifact.
-If I must play a stock role in your story, I would prefer to be an oracle distributing wisdom, or a magical creature bestowing some blessing or artifact.
+Se devo desempenhar um papel estereotipado em tua história, prefiro ser um oráculo que distribui sabedorias ou uma criatura mágica que lhe concede algum tipo de bênção ou artefato.
 I hope you’re not expecting any wisdom or artifacts from me.
-I hope you’re not expecting any wisdom or artifacts from me.
+Espero que não estejas esperando alguma sabedoria ou artefatos de minha parte.
 I fear I’m far too invested in my own quest for self- discovery to aid you in yours.
-I fear I’m far too invested in my own quest for self- discovery to aid you in yours.
+Temo que esteja absorta demais em minha própria busca por autodescoberta para lhe ajudar com a tua. 
 ...Oh, that isn’t true. I can’t maintain a charade of indifference half as well as my companion. I am rather invested in you and yours.
-...Oh, that isn’t true. I can’t maintain a charade of indifference half as well as my companion. I am rather invested in you and yours.
+...Ah, isso não é verdade. Não sou capaz de manter uma fachada de indiferença tanto quanto minha companheira. Estou bastante envolvida com você e os seus.
 Thank you.
-Thank you.
+Obrigada.
 I could easily take the simple explanation afforded to all diviners: that I am interested in you because I have foretold some matter of interest in your future.
-I could easily take the simple explanation afforded to all diviners: that I am interested in you because I have foretold some matter of interest in your future.
+Poderia simplesmente usar a explicação simples, comum a todos as adivinhas: que estou interessada em você porque previ algum acontecimento interessante em teu futuro.
 Unfortunately, I am insufferably honest, so I must confess that I simply enjoy your company.
-Unfortunately, I am insufferably honest, so I must confess that I simply enjoy your company.
+Infelizmente, sou insuportavelmente honesta, então devo confessar que simplesmente gosto de tua companhia.
 Indeed. You are plainly at the center of a whorl of causality here – it takes no arcana to determine that.
-Indeed. You are plainly at the center of a whorl of causality here – it takes no arcana to determine that.
+Sim. É evidente que estás no centro de uma espiral de causalidade aqui – não é necessário nenhum conhecimento arcano para enxergar isso.
 I cannot ascertain the future with any degree of certainty, but I can plainly see which way the river cuts.
-I cannot ascertain the future with any degree of certainty, but I can plainly see which way the river cuts.
+Não posso prever o futuro com nenhum grau de certeza, mas posso claramente ver para onde o rio segue.
 I would like to liberate its path of hindrances if possible.
-I would like to liberate its path of hindrances if possible.
+Gostaria de livrar o curso das águas de obstáculos, se possível.
 Oh! Excuse me, I refer merely to my interest in seeing your rather unique path through fate’s weave come to pass.
-Oh! Excuse me, I refer merely to my interest in seeing your rather unique path through fate’s weave come to pass.
+Ah! Perdoe-me: meramente, estava me referindo ao meu interesse em ver teu caminho, que é deveras ímpar, concretizar-se na tecelagem do destino.
 Well, that and a respectable appreciation for the quality of your character and company.
-Well, that and a respectable appreciation for the quality of your character and company.
+Bom, além de uma considerável estima pela qualidade de teu caráter e de tua companhia.
 It was not my intent to imply an interest in an... assignation, if that was what you were asking. Such passions are not my lot in life.
-It was not my intent to imply an interest in an...  assignation, if that was what you were asking. Such passions are not my lot in life.
+Não era minha intenção sugerir interesse em um... romance, se era isso que estava se perguntando. Tais paixões não são meu propósito na vida.
 Consider it a professional curiosity, if that might ease your concerns... or insecurities.
-Consider it a professional curiosity, if that might ease your concerns... or insecurities.
+Considere isso uma 'curiosidade profissional', se isso alivia tuas preocupações... ou tuas inseguranças.
 You are of note not merely for your personality and character –
-You are of note not merely for your personality and character –
+És notável não meramente por tua personalidade e caráter –
 though I confess some partiality to both – but for the briar-knot of fate you are embedded within.
-though I confess some partiality to both – but for the briar-knot of fate you are embedded within.
+embora eu confesse alguma influência de ambos – mas por causa do emaranhado de destino no qual você se insere.
 Many lives are wound around you. Around your fingers, or your throat, I wonder?
-Many lives are wound around you. Around your fingers, or your throat, I wonder?
+Muitas vidas estão enroladas ao teu redor. Ao redor de teus dedos, ou de tua garganta, me pegunto?
 Put plainly, you’re important, I’m curious, and I like our conversations.
-Put plainly, you’re important, I’m curious, and I like our conversations.
+Em suma, és importante. Estou curiosa e gosto de nossas conversas.
 Even the ones I am not privy to I imagine are enlightening for my other half, and her revelations may lead to my own.
-Even the ones I am not privy to I imagine are enlightening for my other half, and her revelations may lead to my own.
+Imagino que mesmo as conversas das quais não participo são esclarecedoras para minha sósia, e as revelações a respeito dela podem levar às ao meu respeito.
 Speaking of which, I am not merely here for pleasure. I had returned home for the express purpose of finding some clue as to my past.
-Speaking of which, I am not merely here for pleasure.  I had returned home for the express purpose of finding some clue as to my past.
+Falando nelas, não estou aqui meramente a passeio. Retornei para casa com o claro objetivo de encontrar alguma pista a respeito de meu passado.
 I... cannot remember it. That this is my hometown, yes, and stray faint recollections from my youth, but beyond that nothing.
-I... cannot remember it. That this is my hometown, yes, and stray faint recollections from my youth, but beyond that nothing.
+Não... não consigo me lembrar dele. Lembro-me que esta é minha cidade-natal, sim, e de algumas cenas avulsas de minha juventude. Mas, além disso, nada.
 Not until a comparatively luminous memory of riding on a train with my imitator at my side.
-Not until a comparatively luminous memory of riding on a train with my imitator at my side.
+Ao menos, até uma memória excepcionalmente vívida de estar andando de trem ao lado de minha imitadora.
 Whatever had happened before that leg of our journey, I do not remember.
-Whatever had happened before that leg of our journey, I do not remember.
+Seja lá o que aconteceu antes daquela etapa em nossa jornada, não consigo me lembrar.
 I only know that I am real, she is false, and I journey to prove such.
-I only know that I am real, she is false, and I journey to prove such.
+Sei apenas que sou real, ela, falsa, e que vivo para provar isso.
 Not at all. But I must keep the faith.
-Not at all. But I must keep the faith.
+Nem um pouco. Mas esta crença mantém-me firme.
 After all, if I am merely some animal that has deluded itself into humanity... well, the ethical quandaries alone would drive me mad.
-After all, if I am merely some animal that has deluded itself into humanity... well, the ethical quandaries alone would drive me mad.
+No fim das contas, se sou meramente um animal em um devaneio de humanidade... bem, as implicações éticas, por si sós, me levariam à loucura.
 Oh, plenty. Scraps of childhood, as I said. Being on the train is the first full memory of my modern era.
-Oh, plenty. Scraps of childhood, as I said. Being on the train is the first full memory of my modern era.
+Ah, várias. Pedaços de infância, como havia mencionado. Estar no trem é minha primeira memória completa de minha era moderna.
 And from there, my memory is mostly whole – though the persistence and clarity of memory is something ethereal and unquantifiable.
-And from there, my memory is mostly whole – though the persistence and clarity of memory is something ethereal and unquantifiable.
+E, a partir de então, minha memória é essencialmente coerente – apesar da persistência e clareza de memórias ser algo etéreo e inquantificável.
 Perhaps mine are fragmented and faded compared to most.
-Perhaps mine are fragmented and faded compared to most.
+Talvez a minha seja fragmentada e esvaída, em comparação às da maioria.
 She likes to elude me, and, though I am loathe to admit it, I her.
-She likes to elude me, and, though I am loathe to admit it, I her.
+Ela gosta de me evitar, e, apesar de odiar admitir, também gosto de evitá-la.
 It is rare we get more than a fleeting moment alone. Things are now... different, however.
-It is rare we get more than a fleeting moment alone.  Things are now... different, however.
+São raras as ocasiões em que passamos mais de um momento a sós. As coisas agora estão... diferentes, no entanto.
 Being here has driven my thoughts to doubt and darker places than that. I have found now answers.
-Being here has driven my thoughts to doubt and darker places than that. I have found now answers.
+Ter vindo aqui levou meus pensamentos à duvida e a lugares ainda mais sombrios. Não consegui encontrar respostas.
 The other Imogene has already left, unable to bear it any longer.
-The other Imogene has already left, unable to bear it any longer.
+A outra Imogene já foi embora – não foi capaz de suportar.
 She left a note stating simply that she knew what she must do, and that she goes now to a place of death and quiet oblivion.
-She left a note stating simply that she knew what she must do, and that she goes now to a place of death and quiet oblivion.
+Ela deixou uma carta simplesmente dizendo que ela já sabia o que precisa fazer, e que ela vai, agora, a um lugar de morte e silente oblívio.
 I choose to interpret it as guidance to find a <imp>burial ground or mausoleum</imp>, and not as her last goodbyes...
-I choose to interpret it as guidance to find a <imp>burial ground or mausoleum</imp>, and not as her last goodbyes...
+Escolhi interpretá-la como uma orientação para encontrar um <imp>local de sepultamento ou um mausoléu</imp>, e não como sua despedida final...
 I’m unsure if there is a difference for us.
-I’m unsure if there is a difference for us.
+Estou incerta se há diferença para nós.
 \PN… I don’t know that we should exist.
-\PN… I don’t know that we should exist.
+\PN… não tenho certeza se deveríamos existir.
 There is something fundamentally wrong with us. Our state is not natural, nor is it tenable.
-There is something fundamentally wrong with us.  Our state is not natural, nor is it tenable.
+Há algo fundamentalmente errado conosco: nosso estado não é natural – tampouco sustentável.
 ...Ignore my macabre ramblings.
-...Ignore my macabre ramblings.
+...Ignore minhas divagações macabras.
 I will follow her, and find the proof of my true existence.
-I will follow her, and find the proof of my true existence.
+Irei seguí-la, e então provarei que minha existência é real.
 If you wish to bear witness to these revelations and watch as her lies crumble around her, come find us.
-If you wish to bear witness to these revelations and watch as her lies crumble around her, come find us.
+Se desejas ser testemunha de tais revelações e assistir às mentiras dela caírem por terra, venha nos encontrar.
 She knows something dire that I do not. I must know what it is.
-She knows something dire that I do not. I must know what it is.
+Ela sabe de algo terrível que eu não sei. Preciso descobrir o que é.
 I'm trying to figure out why certain Avatars appear where they do.
-I'm trying to figure out why certain Avatars appear where they do.
+Estou tentando descobrir o motivo de certos Avatares aparecerem onde aparecem.
 They're often species that'd make sense for the local ecology, but not always.
-They're often species that'd make sense for the local ecology, but not always.
+Eles são frequentemente de espécies que fariam sentido na ecologia local, mas não sempre.
 Sometimes they're just.... somewhat off.
-Sometimes they're just.... somewhat off.
+Às vezes eles são apenas... um tanto estranhos.
 Beats me.
-Beats me.
+Vai entender.
 I heard the stories, but it's still hard to believe that Avatars just... fade from existence when they're defeated.
-I heard the stories, but it's still hard to believe that Avatars just... fade from existence when they're defeated.
+Ouvi os boatos, mas ainda é difícil de acreditar que Avatares apenas... somem da existência quando são derrotados.
 When I saw that you were winning, I was mentally prepared to grab a pickaxe and begin the cleanup efforts.
-When I saw that you were winning, I was mentally prepared to grab a pickaxe and begin the cleanup efforts.
+Quando vi que você estava prestes a ganhar, estava mentalmente preparada para pegar uma picareta e começar o processo de limpeza.
 It's holding a Life Orb!
-It's holding a Life Orb!
+Está segurando um Orbe Da Vida!
 Ohoh, does another fly enter my trap?
-Ohoh, does another fly enter my trap?
+Ohoh, outra mosca entra em minha armadilha?
 Watch yourself, you may find yourself mesmerized.
-Watch yourself, you may find yourself mesmerized.
+Tome cuidado: pode acabar se mesmerizando.
 Tsk! It seems like you were too hot to handle.
-Tsk! It seems like you were too hot to handle.
+Tsc! Me parece que você era quente demais para eu lidar.
 Ah well, I suppose I could always ask Lainie to console me.
-Ah well, I suppose I could always ask Lainie to console me.
+Bom, suponho que sempre posso pedir que Lainie me console.
 A spark. A flash. A line of roses.
-A spark. A flash. A line of roses.
+Uma faísca. Um clarão. Uma fileira de rosas.
 We should take our tango once more from the top.
-We should take our tango once more from the top.
+Deveríamos dançar nosso tango novamente, desde o início.
 But later, my dear.
-But later, my dear.
+Mas depois, meu amor.
 I've found myself as a bit of a historian.
-I've found myself as a bit of a historian.
+Acabei me tornando uma espécie de historiador.
 I'm learning about important dates in history. The founding of Prizca, the fall of the monarchy.
-I'm learning about important dates in history. The founding of Prizca, the fall of the monarchy.
+Estou aprendendo sobre importantes acontecimentos na história: a fundação de Prizca, a queda da monarquia.
 All of them are fascinating, but I believe my favorite is the one we'll have, no?
-All of them are fascinating, but I believe my favorite is the one we'll have, no?
+São todos fascinantes, mas não fascinantes quanto seus olhos nos meus.
 Yes
-Yes
+Sim
 No
-No
+Não
 No thanks.
-No thanks.
+Não, valeu.
 Sure, I'll pay.
-Sure, I'll pay.
+Claro, eu pago.
 Sure thing.
-Sure thing.
+Claro.
 Really?
-Really?
+É sério?
 You're a pain.
-You're a pain.
+Você é um saco.
 What do you mean?
-What do you mean?
+Como assim?
 What else?
-What else?
+O que mais seria?
 ...Which one are you?
-...Which one are you?
+...Qual das duas você é?
 The feeling's mutual.
-The feeling's mutual.
+O sentimento é mútuo.
 Oh?
-Oh?
+Está?
 In... what way?
-In... what way?
+Em... qual sentido?
 Please don't be.
-Please don't be.
+Por favor, não fique.
 How sure are you?
-How sure are you?
+Quão confiante está?
 Any other memories?
-Any other memories?
+Alguma outra memória?
 Where is she now?
-Where is she now?
+Onde ela está agora?
 [Map26]
 What the...
 Mas o quê...
@@ -5343,7 +5343,7 @@ Minha gratidão é inestimável!
 Time to travel the countryside to find where they might need a man of my talents.
 Hora de viajar para o interior para encontrar um lugar onde podem estar precisando de um homem com meus talentos.
 You're broke, just like me! Come back when you can help.
-Você está tão liso quanto eu! Volte para cá quando puder ajudar.
+Você está prestes a falir, assim como eu! Volte para cá quando puder ajudar.
 Though I have no legal authority to stop you, I would ask you refrain from entering the area to the west.
 Apesar de não possuir nenhuma autoridade legal para te impedir, te recomendo evitar entrar na área a oeste.
 Novo College has sent me to study the curious ecological conditions of the shipwrecks there.
@@ -9255,7 +9255,7 @@ Isso seria digno de minha atenção.
 Then leave me to my grinding.
 Então me deixa jogar em paz.
 Wow, you have very little money. That's almost impressive.
-Uau, você tá bem liso. Seria impressionante, se não fosse triste.
+Uau, você não tem um puto no bolso. Seria impressionante, se não fosse triste.
 Like a low percent run of real life.
 É tipo uma <i>run Low%</i> da vida real.
 One second, one second... 3% HP left...
@@ -34921,7 +34921,7 @@ Stamp Down
 Tail Slam
 Tail Slam
 Trample
-Trample
+Atropelar
 Tread On
 Tread On
 Vent
@@ -41632,7 +41632,7 @@ Shadow Shield
 Shed Skin
 Shed Skin
 Sheer Force
-Sheer Force
+Força Absoluta
 Shield Dust
 Shield Dust
 Shields Down
