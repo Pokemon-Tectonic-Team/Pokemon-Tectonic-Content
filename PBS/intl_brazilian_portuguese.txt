@@ -1761,11 +1761,11 @@ They make good tools.
 [Map12]
 [Map13]
 A locked door. It has a slot for a keycard.
-A locked door. It has a slot for a keycard.
+Uma porta trancada. Possui uma abertura para a inserção de um cartão de acesso.
 You insert the Team Chasm ID Card.
-You insert the Team Chasm ID Card.
+Você insere o Cartão ID Chasm.
 The door unlocks with a click.
-The door unlocks with a click.
+A porta destranca com um clique.
 Hey, Trainer. You seem like the classy type.
 Hey, Trainer. You seem like the classy type.
 Let me guess. Born rich? Toxic family relationships? Rampant imposter syndrome coupled with a crippling need to define yourself?
@@ -6488,93 +6488,93 @@ Sure.
 Sure.
 [Map82]
 A locked door. It has a slot for a keycard.
-A locked door. It has a slot for a keycard.
+Uma porta trancada. Possui uma abertura para a inserção de um cartão de acesso.
 You insert the Team Chasm ID Card.
-You insert the Team Chasm ID Card.
+Você insere o Cartão ID Chasm.
 The door unlocks with a click.
-The door unlocks with a click.
+A porta destranca com um clique.
 I like to go to this cool hilly place near here.
-I like to go to this cool hilly place near here.
+Eu gosto de ir pro lugar montanhoso que fica perto daqui.
 It's where I can watch Gogoat and Dubwool! They fight each other all the time.
-It's where I can watch Gogoat and Dubwool! They fight each other all the time.
+É onde eu observo Gogoat e Dubwool! Eles brigam entre si o tempo todo.
 I tried fighting too, but they didn't want to fight me back.
-I tried fighting too, but they didn't want to fight me back.
+Eu tentei brigar, também, mas eles não quiseram brigar comigo de volta.
 I guess my current form is too weak.
-I guess my current form is too weak.
+Acho que minha atual forma é muito fraca.
 Hey, kid. You look like a trainer with discerning taste.
-Hey, kid. You look like a trainer with discerning taste.
+Ei, jovem. Você parece ter bom gosto.
 Keep it on the down low, but truth is, I'm actually a Pokemon Professor.
-Keep it on the down low, but truth is, I'm actually a Pokemon Professor.
+Não conta pra ninguém, mas, na verdadde, sou um Professor Pokémon.
 Yep, Professor, uh, Manchineel, that's my name.
-Yep, Professor, uh, Manchineel, that's my name.
+Pois é. Professor, hã, Mancenilheira. Esse é meu nome.
 I bet you're on the lookout for all sortsa rare Pokemon, and buddy do I have a deal for you.
-I bet you're on the lookout for all sortsa rare Pokemon, and buddy do I have a deal for you.
+Aposto que está em busca de todo tipo de Pokémon raros, e, olha, eu tenho uma baita oferta para você.
 If yer interested, I'll be here any time.
-If yer interested, I'll be here any time.
+Se tiver interesse, sabe onde me encontrar.
 Ey, there you are. I knew you'd make the right decision.
-Ey, there you are. I knew you'd make the right decision.
+Opaa, aí está você. Sabia que você tomaria a decisão correta.
 When the great and generous Professor Manchineel has a deal for ya, you can't just walk away.
-When the great and generous Professor Manchineel has a deal for ya, you can't just walk away.
+Quando o grande e generoso Professor Mancenilheira tem uma oferta para você, você não pode só igorar.
 So how about it?
-So how about it?
+E aí, o que me diz?
 Great, fantastic.
-Great, fantastic.
+Ótimo, fantástico.
 Here's the rub: Here with me I've got some very special Pokemon.
-Here's the rub: Here with me I've got some very special Pokemon.
+A questão é a seguinte: aqui comigo, eu tenho alguns Pokémon muito especiais.
 You kids like starter Pokemon right? All rare and one-of-a-kind.
-You kids like starter Pokemon right? All rare and one-of-a-kind.
+Vocês, gente jovem, gostam de Pokémon iniciais, né? Raros, únicos e tudo mais.
 Well I've got some for you right here.
-Well I've got some for you right here.
+Bom, tenho alguns desses para você bem aqui comigo.
 All I need from you is one measly Eevee Ticket.
-All I need from you is one measly Eevee Ticket.
+Tudo que preciso de você é um mísero Bilhete Eevee.
 Not like you'll be heading all the way to the big city to use it yourself.
-Not like you'll be heading all the way to the big city to use it yourself.
+Não é como se você fosse viajar até a cidade grande só pra usar essa coisa.
 Whaddya say?
-Whaddya say?
+O que me diz?
 I tell ya, yer making the right choice.
-I tell ya, yer making the right choice.
+Tô te dizendo, você está fazendo a escolha certa.
 Which of these little guys didja have yer eye on?
-Which of these little guys didja have yer eye on?
+Qual desses carinhas você tava querendo?
 Oh, great choice. Don't tell the others I said this, but this one's my favorite.
-Oh, great choice. Don't tell the others I said this, but this one's my favorite.
+Ah, ótima escolha. Não conte para ninguém que eu te disse isso, mas esse aí é o meu favorito.
 This sneaky little bastard can make off with your foe's items or cut and run when the going gets tough.
-This sneaky little bastard can make off with your foe's items or cut and run when the going gets tough.
+Esse canalhinha sorrateiro pode roubar os itens do seu adversário ou dar no pé quando a chapa esquentar.
 Reminds me of a certain someone.
-Reminds me of a certain someone.
+Me lembra de um certo alguém.
 This little bundl'a joy can dance all over the place and throw items back and fro.
-This little bundl'a joy can dance all over the place and throw items back and fro.
+Esse pacotinho de felicidade gosta de dançar pra todo lado e de jogar itens pra lá e para cá.
 This blind little cutie can feel your foe moving and get in there first.
-This blind little cutie can feel your foe moving and get in there first.
+Essa fofurinha cega pode sentir seu adversário se movendo e chegar lá antes dele.
 This is the one you want?
-This is the one you want?
+Esse é o que você quer?
 A pleasure doin' business wit'ya kid.
-A pleasure doin' business wit'ya kid.
+Um prazer fazer negócios com você, jovem.
 Now I gotta split to go find the next suck- ah, satisfied customer.
-Now I gotta split to go find the next suck- ah, satisfied customer.
+Agora eu preciso dar no pé para encontrar o próximo otá... hã... cliente satisfeito.
 Alright, alright, no rush, take your time.
-Alright, alright, no rush, take your time.
+Tudo bem, tudo bem. Sem pressa, no seu tempo.
 'snot like I gotta run or anything.
-'snot like I gotta run or anything.
+Não é como se eu estivesse com pressa ou coisa assim.
 What is this, some kinda scam? You ain't got no Eevee Ticket!
-What is this, some kinda scam? You ain't got no Eevee Ticket!
+O que é isso? Algum tipo de golpe? Você nem tem um Bilhete Eevee!
 Come back when you've got the goods.
-Come back when you've got the goods.
+Volte quando tiver o que pedi.
 I tell ya kid, yer missin' out.
-I tell ya kid, yer missin' out.
+Tô te avisando, jovem: você tá perdendo.
 I'll be here if you change your mind.
-I'll be here if you change your mind.
+Estarei aqui se mudar de ideia.
 *psst* Hey kid, c'mere.
-*psst* Hey kid, c'mere.
+*psst* Ei, jovem! Vem cá.
 You look like a trainer with discerning taste.
-You look like a trainer with discerning taste.
+Você parece ter bom gosto.
 I've traveled throughout the world, and I've seen all sorts of different weathers.
-I've traveled throughout the world, and I've seen all sorts of different weathers.
+Viajei ao redor do mundo, e acabei presenciando todo tipo de clima.
 Likewise, I stocked up on the TMs which generate them.
-Likewise, I stocked up on the TMs which generate them.
+Da mesma forma, estoquei comigo as TMs que os provocam.
 Yes
-Yes
+Sim
 No
-No
+Não
 M. Treecko
 M. Treecko
 M. Torchic
@@ -6582,14 +6582,14 @@ M. Torchic
 M. Mudkip
 M. Mudkip
 Check MasterDex
-Check MasterDex
+Ver MasterDex
 [Map83]
 A locked door. It has a slot for a keycard.
-A locked door. It has a slot for a keycard.
+Uma porta trancada. Possui uma abertura para a inserção de um cartão de acesso.
 You insert the Team Chasm ID Card.
-You insert the Team Chasm ID Card.
+Você insere o Cartão ID Chasm.
 The door unlocks with a click.
-The door unlocks with a click.
+A porta destranca com um clique.
 Hello. I'm an expert in the field of Pokemon ailments.
 Hello. I'm an expert in the field of Pokemon ailments.
 I have a selection of Technical Machines that will allow your Pokemon to employ them.
@@ -17015,11 +17015,11 @@ Battle him.
 Battle him.
 [Map229]
 A locked door. It has a slot for a keycard.
-A locked door. It has a slot for a keycard.
+Uma porta trancada. Possui uma abertura para a inserção de um cartão de acesso.
 You insert the Team Chasm ID Card.
-You insert the Team Chasm ID Card.
+Você insere o Cartão ID Chasm.
 The door unlocks with a click.
-The door unlocks with a click.
+A porta destranca com um clique.
 You saw those really big cacti out there, with all the arms?
 You saw those really big cacti out there, with all the arms?
 Those are Saguaro cacti, native to Orre.
@@ -18573,11 +18573,11 @@ Speaking of forgetting, I'm sure there's something I was supposed to be doing...
 Speaking of forgetting, I'm sure there's something I was supposed to be doing... oh well!
 [Map273]
 A locked door. It has a slot for a keycard.
-A locked door. It has a slot for a keycard.
+Uma porta trancada. Possui uma abertura para a inserção de um cartão de acesso.
 You insert the Team Chasm ID Card.
-You insert the Team Chasm ID Card.
+Você insere o Cartão ID Chasm.
 The door unlocks with a click.
-The door unlocks with a click.
+A porta destranca com um clique.
 My stint as a ninja superhero was cut short due to... that being illegal.
 My stint as a ninja superhero was cut short due to...  that being illegal.
 So, I have to rid myself of these TMs somehow.
@@ -22704,11 +22704,11 @@ But it's surprisingly low cost.
 [Map337]
 [Map338]
 A locked door. It has a slot for a keycard.
-A locked door. It has a slot for a keycard.
+Uma porta trancada. Possui uma abertura para a inserção de um cartão de acesso.
 You insert the Team Chasm ID Card.
-You insert the Team Chasm ID Card.
+Você insere o Cartão ID Chasm.
 The door unlocks with a click.
-The door unlocks with a click.
+A porta destranca com um clique.
 It's a vending machine!
 É uma máquina de vendas!
 However, it no longer holds any drinks.
@@ -27268,11 +27268,11 @@ It's drawn in crayon and chalk.
 The hands on the clock run backwards at high speed.
 The hands on the clock run backwards at high speed.
 A locked door. It has a slot for a keycard.
-A locked door. It has a slot for a keycard.
+Uma porta trancada. Possui uma abertura para a inserção de um cartão de acesso.
 You insert the Team Chasm ID Card.
-You insert the Team Chasm ID Card.
+Você insere o Cartão ID Chasm.
 The door unlocks with a click.
-The door unlocks with a click.
+A porta destranca com um clique.
 [Map457]
 This dynamite was meant to clear rubble in Velenz.
 This dynamite was meant to clear rubble in Velenz.
@@ -51787,7 +51787,7 @@ Apollyon
 Snow Whip
 Snow Whip
 Prof. Manchineel
-Prof. Manchineel
+Prof. Mancenilheira
 Enter text using the keyboard. Press<<n>>Enter to confirm, or Esc to cancel.
 Digite usando o teclado. Pressione Enter<<n>>para confirmar ou Esc para cancelar.
 Enter text using the keyboard.<<n>>Press Enter to confirm.
@@ -58621,9 +58621,9 @@ Primeiro, deveríamos restaurar seus Pokémon à saúde máxima.
 I'll take your Pokémon for a few seconds.
 Pegarei seus Pokémon por alguns segundos.
 Let's get your Pokémon patched up.
-Let's get your Pokémon patched up.
+Vamos curar seus Pokémon.
 Here, let me heal your Pokémon.
-Here, let me heal your Pokémon.
+Aqui, deixe-me curar seus Pokémon.
 We hope you excel!
 Te desejamos sorte!
 Best of luck to you!
@@ -62149,9 +62149,9 @@ Odds are displayed for the {1} round matches, gathered from a spectator poll.
 {1} percent of respondents expect you to win against {2}.
 {1} percent of respondents expect you to win against {2}.
 You a big shot, huh? Well, we're here to supply you.
-You a big shot, huh? Well, we're here to supply you.
+Você é um baita fenômeno, né? Bom, estamos aqui para te suprir.
 Get your supplies here!
-Get your supplies here!
+Compre seus suprimentos aqui!
 Hello, and welcome to the Starters Store!
 Hello, and welcome to the Starters Store!
 I'm the {1}-type starters salesperson!
@@ -62267,7 +62267,7 @@ Return to me if you encounter any in your travels.
 My hopes go with you. Live the legend!
 My hopes go with you. Live the legend!
 Care to buy some?
-Care to buy some?
+Quer comprar alguns?
 You see their value, don't you?
 You see their value, don't you?
 Maybe you'll be the one to bring them back?
