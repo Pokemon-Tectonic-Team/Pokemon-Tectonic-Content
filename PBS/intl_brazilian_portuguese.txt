@@ -2128,79 +2128,79 @@ Yes.
 Sim.
 [Map20]
 The alloyed blade crumbled into pieces.
-The alloyed blade crumbled into pieces.
+A lâmina metálica se desfaz em pedaços.
 I can sense the life force of all living things.
-I can sense the life force of all living things.
+Posso sentir a energia vital de todas as coisas vivas.
 What makes this chamber so fearful is that... I cannot sense a thing.
-What makes this chamber so fearful is that... I cannot sense a thing.
+O que torna esta câmara inquietante para mim é o fato de que... não consigo sentir nada aqui.
 I'll have to report this failure back to my master.
-I'll have to report this failure back to my master.
+Terei de relatar essa falha ao meu mestre.
 I could not find the elixir of legends.
-I could not find the elixir of legends.
+Não fui capaz de encontrar o elixir das lendas.
 I have vanquished all manner of monster to arrive here.
-I have vanquished all manner of monster to arrive here.
+Derrotei todo tipo de monstro para chegar até aqui.
 For skill enough to defeat me, I deeply respect you.
-For skill enough to defeat me, I deeply respect you.
+Por ter habilidade suficiente para me derrotar, te respeito profundamente.
 But nothing happened...
-But nothing happened...
+Mas nada aconteceu...
 I am camped out here.
-I am camped out here.
+Estou só acampando aqui.
 There is no reason to be suspicious.
-There is no reason to be suspicious.
+Não tem motivos para suspeitar de nada.
 I had forgotten, but my camping spot is actually elsewhere.
-I had forgotten, but my camping spot is actually elsewhere.
+Tinha me esquecido, mas meu local de acampamento fica, na verdade, em outro lugar.
 Please do not follow me.
-Please do not follow me.
+Por favor, não me siga.
 Roasting smores. That is an aspect of camping that I enjoy.
-Roasting smores. That is an aspect of camping that I enjoy.
+Assar s'mores. Essa é uma das coisas sobre acampar que eu mais gosto.
 I love flowers. Do you love flowers?
-I love flowers. Do you love flowers?
+Amo flores. Você ama flores?
 I must go. The reason certainly involves aromas, for that is what category of person I am.
-I must go. The reason certainly involves aromas, for that is what category of person I am.
+Tenho que ir. A razão certamente envolve aromas, pois esse é o tipo de pessoa que sou.
 Smelling flowers. Their aroma. It is simply the best.
-Smelling flowers. Their aroma. It is simply the best.
+Cheirar flores. Seu aroma. É, simplesmente, o melhor.
 The hike out here was quite nice. A battle will be a good way to end my trip. Let us begin now.
-The hike out here was quite nice. A battle will be a good way to end my trip. Let us begin now.
+A caminhada por aqui foi bastante agradável. Uma batalha será uma boa forma de finalizar meu passeio. Vamos começar agora.
 I assure you that my interest in hiking is very normal.
-I assure you that my interest in hiking is very normal.
+Te asseguro que meu interesse em caminhar é muito normal.
 To prove it, I will now hike away from here.
-To prove it, I will now hike away from here.
+Para provar isso, caminharei, agora, para longe daqui.
 Battling is very similar to rock climbing, in that I partake in both.
-Battling is very similar to rock climbing, in that I partake in both.
+A atividade de batalhar é muito similar à de escalada, no sentido de que tomo parte em ambas.
 An extreme force pushes back!
-An extreme force pushes back!
+Uma força extrema te empurra para trás!
 Trimmed metallic vines hang from the wall. There's not enough material to make anything further.
-Trimmed metallic vines hang from the wall. There's not enough material to make anything further.
+Vinhas metálicas podadas estão suspensas na parede. Não há material suficiente para fazer alguma coisa.
 There was an entire cave of iron plants and no one mentioned it to me?
-There was an entire cave of iron plants and no one mentioned it to me?
+Tem toda uma caverna de plantas de ferro e ninguém mencionou ela para mim?
 Isn't that a little suspicious?
-Isn't that a little suspicious?
+Isso não é um pouco suspeito?
 But who among us knows the truth about what happened here?
-But who among us knows the truth about what happened here?
+Mas quem, entre nós, sabe a verdade a respeito do que aconteceu aqui?
 This whole place shouldn't exist. I can't find words to describe how I'm feeling.
-This whole place shouldn't exist. I can't find words to describe how I'm feeling.
+Todo esse lugar não deveria existir. Não consigo achar palavras para descrever como estou me sentindo.
 It's like, a feeling of dread. That something is about to happen.
-It's like, a feeling of dread. That something is about to happen.
+É tipo... uma sensação de puro medo. De que algo está para acontecer.
 That a few words could cause something to wake up.
-That a few words could cause something to wake up.
+Que apenas algumas palavras podem causar o despertar de alguma coisa.
 Stop! The law states clearly that this is an illegal action!
-Stop! The law states clearly that this is an illegal action!
+Pare! A Lei estabelece claramente que esta é uma atitude ilegal!
 A ranger station is above us, in Grouz. I know that because I saw it myself.
-A ranger station is above us, in Grouz. I know that because I saw it myself.
+Há uma estação Ranger acima de nós, em Grauze. Sei disso porque eu mesma a vi.
 I will go there to report your illegal activities.
-I will go there to report your illegal activities.
+Irei até lá e denunciarei suas atividades ilegais.
 As an agent of the law, I am dissapointed that I was not able to overpower you.
-As an agent of the law, I am dissapointed that I was not able to overpower you.
+Como uma agente da lei, estou desapontada pelo fato de não ter sido capaz de te parar.
 I'm sure there'll be some rare Pokémon to find here!
-I'm sure there'll be some rare Pokémon to find here!
+Tenho certeza que há alguns Pokémon raros a serem encontrados por aqui!
 Early Chasm reports talk about a metallic giant lurking among the trees.
-Early Chasm reports talk about a metallic giant lurking among the trees.
+Alguns registros antigos da Equipe Chasm falam de um gigante metálico que espreita entre as árvores.
 Something they didn't expect to see here, so, I don't mean Registeel.
-Something they didn't expect to see here, so, I don't mean Registeel.
+Era algo que não esperavam encontrar aqui, então não, não me refiro a Registeel.
 Maybe you'll be able to find it. Good luck.
-Maybe you'll be able to find it. Good luck.
+Talvez você consiga encontrá-lo. Boa sorte.
 Collecting a loss like that wasn't on my agenda.
-Collecting a loss like that wasn't on my agenda.
+Uma derrota como essa não estava em meus planos.
 [Map21]
 One moment – there we go. I’m going to take notes this time.
 One moment – there we go. I’m going to take notes this time.
@@ -40072,7 +40072,7 @@ Bolas Amigas
 Luxury Balls
 Bolas Luxo
 Timer Balls
-Bolas Tempos
+Bolas Tempo
 Quick Balls
 Bolas Rápidas
 Nest Balls
@@ -58445,63 +58445,63 @@ Circuit puzzle with ID {1} somehow loaded in illegal state.
 The circuit is in an illegal state! You can't leave it like this.
 The circuit is in an illegal state! You can't leave it like this.
 A smooth but tough metallic surface.
-A smooth but tough metallic surface.
+Uma superfície metálica lisa, mas resistente.
 Use it to sharpen an alloyed lump?
-Use it to sharpen an alloyed lump?
+Usá-la para afiar um pedaço metálico?
 You sharpen the alloyed lump, transforming it into a useful tool!
-You sharpen the alloyed lump, transforming it into a useful tool!
+Você afia o pedaço metálico, transformando-o em um
 You decide to do nothing with the strange surface.
-You decide to do nothing with the strange surface.
+Você decide não fazer nada com a superfície peculiar.
 It'd be good at sharpening other metal.
-It'd be good at sharpening other metal.
+Seria boa para afiar outros metais.
 A metal sapling. It appears rather tough.
-A metal sapling. It appears rather tough.
+Uma muda de árvore de metal. Parece bem resistente.
 Use an alloyed blade to chop it down?
-Use an alloyed blade to chop it down?
+Usar uma lâmina metálica para cortá-la?
 You take a swing at the sapling!
-You take a swing at the sapling!
+Você golpeia a muda com sua lâmina!
 You decide to leave the sapling alone.
-You decide to leave the sapling alone.
+Vocẽ decide deixar a muda de árvore em paz.
 You'd need a tool made of a strong material to cut it.
-You'd need a tool made of a strong material to cut it.
+Você precisaria de uma ferramenta feita de um material resistente para poder cortá-la.
 Strands of a strangely tough metal hang from the wall.
-Strands of a strangely tough metal hang from the wall.
+Fios de um metal estranhamente resistente estão suspensos na parede.
 Harvest the metallic vines?
-Harvest the metallic vines?
+Coletar as vinhas metálicas?
 You slash through the metallic vines!
-You slash through the metallic vines!
+Você corta as vinhas metálicas!
 You leave the strands alone.
-You leave the strands alone.
+Você deixa os fios como estão.
 A metal plant with a golden orb. You feel the urge to strike it.
-A metal plant with a golden orb. You feel the urge to strike it.
+Uma planta metálica com um orbe dourado. Você sente vontade de golpeá-lo.
 Hit the golden orb?
-Hit the golden orb?
+Golpear o orbe dourado?
 With your strike, a noise emanates through the thicket!
-With your strike, a noise emanates through the thicket!
+Com o seu golpe, um barulho ecoa pelo bosque!
 You refrain from striking the orb.
-You refrain from striking the orb.
+Você decide não golpear o orbe.
 A tall metal tree. One side has been notched by something sharp.
-A tall metal tree. One side has been notched by something sharp.
+Uma árvore de metal alta. Um dos lados foi cortado por algo afiado.
 Finish chopping it down?
-Finish chopping it down?
+Terminar de cortá-la?
 You take a swing at the tree with an alloyed blade.
-You take a swing at the tree with an alloyed blade.
+Você desfere um golpe na árvore usando uma lâmina metálica.
 The alloyed blade crumbles into pieces.
-The alloyed blade crumbles into pieces.
+A lâmina metálica se desfaz em pedaços.
 You refrain from chopping the tree.
-You refrain from chopping the tree.
+Você decide não cortar a árvore.
 You could probably cut it down, with the right tool.
-You could probably cut it down, with the right tool.
+Você, provavelmente, conseguiria cortá-la com a ferramenta correta.
 A pair of metal posts are stuck into the ground.
-A pair of metal posts are stuck into the ground.
+Um par de hastes de metal estão cravadas no chão.
 String an alloyed wire between the posts?
-String an alloyed wire between the posts?
+Esticar um fio metálico entre as hastes?
 You place a trip wire!
-You place a trip wire!
+Você coloca um fio-armadilha!
 You leave the posts alone.
-You leave the posts alone.
+Você deixa as hastes como estão.
 It'd be a good place to set a trip wire.
-It'd be a good place to set a trip wire.
+Seria um bom lugar para colocar um fio-armadilha.
 Could not find event to show emote for.
 Could not find event to show emote for.
 It left behind some items!
