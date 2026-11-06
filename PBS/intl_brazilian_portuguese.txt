@@ -6642,7 +6642,7 @@ Yes
 Yes
 [Map86]
 It attacks!
-It attacks!
+Ele ataca!
 [Map87]
 It's a statue of a Luxray. A small version of the LuxTech logo is emblazoned on its right breast.
 It's a statue of a Luxray. A small version of the LuxTech logo is emblazoned on its right breast.
