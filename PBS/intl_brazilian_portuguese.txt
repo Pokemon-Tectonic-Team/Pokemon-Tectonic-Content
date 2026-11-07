@@ -25636,53 +25636,53 @@ Property of the Cavalaz family.
 Property of the Cavalaz family.
 [Map412]
 The Meltan is happily chowing down on some metal.
-The Meltan is happily chowing down on some metal.
+O Meltan está alegremente devorando um pouco de metal.
 It still looks pretty hungry, though...
-It still looks pretty hungry, though...
+Apesar disso, ele ainda parece um pouco faminto...
 You direct Meltan towards the big metal crate.
-You direct Meltan towards the big metal crate.
+Você direciona Meltan para a grande caixa de metal.
 You decide to stop bothering this tiny glutton.
-You decide to stop bothering this tiny glutton.
+Você decide para de incomodar este pequeno glutão.
 I make money by winning Pokemon Battles.
-I make money by winning Pokemon Battles.
+Eu ganho dinheiro por ganhar Batalhas Pokémon.
 Money is made of metal, and therefore desirable.
-Money is made of metal, and therefore desirable.
+Dinheiro é feito de metal e, portanto, é desejável.
 Your actions have caused me to feel fear.
-Your actions have caused me to feel fear.
+Suas ações me causaram medo.
 I doubt that we will meet again.
-I doubt that we will meet again.
+Duvido que nos encontraremos novamente.
 You have defeated me, but not so thoroughly that I would become afraid of you.
-You have defeated me, but not so thoroughly that I would become afraid of you.
+Você me derrotou, mas não de uma forma que me faria ter medo de você.
 Do not you just love the smell of metal?
-Do not you just love the smell of metal?
+Você não ama o cheiro de metal?
 The texture is also very pleasing.
-The texture is also very pleasing.
+A textura, também, é muito agradável.
 It's a yummy-wummy crate made of metal.
-It's a yummy-wummy crate made of metal.
+E uma deliciosa caixa de metal.
 Unlike the others, this Meltan seems to have taken an interest in you.
-Unlike the others, this Meltan seems to have taken an interest in you.
+Diferentemente dos outros, este Meltan parece ter se interessado em você.
 It probably wants to join your team.
-It probably wants to join your team.
+Ele provavelmente quer fazer parte da sua equipe.
 You notice a Poke Ball partially submerged into its liquid metal.
-You notice a Poke Ball partially submerged into its liquid metal.
+Você nota uma Pokébola parcialmente submersa em seu metal líquido.
 Accept the Meltan onto your team?
-Accept the Meltan onto your team?
+Aceitar o Meltan em sua equipe?
 You decide to leave the Meltan here with the others.
-You decide to leave the Meltan here with the others.
+Você decide deixar o Meltan aqui com os outros.
 At least for now.
-At least for now.
+Pelo menos, por enquanto.
 With a minor effort, you retrieve the Poke Ball from inside of the Meltan.
-With a minor effort, you retrieve the Poke Ball from inside of the Meltan.
+Com pouco esforço, você retira a Pokébola de dentro do Meltan.
 It spins its head in excitement, then enters the Poke Ball.
-It spins its head in excitement, then enters the Poke Ball.
+Ele roda sua cabeça em empolgação, e então entra na Pokébola.
 Eat the metal crate
-Eat the metal crate
+Comer a caixa de metal.
 Leave it alone
-Leave it alone
+Deixá-lo como está.
 No.
-No.
+Não.
 Yes.
-Yes.
+Sim.
 [Map413]
 ... Leave.
 ... Leave.
