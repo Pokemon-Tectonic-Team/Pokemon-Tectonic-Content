@@ -61557,7 +61557,7 @@ Eita! {1} de repente abraçou {2}.
 {1} is rubbing itself against {2} affectionately.
 {1} está afetuosamente se esfregando em {2}.
 {1} bumps its head gently against {2}'s hand.
-{1} gentilmente encosta sua cabeça na mão de {2].
+{1} gentilmente encosta sua cabeça na mão de {2}.
 {1} rolls over and looks at {2} expectantly.
 {1} rola no chão e olha para {2} com expectativa.
 {1} is looking at {2} with trusting eyes.
