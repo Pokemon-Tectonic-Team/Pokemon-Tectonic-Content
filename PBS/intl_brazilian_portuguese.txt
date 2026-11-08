@@ -58805,19 +58805,19 @@ um céu levemente nublado sem precipitação
 Oh? They dropped something else as well!
 Ah? Deixou cair mais alguma coisa!
 The fleeing trainer dropped some food!
-O treinador que fugiu deixou cair um pouco de comida!
+A pessoa que fugiu deixou cair um pouco de comida!
 Pro Trainer Level {1}
-Treinador Profissional Nível {1}
+Treinador/a/e Profissional Nível {1}
 The fleeing trainers dropped some food!
-Os treinadores que fugiram deixaram cair um pouco de comida!
+As pessoas que fugiram deixaram cair um pouco de comida!
 One of the fleeing trainers dropped a candy!
-Um dos treinadores que fugiram deixou cair um doce!
+Uma das pessoas que fugiram deixou cair um doce!
 The fleeing trainer dropped a candy!
-O treinador que fugiu deixou cair um doce!
+A pessoa que fugiu deixou cair um doce!
 The fleeing trainers dropped some candies!
-Os treinadores que fugiram deixaram cair alguns doces!
+As pessoas que fugiram deixaram cair alguns doces!
 The fleeing trainer dropped some candies!
-O treinador que fugiu deixou cair alguns doces!
+A pessoa que fugiu deixou cair alguns doces!
 \p[{1}]Also, {2} found some more candy nearby!
 \p[{1}]Além disso, {2} encontrou mais doces por perto!
 Unassigned level passed to pbTrainerDropsItem: {1}
