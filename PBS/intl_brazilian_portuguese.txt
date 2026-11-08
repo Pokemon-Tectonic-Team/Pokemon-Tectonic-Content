@@ -254,17 +254,17 @@ That is all. I will distract you no further, young champion.
 She must really want to talk with you.
 She must really want to talk with you.
 Hello to you, young one.
-Hello to you, young one.
+Olá para você, jovem.
 It is I, Dr. Hekata.
-It is I, Dr. Hekata.
+Sou eu: Dra. Hekata.
 Do not worry about how I learned of your cellphone number. I simply divined it.
-Do not worry about how I learned of your cellphone number. I simply divined it.
+Não te preocupes sobre como consegui teu número de telefone. Simplesmente o adivinhei.
 I have a topic to discuss of some importance.
-I have a topic to discuss of some importance.
+Tenho um tópico de certa importância sobre o qual gostaria de discutir.
 I beseech you—<imp>visit my abode in Grouz</imp>. There we shall discuss.
-I beseech you—<imp>visit my abode in Grouz</imp>.  There we shall discuss.
+Suplico-lhe — <imp>visite minha morada em Grauze</imp>. Lá, poderemos conversar.
 They must really want to talk with you.
-They must really want to talk with you.
+Essa pessoa quer muito falar com você.
 Apologies for the interruption to your adventure, young master.
 Apologies for the interruption to your adventure, young master.
 However, given that you've sent a number of Pokemon to Storage, I thought it best that I inform you of my project.
