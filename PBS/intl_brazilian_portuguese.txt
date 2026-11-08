@@ -23474,29 +23474,29 @@ The force of the Ultra Wormhole pushes you back!
 A força da Ultrafenda espacial te empurra para trás!
 [Map350]
 ...It’s a Ditto.
-...It’s a Ditto.
+...É uma Ditto.
 It seems slightly somber, and slightly relieved. It bears a familiar demeanor.
-It seems slightly somber, and slightly relieved. It bears a familiar demeanor.
+Parece um pouco sombria e um pouco aliviada. Tem um comportamento familiar.
 As you approach, it regards you with an uncanny stare, as if it’s peering into your soul.
-As you approach, it regards you with an uncanny stare, as if it’s peering into your soul.
+Ao se aproximar, ela te olha com um olhar inquietante, como se estivesse observando sua alma.
 It seems more than willing to accompany you.
-It seems more than willing to accompany you.
+Parece mais do que disposta a te acompanhar.
 The Ditto allows itself to be caught without a trace of trepidation.
-The Ditto allows itself to be caught without a trace of trepidation.
+A Ditto se permite ser capturada sem um traço de trepidação.
 You know that it has the utmost trust in you.
-You know that it has the utmost trust in you.
+Você sabe que ela tem absoluta confiança em você.
 The Ditto waits patiently for you to catch it, but does not press the issue.
-The Ditto waits patiently for you to catch it, but does not press the issue.
+A Ditto espera pacientemente que você a capture, mas não força a situação.
 It will remain here. It likes it here. It’s always liked graveyards.
-It will remain here. It likes it here. It’s always liked graveyards.
+Ela ficará aqui. Ela gosta daqui. Ela sempre gostou de cemitérios.
 Most of the tombstone's text is unreadable, but you can make out a few words.
-Most of the tombstone's text is unreadable, but you can make out a few words.
+A maior parte do texto da lápide é ilegível, mas você consegue discernir algumas palavras.
 "... in another time, in another place."
-"... in another time, in another place."
+"... em outros tempos, em outros lugares."
 Catch Imogene.
-Catch Imogene.
+Capturar Imogene.
 Don't catch Imogene.
-Don't catch Imogene.
+Não capturar Imogene.
 [Map351]
 Hey! I’m still carrying the embodiment of an empty starless sky with me!
 Hey! I’m still carrying the embodiment of an empty starless sky with me!
