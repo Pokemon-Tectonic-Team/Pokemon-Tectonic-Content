@@ -692,6 +692,7 @@ sp.form) && !Settings::DEX_SHOWS_ALL_FORMS
                     overlay.blt(xLeft + immuneOffset, yBase + 30 + 36 * index, @typebitmap.bitmap, typerect)
                 end
             end
+            drawTypeMatchups(overlay, matchups, [_INTL("Super:"), _INTL("Not Very:"), _INTL("No Effect:")], 0)
         end
     end
 
