@@ -813,7 +813,7 @@ I really wish the vendor here would sell coffee.
 Desearía que el vendedor aquí vendiera café.
 There's a high demand for it, and no one wants to walk through an entire cave just to visit the cafe in Novo Town.
 Hay una gran demanda de este, y nadie quiere caminar a través de una cueva entera sólo para visitar la cafetería en Pueblo Novo.
-The crate is emblazoned with the logo for a "Laverre City Manufactoring Co."
+The crate is emblazoned with the logo for a "Laverre City Manufacturing Co."
 Sobre la caja hay estampado un logo de "Manufacturación Ciudad Romantis SA."
 You and Helena had something secretive to discuss, is that it?
 Tú y Helena tienen algo secreto a discutir, ¿Eso es?
@@ -859,8 +859,8 @@ Just like that, my team's put to the sidelines.
 Y así nada más, mi equipo fue llevado al banquillo.
 A knack for tactics, that's what you got. Helena'll be impressed, I know it.
 Se te dan muy bien las tácticas. Helena estará impresionada, lo sé.
-Healing centers uhh... to the west. So go off and do that now.
-Los Centros Pokémon aah... al oeste. Así que ve y haz eso ahora.
+Healing Center's uhh... to the west. So go off and do that now.
+El centro Pokémon está eeeh... al oeste. Así que ve y haz lo que debas.
 Healing center's uhh... to the west. So go off and do that now.
 El centro Pokémon está eeeh... al oeste. Así que ve y haz lo que debas.
 She just switches around a lot? That's the "tactics" everyone around here's been hyping up?
@@ -2340,6 +2340,12 @@ Your Pokemon are now healed.
 Tus Pokémon ahora están curados.
 [Map24]
 [Map25]
+What're you doing?!
+¡¿Qué haces?!
+You're \PN, right? The trainer the Professor called in?
+¿Eres \PN, cierto? ¿El entrenador que la Profesora llamó?
+So go destroy that Avatar before we're all killed!
+¡Así que ve a destruir ese Avatar antes de que nos mate!
 Presenting, my very own Flex-type attack!
 ¡Presentando, mi propio ataque de tipo Flexible!
 Is it Physical, you ask? Special, perhaps? It's both, of course!
@@ -2354,12 +2360,6 @@ Truly you've struck the motherload of moves!
 ¡Verdaderamente has encontrado lo mejor en movimientos!
 Fine... I just wanted something to do now that the mine's closed...
 Bien… sólo quería algo que hacer ahora que la mina que la mina cerró…
-What're you doing?!
-¡¿Qué haces?!
-You're \PN, right? The trainer the Professor called in?
-¿Eres \PN, cierto? ¿El entrenador que la Profesora llamó?
-So go destroy that Avatar before we're all killed!
-¡Así que ve a destruir ese Avatar antes de que nos mate!
 I used to use a lot of Life Orbs. Didn't care if my Pokemon got hurt so long as they did the work.
 Solía usar un montón de Vidasferas. No me importaba si mis Pokémon se lastimaban siempre y cuando hicieran el trabajo.
 But I'm not that kind of person any more. I'm looking to rid myself of them.
@@ -2410,10 +2410,6 @@ I laid out each of these starter tokens to maybe attract someone suitable... for
 Dejé una de cada ficha inicial para atraer a alguien digno... para combatir.
 Perhaps you'll be able to satisfy both criteria...
 Quizás tú podrás satisfacer ambos criterios...
-The top of the sign is labeled "Grouz Mine Bulletin."
-La parte superior del signo está marcada como “Boletín de las Minas Grouz.”
-Remnants of old, yellowed papers are still stapled to the rest.
-Remanentes de viejos papeles amarillos siguen engrapados.
 What a disgrace.
 Vaya desgracia.
 We're supposed to be keeping this area safe.
@@ -2450,6 +2446,10 @@ Eres fuerte. Has demostrado eso. Esto será pan comido. Creéme. Te veré ahí.
 …Colgó
 Thanks for the help.
 Gracias por la ayuda.
+The top of the sign is labeled "Grouz Mine Bulletin."
+La parte superior del signo está marcada como “Boletín de las Minas Grouz.”
+Remnants of old, yellowed papers are still stapled to the rest.
+Remanentes de viejos papeles amarillos siguen engrapados.
 Dr. Hekata's House
 Casa de la Dr. Hekata
 The door is boarded up.
@@ -2542,8 +2542,8 @@ She likes to elude me, and, though I am loathe to admit it, I her.
 A ella le gusta escapar de mi, y, aunque odie admitirle, yo de ella.
 It is rare we get more than a fleeting moment alone. Things are now... different, however.
 Es raro que tengamos más de un efímero momento a solas. Pero las cosas ahora son... diferentes.
-Being here has driven my thoughts to doubt and darker places than that. I have found now answers.
-Estar aquí ha llevado mis pensamientos a la duda y lugares más oscuros que eso. Ahora he encontrado respuestas.
+Being here has driven my thoughts to doubt and darker places than that. I have found no answers.
+Estar aquí ha llevado mis pensamientos a la duda y lugares más oscuros que eso. No he encontrado respuestas.
 The other Imogene has already left, unable to bear it any longer.
 La otra Imogene ya se ha ido, al no poder soportarlo por más tiempo.
 She left a note stating simply that she knew what she must do, and that she goes now to a place of death and quiet oblivion.
@@ -2576,8 +2576,6 @@ I heard the stories, but it's still hard to believe that Avatars just... fade fr
 Escuché las historias, pero todavía es díficil de creer que los Avatares sólo... se desvanecen una vez son derrotados.
 When I saw that you were winning, I was mentally prepared to grab a pickaxe and begin the cleanup efforts.
 Cuando vi que estabas ganando, estaba mentalmente preparada para agarrar un pico y tomar los restos.
-It's holding a Life Orb!
-¡Tiene una Vidasfera equipada!
 Ohoh, does another fly enter my trap?
 Jojo, ¿Otra mosca cae en mi trampa?
 Watch yourself, you may find yourself mesmerized.
@@ -2598,6 +2596,8 @@ I'm learning about important dates in history. The founding of Prizca, the fall 
 Estoy aprendiendo sobre algunas fechas importantes en la historia. La fundación de Prizca, la caída de la monarquía.
 All of them are fascinating, but I believe my favorite is the one we'll have, no?
 Todas ellas son fascinantes, pero diría que mi favorita es la de nuestro encuentro, ¿No?
+It's holding a Life Orb!
+¡Tiene una Vidasfera equipada!
 Yes
 Sí
 No
@@ -5903,12 +5903,12 @@ Doesn't excuse my behavior though.
 Pero eso no excusa mi comportamiento.
 Sorry.
 Lo siento.
-Here, take this. As a token of goodwill. I shouldn't be drinking caffiene anyways.
+Here, take this. As a token of goodwill. I shouldn't be drinking caffeine anyways.
 Toma esto. Como un símbolo de buena voluntad. No debería consumir cafeína de todos modos.
 I'll be better next time.
 Seré mejor la próxima vez.
-Just leave, ok!
-¡Sólo vete, ok!
+Just leave, ok?
+¿Sólo vete, ok?
 Zoé forever! Bence should pack it up and go home!
 ¡Zoé para siempre! ¡Bence debería empacar sus cosas e irse a su casa!
 Oh, you've never heard of them?
@@ -34836,10 +34836,14 @@ Grey Mist
 Niebla Gris
 Grime Grapple
 Disputa Mugrienta
+Hazard Claw
+Hazard Claw
 Miasma
 Miasma
 Nasty Nip
 Puñal Malicioso
+Noxious Barbs
+Noxious Barbs
 Poison Dart
 Dardo Venenoso
 Poison Spikes
@@ -34874,14 +34878,14 @@ Crushing Chasm
 Sima Aplastante
 Devouring Dust
 Polvo Excesivo
+Dustbowl
+Dustbowl
 Dust Devil
 Remolino Arenoso
 Dust Storm
 Tormenta de Polvo
 Earthsplitter
 Grieta Terrestre
-Erode
-Erosionar
 Extreme Effort
 Esfuerzo Extremo
 Grounding
@@ -34920,6 +34924,8 @@ Stamp Down
 Al Suelo
 Tail Slam
 Tail Slam
+Terraslide
+Terraslide
 Trample
 Pisotear
 Tread On
@@ -34942,6 +34948,10 @@ Diamond Force
 Fuerza Cristalina
 Embrittle
 Quebrantar
+Erode
+Erosionar
+Gormandize
+Gormandize
 Granite Head
 Cabeza de Granito
 Grind Stone
@@ -34950,8 +34960,6 @@ Hard Place
 Caza Agresiva
 Headbang
 Cabecear
-Icebreaker
-Rompehielos
 Invite Sandstorm
 Invitar a la Arena
 Luna Sucre
@@ -34960,6 +34968,8 @@ Megalith Rite
 Rito del Megalito
 Monolith Drop
 Caída de Monolito
+Mountain Crush
+Mountain Crush
 Omnishelter
 Omniguardia
 Petrify
@@ -35094,6 +35104,8 @@ Doll Stitch
 Muñeco Forzoso
 Drift Off
 Adormecer
+Entomb
+Entomb
 From Beyond
 Del Más Allá
 Gem Seal
@@ -35696,6 +35708,8 @@ Icicle Pin
 Trampa Carámbano
 Icy Injection
 Inyección Helada
+Inure
+Inure
 Invite Hail
 Invitar al Granizo
 Looming Winter
@@ -37405,10 +37419,14 @@ A Grey Mist covers the battlefield. For five turns, stats are reset at the end o
 Una Niebla Gris cubre el campo. Durante cinco turnos, todo cambio de stats es reiniciado al final de cada turno.
 The user attacks while slathered in grime. This poisons the user.
 El usuario ataca mientras está untado de suciedad. Siempre envenena al usuario.
+The user releases a potent venom through its claws, numbing the target.
+The user releases a potent venom through its claws, numbing the target.
 The user envelops the target in a foul wind. It has a 30% chance to poison.
 El usuario envuelve al objetivo en un viento sucio. Tiene un 30% de probabilidad de envenenar al objetivo.
 The user stabs the opponent with a toxin-infused limb. It has a 10% chance to poison.
 El usuario atraviesa al objetivo con una extremidad llena de veneno. Tiene un 10% de probabilidad de envenenar al objetivo.
+This poisons the target. If the target is already poisoned, their poison worsens and their Speed is lowered.
+This poisons the target. If the target is already poisoned, their poison worsens and their Speed is lowered.
 The user shoots the target with a dart made of toxins. This move always goes first.
 The user shoots the target with a dart made of toxins. This move always goes first.
 The user lays a hazard layer of poison spikes on the foe's side. One layer hurts switched in foes, two layers poisons.
@@ -37443,14 +37461,14 @@ The user opens a rift beneath the target, trapping and binding it for three turn
 El usuario abre una grieta debajo del objetivo, atrapándolo y dañándolo durante tres turnos.
 The target is consumed by a desert storm, trapping and binding it for three turns.
 El objetivo es consumido por una tormenta desértica, atrapándolo y dañándolo durante tres turnos.
+For five turns, Pokémon on the opposing side take 30% more move damage and cannot heal. Only usable in sandstorm.
+For five turns, Pokémon on the opposing side take 30% more move damage and cannot heal. Only usable in sandstorm.
 The user whips up a hot desert twister to attack the target. It has a 30% chance to burn.
 The user whips up a hot desert twister to attack the target. It has a 30% chance to burn.
 The user whips up dirt at supersonic speeds, damaging everything around it.
 El usuario levanta una ráfaga de arena y tierra, atacando todo a su alrededor.
 The user cracks the earth under the target with a massive strike. This lowers the user's Attack by four steps.
 El usuario parte la tierra con un masivo golpe. Disminuye el Ataque del usuario cuatro grados.
-Attacks by blasting dirt and debris at the target. This move always goes first in sandstorm.
-El usuario ataca lanzando arena y escombros. Siempre va primero en tormenta de arena.
 The user uses all their might to attack their opponent, forcing the user to use Rest on their next turn.
 El usuario usa toda su fuerza para atacar al objetivo, forzándolo a usar Descanso en el siguiente turno.
 The user stabilizes its stance. This raises its Attack, Sp. Def, and Accuracy by two steps.
@@ -37489,6 +37507,8 @@ The user attacks by flattening the target into the ground. This resets the targe
 El usuario ataca aplastando al objetivo. Los cambios de stats positivos del objetivo son vueltos a la normalidad.
 The user slams the earth with its tail, creating a shockwave to damage the target. It has a 40% chance to lower Attack.
 The user slams the earth with its tail, creating a shockwave to damage the target. It has a 40% chance to lower Attack.
+The user charges, then attacks on the second turn. Charges instantly in sandstorm.
+The user charges, then attacks on the second turn. Charges instantly in sandstorm.
 The user tramples the target. It has a 20% chance to lower the target's Speed.
 The user tramples the target. It has a 20% chance to lower the target's Speed.
 The user attacks the opposing Pokémon by trampling it. It has a 20% chance to lower Speed.
@@ -37511,6 +37531,10 @@ The user calls up spikes of diamond. Can random critical hit.
 El usuario invoca unos diamantes filosos. Puede dar un golpe crítico.
 The user weakens the target's bones, making them fracture. They deal 33% less damage.
 El usuario debilita los huesos del objetivo, fracturándolo. Hace que lidien un 33% menos de daño.
+Attacks by blasting rocks and debris at the target. This move always goes first in sandstorm.
+Attacks by blasting rocks and debris at the target. This move always goes first in sandstorm.
+The user bites down on the target’s held item, destroying it. Destroyed Berries and Herbs are consumed.
+The user bites down on the target’s held item, destroying it. Destroyed Berries and Herbs are consumed.
 The user rushes into the target with its stony body. The user also takes 25% recoil.
 El usuario carga hacia el objetivo con su cuerpo rocoso. El usuario recibe un 25% de daño de retroceso.
 The user scratches the target with rough rocks. If in sandstorm, the target's Defense is lowered by three steps.
@@ -37519,8 +37543,6 @@ The user slams the target into a nearby hard object. Increases in power the high
 The user slams the target into a nearby hard object. Increases in power the higher the Defense of any ally.
 The user slams the target with blunt force, taking 20% recoil.
 El usuario aplasta al oponente con gran fuerza, recibiendo 20% de daño de retroceso.
-The user sweeps away hazards afflicting your side while lunging forward. User also takes 33% recoil.
-El usuario barre trampas en tu lado mientras carga. Recibe un 33% de daño de retroceso.
 The user numbs the target, then welcomes in sandstorm for eight turns.
 El usuario aturde al objetivo, luego invita a la tormenta de arena durante ocho turnos.
 The target's item is spelled away with Lunar Magic. Additionally, the target is given an EXP Candy M.
@@ -37529,6 +37551,8 @@ The user calls all rocks to join it, summoning sandstorm for five turns and layi
 El usuario llama las rocas a su alrededor, invocando tormenta de arena durante cinco turnos y colocando trampas rocas alrededor del objetivo.
 The user drops a single piece of solid bedrock on the target, fracturing them.
 El usuario suelta un pedazo de piedra firme al objetivo, fracturándolo.
+The user crushes the surrounding area, destroying all hazards and active rooms. The user takes 33% recoil.
+The user crushes the surrounding area, destroying all hazards and active rooms. The user takes 33% recoil.
 Protects the user and its allies from spread moves this turn and foes' moves get redirected to the user. Fails if used in succession.
 El usuario y sus aliados son protegidos de grandes ataques, y atrae movimientos de los rivales. Falla si se usa de forma seguida.
 The user afflicts the target by turning their skin into stone. This has a 30% chance to fracture it.
@@ -37659,6 +37683,8 @@ The user forces itself or the target to spend 25% HP to make a Substitute by tur
 The user forces itself or the target to spend 25% HP to make a Substitute by turning it into a doll.
 The user soothes the target, lowering its Speed by four steps. If in hail, they also become drowsy.
 El usuario calma al objetivo, disminuyendo su Velocidad cuatro grados. Bajo granizo, también lo adormece.
+The user sacrifices 25% of their HP to put the target in an early grave, cursing and fracturing them.
+The user sacrifices 25% of their HP to put the target in an early grave, cursing and fracturing them.
 The user channels its fallen allies to strike the target. This attack has 20 more power per fainted party member.
 El usuario canaliza a sus aliados caídos para golpear al objetivo. Este ataque tiene 20 puntos más de potencia por cada miembro del equipo debilitado.
 Disables the target's last used move for five turns, and cuts 5 PP from it.
@@ -38255,6 +38281,8 @@ The user pins the target down with icy spikes, applying frostbite and trapping i
 El usuario clava al objetivo con picos congelados, helándolo y atrapándolo.
 Injects supercold liquid into the target, damaging them and halving all future healing.
 El usuario inyecto un líquido congelado al objetivo, dañándolo y diviendo a la mitad toda curación futura.
+The user readies for the harshest environments. The next 3 hits against it cannot be super effective or hyper effective.
+The user readies for the harshest environments. The next 3 hits against it cannot be super effective or hyper effective.
 The user frostbites the target, then welcomes in hail for eight turns.
 El usuario hiela al objetivo, luego invita al granizo durante ocho turnos.
 The user foretells imminent winter. Two turns later, extreme cold attacks the targeted spot.
@@ -38479,8 +38507,8 @@ The user chucks a party favor which explodes in the target's face.
 El usuario le hace un regalo al objetivo, que termina explotando en su cara.
 Makes everyone's hearts beat together. Others can join in the Round and make the attack do greater damage.
 Hace que los corazones de todos latan como uno. Otros pueden unirse al Canon, duplicando su potencia.
-The user uses honey to fully restore its HP. However, this lures swarming insects, trapping and binding the user for three turns.
-El usuario utiliza miel para restaurar completamente sus PS. Sin embargo, atrae a un enjambre de insectos que atrapan y dañan al usuario durante tres turnos.
+The user uses honey to fully restore its HP. This can overheal. However, swarming insects trap and bind the user for two turns.
+El usuario usa miel para restaurar por completo sus PS. Puede sobrecurar. Sin embargo, insectos atrapan y dañan al usuario por tres turnos.
 The user attempts to humble the target, guaranteeing a critical hit on foes with boosted stats.
 El usuario intenta darle una lección de humildad al objetivo, garantizando un golpe crítico si este tiene stats aumentadas.
 The user hopes for bad luck, jinxing the target. Attacks against them crit and pierce protection.
@@ -41789,6 +41817,8 @@ Ball Lightning
 Como el Rayo
 Ball Mimic
 Poké Ball Falsa
+Barren Blood
+Barren Blood
 Barrier Maker
 Proyectar
 Battle-Hardened
@@ -42363,6 +42393,8 @@ Malicious Glow
 Brillo Malicioso
 Manifestation
 Manifestación
+Mariachi
+Mariachi
 Marine
 Marino
 Martial Discipline
@@ -42431,8 +42463,6 @@ Noble Blade
 Hoja Noble
 No Hope
 Sin Esperanza
-Noxious
-Nocivo
 Numbing Touch
 Toque Paralizador
 Ocular
@@ -42525,6 +42555,8 @@ Pressure Valve
 Válvula de Presión
 Primordial Seal
 Sello Primordial
+Probe Weakness
+Probe Weakness
 Protective Instinct
 Instinto Protector
 Puff Up
@@ -42557,8 +42589,6 @@ Rainbow Trail
 Rastro Arcoíris
 Rain Prism
 Lluvia Prismática
-Ram Prow
-Hacerse Paso
 Rapid Onset
 Ataque Sorpresa
 Rapid Refresh
@@ -42627,8 +42657,12 @@ Rust & Wrack
 Ancla Oxidada
 Safe Passage
 Paso Seguro
+Sandbank Brute
+Sandbank Brute
 Sand Burst
 Expulsarena
+Sand Reconstruction
+Sand Reconstruction
 Sand Shroud
 Capa Arena
 Sands Macabre
@@ -42757,6 +42791,8 @@ Stay of Execution
 Ejecución Demorada
 Steam Power
 Comburente
+Steep Momentum
+Steep Momentum
 Stern
 Austero
 Sticky Fingers
@@ -42891,8 +42927,6 @@ Unafraid
 Valeroso
 Unassuming
 Modesto
-Unbreakable
-Irrompible
 Uncanny Luck
 Suerte Insólita
 Unconventional
@@ -43342,6 +43376,8 @@ Deals more damage to targets the faster it is than them. Up to a 50% bonus at do
 Sus ataques son más fuertes hacia objetivos más lentos. Puede llegar a un 50% más de potencia si su Velocidad es el doble.
 Your Poké Balls are 50% more effective.
 Tus Poké Balls son un 50% más efectivas.
+During sandstorm, deal and take 50% more damage.
+During sandstorm, deal and take 50% more damage.
 Sets a Reflect for four turns upon entry.
 Pone un Reflejo por cuatro turnos al entrar al campo.
 Raises Defense and Sp. Def by three steps when its HP is lowered below half. This only works once per switch-in.
@@ -43474,8 +43510,8 @@ Has a 30% chance to leech targets when using physical moves.
 Al usar un movimiento físico, tiene un 30% de probabilidad de infectar al objetivo.
 After knocking out any Pokémon, summons hail for four turns.
 Invoca granizo durante cuatro turnos al debilitar cualquier Pokémon.
-Immune to non-volatile status conditions due to its hard shell. Boosts Sp. Atk and Speed by 30% in sandstorm.
-Inmune a problemas de estado debido a su caparazón. Aumenta su Ataque Especial y Velocidad un 30% en tormenta de arena.
+Immune to non-volatile status conditions. In sandstorm, powers up Rock-type moves by 50% and deals 1/6th max HP when hit.
+Inmune a problemas de estado. Potencia ataques tipo Roca un 50% y daña por 1/6 PS máximos si es atacado en arena.
 Immune to Bug-type moves and raises Speed instead.
 Immune to Bug-type moves and raises Speed instead.
 Prevents Bug- or Poison-type moves during moonglow.
@@ -43488,8 +43524,8 @@ When this Pokémon traps and binds a target, one hazard layer of Spikes is place
 Cuando este Pokémon atrapa y daña a un objetivo, una capa de Púas es colocada en el objetivo.
 Doubles this Pokémon's Defense in a sandstorm.
 Duplica su Defensa en tormenta de arena.
-Restores this Pokémon's HP based on damage taken by others from sandstorm.
-Restaura sus PS basado en el daño que otros reciben de la tormenta de arena.
+Restores this Pokémon's HP based on damage taken by others from sandstorm, and increases sandstorm damage by 50%.
+Restaura sus PS basado en el daño que otros reciben de la tormenta de arena y aumenta el daño de esta en un 50%.
 This Pokémon is immune to Ground-type moves and takes 20% less damage in sandstorm.
 Inmune a movimientos tipo Tierra. Recibe 20% menos de daño en una tormenta de arena.
 Prevents Water- or Grass-type moves during sandstorm.
@@ -43756,8 +43792,8 @@ Has Judgment as its 5th move.
 Tiene Sentencia como un quinto movimiento.
 This Pokémon and its allies are immune to weather downsides.
 Se protege a sí mismo y a sus aliados de las desventajas del clima.
-When this Pokémon knocks a foe below half health, this Pokémon switches out.
-Cuando este Pokémon debilita a un oponente con la mitad de sus PS o menos, regresa a su Poké Ball.
+When this Pokémon's attacks deal less than 50% of the target's max HP, this Pokémon switches out.
+When this Pokémon's attacks deal less than 50% of the target's max HP, this Pokémon switches out.
 Powers up Bug-type moves of itself and its allies by 50%.
 Potencia sus movimientos tipo Bicho y el de sus aliados un 50%.
 Upon entry, heals self and allies for 25% of their max health.
@@ -43916,6 +43952,8 @@ When attacking during moonglow, uses the target's Attack and Sp. Atk instead of 
 Al atacar bajo brillo lunar, usa las stats ofensivas del objetivo en vez de las propias.
 Boosts the power of pulse moves by 50%, and makes them physical when that would be more effective.
 Potencia los movimientos de pulso un 50% y los hace físicos en caso de ser más efectivo.
+Boosts Sp. Atk after using a sound move. Heals for 1/5th max HP after using a dance move.
+Boosts Sp. Atk after using a sound move. Heals for 1/5th max HP after using a dance move.
 Physical moves have a 30% chance to waterlog targets.
 Los movimientos Físicos del Pokémon tienen un 30% de probabilidad de embeber a su objetivo.
 Repeats another Pokémon's punch and kick moves immediately at 50% power.
@@ -43984,8 +44022,6 @@ Deals no damage to a target while they are using a status move.
 No inflige daño a un objetivo mientras esté usando un movimiento de estado.
 Traps foes when they are below half health.
 Atrapa oponentes que hayan perdido la mitad o más de su salud.
-Reduces each other Pokémon's HP by 1/12th at the end of each turn.
-Reduce los PS de cada Pokémon por 1/12 de sus PS máximos al final de cada turno.
 Physical moves have a 30% chance to numb targets.
 Los movimientos físicos del Pokémon tienen un 30% de probabilidad de aturdir a su objetivo.
 Boosts the Accuracy of its allies and itself by 50%.
@@ -44078,6 +44114,8 @@ Right before this Pokémon is attacked, the attacker's stat changes are reset.
 Justo antes de ser atacado, reinicia los cambios de stats del atacante.
 This Pokémon cannot enter the battle before Regidrago, Regice, Regirock, Registeel and Regieleki have.
 No puede entrar al campo hasta que Regidrago, Regice, Regirock, Registeel y Regieleki lo hagan.
+Doubles this Pokémon's crit chance, if it lands a move that could crit but doesn't. Powers up critical hits by another 50%.
+Doubles this Pokémon's crit chance, if it lands a move that could crit but doesn't. Powers up critical hits by another 50%.
 While this Pokémon has an ally that isn't fully evolved, both Pokémon take 33% less move damage.
 Si su aliado no está completamente evolucionado, ambos Pokémon reciben un 33% menos de daño.
 Deals 25% more damage per stockpile stack.
@@ -44110,8 +44148,6 @@ Loses its Fire type. Whenever it uses a move, it gains that move's type.
 Pierde su tipo Fuego. Al usar un movimiento, gana el tipo de ese movimiento.
 Powers up Fairy-type moves by 50% in rainstorm.
 Potencia movimientos tipo Hada un 50% bajo lluvia.
-Ignores screens, Substitute, and Abilities that would affect its moves.
-Ignora pantallas, Sustitutos y Habilidades que afectarían sus movimientos.
 On the first turn, its attacks poison the target.
 En su primer turno, sus ataques envenenan al objetivo.
 Heals 1/8th HP every turn if hit by an attack.
@@ -44180,8 +44216,12 @@ This Pokémon is also Steel-type, but it takes 15% more damage from moves.
 El Pokémon tiene el tipo Acero como tercer tipo, pero todos los ataques lo dañan un 15% más.
 Doubles this Pokémon's Defense in rainstorm.
 Doubles this Pokémon's Defense in rainstorm.
+During sandstorm, its attacks can't miss and restore HP equal to 25% of the damage dealt.
+During sandstorm, its attacks can't miss and restore HP equal to 25% of the damage dealt.
 Summons a sandstorm for four turns when hit by an attack.
 Invoca una tormenta de arena durante cuatro turnos al ser atacado.
+Prevents 75% of the self-damage from recoil and self-destructing during sandstorm.
+Prevents 75% of the self-damage from recoil and self-destructing during sandstorm.
 Takes 30% less damage in a sandstorm.
 Recibe 30% menos de daño en tormenta de arena.
 When it attacks from underground in sandstorm, it'll transform into Reaper form.
@@ -44310,6 +44350,8 @@ Slice moves always crit. However, their damage is dealt at the end of the round.
 Los movimientos de corte siempre son críticos. Sin embargo, su daño no se aplica hasta el final del turno.
 Takes 50% less damage from Water-type moves. Raises Speed by four steps when hit by one.
 Recibe 50% menos de daño de movimientos tipo Agua. Aumenta su Velocidad cuatro grados al ser alcanzado por uno.
+Gains two steps of Attack and Speed if it didn’t deal attack damage this turn. When it does, reset its positive stat changes.
+Gains two steps of Attack and Speed if it didn’t deal attack damage this turn. When it does, reset its positive stat changes.
 Its attacks are critical against waterlogged targets.
 Sus ataques son críticos contra objetivos embebidos.
 Can hold a second item by stealing it.
@@ -44442,8 +44484,6 @@ Takes half damage from Dark- and Bug-type moves.
 Movimientos tipo Siniestro y Bicho lo dañan por la mitad.
 Before using a status move against a single foe, lowers their Defense by two steps.
 Antes de usar un movimiento de estado a un solo rival, disminuye su Defensa dos grados.
-Prevents half the self-damage from recoil and self-destructing.
-Sólo recibe la mitad de daño al usar movimientos de retroceso y explosiones.
 If an attacker would activate a random added effect on this Pokémon, that effect is placed on the attacker instead.
 Si un atacante activaría un efecto secundario aleatorio sobre el Pokémon, ese efecto se aplica al atacante en su lugar.
 Moves that use stats other than the default deal 50% more damage.
@@ -44502,8 +44542,8 @@ Upon entry, creates a Willful Room for four turns, reducing all hits by 30 damag
 Al entrar, crea una Zona Voluntad durante cuatro turnos, reduciendo un 30 de daño todos los ataques.
 During hail, immune to Fire- and Electric-type moves.
 Inmune a movimientos tipo Fuego y Eléctrico bajo granizo.
-Restores HP based on damage taken by others from hail.
-Restaura sus PS basado en el daño que otros reciben por granizo.
+Restores HP based on damage taken by others from hail, and increases hail damage by 50%.
+Restaura sus PS basado en el daño que otros reciben por granizo y aumenta el daño de este en un 50%.
 After knocking out any Pokémon, raises its Sp. Atk and Sp. Def.
 Al debilitar cualquier Pokémon, aumenta tanto su Ataque Especial como Defensa Especial un grado.
 The random added effects of moves by all battlers always activate.
@@ -64624,6 +64664,36 @@ cold and wet fog with reduced visibility
 "Canon Name Here"
 {1} threw {2} coins into the Wishing Well!
 {1} threw {2} coins into the Wishing Well!
+#{pokemon.name} Lv. #{pokemon.level}
+#{pokemon.name} Lv. #{pokemon.level}
+Change Form
+Change Form
+{1}: {2} ({3}%)
+{1}: {2} ({3}%)
+{1}'s stat changes were reset!
+{1}'s stat changes were reset!
+{1} dances a healing rhythm!
+{1} dances a healing rhythm!
+{1} sharpens its instincts, doubling its critical hit chance!
+{1} sharpens its instincts, doubling its critical hit chance!
+{1} protects its weak points ! It cannot take super-effective damage for the next {2} hits!
+{1} protects its weak points ! It cannot take super-effective damage for the next {2} hits!
+{1}'s weaknesses are revealed again!
+{1}'s weaknesses are revealed again!
+A raging dustbowl engulfed {1}!
+A raging dustbowl engulfed {1}!
+The dustbowl around {1} dissipated!
+The dustbowl around {1} dissipated!
+The dustbowl around {1} subsided!
+The dustbowl around {1} subsided!
+{1} stirred the ground beneath it!
+{1} stirred the ground beneath it!
+But it failed, since there is no Sandstorm!
+But it failed, since there is no Sandstorm!
+{1} gormandized {2}'s {3}!
+{1} gormandized {2}'s {3}!
+Which form shall the Pokémon take?
+Which form shall the Pokémon take?
 [27]
 0
 Animated
@@ -66511,6 +66581,8 @@ Flinch
 Amedrentado
 Crit Chance Up
 Índice Crítico Alto
+Probe Weakness
+Probe Weakness
 Focus Punch
 Puño Certero
 Follow Me
@@ -66715,6 +66787,8 @@ Weight Halved
 Mitad de Peso
 Drowsy
 Adormecido
+Drowsiness Pierces
+Drowsiness Pierces
 Choice Locking
 Objeto Elección
 Stats Raised
@@ -66755,8 +66829,8 @@ Charm Turns
 Turnos Encanto
 Charm Chance
 Probabilidad Encanto
-No Weaknesses
-Sin Debilidades
+Inured Hits
+Inured Hits
 No Retreat!!
 ¡¡Bastión Final!!
 Healing Reversed
@@ -66915,6 +66989,8 @@ Fleeting Footwork
 Danza Frugal
 Battle-Hardened
 Endurecido en Combate
+Steep Momentum
+Steep Momentum
 Amulet Coin
 Moneda Amuleto
 Fairy Lock
@@ -67121,6 +67197,8 @@ Turns Until Freeze
 Turns Until Freeze
 Coral Overgrowth
 Coral Exuberante
+Dustbowl
+Dustbowl
 [33]
 Crowning Achievement
 Coronación
