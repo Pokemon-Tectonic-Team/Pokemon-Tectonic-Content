@@ -898,7 +898,7 @@ Pokébolas "Cata-Tudo"
 You ever have someone bother you out of nowhere?
 Já aconteceu de alguém vir te incomodar do absoluto nada?
 Just have your Pokemon give 'em one of these, and they'll leave you alone quick.
-É só pedir para seus Pokémon usarem um desses nessa pessoa. Ela te deixará em paz rapidinho. 
+É só pedir para seus Pokémon usarem um desses nessa pessoa. Ela te deixará em paz rapidinho.
 Yeah, that'll do.
 É, isso vai resolver.
 Either you give 'em one of those, or you bribe 'em with some stuff you don't need.
@@ -2485,7 +2485,7 @@ Se devo desempenhar um papel estereotipado em tua história, prefiro ser um orá
 I hope you’re not expecting any wisdom or artifacts from me.
 Espero que não estejas esperando alguma sabedoria ou artefatos de minha parte.
 I fear I’m far too invested in my own quest for self- discovery to aid you in yours.
-Temo que esteja absorta demais em minha própria busca por autodescoberta para lhe ajudar com a tua. 
+Temo que esteja absorta demais em minha própria busca por autodescoberta para lhe ajudar com a tua.
 ...Oh, that isn’t true. I can’t maintain a charade of indifference half as well as my companion. I am rather invested in you and yours.
 ...Ah, isso não é verdade. Não sou capaz de manter uma fachada de indiferença tanto quanto minha companheira. Estou bastante envolvida com você e os seus.
 Thank you.
@@ -21960,7 +21960,7 @@ Uma miragem desaparecendo com uma brisa forte, dispersando-se como um sonho ao d
 If you come back, perhaps it will be here, waiting for you. They’ll say this place is haunted, but you know the truth.
 Se você voltar, talvez ela esteja aqui, esperando por você. Dirão que este lugar é assombrado, mas você sabe a verdade.
 It’s always liked graveyards, and it can afford to wait to make sure you won’t need it.
-Ela sempre gostou de cemitérios, e pode se dar ao luxo de esperar para ter certeza de que você não precisará dela. 
+Ela sempre gostou de cemitérios, e pode se dar ao luxo de esperar para ter certeza de que você não precisará dela.
 Now, it has nothing but time.
 Agora, não lhe resta nada além de tempo.
 I BRING A WHOLE NEW MEANING TO DEATH METAL!
