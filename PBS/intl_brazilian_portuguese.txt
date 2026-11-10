@@ -7082,23 +7082,23 @@ It's pretty dark and dingy. I try to go there as little as possible.
 É bem escura e sombria. Tento ir lá o mínimo que posso.
 [Map98]
 The shelves are neatly lined with canned food and healing potions.
-The shelves are neatly lined with canned food and healing potions.
+As prateleiras estão organizadamente preenchidasa com comida enlatada e poções de cura.
 Untouched boxes lie covered in frost.
-Untouched boxes lie covered in frost.
+Caixas intocadas estão cobertas de gelo no chão.
 The rangers at Velenz requested a shipment of food.
-The rangers at Velenz requested a shipment of food.
+Os rangers em Velenze pediram uma entrega de comida.
 I have their whole order here, but there's an extra thing inside.
-I have their whole order here, but there's an extra thing inside.
+Tenho todo o pedido deles aqui, mas tem uma coisa a mais aqui dentro.
 Someone must have slipped it in here while no one was looking.
-Someone must have slipped it in here while no one was looking.
+Alguém deve ter colocado aqui enquanto ninguém estava olhando.
 Take this, you look like you'll put it to good use.
-Take this, you look like you'll put it to good use.
+Tome isto, você parece alguém que vai fazer bom uso.
 I'm not even sure if everything in here needs to be stored at cold temperatures...
-I'm not even sure if everything in here needs to be stored at cold temperatures...
+Eu nem sei se todas as coisas daqui precisam ser guardadas em baixa temperatura...
 Well, I suppose it's not my place to ask questions.
-Well, I suppose it's not my place to ask questions.
+Bom, suponho que não cabe a mim fazer perguntas.
 Server Archive
-Server Archive
+Arquivo De Servidores
 [Map99]
 [Map100]
 Hello stranger.
