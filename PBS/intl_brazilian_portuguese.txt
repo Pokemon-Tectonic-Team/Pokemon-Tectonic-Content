@@ -5944,313 +5944,313 @@ Ugh.
 Aff.
 [Map78]
 The Kadabra is focusing very hard.
-The Kadabra is focusing very hard.
+Esta Kadabra está muito concentrada.
 Many of the species researched here are hard to find in the wild.
-Many of the species researched here are hard to find in the wild.
+Muitas das espécies estudadas aqui são difíceis de serem encontradas na natureza.
 Because of this, they offer jobs for trainers to bring in the Pokemon needed for new studies.
-Because of this, they offer jobs for trainers to bring in the Pokemon needed for new studies.
+Por causa disso, eles contratam treinadores para trazer Pokémon necessários para novos estudos.
 West: Programming
-West: Programming
+Oeste: Programação
 North: Inventory
-North: Inventory
+Norte: Inventário
 East: Management
-East: Management
+Leste: Gerenciamento
 2nd Floor: Research and Testing
-2nd Floor: Research and Testing
+2º Andar: Pesquisa E Testes
 A tabloid covering the Championship.
-A tabloid covering the Championship.
+Um tabloide a respeito do Campeonato.
 "Is Yezera back? Zain and \PN, nepotism or real skill? who is X?"
-"Is Yezera back? Zain and \PN, nepotism or real skill?  who is X?"
+"Yezera está de volta? Zain e \PN: nepotismo ou habilidade? Quem é X?"
 I feel bad for that lady that works in inventory.
-I feel bad for that lady that works in inventory.
+Me sinto meio mal por aquela moça que trabalha no inventário.
 It's a lot of manual labor, and the space is pretty cramped as well.
-It's a lot of manual labor, and the space is pretty cramped as well.
+É um monte de trabalho manual, e o espaço é bem apertado, também.
 I'm collecting money to buy her an appreciation gift.
-I'm collecting money to buy her an appreciation gift.
+Estou juntando dinheiro para comprar um presente de agradecimento para ela.
 Could you maybe pitch in?
-Could you maybe pitch in?
+Você poderia ajudar um pouco?
 Understandable. It's weird to ask a stranger for money.
-Understandable. It's weird to ask a stranger for money.
+Compreensível. É estranho pedir dinheiro a pessoas desconhecidas.
 You hand over $1000.
-You hand over $1000.
+Você paga $1000.
 Thanks! With this I'll be able to get her something excellent!
-Thanks! With this I'll be able to get her something excellent!
+Obrigado! Com isto, vou poder comprar algo excelente para ela!
 You don't have $1000?
-You don't have $1000?
+Você não tem $1000?
 I guess you have your own problems.
-I guess you have your own problems.
+Acho que você tem seus próprios problemas a resolver.
 I've been talking with some of my co-workers about how to handle the gift.
-I've been talking with some of my co-workers about how to handle the gift.
+Estive conversando com muitos de meus colegas de trabalho sobre o que comprar de presente.
 We decided to surprise her with some high quality Pokemon handling gloves.
-We decided to surprise her with some high quality Pokemon handling gloves.
+Decidimos surpreendê-la com um par de luvas de alta qualidade para manusear Pokémon.
 That way she can pet her Ampharos without having to worry of getting shocked!
-That way she can pet her Ampharos without having to worry of getting shocked!
+Dessa forma, ela pode dar carinho em seu Ampharos sem se preocupar em levar um choque!
 Finding data is one thing, but interpretation is a whole different beast.
-Finding data is one thing, but interpretation is a whole different beast.
+Obter dados é uma coisa, mas interpretá-los é uma história completamente diferente.
 Interpretation isn't as clear cut as just collecting more data.
-Interpretation isn't as clear cut as just collecting more data.
+Interpretação não é tão simples quanto só coletar mais dados.
 Which is why I've been stuck here doing statistics calculations for hours...
-Which is why I've been stuck here doing statistics calculations for hours...
+E é por isso que estou prese aqui fazendo cálculos de estatística por horas...
 Last week's newspaper. The photo shows Zain with his Serperior and Hariyama, defeating a Bastiodon.
-Last week's newspaper. The photo shows Zain with his Serperior and Hariyama, defeating a Bastiodon.
+O jornal da semana passada. A foto mostra Zain, com sua Serperior e Hariyama, derrotando um Bastiodon.
 I've been burning the midnight oil on my research assignment for months now.
-I've been burning the midnight oil on my research assignment for months now.
+Já fazem meses que venho me dedicando até tarde da noite ao meu trabalho de pesquisa.
 I feel like I'm close, but sleep deprivation is getting to me.
-I feel like I'm close, but sleep deprivation is getting to me.
+Sinto que estou perto, mas toda essa privação de sono está começando a me afetar.
 I found myself arriving at work with random items that I don't remember grabbing.
-I found myself arriving at work with random items that I don't remember grabbing.
+Percebi que tenho vindo ao trabalho com itens aleatórios que não me lembro de ter pegado.
 Take this TM. I don't remember even owning it, let alone taking it with me.
-Take this TM. I don't remember even owning it, let alone taking it with me.
+Pegue este MT. Não me lembro de, sequer, possuí-lo, quanto mais trazê-lo comigo.
 I need to get some sleep.
-I need to get some sleep.
+Preciso dormir um pouco.
 Well, once the energy high wears off.
-Well, once the energy high wears off.
+Bom, assim que a poeira abaixar.
 I keep falling asleep during board meetings.
-I keep falling asleep during board meetings.
+Eu vivo caindo no sono durante as reuniões da diretoria.
 I tried to learn this one move...it lets Pokemon act even while sleeping.
-I tried to learn this one move...it lets Pokemon act even while sleeping.
+Tentei aprender este movimento... ele permite que Pokémon ajam mesmo dormindo. 
 I forgot that, as a human... I wouldn't be able to learn it.
-I forgot that, as a human... I wouldn't be able to learn it.
+Esqueci que, como um ser humano... não sou capaz de aprendê-lo.
 So, take this. It's not of any use to me anymore.
-So, take this. It's not of any use to me anymore.
+Então, pegue. Não é mais útil para mim.
 Huh? Whuh? Uh?
-Huh? Whuh? Uh?
+Hã? Quê? Hã?
 Oh, hey. Uh. Yeah. Secure the funding.... zzz...
-Oh, hey. Uh. Yeah. Secure the funding.... zzz...
+Ah, oi. Hã. É. Garantir o financiamento... zzz...
 An ad is playing for the Makyan Championship Tournament. "Come and watch a new Champion be crowned!"
-An ad is playing for the Makyan Championship Tournament. "Come and watch a new Champion be crowned!"
+Um anúncio do Campeonato Makiense está passando. "Venha e testemunhe um novo Campeão ser coroado!"
 "Sponsored by LuxTech."
-"Sponsored by LuxTech."
+"Patrocinado por LuxTech."
 Ah, I know that look. You're wondering why I have an umbrella.
-Ah, I know that look. You're wondering why I have an umbrella.
+Ah, eu conheço essa cara. Você tá se perguntando o motivo de eu ter um guarda-chuva.
 Well, before you get all judgemental on me, know that it's because the lights here are way too bright, and they give me headaches.
-Well, before you get all judgemental on me, know that it's because the lights here are way too bright, and they give me headaches.
+Bom, antes de você me julgar, saiba que é porque as luzes daqui são fortes demais, e elas me dão dor de cabeça.
 I'm sure they're bothering you, too.
-I'm sure they're bothering you, too.
+Tenho certeza que elas estão te incomodando, também.
 Why don't I give you one of my spares?
-Why don't I give you one of my spares?
+Por que não fica com um de meus reservas?
 I hope that one day the whole world will understand the blessing that is the indoor umbrella.
-I hope that one day the whole world will understand the blessing that is the indoor umbrella.
+Espero que um dia o mundo inteiro entenda a bênção que guarda-chuvas dentro de casa são.
 Hello. Are you looking to make an appointment to challenge Ms. Helena?
-Hello. Are you looking to make an appointment to challenge Ms. Helena?
+Olá. Você pretende agendar um horário para desafiar a Sra. Helena?
 The upcoming Championship has us thoroughly booked out through the next, uh, let me check... three weeks.
-The upcoming Championship has us thoroughly booked out through the next, uh, let me check... three weeks.
+Por casa do Campeonato, nossos horários estarão completamente lotados pelas próximas, hã, deixe-me ver... três semanas.
 Can I have your name?
-Can I have your name?
+Pode me dizer o seu nome?
 LuxTech is at the top of its field in the development and production of Technical Machines.
-LuxTech is at the top of its field in the development and production of Technical Machines.
+A LuxTech é a melhor no ramo de desenvolvimento e produção de Máquinas Técnicas.
 You are free to walk the facility to converse freely with our employees.
-You are free to walk the facility to converse freely with our employees.
+Sinta-se livre para andar pelas instalações e para conversar livremente com nossos funcionários.
 Some of our staff have even been approved to give out free samples of TMs!
-Some of our staff have even been approved to give out free samples of TMs!
+Parte de nossa equipe foi autorizada a distribuir amostras gratuitas de MTs!
 We also encourage you to participate in the battle labs hosted on the second floor.
-We also encourage you to participate in the battle labs hosted on the second floor.
+Também te encorajamos a participar dos laboratórios de batalha que são realizados no segundo andar.
 We hope you enjoy your time at LuxTech!
-We hope you enjoy your time at LuxTech!
+Esperamos que aproveite seu tempo aqui na LuxTech!
 I was invited to work on a research project with my Swadloon.
-I was invited to work on a research project with my Swadloon.
+Fui convidado para trabalhar em um projeto de pesquisa com minha Swadloon.
 The scientist who invited me had to run an errand in the middle of it.
-The scientist who invited me had to run an errand in the middle of it.
+O cientista que me convidou teve um compromisso no meio do projeto.
 He asked me if I could watch his Pokemon for "just a moment".
-He asked me if I could watch his Pokemon for "just a moment".
+Ele me pediu para vigiar os Pokémon dele "só por um momento".
 That was over two hours ago...
-That was over two hours ago...
+Isso foi há mais de duas horas...
 "Is Yezera back? Zain and \PN, nepotism or real skill? Who is X?"
-"Is Yezera back? Zain and \PN, nepotism or real skill?  Who is X?"
+"Yezera está de volta? Zain e \PN: nepotismo ou habilidade? Quem é X?"
 Keeping inventory here is tough work.
-Keeping inventory here is tough work.
+Trabalhar no inventário daqui é uma função árdua.
 Trainers and scientists often just take from here without filing the paperwork properly.
-Trainers and scientists often just take from here without filing the paperwork properly.
+Treinadores e cientistas muitas vezes só tiram itens daqui sem preencher a papelada de forma adequada.
 As a result, we often just lose things. Stranger still, sometimes we just GAIN things.
-As a result, we often just lose things. Stranger still, sometimes we just GAIN things.
+Como resultado, nós frequentemente perdemos coisas. Ainda mais estranho: nós, às vezes, GANHAMOS coisas.
 Like this TM, which no one's bothered to claim.
-Like this TM, which no one's bothered to claim.
+Como este MT, que ninguém se deu ao trabalho de vir buscar.
 Honestly, just take it. Make my job easier.
-Honestly, just take it. Make my job easier.
+Honestamente, só pegue para você. Facilite o meu trabalho.
 They don't pay me enough to deal with this stuff.
-They don't pay me enough to deal with this stuff.
+Não me pagam o suficiente para lidar com essas coisas.
 An advertisement for LuxTech software is playing.
-An advertisement for LuxTech software is playing.
+Um anúncio de software da LuxTech está passando. 
 The words "Cutting Edge" appear on the screen in big, bold letters.
-The words "Cutting Edge" appear on the screen in big, bold letters.
+As palavras "Tecnologia De Ponta" estão na tela em letras grandes e em negrito.
 A Porygon-MAV slashes through the text with its blades, setting them aflame.
-A Porygon-MAV slashes through the text with its blades, setting them aflame.
+Um Porygon-MAV corta o texto ao meio com suas lâminas, o incendiando.
 I often wonder how people did anything before computers.
-I often wonder how people did anything before computers.
+Sempre me pergunto como as pessoas faziam qualquer coisa antes de computadores existirem.
 I mean, just look at this.
-I mean, just look at this.
+Quer dizer, dá uma olhada nisso.
 *dink*
-*dink*
+*click*
 See how easy that was?
-See how easy that was?
+Viu como isso foi fácil?
 Aren't computers rad? With enough work, it seems like they can do anything!
-Aren't computers rad? With enough work, it seems like they can do anything!
+Computadores não são de mais? Com os ajustes certos, parece que eles são capazes de fazer qualquer coisa!
 Of course, learning how to make them do what we want is the hard part...
-Of course, learning how to make them do what we want is the hard part...
+Claro, saber como fazê-los fazer o que queremos é a parte difícil...
 Helena, the gym leader, is one of the executives here.
-Helena, the gym leader, is one of the executives here.
+Helena, a líder de ginásio, é uma das executivas aqui.
 She's in charge of the logistics and funding for LuxTech's projects.
-She's in charge of the logistics and funding for LuxTech's projects.
+Ela é responsável pela logística e financiamento dos projetos da LuxTech.
 She used to do the same thing for Team Chasm back in the day.
-She used to do the same thing for Team Chasm back in the day.
+Ela costumava fazer a mesma coisa para e Equipe Chasm antigamente.
 Talk about previous work experience. Her resume must have been killer.
-Talk about previous work experience. Her resume must have been killer.
+Isso, sim, que é experiência prévia. O currículo dela deve ser impressionante.
 A book detailing how TMs are made. Porygon makes the process faster than ever!
-A book detailing how TMs are made. Porygon makes the process faster than ever!
+Um livro detalhando como MTs são feitos. Porygon tornam o processo mais rápido do que nunca!
 Ugh.
-Ugh.
+Afe.
 I wanted to interview Helena.
-I wanted to interview Helena.
+Eu queria entrevistar a Helena.
 She said we'd have a 15 minute time frame to get a recorded interview.
-She said we'd have a 15 minute time frame to get a recorded interview.
+Ela disse que teríamos 15 minutos para fazermos uma entrevista gravada.
 Instead she sends us some intern with pre-recorded answers.
-Instead she sends us some intern with pre-recorded answers.
+Em vez disso, ela nos manda um estagiário com algumas respostas pré-decoradas.
 Very disappointing.
-Very disappointing.
+Decepcionante.
 We host a Porygon on our local network to help with file organization.
-We host a Porygon on our local network to help with file organization.
+Abrigamos um Porygon em nossa rede local para nos ajudar com a organização de arquivos.
 Huh, I wonder what it's like being a Porygon.
-Huh, I wonder what it's like being a Porygon.
+Hmm, me pergunto como é a sensação de ser um Porygon.
 I can't even begin to fathom what travelling through the net like that would even feel like.
-I can't even begin to fathom what travelling through the net like that would even feel like.
+Não consigo nem começar a imaginar como seria poder viajar pela rede desse jeito.
 You could be anywhere, anytime, at will.
-You could be anywhere, anytime, at will.
+Você poderia ir para qualquer lugar, a qualquer hora, sempre que quisesse.
 ...
 ...
 I should clear my browser history.
-I should clear my browser history.
+Eu deveria limpar meu histórico de pesquisas.
 A screensaver is displayed of a Togedemaru lazily rolling around and occasionally bouncing off the boundaries of the screen.
-A screensaver is displayed of a Togedemaru lazily rolling around and occasionally bouncing off the boundaries of the screen.
+O monitor mostra um protetor de tela de um Togedemaru preguiçosamente rolando por aí e, ocasionamente, ricocheteando nas bordas da tela.
 Various items clutter the shelves, gathering dust.
-Various items clutter the shelves, gathering dust.
+Vários itens ocupam as prateleiras, juntando poeira.
 They had my Pokemon do a lot of battling the other day. You know, for science.
-They had my Pokemon do a lot of battling the other day. You know, for science.
+Eles fizeram meus Pokémon batalharem por um tempão no outro dia. Sabe, pela ciência.
 It was a ton of fun, but it was also exhausting.
-It was a ton of fun, but it was also exhausting.
+Foi bem divertido, mas também foi exaustivo.
 I gotta make sure we don't overdo it.
-I gotta make sure we don't overdo it.
+Preciso me certificar que não vamos exagerar.
 We're here on correspondence about LuxTech's sponsorship of the upcoming League Tournament.
-We're here on correspondence about LuxTech's sponsorship of the upcoming League Tournament.
+Estamos aqui para reportar a respeito do patrocínio da LuxTech ao próximo Campeonato.
 The employees here must have all gotten some basic media training. Lots of them were comfortable in front of the camera.
-The employees here must have all gotten some basic media training. Lots of them were comfortable in front of the camera.
+Os funcionários daqui parecem todos ter passado por um treinamento básico de mídia. Muitos deles estavam bem confortáveis em frente à câmera.
 Some even gave me free stuff.
-Some even gave me free stuff.
+Alguns até mesmo me dão coisas grátis.
 You should take some of it off me, though, cause my equipment already weighs a ton!
-You should take some of it off me, though, cause my equipment already weighs a ton!
+Mas você deveria pegar um pouco do que me deram. Meu equipamento já pesa uma tonelada!
 I'll talk with my co-worker once we get home. We can probably stitch together something interesting.
-I'll talk with my co-worker once we get home. We can probably stitch together something interesting.
+Vou conversar com a minha colega de trabalho quando voltarmos para casa. Provavelmente, seremos capazes de montar algo interessante.
 A comprehensive catalogue of Pokémon moves. "From Absorb to Zen Headbutt".
-A comprehensive catalogue of Pokémon moves. "From Absorb to Zen Headbutt".
+Um catálogo abrangente de movimentos Pokémon. "De Absorver a Zumbido".
 Ah, good news? Excellent! Hand over the shipment.
-Ah, good news? Excellent! Hand over the shipment.
+Ah, boas notícias? Excelente! Me dê o pacote.
 You give the shipment to Helena.
-You give the shipment to Helena.
+Você dá o pacote a Helena.
 This sets us a few days ahead of schedule -- well, ahead of the adjusted schedule.
-This sets us a few days ahead of schedule -- well, ahead of the adjusted schedule.
+Isso adianta um pouco o nosso planejamento -- bom, o nosso planejamente ajustado.
 Regardless, I will uphold my end of this transaction.
-Regardless, I will uphold my end of this transaction.
+De qualquer maneira, vou cumprir minha parte desta transação.
 Meet me in my gym when you’re ready. And do try and be prompt.
-Meet me in my gym when you’re ready. And do try and be prompt.
+Me encontre no ginásio quando estiver tudo pronto. E tente ser breve.
 No, I don’t have anything better to do than wait here for someone to get my shipment back from wherever in the caves it ended up.
-No, I don’t have anything better to do than wait here for someone to get my shipment back from wherever in the caves it ended up.
+Não, não tenho nada melhor a fazer do que esperar aqui até que alguém recupere meu pacote perdido, seja lá em qual parte das cavernas ele acabou indo parar.
 I mean, I have a phone. Ever heard of a video call?
-I mean, I have a phone. Ever heard of a video call?
+Quer dizer, eu tenho um celular. Já ouviu falar de chamadas em vídeo?
 Despite almost no language expression abilities, Pokemon actually have significantly better language comprehension than humans.
-Despite almost no language expression abilities, Pokemon actually have significantly better language comprehension than humans.
+Apesar de não terem quase nenhuma habilidade de se expressarem por linguagem, Pokémon tem uma compreensão de linguagem significativamente melhor que a dos humanos.
 I've taught my Kadabra here multiple coding languages.
-I've taught my Kadabra here multiple coding languages.
+Ensinei ao meu Kadabra aqui múltipas linguagens de programação.
 He's the perfect "Rubber Ducklett", catching mistakes as soon as I type them!
-He's the perfect "Rubber Ducklett", catching mistakes as soon as I type them!
+Ele é o "Patinho De Borracha" perfeito, percebendo erros assim que eu digito.
 Hey, are you \PN? Mavis’s child?
-Hey, are you \PN? Mavis’s child?
+Ei, você é \PN? Criança da Mavis?
 I haven’t seen you since you were Munchlax-sized.
-I haven’t seen you since you were Munchlax-sized.
+Quando te vi pela última vez, você era do tamanho de um Munchlax.
 Oh, excuse me, were you registering for a challenge?
-Oh, excuse me, were you registering for a challenge?
+Ah, me perdoe, você estava agendando um desafio?
 We’re processing all the latecomers trying to get into the Championships, plus logistics for the event itself, so -- actually.
-We’re processing all the latecomers trying to get into the Championships, plus logistics for the event itself, so -- actually.
+Estamos processando as inscrições de todos os atrasados tentando entrar pro Campeonato, além da logística do evento em si, então não vai -- na verdade...
 You’re chasing Zain, I presume?
-You’re chasing Zain, I presume?
+Você está atrás do Zain, presumo?
 Of course. I lost to him, oh, a week and a half ago?
-Of course. I lost to him, oh, a week and a half ago?
+É claro. Perdi para ele, hm, uma semana e meia atrás?
 I understand that rivalry -- and I understand you don’t have a few weeks to spare.
-I understand that rivalry -- and I understand you don’t have a few weeks to spare.
+Entendo essa rivalidade -- e entendo que você não tem "algumas semanas" sobrando.
 Just like I don’t have time to wait for a particularly late shipment to arrive.
-Just like I don’t have time to wait for a particularly late shipment to arrive.
+Da mesma forma que não tenho tempo para esperar uma entrega particularmente atrasada chegar.
 Normally I’d praise you for playing your cards close to your chest, but not with me.
-Normally I’d praise you for playing your cards close to your chest, but not with me.
+Normalmente, eu elogiaria seu jeito reservado, mas não comigo.
 Don’t play coy -- I’m smarter than that. I’m cutting you a deal, so be smart and listen.
-Don’t play coy -- I’m smarter than that. I’m cutting you a deal, so be smart and listen.
+Não se faça de pateta -- eu sou mais inteligente do que isso. Estou te propondo um acordo, então use sua inteligência e me escute.
 ...Fine. I don’t believe you, but I’ve been wrong before.
-...Fine. I don’t believe you, but I’ve been wrong before.
+...Tudo bem. Não acredito em você, mas já estive errada antes.
 Rarely.
-Rarely.
+Raramente.
 In any case, you’re not the patient sort, and if Tamarind is to be believed you have a knack for dangerous errands.
-In any case, you’re not the patient sort, and if Tamarind is to be believed you have a knack for dangerous errands.
+De qualquer modo, você não é do tipo paciente e, se a Tamarind for confiável, você tem uma aptidão com tarefas perigosas.
 I need a shipment located.
-I need a shipment located.
+Preciso que localize uma entrega.
 There’s a tunnel we call <imp>Gigalith’s Guts</imp> to the southwest.
-There’s a tunnel we call <imp>Gigalith’s Guts</imp> to the southwest.
+Há um túnel que chamamos de <imp>Entranhas De Gigalith</imp> a sudoeste.
 It links the Kilna Turf to the County Park.
-It links the Kilna Turf to the County Park.
+Ele conecta o Campo De Kilna ao Parque Municipal.
 You can imagine how convenient that little shortcut is for shipping, and hence why a hypothetical important set of objects would be routed through it.
-You can imagine how convenient that little shortcut is for shipping, and hence why a hypothetical important set of objects would be routed through it.
+Você deve imaginar o quão conveniente aquele atalho é para fazer entregas, e, portanto, o porque de um conjunto hipotético de objetos importantes seria transportado por meio dele.
 Those objects are late, and now I’m hearing that the Guts are clogged with avatars.
-Those objects are late, and now I’m hearing that the Guts are clogged with avatars.
+Esses objetos estão atrasados, e recentemente ouvi falar que as Entranhas estão entupidas de avatares.
 Wh-what? You already have the shipment?
-Wh-what? You already have the shipment?
+O-o quê? Você já tem o pacote?
 I’m not going to ask why you have this.
-I’m not going to ask why you have this.
+Não vou nem te perguntar o motivo de você já ter isso.
 Well. No matter.
-Well. No matter.
+Bom. Não importa.
 Um, I suppose I have to accept the challenge now.
-Um, I suppose I have to accept the challenge now.
+Hã, suponho que devo aceitar o desafio agora.
 To be explicit: save me time and get me <imp>my shipment</imp>, and I’ll save you time and put on my gym leader hat for a challenge.
-To be explicit: save me time and get me <imp>my shipment</imp>, and I’ll save you time and put on my gym leader hat for a challenge.
+Para ser explícita: poupe meu tempo e pegue <imp>minha entrega</imp>, e eu pouparei seu tempo e assumirei meu papel de líder de ginásio para uma batalha.
 Incidentally... Is that a Poke X-Ray I spy?
-Incidentally... Is that a Poke X-Ray I spy?
+Por acaso... isso que estou vendo é um Poké Raio X?
 Officially speaking, those don't exist.
-Officially speaking, those don't exist.
+Oficialmente falando, eles não existem.
 Unofficially speaking, I still remember how to unlock the experimental features.
-Unofficially speaking, I still remember how to unlock the experimental features.
+Extraoficialmente falando, ainda me lembro como desbloquear as funções experimentais deles.
 You hand over the Poke X-Ray.
-You hand over the Poke X-Ray.
+Você entrega o Poké Raio X.
 It can now <imp>scan avatars</imp> to determine what moves they know – even the primeval ones.
-It can now <imp>scan avatars</imp> to determine what moves they know – even the primeval ones.
+Agora, ele é capaz de <imp>escanear avatares</imp> para determinar quais movimentos eles sabem – até mesmo os movimentos primordiais.
 A gift, in appreciation of your... quick work.
-A gift, in appreciation of your... quick work.
+Um presente de agradecimento por seu... serviço rápido.
 Now, back to business.
-Now, back to business.
+Agora, de volta aos negócios.
 Let’s capitalize on this inexplicable lack of delays and have a quick battle, yes?
-Let’s capitalize on this inexplicable lack of delays and have a quick battle, yes?
+Vamos capitalizar sobre essa inexplicável ausência de atrasos e ter uma rápida batalha, o que acha?
 Very exciting, I know. Focus on locating my shipment, not on hunting down avatars.
-Very exciting, I know. Focus on locating my shipment, not on hunting down avatars.
+Emocionante, eu sei. Foque em encontrar minha entrega, não em caçar avatares.
 I can't guarantee that you won't need to destroy some in the process, however.
-I can't guarantee that you won't need to destroy some in the process, however.
+No entanto, não posso garantir que você não irá precisar destruir alguns no processo.
 LuxTech's main business is in Technical Machines, so naturally we have a ton of programmers and computer scientists.
-LuxTech's main business is in Technical Machines, so naturally we have a ton of programmers and computer scientists.
+O principal foco da LuxTech são Máquinas Técnicas, então, naturalmente, temos muitos programadores e cientistas da computação.
 However, LuxTech spends a decent amount on research as well, so there's scientists everywhere too.
-However, LuxTech spends a decent amount on research as well, so there's scientists everywhere too.
+Contudo, a LuxTech investe uma boa quantidade em pesquisas, também. Sendo assim, há cientistas por toda parte, também.
 On top of that, we employ former pro-trainers to test our new products.
-On top of that, we employ former pro-trainers to test our new products.
+Além disso, contratamos ex-treinadores profissionais para testar nossos novos produtos.
 Speaking of which, take this. I was told to give it to Trainers who talked to me.
-Speaking of which, take this. I was told to give it to Trainers who talked to me.
+Falando nisso, pegue isto. Fui orientada a entregar isto para Treinadores que falassem comigo. 
 The diversity here is wonderful.
-The diversity here is wonderful.
+A diversidade daqui é maravilhosa.
 A brochure for the Makya region.
-A brochure for the Makya region.
+Um folheto da região de Makya.
 "Visit the cozy Svait Lodge! Climb Mt. Kilna! See the historic Prizca Castle!"
-"Visit the cozy Svait Lodge! Climb Mt. Kilna! See the historic Prizca Castle!"
+"Visite o reconfortante Chalé de Svait! Escale o Mt. Kilna! Veja o histórico Castelo De Prizca!"
 No
-No
+Não
 Yes
-Yes
+Sim
 Yeah.
-Yeah.
+É.
 Maybe.
-Maybe.
+Talvez.
 He isn't relevant.
-He isn't relevant.
+Ele não é relevante.
 [Map79]
 Wow! We're supposed to be professionals, but your battling prowess made everyone run away.
 Wow! We're supposed to be professionals, but your battling prowess made everyone run away.
