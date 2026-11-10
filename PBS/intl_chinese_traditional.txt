@@ -813,8 +813,8 @@ I really wish the vendor here would sell coffee.
 真希望這裡的商店能賣咖啡。
 There's a high demand for it, and no one wants to walk through an entire cave just to visit the cafe in Novo Town.
 這裡的大家對咖啡的需求量很大，總不能天天為了買咖啡，還要穿過山洞去望新鎮吧？
-The crate is emblazoned with the logo for a "Laverre City Manufactoring Co."
-The crate is emblazoned with the logo for a "Laverre City Manufactoring Co."
+The crate is emblazoned with the logo for a "Laverre City Manufacturing Co."
+The crate is emblazoned with the logo for a "Laverre City Manufacturing Co."
 You and Helena had something secretive to discuss, is that it?
 聽說你和海蓮娜有祕密要談?
 I'd love to ask, but, well, I need this job more than I need to satisfy my curiosity.
@@ -859,8 +859,8 @@ Just like that, my team's put to the sidelines.
 我的隊伍就這樣被打敗了。
 A knack for tactics, that's what you got. Helena'll be impressed, I know it.
 這就是你的戰鬥訣竅？海倫娜一定會對你刮目相看的。
-Healing centers uhh... to the west. So go off and do that now.
-治療中心呃...在西邊，現在就去吧。
+Healing Center's uhh... to the west. So go off and do that now.
+治療中心呃...在西邊。現在趕緊去治療吧。
 Healing center's uhh... to the west. So go off and do that now.
 治療中心呃...在西邊。現在趕緊去治療吧。
 She just switches around a lot? That's the "tactics" everyone around here's been hyping up?
@@ -2340,6 +2340,12 @@ Your Pokemon are now healed.
 你的精靈已經痊癒。
 [Map24]
 [Map25]
+What're you doing?!
+你在幹什麼？
+You're \PN, right? The trainer the Professor called in?
+你是\PN，對吧？博士叫來的訓練師？
+So go destroy that Avatar before we're all killed!
+那就在大家被殺死前，幹掉那個化身吧！
 Presenting, my very own Flex-type attack!
 Presenting, my very own Flex-type attack!
 Is it Physical, you ask? Special, perhaps? It's both, of course!
@@ -2354,12 +2360,6 @@ Truly you've struck the motherload of moves!
 你可是學到了一項前所未有的神技！
 Fine... I just wanted something to do now that the mine's closed...
 好吧...現在礦場關了，我只是想找點事情做罷了。
-What're you doing?!
-你在幹什麼？
-You're \PN, right? The trainer the Professor called in?
-你是\PN，對吧？博士叫來的訓練師？
-So go destroy that Avatar before we're all killed!
-那就在大家被殺死前，幹掉那個化身吧！
 I used to use a lot of Life Orbs. Didn't care if my Pokemon got hurt so long as they did the work.
 我以前只在乎能否完成任務，不在意精靈們是否會受傷，所以經常使用生命寶珠。
 But I'm not that kind of person any more. I'm looking to rid myself of them.
@@ -2410,10 +2410,6 @@ I laid out each of these starter tokens to maybe attract someone suitable... for
 我在這裡留下了三枚代幣，來作為對戰的獎勵。
 Perhaps you'll be able to satisfy both criteria...
 就看你能不能達成我的條件了...
-The top of the sign is labeled "Grouz Mine Bulletin."
-最上面一層是“古治礦場公告。”
-Remnants of old, yellowed papers are still stapled to the rest.
-邊邊角角處還能看到一些老舊發黃的殘留碎紙片。
 What a disgrace.
 真丟人。
 We're supposed to be keeping this area safe.
@@ -2450,6 +2446,10 @@ You’re strong. You’ve proven that. This’ll be a piece of cake. Trust me. S
 ...她掛斷了。
 Thanks for the help.
 謝謝。
+The top of the sign is labeled "Grouz Mine Bulletin."
+最上面一層是“古治礦場公告。”
+Remnants of old, yellowed papers are still stapled to the rest.
+邊邊角角處還能看到一些老舊發黃的殘留碎紙片。
 Dr. Hekata's House
 經方博士 家
 The door is boarded up.
@@ -2542,7 +2542,7 @@ She likes to elude me, and, though I am loathe to admit it, I her.
 她總喜歡躲著我，雖然我不願承認，但我也躲著她。
 It is rare we get more than a fleeting moment alone. Things are now... different, however.
 我們很少會單獨待在一起，不過，現在...或許不一樣了。
-Being here has driven my thoughts to doubt and darker places than that. I have found now answers.
+Being here has driven my thoughts to doubt and darker places than that. I have found no answers.
 來到這裡之後，我的思維就在懷疑之中，逐漸被引導進更為黑暗的地方，並找到了現在這些答案。
 The other Imogene has already left, unable to bear it any longer.
 而另一個伊莫珍受不了這些，便選擇離開這裡。
@@ -2576,8 +2576,6 @@ I heard the stories, but it's still hard to believe that Avatars just... fade fr
 雖然之前聽別人說過，但我還是很難相信，化身在被擊敗後就會消失。
 When I saw that you were winning, I was mentally prepared to grab a pickaxe and begin the cleanup efforts.
 看到你取得勝利之後，我就做好重新回到崗位上的準備了。
-It's holding a Life Orb!
-It's holding a Life Orb!
 Ohoh, does another fly enter my trap?
 哦，又有獵物飛進我的陷阱了？
 Watch yourself, you may find yourself mesmerized.
@@ -2598,6 +2596,8 @@ I'm learning about important dates in history. The founding of Prizca, the fall 
 我正在學習和研究這裡的史詩，比如宏禮市的建立、王朝的隕落。
 All of them are fascinating, but I believe my favorite is the one we'll have, no?
 歷史有著獨特的魅力，但我還是更喜歡即將擁有的未來，你呢？
+It's holding a Life Orb!
+It's holding a Life Orb!
 Yes
 學
 No
@@ -5903,12 +5903,12 @@ Doesn't excuse my behavior though.
 即便如此...
 Sorry.
 抱歉了。
-Here, take this. As a token of goodwill. I shouldn't be drinking caffiene anyways.
+Here, take this. As a token of goodwill. I shouldn't be drinking caffeine anyways.
 行，這個給你了，算是一份善意，總之我不應該喝咖啡。
 I'll be better next time.
 下次我的態度會改善吧。
-Just leave, ok!
-現在可以離開了吧！
+Just leave, ok?
+現在可以離開了吧？
 Zoé forever! Bence should pack it up and go home!
 佐伊萬歲！本斯該收拾行李回家了！
 Oh, you've never heard of them?
@@ -34836,10 +34836,14 @@ Grey Mist
 灰霧
 Grime Grapple
 汙垢爪擊
+Hazard Claw
+Hazard Claw
 Miasma
 瘴氣
 Nasty Nip
 劇痛蟄刺
+Noxious Barbs
+Noxious Barbs
 Poison Dart
 浸毒鏢
 Poison Spikes
@@ -34874,14 +34878,14 @@ Crushing Chasm
 Crushing Chasm
 Devouring Dust
 吞噬沙穴
+Dustbowl
+Dustbowl
 Dust Devil
 塵捲風
 Dust Storm
 Dust Storm
 Earthsplitter
 大地分裂
-Erode
-風化侵蝕
 Extreme Effort
 竭盡全力
 Grounding
@@ -34920,6 +34924,8 @@ Stamp Down
 衝壓
 Tail Slam
 Tail Slam
+Terraslide
+Terraslide
 Trample
 猛烈踏擊
 Tread On
@@ -34942,6 +34948,10 @@ Diamond Force
 鑽石尖刺
 Embrittle
 脆化
+Erode
+風化侵蝕
+Gormandize
+Gormandize
 Granite Head
 花崗岩突擊
 Grind Stone
@@ -34950,8 +34960,6 @@ Hard Place
 碰壁打擊
 Headbang
 頭槌
-Icebreaker
-冰川開拓
 Invite Sandstorm
 召喚沙暴
 Luna Sucre
@@ -34960,6 +34968,8 @@ Megalith Rite
 巨石禮讚
 Monolith Drop
 巨石墜落
+Mountain Crush
+Mountain Crush
 Omnishelter
 全能庇護
 Petrify
@@ -35094,6 +35104,8 @@ Doll Stitch
 縫娃娃
 Drift Off
 飄離
+Entomb
+Entomb
 From Beyond
 超越界限
 Gem Seal
@@ -35696,6 +35708,8 @@ Icicle Pin
 冰柱圖釘
 Icy Injection
 凍液注射
+Inure
+Inure
 Invite Hail
 天冰
 Looming Winter
@@ -37405,10 +37419,14 @@ A Grey Mist covers the battlefield. For five turns, stats are reset at the end o
 在接下來的5個回合內，每回合結束時全體精靈的能力變回原點。
 The user attacks while slathered in grime. This poisons the user.
 在身上塗滿汙垢後進行攻擊。同時，也會使自己中毒。
+The user releases a potent venom through its claws, numbing the target.
+The user releases a potent venom through its claws, numbing the target.
 The user envelops the target in a foul wind. It has a 30% chance to poison.
 使用者用一股惡臭的風包圍目標。有30%的概率使目標中毒。
 The user stabs the opponent with a toxin-infused limb. It has a 10% chance to poison.
 注入毒素的肢體刺向對手。10%概率讓對手陷入中毒狀態。
+This poisons the target. If the target is already poisoned, their poison worsens and their Speed is lowered.
+This poisons the target. If the target is already poisoned, their poison worsens and their Speed is lowered.
 The user shoots the target with a dart made of toxins. This move always goes first.
 The user shoots the target with a dart made of toxins. This move always goes first.
 The user lays a hazard layer of poison spikes on the foe's side. One layer hurts switched in foes, two layers poisons.
@@ -37443,14 +37461,14 @@ The user opens a rift beneath the target, trapping and binding it for three turn
 The user opens a rift beneath the target, trapping and binding it for three turns.
 The target is consumed by a desert storm, trapping and binding it for three turns.
 The target is consumed by a desert storm, trapping and binding it for three turns.
+For five turns, Pokémon on the opposing side take 30% more move damage and cannot heal. Only usable in sandstorm.
+For five turns, Pokémon on the opposing side take 30% more move damage and cannot heal. Only usable in sandstorm.
 The user whips up a hot desert twister to attack the target. It has a 30% chance to burn.
 The user whips up a hot desert twister to attack the target. It has a 30% chance to burn.
 The user whips up dirt at supersonic speeds, damaging everything around it.
 攪動起一陣塵沙，對周圍的一切造成傷害。
 The user cracks the earth under the target with a massive strike. This lowers the user's Attack by four steps.
 The user cracks the earth under the target with a massive strike. This lowers the user's Attack by four steps.
-Attacks by blasting dirt and debris at the target. This move always goes first in sandstorm.
-通過向目標噴射泥土和碎片進行攻擊。在沙暴天氣下必定能夠先制攻擊。。
 The user uses all their might to attack their opponent, forcing the user to use Rest on their next turn.
 用盡全力攻擊對手，但是自身在下1回合會強制使用睡覺。
 The user stabilizes its stance. This raises its Attack, Sp. Def, and Accuracy by two steps.
@@ -37489,6 +37507,8 @@ The user attacks by flattening the target into the ground. This resets the targe
 The user attacks by flattening the target into the ground. This resets the target's positive stat changes.
 The user slams the earth with its tail, creating a shockwave to damage the target. It has a 40% chance to lower Attack.
 The user slams the earth with its tail, creating a shockwave to damage the target. It has a 40% chance to lower Attack.
+The user charges, then attacks on the second turn. Charges instantly in sandstorm.
+The user charges, then attacks on the second turn. Charges instantly in sandstorm.
 The user tramples the target. It has a 20% chance to lower the target's Speed.
 The user tramples the target. It has a 20% chance to lower the target's Speed.
 The user attacks the opposing Pokémon by trampling it. It has a 20% chance to lower Speed.
@@ -37511,6 +37531,10 @@ The user calls up spikes of diamond. Can random critical hit.
 召喚出鑽石尖刺。容易擊中要害。
 The user weakens the target's bones, making them fracture. They deal 33% less damage.
 使用者削弱目標的骨骼，使其破碎。它們造成的傷害減小33%。
+Attacks by blasting rocks and debris at the target. This move always goes first in sandstorm.
+Attacks by blasting rocks and debris at the target. This move always goes first in sandstorm.
+The user bites down on the target’s held item, destroying it. Destroyed Berries and Herbs are consumed.
+The user bites down on the target’s held item, destroying it. Destroyed Berries and Herbs are consumed.
 The user rushes into the target with its stony body. The user also takes 25% recoil.
 The user rushes into the target with its stony body. The user also takes 25% recoil.
 The user scratches the target with rough rocks. If in sandstorm, the target's Defense is lowered by three steps.
@@ -37519,8 +37543,6 @@ The user slams the target into a nearby hard object. Increases in power the high
 The user slams the target into a nearby hard object. Increases in power the higher the Defense of any ally.
 The user slams the target with blunt force, taking 20% recoil.
 用鈍力猛擊對手，承受20%的反作用傷害。
-The user sweeps away hazards afflicting your side while lunging forward. User also takes 33% recoil.
-The user sweeps away hazards afflicting your side while lunging forward. User also takes 33% recoil.
 The user numbs the target, then welcomes in sandstorm for eight turns.
 使用者使目標麻痺，然後召喚持續8回合的沙暴。
 The target's item is spelled away with Lunar Magic. Additionally, the target is given an EXP Candy M.
@@ -37529,6 +37551,8 @@ The user calls all rocks to join it, summoning sandstorm for five turns and layi
 使用者召喚所有岩石進入戰鬥，召喚持續5回合的沙暴，並在目標周圍放置隱型巖。
 The user drops a single piece of solid bedrock on the target, fracturing them.
 使用者向目標投擲一塊堅固的基岩，使其破碎。
+The user crushes the surrounding area, destroying all hazards and active rooms. The user takes 33% recoil.
+The user crushes the surrounding area, destroying all hazards and active rooms. The user takes 33% recoil.
 Protects the user and its allies from spread moves this turn and foes' moves get redirected to the user. Fails if used in succession.
 Protects the user and its allies from spread moves this turn and foes' moves get redirected to the user. Fails if used in succession.
 The user afflicts the target by turning their skin into stone. This has a 30% chance to fracture it.
@@ -37659,6 +37683,8 @@ The user forces itself or the target to spend 25% HP to make a Substitute by tur
 The user forces itself or the target to spend 25% HP to make a Substitute by turning it into a doll.
 The user soothes the target, lowering its Speed by four steps. If in hail, they also become drowsy.
 使用者安撫目標，使其速度減小4級。如果處於冰雹天氣，目標還會變得瞌睡。
+The user sacrifices 25% of their HP to put the target in an early grave, cursing and fracturing them.
+The user sacrifices 25% of their HP to put the target in an early grave, cursing and fracturing them.
 The user channels its fallen allies to strike the target. This attack has 20 more power per fainted party member.
 引導已經倒下的同伴攻擊對方，每有一名倒下的同伴，此技能威力增加20。
 Disables the target's last used move for five turns, and cuts 5 PP from it.
@@ -38255,6 +38281,8 @@ The user pins the target down with icy spikes, applying frostbite and trapping i
 使用者用冰刺釘住目標，使其凍傷並被困住。
 Injects supercold liquid into the target, damaging them and halving all future healing.
 將超低溫液體注射到對手身上，對其造成傷害並減半其之後的治療效果。
+The user readies for the harshest environments. The next 3 hits against it cannot be super effective or hyper effective.
+The user readies for the harshest environments. The next 3 hits against it cannot be super effective or hyper effective.
 The user frostbites the target, then welcomes in hail for eight turns.
 使用者使目標凍傷，然後召喚8回合的冰雹。
 The user foretells imminent winter. Two turns later, extreme cold attacks the targeted spot.
@@ -38479,8 +38507,8 @@ The user chucks a party favor which explodes in the target's face.
 扔出派對小禮物，使其在對方臉上爆炸。
 Makes everyone's hearts beat together. Others can join in the Round and make the attack do greater damage.
 Makes everyone's hearts beat together. Others can join in the Round and make the attack do greater damage.
-The user uses honey to fully restore its HP. However, this lures swarming insects, trapping and binding the user for three turns.
-The user uses honey to fully restore its HP. However, this lures swarming insects, trapping and binding the user for three turns.
+The user uses honey to fully restore its HP. This can overheal. However, swarming insects trap and bind the user for two turns.
+The user uses honey to fully restore its HP. This can overheal. However, swarming insects trap and bind the user for two turns.
 The user attempts to humble the target, guaranteeing a critical hit on foes with boosted stats.
 先禮後兵，對增加能力的精靈必定擊中要害。
 The user hopes for bad luck, jinxing the target. Attacks against them crit and pierce protection.
@@ -41789,6 +41817,8 @@ Ball Lightning
 球狀閃電
 Ball Mimic
 模仿球
+Barren Blood
+Barren Blood
 Barrier Maker
 屏障製造
 Battle-Hardened
@@ -42363,6 +42393,8 @@ Malicious Glow
 惡意光芒
 Manifestation
 Manifestation
+Mariachi
+Mariachi
 Marine
 海洋
 Martial Discipline
@@ -42431,8 +42463,6 @@ Noble Blade
 貴族之刃
 No Hope
 絕望之心
-Noxious
-五毒俱全
 Numbing Touch
 麻痺之觸
 Ocular
@@ -42525,6 +42555,8 @@ Pressure Valve
 壓力閥
 Primordial Seal
 Primordial Seal
+Probe Weakness
+Probe Weakness
 Protective Instinct
 Protective Instinct
 Puff Up
@@ -42557,8 +42589,6 @@ Rainbow Trail
 Rainbow Trail
 Rain Prism
 雨之稜鏡
-Ram Prow
-威風凜凜
 Rapid Onset
 Rapid Onset
 Rapid Refresh
@@ -42627,8 +42657,12 @@ Rust & Wrack
 鏽蝕裂痕
 Safe Passage
 安全通道
+Sandbank Brute
+Sandbank Brute
 Sand Burst
 吐沙
+Sand Reconstruction
+Sand Reconstruction
 Sand Shroud
 沙蔽
 Sands Macabre
@@ -42757,6 +42791,8 @@ Stay of Execution
 Stay of Execution
 Steam Power
 蒸汽之力
+Steep Momentum
+Steep Momentum
 Stern
 Stern
 Sticky Fingers
@@ -42891,8 +42927,6 @@ Unafraid
 無畏無懼
 Unassuming
 樸實無華
-Unbreakable
-堅不可摧
 Uncanny Luck
 無端強運
 Unconventional
@@ -43342,6 +43376,8 @@ Deals more damage to targets the faster it is than them. Up to a 50% bonus at do
 Deals more damage to targets the faster it is than them. Up to a 50% bonus at double Speed.
 Your Poké Balls are 50% more effective.
 所有精靈球的捕捉率增加50%。
+During sandstorm, deal and take 50% more damage.
+During sandstorm, deal and take 50% more damage.
 Sets a Reflect for four turns upon entry.
 當HP低於一半時，雙防增加3級。
 Raises Defense and Sp. Def by three steps when its HP is lowered below half. This only works once per switch-in.
@@ -43474,8 +43510,8 @@ Has a 30% chance to leech targets when using physical moves.
 Has a 30% chance to leech targets when using physical moves.
 After knocking out any Pokémon, summons hail for four turns.
 After knocking out any Pokémon, summons hail for four turns.
-Immune to non-volatile status conditions due to its hard shell. Boosts Sp. Atk and Speed by 30% in sandstorm.
-免疫穩定性異常，在沙暴中，特攻和速度增加30%。
+Immune to non-volatile status conditions. In sandstorm, powers up Rock-type moves by 50% and deals 1/6th max HP when hit.
+Immune to non-volatile status conditions. In sandstorm, powers up Rock-type moves by 50% and deals 1/6th max HP when hit.
 Immune to Bug-type moves and raises Speed instead.
 對蟲屬性技能免疫，被蟲屬性技能攻擊時，速度增加1級。
 Prevents Bug- or Poison-type moves during moonglow.
@@ -43488,8 +43524,8 @@ When this Pokémon traps and binds a target, one hazard layer of Spikes is place
 When this Pokémon traps and binds a target, one hazard layer of Spikes is placed around the target.
 Doubles this Pokémon's Defense in a sandstorm.
 在沙暴中，精靈的物防翻倍。
-Restores this Pokémon's HP based on damage taken by others from sandstorm.
-根據其他精靈因沙暴所受的傷害恢復自身HP。
+Restores this Pokémon's HP based on damage taken by others from sandstorm, and increases sandstorm damage by 50%.
+Restores this Pokémon's HP based on damage taken by others from sandstorm, and increases sandstorm damage by 50%.
 This Pokémon is immune to Ground-type moves and takes 20% less damage in sandstorm.
 精靈免疫地面屬性技能，在沙暴中受到的傷害減小20%。
 Prevents Water- or Grass-type moves during sandstorm.
@@ -43756,8 +43792,8 @@ Has Judgment as its 5th move.
 Has Judgment as its 5th move.
 This Pokémon and its allies are immune to weather downsides.
 This Pokémon and its allies are immune to weather downsides.
-When this Pokémon knocks a foe below half health, this Pokémon switches out.
-When this Pokémon knocks a foe below half health, this Pokémon switches out.
+When this Pokémon's attacks deal less than 50% of the target's max HP, this Pokémon switches out.
+When this Pokémon's attacks deal less than 50% of the target's max HP, this Pokémon switches out.
 Powers up Bug-type moves of itself and its allies by 50%.
 Powers up Bug-type moves of itself and its allies by 50%.
 Upon entry, heals self and allies for 25% of their max health.
@@ -43916,6 +43952,8 @@ When attacking during moonglow, uses the target's Attack and Sp. Atk instead of 
 When attacking during moonglow, uses the target's Attack and Sp. Atk instead of its own.
 Boosts the power of pulse moves by 50%, and makes them physical when that would be more effective.
 Boosts the power of pulse moves by 50%, and makes them physical when that would be more effective.
+Boosts Sp. Atk after using a sound move. Heals for 1/5th max HP after using a dance move.
+Boosts Sp. Atk after using a sound move. Heals for 1/5th max HP after using a dance move.
 Physical moves have a 30% chance to waterlog targets.
 Physical moves have a 30% chance to waterlog targets.
 Repeats another Pokémon's punch and kick moves immediately at 50% power.
@@ -43984,8 +44022,6 @@ Deals no damage to a target while they are using a status move.
 在對方使用變化類技能時，無法對其造成傷害。
 Traps foes when they are below half health.
 Traps foes when they are below half health.
-Reduces each other Pokémon's HP by 1/12th at the end of each turn.
-回合結束時，減小對手1/12HP。
 Physical moves have a 30% chance to numb targets.
 物理技能有30%的概率麻痺對手。
 Boosts the Accuracy of its allies and itself by 50%.
@@ -44078,6 +44114,8 @@ Right before this Pokémon is attacked, the attacker's stat changes are reset.
 受到攻擊前，重置對手的攻擊能力變化。
 This Pokémon cannot enter the battle before Regidrago, Regice, Regirock, Registeel and Regieleki have.
 This Pokémon cannot enter the battle before Regidrago, Regice, Regirock, Registeel and Regieleki have.
+Doubles this Pokémon's crit chance, if it lands a move that could crit but doesn't. Powers up critical hits by another 50%.
+Doubles this Pokémon's crit chance, if it lands a move that could crit but doesn't. Powers up critical hits by another 50%.
 While this Pokémon has an ally that isn't fully evolved, both Pokémon take 33% less move damage.
 While this Pokémon has an ally that isn't fully evolved, both Pokémon take 33% less move damage.
 Deals 25% more damage per stockpile stack.
@@ -44110,8 +44148,6 @@ Loses its Fire type. Whenever it uses a move, it gains that move's type.
 Loses its Fire type. Whenever it uses a move, it gains that move's type.
 Powers up Fairy-type moves by 50% in rainstorm.
 在暴雨天氣時，妖精屬性技能的威力增加50%。
-Ignores screens, Substitute, and Abilities that would affect its moves.
-無視對手的屏障、替身以及會影響到自身技能的特性。
 On the first turn, its attacks poison the target.
 On the first turn, its attacks poison the target.
 Heals 1/8th HP every turn if hit by an attack.
@@ -44180,8 +44216,12 @@ This Pokémon is also Steel-type, but it takes 15% more damage from moves.
 同時被視為鋼屬性，但受到的技能傷害增加15%。
 Doubles this Pokémon's Defense in rainstorm.
 在雨天時，物防翻倍。
+During sandstorm, its attacks can't miss and restore HP equal to 25% of the damage dealt.
+During sandstorm, its attacks can't miss and restore HP equal to 25% of the damage dealt.
 Summons a sandstorm for four turns when hit by an attack.
 受到攻擊後召喚持續4回合的沙暴。
+Prevents 75% of the self-damage from recoil and self-destructing during sandstorm.
+Prevents 75% of the self-damage from recoil and self-destructing during sandstorm.
 Takes 30% less damage in a sandstorm.
 Takes 30% less damage in a sandstorm.
 When it attacks from underground in sandstorm, it'll transform into Reaper form.
@@ -44310,6 +44350,8 @@ Slice moves always crit. However, their damage is dealt at the end of the round.
 Slice moves always crit. However, their damage is dealt at the end of the round.
 Takes 50% less damage from Water-type moves. Raises Speed by four steps when hit by one.
 減小受到的水屬性技能傷害，當被同一技能命中後，極大幅度增加速度。
+Gains two steps of Attack and Speed if it didn’t deal attack damage this turn. When it does, reset its positive stat changes.
+Gains two steps of Attack and Speed if it didn’t deal attack damage this turn. When it does, reset its positive stat changes.
 Its attacks are critical against waterlogged targets.
 Its attacks are critical against waterlogged targets.
 Can hold a second item by stealing it.
@@ -44442,8 +44484,6 @@ Takes half damage from Dark- and Bug-type moves.
 受到惡、蟲屬性技能攻擊傷害減半。
 Before using a status move against a single foe, lowers their Defense by two steps.
 對單個對手使用變化類技能前，大幅度減小其物防。
-Prevents half the self-damage from recoil and self-destructing.
-減小反傷類技能、自爆和大爆炸的自身扣血。
 If an attacker would activate a random added effect on this Pokémon, that effect is placed on the attacker instead.
 在受到攻擊並觸發技能的附加效果時，該附加效果由對方承受。
 Moves that use stats other than the default deal 50% more damage.
@@ -44502,8 +44542,8 @@ Upon entry, creates a Willful Room for four turns, reducing all hits by 30 damag
 出場時，創建一個持續4回合的意願空間，減小所有攻擊30點傷害。
 During hail, immune to Fire- and Electric-type moves.
 冰雹天氣時，免疫火和電屬性技能。
-Restores HP based on damage taken by others from hail.
-根據其他精靈因冰雹所受的傷害回覆HP。
+Restores HP based on damage taken by others from hail, and increases hail damage by 50%.
+Restores HP based on damage taken by others from hail, and increases hail damage by 50%.
 After knocking out any Pokémon, raises its Sp. Atk and Sp. Def.
 擊倒任意精靈後，特攻和特防增加1級。
 The random added effects of moves by all battlers always activate.
@@ -64624,6 +64664,36 @@ cold and wet fog with reduced visibility
 "Canon Name Here"
 {1} threw {2} coins into the Wishing Well!
 {1} threw {2} coins into the Wishing Well!
+#{pokemon.name} Lv. #{pokemon.level}
+#{pokemon.name} Lv. #{pokemon.level}
+Change Form
+Change Form
+{1}: {2} ({3}%)
+{1}: {2} ({3}%)
+{1}'s stat changes were reset!
+{1}'s stat changes were reset!
+{1} dances a healing rhythm!
+{1} dances a healing rhythm!
+{1} sharpens its instincts, doubling its critical hit chance!
+{1} sharpens its instincts, doubling its critical hit chance!
+{1} protects its weak points ! It cannot take super-effective damage for the next {2} hits!
+{1} protects its weak points ! It cannot take super-effective damage for the next {2} hits!
+{1}'s weaknesses are revealed again!
+{1}'s weaknesses are revealed again!
+A raging dustbowl engulfed {1}!
+A raging dustbowl engulfed {1}!
+The dustbowl around {1} dissipated!
+The dustbowl around {1} dissipated!
+The dustbowl around {1} subsided!
+The dustbowl around {1} subsided!
+{1} stirred the ground beneath it!
+{1} stirred the ground beneath it!
+But it failed, since there is no Sandstorm!
+But it failed, since there is no Sandstorm!
+{1} gormandized {2}'s {3}!
+{1} gormandized {2}'s {3}!
+Which form shall the Pokémon take?
+Which form shall the Pokémon take?
 [27]
 0
 Animated
@@ -66511,6 +66581,8 @@ Flinch
 畏縮
 Crit Chance Up
 命中要害率增加
+Probe Weakness
+Probe Weakness
 Focus Punch
 集中拳
 Follow Me
@@ -66715,6 +66787,8 @@ Weight Halved
 重量減半
 Drowsy
 瞌睡
+Drowsiness Pierces
+Drowsiness Pierces
 Choice Locking
 選擇鎖定
 Stats Raised
@@ -66755,8 +66829,8 @@ Charm Turns
 魅力回合
 Charm Chance
 魅力概率
-No Weaknesses
-無弱點
+Inured Hits
+Inured Hits
 No Retreat!!
 不得後退!!
 Healing Reversed
@@ -66915,6 +66989,8 @@ Fleeting Footwork
 Fleeting Footwork
 Battle-Hardened
 Battle-Hardened
+Steep Momentum
+Steep Momentum
 Amulet Coin
 護身符硬幣
 Fairy Lock
@@ -67121,6 +67197,8 @@ Turns Until Freeze
 Turns Until Freeze
 Coral Overgrowth
 Coral Overgrowth
+Dustbowl
+Dustbowl
 [33]
 Crowning Achievement
 加冕
