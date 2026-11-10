@@ -7069,17 +7069,17 @@ Sewaddle is chewing on the cardboard box!
 Sewaddle está mastigando a caixa de papelão!
 [Map97]
 I'm the director of operations here. The lead system administrator.
-I'm the director of operations here. The lead system administrator.
+Eu sou a diretora de operações daqui. A administradora-líder do sistema.
 You would think that they would put me in a better office, but no.
-You would think that they would put me in a better office, but no.
+Você imaginaria que eles me colocariam em um escritório melhor, mas não.
 Apparently my "expertise" means I need to be "on- site"..."at all times"...
-Apparently my "expertise" means I need to be "on- site"..."at all times"...
+Aparentemente, minha "expertise" significa que preciso ficar "no local"... "o tempo todo"...
 Ugh. At least the Pokemon here keep me company.
-Ugh. At least the Pokemon here keep me company.
+Aff. Pelo menos os Pokémon aqui me fazem companhia.
 Most of our servers are in here, but some of the older ones we keep in a room in the lower level.
-Most of our servers are in here, but some of the older ones we keep in a room in the lower level.
+A maioria de nossos servidores está aqui, mas mantemos alguns dos mais antigos em uma sala do piso inferior.
 It's pretty dark and dingy. I try to go there as little as possible.
-It's pretty dark and dingy. I try to go there as little as possible.
+É bem escura e sombria. Tento ir lá o mínimo que posso.
 [Map98]
 The shelves are neatly lined with canned food and healing potions.
 The shelves are neatly lined with canned food and healing potions.
