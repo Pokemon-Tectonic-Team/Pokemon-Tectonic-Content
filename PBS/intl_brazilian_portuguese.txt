@@ -7044,29 +7044,29 @@ Yes
 Yes
 [Map96]
 This place is LuxTech's Cold Storage Facility.
-This place is LuxTech's Cold Storage Facility.
+Este lugar são as instalações do Frigorífico Da LuxTech.
 It serves two functions.
-It serves two functions.
+Ele tem dois propósitos.
 The first is to cut server running costs by keeping the hardware at low temperatures.
-The first is to cut server running costs by keeping the hardware at low temperatures.
+O primeiro é o de cortar gastos de manutenção de servidores, por causa das baixas temperaturas.
 The second is to act as a physical storage area for frozen products.
-The second is to act as a physical storage area for frozen products.
+O segundo é o de agir como uma área de armazenamento físico para produtos congelados.
 Occasionally a Pokemon will fail out of our cold survival training course.
-Occasionally a Pokemon will fail out of our cold survival training course.
+Ocasionalmente, Pokémon são reprovados em nosso curso de treinamento para sobrevivência no frio.
 This Sewaddle didn't make it through.
-This Sewaddle didn't make it through.
+Esta Sewaddle não passou.
 For behavioral reasons, that is. It handles the cold just fine with its warm leaf covering!
-For behavioral reasons, that is. It handles the cold just fine with its warm leaf covering!
+Por motivos de comportamento, no caso. Ela aguenta o frio tranquilamente com sua cobertura quentinha de folhas!
 I adopted it for my team, instead. 'Cause it's adorable.
-I adopted it for my team, instead. 'Cause it's adorable.
+Eu a adotei em minha equipe, ao invés disso. Porque ela é adorável.
 I train and manage the Pokemon here who act as living conditioning units.
-I train and manage the Pokemon here who act as living conditioning units.
+Eu treino e gerencio os Pokémon daqui, que agem como unidades vivas de condicionamento.
 It's certainly a lot of work.
-It's certainly a lot of work.
+É, com certeza, muito trabalho.
 I have to make sure they get regular breaks and food throughout the day.
-I have to make sure they get regular breaks and food throughout the day.
+Teho que garantir que eles tenham pausas regulares e comida no decorrer do dia.
 Sewaddle is chewing on the cardboard box!
-Sewaddle is chewing on the cardboard box!
+Sewaddle está mastigando a caixa de papelão!
 [Map97]
 I'm the director of operations here. The lead system administrator.
 I'm the director of operations here. The lead system administrator.
