@@ -11976,301 +11976,301 @@ In short: find The Drillers and—if neccessary—evict them.
 In short: find The Drillers and—if neccessary—evict them.
 [Map184]
 Helena's food is neatly sorted in the fridge.
-Helena's food is neatly sorted in the fridge.
+A comida da Helena está organizadamente disposta na geladeira.
 You spot a slice of cheesecake encased in seran wrap.
-You spot a slice of cheesecake encased in seran wrap.
+Você nota um pedaço de <i>cheesecake</i> envolto em filme plástico.
 You also spot a can of lemonade.
-You also spot a can of lemonade.
+Você também nota uma jarra de limonada.
 You decide against taking Helena's food.
-You decide against taking Helena's food.
+Você decide não pegar a comida da Helena.
 You use the silverware from Helena's kitchen cabinet to eat the cheesecake. It tastes delicious.
-You use the silverware from Helena's kitchen cabinet to eat the cheesecake. It tastes delicious.
+Você usa os talheres do armário da cozinha da Helena para comer o <i>cheesecake</i>. Estava delicioso.
 You decide to save the lemonade for later.
-You decide to save the lemonade for later.
+Você decide deixar a limonada para depois.
 Some more treats sit uneaten in the fridge.
-Some more treats sit uneaten in the fridge.
+Ainda há guloseimas que não foram comidas na geladeira.
 You decide against taking even more of Helena's food.
-You decide against taking even more of Helena's food.
+Você decide não pegar mais da comida da Helena.
 You gorge yourself on Helena's sweets.
-You gorge yourself on Helena's sweets.
+Você come os doces da Helena.
 After you've had your fill, you decide to take some more for later.
-After you've had your fill, you decide to take some more for later.
+Depois de se satisfazer, você decide deixar um pouco para depois.
 Helena's fridge looks a bit empty.
-Helena's fridge looks a bit empty.
+A geladeira da Helena parece um pouco vazia.
 You spot a pre-made salad, leftover pasta, and a glass of milk.
-You spot a pre-made salad, leftover pasta, and a glass of milk.
+Você nota uma salada pré-pronta, sobras de macarrão e um copo de leite.
 You take some silverware from Helena's kitchen cabinet.
-You take some silverware from Helena's kitchen cabinet.
+Você pega alguns talheres do armário da cozinha da Helena.
 You eat a third of the salad before switching to the pasta. It tastes surprisingly good despite being cold.
-You eat a third of the salad before switching to the pasta. It tastes surprisingly good despite being cold.
+Você come um terço da salada antes de começar com o macarrão. Está surpreendentemente delicioso, apesar de frio.
 You chug down the glass of milk.
-You chug down the glass of milk.
+Você bebe o copo de leite inteiro.
 A lonely, third-eaten salad lies in the fridge.
-A lonely, third-eaten salad lies in the fridge.
+Um terço de um prato solitário de salada está na geladeira.
 You can't. You've already taken so much.
-You can't. You've already taken so much.
+Você não consegue. Já comeu demais.
 You pull yourself away from the fridge.
-You pull yourself away from the fridge.
+Você se afasta da geladeira.
 You take the last of the silverware from Helena's kitchen cabinet.
-You take the last of the silverware from Helena's kitchen cabinet.
+Você pega os últimos talheres do armário da cozinha da Helena.
 Looks like Helena will need to do the dishes whenever she comes home.
-Looks like Helena will need to do the dishes whenever she comes home.
+Parece que a Helena vai precisar lavar a louça quando ela vier para casa.
 You slowly consume the remaining salad. It's acceptable.
-You slowly consume the remaining salad. It's acceptable.
+Você, lentamente, consome o restante da salada. Está aceitável.
 The fridge is empty.
-The fridge is empty.
+A geladeira está vazia.
 There's nothing left, you've completely raided it.
-There's nothing left, you've completely raided it.
+Não há mais nada, você comeu tudo.
 You notice some cutlery in the overhanging cabinet.
-You notice some cutlery in the overhanging cabinet.
+Você nota alguns talheres no armário de cima.
 If you wanted to, you could probably use it carve someone's name onto the table.
-If you wanted to, you could probably use it carve someone's name onto the table.
+Se quisesse, você provavelmente poderia usá-los para entalhar o nome de alguém na mesa.
 You carve your name onto the table.
-You carve your name onto the table.
+Você entalha o seu nome na mesa.
 You carve the name "Yezera" onto the table.
-You carve the name "Yezera" onto the table.
+Você entalha o nome "Yezera" na mesa.
 You carve the name "Tamarind" onto the table.
-You carve the name "Tamarind" onto the table.
+Você entalha o nome "Tamarind" na mesa.
 …Oh. So you’re the other guest.
-…Oh. So you’re the other guest.
+…Ah. Então a outra pessoa convidada foi você.
 I guess it could be worse…
-I guess it could be worse…
+Suponho que poderia ser pior…
 It’s – I mean, yeah.
-It’s – I mean, yeah.
+Até que – quer dizer, é.
 If – if it could be anyone, you’re… I’ll take you.
-If – if it could be anyone, you’re… I’ll take you.
+Se – entre todas as possibilidades, você… é, por mim tudo bem.
 Yeah. I’m sorry.
-Yeah. I’m sorry.
+É. Desculpa.
 I shouldn’t’ve – I shouldn’t’ve come here.
-I shouldn’t’ve – I shouldn’t’ve come here.
+Eu não deveria – eu não deveria ter vindo aqui.
 I shouldn’t’ve answered the phone… why did I even pick up?
-I shouldn’t’ve answered the phone… why did I even pick up?
+Eu não deveria ter atendido o telefone… por que que eu fui atender?
 Well… I do have another team.
-Well… I do have another team.
+Bom… eu tenho outra equipe.
 They’ve given me another one to train, and you’ve grown.
-They’ve given me another one to train, and you’ve grown.
+Me deram mais uma para treinar, e você cresceu.
 I – I mean, you have to have gotten better. I need to…
-I – I mean, you have to have gotten better. I need to…
+Q–quer dizer, você deve ter melhorado. Eu tenho que…
 *sigh* Sorry. Nevermind.
-*sigh* Sorry. Nevermind.
+*suspiro* Desculpa. Esquece.
 Tamarind wanted me here. She wanted you here.
-Tamarind wanted me here. She wanted you here.
+A Tamarind me queria aqui. Ela queria você aqui.
 She hasn’t shown up yet. I… I only really know one way to kill time. Ready?
-She hasn’t shown up yet. I… I only really know one way to kill time. Ready?
+Ela ainda não deu as caras. Eu… eu só conheço um jeito de passar o tempo. Tudo pronto?
 Oh. OK.
-Oh. OK.
+Ah. OK.
 I can – I guess we have to wait, anyways.
-I can – I guess we have to wait, anyways.
+Eu posso – acho que vou ter que esperar, de qualquer maneira.
 Thanks. I’ll try not to – I won’t disappoint you.
-Thanks. I’ll try not to – I won’t disappoint you.
+Obrigada. Eu vou tentar não – não vou te decepcionar.
 This I can do.
-This I can do.
+Isso eu consigo fazer.
 Hah. Maybe I – no.
-Hah. Maybe I – no.
+Hah. Talvez eu – não.
 I can’t.
-I can’t.
+Não posso.
 I would, but I need to train these Pokémon. I promised.
-I would, but I need to train these Pokémon. I promised.
+Eu usaria, mas preciso treinar estes Pokémon. Eu prometi.
 But, if you want to face Artemisia and Autochthon and the rest… I promise you will. Eventually.
-But, if you want to face Artemisia and Autochthon and the rest… I promise you will. Eventually.
+Mas, se você quer enfrentar a Artemisia, o Autochton e o resto… te prometo que você vai, eventualmente.
 For now I’ll keep using these. You ready?
-For now I’ll keep using these. You ready?
+Por enquanto, vou usar estes aqui. Tudo pronto?
 She always runs late, right… right?
-She always runs late, right… right?
+Ela sempre se atrasa, não é… não é?
 Does she just not want to… oh! Are you ready now?
-Does she just not want to… oh! Are you ready now?
+Será que ela só não quer… ah, oi! Já está tudo certo?
 Hah!
 Hah!
 That was good.
-That was good.
+Isso foi bom.
 I’m – oh. I’m sorry, I’m… no.
-I’m – oh. I’m sorry, I’m… no.
+Me – ah. Me desculpa, me… não.
 You’re… you’re like a Pokémon, you know that?
-You’re… you’re like a Pokémon, you know that?
+Você… você é como um Pokémon, sabia?
 But also like – you’re like me. I think. Maybe I’m projecting.
-But also like – you’re like me. I think. Maybe I’m projecting.
+Mas também, tipo – você é como eu. Eu acho. Talvez eu esteja projetando.
 Oh? Well, thank you. I think.
-Oh? Well, thank you. I think.
+Ah? Bom, obrigada. Eu acho.
 It’s easy to talk to you, but you can talk back. You’re a real person.
-It’s easy to talk to you, but you can talk back. You’re a real person.
+É fácil conversar com você, mas você pode conversar comigo de volta. Você é uma pessoa de verdade.
 And you’re a trainer – a great trainer! I want to ask you so much.
-And you’re a trainer – a great trainer! I want to ask you so much.
+E você treina Pokémon – treina muito bem! Tem tanta coisa que eu quero te perguntar.
 You’re – you can talk to your Pokémon. You understand them.
-You’re – you can talk to your Pokémon. You understand them.
+Você – você consegue conversar com os seus Pokémon. Você entende eles.
 I mean, I don’t speak their language but – I’m sorry, I can’t explain very well.
-I mean, I don’t speak their language but – I’m sorry, I can’t explain very well.
+Quer dizer, eu não falo a língua deles mas – desculpa, eu não consigo explicar muito bem.
 I only speak well… I only speak dueling. And you speak it too.
-I only speak well… I only speak dueling. And you speak it too.
+A única língua que eu… meu idioma é o duelo. E o seu também.
 Oh.
-Oh.
+Ah.
 I guess that’s – I mean, that’s my life. First the arm, and then the shyness, and then suddenly you’re a thirteen-year-old hero and – oh. I’m so, so sorry.
-I guess that’s – I mean, that’s my life. First the arm, and then the shyness, and then suddenly you’re a thirteen-year-old hero and – oh. I’m so, so sorry.
+Acho que faz sentido – quer dizer, essa é a minha vida. Primeiro o braço, depois a timidez, e de repente você é uma heroína aos treze anos de idade e – ah. Desculpa, me desculpa mesmo.
 I go on tangents. Especially with you, it seems. I’m… it’s mortifying.
-I go on tangents. Especially with you, it seems. I’m… it’s mortifying.
+Eu desvio muito de assunto. Especialmente com você, pelo jeito. Eu não… é assustador.
 …Yeah. I would too, if I were you.
-…Yeah. I would too, if I were you.
+…É. Eu também esperaria, se eu fosse vocẽ.
 If you could be anything, I wouldn’t… I wouldn’t choose me.
-If you could be anything, I wouldn’t… I wouldn’t choose me.
+Se eu pudesse ser qualquer coisa, eu não… eu não escolheria ser eu.
 The world must be really nice for you. To you.
-The world must be really nice for you. To you.
+O mundo deve ser muito bom com você. Para você.
 I don’t – I can’t blame you for hoping I’m wrong.
-I don’t – I can’t blame you for hoping I’m wrong.
+Eu não – não posso culpar você por esperar que eu esteja errada.
 You two got acquainted, then? Damn. Nary a scratch on this place.
-You two got acquainted, then? Damn. Nary a scratch on this place.
+Ah, então vocês se conheceram? Caramba. Nem um arranhão sequer neste lugar.
 Honestly, I bring the two most explosive duelists I can find to Helena’s house and you can’t even break a vase?
-Honestly, I bring the two most explosive duelists I can find to Helena’s house and you can’t even break a vase?
+Francamente… eu junto as duas pessoas mais explosivas em batalhas que eu conheço dentro da casa da Helena, mas vocês nem sequer quebraram um vasinho?
 My luck… well, you’re both here.
-My luck… well, you’re both here.
+Que droga… bom, vocês estão aqui.
 \PN, meet Yezera, former Champion. Yezera, meet \PN, future Champion.
-\PN, meet Yezera, former Champion. Yezera, meet \PN, future Champion.
+\PN, conheça a Yezera, ex-Campeã. Yezera, conheça \PN, a próxima pessoa a ser Campeã.
 I wanted you two to meet, but I’m kinda getting the feeling you already know each other.
-I wanted you two to meet, but I’m kinda getting the feeling you already know each other.
+Queria que vocês se conhecessem, mas tenho a sensação de que já se viram antes.
 Figures. You’re an explorer, and she keeps away from the beaten paths.
-Figures. You’re an explorer, and she keeps away from the beaten paths.
+Faz sentido. Você gosta de explorar, e ela adora ficar longe dos lugares onde todo mundo passa.
 Or any paths at all, honestly.
-Or any paths at all, honestly.
+Ou, melhor, longe de qualquer lugar no geral, honestamente.
 Oh? Then things really have changed since last time we met.
-Oh? Then things really have changed since last time we met.
+Ah? Então as coisas realmente mudaram desde que nos vimos pela última vez.
 For both of you, now that I think about it.
-For both of you, now that I think about it.
+Tanto para você quanto para a Yezera, pensando bem.
 Now that’s just grand.
-Now that’s just grand.
+Isso é ótimo.
 What I wanted, honestly. I’ve basically been shipping you two – except, y’know, with violence instead of…
-What I wanted, honestly. I’ve basically been shipping you two – except, y’know, with violence instead of…
+Era o que eu queria, honestamente. Eu estava basicamente <i>shippando</i> vocês – mas, você sabe, com violência ao invés de com…
 I should’ve left that thought in my head.
-I should’ve left that thought in my head.
+Eu deveria ter guardado esse pensamento para mim.
 Anyways…
-Anyways…
+De qualquer maneira…
 Hah! So you’ve gotten the same treatment that we did.
-Hah! So you’ve gotten the same treatment that we did.
+Hah! Então você recebeu o mesmo tratamento que nós recebemos.
 She’s good at what she does… and bad at what she doesn’t.
-She’s good at what she does… and bad at what she doesn’t.
+Ela é ótima no que faz… e terrível no que não faz.
 Yezera… I can’t just ignore you.
-Yezera… I can’t just ignore you.
+Yezera… não posso só ignorar você.
 Even if you’d like me to.
-Even if you’d like me to.
+Mesmo que você queira que eu ignore.
 Are you OK? I haven’t seen you in…
-Are you OK? I haven’t seen you in…
+Você tá bem? Eu não te vejo devem fazer…
 Over a year. Two since we’ve talked.
-Over a year. Two since we’ve talked.
+Mais de um ano. Dois, desde a última vez que conversamos.
 I’m – I’m fine but – I can’t. I can’t do this.
-I’m – I’m fine but – I can’t. I can’t do this.
+Eu – eu estou bem, mas – não dá. Não consigo ficar aqui.
 Not with both of you – I’m sorry.
-Not with both of you – I’m sorry.
+Não com duas pessoas aqui – desculpa.
 Well… at least she’s alive and intact.
-Well… at least she’s alive and intact.
+Bom… pelo menos ela tá viva e intacta.
 Yezera. The girl that took down Team Chasm. First Champion of Makya.
-Yezera. The girl that took down Team Chasm. First Champion of Makya.
+Yezera. A garota que derrubou a Equipe Chasm. Primeira Campeã de Makya.
 Mystery disappearance, manhunt, no tracks, the works.
-Mystery disappearance, manhunt, no tracks, the works.
+Desaparecimento misterioso, busca intensa, sem rastros – você já deve imaginar.
 She’s grown since then… but still a nervous wreck.
-She’s grown since then… but still a nervous wreck.
+Ela cresceu desde então… mas ainda é um poço de ansiedade.
 Anyways. You didn’t come here for history.
-Anyways. You didn’t come here for history.
+Enfim. Você não veio aqui para ter uma aula de história.
 I wouldn’t go that far.
-I wouldn’t go that far.
+Eu não diria "interessante".
 It’s stupid, is what it was. The whole shebang.
-It’s stupid, is what it was. The whole shebang.
+Estúpido, é o que foi. A coisa toda.
 But, yeah, anyways. Gift.
-But, yeah, anyways. Gift.
+Mas, é, enfim. Presente.
 Yeah, I’ve wasted enough of your time.
-Yeah, I’ve wasted enough of your time.
+É, desperdicei demais o seu tempo.
 That gift I mentioned – let’s get to that.
-That gift I mentioned – let’s get to that.
+Aquele presente que mencionei – vamos falar dele.
 Indeed! I wanted to get you to meet her, but I know your type. I can bait a hook.
-Indeed! I wanted to get you to meet her, but I know your type. I can bait a hook.
+Sim! Eu queria que você a conhecesse, mas eu conheço a sua laia. Eu sei lançar uma isca.
 Well, if you’re interested I can – actually, it’s probably better for you to hear it from her mouth. You’ll see her again.
-Well, if you’re interested I can – actually, it’s probably better for you to hear it from her mouth. You’ll see her again.
+Bom, se você tiver interesse, eu posso – na verdade, acho que é melhor você ouvir da boca dela. Você vai encontrar ela de novo.
 She wouldn’t let a potential challenger go.
-She wouldn’t let a potential challenger go.
+Ela jamais deixaria desafiantes em potencial escaparem.
 But!
-But!
+Mas!
 Your gift.
-Your gift.
+Seu presente.
 Since avatars turned the bridge to flotsam – and, yes, I TOLD THEM to reinforce it!
-Since avatars turned the bridge to flotsam – and, yes, I TOLD THEM to reinforce it!
+Já que avatares transformaram a ponte em nada mais que destroços na água – e, sim: eu AVISEI ELES que seria uma boa ideia reforçá-la!
 They didn’t, since they trust ex-Chasm about as far as they can throw them and – anyways!
-They didn’t, since they trust ex-Chasm about as far as they can throw them and – anyways!
+Mas eles não me ouviram, já que "quem é ex-Chasm não é nada confiável" e – de qualquer forma!
 For very stupid, avoidable reasons, the river’s basically uncrossable without Surf.
-For very stupid, avoidable reasons, the river’s basically uncrossable without Surf.
+Por motivos muito estúpidos e consequências outrora perfeitamente evitáveis, o Rio está basicamente incruzável, se você não Surfar.
 If you’re like me, you’re not gonna pack a Water-type everywhere you go, so just use this instead.
-If you’re like me, you’re not gonna pack a Water-type everywhere you go, so just use this instead.
+Se você for igual a mim, não vai querer ficar carregando um tipo Água para todo lado, então use isto no lugar.
 It’s just more practical. Stylish, too! Assuming you’re good at it. Which I’m not.
-It’s just more practical. Stylish, too! Assuming you’re good at it. Which I’m not.
+É bem mais prático. Estiloso, também! Supondo, claro, que você seja competente usando isso. Não é o meu caso.
 Go have fun and get those badges.
-Go have fun and get those badges.
+Vá se divertir e pegar aquelas insígnias.
 Oh, and, uh, this is Helena’s place, so feel free to eat some of her food or something before you go.
-Oh, and, uh, this is Helena’s place, so feel free to eat some of her food or something before you go.
+Ah, e, hã, essa é a casa da Helena, então fica à vontade pra comer um pouco da comida dela, ou coisa assim, antes de ir embora.
 Kick a vase over. Carve your name in the table. Er – maybe someone else’s name. Yezera’s name! She’d get a kick out of that. Heh.
-Kick a vase over. Carve your name in the table. Er – maybe someone else’s name. Yezera’s name! She’d get a kick out of that. Heh.
+Chuta algum vaso. Entalha o seu nome na mesa. Hã – talvez o nome de outra pessoa. O nome da Yezera! Ela ia achar isso hilário. Heh.
 You see your name carved onto the table.
-You see your name carved onto the table.
+Você vê seu nome entalhado na mesa.
 You see the name "Yezera" carved onto the table.
-You see the name "Yezera" carved onto the table.
+Você vê o nome "Yezera" entalhado na mesa.
 You see the name "Tamarind" carved onto the table.
-You see the name "Tamarind" carved onto the table.
+Você vê o nome "Tamarind" entalhado na mesa.
 A vase filled with flowers sits delicately on the floor.
-A vase filled with flowers sits delicately on the floor.
+Um vaso cheio de flores repousa delicadamente no chão.
 You could totally smash this thing, if you wanted to.
-You could totally smash this thing, if you wanted to.
+Você poderia totalmente estilhaçar essa coisa, se você quisesse.
 You decide against smashing the vase.
-You decide against smashing the vase.
+Você decide não quebrar o vaso.
 You find a garbage bag, put the flowers in it, and swing it against the wall with all your might.
-You find a garbage bag, put the flowers in it, and swing it against the wall with all your might.
+Você encontra um saco de lixo, coloca as flores nele, e o arremessa contra a parede com toda a sua força.
 A garbage bag filled with rubble is all that remains of this once proud vase.
-A garbage bag filled with rubble is all that remains of this once proud vase.
+Um saco de lixo cheio de cacos é tudo o que resta deste vaso outrora majestoso.
 Don't take the food.
-Don't take the food.
+Não pegar comida.
 Take the food.
-Take the food.
+Pegar comida.
 Don't carve.
-Don't carve.
+Não entalhar.
 Carve your name.
-Carve your name.
+Entalhar o seu nome.
 Carve Yezera's name.
-Carve Yezera's name.
+Entalhar o nome da Yezera.
 Carve Tamarind's name.
-Carve Tamarind's name.
+Entalhar o nome da Tamarind.
 Good to see you.
-Good to see you.
+Bom te ver.
 Damn it, Tamarind.
-Damn it, Tamarind.
+Droga, Tamarind.
 We gonna fight again?
-We gonna fight again?
+Precisamos lutar de novo?
 Give me a minute.
-Give me a minute.
+Me dá um minuto.
 OK.
 OK.
 Use your real team.
-Use your real team.
+Use sua equipe de verdade.
 No, you're right.
-No, you're right.
+Não, você está certa.
 What do you mean?
-What do you mean?
+Como assim?
 We're very different.
-We're very different.
+Somos muito diferentes.
 I hope I'm not.
-I hope I'm not.
+Espero que não.
 We've met.
-We've met.
+Nós nos conhecemos.
 We're friends.
-We're friends.
+Ela é minha amiga.
 We're rivals.
-We're rivals.
+Somos rivais.
 Unfortunately.
-Unfortunately.
+Infelizmente.
 It's interesting.
-It's interesting.
+Achei interessante.
 Get to the point.
-Get to the point.
+Desembucha.
 You had a gift?
-You had a gift?
+Você tinha um presente?
 Actually, I kinda did.
-Actually, I kinda did.
+Na verdade, meio que sim.
 Don't smash.
-Don't smash.
+Não quebrar.
 Smash.
-Smash.
+Quebrar.
 [Map185]
 I've been stationed here to look for avatars.
 I've been stationed here to look for avatars.
