@@ -24942,35 +24942,35 @@ People share them with loved ones to express condolences for a loss.
 Os moradores locais as presenteiam a amigos ou familiares para expressar condolências por uma perda.
 [Map394]
 I stumbled onto a cave with an avatar of Entei up ahead!
-I stumbled onto a cave with an avatar of Entei up ahead!
+Acabei me deparando com uma caverna com um avatar de Entei aqui na frente.
 I found a Raikou avatar the other day as well.
-I found a Raikou avatar the other day as well.
+Encontrei um avatar de Raikou no outro dia, também.
 And rumor has it there is also a Suicune avatar, equidistant from the other two.
-And rumor has it there is also a Suicune avatar, equidistant from the other two.
+E rumores dizem que existe, também, um avatar de Suicune, equidistante dos outros dois.
 They're all heavily guarded by small groups of people.
-They're all heavily guarded by small groups of people.
+Eles são fortemente vigiados por pequenos grupos de pessoas.
 Everyone seems too scared to destroy them, though.
-Everyone seems too scared to destroy them, though.
+Mas todos parecem assustados demais para destruí-los.
 Orbeetle specializes in enhancing Bug-type moves.
-Orbeetle specializes in enhancing Bug-type moves.
+Orbeetle se especializa em melhorar movimentos do tipo Inseto.
 Its Hive Mind ability allows it and its allies to deal 50% more damage with Bug-type moves!
-Its Hive Mind ability allows it and its allies to deal 50% more damage with Bug-type moves!
+Sua habilidade "Mente De Colmeia" permite que ele e seus aliados causem 50% a mais de dano com movimentos do tipo Inseto!
 It turns Orbeetle into a very potent support Pokémon for teams with loads of different Bugs!
-It turns Orbeetle into a very potent support Pokémon for teams with loads of different Bugs!
+Ela torna Orbeetle em um Pokémon de suporte muito potente para equipes com vários Insetos!
 LuxTech has been so successful for the region that new housing is being developed.
-LuxTech has been so successful for the region that new housing is being developed.
+A LuxTech tem sido tão boa para a região que novas moradias estão sendo desenvolvidas.
 Helena herself has taken residence in the freshly manicured County Park.
-Helena herself has taken residence in the freshly manicured County Park.
+A própria Helena começou a morar no bem-cuidado Parque Municipal.
 I head the deodorant sales division at Miss Dreavus cosmetics.
-I head the deodorant sales division at Miss Dreavus cosmetics.
+Gerencio a divisão de vendas de desodorantes na Miss Dreavus Cosméticos.
 My team just clinched a cross-promotional deal with LuxTech!
-My team just clinched a cross-promotional deal with LuxTech!
+Minha equipe acabou de fechar um acordo de promoção cruzada com a LuxTech!
 We already have samples. Please, take one!
-We already have samples. Please, take one!
+Já temos algumas amostras. Por favor, pegue uma!
 Achieve haunting cleanliness with Miss Dreavus.
-Achieve haunting cleanliness with Miss Dreavus.
+Alcance uma beleza assombrosa com a Miss Dreavus.
 Never leave home without your Clear Smog. It's like magic!
-Never leave home without your Clear Smog. It's like magic!
+Nunca saia de casa sem antes Limpar Neblina. É como mágica!
 [Map395]
 There's a tourist family causing all kinds of chaos in the west part of town.
 There's a tourist family causing all kinds of chaos in the west part of town.
@@ -42236,7 +42236,7 @@ High-rise
 Hit and Run
 Hit and Run
 Hive Mind
-Hive Mind
+Mente De Colmeia
 Holiday Cheer
 Holiday Cheer
 Hooligan
