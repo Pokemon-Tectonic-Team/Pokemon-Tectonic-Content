@@ -6386,37 +6386,37 @@ Yes
 Sim
 [Map80]
 I'm a berry farmer now, but I used to be a Team Chasm grunt.
-I'm a berry farmer now, but I used to be a Team Chasm grunt.
+Sou uma fazendeira de frutas agora, mas eu costumava ser uma recruta da Equipe Chasm.
 Been feeling nostalgic, lately. Looking at photos of me and my old team.
-Been feeling nostalgic, lately. Looking at photos of me and my old team.
+Estive me sentindo nostálgica, ultimamente. Olhando fotos de mim e minha antiga equipe.
 My Pokemon were all adorable. Course, they're all grown up now.
-My Pokemon were all adorable. Course, they're all grown up now.
+Meus Pokémon eram adoráveis. É claro, estão todos crescidos agora.
 Wouldn't it be nice to see 'em all again like they were...
-Wouldn't it be nice to see 'em all again like they were...
+Seria tão legar podê vê eles di novo como eles era antes...
 Hey, that gives me an idea!
-Hey, that gives me an idea!
+Ei, isso mi deu uma ideia!
 If you round up my old team and bring 'em here for me to look at, I'll give you this Catching Charm I've been holdin' on to.
-If you round up my old team and bring 'em here for me to look at, I'll give you this Catching Charm I've been holdin' on to.
+Si ocê reuní minh'antiga equipe i trazê eles pra mim dá uma oiada, eu ti dô esse Amuleto Di Captura qui eu tenho guardado.
 Sound good? I'm not askin' to take 'em, just lookin'.
-Sound good? I'm not askin' to take 'em, just lookin'.
+Tá bão? Num to ti pedino pra mi dá eis não. Eu só quero oiá.
 A Bergmite, a Klink, a Dreepy, a Makyan Tangela, and an Elekid. Bring me these five and it'll make my year.
-A Bergmite, a Klink, a Dreepy, a Makyan Tangela, and an Elekid. Bring me these five and it'll make my year.
+Um Bergmite, um Kling, um Dreepy, um Tangela Makiense i um Elekid. Mi traz esses cinco i ocê vai fazê o meu ano.
 A Bergmite, a Klink, a Dreepy, a Makyan Tangela, and an Elekid. You have 'em?
-A Bergmite, a Klink, a Dreepy, a Makyan Tangela, and an Elekid. You have 'em?
+Um Bergmite, um Kling, um Dreepy, um Tangela Makiense i um Elekid. Ocê tá com eles aí?
 Amazing, there they all are!
-Amazing, there they all are!
+Incríver! Óia só pra eles!
 Here's the charm I promised.
-Here's the charm I promised.
+Tó aqui o amuleto qui eu prometi.
 I see that you don't. No problem, I've got things I can do while waiting.
-I see that you don't. No problem, I've got things I can do while waiting.
+To veno qui ocê num tá. Num tem pobrema, eu tenho umas coisa pra fazê inquanto eu espero.
 What a wonderful feeling this is.
-What a wonderful feeling this is.
+Qui sensação maraviosa.
 Lives move on, but it's good to remember sometimes.
-Lives move on, but it's good to remember sometimes.
+A vida segue, mas é bão dá uma relembrada às vêis.
 A Pokemon Contest Spectacular is being shown on TV.
-A Pokemon Contest Spectacular is being shown on TV.
+Um espetáculo de um Concurso Pokémon está passando na TV.
 The audience is watching in awe as a Galvantula weaves an electrified web in the shape of a Pikachu.
-The audience is watching in awe as a Galvantula weaves an electrified web in the shape of a Pikachu.
+A plateia observa, admirada, uma Galvantula tecer uma teia eletrificada com o formato de um Pikachu.
 [Map81]
 Ah, hello. A trainer, I take it?
 Ah, hello. A trainer, I take it?
@@ -47662,7 +47662,7 @@ LuxTech Battle Labs
 Laboratórios De Batalha Da LuxTech
 80
 Berry Farmer's House
-Casa Do Fazendeiro De Frutas
+Casa Da Fazendeira De Frutas
 81
 East Tunnel
 Túnel Leste
@@ -53075,7 +53075,7 @@ Bring the Pokémon to her.
 This former Team Chasm member has been feeling nostalgic. Bring her a Bergmite, a Klink, a Dreepy, a Makyan Tangela, and an Elekid.
 This former Team Chasm member has been feeling nostalgic. Bring her a Bergmite, a Klink, a Dreepy, a Makyan Tangela, and an Elekid.
 Catching Charm
-Catching Charm
+Amuleto De Captura
 Geodude Frenzy!
 Geodude Frenzy!
 Scientist
