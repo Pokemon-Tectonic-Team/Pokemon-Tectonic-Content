@@ -6603,43 +6603,43 @@ The Makyan Rangers primarily fund and staff these places nowadays.
 [Map84]
 [Map85]
 I've been fishing by the river.
-I've been fishing by the river.
+Estive pescando no rio.
 I caught this weird fish. It's weird and ugly, with like five of these arm things.
-I caught this weird fish. It's weird and ugly, with like five of these arm things.
+Capturei este peixe estranho. É esquisito e feio, com, tipo, cinco dessas coisas que se parecem com braços.
 It doesn't even look like a fish.
-It doesn't even look like a fish.
+Ele nem mesmo se parece com um peixe.
 Apparently some of them are pink and some of them are blue, but I don't care, I hate both colors.
-Apparently some of them are pink and some of them are blue, but I don't care, I hate both colors.
+Aparentemente, alguns deles são rosa e outros são azuis, mas eu não ligo: odeio as duas cores.
 Daddy says we need to cut down all those flowers outside, so gimme a Bushwhacker.
-Daddy says we need to cut down all those flowers outside, so gimme a Bushwhacker.
+O Papai me disse que a gente precisa dar um jeito naquele avatar e naquelas flores lá fora, então me dá um Emboscador.
 I'll trade you the ugly fish for it.
-I'll trade you the ugly fish for it.
+Te dou o peixe feio em troca.
 This thing is ugly and dumb. Maybe I should throw it at someone.
-This thing is ugly and dumb. Maybe I should throw it at someone.
+Essa coisa é feia e estúpida. Talvez eu deva jogar ele em alguém.
 This fish is really ugly. I don't want to be by it much longer.
-This fish is really ugly. I don't want to be by it much longer.
+Esse peixe é muito feio. Eu não quero ficar perto dele por mais tempo.
 Goodbye, ugly fish!
-Goodbye, ugly fish!
+Adeuzinho, peixe feio!
 The ugly fish is gone! Hurray!
-The ugly fish is gone! Hurray!
+O peixe feio se foi! Ebaaaa!
 I'm going to go fishing later!
-I'm going to go fishing later!
+Vou ir pescar mais tarde!
 To catch more fish!
-To catch more fish!
+Para pegar mais peixes!
 Fish! Fish!
-Fish! Fish!
+Peixes! Peixes!
 Confound that Sunflora.
-Confound that Sunflora.
+Maldita Suflora.
 You'd never think one'd be a problem, but these "Avatars" don't like playin' by the rules.
-You'd never think one'd be a problem, but these "Avatars" don't like playin' by the rules.
+Você nunca imaginaria que uma seria problema, mas esses "Avatares" não gostam de jogar limpo.
 Them unnatural sunflowers are proof enough.
-Them unnatural sunflowers are proof enough.
+Aqueles girassóis não naturais são prova suficiente.
 What? You thought I liked those orange eyesores?
-What? You thought I liked those orange eyesores?
+O quê? Você pensou que eu gostasse daquelas aberrações alaranjadas?
 No
-No
+Não
 Yes
-Yes
+Sim
 [Map86]
 It attacks!
 Ele ataca!
