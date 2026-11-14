@@ -32,14 +32,6 @@ class PokeBattle_Move_SetUserTypesToUserMoveType < PokeBattle_Move
         user.pbChangeTypes(newType)
         typeName = GameData::Type.get(newType).name
         @battle.pbDisplay(_INTL("{1} transformed into the {2} type!", user.pbThis, typeName))
-        user.pbRaiseMultipleStatSteps(ALL_STATS_1, user, move: self)
-        user.applyEffect(:ConversionUsed)
-    end
-
-    def getEffectScore(user, target)
-        score = 0
-        score += getMultiStatUpEffectScore(ALL_STATS_1, user, user)
-        return score
     end
 end
 
