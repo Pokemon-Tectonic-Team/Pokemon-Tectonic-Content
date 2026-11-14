@@ -1767,45 +1767,45 @@ Você insere o Cartão ID Chasm.
 The door unlocks with a click.
 A porta destranca com um clique.
 Hey, Trainer. You seem like the classy type.
-Hey, Trainer. You seem like the classy type.
+Ei, viajante. Você parece do tipo elegante.
 Let me guess. Born rich? Toxic family relationships? Rampant imposter syndrome coupled with a crippling need to define yourself?
-Let me guess. Born rich? Toxic family relationships?  Rampant imposter syndrome coupled with a crippling need to define yourself?
+Permita-me adivinhar. Nasceu em berço de ouro? Relações tóxicas com a família? Uma violenta síndrome de impostor, misturada com uma vontade incapacitante de se autodefinir?
 Well, you look like the perfect fit for this Skitty I've managed to get.
-Well, you look like the perfect fit for this Skitty I've managed to get.
+Bom, você parece a pessoa perfeita para esta Skitty que eu arrumei.
 For the absolute steal of $200,000, I'll let you get your hands on one. And guess what -- it's shiny.
-For the absolute steal of $200,000, I'll let you get your hands on one. And guess what -- it's shiny.
+Pela bagatela de $200.000, te deixarei ficar com uma. E adivinha só? Ela é shiny.
 Show that to your... mom? Dad? No, definitely mom. Probably a sibling in there as well, huh?
-Show that to your... mom? Dad? No, definitely mom.  Probably a sibling in there as well, huh?
+Leve-a para mostrar pra sua... mãe? Pai? Não, com certeza mãe. Provavelmente um irmão envolvido aí, também, né?
 I'm sure you'll get at least a week's worth of self- worth flaunting that to them. All that quality time for just $200,000.
-I'm sure you'll get at least a week's worth of self- worth flaunting that to them. All that quality time for just $200,000.
+Tenho certeza que você vai ganhar ao menos uma semana de auto-estima ostentando a Skitty para eles. Tudo isso por apenas $200.000.
 Hah! That's what they all say. You'll be back, sooner or later.
-Hah! That's what they all say. You'll be back, sooner or later.
+Hah! Isso é o que todos dizem. Você vai voltar, cedo ou tarde.
 The Pokemon is all yours, enjoy it while you can.
-The Pokemon is all yours, enjoy it while you can.
+O Pokémon é todo seu, aproveite enquanto pode.
 And with that, my early retirement has been secured.
-And with that, my early retirement has been secured.
+E, assim, minha aposentadoria precoce foi garantida.
 Tata suck- uhh, client.
-Tata suck- uhh, client.
+Té mais, otá- hã, cliente.
 With that trifling sum? Surely you can do better than that.
-With that trifling sum? Surely you can do better than that.
+Com essa mixaria? Com certeza você pode conseguir mais do que isso.
 Ah, so you've finally caved? $200,000 for the shiny Skitty. No more, no less.
-Ah, so you've finally caved? $200,000 for the shiny Skitty. No more, no less.
+Ah, então você finalmente se decidiu? $200.000 pela shiny Skitty. Nem mais, nem menos.
 Are you going into the sauna?
-Are you going into the sauna?
+Você vai para a sauna?
 Careful to not go into the underground area. It's where we keep the wild Pokemon that heat up the place.
-Careful to not go into the underground area. It's where we keep the wild Pokemon that heat up the place.
+Cuidado para não acabar indo para a área subterrânea. É lá que mantemos os Pokémon selvagens que aquecem o local.
 Unless you want to catch said wild Pokemon I guess...
-Unless you want to catch said wild Pokemon I guess...
+Quer dizer, a não ser que você queira capturá-los...
 Well, if you get hurt down there, that's on you.
-Well, if you get hurt down there, that's on you.
+Bom, se você se machucar lá embaixo, o problema vai ser seu.
 The sauna is only available to the Rangers and their families.
-The sauna is only available to the Rangers and their families.
+A sauna só está disponível para os Rangers e suas famílias.
 You'll need a ID Card to get in there.
-You'll need a ID Card to get in there.
+Você vai precisar de um Cartão ID para entrar aqui.
 I'm good.
-I'm good.
+Tô de boa.
 Sure, I'll pay for that.
-Sure, I'll pay for that.
+Claro, vou pagar.
 [Map14]
 [Map15]
 You've found Kirbae, a playtester and coder.
