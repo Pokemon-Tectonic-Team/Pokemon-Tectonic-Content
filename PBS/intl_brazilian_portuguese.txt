@@ -627,7 +627,7 @@ Tem certeza? Você não vai encontrar uma oferta como esta de novo.
 Heh, pleasure doing business with ya.
 Heh, prazer fazer negócios com você.
 \PN hands over $5000 in exchange.
-\PN entrega $5000 em troca.
+\PN paga $5000 em troca.
 Well, gotta hit the road. Cash is only useful if you spend it, ya know.
 Bom, tenho que dar no pé. Dinheiro só é útil se você gasta ele, hehe.
 You missing the cash? Hmm.
@@ -2379,7 +2379,7 @@ Sem problemas. Estarei em patrulha por um tempo, então é só falar comigo se m
 Here ya go, pleasure doing business.
 Aqui está, prazer fazer negócios.
 \PN hands over $6000 in exchange.
-\PN entrega $6000 em troca.
+\PN paga $6000 em troca.
 Guess I'll go back on patrol now.
 Bom, de volta à patrulha.
 Looks like you're a bit short on cash.
@@ -6743,43 +6743,43 @@ It's guardin' the junction that connects our here sewer system to the big one un
 Está vigiando a junção que conecta nosso sistema de esgoto com o sistema grande de Prizca.
 [Map89]
 Everyone makes a fuss about how unreasonably cold it is in this little corner of Makya.
-Everyone makes a fuss about how unreasonably cold it is in this little corner of Makya.
+Todo mundo reclama o tempo todo sobre quão irracionalmente frio este canto de Makya é.
 But I don't hear anyone talking about that crater to the south. There's something evil about it.
-But I don't hear anyone talking about that crater to the south. There's something evil about it.
+Mas nunca ouvi ninguém reclamar daquela cratera ao sul. Tem alguma coisa maligna acontecendo por lá.
 Oh, don't give me that look! If you live in Makya long enough, you'll start to believe some strange things too!
-Oh, don't give me that look! If you live in Makya long enough, you'll start to believe some strange things too!
+Ah, não me olha assim! Se você viver em Makya por tempo suficiente, também vai começar a acreditar em umas coisas estranhas!
 I wanted to go spelunking in the Ice Cave, but the security here won't let me.
-I wanted to go spelunking in the Ice Cave, but the security here won't let me.
+Eu queria ir explorar a Caverna De Gelo, mas os seguranças daqui não me permitem.
 Apparently the Cave got more dangerous recently, so they've restricted access to highly skilled trainers only.
-Apparently the Cave got more dangerous recently, so they've restricted access to highly skilled trainers only.
+Aparentemente, a Caverna ficou ainda mais perigosa recentemente, então o acesso está restrito apenas a treinadores altamente habilidosos.
 I already paid for a night's stay here.
-I already paid for a night's stay here.
+Mas eu já paguei pela estadia aqui.
 What a waste of cash....
-What a waste of cash....
+Que desperdício de dinheiro...
 Welcome to Svait Lodge!
-Welcome to Svait Lodge!
+Boas-vindas ao Chalé De Svait!
 We have no vacancies at the moment.
-We have no vacancies at the moment.
+Não temos vagas no momento.
 I apologize for the inconvenience.
-I apologize for the inconvenience.
+Peço desculpas pela inconveniência.
 Wheeeewie!
-Wheeeewie!
+Catapimbas!
 It is cold out there!
-It is cold out there!
+Tá bem frio lá fora!
 I thought my regular gear would be enough to keep me warm, but I sure was wrong.
-I thought my regular gear would be enough to keep me warm, but I sure was wrong.
+Eu pensei que o meu equipamento normal seria suficiente para me manter aquecido, mas eu tava beeeem enganado.
 The next time I'm in a Mart, I am stocking up.
-The next time I'm in a Mart, I am stocking up.
+Na próxima vez que eu estiver em um Mercado, vou me abastecer.
 Man, I am freezing. Where's a campfire when you need one?
-Man, I am freezing. Where's a campfire when you need one?
+Caaara, eu tô congelando. Onde estão as fogueiras quando você precisa delas?
 You've already won the Eevee raffle, so you can't enter again. Sorry!
-You've already won the Eevee raffle, so you can't enter again. Sorry!
+Você já ganhou a rifa Eevee, então não pode entrar de novo. Desculpe!
 I love to take walks around this town.
-I love to take walks around this town.
+Eu amo caminhar por esta cidade.
 There's something about the cold air here that helps me focus.
-There's something about the cold air here that helps me focus.
+Tem alguma coisa nesse ar frio daqui que me ajuda a ter foco.
 I've always found that contact with nature is the best way to clear your mind of troubles.
-I've always found that contact with nature is the best way to clear your mind of troubles.
+Sempre acreditei que contato com a natureza é a melhor forma de limpar a sua mente de problemas.
 [Map90]
 I thought it would be cool to work at the ice rink for my summer job.
 Pensei que seria legal trabalhar na pista de patinação como um emprego de verão.
@@ -49817,9 +49817,9 @@ Add new trainer ({1}, {2}, ID {3})?
 Add new trainer ({1}, {2})?
 Add new trainer ({1}, {2})?
 Yes
-Yes
+Sim
 No
-No
+Não
 Your name?
 Your name?
 Enter {1}'s name.
@@ -59123,17 +59123,17 @@ You no longer feel pumped up.
 You've currently completed {1} percent of the Dex.
 You've currently completed {1} percent of the Dex.
 We're running a raffle. Would you like to spend ${1} on a chance to win a {2}?
-We're running a raffle. Would you like to spend ${1} on a chance to win a {2}?
+Estamos fazendo uma rifa. Você gostaria de gastar ${1} para ter uma chance de ganhar uma {2}?
 I'm sorry, but you don't seem to have enough money.
-I'm sorry, but you don't seem to have enough money.
+Desculpe, mas parece que você não tem dinheiro suficiente.
 You hand over ${1}.
-You hand over ${1}.
+Você paga ${1}.
 Alright, let me roll for you...\|
-Alright, let me roll for you...\|
+Tudo bem, vou rolar os números para você...\|
 Congratulations, you have won the raffle! Here is your {1}, as promised.
-Congratulations, you have won the raffle! Here is your {1}, as promised.
+Parabéns, você ganhou a rifa! Aqui está a sua {1}, como prometido.
 No luck! Try again next time.
-No luck! Try again next time.
+Não foi desta vez! Tente novamente.
 With a touch, the crystal reservoir activates!
 With a touch, the crystal reservoir activates!
 The crystal reservoir has already spent its energy.
