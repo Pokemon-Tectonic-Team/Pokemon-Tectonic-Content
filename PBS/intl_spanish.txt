@@ -6644,8 +6644,6 @@ Sí
 It attacks!
 ¡Ataca!
 [Map87]
-It's a statue of a Luxray. A small version of the LuxTech logo is emblazoned on its right breast.
-Es una estatua de un Luxray. Una pequeña versión del logo de LuxTech está estampada en el lado derecho.
 I got a crate of this fancy LuxTech brand whitening toothpaste for my Totodile. Figured it'd give her a leg up in contests back home.
 Compré una caja de este dentífrico marca LuxTech para mi Totodile. Supuse que le daría un empujón para sus concursos en casa.
 Instead she's just eating it straight from the tube! Keeps hunting it down, too, no matter where I hide it.
@@ -6654,22 +6652,28 @@ This is the last one. Quick, take it before she spots you - it's for the best.
 Este es el último. Rápido, antes de que te vea - es lo mejor para ella.
 Don't know what they put in that stuff that makes her go crazy over it. Wonder if they make mint-flavored Pokéblocks...
 No sé qué le ponen a esa cosa para que le encante tanto. Me pregunto si hacen Pokécubos con sabor de menta...
+It's a statue of a Luxray. A small version of the LuxTech logo is emblazoned on its right breast.
+Es una estatua de un Luxray. Una pequeña versión del logo de LuxTech está estampada en el lado derecho.
+Xatu is too cool! It doesn't need to cry out!
+Xatu is too cool! It doesn't need to cry out!
 A party game is loaded to the level select screen.
 Un juego de fiesta está en la pantalla de selección de niveles.
+Espurr cries out! Not because it's supposed to, but because it wants to!
+Espurr cries out! Not because it's supposed to, but because it wants to!
 A pile of tabloids on Pokémon Sumo.
 Una pila de tabloides sobre Sumo Pokémon.
 On one cover you see a Rhyperior and Gigachu squaring off.
 En una portada puedes ver a Rhyperior y Gigachu listos para pelear.
 "A rocky start. A shocking upset. All the stats that YOU need to know."
 "Un inicio rocoso. Una derrota electrificante. Todas las estadísticas que te interesan a TI."
+Some sort of fighting game is being played, with two players.
+Algún tipo de juego de lucha está siendo jugado, con dos jugadores.
 Huh? Oh yeah, uh, welcome or something.
 ¿Eh? Ah sí, eh, bienvenido o algo.
 This is a recreation area for LuxTech employees. The maintenance entrance is just north of this building.
 Esta es un área de recreación para empleados de LuxTech. La entrada de mantenimiento está al norte de este edificio.
 Cool, cool. Now leave, I'm trying to watch the TV.
 Bien, bien. Ahora vete, estoy intentando mirar la TV.
-Some sort of fighting game is being played, with two players.
-Algún tipo de juego de lucha está siendo jugado, con dos jugadores.
 OK, stick with me on this one: y'know Helena? She's, what, in her forties?
 Ok, escucha esto: ¿Viste a Helena? Ella está en, qué, ¿Sus cuarentas?
 So that means she was in her thirties when she was some Team Chasm bigshot. What'd she do before that?
@@ -6678,6 +6682,10 @@ Eso significa que ella estaba en sus treintas cuando era parte del pico del Team
 Estuve viendo algunos musicales de hace un par de décadas, y esta actriz es igualita a ella.
 Makes ya wonder.
 Te planta la duda.
+A Pokemon sumo competition is airing live.
+Una competición de sumo Pokémon está en vivo.
+A match between an Hariyama and a Rhyperior is slowly playing out.
+Lentamente se muestra un combate entre un Hariyama y un Rhyperior.
 I've made a horrible mistake.
 He cometido un terrible error.
 I taught my Pokemon how to play fighting games, and it's an absolute sore-winner.
@@ -6688,10 +6696,10 @@ Please, take this problem away from me.
 Por favor, toma este problema lejos de mí.
 I might have to go train it just so I can make it learn a different move...
 Puede que tenga que hacer un poco de entrenamiento sólo para enseñarle otro movimiento…
-A Pokemon sumo competition is airing live.
-Una competición de sumo Pokémon está en vivo.
-A match between an Hariyama and a Rhyperior is slowly playing out.
-Lentamente se muestra un combate entre un Hariyama y un Rhyperior.
+Totodile gives you a blindingly-bright grin!
+Totodile gives you a blindingly-bright grin!
+...then goes back to slurping toothpaste straight from the tube.
+...y de nuevo a comer dentífrico.
 I'm a huge fan of the Sumo Conference that happens every year in Johto.
 Soy un gran fan de la Conferencia de Sumo que ocurre cada año en Johto.
 They split Pokemon by both weight class and shape.
@@ -6702,16 +6710,20 @@ But next year is the 75th anniversary of the sport, so we're getting a special "
 Pero el siguiente año es el aniversario 75 del deporte, así que van a hacer una competición especial de “todo-vale”.
 A lot of fan theories will finally be put to the test.
 Un montón de teorías finalmente serán puestas a prueba.
-...then goes back to slurping toothpaste straight from the tube.
-...y de nuevo a comer dentífrico.
 The TV shows a famous scene from an old performance of "Phantump of the Opera".
 El programa de TV muestra una famosa escena de una vieja función del "Phantump de la Opera".
+Pancham cries out with a cocky attitude!
+Pancham cries out with a cocky attitude!
 Have you visited the cold storage building, next to this one?
 ¿Alguna vez has visitado al edificio de refrigeración, al lado de este?
 Some people find it boring, but I think it's a pretty COOL place, myself.
 Yo creo que es un lugar bastante genial, pero a mucha gente les tiene FRÍO.
 Heh.
 Je.
+A puzzle game is being played.
+Están jugando a un juego de bloques.
+Blocks of various shapes and sizes are falling down into a grid.
+Bloques de varias formas y tamaños está cayendo dentro de una cuadrícula.
 Something you gotta understand, kid, is that cool is a way of life.
 Algo que tienes que entender, chico, es que ser cool es la forma de vida.
 You gotta act cool, walk cool, talk cool, <i>be</i> cool.
@@ -6720,10 +6732,6 @@ Like me and my Pokemon.
 Como yo y mi Pokémon.
 Ain't we cool?
 ¿No somos cool?
-A puzzle game is being played.
-Están jugando a un juego de bloques.
-Blocks of various shapes and sizes are falling down into a grid.
-Bloques de varias formas y tamaños está cayendo dentro de una cuadrícula.
 [Map88]
 The bin is filled to the brim with sludge.
 La papelera rebosa de lodo.
@@ -33610,8 +33618,6 @@ Boomburst
 Estruendo
 Conversion
 Conversión
-Conversion 2
-Conversión2
 Covet
 Antojo
 Dizzy Punch
@@ -36213,10 +36219,8 @@ The user drops onto the target with its full body weight. It has a 30% chance to
 El usuario aplasta al objetivo con todo su peso. Tiene un 30% de probabilidad de aturdir al objetivo.
 The user attacks everything around it with the destructive power of a terrible, explosive sound.
 El usuario ataca a todo a su alrededor con el poder destructivo de una gran onda de sonido.
-The user changes its type to become the same type as one of its moves.
-El usuario cambia su tipo para convertirse en el mismo de uno de sus movimientos.
-The user changes its type to make itself resistant to the type of the attack the opponent used last.
-El usuario cambia su tipo para hacerse resistente al tipo del ataque que el oponente recién haya usado.
+The user changes its type to become the same type as its first moveslot. After changing its type, this raises all stats.
+The user changes its type to become the same type as its first moveslot. After changing its type, this raises all stats.
 The user approaches the target, then steals their item. Items stolen from wild Pokémon are stored.
 El usuario se acerca al objetivo, luego roba su objeto. Objetos robados a Pokémon salvajes son guardados.
 The target is hit with rhythmically launched punches that have a 30% chance to dizzy.
@@ -42915,6 +42919,8 @@ Tuned Out
 Desafinado
 Tunnel Maker
 Excavador de Túneles
+Typing Trojan
+Typing Trojan
 Ultra Adapted
 Ultra Adaptado
 Ultra Buster
@@ -44472,6 +44478,8 @@ Boosts the power of sound moves by 30%. Sound moves ignore the target's modified
 Potencia movimientos de sonido un 30%. Movimientos de corte ignoran las Defensas modificadas del objetivo.
 Powers up Ground-type moves by 50%.
 Potencia movimientos tipo Tierra un 50%.
+This Pokémon is the type of its first two moves. It can't use moves that aren't of its own types.
+This Pokémon is the type of its first two moves. It can't use moves that aren't of its own types.
 Powers up moves of the same type by 50%.
 Potencia movimientos del mismo tipo un 50%.
 Boosts the power of punch and pulse moves by 50%.
@@ -64694,6 +64702,30 @@ But it failed, since there is no Sandstorm!
 {1} gormandized {2}'s {3}!
 Which form shall the Pokémon take?
 Which form shall the Pokémon take?
+{1}'s typing has been corrupted!
+{1}'s typing has been corrupted!
+{1} cannot use moves, that aren't of their own types!
+{1} cannot use moves, that aren't of their own types!
+But it failed, since {1} has already used Conversion!
+But it failed, since {1} has already used Conversion!
+Changes Type depending on the Weather:
+Changes Type depending on the Weather:
+<u>No Weather</u>: Normal
+<u>No Weather</u>: Normal
+<u>Sunshine / Harsh Sun</u>: Fire
+<u>Sunshine / Harsh Sun</u>: Fire
+<u>Rainstorm / Heavy Rain</u>: Water
+<u>Rainstorm / Heavy Rain</u>: Water
+<u>Hail / Ice Age</u>: Ice
+<u>Hail / Ice Age</u>: Ice
+<u>Sandstorm / Star Storm</u>: Rock
+<u>Sandstorm / Star Storm</u>: Rock
+<u>Eclipse / Ring Eclipse</u>: Psychic
+<u>Eclipse / Ring Eclipse</u>: Psychic
+<u>Moonglow / Blood Moon</u>: Fairy
+<u>Moonglow / Blood Moon</u>: Fairy
+<u>Strong Winds</u>: Flying
+<u>Strong Winds</u>: Flying
 [27]
 0
 Animated
@@ -66991,6 +67023,8 @@ Battle-Hardened
 Endurecido en Combate
 Steep Momentum
 Steep Momentum
+Conversion Used
+Conversion Used
 Amulet Coin
 Moneda Amuleto
 Fairy Lock
