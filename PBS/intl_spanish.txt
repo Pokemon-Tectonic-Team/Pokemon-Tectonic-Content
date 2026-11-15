@@ -12023,7 +12023,7 @@ There's nothing left, you've completely raided it.
 Ya no queda nada, acabaste con todo.
 You notice some cutlery in the overhanging cabinet.
 Notas varios cuchillos en la alacena.
-If you wanted to, you could probably use it carve someone's name onto the table.
+If you wanted to, you could probably use it to carve someone's name onto the table.
 Si quieres, podrías usarlos para tallar el nombre de alguien en la mesa.
 You carve your name onto the table.
 Tallas tu nombre en la mesa.
