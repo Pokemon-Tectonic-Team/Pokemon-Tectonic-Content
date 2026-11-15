@@ -6815,22 +6815,22 @@ Yes
 Sim
 [Map91]
 Snow is fun, but too much snow and you'll get cold.
-Snow is fun, but too much snow and you'll get cold.
+A neve é divertida, mas neve demais pode te dar um resfriado.
 My Pokemon is helping me stay warm.
-My Pokemon is helping me stay warm.
+Meu Pokémon está me ajudando a ficar aquecido.
 He's really nice!
-He's really nice!
+Ele é muito gentil!
 [Map92]
 Ahh, I've done it now...
-Ahh, I've done it now...
+Ahh, agora eu fui moleque...
 I was so excited for this vacation, I blew my whole paycheck on camera supplies.
-I was so excited for this vacation, I blew my whole paycheck on camera supplies.
+Estava tão empolgado com esta viagem que acabei gastando todo o meu salário com equipamentos de filmagem.
 I spent so much I didn't have enough to buy a camera... I can't even afford a ticket for the raffle downstairs...
-I spent so much I didn't have enough to buy a camera... I can't even afford a ticket for the raffle downstairs...
+Gastei tanto que, no fim das contas, não sobrou dinheiro para comprar uma câmera... não consigo nem mesmo comprar um bilhete para a rifa do andar de baixo...
 Take this away from me. I can't even look at it anymore.
-Take this away from me. I can't even look at it anymore.
+Leve isso daqui. Não sou mais capaz nem de olhar para essas coisas.
 I was going to take so many pictures of Patrat... at least it's having fun playing with all the lenses.
-I was going to take so many pictures of Patrat... at least it's having fun playing with all the lenses.
+Eu ia tirar tantas fotos da Patrat... pelo menos ela está se divertindo brincando com todas aquelas lentes.
 [Map93]
 In order to fight the climate, you have to keep you and your Pokemon in tip-top shape.
 In order to fight the climate, you have to keep you and your Pokemon in tip-top shape.
@@ -6980,11 +6980,11 @@ County Park Sightings
 County Park Sightings
 [Map94]
 TV here is so dull.
-TV here is so dull.
+A TV daqui é tão chata.
 Nothin' but trashy dramas and fretting about avatars.
-Nothin' but trashy dramas and fretting about avatars.
+Nada além de novelas ruins e preocupação com avatares.
 I wish I brought my laptop.
-I wish I brought my laptop.
+Queria ter trazido meu notebook.
 [Map95]
 Classic literature lines the shelves.
 Classic literature lines the shelves.
@@ -9927,43 +9927,43 @@ No way.
 De jeito nenhum.
 [Map137]
 I'm a safety minded person.
-I'm a safety minded person.
+Sou uma pessoa que sempre pensa em segurança.
 For that reason, I wear a Hi-Viz Jacket with me wherever I go.
-For that reason, I wear a Hi-Viz Jacket with me wherever I go.
+Por isso, sempre visto um Colete Refletivo aonde quer que eu vá.
 Everything's changed now that Avatars are around.
-Everything's changed now that Avatars are around.
+Tudo mudou agora que os Avatares começaram a aparecer.
 I'm worried they'll be drawn to me by the reflections.
-I'm worried they'll be drawn to me by the reflections.
+Me preocupo que eles sejam atraídos a mim por causa dos reflexos.
 If you're going out and fighting those things, maybe that's somehow an upside for you...?
-If you're going out and fighting those things, maybe that's somehow an upside for you...?
+Se você está saindo por aí batalhando contra aquelas coisas, talvez isso seja um ponto positivo para você...?
 I'll need to check Eleig.com for any new safety products that will work on Avatars.
-I'll need to check Eleig.com for any new safety products that will work on Avatars.
+Vou precisar dar uma olhada no Eleig.com em busca de novos produtos de segurança que funcionem contra Avatares.
 My incantations keep faltering! I need a companion to assist in my rites.
-My incantations keep faltering! I need a companion to assist in my rites.
+Meus encantamentos não param de falhar! Preciso de alguma companhia para me ajudar em meus ritos.
 I boarded a fishing boat to try and get a Galarian Corsola, but the fates could only bestow upon me the ordinary kind.
-I boarded a fishing boat to try and get a Galarian Corsola, but the fates could only bestow upon me the ordinary kind.
+Embarquei em um barco pesqueiro para tentar capturar uma Corsola De Galar, mas o destino só pôde me conceder a versão comum.
 So, I'm trying a different approach.
-So, I'm trying a different approach.
+Então, estou tentando uma abordagem diferente.
 I'm willing to part with it, so long as you can provide me a fitting replacement.
-I'm willing to part with it, so long as you can provide me a fitting replacement.
+Me disponho a abrir mão dele, desde que você possa me oferecer um substituto apropriado.
 I'll trade you my Corsola for any Pokémon from the Esoteric tribe.
-I'll trade you my Corsola for any Pokémon from the Esoteric tribe.
+Te darei meu Corsola por qualquer Pokémon do clã Esotérico.
 I see great misfortune in your future...
-I see great misfortune in your future...
+Vejo grandes tragédias em teu futuro...
 Thank you, traveller.
-Thank you, traveller.
+Obrigada, viajante.
 May the stars guide you through your hardships.
-May the stars guide you through your hardships.
+Que as estrelas te guiem para longe de tuas dificuldades.
 Ah, you again.
-Ah, you again.
+Ah, você de novo.
 I must thank you for your prior assistance. My rites have gone splendidly since.
-I must thank you for your prior assistance. My rites have gone splendidly since.
+Devo agradecer por tua assistência prévia. Meus ritos tem ido esplendidamente bem desde então.
 Great misfortune has already befallen three of my enemies...
-Great misfortune has already befallen three of my enemies...
+Grandes desgraças já recaíram sobre três de meus inimigos...
 No
-No
+Não
 Yes
-Yes
+Sim
 [Map138]
 The berry plant is growing.
 A árvore frutífera está crescendo.
