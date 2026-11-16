@@ -1039,235 +1039,235 @@ Give coffee.
 Dar café.
 [Map7]
 The murkrow silently stares at you, a grim look in its eyes.
-The murkrow silently stares at you, a grim look in its eyes.
+O Murkrow te encara silenciosamente, um olhar sombrio em seus olhos.
 West: Velenz
-West: Velenz
+Oeste: Velenze
 North: Svait
-North: Svait
+Norte: Svait
 South: The Shelf
-South: The Shelf
+Sul: A Estante
 The Growlithe is cowering from everything.
-The Growlithe is cowering from everything.
+O Growlithe está muito assustado.
 You notice a tag on its collar. Though it's moving around, you can just make out what's written on it.
-You notice a tag on its collar. Though it's moving around, you can just make out what's written on it.
+Você nota uma plaquinha na coleira dele. Embora ele esteja muito agitado, você consegue distinguir o que está escrito nela.
 Its owner apparently lives in Novo Apartments, in Novo Town.
-Its owner apparently lives in Novo Apartments, in Novo Town.
+Seu dono aparentemente vive nos Apartamentos De Nova, na Cidade Nova.
 Oh! It's the lost Growlithe you were told about.
-Oh! It's the lost Growlithe you were told about.
+Ah! É o Growlithe perdido sobre o qual te avisaram.
 Remembering the instructions you were given, you pull a Milk Bone Treat from your bag.
-Remembering the instructions you were given, you pull a Milk Bone Treat from your bag.
+Lembrando-se das instruções que lhe foram passadas, você pega o Petisco De Leite de dentro da sua mochila.
 You hand the treat to the Growlithe. After a quick sniff, it eats the treat.
-You hand the treat to the Growlithe. After a quick sniff, it eats the treat.
+Você entrega o petisco ao Growlithe. Depois de uma rápida farejada, ele come o petisco.
 You use this opportunity to put Growlithe back into its ball.
-You use this opportunity to put Growlithe back into its ball.
+Você aproveita a oportunidade para colocar o Growlithe de volta em sua bola.
 You should return the Growlithe to its owner.
-You should return the Growlithe to its owner.
+Você deveria devolvê-lo ao seu dono.
 According to the tag on its collar, the owner lives in Novo Apartments.
-According to the tag on its collar, the owner lives in Novo Apartments.
+De acordo com a plaquinha em sua coleira, o dono vive nos Apartamentos De Nova.
 You want to know how my makeup stays fresh with all this ash?
-You want to know how my makeup stays fresh with all this ash?
+Você quer saber como minha maquiagem fica novinha em folha, mesmo com tantas cinzas no ar?
 The truth is that I am... a beast of the forest, come to take your soul!
-The truth is that I am... a beast of the forest, come to take your soul!
+A verdade é que eu sou... uma criatura da floresta, e vim levar a sua alma!
 But, seriously, you don't want to know how this stuff stays on.
-But, seriously, you don't want to know how this stuff stays on.
+Mas, sério mesmo, você não vai querer saber como eu faço para a maquiagem não sair.
 And with that mystery left alluringly open, I will take my leave.
-And with that mystery left alluringly open, I will take my leave.
+E, com esse mistério instigantemente deixado em aberto, vou me retirar.
 Hahaha! You should've seen your face! It was so... you.
-Hahaha! You should've seen your face! It was so...  you.
+Hahaha! Você devia ter visto a sua cara! Ela foi tão... você.
 The berry plant is growing.
-The berry plant is growing.
+A árvore frutífera está crescendo.
 Fighting alongside a Voltorb is a dangerous game, but I dribble nonetheless. It is my fate.
-Fighting alongside a Voltorb is a dangerous game, but I dribble nonetheless. It is my fate.
+Lutar ao lado de um Voltorb é bem perigoso, mas, mesmo assim, continuo driblando. É meu destino.
 One day my children will ask me if I, too, had teachers, and I will say everyone who reminds me I don't explode regularly is my teacher.
-One day my children will ask me if I, too, had teachers, and I will say everyone who reminds me I don't explode regularly is my teacher.
+Um dia, minhas crianças me perguntarão se eu também tive professores, e eu direi que qualquer um que me lembre do fato de que eu não explodo regularmente é um professor para mim.
 This was not a failure, for I am unexploded, and every unexploded day is a blessing.
-This was not a failure, for I am unexploded, and every unexploded day is a blessing.
+Isso não foi um fracasso, pois não explodi, e cada dia em que não explodo é uma bênção.
 My last batch of mushrooms went rancid.
-My last batch of mushrooms went rancid.
+Minha úrtima leva di cogumelo ficô rançosa.
 Which stinks!
-Which stinks!
+I isso num mi cheira nada bem!
 Well, to tell you the truth, I couldn't smell the difference.
-Well, to tell you the truth, I couldn't smell the difference.
+Bom, pra dizê bem a verdade, num tenho ideia di como sentí a diferença pelo cheiro.
 So I need to get meself acquainted with the smell of healthy mushrooms.
-So I need to get meself acquainted with the smell of healthy mushrooms.
+Entonces, preciso mi familiarizá com o cheiro de cogumelo saudáver.
 Could you do me a favor and bring me a mushroom Pokemon so I can get me a whiff?
-Could you do me a favor and bring me a mushroom Pokemon so I can get me a whiff?
+Ocê pudia mi fazê o favô di mi trazê um Pokémon cogumelo pra qui eu possa dá uma fungada?
 I don't have much in the way of rewards.
-I don't have much in the way of rewards.
+Num tenho muito a oferecê no que diz respeito a recompensa.
 Suppose I could give ya what I confiscated from my nephew.
-Suppose I could give ya what I confiscated from my nephew.
+Acho qui eu podia ti dá o qui eu confisquei do meu sobrinho.
 He crafted something mighty gross outta my failed harvest.
-He crafted something mighty gross outta my failed harvest.
+Ele criô um negócir nojento com a minha coleta fracassada.
 So, you gots one of them mushroom 'mons?
-So, you gots one of them mushroom 'mons?
+Entonces, ocê tá com um daquêis Pokémon cogumelo?
 It's called <i>my</i>cology because <i>I</i> need it!
-It's called <i>my</i>cology because <i>I</i> need it!
+O nome é mice<i>to</i>logia pruquê eu <i>tô</i> precisano da sua ajuda!
 Just what the Nurse Joy ordered!
-Just what the Nurse Joy ordered!
+Bem o que a Enfermêra Joy pediu!
 Appreciate it. Now, lemme get this over with.
-Appreciate it. Now, lemme get this over with.
+Brigadão. Agora, deixa eu acabá logo com isso.
 The pokemon rancher studies your Pokemon's smell closely and carefully.
-The pokemon rancher studies your Pokemon's smell closely and carefully.
+O fazendeiro de Pokémon examina o cheiro do seu Pokémon de perto e com atenção.
 Hah...I can see it now. The cash rollin' in from a full healthy harvest.
-Hah...I can see it now. The cash rollin' in from a full healthy harvest.
+Hah... Já tô até veno. O dinheiro vino a rodo por causa di uma safra saudáver.
 Anyways, my side of the bargain...
-Anyways, my side of the bargain...
+Enfim, meu lado do trato...
 Suppose I'll get outta yer hair now.
-Suppose I'll get outta yer hair now.
+Acho qui eu vô ti deixá em paz agora.
 The true self can only be found by exploring the world, and beating the crap out of random people you find on the way!
-The true self can only be found by exploring the world, and beating the crap out of random people you find on the way!
+O veradeiro "eu" só pode ser encontrado ao explorar o mundo, e também ao descer a porrada em gente aleatória que você encontra pelo caminho!
 After that thrashing I'm gonna have to self-actualize extra-violently to make up! See ya in Kalos!
-After that thrashing I'm gonna have to self-actualize extra-violently to make up! See ya in Kalos!
+Depois dessa surra que eu tomei, vou ter que buscar minha autorrealização de uma forma hiperviolenta para compensar! Te vejo em Kalos!
 Ah, a fellow seeker of enlightenment. Best of luck!
-Ah, a fellow seeker of enlightenment. Best of luck!
+Ah, outra pessoa em busca da iluminação. Boa sorte!
 This is a premiere Bug-type training ground! Samorn told me herself!
-This is a premiere Bug-type training ground! Samorn told me herself!
+Esse é um lugar top-de-linha para treinar Insetos! A própria Samorn me disse isso!
 Maybe I'm the worm...
-Maybe I'm the worm...
+Talvez o verme seja eu...
 Down but not out! The true power of the Bug-type!
-Down but not out! The true power of the Bug-type!
+Caí, mas me levanto! A verdadeira força do tipo Inseto!
 Samorn trains Dragon-types as well! How cool is that!
-Samorn trains Dragon-types as well! How cool is that!
+Samorn treina Pokémon do tipo Dragão, também! Olha só, que coisa bacana!
 Not as cool as bugs though.
-Not as cool as bugs though.
+Mas não é tão bacana quanto insetos.
 Hey! Pretty cool place, right?
-Hey! Pretty cool place, right?
+Ei! Lugar bem legal, né?
 Feels like one of the more quiet areas of Makya.
-Feels like one of the more quiet areas of Makya.
+Parece ser uma das áreas mais tranquilas de Makya.
 Maybe because Velenz attracts all the avatars and repels most of the people.
-Maybe because Velenz attracts all the avatars and repels most of the people.
+Talvez seja porque Velenze atrai todos os avatares e repele a maior parte das pessoas.
 What was up with that place, anyway?
-What was up with that place, anyway?
+Qual era o problema daquele lugar, afinal?
 Like, why keep a gym there...? And that mansion to the west?
-Like, why keep a gym there...? And that mansion to the west?
+Tipo, por que manter um ginásio lá? E o que há com aquela mansão a oeste?
 Straight up bizarre.
-Straight up bizarre.
+Simplesmente bizarro.
 But, anyway, I've got a new team here put together just for this battle.
-But, anyway, I've got a new team here put together just for this battle.
+Mas, de qualquer forma, tenho uma equipe aqui que preparei só para esta batalha.
 A doubles team, too! I'm expanding my horizons.
-A doubles team, too! I'm expanding my horizons.
+Uma equipe de batalhas em dupla, inclusive! Estou expandindo meus horizontes.
 I can promise they won't bore you to sleep. They're fun-guys.
-I can promise they won't bore you to sleep. They're fun-guys.
+Te prometo: eles não vão te fazer dormir de tédio. Ao menos, é isso que eu <i>esporo</i>. Heh.
 Don't sleep on this team! Or do.
-Don't sleep on this team! Or do.
+Não dorme no ponto, hein! Ou dorme, no caso.
 You'll probably lose if you do, though.
-You'll probably lose if you do, though.
+Mas, se dormir, você provavelmente vai perder.
 Ready to go?
-Ready to go?
+Tudo pronto?
 Sure thing, sleepy head.
-Sure thing, sleepy head.
+Beleza, vai tirar uma sonequinha.
 Gimmick strat, go!
-Gimmick strat, go!
+Estratégia estranha, vai!
 The Empty Stone? Not likely.
-The Empty Stone? Not likely.
+A Pedra Oca? Provavelmente, não.
 I mean, it's good at keeping my lunch chilled.
-I mean, it's good at keeping my lunch chilled.
+Quer dizer, ela é boa para manter meu lanche resfriado.
 And it's nice to look at, I guess.
-And it's nice to look at, I guess.
+E é bonita de se olhar, eu acho.
 But, when I give it to one of my Pokémon, it seems to just wear them out.
-But, when I give it to one of my Pokémon, it seems to just wear them out.
+Mas, quando eu a dou para meus Pokémon, ela parece só deixar eles exaustos.
 I'm gonna keep it for now, see if I can't figure out the trick later.
-I'm gonna keep it for now, see if I can't figure out the trick later.
+Vou ficar com ela por enquanto para ver se eu consigo entender qual o truque mais tarde.
 Either way, it won't be showing up in this battle.
-Either way, it won't be showing up in this battle.
+De qualquer maneira, ela não será usada nesta batalha.
 Never thought I'd get to try out that team.
-Never thought I'd get to try out that team.
+Nunca achei que eu conseguiria experimentar esta equipe.
 Always seemed like a fun idea!
-Always seemed like a fun idea!
+Sempre me pareceu uma ideia divertida!
 I wasn't gonna enter the tournament with it, cause I figured the chances weren't great.
-I wasn't gonna enter the tournament with it, cause I figured the chances weren't great.
+Eu não planejava entrar no Campeonato com ela nem nada, porque imaginei que as chances com ela não seriam as melhores.
 It's also just not as fun in 1v1s.
-It's also just not as fun in 1v1s.
+Além disso, ela não é tão divertida em batalhas 1v1.
 Thanks for humoring me, but uh...
-Thanks for humoring me, but uh...
+Obrigady por me acompanhar, mas, hã...
 What're <i>your</i> feelings on the tournament?
-What're <i>your</i> feelings on the tournament?
+Qual a <i>sua</i> opinião sobre o Campeonato?
 Yeah, definitely! Kinda part of why I'm sore about it.
-Yeah, definitely! Kinda part of why I'm sore about it.
+É, com certeza! É um dos motivos pelos quais eu tô meio chateada.
 I'm hoping I'll be able to catch your rounds.
-I'm hoping I'll be able to catch your rounds.
+Espero que eu consiga assistir às suas batalhas.
 I'll be cheering for you.
-I'll be cheering for you.
+Estarei torcendo por você.
 Maybe get some vicarious joy when you inevitably get the guy who beat me.
-Maybe get some vicarious joy when you inevitably get the guy who beat me.
+Talvez sentir uma alegriazinha sádica quando você, inevitavelmente, derrotar o cara que me derrotou.
 Just kidding! Holding grudges like that is exhausting.
-Just kidding! Holding grudges like that is exhausting.
+Brincadeirinha! Guardar rancor desse jeito é cansativo.
 You sure didn't say that like it was a good thing.
-You sure didn't say that like it was a good thing.
+Pelo jeito que você disse, isso com certeza não é algo positivo.
 I guess I never asked about your family, before.
-I guess I never asked about your family, before.
+Acho que nunca perguntei sobre sua família antes, né?
 Whatever it is, I hope things turn out well for you.
-Whatever it is, I hope things turn out well for you.
+Seja lá o que estiver acontecendo, espero que as coisas acabem bem para você.
 Gonna go straight through this league and tournament and onto even greater glories, huh?
-Gonna go straight through this league and tournament and onto even greater glories, huh?
+Quero te ver ganhando esse Campeonato e indo para glórias ainda maiores, hein?
 If anyone could ride that momentum it’d probably be you.
-If anyone could ride that momentum it’d probably be you.
+Se alguém for capaz de pegar esse embalo, é você.
 Just remember to slow down long enough for me to catch you at your coronation.
-Just remember to slow down long enough for me to catch you at your coronation.
+Só tenta dar uma esperada para que eu consiga participar da sua coroação.
 Yeah, definitely! Kinda part of why I’m sore about it.
-Yeah, definitely! Kinda part of why I’m sore about it.
+É, com certeza! É um dos motivos pelos quais eu tô meio chateada.
 I cheered for you during your rounds.
-I cheered for you during your rounds.
+Eu torci por você durante as suas batalhas.
 Got some vicarious joy watching you beat your asshole brother.
-Got some vicarious joy watching you beat your asshole brother.
+Até senti uma alegriazinha sádica quando você derrotou o seu irmão babaca.
 Getting a bad vibe from the way you said that.
-Getting a bad vibe from the way you said that.
+Tô sentindo uma vibe meio ruim com o jeito que você falou.
 I guess I never asked about your family.
-I guess I never asked about your family.
+Acho que nunca perguntei sobre sua família antes, né?
 I saw a lot of tension during that grand finale.
-I saw a lot of tension during that grand finale.
+Percebi muita hostilidade durante aquele <i>grand finale</i>.
 Well, whatever happened between you two... hope things work out.
-Well, whatever happened between you two... hope things work out.
+Bom, seja lá o que tenha acontecido entre vocês... espero que dê tudo certo.
 You felt that earthquake, right?
-You felt that earthquake, right?
+Você sentiu aquele terremoto, né?
 Heard some rumors that it might have been manmade...?
-Heard some rumors that it might have been manmade...?
+Ouvi alguns rumores de que ele foi causado artificialmente...?
 Sounds like something a Champion should look into. Wink wink.
-Sounds like something a Champion should look into.  Wink wink.
+Parece algo que apenas Medalhistas podem investigar, hein? Piscadinha piscadinha.
 I know you’re destined for even greater glories.
-I know you’re destined for even greater glories.
+Eu sei que o seu destino guarda glórias ainda maiores para você.
 So... back to my memorial tour of the region.
-So... back to my memorial tour of the region.
+Então... de volta à minha turnê memorial da região.
 For our next stop I was thinking the <imp>Split Peaks.</imp>
-For our next stop I was thinking the <imp>Split Peaks.</imp>
+Estive pensando, e a nossa próxima parada poderia ser os <imp>Picos Partidos</imp>.
 Down at the south end of the mountain, where it connects to the estuary.
-Down at the south end of the mountain, where it connects to the estuary.
+Na parte sul da montanha, bem onde ela conecta com o estuário.
 Oh, almost forgot, I found this mushroom.
-Oh, almost forgot, I found this mushroom.
+Ah, quase esqueci. Encontrei este cogumelo.
 I bequeath it to you.
-I bequeath it to you.
+O concedo a você.
 See ya!
-See ya!
+Té mais!
 I saw a band of troubadours in that cave beyond the fence.
-I saw a band of troubadours in that cave beyond the fence.
+Vi um grupo de trovadores naquela caverna, além da cerca.
 Do you know anything about them?
-Do you know anything about them?
+Você sabe de alguma coisa a respeito deles?
 I heard boisterous exclamations of wonder.
-I heard boisterous exclamations of wonder.
+Ouvi ruidosas exclamações de admiração.
 It's ever so compelling, don't you agree?
-It's ever so compelling, don't you agree?
+É algo bem cativante, não concorda?
 Maybe they're up to something...something suspicious?
-Maybe they're up to something...something suspicious?
+Talvez estejam tramando algo... algo suspeito?
 No
-No
+Não
 Yes
-Yes
+Sim
 Gimme 5 minutes.
-Gimme 5 minutes.
+Me dá 5 minutos.
 Yup!
-Yup!
+Bora!
 Using that item again?
-Using that item again?
+Vai usar aquele item de novo?
 Seems fun!
-Seems fun!
+Parece divertido!
 It's family business.
-It's family business.
+São negócios de família.
 I have bigger concerns.
-I have bigger concerns.
+Tenho problemas maoires.
 It was fun!
-It was fun!
+Foi divertido!
 It was family business.
-It was family business.
+Eram negócios de família.
 [Map8]
 Hey there. Miss me?
 Hey there. Miss me?
@@ -1609,7 +1609,7 @@ You should totally come give a talk sometime.
 You should totally come give a talk sometime.
 [Map11]
 The berry plant is growing.
-The berry plant is growing.
+A árvore frutífera está crescendo.
 Since the Eleig River is in the halfway point of Makya, it's become quite the gathering spot for Trainers.
 Since the Eleig River is in the halfway point of Makya, it's become quite the gathering spot for Trainers.
 The trainers on the long stretch of river to the East are relatively casual.
@@ -3718,7 +3718,7 @@ Uma lembrança, ou talvez não. É sua agora.
 Hey, speaking of losing.
 Ei, falando em perder.
 Wanna go on a tour with me? Memory lane or some such.
-Quer dar uma passeada comigo? Pra gente criar umas memórias e tal.
+Quer fazer uma turnê comigo? Pra gente criar umas memórias e tal.
 Meet me in <imp>Repora Forest</imp>.
 Me encontre na <imp>Floresta Repora</imp>.
 It’s got mushrooms, moss... combination mushrooms AND moss.
@@ -3956,7 +3956,7 @@ You too, \pfp.  I should be heading out, but thank you, seriously. You bailed me
 Won’t forget it. See you around!
 Won’t forget it. See you around!
 The berry plant is growing.
-The berry plant is growing.
+A árvore frutífera está crescendo.
 North: County Park
 North: County Park
 Center: Exit to Team Chasm HQ
@@ -4615,7 +4615,7 @@ Hah! I haven't fought a challenger like you since the Chasm days. G'luck, friend
 I figure if I stand right here, I can see most of the challengers heading for Rafael. Works like a charm.
 I figure if I stand right here, I can see most of the challengers heading for Rafael. Works like a charm.
 The berry plant is growing.
-The berry plant is growing.
+A árvore frutífera está crescendo.
 CAUTION: The route is considered dangerous!
 CAUTION: The route is considered dangerous!
 Turn back if you have less than 3 badges.
@@ -12684,7 +12684,7 @@ Everything is awful.
 Everything is awful.
 [Map186]
 The berry plant is growing.
-The berry plant is growing.
+A árvore frutífera está crescendo.
 This place is just like my favorite video game!
 This place is just like my favorite video game!
 I'm gonna go play that game now, bye!
@@ -14879,7 +14879,7 @@ Challenge him.
 Southern Trail
 Southern Trail
 The berry plant is growing.
-The berry plant is growing.
+A árvore frutífera está crescendo.
 A certain friend introduced me to cycling! You might know about her!
 A certain friend introduced me to cycling! You might know about her!
 You know Lainie right? We go on biking trips together.
@@ -39661,7 +39661,7 @@ Pearl of Wisdom
 Crystal Caliburn
 Crystal Caliburn
 Empty Stone
-Empty Stone
+Pedra Oca
 Unnamed
 Unnamed
 Test Item
@@ -40560,7 +40560,7 @@ Pearls of Wisdom
 Crystal Caliburns
 Crystal Caliburns
 Empty Stones
-Empty Stones
+Pedras Ocas
 Unnamed
 Unnamed
 Test Items
