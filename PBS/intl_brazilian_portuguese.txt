@@ -7180,13 +7180,13 @@ That's too bad. Maybe you'll be stuck here too.
 É uma pena. Talvez você também acabe nunca mais saindo daqui.
 [Map102]
 It looks like the machine is dead. You can't heal your Pokemon here.
-It looks like the machine is dead. You can't heal your Pokemon here.
+Parece que o maquinário está quebrado. Você não pode curar seus Pokémon aqui.
 The PC is dead. You can't access your storage from here.
-The PC is dead. You can't access your storage from here.
+O PC está quebrado. Você não pode acessar seu armazenamento daqui.
 I'll take your Pokémon for a few seconds.
 Pegarei seus Pokémon por alguns segundos.
 Hehe. Just kidding.
-Hehe. Just kidding.
+Hehe. Brincadeirinha.
 [Map103]
 The caves under this town are rather dangerous...
 The caves under this town are rather dangerous...
