@@ -7110,41 +7110,41 @@ Arquivo De Servidores
 [Map99]
 [Map100]
 Hello stranger.
-Hello stranger.
+Olá, visitante.
 Are you here to find the gym leader as well? He has been quite elusive.
-Are you here to find the gym leader as well? He has been quite elusive.
+Você também está aqui para encontrar o líder de ginásio? Ele tem sido um tanto esquivo.
 I have come here to meditate. Doing so in such a place brings me peace.
-I have come here to meditate. Doing so in such a place brings me peace.
+Vim aqui para meditar. Fazê-lo em um lugar como este me traz paz.
 You are free to take the seat next to me, if you would like.
-You are free to take the seat next to me, if you would like.
+Sinta-se à vontade para sentar-se ao meu lado, se quiser.
 That was... strange.
-That was... strange.
+Isso foi... estranho.
 Whatever had caused that nightmare seems to be gone now.
-Whatever had caused that nightmare seems to be gone now.
+O que quer que tenha causado aquele pesadelo parece ter ido embora agora.
 I'm guessing that you're the reason for that.
-I'm guessing that you're the reason for that.
+Suponho que você seja o motivo daquilo.
 Perhaps we may finally be able to meditate in peace.
-Perhaps we may finally be able to meditate in peace.
+Talvez, finalmente, conseguiremos meditar em paz.
 It seems that I should give you a token of my gratitude.
-It seems that I should give you a token of my gratitude.
+Imagino que devo lhe dar uma prova de minha gratidão.
 You've more than proven that you are worthy of it.
-You've more than proven that you are worthy of it.
+Você mais do que provou que é digno disto.
 Best of luck, friend.
-Best of luck, friend.
+Te desejo muita sorte.
 Make sure to give you and your Pokemon ample rest.
-Make sure to give you and your Pokemon ample rest.
+Certifique-se de que você e seus Pokémon descansem bastante.
 It is nice to finally have some company.
-It is nice to finally have some company.
+É bom finalmente ter um pouco de companhia.
 Let me walk you through the process.
-Let me walk you through the process.
+Deixe-me explicar como funciona para você.
 The journey here must have been long. You must feel extremely tired.
-The journey here must have been long. You must feel extremely tired.
+A jornada até aqui deve ter sido longa. Você deve estar sentindo um cansaço enorme.
 Feel your eyelids droop. Let your mind drift.
-Feel your eyelids droop. Let your mind drift.
+Sinta suas pálpebras pesarem. Deixe sua mente divagar.
 Relax.
-Relax.
+Relaxe.
 You wake up in a cold sweat.
-You wake up in a cold sweat.
+Você acorda suando frio.
 [Map101]
 How long have I been here?
 How long have I been here?
