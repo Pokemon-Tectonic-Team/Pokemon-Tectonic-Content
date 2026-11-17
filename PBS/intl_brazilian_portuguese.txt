@@ -8790,55 +8790,55 @@ And now this?! I need to rethink how I travel...
 E agora, isso?! Preciso considerar melhor os lugares para onde viajo...
 [Map126]
 Stand ho! We have gathered here to appraiseth a bundle of treasures most wondrous!
-Stand ho! We have gathered here to appraiseth a bundle of treasures most wondrous!
+Alto lá! Reunimo-nos aqui para averiguar um conjunto de fabulosos tesouros!
 Longeth has't we taken to accrue this, and thee shall findeth it prudent to leaveth us to our work!
-Longeth has't we taken to accrue this, and thee shall findeth it prudent to leaveth us to our work!
+Árduo foi nosso esforço para obtê-los; portanto, sensato seria de tua parte se deixasse-nos proceder com nossa tarefa.
 UNLESS!
-UNLESS!
+A NÃO SER!
 Un. Less.
-Un. Less.
+A. Não. Ser.
 Thee dareth challenge us, for stake over such a wond'rous horde?!
-Thee dareth challenge us, for stake over such a wond'rous horde?!
+Que ouses nos desafiar, colocando em disputa nossa ímpar fortuna?!
 Staking a claim on this? That'd be a mis-stake if you ask me!
-Staking a claim on this? That'd be a mis-stake if you ask me!
+<i>Desejas tomar</i> nosso tesouro? Acredito que deverias <i>tomar</i> cuidado com o que <i>desejas</i> em vez disso!
 Quite indeed, mine own comedic companion!
-Quite indeed, mine own comedic companion!
+De fato! De fato, meu companheiro comediante!
 Say, Great Sage Rennyo, doth thee knoweth this person who hast happened upon us?
-Say, Great Sage Rennyo, doth thee knoweth this person who hast happened upon us?
+Diga-nos, Grande Sábio Rennyo, conheces esta pessoa que, por causalidade, deparou-se conosco?
 I see.
-I see.
+Entendo.
 Well, what shalt thee doth anon stranger?
-Well, what shalt thee doth anon stranger?
+Bom, o que farás agora, viajante?
 Shall thee square us in a Pokemon battleth most enjoyable? Or shall thee cower before our combined might...
-Shall thee square us in a Pokemon battleth most enjoyable? Or shall thee cower before our combined might...
+Enfrentar-nos-á em uma majestosa batalha Pokémon? Ou acovardar-se-á diante de nosso poder combinado...
 Fare thee well then, stranger. We shalt stayeth here and do our work, until a true challenger comes.
-Fare thee well then, stranger. We shalt stayeth here and do our work, until a true challenger comes.
+Até mais ver, então, viajante. Ficaremos aqui, fazendo nosso trabalho, até que um desafiante digno revele-se.
 Very well! Approach, stranger!
-Very well! Approach, stranger!
+Pois bem! Aproxime-se, viajante!
 Bested at last!
-Bested at last!
+Derrotados, enfim!
 Never before hast we set our eyes upon so great a champion as you.
-Never before hast we set our eyes upon so great a champion as you.
+Nunca antes pusemos nossos olhos em alguém com potencial tão vasto quanto o teu.
 Yeah, we really got whalloped for our wares!
-Yeah, we really got whalloped for our wares!
+De fato, tentando defender nosso <i>dourado</i> tesouro, acabamos saindo no <i>vermelho</i> e cheios de <i>roxos</i>!
 Truer word have ne'er been spoken!
-Truer word have ne'er been spoken!
+Palavras tão inequívocas nunca antes foram ditas!
 We best be taking our leave.
-We best be taking our leave.
+É melhor batermos em retirada.
 Exeunt!
-Exeunt!
+<i>Exeunt!</i>
 A voice rings out from further into the cave.
-A voice rings out from further into the cave.
+Uma voz ecoa caverna adentro.
 Lo! We hast finally found the treasure we hast been seeking!
-Lo! We hast finally found the treasure we hast been seeking!
+Vislumbrem! Finalmente encontramos o tesouro que vínhamos buscando!
 A heavy crate. Its front side lock has been broken off.
-A heavy crate. Its front side lock has been broken off.
+Um caixote pesado. Sua trava frontal foi quebrada.
 There are items inside!
-There are items inside!
+Há itens dentro!
 Cower
-Cower
+Acovardar-se
 Battleth
-Battleth
+Batalhar...-se?
 [Map127]
 Stat changes affect Avatars, sure, but they have the ability to remove the negative changes somehow.
 Mudanças de atributo afetam Avatares, é claro, mas, de alguma forma, eles têm a capacidade de remover as mudanças negativas.
@@ -39403,7 +39403,7 @@ Ovo De Deino
 Goomy Egg
 Ovo De Goomy
 Jangmo-o Egg
-Ovo De Jagmo-o
+Ovo De Jangmo-o
 Dreepy Egg
 Ovo De Dreepy
 Eevee Ticket
@@ -64507,11 +64507,11 @@ That stone?
 You ok?
 You ok?
 Open the crate?
-Open the crate?
+Abrir o caixote?
 Cower
-Cower
+Acovardar-se
 Battleth
-Battleth
+Batalhar...-se?
 Leave Tapu Bulu for now.
 Leave Tapu Bulu for now.
 Catch Tapu Bulu.
