@@ -7122,17 +7122,17 @@ Isso foi... estranho.
 Whatever had caused that nightmare seems to be gone now.
 O que quer que tenha causado aquele pesadelo parece ter ido embora agora.
 I'm guessing that you're the reason for that.
-Suponho que você seja o motivo daquilo.
+Imagino que por sua causa.
 Perhaps we may finally be able to meditate in peace.
 Talvez, finalmente, conseguiremos meditar em paz.
 It seems that I should give you a token of my gratitude.
 Imagino que devo lhe dar uma prova de minha gratidão.
 You've more than proven that you are worthy of it.
-Você mais do que provou que é digno disto.
+Você mais do que provou que merece isto.
 Best of luck, friend.
-Te desejo muita sorte.
+Toda a sorte a você, camarada.
 Make sure to give you and your Pokemon ample rest.
-Certifique-se de que você e seus Pokémon descansem bastante.
+Certifique-se de que você e seus Pokémon descansem bem.
 It is nice to finally have some company.
 É bom finalmente ter um pouco de companhia.
 Let me walk you through the process.
@@ -7147,37 +7147,37 @@ You wake up in a cold sweat.
 Você acorda suando frio.
 [Map101]
 How long have I been here?
-How long have I been here?
+Por quanto tempo estive aqui?
 The last thing I remember was...
-The last thing I remember was...
+A última coisa que me lembro é...
 What was it?
-What was it?
+O que era?
 You feel your eyes close again, though you don't remember closing them.
-You feel your eyes close again, though you don't remember closing them.
+Você sente seus olhos se fechando de novo, apesar de não se lembrar de fechá-los.
 I...
-I...
+Eu...
 I'm not sure where we are.
-I'm not sure where we are.
+Eu não tenho certeza de onde estamos.
 We were back at the house a moment ago, right?
-We were back at the house a moment ago, right?
+Estávamos dentro daquela casa há pouco, não estávamos?
 It's cold, and I can't find my Pokemon anywhere...
-It's cold, and I can't find my Pokemon anywhere...
+Está frio, e não consigo achar meus Pokémon em lugar nenhum...
 Can you just...
-Can you just...
+Você poderia só...
 Give me some space...
-Give me some space...
+Me dar um pouco de espaço...
 Why hello there traveller!
-Why hello there traveller!
+Opa, olá, viajante!
 Can you sense those spirits around you?
-Can you sense those spirits around you?
+Consegue sentir esses espíritos ao seu redor?
 They watch us all the time from their little hidey-holes.
-They watch us all the time from their little hidey-holes.
+Eles nos observam o tempo todo de seus pequenos esconderijos.
 They seem quite angry at you. Why would you do such a thing to upset them?
-They seem quite angry at you. Why would you do such a thing to upset them?
+Parecem bem irritados com você. Por que você foi fazer algo para irritá-los?
 Are you lost?
-Are you lost?
+Você se perdeu?
 That's too bad. Maybe you'll be stuck here too.
-That's too bad. Maybe you'll be stuck here too.
+É uma pena. Talvez você também acabe nunca mais saindo daqui.
 [Map102]
 It looks like the machine is dead. You can't heal your Pokemon here.
 It looks like the machine is dead. You can't heal your Pokemon here.
