@@ -7635,15 +7635,15 @@ Vamos.
 [Map118]
 [Map119]
 The storage PC in the Pokemon Center here is busted, so we set up an impromptu one here.
-The storage PC in the Pokemon Center here is busted, so we set up an impromptu one here.
+O Computador de Armazenamento do Centro Pokémon daqui está quebrado, então nós montamos um computador improvisado aqui.
 You're free to use it.
-You're free to use it.
+Fique à vontade para usá-lo.
 We rangers are trying to keep the avatar problem here under control.
-We rangers are trying to keep the avatar problem here under control.
+Nós, rangers, estamos tentando manter essa situação daqui com os avatares sob controle.
 The results have been...
-The results have been...
+Os resultados têm sido...
 Less than optimal.
-Less than optimal.
+Não muito ideais.
 [Map120]
 An extreme force pushes back!
 An extreme force pushes back!
