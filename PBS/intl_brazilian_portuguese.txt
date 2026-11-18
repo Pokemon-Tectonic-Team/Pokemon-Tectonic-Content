@@ -1565,17 +1565,17 @@ Sure, let's go.
 Claro, vamos.
 [Map9]
 STAY AWAY FROM MY PLANTS!
-STAY AWAY FROM MY PLANTS!
+FIQUE LONGE DAS MINHAS PLANTAS!
 I give up. My plants are doomed to die.
-I give up. My plants are doomed to die.
+Desisto. Minhas plantas estão condenadas a morrer.
 To be honest, they're not even my plants. I just wanted to make a nice bouquet for Lainie.
-To be honest, they're not even my plants. I just wanted to make a nice bouquet for Lainie.
+Para falar a verdade, elas nem são minhas plantas. Eu só queria fazer um buquê bonito para a Lainie.
 I just want to protect my plants.
-I just want to protect my plants.
+Só quero proteger as minhas plantas.
 To be honest, they're not even my plants. I don't know who left them here.
-To be honest, they're not even my plants. I don't know who left them here.
+Para falar a verdade, elas nem são minhas plantas. Eu só queria fazer um buquê bonito para a Lainie.
 I was looking around the sinkhole for the Gym Leader, but he wasn't anywhere around there.
-I was looking around the sinkhole for the Gym Leader, but he wasn't anywhere around there.
+Estava procurando o Líder De Ginásio nos arredores daquela cratera, mas ele não estava lá.
 [Map10]
 I'm training for my doctorate in Pokemon Biology.
 I'm training for my doctorate in Pokemon Biology.
