@@ -7476,15 +7476,15 @@ Kabuto...?
 Kabuto...?
 [Map112]
 This is a restricted area!
-This is a restricted area!
+Essa área é restrita!
 I'm here to help with the avatars, so I don't think I'm supposed to help with your gym challenge.
-I'm here to help with the avatars, so I don't think I'm supposed to help with your gym challenge.
+Estou aqui para ajudar com os avatares, então não acho que eu deveria te ajudar com o seu desafio do ginásio.
 Now go, before somebody overhears.
-Now go, before somebody overhears.
+Agora, vá -- antes que alguém escute.
 I guess I have no choice but to let you go.
-I guess I have no choice but to let you go.
+Acho que não tenho escolha a não ser te deixar.
 I think I have to fight you again the next time I see you...
-I think I have to fight you again the next time I see you...
+Acho que tenho que batalhar contra você na próxima vez que te ver...
 [Map113]
 [Map114]
 I've been assigned here to help with the avatar problem, but I don't really feel up to it.
