@@ -7401,75 +7401,75 @@ I guess I'll take a break here to heal my Pokemon.
 Acho que vou fazer uma pausa aqui para curar meus Pokémon.
 [Map111]
 Please move from that spot.
-Please move from that spot.
+Por favor, saia daí.
 I'm conducting further analysis of this small pond.
-I'm conducting further analysis of this small pond.
+Estou realizando uma análise mais aprofundada deste pequeno lago.
 Off you go, now. These fossils aren't going to research themselves!
-Off you go, now. These fossils aren't going to research themselves!
+Pode ir, pode ir. Esses fósseis não vão ser estudados sozinhos!
 Just a quick delivery to Novo College.
-Just a quick delivery to Novo College.
+Só uma rápida entrega para o Instituto De Nova.
 Ah, my research partner! Returned from Novo College already?
-Ah, my research partner! Returned from Novo College already?
+Ah, se não é meu braço direito de pesquisas! Já está voltando do Instituto De Nova?
 I hope the revival process went smoothly.
-I hope the revival process went smoothly.
+Espero que o processo de restauração tenha sido tranquilo.
 I'm excited to see what the team makes with these novel specimens.
-I'm excited to see what the team makes with these novel specimens.
+Estou empolgado para ver o que a equipe vai fazer com esses espécimes novos.
 But, er, not just yet. I still have so much more I want to do here!
-But, er, not just yet. I still have so much more I want to do here!
+Mas, éé, ainda não. Ainda quero fazer tanta coisa por aqui!
 I couldn't possibly split my attention.
-I couldn't possibly split my attention.
+Não posso, de forma alguma, dividir minha atenção.
 Fascinating...
-Fascinating...
+Fascinante...
 I certainly was not expecting to run into another person down here!
-I certainly was not expecting to run into another person down here!
+Certamente, não estava esperando me deparar com outra pessoa aqui embaixo!
 I'm a professor at Novo College. PhD in fossil identification.
-I'm a professor at Novo College. PhD in fossil identification.
+Sou professor no Instituto De Nova. Doutorado em identificação de fósseis.
 Following up on a report, I found two very interesting specimens.
-Following up on a report, I found two very interesting specimens.
+Dando seguimento a um relato, acabei encontrando dois espécimes muito interessantes.
 Look here.
-Look here.
+Olhe só.
 \i[ELDRITCHFOSSIL]While extracting, I thought this to be a Helix Fossil, the remains of an ancient Omanyte.
-\i[ELDRITCHFOSSIL]While extracting, I thought this to be a Helix Fossil, the remains of an ancient Omanyte.
+\i[ELDRITCHFOSSIL]Enquanto extraía, pensei que fosse um Fossil Espiral, os restos de um Omanyte ancestral.
 \i[ELDRITCHFOSSIL]But it's quite different!
-\i[ELDRITCHFOSSIL]But it's quite different!
+\i[ELDRITCHFOSSIL]Mas é um tanto diferente!
 \i[ELDRITCHFOSSIL]That strange groove... no, it’s actually a carving!
-\i[ELDRITCHFOSSIL]That strange groove... no, it’s actually a carving!
+\i[ELDRITCHFOSSIL]Este sulco estranho... não -- na verdade, é uma gravura!
 \i[ELDRITCHFOSSIL]But those tentacles... they couldn’t have reached to carve its own shell...
-\i[ELDRITCHFOSSIL]But those tentacles... they couldn’t have reached to carve its own shell...
+\i[ELDRITCHFOSSIL]Mas aqueles tentáculos... eles não alcançariam para esculpir sua própria concha... 
 \i[ELDRITCHFOSSIL]Also, it has only a single, large eye socket. Excellent for vision in darkness.
-\i[ELDRITCHFOSSIL]Also, it has only a single, large eye socket. Excellent for vision in darkness.
+\i[ELDRITCHFOSSIL]Além disso, ele possui uma única cavidade ocular grande. Excelente para visão no escuro.
 \i[ELDRITCHFOSSIL]This Omanyte was surely a cave-dwelling, intelligent species. Perhaps even a social one...
-\i[ELDRITCHFOSSIL]This Omanyte was surely a cave-dwelling, intelligent species. Perhaps even a social one...
+\i[ELDRITCHFOSSIL]Este Omanyte foi, com certeza, de uma espécie que habitava cavernas e que era muito inteligente. Talvez tenha sido até mesmo uma espécie social...
 Now, the second specimen of note.
-Now, the second specimen of note.
+Agora, o segundo espécime de destaque.
 \i[ALIENFOSSIL]A Dome Fossil, I hear you thinking? A Kabuto, surely?
-\i[ALIENFOSSIL]A Dome Fossil, I hear you thinking? A Kabuto, surely?
+\i[ALIENFOSSIL]Um Fóssil Cúpula, deve estar se perguntando? Com certeza, um Kabuto?
 \i[ALIENFOSSIL]Note the thickness of the armor plating, and the sheer size of these muscle- supporting bone ridges!
-\i[ALIENFOSSIL]Note the thickness of the armor plating, and the sheer size of these muscle- supporting bone ridges!
+\i[ALIENFOSSIL]Observe a espessura desta blindagem e o tamanho espantoso destas cristas ósseas para suporte à musculatura!
 \i[ALIENFOSSIL]This Kabuto was surely an apex predator the likes of which we've never seen.
-\i[ALIENFOSSIL]This Kabuto was surely an apex predator the likes of which we've never seen.
+\i[ALIENFOSSIL]Este Kabuto foi, com certeza, um predador de topo de cadeia, um espécime que nunca vimos antes.
 I was supposed to report back to the college at once... but surely my time is better spent here.
-I was supposed to report back to the college at once... but surely my time is better spent here.
+Eu deveria estar voltando para relatar isto ao instituto imediatamente... mas, certamente, meu tempo é melhor aproveitado aqui.
 There’s so much more to uncover...
-There’s so much more to uncover...
+Ainda há tantas coisas a serem descobertas...
 Oh! You’re still here.
-Oh! You’re still here.
+Ah! Você ainda está aqui.
 Well, how would you like to be my, uh... research partner?
-Well, how would you like to be my, uh... research partner?
+Bom, o que você acha de ser, hã... meu braço direito?
 All I need you to do is take one of these two fossils and transport it to the fossils laboratory at Novo College.
-All I need you to do is take one of these two fossils and transport it to the fossils laboratory at Novo College.
+Tudo que preciso que você faça é pegar um destes dois fósseis e levá-lo ao laboratório de fósseis do Instituto De Nova.
 You'll help me out, surely? Which one interests you more?
-You'll help me out, surely? Which one interests you more?
+Você vai me ajudar, não vai? Qual deles te interessa mais?
 But I couldn't possibly leave here myself...
-But I couldn't possibly leave here myself...
+Mas eu não posso sair deste lugar...
 Please, the sheer scientific potential... you must help me.
-Please, the sheer scientific potential... you must help me.
+Por favor, todo o potencial científico... você precisa me ajudar.
 Here, quickly now!
-Here, quickly now!
+Aqui, rápido!
 Thank you. I cannot overstate how excited I am to see these fossils revived.
-Thank you. I cannot overstate how excited I am to see these fossils revived.
+Obrigado. Não tenho palavras para expressar o quanto estou ansioso para ver estes fósseis restaurados.
 Let me think...
-Let me think...
+Vou pensar...
 Omanyte...?
 Omanyte...?
 Kabuto...?
