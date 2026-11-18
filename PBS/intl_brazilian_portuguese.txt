@@ -7307,85 +7307,85 @@ Of course.
 [Map106]
 [Map107]
 There’s a newly-painted sign here.
-There’s a newly-painted sign here.
+Há uma placa recém-pintada aqui.
 It reads “Rafael gone. Connor is gym leader now?”
-It reads “Rafael gone. Connor is gym leader now?”
+Ela diz "Rafael foi embora. Connor é líder de ginásio agora?".
 There are many, many question marks.
-There are many, many question marks.
+Há muitos, muitos pontos de interrogação.
 An old combination lock keeps the door shut tight.
-An old combination lock keeps the door shut tight.
+Um cadeado de combinação velho está mantendo a porta trancada.
 Reading off the slips of paper you found, you enter the code onto the locks.
-Reading off the slips of paper you found, you enter the code onto the locks.
+Lendo os pedaços de papel que você encontrou, você insere o código no cadeado.
 After a bit of jostling, the lock opens!
-After a bit of jostling, the lock opens!
+Depois de sacudir um pouco, você consegue abrir o cadeado!
 It takes eight digits, but with enough finagling you'd be able to open it with just <imp>four</imp>.
-It takes eight digits, but with enough finagling you'd be able to open it with just <imp>four</imp>.
+Tem espaço para oito dígitos, mas, com um pouco de jeito, você provavelmente conseguiria abrí-lo com apenas <inp>quatro</imp>.
 Oh, heya.
-Oh, heya.
+Ah, e aí?
 So... I'm a gym leader now. I guess.
-So... I'm a gym leader now. I guess.
+Então... Agora, sou um líder de ginásio. Eu acho.
 Didn't even really expect to see Rafeal again. He just kinda climbed down, patted me on the shoulder, and told me.
-Didn't even really expect to see Rafeal again. He just kinda climbed down, patted me on the shoulder, and told me.
+Eu nem estava esperando ver o Rafael de novo. Ele meio que desceu as escadas, deu um tapinha no meu ombro e me contou.
 Said all the paperwork or whatever was done. So, uh... yeah.
-Said all the paperwork or whatever was done. So, uh... yeah.
+Ele disse que a papelada já estava preenchida. Então, hã... é.
 Gym Leader Connor is coming soon!
-Gym Leader Connor is coming soon!
+Connor, o Líder De Ginásio, vem aí!
 Just need to get a proper doubles team together...
-Just need to get a proper doubles team together...
+Só preciso montar uma equipe de batalhas em dupla adequada...
 WHOA!
-WHOA!
+OPA, OPA!
 WHAT KIND'A UGLY POKEMON ARE YA?!
-WHAT KIND'A UGLY POKEMON ARE YA?!
+QUE TIPO DE POKÉMON FEIO É VOCÊ?!
 Rafael told me to battle any avatar that might come through here.
-Rafael told me to battle any avatar that might come through here.
+Rafael me disse para batalhar contra qualquer avatar que descesse aqui.
 I forgot my glasses at home today so I can't see anything more than a foot in front of me.
-I forgot my glasses at home today so I can't see anything more than a foot in front of me.
+Esqueci meus óculos em casa hoje, então não consigo enxergar nada que esteja a mais de uns 30 centímetros à minha frente.
 Sorry for confusing you with a Pokemon, you can pass through.
-Sorry for confusing you with a Pokemon, you can pass through.
+Foi mal por ter te confundido com um Pokémon. Você pode passar.
 Rafael is up ahead. Though, the door to the front is locked.
-Rafael is up ahead. Though, the door to the front is locked.
+Rafael está logo adiante. Mas a porta à frente está trancada.
 If you want in, you'll need the combo code. I wrote the digits on some slips of paper, but lost 'em a while back.
-If you want in, you'll need the combo code. I wrote the digits on some slips of paper, but lost 'em a while back.
+Se quiser entrar, vai precisar da combinação do cadeado. Escrevi a combinação em alguns pedaços de papel, mas os perdi já faz algum tempo.
 Sorry, but if you want in to fight Rafael, you'll have to find those slips.
-Sorry, but if you want in to fight Rafael, you'll have to find those slips.
+Foi mal, mas, se quiser batalhar contra o Rafael, vai ter que encontrar os papéis.
 The lock is really old, so you only need half of the eight digits, I'd wager.
-The lock is really old, so you only need half of the eight digits, I'd wager.
+O cadeado é bem velho, então você só precisa encontrar metade dos oito dígitos, eu apostaria.
 Rafael's Pokemon League Representative quit years ago, so I'll have to brief you on his team.
-Rafael's Pokemon League Representative quit years ago, so I'll have to brief you on his team.
+O Representante Da Liga Pokémon do Rafael pediu demissão já fazem alguns anos, então eu terei que te passar as informações sobre a equipe dele.
 Rafael uses a mix of Grass and Ghost-type Pokemon.
-Rafael uses a mix of Grass and Ghost-type Pokemon.
+O Rafael usa uma mistura de Pokémon dos tipos Grama e Fantasma.
 This means that Fire, Flying, Ice, and Dark types do well here.
-This means that Fire, Flying, Ice, and Dark types do well here.
+Isso significa que os tipos Fogo, Voador, Gelo e Trevas se saem bem aqui.
 He's not just his types, however. He wouldn't have been able to guard this place for so long without a trick up his sleeve.
-He's not just his types, however. He wouldn't have been able to guard this place for so long without a trick up his sleeve.
+Ele não se resume apenas aos tipos que usa, no entanto. Ele não teria sido capaz de proteger este lugar por tanto tempo sem um truque na manga.
 His team is built around the Dancer ability.
-His team is built around the Dancer ability.
+A equipe dele gira em torno da habilidade "Dançarino".
 When you see him send out his Bellossom or his Alolan Marowak...
-When you see him send out his Bellossom or his Alolan Marowak...
+Quando você o vir usando sua Bellossom ou sua Marowak De Alola...
 Well, all I'm saying is be prepared.
-Well, all I'm saying is be prepared.
+Bom, tudo que te digo é para se preparar.
 Best of luck, friend.
-Best of luck, friend.
+Boa sorte, camarada.
 You managed to win against Rafael?
-You managed to win against Rafael?
+Você conseguiu ganhar do Rafael?
 Great work, you got some real grit.
-Great work, you got some real grit.
+Ótimo trabalho, você realmente tem garra.
 If the avatar problem here ever gets sorted out, I'll try to go watch your next high profile match live.
-If the avatar problem here ever gets sorted out, I'll try to go watch your next high profile match live.
+Se o problema com os avatares daqui algum dia for resolvido, vou tentar assistir pessoalmente à sua próxima partida de alto nível.
 Well I'll be damned.
-Well I'll be damned.
+Macacos me mordam!
 After all this time, I finally got to see Rafael leave his post.
-After all this time, I finally got to see Rafael leave his post.
+Depois de tanto tempo, finalmente vi o Rafael sair do seu posto.
 He had the biggest damn smile I've ever seen on him.
-He had the biggest damn smile I've ever seen on him.
+Ele estava com o maior sorrisão que eu já vi em seu rosto.
 You did good.
-You did good.
+Você fez bem.
 You've probably saved me and Rafael a lot of cash as well.
-You've probably saved me and Rafael a lot of cash as well.
+Você provavelmente poupou muitos gastos para mim e o Rafael, também.
 We're down here most of the time, so we've lost a lot of money getting food delivered to us.
-We're down here most of the time, so we've lost a lot of money getting food delivered to us.
+Ficamos aqui embaixo a maior parte do tempo, então perdemos muito dinheiro tendo que pagar por <i>delivery</i> de comida.
 Helena would probably kill us if she found out how much we've spent on delivery fees...
-Helena would probably kill us if she found out how much we've spent on delivery fees...
+A Helena provavelmente nos mataria se soubesse quanto já gastamos com taxas de entrega...
 [Map108]
 [Map109]
 [Map110]
@@ -41500,7 +41500,7 @@ Cud Chew
 Curious Medicine
 Curious Medicine
 Dancer
-Dancer
+Dançarino
 Dark Aura
 Dark Aura
 Defeatist
