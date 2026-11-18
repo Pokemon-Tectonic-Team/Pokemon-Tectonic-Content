@@ -7189,39 +7189,39 @@ Hehe. Just kidding.
 Hehe. Brincadeirinha.
 [Map103]
 The caves under this town are rather dangerous...
-The caves under this town are rather dangerous...
+As cavernas abaixo desta cidade são perigosas...
 Not only are there tons of avatars, all the Trainers down there are looking to battle as well.
-Not only are there tons of avatars, all the Trainers down there are looking to battle as well.
+Como se não bastasse a quantidade enorme de avatares, todos os treinadores lá em baixo querem batalhar, também.
 Despite not being plugged in, the vending machine is still functional.
-Despite not being plugged in, the vending machine is still functional.
+Apesar de não estar ligada na tomada, essa máquina de vendas ainda funciona.
 The only option to select is Tea. Tea from the Tea Store.
-The only option to select is Tea. Tea from the Tea Store.
+A única opção para selecionar é Chá. Chá da Loja de Chás.
 It costs $2000! What a rip off!
-It costs $2000! What a rip off!
+Custa $2000! Que roubalheira!
 You decide against giving the suspicious vending machine your money.
-You decide against giving the suspicious vending machine your money.
+Você decide não colocar seu dinheiro na máquina de vendas suspeita.
 You purchase the Tea Store's Tea.
-You purchase the Tea Store's Tea.
+Você compra o Chá da Loja de Chás.
 \PN put $2000 into the machine.
-\PN put $2000 into the machine.
+\PN coloca $2000 na máquina.
 Whoa! A Pokémon dropped out!
-Whoa! A Pokémon dropped out!
+Opa?! Um Pokémon saiu de lá de dentro!
 You can't afford the suspicious Tea.
-You can't afford the suspicious Tea.
+Você não tem dinheiro suficiente para comprar o Chá suspeito.
 The haunted Tea machine hums along.
-The haunted Tea machine hums along.
+A máquina de chás assombrada continua zumbindo.
 You decide against giving any more money to this accursed machine.
-You decide against giving any more money to this accursed machine.
+Você decide não colocar mais dinheiro nessa máquina maldita.
 Another Sinistea dropped out!
-Another Sinistea dropped out!
+Outro Sinistea saiu de lá de dentro!
 You can't afford any more Tea.
-You can't afford any more Tea.
+Você não tem dinheiro para mais chá.
 Gross, the goods inside the cooler are rotten now.
-Gross, the goods inside the cooler are rotten now.
+Que nojo. Os produtos dentro do refrigerador estão apodrecidos agora.
 Do not buy Tea
-Do not buy Tea
+Não comprar chá
 Buy Tea
-Buy Tea
+Comprar chá
 [Map104]
 Andris gave each of us -- us gym leaders -- one of these keys.
 Andris gave each of us -- us gym leaders -- one of these keys.
