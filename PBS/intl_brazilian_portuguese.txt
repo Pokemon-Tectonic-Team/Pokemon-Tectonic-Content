@@ -1269,6 +1269,18 @@ Foi divertido!
 It was family business.
 Eram negócios de família.
 [Map8]
+My cousin and I like to hang out here. Take in the cool atmosphere and the night sky.
+Minha prima e eu gostamos de passar o tempo aqui. Aproveitar o clima agradável e o céu noturno.
+We still battle people, but like... in a chill way...
+A gente ainda batalha com as pessoas, mas, tipo... de um jeito tranquilo...
+I'm gonna leave now. Don't like your vibes.
+Vou sair daqui, agora. Não gostei da sua <i>vibe</i>.
+Can you feel the energy given off by those evolution stones?
+Você consegue sentir a energia emitida por aquelas pedras de evolução?
+It's doing wonders for my stress.
+Ela está fazendo maravilhas pelo meu estresse.
+Is life worth living if you can't take time to be transfixed by the beauty of nature?
+Vale mesmo a pena viver a vida se você não pode tirar um tempo para se mesmerizar com a beleza da natureza?
 Hey there. Miss me?
 Opa. Sentiu minha falta?
 I finally got here – all thanks to you. I have to say, you don’t look a mite worse for wear considering how much wilderness you trekked through.
@@ -1297,7 +1309,7 @@ They’re so… arrogant. Have you ever noticed that?
 São tão… arrogantes. Você já reparou nisso?
 They just don’t care about us fleshy creatures – human or Pokémon. All they seem to notice is the land, each other, and a few very specific objects.
 Eles simplesmente não se importam conosco, criaturas corpóreas – humanos ou Pokémon. As únicas coisas que parecem notar é a terra, uns aos outros e alguns objetos bem específicos.
-I know this asking a lot, but… can I borrow a Moon Stone from you?
+I know this is asking a lot, but… can I borrow a Moon Stone from you?
 Sei que isso é pedir demais, mas… você pode me emprestar uma Pedra Lunar?
 The avatars seem to notice the incredible power inside those stones.
 Os avatares parecem notar o incrível poder que existe dentro dessas pedras.
@@ -1355,30 +1367,6 @@ Something like a Fire or Sun Stone would clash, and a Leaf or Dusk Stone is more
 Pedras como as de Fogo ou a Solar seriam conflitantes; como as De Folha ou Do Crepúsculo seriam apenas mais do que eles já possuem.
 I promise it’s a good cause.
 Te prometo: é uma boa causa.
-My cousin and I like to hang out here. Take in the cool atmosphere and the night sky.
-Minha prima e eu gostamos de passar o tempo aqui. Aproveitar o clima agradável e o céu noturno.
-We still battle people, but like... in a chill way...
-A gente ainda batalha com as pessoas, mas, tipo... de um jeito tranquilo...
-I'm gonna leave now. Don't like your vibes.
-Vou sair daqui, agora. Não gostei da sua <i>vibe</i>.
-Can you feel the energy given off by those evolution stones?
-Você consegue sentir a energia emitida por aquelas pedras de evolução?
-It's doing wonders for my stress.
-Ela está fazendo maravilhas pelo meu estresse.
-Is life worth living if you can't take time to be transfixed by the beauty of nature?
-Vale mesmo a pena viver a vida se você não pode tirar um tempo para se mesmerizar com a beleza da natureza?
-A notice about the Makyan Regional Tournament has been hastily scribbled over.
-Um aviso sobre o Torneio Regional Makiense foi apressadamente rabiscado.
-A note added below reads "Not Taking Challengers"
-Uma observação adicionada logo abaixo diz "Não Estamos Aceitando Desafiantes".
-Velenz Gym
-Ginásio De Velenze
-Leader: Rafael
-Líder: Rafael
-...
-...
-It seems like the Gym Leader was supposed to write a title here, but the space has been left blank.
-Parece que o Líder De Ginásio deveria ter escrito um título aqui, mas o espaço foi deixado em branco.
 Improper planning ruined this place. I just know it.
 Planejamento inadequado foi o que arruinou este lugar. Tenho certeza.
 Founding a town over a cave system? In a swamp?
@@ -1395,12 +1383,18 @@ Hm, I didn't expect you to say no.
 Hm, não estava esperando você negar.
 The math... I must have miscalculated...
 Os cálculos... devo ter calculado algo errado...
-Temporary Velenz Ranger Outpost
-Estação Ranger Temporária De Velenze
-"Velenz, proud home of-"
-"Velenze, orgulhoso lar de-"
-Claw marks on the sign render the text unreadable.
-Marcas de arranhões na placa tornam o texto ilegível.
+Velenz Gym
+Ginásio De Velenze
+Leader: Rafael
+Líder: Rafael
+...
+...
+It seems like the Gym Leader was supposed to write a title here, but the space has been left blank.
+Parece que o Líder De Ginásio deveria ter escrito um título aqui, mas o espaço foi deixado em branco.
+A notice about the Makyan Regional Tournament has been hastily scribbled over.
+Um aviso sobre o Torneio Regional Makiense foi apressadamente rabiscado.
+A note added below reads "Not Taking Challengers"
+Uma observação adicionada logo abaixo diz "Não Estamos Aceitando Desafiantes".
 Don't tell the others, but I'm getting bored of waiting.
 Não conte aos outros, mas estou ficando cansada de esperar.
 Well, might as well battle you before <i>they</i> arrive.
@@ -1417,6 +1411,12 @@ That mansion near the menagerie must have something to do with the light I saw.
 Aquela mansão perto da Coleção deve ter alguma coisa a ver com a luz que vi.
 My cousin says I'm paranoid, but I definitely saw the place glowing last night.
 Meu primo diz que estou paranóica, mas eu definitivamente vi aquele lugar brilhando ontem à noite.
+"Velenz, proud home of-"
+"Velenze, orgulhoso lar de-"
+Claw marks on the sign render the text unreadable.
+Marcas de arranhões na placa tornam o texto ilegível.
+Temporary Velenz Ranger Outpost
+Estação Ranger Temporária De Velenze
 I thought this place was supposed to be scary.
 Pensei que este lugar fosse assustador.
 Just seems peaceful to me.
@@ -1433,10 +1433,12 @@ Got some rare things on sale, stranger!
 Tenho algumas coisas raras à venda, viajante!
 Come back anytime.
 Volte quando quiser.
-East: Repora Forest
-Leste: Floresta Repora
-South: Barren Crater
-Sul: Cratera Estéril
+Shh.
+Shh.
+You want the stuff?
+Você quer o bagulho?
+Forget you saw me.
+Passa reto, passa reto.
 No earthlings allowed: that's the rule.
 Nada de terráqueos: essa é a regra.
 By the power of the Moon Stone, I will punish you!
@@ -1449,12 +1451,34 @@ I haven't been a real sailor since they scuttled my ship.
 Não mais sou um marinheiro de verdade desde que afundaram meu navio.
 I just like the clothes.
 Eu só gosto das roupas.
-Shh.
-Shh.
-You want the stuff?
-Você quer o bagulho?
-Forget you saw me.
-Passa reto, passa reto.
+East: Repora Forest
+Leste: Floresta Repora
+South: Barren Crater
+Sul: Cratera Estéril
+There's supposed to be a gym leader around here, but he's not keen on taking challengers.
+Deveria haver um líder de ginásio por aqui, mas ele não tá a fim de receber desafiantes.
+He lives <imp>underground</imp> like some hermit.
+Ele vive <imp>no subterrâneo</imp>, como um tipo de heremita.
+Even locked himself up to make it harder to get in.
+Ele até mesmo se trancou para dificultar a entrada.
+Apparently the <imp>lock combination code</imp> is somewhere in the town.
+Aparentemente, o <imp>código do cadeado</imp> está em algum lugar da cidade.
+This is all a bit too mental for me right now, so I'm taking a break.
+Isso tudo é muita maluquice para mim no momento, então estou dando uma pausa.
+A small handmade sign. It lists an eight-digit code in a big, blocky style.
+Uma pequena placa feita à mão. Ela lista um código de oito dígitos em letras grandes e quadradas.
+Rafael may have a layer of earth protecting him from the surface, but it doesn't protect him from my astral projection.
+Rafael pode ter uma camada de terra o protegendo da superfície, mas ela não o protege de minha projeção astral.
+I've been watching his battles with some fervor. I wish to grasp the essence of his strategy.
+Tenho assistido às batalhas dele com certo fervor. Desejo entender o segredo de sua estratégia.
+It is, at its core, about dancing.
+Ela é, em sua essência, sobre dançar.
+His Oricorio and Alolan Marowak both gain power from dancing done by their allies.
+Tanto seu Oricorio quanto a sua Marowak De Alola ficam mais fortes com danças realizadas pelos seus aliados.
+If one was feeling particularly devilish, one could aquire a Hattrem.
+Para quem estiver se sentindo particularmente travesso, pode ser uma boa ideia adquirir uma Hattrem.
+That witch has a special ability which damages Pokémon who utilize dance.
+Aquela bruxa tem uma habilidade especial que causa dano a Pokémon que utilizam alguma dança.
 Fighting me's better than fighting any of those Avatars, I'd wager. Prove me right?
 Batalhar contra mim é melhor do que batalhar contra qualquer um daqueles avatares, eu aposto. Quer provar que eu estou certo?
 Understood.
@@ -1475,30 +1499,6 @@ You unlocked Rafael's front door?! That sure saves me the time and frustration.
 Você destrancou a prota da frente do Rafael?! Isso com certeza vai me poupar muito tempo e frustração.
 Much appreciated, fellow trainer! Off I go!
 Muito obrigade, colega desafiante! Aqui vou eu!
-Rafael may have a layer of earth protecting him from the surface, but it doesn't protect him from my astral projection.
-Rafael pode ter uma camada de terra o protegendo da superfície, mas ela não o protege de minha projeção astral.
-I've been watching his battles with some fervor. I wish to grasp the essence of his strategy.
-Tenho assistido às batalhas dele com certo fervor. Desejo entender o segredo de sua estratégia.
-It is, at its core, about dancing.
-Ela é, em sua essência, sobre dançar.
-His Oricorio and Alolan Marowak both gain power from dancing done by their allies.
-Tanto seu Oricorio quanto a sua Marowak De Alola ficam mais fortes com danças realizadas pelos seus aliados.
-If one was feeling particularly devilish, one could aquire a Hattrem.
-Para quem estiver se sentindo particularmente travesso, pode ser uma boa ideia adquirir uma Hattrem.
-That witch has a special ability which damages Pokémon who utilize dance.
-Aquela bruxa tem uma habilidade especial que causa dano a Pokémon que utilizam alguma dança.
-There's supposed to be a gym leader around here, but he's not keen on taking challengers.
-Deveria haver um líder de ginásio por aqui, mas ele não tá a fim de receber desafiantes.
-He lives <imp>underground</imp> like some hermit.
-Ele vive <imp>no subterrâneo</imp>, como um tipo de heremita.
-Even locked himself up to make it harder to get in.
-Ele até mesmo se trancou para dificultar a entrada.
-Apparently the <imp>lock combination code</imp> is somewhere in the town.
-Aparentemente, o <imp>código do cadeado</imp> está em algum lugar da cidade.
-This is all a bit too mental for me right now, so I'm taking a break.
-Isso tudo é muita maluquice para mim no momento, então estou dando uma pausa.
-A small handmade sign. It lists an eight-digit code in a big, blocky style.
-Uma pequena placa feita à mão. Ela lista um código de oito dígitos em letras grandes e quadradas.
 ooooooOOOOOooooooooo...
 ooooooOOOOOOooooooooo...
 OOOOOOOOOOOOOOOooooooooooooooooo...
@@ -7324,7 +7324,7 @@ Oh, heya.
 Ah, e aí?
 So... I'm a gym leader now. I guess.
 Então... Agora, sou um líder de ginásio. Eu acho.
-Didn't even really expect to see Rafeal again. He just kinda climbed down, patted me on the shoulder, and told me.
+Didn't even really expect to see Rafael again. He just kinda climbed down, patted me on the shoulder, and told me.
 Eu nem estava esperando ver o Rafael de novo. Ele meio que desceu as escadas, deu um tapinha no meu ombro e me contou.
 Said all the paperwork or whatever was done. So, uh... yeah.
 Ele disse que a papelada já estava preenchida. Então, hã... é.
@@ -7435,7 +7435,7 @@ Olhe só.
 \i[ELDRITCHFOSSIL]That strange groove... no, it’s actually a carving!
 \i[ELDRITCHFOSSIL]Este sulco estranho... não -- na verdade, é uma gravura!
 \i[ELDRITCHFOSSIL]But those tentacles... they couldn’t have reached to carve its own shell...
-\i[ELDRITCHFOSSIL]Mas aqueles tentáculos... eles não alcançariam para esculpir sua própria concha... 
+\i[ELDRITCHFOSSIL]Mas aqueles tentáculos... eles não alcançariam para esculpir sua própria concha...
 \i[ELDRITCHFOSSIL]Also, it has only a single, large eye socket. Excellent for vision in darkness.
 \i[ELDRITCHFOSSIL]Além disso, ele possui uma única cavidade ocular grande. Excelente para visão no escuro.
 \i[ELDRITCHFOSSIL]This Omanyte was surely a cave-dwelling, intelligent species. Perhaps even a social one...
@@ -19124,7 +19124,7 @@ Give coffee.
 [Map293]
 Me and sister are much better battlers than our parents.
 Minha irmã e eu somos muito melhores em batalhar do que os nossos pais.
-Our Pokemon couldn't beat your's?!
+Our Pokemon couldn't beat yours?!
 Nossos Pokémon não conseguiram derrotar os seus?
 That was fun, we should battle again soon.
 Isso foi divertido, deveríamos batalhar de novo uma outra hora.
@@ -26606,7 +26606,7 @@ I'm not a stranger to hard work, mind you.
 Não sou nenhum estranho ao trabalho duro, viu?
 I went through so much coffee when I was an architect.
 Eu bebia tanto café quando era um arquiteto.
-I’m the one who came up with the designs for the Ranger Velenzs you see all over.
+I’m the one who came up with the designs for the Ranger Outposts you see all over.
 Fui o responsável pelos designs das Estações Ranger que você vê por aí.
 Bless Bogdan Cement for their cheap prices.
 Abençoada seja a Bogdan Cimentos pelos seus preços baixos.
@@ -43044,8 +43044,8 @@ Reduces a sleeping foe's HP by 1/8th at the end of a round.
 Reduces a sleeping foe's HP by 1/8th at the end of a round.
 Powers up ally Pokémon's special moves by 30%.
 Powers up ally Pokémon's special moves by 30%.
-Raises Attack and Sp. Atk by two steps when its HP is lowered below half.
-Raises Attack and Sp. Atk by two steps when its HP is lowered below half.
+Raises Attack and Sp. Atk by two steps if an attack lowers its HP below half.
+Raises Attack and Sp. Atk by two steps if an attack lowers its HP below half.
 When this Pokémon eats a Berry, it restores 33% of its max health.
 When this Pokémon eats a Berry, it restores 33% of its max health.
 Boosts Attack after knocking out any Pokémon.
@@ -43310,16 +43310,16 @@ Only super-effective moves will hit.
 Only super-effective moves will hit.
 After being attacked, uses Parting Shot to switch out.
 After being attacked, uses Parting Shot to switch out.
-This Pokémon gains twice as many stats from leveling up.
-This Pokémon gains twice as many stats from leveling up.
+This Pokémon gains twice as many stats from leveling up. It can't have its base stats modified.
+This Pokémon gains twice as many stats from leveling up. It can't have its base stats modified.
 At the end of each turn in rainstorm, each Pokémon not immune to rainstorm has their Defense and Sp. Def lowered.
 At the end of each turn in rainstorm, each Pokémon not immune to rainstorm has their Defense and Sp. Def lowered.
 After landing a super-effective or hyper-effective hit, deals 30% more damage on its next Normal-type move.
 After landing a super-effective or hyper-effective hit, deals 30% more damage on its next Normal-type move.
 Powers up moves of the same type by 33%.
 Powers up moves of the same type by 33%.
-Raises Speed by four steps when its HP is lowered below half.
-Raises Speed by four steps when its HP is lowered below half.
+Raises Speed by four steps if an attack lowers its HP below half.
+Raises Speed by four steps if an attack lowers its HP below half.
 Immune to Flying-type moves and raises Speed instead.
 Immune to Flying-type moves and raises Speed instead.
 Protects this Pokémon from recoil damage. This Pokémon doesn't trigger items, abilities, or effects of targets it hits.
@@ -43386,8 +43386,8 @@ During sandstorm, deal and take 50% more damage.
 During sandstorm, deal and take 50% more damage.
 Sets a Reflect for four turns upon entry.
 Sets a Reflect for four turns upon entry.
-Raises Defense and Sp. Def by three steps when its HP is lowered below half. This only works once per switch-in.
-Raises Defense and Sp. Def by three steps when its HP is lowered below half. This only works once per switch-in.
+Raises Defense and Sp. Def by three steps if an attack lowers its HP below half. This only works once per switch-in.
+Raises Defense and Sp. Def by three steps if an attack lowers its HP below half. This only works once per switch-in.
 Boosts power of light-based moves by 30%.
 Boosts power of light-based moves by 30%.
 After using a sound move, all foes are Tormented.
@@ -43412,8 +43412,8 @@ Move damage that's decreased by sunshine is decreased twice as much.
 Move damage that's decreased by sunshine is decreased twice as much.
 Increase the EXP gained from battles in which it participates by 50%.
 Increase the EXP gained from battles in which it participates by 50%.
-After using a dance move, lowers one of each foe's Attack and Sp. Atk, whichever is higher.
-After using a dance move, lowers one of each foe's Attack and Sp. Atk, whichever is higher.
+After using a dance move, lowers one of each foe's Attack or Sp. Atk by two steps, whichever is higher.
+After using a dance move, lowers one of each foe's Attack or Sp. Atk by two steps, whichever is higher.
 Heals from binding damage it deals. Takes 25% less damage from Pokémon that are trapped.
 Heals from binding damage it deals. Takes 25% less damage from Pokémon that are trapped.
 Lays a hazard of levitating stones around the opponent when its HP is lowered below half.
@@ -43496,8 +43496,8 @@ Upon entry, creates a Substitute from 1/4th of its HP.
 Upon entry, creates a Substitute from 1/4th of its HP.
 When hit with a special move, hits back instantly with Breach.
 When hit with a special move, hits back instantly with Breach.
-Foretelling moves take one turn longer to attack but deal 50% more damage.
-Foretelling moves take one turn longer to attack but deal 50% more damage.
+While a Foretelling move is waiting to hit, this Pokémon takes 25% less damage.
+While a Foretelling move is waiting to hit, this Pokémon takes 25% less damage.
 When a foe hits this Pokémon, they are warned. If they do it again, they become cursed.
 When a foe hits this Pokémon, they are warned. If they do it again, they become cursed.
 When this Pokémon gains a non-volatile status condition, its Attack is raised by three steps.
@@ -44166,8 +44166,8 @@ Takes half damage from Dragon-, Fairy-, and Ghost-type attacks.
 Takes half damage from Dragon-, Fairy-, and Ghost-type attacks.
 If this Pokémon faints from Perish Song, it is revived in a new form.
 If this Pokémon faints from Perish Song, it is revived in a new form.
-Maximizes Sp. Atk when its HP is lowered below half.
-Maximizes Sp. Atk when its HP is lowered below half.
+Maximizes Sp. Atk if an attack lowers its HP below half.
+Maximizes Sp. Atk if an attack lowers its HP below half.
 After knocking out any Pokémon, regenerates its previously-used item.
 After knocking out any Pokémon, regenerates its previously-used item.
 Light moves change this Pokémon's secondary type and their power is boosted by 30%.
@@ -44296,8 +44296,8 @@ At the end of each round, lowers other waterlogged Pokémon's Attack and Sp. Atk
 At the end of each round, lowers other waterlogged Pokémon's Attack and Sp. Atk by two steps.
 On the first turn, its attacks leech the target.
 On the first turn, its attacks leech the target.
-After using a sound move, lowers one of each foe's Attack and Sp. Atk, whichever is higher.
-After using a sound move, lowers one of each foe's Attack and Sp. Atk, whichever is higher.
+After using a sound move, lowers one of each foe's Attack or Sp. Atk, whichever is higher.
+After using a sound move, lowers one of each foe's Attack or Sp. Atk, whichever is higher.
 Whenever a foe fails or misses, they take 1/8th HP damage.
 Whenever a foe fails or misses, they take 1/8th HP damage.
 Boosts Attack by 30% in hail.
@@ -64726,6 +64726,12 @@ Changes Type depending on the Weather:
 <u>Moonglow / Blood Moon</u>: Fairy
 <u>Strong Winds</u>: Flying
 <u>Strong Winds</u>: Flying
+Unable to start double battle with only 1 able Pokemon.
+Unable to start double battle with only 1 able Pokemon.
+Unable to start triple battle without 3 able Pokemon.
+Unable to start triple battle without 3 able Pokemon.
+But it failed, since {1} can't have its stats modified!
+But it failed, since {1} can't have its stats modified!
 [27]
 0
 Animated
