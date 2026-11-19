@@ -535,9 +535,9 @@ Bom, agradeço pelo, hã... patrocínio... da sua família no passado. Providenc
 Mom isn't happy. She's sick of us leeching off of the company's success. 'Prove yourselves', she said.
 Nossa mãe não está feliz. Cansada de ver a gente parasitando o sucesso da empresa. 'Provem o seu valor', ela disse.
 So now your brother's got it in his head to become a Champion. That'll show her, right?
-Então, agora, seu irmão colocou na cabeça que vai virar um Campeão. Isso vai mostrar pra ela, não vai?
+Então, agora, seu irmão colocou na cabeça que vai virar um Medalhista. Isso vai mostrar pra ela, não vai?
 Not if you become Champion first.
-Não se você se tornar Campeão primeiro.
+Não se você se tornar Medalhista primeiro.
 Your brother <imp>Zain</imp> is already in the <imp>Makya region</imp>, with who knows how many badges.
 Seu irmão <imp>Zain</imp> já está na <imp>região de Makya</imp>, com sabe-se lá quantas insígnias.
 Fortunately, the regional Professor owes your family a favor, and you just called it in.
@@ -2257,7 +2257,7 @@ Arrumarei um tempo, sempre que quiser dedicar um pouco do seu a mim. Tenha um bo
 A screensaver image of a Luxray bounces lazily around the screen.
 Um protetor de tela em forma de Luxray se move preguiçosamente pela tela.
 Yo, champ in the making!
-Opa, futuro campeão!
+Opa, futuro medalhista!
 Helena runs a tight ship around here.
 A Helena mantém tudo nos trilhos por aqui.
 Even I can't get away with just standing around all day!
@@ -4033,7 +4033,7 @@ Um saco de pancadas bordô.
 A large logo of a Pancham is emblazened on the front and back.
 Um logotipo grande de um Pancham está estampado na frente e atrás.
 Yo, champ in the making!
-Opa, futuro campeão!
+Opa, futuro medalhista!
 Lambert's gym is inspired by his old days of breaking up brawls and knockin' skulls!
 O ginásio do Lambert é inspirado em antigamente, quando ele saía por aí caçando encrenca e arrebentando crânios!
 Therefore his gym focuses on Fighting-type and Dark-type Pokemon.
@@ -4095,7 +4095,7 @@ Eu vou só curar seus Pokémon, e por que você não me deixa refletir sobre qu�
 Impressive. You’re a damn sight better than most of the folks ‘round here.
 Impressionante. Você é muito melhor que a maioria do pessoal daqui.
 Might even be Champion material.
-Pode ter até potencial de ser Campeão.
+Pode ter até potencial de ser Medalhista.
 Let me get your Pokémon back into tip-top shape.
 Me permita deixar seus Pokémon novinhos em folha.
 As for you, here: the Loyalty Badge. It ain’t much, but you earned it.
@@ -4182,7 +4182,7 @@ Sabe, acredito que tenho algumas perguntas a te fazer. Estou pensando em, eu mes
 Not Makya’s, of course. Somewhere distant. I’ve spent enough time shadowboxing. I want a real challenge!
 Não em Makya, é claro. Em um lugar distante. Cansei dessa mesmice. Quero um desafio de verdade!
 Ah, well. I’ve still got work here to do. Some day I’ll ask you about how being Champion is.
-Ah, bom. Ainda tenho trabalho a fazer por aqui. Algum dia, vou te perguntar como é ser Campeão.
+Ah, bom. Ainda tenho trabalho a fazer por aqui. Algum dia, vou te perguntar como é ser Medalhista.
 Some day.
 Algum dia.
 [Map45]
@@ -5698,7 +5698,7 @@ Vou ficar parado aqui até que um desafiante como você me traga um pouco de <im
 There are <imp>vending machines</imp> in all PokéCenters and Ranger Stations.
 Há <imp>máquinas de venda</imp> em todos os Centros Pokémon e Estações Ranger.
 Yo, champ in the making!
-Opa, futuro campeão!
+Opa, futuro medalhista!
 Eko is the gym leader here, and they love pain in all its forms.
 Eko é y líder de ginásio daqui, e ale ama dor em todas as suas formas.
 Therefore they picked Fire and Poison as their specialties.
@@ -6018,7 +6018,7 @@ Hã? Quê? Hã?
 Oh, hey. Uh. Yeah. Secure the funding.... zzz...
 Ah, oi. Hã. É. Garantir o financiamento... zzz...
 An ad is playing for the Makyan Championship Tournament. "Come and watch a new Champion be crowned!"
-Um anúncio do Campeonato Makiense está passando. "Venha e testemunhe um novo Campeão ser coroado!"
+Um anúncio do Campeonato Makiense está passando. "Venha e testemunhe a próxima pessoa a ser Medalhista ser coroada!"
 "Sponsored by LuxTech."
 "Patrocinado por LuxTech."
 Ah, I know that look. You're wondering why I have an umbrella.
@@ -9636,7 +9636,7 @@ E aí, pivete. O que que tá rolando? Ouvi dizer que você tá me seguindo.
 Well, go right ahead. Not gonna get a Beedrill in my bonnet over some kid toddling after me.
 Bom, vai em frente. Não vou ficar com um Kricketot na minha cabeça só porque tem uma criança pirracenta correndo atrás de mim.
 By the time you find me, I’ll be Champion, and mom will have her mind made up.
-Quando você me encontrar, eu já vou ser Campeão. A mamãe já vai ter tomado a decisão dela há muito tempo.
+Quando você me encontrar, eu já vou ser Medalhista. A mamãe já vai ter tomado a decisão dela há muito tempo.
 Yeah, sure, make it sound like a real competition.
 Tá, claro. Fica à vontade se quiser fazer parecer que é uma competição de verdade.
 What? Persian got your tongue? Whatever -- I didn’t call to hear you talk.
@@ -15275,141 +15275,141 @@ I'm with you.
 I'm with you.
 [Map213]
 Slick Ick
-Slick Ick
+Escorregadio e Nojento
 Cold and Distant
-Cold and Distant
+Frio E Distante
 Marsh Madness
-Marsh Madness
+Zica Do Pântano
 Best Pests
-Best Pests
+Pragas Bravas
 Mineral Imports
-Mineral Imports
+Minerais Importados
 The door is firmly locked.
-The door is firmly locked.
+A porta está firmemente trancada.
 Under the door, you see a bit of light spilling out...
-Under the door, you see a bit of light spilling out...
+Sob a porta, você vê um pouco de luz vazando...
 Pruning and Preening
-Pruning and Preening
+Poda e Limpeza
 Hello, \PN.
-Hello, \PN.
+Olá, \PN.
 I’m sorry. I’ve invited you here under false pretenses.
-I’m sorry. I’ve invited you here under false pretenses.
+Me perdoe. Te chamei para cá sob falsos pretextos.
 In my research I noted you and a certain individual meeting several times.
-In my research I noted you and a certain individual meeting several times.
+Durante meus estudos, notei você e um certo alguém se encontraram diversas vezes.
 I would later discover her to be the former Champion, Yezera.
-I would later discover her to be the former Champion, Yezera.
+Mais tarde, descobri que se tratava da ex-Campeã, Yezera.
 I have reason to believe she is behind the emergence of the avatars.
-I have reason to believe she is behind the emergence of the avatars.
+Tenho motivos para acreditar que ela está por trás da crise avatar.
 I understand you may be unwilling to part with any information you have concerning this. I suggest a duel.
-I understand you may be unwilling to part with any information you have concerning this. I suggest a duel.
+Imagino que você não pretende ceder qualquer tipo de informação que possa ter a respeito desse assunto. Sugiro duelarmos.
 The loser will tell the victor the whole truth.
-The loser will tell the victor the whole truth.
+Quem perder conta toda a verdade para quem ganhar.
 Good.
-Good.
+Ótimo.
 That may be so. Dedicated trainers seem to have some kind of honor to their matches, though.
-That may be so. Dedicated trainers seem to have some kind of honor to their matches, though.
+Pode até ser. No entanto, treinadores Pokémon parecem ter algum tipo de honra atrelada às suas batalhas.
 I would like to ensure you are telling me everything. It seems as if a loss may compel you to reveal what you would otherwise hide.
-I would like to ensure you are telling me everything. It seems as if a loss may compel you to reveal what you would otherwise hide.
+Gostaria de garantir que você vai me contar <i>tudo</i>. Acredito que uma derrota possa te fazer revelar coisas que, de outra forma, não revelaria.
 Those are my conditions. I will fight you before I have anything more to do with you.
-Those are my conditions. I will fight you before I have anything more to do with you.
+Essas são minhas condições. Batalharei contra você antes de continuar a ter qualquer outro tipo de envolvimento.
 If you would like to leave, you may.
-If you would like to leave, you may.
+Se quiser ir embora, pode ir.
 Yes. What honor compels you trainers is beyond me.
-Yes. What honor compels you trainers is beyond me.
+Sim. O tipo de honra que move vocês, treinadores, é algo incompreensível para mim.
 I plan to uphold my end of the deal, though. I believe your bizarre code of conduct will force you to, as well.
-I plan to uphold my end of the deal, though. I believe your bizarre code of conduct will force you to, as well.
+Planejo manter minha parte do acordo, no entanto. Acredito que seu código de conduta bizarro te forçará a manter o seu, também.
 Now, if you would like time to prepare, or simply to escape, do so now.
-Now, if you would like time to prepare, or simply to escape, do so now.
+Agora, se você precisa de tempo para se preparar, ou simplesmente para escapar, faça agora.
 If not, then we shall duel.
-If not, then we shall duel.
+Caso contrário, então duelaremos.
 Go. I’ll wait.
-Go. I’ll wait.
+Vá. Vou esperar.
 I understand you are the current Champion. I am more skilled than you may expect, though.
-I understand you are the current Champion. I am more skilled than you may expect, though.
+Entendo que te coroaram como Medalhista atual. No entanto, sou mais habilidoso do que você imagina.
 You returned. Are you ready?
-You returned. Are you ready?
+Você retornou. Tudo pronto?
 Yes, well, I suppose I expected this. The odds of beating a Champion were low.
-Yes, well, I suppose I expected this. The odds of beating a Champion were low.
+Sim, bem, suponho que estava esperando isso. As chances de derrotar quem foi Medalhista eram baixas.
 I did the best I could, and now I will tell you the whole truth. Maybe your response will tell me what I want to know.
-I did the best I could, and now I will tell you the whole truth. Maybe your response will tell me what I want to know.
+Fiz o melhor que pude e, agora, vou te contar toda a verdade. Talvez a sua reação me diga o que desejo saber.
 I have discovered the locations of at least four of the five Regi tombs.
-I have discovered the locations of at least four of the five Regi tombs.
+Descobri as localizações de pelo menos quatro das cinco tumbas dos Regis.
 I am also aware of Yezera’s abduction of the Regis, and that some part of her plan has caused the avatars. My final finding is that... none of it matters.
-I am also aware of Yezera’s abduction of the Regis, and that some part of her plan has caused the avatars. My final finding is that... none of it matters.
+Também estou ciente de que Yezera roubou os Regis e de que alguma parte do plano dela causou a crise avatar. Minha conclusão final é de que... nada disso importa.
 Not for my purposes.
-Not for my purposes.
+Não para os meus propósitos.
 Makya is a large, vibrant ecosystem. The pressures which generate a new regional form are more complicated than one can simply infer.
-Makya is a large, vibrant ecosystem. The pressures which generate a new regional form are more complicated than one can simply infer.
+Makya tem um ecossistema enorme e vibrante. As causas do surgimento de uma nova forma regional são mais complicadas do que se dá para simplesmente inferir.
 In my pride, I thought an outsider’s perspective could unravel this mystery.
-In my pride, I thought an outsider’s perspective could unravel this mystery.
+No auge de meu orgulho, pensei que a perspectiva de alguém de fora poderia resolver esse mistério.
 The Regis, the avatars, the regional forms – all connected, of course, but not cleanly. The world is not a clean place.
-The Regis, the avatars, the regional forms – all connected, of course, but not cleanly. The world is not a clean place.
+Os Regis, os avatares, as formas regionais – tudo conectado, é claro – mas não de forma limpa. O mundo não é um lugar limpo.
 I am glad you agree. If you had a simple solution I had missed, I would be rather embarrassed.
-I am glad you agree. If you had a simple solution I had missed, I would be rather embarrassed.
+Fico feliz em ver que concorda. Se você tivesse uma solução simples que , eu ficaria deveras envergonhado.
 Even a negative result is worth determining for certain. I don’t have answers. I do have experience, and data.
-Even a negative result is worth determining for certain. I don’t have answers. I do have experience, and data.
+Mesmo um resultado negativo vale a pena ser confirmado. Não tenho respostas. Tenho experiência e dados.
 Yes. I plan to prove my abilities in more realistic ways than solving an entire region’s mysteries.
-Yes. I plan to prove my abilities in more realistic ways than solving an entire region’s mysteries.
+Sim. Planejo provar minhas habilidades de formas mais realísticas do que resolvendo os mistérios de uma região inteira.
 I don’t. I’ve determined my problem. Now I’m fixing it.
-I don’t. I’ve determined my problem. Now I’m fixing it.
+Eu não me culpo. Apenas identifiquei meu problema. Agora estou resolvendo.
 But I am also not finished, as I have only told you half the truth.
-But I am also not finished, as I have only told you half the truth.
+Mas eu também não terminei, já que te contei apenas uma meia-verdade.
 My challenge and this location were for a higher purpose.
-My challenge and this location were for a higher purpose.
+Meu desafio e a escolha deste local foram para um propósito maior.
 I noted Makya’s vast diversity of species and set my sights on a particular trio. Prior to this moment, they have only been found in an extremely specific locale.
-I noted Makya’s vast diversity of species and set my sights on a particular trio. Prior to this moment, they have only been found in an extremely specific locale.
+Observei a vasta diversidade de espécies de Makya e comecei a focar em um certo trio. Antes de agora, eles apenas haviam sido encontrados em um local muito específico.
 But, drawn by the sound of brutal conflict, in a place such as this...
-But, drawn by the sound of brutal conflict, in a place such as this...
+Mas, atraídos pelos sons de um conflito brutal, em um lugar como este...
 Pulp and Fantasy
-Pulp and Fantasy
+Violência e Ficção
 Conflict against a hero such as you, in a location similar to their home such as this, draws them out.
-Conflict against a hero such as you, in a location similar to their home such as this, draws them out.
+Conflito contra um espírito heroico — como o seu — em um lugar similar ao lar deles — como este — os atrai.
 I have been untrue, however. I have fought you before. I was masked.
-I have been untrue, however. I have fought you before. I was masked.
+Não fui completamente honesto, na verdade. Já batalhamos antes. Eu estava mascarado.
 I have determined I have made a mistake there, too. Primordial truth would elude us even if the world is reverted. There is no point.
-I have determined I have made a mistake there, too.  Primordial truth would elude us even if the world is reverted. There is no point.
+Cheguei à conclusão de que cometi um erro aqui, também. A verdade Primordial nos escaparia mesmo que o mundo fosse revertido. Não faz sentido.
 The world is complicated, and always has been. My inability to solve such a relatively-trivial mystery suggests my plan was foolish.
-The world is complicated, and always has been. My inability to solve such a relatively-trivial mystery suggests my plan was foolish.
+O mundo é complicado — sempre foi. Minha incapacidade de resolver um mistério tão relativamente trivial sugere que meu plano era tolice.
 Please excuse my repeated deceptions. I did, in fact, determine quite a bit of this on my own.
-Please excuse my repeated deceptions. I did, in fact, determine quite a bit of this on my own.
+Por favor, perdoe minhas constantes enganações. Na verdade, descobri boa parte disso por conta.
 The nature of the regional forms is still a pursuit of mine. I plan to continue it, so Yezera must be stopped.
-The nature of the regional forms is still a pursuit of mine. I plan to continue it, so Yezera must be stopped.
+A natureza das formas regionais ainda é algo que pretendo entender. Planejo continuar, por isso, Yezera precisa ser parada.
 If you wish, I would suggest you take these birds of the battlefield with you. I planned to use them against you. Now I suggest the reverse.
-If you wish, I would suggest you take these birds of the battlefield with you. I planned to use them against you. Now I suggest the reverse.
+Se quiser, eu sugiro que leve estes pássaros ao campo de batalha com você. Planejei usá-los contra você. Agora, sugiro o contrário.
 I will leave you to your preparations. I have many years of study left in Makya, and plan to not waste them.
-I will leave you to your preparations. I have many years of study left in Makya, and plan to not waste them.
+Te deixarei fazer seus preparativos. Ainda tenho muitos anos de estudos para fazer em Makya, e não pretendo desperdiçá-los.
 I rest easy knowing you will not let my efforts be in vain. Goodbye, \PN.
-I rest easy knowing you will not let my efforts be in vain. Goodbye, \PN.
+Fico tranquilo ao saber que você não deixará meus esforços serem em vão. Até mais ver, \PN.
 There they are. Bringers of carnage.
-There they are. Bringers of carnage.
+Aí estão eles. Mensageiros da carnificina.
 Only a battle against a Champion in an environ similar to their home might draw them out, if they lurked here at all.
-Only a battle against a Champion in an environ similar to their home might draw them out, if they lurked here at all.
+Apenas a batalha de um Medalhista em um ambiente semelhante ao lar deles poderia atraí-los, caso estivessem mesmo à espreita por aqui.
 I have confirmed my hypothesis, and can rest easy.
-I have confirmed my hypothesis, and can rest easy.
+Confirmei minha hipótese e agora posso ficar tranquilo.
 If you wish to catch them, or merely fight them, you may do so. I will leave you to your amusements.
-If you wish to catch them, or merely fight them, you may do so. I will leave you to your amusements.
+Se quiser capturá-los, ou meramente batalhar contra eles, fique à vontade. Te deixarei com seus divertimentos.
 Goodbye, \PN. Thank you. I have many more years of study left in Makya, thanks to you.
-Goodbye, \PN. Thank you. I have many more years of study left in Makya, thanks to you.
+Até mais, \PN. Obrigado. Tenho muitos anos de estudo pela frente em Makya, graças a você.
 Fine.
-Fine.
+Tudo bem.
 I'd tell you anyways.
-I'd tell you anyways.
+Eu te contaria de qualquer forma.
 No.
-No.
+Não.
 Seems unenforceable.
-Seems unenforceable.
+Parece difícil de comprovar.
 Give me a minute.
-Give me a minute.
+Me dá um minuto.
 I'm ready now.
-I'm ready now.
+Tudo pronto.
 That's true.
-That's true.
+Verdade.
 So it was pointless?
-So it was pointless?
+Então foi inútil?
 Pride is right.
-Pride is right.
+Orgulho é algo bom.
 Don't beat yourself up.
-Don't beat yourself up.
+Não se culpe.
 [Map214]
 Leaving through -- oh. You -- you’re looking for something down here.
 Leaving through -- oh. You -- you’re looking for something down here.
@@ -67287,7 +67287,7 @@ Atalho
 Totemly Obsessed
 Totemmente Obcecado
 Champion of Champions
-Campeão dos Campeões
+Medalhista dos Medalhistas
 Gender Schmender
 Gênero: Não.
 The Final Straw
@@ -67316,7 +67316,7 @@ Hook Line and Sinker
 História De Pescador
 [34]
 Be officially crowned Champion of Makya.
-Seja oficialmente coroado Campeão de Makya.
+Seja oficialmente coroado Medalhista de Makya.
 Reach the credits with 10 or fewer hours on your save file.
 Chegue aos créditos com 10 horas ou menos em seu arquivo de salvamento.
 Defeat Zain in Prizca West with a shiny Skitty in your party.
