@@ -9007,89 +9007,89 @@ Not really.
 Not really.
 [Map129]
 A dark stone in the shape of a Nincada.
-A dark stone in the shape of a Nincada.
+Uma pedra escura em formato de Nincada.
 It's slightly warm to the touch.
-It's slightly warm to the touch.
+É levemente quente ao toque.
 I am the most powerful ninja in Makya! I traveled all the way from Sweetrock Harbor to prove it!
-I am the most powerful ninja in Makya! I traveled all the way from Sweetrock Harbor to prove it!
+Sou o ninja mais poderoso de Makya! Viajei desde o Porto Sweetrock até aqui para provar isso!
 No, my candies!
-No, my candies!
+Não, meus doces!
 The Shinobi code dictates that I let you pass. But beware, for my revenge will be swift...
-The Shinobi code dictates that I let you pass. But beware, for my revenge will be swift...
+O código Shinobi afirma que devo te deixar passar. Mas cuidado: minha vingança será veloz...
 The door is thoroughly locked.
-The door is thoroughly locked.
+A porta está trancada.
 A dark stone in the shape of a Croagunk.
-A dark stone in the shape of a Croagunk.
+Uma pedra escura em formato de Croagunk.
 A dark stone in the shape of a Murkrow.
-A dark stone in the shape of a Murkrow.
+Uma pedra escura em formato de Murkrow.
 Hey, yo! Help me out for a second, would ya?
-Hey, yo! Help me out for a second, would ya?
+Ei, você! Me dá uma ajuda rapidinho, por favor?
 There’s, like, a house up the road that this guy, like, totally keeps unlocked.
-There’s, like, a house up the road that this guy, like, totally keeps unlocked.
+Tem, tipo, uma casa no final dessa estrada com um sujeito que, tipo, totalmente deixa destrancada e tal.
 Break in and challenge him, 'kay? Toodles!
-Break in and challenge him, 'kay? Toodles!
+Entra lá e desafia ele, tá bom? Tchauzinho!
 A dark stone in the shape of a Spoink.
-A dark stone in the shape of a Spoink.
+Uma pedra escura em formato de Spoink.
 Wow, thanks!
-Wow, thanks!
+Uau, valeu!
 I saw that guy had a Grimer and, like, no way I’m dealing with that mess.
-I saw that guy had a Grimer and, like, no way I’m dealing with that mess.
+Vi que aquele cara tinha um Grimer e, tipo, de jeito nenhum que eu ia mexer com aquela coisa.
 Anywho, thanks to your distraction I got in through the back window and nabbed these Poké Balls.
-Anywho, thanks to your distraction I got in through the back window and nabbed these Poké Balls.
+De qualquer forma, graças à sua distração, entrei pela porta dos fundos e peguei estas Pokébolas.
 Catch me back at <imp>Novo College</imp>, yeah? Bye!
-Catch me back at <imp>Novo College</imp>, yeah?  Bye!
+A gente se vê de novo no <imp>Instituto De Nova</imp>, pode ser? Té mais!
 I'm a consultant for the government, sent to review this station for improper activity.
-I'm a consultant for the government, sent to review this station for improper activity.
+Sou um consultor do governo, enviado para cá para analisar este lugar em busca de atividades irregulares. 
 Taking a break to battle on the way? Quite proper!
-Taking a break to battle on the way? Quite proper!
+Fazer uma pausa para uma batalha no caminho? Me soa bem!
 I'm sure everything going on here is above board.
-I'm sure everything going on here is above board.
+Tenho certeza que tudo que está acontecendo aqui está nas normas.
 Back to Casaba Villa I go!
-Back to Casaba Villa I go!
+Acho que vou voltar pra Vila Casaba!
 Well, it's a good thing a station is right there.
-Well, it's a good thing a station is right there.
+Bom, ainda bem que tem uma estação bem ali.
 Man, these lifelike Pokemon statues are crazy realistic.
-Man, these lifelike Pokemon statues are crazy realistic.
+Cara, essas estátuas de Pokémon são tremendamente realistas.
 I just had a pretty morbid revelation. I think I'm gonna go get some ice cream and cry.
-I just had a pretty morbid revelation. I think I'm gonna go get some ice cream and cry.
+Acabo de ter uma revelação meio mórbida. Acho que vou tomar um pouco de sorvete e chorar.
 I wonder what the artist did to make these statues so... lifelike.
-I wonder what the artist did to make these statues so... lifelike.
+Me pergunto o que o artista fez para conseguir fazer as estátuas serem tão... realistas.
 Do you think those statues were... uhhh... you know... like, alive at one point?
-Do you think those statues were... uhhh... you know... like, alive at one point?
+Você acha que essas estátuas já foram... hããã... você sabe... tipo, vivas em algum momento?
 A dark stone in the shape of a Lickitung.
-A dark stone in the shape of a Lickitung.
+Uma pedra escura em formato de Lickitung.
 It's slightly slick to the --
-It's slightly slick to the --
+É levemente escorregadia ao --
 No--That's a living Pokemon! Its body is partially covered in stone!
-No--That's a living Pokemon! Its body is partially covered in stone!
+Não -- isso é um Pokémon vivo! Seu corpo está parcialmente coberto em pedra!
 The Lickitung is unable to move, and in obvious distress.
-The Lickitung is unable to move, and in obvious distress.
+O Lickitung é incapaz de se mover e está visivelmente em agonia.
 You could use a Moomoo Milk or a Full Restore to heal its partial petrification.
-You could use a Moomoo Milk or a Full Restore to heal its partial petrification.
+Você poderia usar um Leite De Moomoo ou uma Restauração Total para curar a petrificação parcial dele.
 What would you like to do?
-What would you like to do?
+O que você gostaria de fazer?
 You leave the Pokemon here for now.
-You leave the Pokemon here for now.
+Você deixa o Pokémon aqui por enquanto.
 You apply the Moomoo Milk to the Lickitung. In an instant, it breaks free, shaking off bits of stone.
-You apply the Moomoo Milk to the Lickitung. In an instant, it breaks free, shaking off bits of stone.
+Você dá o Leite De Moomoo pro Lickitung. Em um instante, ele se liberta, chacoalhando e limpando pedaços de pedra.
 You notice a Pokeball wedged into the nearby boulder.
-You notice a Pokeball wedged into the nearby boulder.
+Você nota uma Pokébola encravada na rocha próxima.
 Lickitung brings over the Pokeball and enters it in front of you.
-Lickitung brings over the Pokeball and enters it in front of you.
+Lickitung traz a Pokébola e entra nela na sua frente.
 You don't have a Moomoo Milk to use.
-You don't have a Moomoo Milk to use.
+Você não tem um Leite De Moomoo para usar.
 You apply the Full Restore to the Lickitung. In an instant, it breaks free, shaking off bits of stone.
-You apply the Full Restore to the Lickitung. In an instant, it breaks free, shaking off bits of stone.
+Você dá a Restauração Total pro Lickitung. Em um instante, ele se liberta, chacoalhando e limpando pedaços de pedra.
 You don't have a Full Restore to use.
-You don't have a Full Restore to use.
+Você não tem uma Restauração Total para usar.
 North: Velenz
-North: Velenz
+Norte: Velenze
 Leave it
-Leave it
+Deixá-lo aqui
 Use a Moomoo Milk
-Use a Moomoo Milk
+Usar um Leite De Moomoo
 Use a Full Restore
-Use a Full Restore
+Usar uma Restauração Total
 [Map130]
 South: Lingering Delta
 South: Lingering Delta
