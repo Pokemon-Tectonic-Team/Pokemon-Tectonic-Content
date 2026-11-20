@@ -24496,39 +24496,39 @@ Um saco preso a uma rocha.
 [Map369]
 [Map370]
 A strong seedling.
-A strong seedling.
+Uma muda forte.
 It'll bloom into a tree, if given enough time.
-It'll bloom into a tree, if given enough time.
+Florescerá em uma árvore, se tiver tempo suficiente.
 The Celebi gestures to the palm of your hand.
-The Celebi gestures to the palm of your hand.
+Celebi gesticula em direção à palma de sua mão.
 After a moment's hesitation, you tentatively reach out your hands.
-After a moment's hesitation, you tentatively reach out your hands.
+Depois de hesitar por um momento, você lentamente estende suas mãos.
 An image appears in your head, clear as if you were seeing it with your own eyes.
-An image appears in your head, clear as if you were seeing it with your own eyes.
+Uma imagem aparece em sua cabeça, nítida, como se você estivesse presenciando com seus próprios olhos.
 The vision is of a lush forest, growing underground.
-The vision is of a lush forest, growing underground.
+É a visão de uma floresta viçosa, crescendo no subterrâneo.
 As the vision fades, you see Celebi staring at you expectantly.
-As the vision fades, you see Celebi staring at you expectantly.
+À medida que a visão some, você vê Celebi olhando para você com expectativa.
 Celebi stares at you with a tilted head.
-Celebi stares at you with a tilted head.
+Celebi te encara com a cabeça inclinada.
 You get the sense that it expects something from you.
-You get the sense that it expects something from you.
+Você tem a sensação de que está esperando algo de você.
 You feel energy pulsing from the Latent Seeds in your bag.
-You feel energy pulsing from the Latent Seeds in your bag.
+Você sente o pulsar das Sementes Latentes em sua mochila.
 Celebi seems pleased with your work.
-Celebi seems pleased with your work.
+Celebi parece satisfeita com o seu trabalho.
 Before you can react, it grabs your hands!
-Before you can react, it grabs your hands!
+Antes de você poder reagir, ela pega nas suas mãos!
 Allow Celebi to transport you into the past?
-Allow Celebi to transport you into the past?
+Deixar Celebi te transportar ao passado?
 You decide not to.
-You decide not to.
+Você decide não deixar.
 You hold out your hands. Celebi grabs them.
-You hold out your hands. Celebi grabs them.
+Você estende suas mãos. Celebi as segura.
 No.
-No.
+Não.
 Yes.
-Yes.
+Sim.
 [Map371]
 Doesn't open from this side.
 Não abre por este lado.
