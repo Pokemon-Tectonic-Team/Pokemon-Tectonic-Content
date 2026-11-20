@@ -24563,11 +24563,11 @@ Yes.
 Yes.
 [Map373]
 A strong seedling.
-A strong seedling.
+Uma muda forte.
 It'll bloom into a tree, if given enough time.
-It'll bloom into a tree, if given enough time.
+Florescerá em uma árvore, se tiver tempo suficiente.
 Doesn't open from this side.
-Doesn't open from this side.
+Não abre por este lado.
 [Map374]
 You try to get their attention, but they don't react.
 You try to get their attention, but they don't react.
