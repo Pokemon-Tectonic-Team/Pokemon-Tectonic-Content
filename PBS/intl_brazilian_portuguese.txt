@@ -16613,13 +16613,13 @@ Coffee sometime?
 Coffee sometime?
 [Map219]
 A loose piece of paper from a cave explorer's manual.
-A loose piece of paper from a cave explorer's manual.
+Um pedaço solto de papel de um manual para exploradores de cavernas.
 It shows a technique for pulling smooth boulders with your bare hands.
-It shows a technique for pulling smooth boulders with your bare hands.
+Ele mostra uma técnica para puxar rochas lisas usando apenas as suas mãos.
 A strong seedling.
-A strong seedling.
+Uma muda forte.
 It'll bloom into a tree, if given enough time.
-It'll bloom into a tree, if given enough time.
+Florescerá em uma árvore, se tiver tempo suficiente.
 [Map220]
 North-West: Exit to Catacombs
 North-West: Exit to Catacombs
