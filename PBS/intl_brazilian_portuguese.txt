@@ -24546,21 +24546,21 @@ I like bones, and my parents say I'm as dumb as a box of rocks!
 Eu gosto de ossos, e meus pais dizem que uma pedra seria mais inteligente do que eu!
 [Map372]
 Celebi gives you a warm look.
-Celebi gives you a warm look.
+Celebi te dá um olhar afeiçoado.
 It holds up a Pokeball and gives you a wink.
-It holds up a Pokeball and gives you a wink.
+Ela te mostra uma Pokébola e te dá uma piscadela.
 Accept it into your team?
-Accept it into your team?
+Aceitá-la em sua equipe?
 You decline the Celebi's request for now.
-You decline the Celebi's request for now.
+Você recusa o pedido da Celebi por enquanto.
 You take the Pokeball from the Celebi.
-You take the Pokeball from the Celebi.
+Você pega a Pokébola de Celebi.
 You catch it smirking as it activates the ball, and enters inside.
-You catch it smirking as it activates the ball, and enters inside.
+Você nota um pequeno sorriso em seu rosto enquanto ela ativa a bola e entra nela.
 No.
-No.
+Não.
 Yes.
-Yes.
+Sim.
 [Map373]
 A strong seedling.
 Uma muda forte.
