@@ -61349,9 +61349,9 @@ Also add the language name after the underscore. Use the same name as you put in
 After translating and editing the name, choose "Compile Text."
 \wtnp[0]
 Successfully compiled text and saved it to {1}.<<1>>
-Successfully compiled text and saved it to {1}.<<1>>
+Successfully compiled text and saved it to {1}.\wtnp[10]<<1>>
 Failed to compile text: {1}
-Failed to compile text: {1}
+Failed to compile text: {1}\wtnp[10]
 All animations were extracted and saved to the Animations folder.
 All animations were extracted and saved to the Animations folder.
 There are no animations to export.
