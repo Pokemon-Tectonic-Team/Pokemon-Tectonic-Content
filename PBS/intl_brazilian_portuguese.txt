@@ -24570,7 +24570,7 @@ Doesn't open from this side.
 Não abre por este lado.
 [Map374]
 You try to get their attention, but they don't react.
-You try to get their attention, but they don't react.
+Você tenta chamar a atenção desta pessoa, mas não há reação.
 [Map375]
 Whoa, Uxie! How did it get here?
 Whoa, Uxie! How did it get here?
