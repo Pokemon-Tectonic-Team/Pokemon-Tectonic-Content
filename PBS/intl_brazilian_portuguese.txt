@@ -18587,9 +18587,9 @@ Você insere o Cartão ID Chasm.
 The door unlocks with a click.
 A porta destranca com um clique.
 My stint as a ninja superhero was cut short due to... that being illegal.
-My stint as a ninja superhero was cut short due to...  that being illegal.
+Minha jornada como um super-herói ninja foi encerrada prematuramente por... ser ilegal.
 So, I have to rid myself of these TMs somehow.
-So, I have to rid myself of these TMs somehow.
+Então, tenho que me livrar destes MTs de algum jeito.
 [Map274]
 A Trash Can. It's filled halfway with burnt paper.
 A Trash Can. It's filled halfway with burnt paper.
@@ -62679,7 +62679,7 @@ My hopes go with you. Live the legend!
 Care to buy some?
 Quer comprar alguns?
 You see their value, don't you?
-You see their value, don't you?
+Você entende o valor delas, não entende?
 Maybe you'll be the one to bring them back?
 Maybe you'll be the one to bring them back?
 Ohoh! I'm honored that you would pay my store a visit, champion.
