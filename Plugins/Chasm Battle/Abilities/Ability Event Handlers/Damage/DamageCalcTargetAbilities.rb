@@ -423,12 +423,15 @@ BattleHandlers::DamageCalcTargetAbility.add(:BARRENBLOOD,
   }
 )
 
-BattleHandlers::DamageCalcTargetAbility.add(:BARRENBLOOD,
-  proc { |ability, user, target, _move, mults, _baseDmg, type, aiCheck|
-    if user.battle.sandy? 
-      mults[:final_damage_multiplier] *= 3 / 2.0
-      target.aiLearnsAbility(ability) unless aiCheck
-    end
+BattleHandlers::DamageCalcTargetAbility.add(:CREEPINGHORROR,
+  proc { |ability, _user, target, _move, mults, _baseDmg, _types, aiCheck|
+      foretold = target.battle.battlers.any? do |b|
+          b && b.position.effectActive?(:ForetoldMoveCounter)
+      end
+      if foretold
+          mults[:final_damage_multiplier] *= 0.75
+          target.aiLearnsAbility(ability) unless aiCheck
+      end
   }
 )
 
