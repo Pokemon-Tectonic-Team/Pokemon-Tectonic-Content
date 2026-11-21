@@ -797,9 +797,9 @@ If you could defeat the avatar over there for me, I'll be waiting here.
 你能幫我擊敗那裡的化身嗎？我實在解決不了這種問題。
 Goodness me, thank you. Here, take this Geodude.
 天哪，謝謝你。來，這隻小拳石給你了。
-You not only deserve a reward, but my hypothesis is that the avatar appeared when I had so many together in one place....
+You not only deserve a reward, but my hypothesis is that the avatar appeared when I had so many together in one place...
 這是你應得的，另外我懷疑是不是有太多小拳石聚集在一起，才導致了化身的出現...
-My hypothesis is that the avatar appeared when I had too many Alolan Geodudes together in one place....
+My hypothesis is that the avatar appeared when I had too many Alolan Geodudes together in one place...
 我懷疑是不是有太多阿羅拉小拳石聚集在一起，才導致了化身的出現...
 Dozens of paper bookmarks dot the pages of a book titled "A History of Ferrous Mining Techniques."
 一本夾著數十個書籤的書，標題為《黑色金屬採礦技術史》。
@@ -975,7 +975,7 @@ LuxTech Cold Storage
 光華冷庫
 —I thought we were all on the same page about what was expected of us now…
 —我以為我們對現在對我們的期望都達成了共識...
-I don’t think <i>they</i> ever were…. never wanted to give up the power.
+I don’t think <i>they</i> ever were… never wanted to give up the power.
 我認為<i>他們</i>從來沒有...永遠不想放棄力量。
 Technically… they had a special unit designation…
 從技術上講...他們有一個特別單位的稱號...
@@ -1297,7 +1297,7 @@ They’re so… arrogant. Have you ever noticed that?
 你注意到了嗎？它們簡直...太傲慢了。
 They just don’t care about us fleshy creatures – human or Pokémon. All they seem to notice is the land, each other, and a few very specific objects.
 它們根本不在乎我們這些還擁有血肉的生物，它們似乎只在意彼此的領土，以及某些極為特殊的東西。
-I know this asking a lot, but… can I borrow a Moon Stone from you?
+I know this is asking a lot, but… can I borrow a Moon Stone from you?
 我知道這個要求很過分，但我...能問你借一塊月之石嗎?
 The avatars seem to notice the incredible power inside those stones.
 化身們似乎注意到了進化石中蘊含的驚人力量。
@@ -2568,7 +2568,7 @@ I'm trying to figure out why certain Avatars appear where they do.
 我一直嘗試著弄明白，為什麼那些化身會出現在這裡。
 They're often species that'd make sense for the local ecology, but not always.
 它們看起來都是正常的物種，當然也不能這麼說。
-Sometimes they're just.... somewhat off.
+Sometimes they're just... somewhat off.
 有時候它們只是...有些小變化。
 Beats me.
 想不明白。
@@ -4869,9 +4869,9 @@ Ah, I've been rocked!
 有了，這就是搖滾的震撼！
 Man, your moves are sick.
 夥計，你的舞技碉堡了。
-Ok, ok, I gotta stop using embarassing lines. Uhh....
-呃，我的我的，我不能再用這麼尷尬的形容了....
-Hey. You're uhh.. Cool?
+Ok, ok, I gotta stop using embarassing lines. Uhh...
+呃，我的我的，我不能再用這麼尷尬的形容了...
+Hey. You're uhh... Cool?
 咳咳，重新來過，呃...夥計，你的舞技酷...斃了？
 This is surprisingly hard.
 感覺好彆扭！
@@ -5593,7 +5593,7 @@ I did a mistake letting my Skitty forget it.
 我竟然犯這種錯誤。
 I'll have to visit the Move Relearner, so my Skitty can <imp>relearn</imp> Heal Bell.
 我得去找技能教學狂，讓我的向尾喵<imp>重新學會</imp>這招了。
-He's hanging in the Novo PokeCenter.... and in practically every other PokeCenter, somehow.
+He's hanging in the Novo PokeCenter... and in practically every other PokeCenter, somehow.
 望新的精靈中心應該有吧...畢竟在每個精靈中心都能見到他們。
 At the northernmost part of the Shipping Lane there is a house, and inside of that house a cave, and in that cave an Avatar!
 在揚帆路最北端有一座房子，房子裡面有一個山洞，山洞裡有一個化身！
@@ -5679,24 +5679,6 @@ No pain, no gain? Must be what Eko's thinking.
 估計這就是艾克的主意，讓我們在這裡體會痛苦。
 White text flies by on a dark purple background.
 白色的文字在紫色的屏幕上快速滾動著。
-Sorry for blocking the way, but I'm desperately dehydrated.
-抱歉，我擋了你的路，但我已經有些脫水了。
-You have a <imp>Fresh Water</imp>! I'll be taking that...
-你有一瓶<imp>美味之水</imp>！我想要的就是這個...
-The man takes a Fresh Water from your bag.
-他以迅雷不及掩耳之勢，從你的包裡拿走了一瓶美味之水。
-Ahhhh.... that helps a lot. Thanks.
-啊...得救了，萬分感謝。
-Consider the lockdown over.
-我這就讓開這條路。
-The scientists keep offering me liquids in beakers, but I've had too many close calls with caustic chemicals to just trust 'em on the contents.
-這裡的科學家們只用燒杯提供給我一些奇奇怪怪的液體喝，但我見過他們做實驗的樣子，實在是不敢下口。
-I can't leave my post, so blocking the gym entrance is my only leverage.
-但我又不能隨便離開崗位，所以只能用這種方法尋求生命之源。
-I'm plopping down here until a challenger like yourself grabs me a <imp>Fresh Water</imp>.
-我只能等在這裡，期盼著那些...訓練師帶來的<imp>美味之水</imp>。
-There are <imp>vending machines</imp> in all PokéCenters and Ranger Stations.
-所有精靈中心和護林員站都有<imp>自動售貨機</imp>。
 Yo, champ in the making!
 嘿，未來的冠軍！
 Eko is the gym leader here, and they love pain in all its forms.
@@ -5719,8 +5701,13 @@ If you don't unlock them, you'll find yourself walking a harsh path!
 恭喜你通過了道館挑戰！
 You pushed through the pain just fine.
 你成功剋制了自己的痛苦。
-A 3-D model displays the the chemical makeup of Makyan Tangela venom.
-一個展示了馬凱亞蔓藤怪毒液化學成分的3D模型。
+Sorry for blocking the way, but I'm desperately dehydrated.
+抱歉，我擋了你的路，但我已經有些脫水了。
+You have a <imp>Fresh Water</imp>! I'll be taking that...
+你有一瓶<imp>美味之水</imp>！我想要的就是這個...
+The man takes a Fresh Water from your bag.
+他以迅雷不及掩耳之勢，從你的包裡拿走了一瓶美味之水。
+Ahhhh... that helps a lot. Thanks.
 I hope you won't find this cruel. The suffering I'm about to inflict is strictly necessary.
 我希望你不會覺得這殘忍，因為這些是必須承受之痛。
 ...Noted. Please avail yourself of this teleporter. Taking the long way may subject any afflicted Pokemon to undue injury.
@@ -5985,14 +5972,8 @@ We decided to surprise her with some high quality Pokemon handling gloves.
 最後我們決定給她一個驚喜，買一副高質量的絕緣手套。
 That way she can pet her Ampharos without having to worry of getting shocked!
 這樣她在撫摸她電龍時就不用擔心被電到了。
-Finding data is one thing, but interpretation is a whole different beast.
-查找數據是一回事，分析數據是另一回事。
-Interpretation isn't as clear cut as just collecting more data.
-分析數據也是很消耗腦力的。
-Which is why I've been stuck here doing statistics calculations for hours...
-這就是我被統計表困在這裡好幾個小時的原因...
-Last week's newspaper. The photo shows Zain with his Serperior and Hariyama, defeating a Bastiodon.
-Last week's newspaper. The photo shows Zain with his Serperior and Hariyama, defeating a Bastiodon.
+Oh, hey. Uh. Yeah. Secure the funding... zzz...
+哦...那個...說得對！zzz...
 I've been burning the midnight oil on my research assignment for months now.
 這幾個月，我一直在熬夜完成自己的研究。
 I feel like I'm close, but sleep deprivation is getting to me.
@@ -6762,7 +6743,7 @@ Apparently the Cave got more dangerous recently, so they've restricted access to
 看來最近山洞變得更危險了，所以他們只允許實力強勁的訓練師進入。
 I already paid for a night's stay here.
 我都已經把房間訂好了。
-What a waste of cash....
+What a waste of cash...
 真是浪費錢...
 Welcome to Svait Lodge!
 歡迎來到霜皚旅館！
@@ -6862,7 +6843,7 @@ It's been tough.
 太難了！
 Strange Pokemon have been appearing out of nowhere.
 最近突然冒出來了好多奇怪的精靈。
-A lot of Mayka's caverns have been deemed unsafe for travel.
+A lot of Makya's caverns have been deemed unsafe for travel.
 現在馬凱亞的很多洞穴都不再適合旅行和探險了。
 We manage, but if people would stop being so reckless, that would also help a ton.
 目前我們還能勉強應付，但如果人們不再那麼冒失行事，我們的工作壓力就會小很多。
@@ -7324,7 +7305,7 @@ Oh, heya.
 哦，你好。
 So... I'm a gym leader now. I guess.
 所以...我就是道館館主...現在...大概...吧...
-Didn't even really expect to see Rafeal again. He just kinda climbed down, patted me on the shoulder, and told me.
+Didn't even really expect to see Rafael again. He just kinda climbed down, patted me on the shoulder, and told me.
 沒想到再見到拉斐爾後，他只是輕輕地拍了拍我的肩膀...
 Said all the paperwork or whatever was done. So, uh... yeah.
 說所有的文件都辦好了...然後...呃...我就...
@@ -9807,8 +9788,8 @@ I for one can't wait for the whole thing to blow over, so I can read again about
 希望這熱度趕緊消退吧，我更想在報紙上看些有用的東西。
 Like the stock market.
 比如說股市預測什麼的。
-Closed while Lambert participates in the Makya Championship Tournament.
-馬凱亞競技大會期間暫時閉館。
+I believe Lambert also has a Croagunk. Or... two of them?
+除此之外，蘭伯特還有一隻...或者說兩隻不良蛙？
 You keen to take me up on my offer?
 要來一場對決嗎？
 Understood.
@@ -19124,7 +19105,7 @@ Give coffee.
 [Map293]
 Me and sister are much better battlers than our parents.
 我和姐姐比爸爸媽媽更擅長戰鬥。
-Our Pokemon couldn't beat your's?!
+Our Pokemon couldn't beat yours?!
 我們的精靈打不過你的？
 That was fun, we should battle again soon.
 太有意思了，我們過段時間能再戰一次嗎？
@@ -25084,7 +25065,7 @@ There's eight digits to it, last I heard from Connor.
 我記得康納說過是八位數。
 I see eight slips of paper on you. That means you have the whole code for that blasted door!
 一二三...一共八張紙條，也就是說這是全部的密碼！
-Lemme just.... write that all down myself...
+Lemme just... write that all down myself...
 稍等...我現記一下...
 This is gonna be a lifesaver.
 這可真是救了老命了。
@@ -25327,7 +25308,7 @@ Yeah... I... I feel dizzy... Just need a moment...
 我...只是...有點暈...需要一點時間恢復...
 Uhh... I'm... Farid... Squad Leader Farid...
 呃...我...法裡德...法裡德...隊長...
-W-what...? No.. I... I don't think so.
+W-what...? No... I... I don't think so.
 什...什麼？我...不知道你在說什麼。
 I was here with my squad... We were, umm, searching for something...
 我記得我和我的隊員...在這裡找什麼東西...
@@ -26399,7 +26380,7 @@ They stood as my lifelong companions, but no longer must they.
 它們曾是我終身的伴侶，但現在，不再是了。
 <i>Fear means nothing under His watchful gaze.</i>
 <i>在祂的注視之下，恐懼將毫無意義可言。</i>
-O-Oriel..?
+O-Oriel...?
 奧...奧利爾？
 How foolish of you, <i>rejecting greater purpose with such conviction.</i>
 你真是愚不可及，<i>竟堅決地拒絕更大的目標。</i>
@@ -43044,8 +43025,8 @@ Reduces a sleeping foe's HP by 1/8th at the end of a round.
 回合結束時，使一名處於睡眠中的對手減小1/8的HP。
 Powers up ally Pokémon's special moves by 30%.
 會增加我方的特殊技能30%的威力。
-Raises Attack and Sp. Atk by two steps when its HP is lowered below half.
-當HP低於一半時，增加物攻和特攻2級。
+Raises Attack and Sp. Atk by two steps if an attack lowers its HP below half.
+Raises Attack and Sp. Atk by two steps if an attack lowers its HP below half.
 When this Pokémon eats a Berry, it restores 33% of its max health.
 無論是哪種樹果，食用後，都會回覆33%最大HP。
 Boosts Attack after knocking out any Pokémon.
@@ -43310,16 +43291,16 @@ Only super-effective moves will hit.
 不可思議的力量，只有效果拔群的技能才能擊中。
 After being attacked, uses Parting Shot to switch out.
 受到攻擊後，會造成反擊並回到隊伍中。
-This Pokémon gains twice as many stats from leveling up.
-精靈從升級中獲得的能力增加翻倍。
+This Pokémon gains twice as many stats from leveling up. It can't have its base stats modified.
+This Pokémon gains twice as many stats from leveling up. It can't have its base stats modified.
 At the end of each turn in rainstorm, each Pokémon not immune to rainstorm has their Defense and Sp. Def lowered.
 在暴雨的每個回合結束時，每個不免疫暴雨的負面效果的精靈的雙防減小1級。
 After landing a super-effective or hyper-effective hit, deals 30% more damage on its next Normal-type move.
 After landing a super-effective or hyper-effective hit, deals 30% more damage on its next Normal-type move.
 Powers up moves of the same type by 33%.
 與自身同屬性的技能威力增加33%。
-Raises Speed by four steps when its HP is lowered below half.
-HP降到一半以下時極大幅度增加速度。
+Raises Speed by four steps if an attack lowers its HP below half.
+Raises Speed by four steps if an attack lowers its HP below half.
 Immune to Flying-type moves and raises Speed instead.
 不會受到飛行屬性技能的傷害，而是會增加攻擊。
 Protects this Pokémon from recoil damage. This Pokémon doesn't trigger items, abilities, or effects of targets it hits.
@@ -44166,8 +44147,8 @@ Takes half damage from Dragon-, Fairy-, and Ghost-type attacks.
 受到龍屬性、妖精屬性和幽靈屬性攻擊的傷害減半。
 If this Pokémon faints from Perish Song, it is revived in a new form.
 如果被滅亡之歌擊敗，將復活並進入新形態。
-Maximizes Sp. Atk when its HP is lowered below half.
-自身HP低於一半時，特攻增加至最大。
+Maximizes Sp. Atk if an attack lowers its HP below half.
+Maximizes Sp. Atk if an attack lowers its HP below half.
 After knocking out any Pokémon, regenerates its previously-used item.
 擊倒任何精靈後，再生自身之前使用的物品。
 Light moves change this Pokémon's secondary type and their power is boosted by 30%.
@@ -44296,7 +44277,7 @@ At the end of each round, lowers other waterlogged Pokémon's Attack and Sp. Atk
 在每回合結束時，減小其他處於浸水狀態的精靈的物攻和特攻2級。
 On the first turn, its attacks leech the target.
 第1回合的攻擊會寄生對手。
-After using a sound move, lowers one of each foe's Attack and Sp. Atk, whichever is higher.
+After using a sound move, lowers one of each foe's Attack or Sp. Atk, whichever is higher.
 使用聲音類技能後，減小每個對手較高的物攻或特攻1級。
 Whenever a foe fails or misses, they take 1/8th HP damage.
 對手的技能失敗或沒命中時，將受到1/8最大HP的傷害。
