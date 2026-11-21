@@ -805,40 +805,66 @@ Dozens of paper bookmarks dot the pages of a book titled "A History of Ferrous M
 一本夾著數十個書籤的書，標題為《黑色金屬採礦技術史》。
 [Map5]
 [Map6]
-I was supposed to have a meeting with Kurt today about gracefully decommissioning some of the cluster, but he never showed up.
-我今天本來要跟庫特開個會，討論如何從容地退役回家，但他一直都沒來。
-Doesn’t he know that maintaining legacy systems adds unnecessary fragility?
-難道他理解不了維護過去只會讓一切變得更脆弱嗎？
+The crate is emblazoned with the logo for a "Laverre City Manufacturing Co."
+The crate is emblazoned with the logo for a "Laverre City Manufacturing Co."
 I really wish the vendor here would sell coffee.
 真希望這裡的商店能賣咖啡。
 There's a high demand for it, and no one wants to walk through an entire cave just to visit the cafe in Novo Town.
 這裡的大家對咖啡的需求量很大，總不能天天為了買咖啡，還要穿過山洞去望新鎮吧？
-The crate is emblazoned with the logo for a "Laverre City Manufacturing Co."
-The crate is emblazoned with the logo for a "Laverre City Manufacturing Co."
+I was supposed to have a meeting with Kurt today about gracefully decommissioning some of the cluster, but he never showed up.
+我今天本來要跟庫特開個會，討論如何從容地退役回家，但他一直都沒來。
+Doesn’t he know that maintaining legacy systems adds unnecessary fragility?
+難道他理解不了維護過去只會讓一切變得更脆弱嗎？
+A Shiny Corviknight!
+是閃光鋼鎧鴉！
+It's too busy watching the campus to notice you.
+它忙著巡視校園，根本沒注意到你。
 You and Helena had something secretive to discuss, is that it?
 聽說你和海蓮娜有祕密要談?
 I'd love to ask, but, well, I need this job more than I need to satisfy my curiosity.
 我很想問，但是，比起滿足我的好奇心，能留住這份工作更重要。
 Either way, that was a great battle!
 不管怎樣，那都是一場精彩的戰鬥！
-A Shiny Corviknight!
-是閃光鋼鎧鴉！
-It's too busy watching the campus to notice you.
-它忙著巡視校園，根本沒注意到你。
-It’s hard to get promoted when the top level talent here are former Team Chasm lieutenants.
-這裡的高級人才都是前裂隙隊的幹部，一般人很難得到晉升。
-They're such good battlers. It makes one jealous.
-他們太過優秀，讓人嫉妒。
+It smells delicious inside!
+It smells delicious inside!
+Closed while Helena participates in the Makya Championship Tournament.
+馬凱亞競技大會期間暫停營業。
 We're trying to debug some major issues with the older supply chain databases.
 我們正在針對舊供應鏈數據庫出現的嚴重問題進行調試。
 Kurt and Pearce were talking about just wiping the thing.
 庫特和皮爾斯正在討論要不要直接將數據庫清空重建。
 Just because they used to be Helena's lieutenants doesn't mean she won't have their hide if she catches them cutting corners!
 就算他們以前是海倫娜的副官，如果被發現失職行為，也一定會受到嚴厲處罰的。
-Closed while Helena participates in the Makya Championship Tournament.
-馬凱亞競技大會期間暫停營業。
-It smells delicious inside!
-It smells delicious inside!
+It’s hard to get promoted when the top level talent here are former Team Chasm lieutenants.
+這裡的高級人才都是前裂隙隊的幹部，一般人很難得到晉升。
+They're such good battlers. It makes one jealous.
+他們太過優秀，讓人嫉妒。
+"Catch a Break" Poké Balls
+“稍作休息”精靈球
+"LuxTech Campus, where the future begins!"
+"光華科技園區，未來開始的地方！"
+You one of the new hires?
+你是新員工嗎？
+Get me a coffee, chop chop.
+快點，給我倒杯咖啡。
+Well, go get some, then. I don't have all day.
+那就趕緊去買，我時間緊迫！
+Wow, this is some good stuff!
+哇，這可真是好東西啊！
+I can already feel the energy coursing through my body.
+我能感覺到能量在我體內湧動。
+I won't be needing to tide myself over with these anymore.
+這樣我就不再需要這些東西了。
+Well I don't see any on you. We don't pay you to waste our time with jokes!
+到你身上沒有我想要的東西，我們僱你來可不是摸魚的！
+This coffee ain't that great, kid.
+這咖啡不太好喝，孩子。
+In fact, it's awful. You're fired.
+說實話，是很難喝，你被開除了。
+Pack up your things and leave, wherever you work at.
+收拾好你的東西走人吧。
+LuxPark: A place of smiles.
+光華公園：充滿歡聲笑語的地方。
 You might be wondering how I nabbed myself a timeslot to fight Helena.
 你或許想知道，我是怎麼預訂到挑戰海倫娜的時間的。
 But I'll never tell, teehee!
@@ -869,32 +895,12 @@ I'm a bit disappointed. Well, let's avoid getting too cocky. I should actually m
 我有點失望...不過，也不能太自大了，我應該先試試，再做判斷才對。
 Bye bye!
 回見！
-LuxPark: A place of smiles.
-光華公園：充滿歡聲笑語的地方。
-You one of the new hires?
-你是新員工嗎？
-Get me a coffee, chop chop.
-快點，給我倒杯咖啡。
-Well, go get some, then. I don't have all day.
-那就趕緊去買，我時間緊迫！
-Wow, this is some good stuff!
-哇，這可真是好東西啊！
-I can already feel the energy coursing through my body.
-我能感覺到能量在我體內湧動。
-I won't be needing to tide myself over with these anymore.
-這樣我就不再需要這些東西了。
-Well I don't see any on you. We don't pay you to waste our time with jokes!
-到你身上沒有我想要的東西，我們僱你來可不是摸魚的！
-This coffee ain't that great, kid.
-這咖啡不太好喝，孩子。
-In fact, it's awful. You're fired.
-說實話，是很難喝，你被開除了。
-Pack up your things and leave, wherever you work at.
-收拾好你的東西走人吧。
-"LuxTech Campus, where the future begins!"
-"光華科技園區，未來開始的地方！"
-"Catch a Break" Poké Balls
-“稍作休息”精靈球
+LuxTech Main
+光華大廈
+I'm figuring out vacation spots here in Makya.
+我正在選擇馬凱亞的度假地。
+Visiting the ice cave seems wonderful, but the looming threat of Avatars really throws a wrench in things...
+我覺得冰窟是個很不錯的景點，但最近化身的活躍，又讓我開始打退堂鼓了...
 You ever have someone bother you out of nowhere?
 你有沒有被莫名其妙地打擾過?
 Just have your Pokemon give 'em one of these, and they'll leave you alone quick.
@@ -903,46 +909,36 @@ Yeah, that'll do.
 沒錯，這樣就行了。
 Either you give 'em one of those, or you bribe 'em with some stuff you don't need.
 要麼給他們來一記這樣的技能，要麼用你不需要的東西賄賂他們。
-I'm figuring out vacation spots here in Makya.
-我正在選擇馬凱亞的度假地。
-Visiting the ice cave seems wonderful, but the looming threat of Avatars really throws a wrench in things...
-我覺得冰窟是個很不錯的景點，但最近化身的活躍，又讓我開始打退堂鼓了...
-LuxTech Main
-光華大廈
-LuxTech Campus Gym
-光華道館
-Leader: Helena
-館主：海倫娜
-Shocking strategy, typhoon tactics!
-驚天的策略，狂暴的戰術！
+The door is securely locked.
+門被鎖著...
+A sign reads "Schedule your gym appointments in the large building to the west."
+一塊牌子上寫著：“請到旁邊大廈預約挑戰時間。”
 I decided to come here on a whim.
 我來這裡真是一時衝動啊。
 This park sucks.
 這個公園簡直糟糕透頂。
 I can't believe they even called it one.
 就這，能被稱作公園？
-The door is securely locked.
-門被鎖著...
-A sign reads "Schedule your gym appointments in the large building to the west."
-一塊牌子上寫著：“請到旁邊大廈預約挑戰時間。”
-LuxTech Sewage Engineering Entrance
-LuxTech Sewage Engineering Entrance
-Don't you think this wall is ugly?
-你也覺得這牆很醜對吧？
-Gigantic, and perfectly straight.
-鋼鐵般冰冷的高大筆直。
-Kind of ruins the natural beauty of this area.
-完全破壞了這裡的自然風光。
+LuxTech Campus Gym
+光華道館
+Leader: Helena
+館主：海倫娜
+Shocking strategy, typhoon tactics!
+驚天的策略，狂暴的戰術！
 LuxTech's Makya campus is more than just a workplace.
 光華市對於馬凱亞來說，不單單提供了工作崗位。
 We're also the undisputed capital of scientific research across the whole region!
 還是當之無愧的科技之都！
 At least that's what I tell investors.
 至少跟投資者我都這麼說。
-West: County Park
-西：國立公園
-East: Lingering Delta
-東：漫步河原
+Don't you think this wall is ugly?
+你也覺得這牆很醜對吧？
+Gigantic, and perfectly straight.
+鋼鐵般冰冷的高大筆直。
+Kind of ruins the natural beauty of this area.
+完全破壞了這裡的自然風光。
+LuxTech Sewage Engineering Entrance
+LuxTech Sewage Engineering Entrance
 Helena juggles leadership in this company with contract work for the Makyan government, and even then still finds time to train Pokemon for her gym.
 海倫娜不僅要擔任公司的決策層，還得為馬凱亞政府提供各種協助，即便如此，她也能抽出自己的時間，為道館訓練手下的精靈。
 If you plan on facing her, you best be wary of her hit and run tactics.
@@ -953,14 +949,12 @@ If you want a leg up, hazards like Stealth Rocks and Spikes can help a lot.
 如果你想搶佔先機，可以用隱形巖之類的對付她。
 Or you could trap her 'mons, so they just...can't switch out!
 當然也可以困住她的精靈，讓其無法自由地進出戰場！
-Oh, I see you have a MasterDex.
-哦，你有大師圖鑑！
-I have one of those myself. I got it from when I worked under Miss – er, Professor Tamarind.
-我自己也有一個。這是我之前在塔瑪琳小姐...呃，塔瑪琳博士手下工作時得到的。
-I used to help her keep the grunts from getting too rowdy.
-我過去經常幫她管理手下的新兵。
-As nice as my job is now, it's certainly less exciting.
-雖說現在的工作也很不錯，但缺少了以前那種令人興奮的感覺。
+West: County Park
+西：國立公園
+East: Lingering Delta
+東：漫步河原
+LuxTech Cold Storage
+光華冷庫
 LuxTech makes great products, and cheaply.
 光華市生產的商品物美價廉。
 Setting up an office in Makya hasn't helped their PR situation, though.
@@ -971,8 +965,26 @@ Not a good look for the company that recently switched mottos to "Innovation, In
 就算公司的口號已經改成了“創新，靈感與誠信”，也不會對此有什麼幫助。
 Yikes.
 唉...
-LuxTech Cold Storage
-光華冷庫
+Oh, I see you have a MasterDex.
+哦，你有大師圖鑑！
+I have one of those myself. I got it from when I worked under Miss – er, Professor Tamarind.
+我自己也有一個。這是我之前在塔瑪琳小姐...呃，塔瑪琳博士手下工作時得到的。
+I used to help her keep the grunts from getting too rowdy.
+我過去經常幫她管理手下的新兵。
+As nice as my job is now, it's certainly less exciting.
+雖說現在的工作也很不錯，但缺少了以前那種令人興奮的感覺。
+First Strike TMs
+First Strike TMs
+Get your lunches, imported premium from sunny Alola!
+進口自陽光明媚的阿羅拉的優質午餐盒飯！
+Yesterday was terrible.
+昨天也太糟糕了。
+I was forced to wind down the cluster I had running on the archive.
+我迫於無奈關掉了正在運行著程序的設備。
+"Ecology of the Lingering Delta", my pet project.
+我的心血結晶啊！那可是《漫步河原的生態學》啊！
+Even worse, I had to go down into the Cold Storage basement level to do the deed.
+更糟糕的是，我的崗位還被調到冷庫去了！
 —I thought we were all on the same page about what was expected of us now…
 —我以為我們對現在對我們的期望都達成了共識...
 I don’t think <i>they</i> ever were… never wanted to give up the power.
@@ -1007,36 +1019,24 @@ Please…
 請...
 *sigh*...Victoire is going to kill me…
 *嘆氣*...薇克特爾會殺了我的...
-Yesterday was terrible.
-昨天也太糟糕了。
-I was forced to wind down the cluster I had running on the archive.
-我迫於無奈關掉了正在運行著程序的設備。
-"Ecology of the Lingering Delta", my pet project.
-我的心血結晶啊！那可是《漫步河原的生態學》啊！
-Even worse, I had to go down into the Cold Storage basement level to do the deed.
-更糟糕的是，我的崗位還被調到冷庫去了！
-Get your lunches, imported premium from sunny Alola!
-進口自陽光明媚的阿羅拉的優質午餐盒飯！
-First Strike TMs
-First Strike TMs
+Mako's Malasadas
+馬科的馬拉薩達斯
+LuxTech Condos
+光華公寓
 All of my test materials got stolen mid-shipment. Again.
 我的考試參考書又一次在路上被偷光了！
 Apparently not everyone got the memo that Makya shouldn't work that way anymore.
 顯然即便到了今天，馬凱亞的治安依然問題不小。
 I really hope that Helena can convince the Makyan Rangers to start patrolling our routes.
 我真希望海倫娜能要求護林員，在我常走的幾條路上巡邏。
-LuxTech Condos
-光華公寓
-Mako's Malasadas
-馬科的馬拉薩達斯
-Maybe later.
-過會兒再來。
-Sure, let's go.
-好，來吧。
 Don't give coffee.
 不給。
 Give coffee.
 給他。
+Maybe later.
+過會兒再來。
+Sure, let's go.
+好，來吧。
 [Map7]
 The murkrow silently stares at you, a grim look in its eyes.
 黑暗鴉靜靜地注視著你，眼神中沒有一絲光亮。
@@ -1269,6 +1269,18 @@ It was fun!
 It was family business.
 It was family business.
 [Map8]
+My cousin and I like to hang out here. Take in the cool atmosphere and the night sky.
+我和表弟常在這兒發呆，感受清涼夜風和星空。
+We still battle people, but like... in a chill way...
+我們也會對戰，不過...主打一個佛系...
+I'm gonna leave now. Don't like your vibes.
+我要走了。你氣場好怪。
+Can you feel the energy given off by those evolution stones?
+能感受到進化石散發的能量嗎？
+It's doing wonders for my stress.
+對緩解焦慮有奇效。
+Is life worth living if you can't take time to be transfixed by the beauty of nature?
+如果連駐足感受自然之美的時間都沒有，活著還有啥意思？
 Hey there. Miss me?
 嘿，想我了嗎？
 I finally got here – all thanks to you. I have to say, you don’t look a mite worse for wear considering how much wilderness you trekked through.
@@ -1355,30 +1367,6 @@ Something like a Fire or Sun Stone would clash, and a Leaf or Dusk Stone is more
 而火之石、日之石這些就跟這裡的氣氛相沖了，至於葉之石或暗之石...貌似它們已經有了。
 I promise it’s a good cause.
 我相信自己的判斷沒錯。
-My cousin and I like to hang out here. Take in the cool atmosphere and the night sky.
-我和表弟常在這兒發呆，感受清涼夜風和星空。
-We still battle people, but like... in a chill way...
-我們也會對戰，不過...主打一個佛系...
-I'm gonna leave now. Don't like your vibes.
-我要走了。你氣場好怪。
-Can you feel the energy given off by those evolution stones?
-能感受到進化石散發的能量嗎？
-It's doing wonders for my stress.
-對緩解焦慮有奇效。
-Is life worth living if you can't take time to be transfixed by the beauty of nature?
-如果連駐足感受自然之美的時間都沒有，活著還有啥意思？
-A notice about the Makyan Regional Tournament has been hastily scribbled over.
-一張關於馬凱亞競技大會的通知，被潦草地塗抹後扔掉了。
-A note added below reads "Not Taking Challengers"
-下面增加了一行註釋："不接受挑戰者"
-Velenz Gym
-夜幽道館
-Leader: Rafael
-館主：拉斐爾
-...
-...
-It seems like the Gym Leader was supposed to write a title here, but the space has been left blank.
-按照慣例，館主應該在最後一行寫些什麼，但這裡被空出來了。
 Improper planning ruined this place. I just know it.
 Improper planning ruined this place. I just know it.
 Founding a town over a cave system? In a swamp?
@@ -1395,12 +1383,18 @@ Hm, I didn't expect you to say no.
 Hm, I didn't expect you to say no.
 The math... I must have miscalculated...
 The math... I must have miscalculated...
-Temporary Velenz Ranger Outpost
-夜幽市臨時護林員哨站
-"Velenz, proud home of-"
-"夜幽市，我驕傲的故..."
-Claw marks on the sign render the text unreadable.
-上面的字跡被爪痕破壞得難以識別。
+Velenz Gym
+夜幽道館
+Leader: Rafael
+館主：拉斐爾
+...
+...
+It seems like the Gym Leader was supposed to write a title here, but the space has been left blank.
+按照慣例，館主應該在最後一行寫些什麼，但這裡被空出來了。
+A notice about the Makyan Regional Tournament has been hastily scribbled over.
+一張關於馬凱亞競技大會的通知，被潦草地塗抹後扔掉了。
+A note added below reads "Not Taking Challengers"
+下面增加了一行註釋："不接受挑戰者"
 Don't tell the others, but I'm getting bored of waiting.
 別告訴其他人，但我等得有點無聊了。
 Well, might as well battle you before <i>they</i> arrive.
@@ -1417,6 +1411,12 @@ That mansion near the menagerie must have something to do with the light I saw.
 那座靠近動物園的豪宅一定和我看到的光有關。
 My cousin says I'm paranoid, but I definitely saw the place glowing last night.
 我表弟說我多疑，但我昨晚確實看到那地方在發光。
+"Velenz, proud home of-"
+"夜幽市，我驕傲的故..."
+Claw marks on the sign render the text unreadable.
+上面的字跡被爪痕破壞得難以識別。
+Temporary Velenz Ranger Outpost
+夜幽市臨時護林員哨站
 I thought this place was supposed to be scary.
 我以為這地方會很可怕。
 Just seems peaceful to me.
@@ -1433,10 +1433,12 @@ Got some rare things on sale, stranger!
 陌生人，我這裡有東西要賣！
 Come back anytime.
 隨時再來哦。
-East: Repora Forest
-東：枯槁森林
-South: Barren Crater
-南：荒莽火山
+Shh.
+Shh.
+You want the stuff?
+You want the stuff?
+Forget you saw me.
+Forget you saw me.
 No earthlings allowed: that's the rule.
 地球人禁止入內：這是規矩。
 By the power of the Moon Stone, I will punish you!
@@ -1449,12 +1451,34 @@ I haven't been a real sailor since they scuttled my ship.
 自從他們鑿沉了我的船，我就不算真正的船員了。
 I just like the clothes.
 我只是喜歡這身衣服。
-Shh.
-Shh.
-You want the stuff?
-You want the stuff?
-Forget you saw me.
-Forget you saw me.
+East: Repora Forest
+東：枯槁森林
+South: Barren Crater
+南：荒莽火山
+There's supposed to be a gym leader around here, but he's not keen on taking challengers.
+據說這裡有一位道館館主，但他並不喜歡接受挑戰。
+He lives <imp>underground</imp> like some hermit.
+他就跟個隱士似的住在<imp>地下</imp>某處。
+Even locked himself up to make it harder to get in.
+為了不被外人打擾，甚至把自己鎖了起來。
+Apparently the <imp>lock combination code</imp> is somewhere in the town.
+而那把鎖的<imp>密碼</imp>，就在這座廢棄城市的某個地方。
+This is all a bit too mental for me right now, so I'm taking a break.
+但這周圍的一切讓我有些神經過敏，我得休息一會兒了。
+A small handmade sign. It lists an eight-digit code in a big, blocky style.
+一個手工製作的小牌子，其中內嵌了一個八位數的密碼鎖。
+Rafael may have a layer of earth protecting him from the surface, but it doesn't protect him from my astral projection.
+拉斐爾可能覺得在地底可以安然無恙，但這並不能保護他不受我的探測。
+I've been watching his battles with some fervor. I wish to grasp the essence of his strategy.
+我一直在關注著他的戰鬥，希望自己能掌握他的精髓。
+It is, at its core, about dancing.
+他的對策核心是舞蹈。
+His Oricorio and Alolan Marowak both gain power from dancing done by their allies.
+他的花舞鳥跟阿羅拉嘎啦嘎啦，都能從同伴的舞蹈中汲取力量。
+If one was feeling particularly devilish, one could aquire a Hattrem.
+如果一個人覺得自己特別邪惡，就能得到一個提布莉姆。
+That witch has a special ability which damages Pokémon who utilize dance.
+That witch has a special ability which damages Pokémon who utilize dance.
 Fighting me's better than fighting any of those Avatars, I'd wager. Prove me right?
 我敢說，和我打比和那些化身打有意思多了。證明我說得對吧？
 Understood.
@@ -1475,30 +1499,6 @@ You unlocked Rafael's front door?! That sure saves me the time and frustration.
 你打開了拉斐爾家的前門？！這可省了我不少時間和麻煩。
 Much appreciated, fellow trainer! Off I go!
 非常感謝，訓練師朋友！我走啦！
-Rafael may have a layer of earth protecting him from the surface, but it doesn't protect him from my astral projection.
-拉斐爾可能覺得在地底可以安然無恙，但這並不能保護他不受我的探測。
-I've been watching his battles with some fervor. I wish to grasp the essence of his strategy.
-我一直在關注著他的戰鬥，希望自己能掌握他的精髓。
-It is, at its core, about dancing.
-他的對策核心是舞蹈。
-His Oricorio and Alolan Marowak both gain power from dancing done by their allies.
-他的花舞鳥跟阿羅拉嘎啦嘎啦，都能從同伴的舞蹈中汲取力量。
-If one was feeling particularly devilish, one could aquire a Hattrem.
-如果一個人覺得自己特別邪惡，就能得到一個提布莉姆。
-That witch has a special ability which damages Pokémon who utilize dance.
-That witch has a special ability which damages Pokémon who utilize dance.
-There's supposed to be a gym leader around here, but he's not keen on taking challengers.
-據說這裡有一位道館館主，但他並不喜歡接受挑戰。
-He lives <imp>underground</imp> like some hermit.
-他就跟個隱士似的住在<imp>地下</imp>某處。
-Even locked himself up to make it harder to get in.
-為了不被外人打擾，甚至把自己鎖了起來。
-Apparently the <imp>lock combination code</imp> is somewhere in the town.
-而那把鎖的<imp>密碼</imp>，就在這座廢棄城市的某個地方。
-This is all a bit too mental for me right now, so I'm taking a break.
-但這周圍的一切讓我有些神經過敏，我得休息一會兒了。
-A small handmade sign. It lists an eight-digit code in a big, blocky style.
-一個手工製作的小牌子，其中內嵌了一個八位數的密碼鎖。
 ooooooOOOOOooooooooo...
 ooooooOOOOOooooooooo...
 OOOOOOOOOOOOOOOooooooooooooooooo...
@@ -2340,12 +2340,6 @@ Your Pokemon are now healed.
 你的精靈已經痊癒。
 [Map24]
 [Map25]
-What're you doing?!
-你在幹什麼？
-You're \PN, right? The trainer the Professor called in?
-你是\PN，對吧？博士叫來的訓練師？
-So go destroy that Avatar before we're all killed!
-那就在大家被殺死前，幹掉那個化身吧！
 Presenting, my very own Flex-type attack!
 Presenting, my very own Flex-type attack!
 Is it Physical, you ask? Special, perhaps? It's both, of course!
@@ -2360,6 +2354,12 @@ Truly you've struck the motherload of moves!
 你可是學到了一項前所未有的神技！
 Fine... I just wanted something to do now that the mine's closed...
 好吧...現在礦場關了，我只是想找點事情做罷了。
+What're you doing?!
+你在幹什麼？
+You're \PN, right? The trainer the Professor called in?
+你是\PN，對吧？博士叫來的訓練師？
+So go destroy that Avatar before we're all killed!
+那就在大家被殺死前，幹掉那個化身吧！
 I used to use a lot of Life Orbs. Didn't care if my Pokemon got hurt so long as they did the work.
 我以前只在乎能否完成任務，不在意精靈們是否會受傷，所以經常使用生命寶珠。
 But I'm not that kind of person any more. I'm looking to rid myself of them.
@@ -2410,6 +2410,10 @@ I laid out each of these starter tokens to maybe attract someone suitable... for
 我在這裡留下了三枚代幣，來作為對戰的獎勵。
 Perhaps you'll be able to satisfy both criteria...
 就看你能不能達成我的條件了...
+The top of the sign is labeled "Grouz Mine Bulletin."
+最上面一層是“古治礦場公告。”
+Remnants of old, yellowed papers are still stapled to the rest.
+邊邊角角處還能看到一些老舊發黃的殘留碎紙片。
 What a disgrace.
 真丟人。
 We're supposed to be keeping this area safe.
@@ -2446,10 +2450,6 @@ You’re strong. You’ve proven that. This’ll be a piece of cake. Trust me. S
 ...她掛斷了。
 Thanks for the help.
 謝謝。
-The top of the sign is labeled "Grouz Mine Bulletin."
-最上面一層是“古治礦場公告。”
-Remnants of old, yellowed papers are still stapled to the rest.
-邊邊角角處還能看到一些老舊發黃的殘留碎紙片。
 Dr. Hekata's House
 經方博士 家
 The door is boarded up.
@@ -2576,6 +2576,8 @@ I heard the stories, but it's still hard to believe that Avatars just... fade fr
 雖然之前聽別人說過，但我還是很難相信，化身在被擊敗後就會消失。
 When I saw that you were winning, I was mentally prepared to grab a pickaxe and begin the cleanup efforts.
 看到你取得勝利之後，我就做好重新回到崗位上的準備了。
+It's holding a Life Orb!
+It's holding a Life Orb!
 Ohoh, does another fly enter my trap?
 哦，又有獵物飛進我的陷阱了？
 Watch yourself, you may find yourself mesmerized.
@@ -2596,8 +2598,6 @@ I'm learning about important dates in history. The founding of Prizca, the fall 
 我正在學習和研究這裡的史詩，比如宏禮市的建立、王朝的隕落。
 All of them are fascinating, but I believe my favorite is the one we'll have, no?
 歷史有著獨特的魅力，但我還是更喜歡即將擁有的未來，你呢？
-It's holding a Life Orb!
-It's holding a Life Orb!
 Yes
 學
 No
@@ -5103,14 +5103,14 @@ My my, what a great fight that was. You gave me quite a battle.
 呦吼吼，那場戰鬥真是太棒了，真讓人神清氣爽啊！
 You've taught me that I might just have my hardest battles ahead of me yet!
 後生可畏，後生可畏啊！不過對於我們這些老傢伙來說，將來還會有更艱難的戰鬥在等著呢！
-"Welcome to Novo, your flowery home."
- "歡迎光臨花園城市 - 望新鎮"
+The Starters Store
+初始商店
 Biking is a great way for me to exercise between my classes at Novo College.
 對我來說，重要的不只有功課，騎自行車是課間的最優選。
 I work out my brain, then my body!
 鍛鍊完大腦，身體也不能落下！
-The Starters Store
-初始商店
+"Welcome to Novo, your flowery home."
+ "歡迎光臨花園城市 - 望新鎮"
 I work at the Pokemon Center here, but I like to come here after my shift.
 我在這裡的精靈中心工作，平時下班後喜歡來這裡逛逛。
 As you might have deduced by now, I also like to battle. Should we?
@@ -5121,8 +5121,6 @@ Ah, you got me. Good fight. Let's see if the next person could put up a better c
 啊，你贏了，真不容易！不知道下次會不會有更強勁的對手。
 I'm not able to heal your Pokemon since I don't have my machine or my tools. Sorry.
 抱歉，這裡沒有治療機或工具，我也沒辦法幫你的精靈治療。
-NO MOTOR VEHICLES
-禁止機動車通行
 Oh, wow! You've grown so much! You've absolutely blossomed as a Trainer!
 哇，你真的成為了出色的訓練師！真的變得越來越強了！
 I've been working on making these for you! It uses imported flowers.
@@ -5147,34 +5145,10 @@ Are you doing your best out there?
 你有好好努力嗎？
 I'm rooting for you.
 你有我的支持哦！
-Hey-yo!
-嘿 - 呀！
-Hope you still remember me. I was the good-lookin' trainer camping out in front of the gym in Casaba Villa.
-你還記得我嗎，我是凡雅。之前在甜瓜道館門口的訓練師。
-Well now I'm here, and the story's the same. Honing my skills with a team custom-built for the gym leader here.
-現在我也來這邊了，當然還是同樣的事，訓練一支專門為館主準備的隊伍。
-Though I'm looking forward to it, it'll also be a little bitter-sweet having to take out a fellow enby.
-雖然我很期待這次挑戰，但要打敗一個曾經的同窗，絕對不是一件簡單的事情。
-Anyways, I'll be here for now, ready and willing to battle you as much as you want!
-總之，我會在這裡待一段時間，只要你想，隨時可以開始訓練！
-Wanna go?
-開一局？
-Understood.
-明白明白。
-I'll be here until you wish to battle.
-我會在這裡等你回來。
-Glorious combat!
-為了榮耀！
-Ouch. That one hurts. Gotta get used to the pain, though, or else I won't stand a chance against Eko!
-誒喲，好疼啊！不行，我得習慣疼痛，不然怎麼可能打贏艾克！
-A good fight, really got the blood flowin'.
-真是熱血沸騰的一戰！
-Return later for a rematch.
-先休息一下，回頭再打。
-I can tell from the scorch marks that you went up against Eko, and from the gym badge...that you won!
-從這些痕跡可以看出...你已經跟艾克打過了，並且你拿到了道館的徽章！
-That means the time for procrastinating is over, and the time for courage is nigh. Allons-y!
-看樣子不能再拖延下去了，是時候鼓起勇氣面對他了。勢必達成！
+NO MOTOR VEHICLES
+禁止機動車通行
+Novo Apartments
+望新公寓
 Oh, hey. You a trainer?
 哦，你好。你是訓練師嗎？
 Listen, I got some Pokémon that need training and… you’re giving me the look like ya heard this before.
@@ -5235,16 +5209,38 @@ Here ya go, though, for your troubles.
 這是給你的，麻煩你了。
 See ya 'round. And, hey, you run into my friend again, beat the tar outta her, alright?
 回頭再見，哦對了，如果你再遇到我那個朋友的話，就狠狠地揍她一頓，好嗎？
-Novo Apartments
-望新公寓
+Hey-yo!
+嘿 - 呀！
+Hope you still remember me. I was the good-lookin' trainer camping out in front of the gym in Casaba Villa.
+你還記得我嗎，我是凡雅。之前在甜瓜道館門口的訓練師。
+Well now I'm here, and the story's the same. Honing my skills with a team custom-built for the gym leader here.
+現在我也來這邊了，當然還是同樣的事，訓練一支專門為館主準備的隊伍。
+Though I'm looking forward to it, it'll also be a little bitter-sweet having to take out a fellow enby.
+雖然我很期待這次挑戰，但要打敗一個曾經的同窗，絕對不是一件簡單的事情。
+Anyways, I'll be here for now, ready and willing to battle you as much as you want!
+總之，我會在這裡待一段時間，只要你想，隨時可以開始訓練！
+Wanna go?
+開一局？
+Understood.
+明白明白。
+I'll be here until you wish to battle.
+我會在這裡等你回來。
+Glorious combat!
+為了榮耀！
+Ouch. That one hurts. Gotta get used to the pain, though, or else I won't stand a chance against Eko!
+誒喲，好疼啊！不行，我得習慣疼痛，不然怎麼可能打贏艾克！
+A good fight, really got the blood flowin'.
+真是熱血沸騰的一戰！
+Return later for a rematch.
+先休息一下，回頭再打。
+I can tell from the scorch marks that you went up against Eko, and from the gym badge...that you won!
+從這些痕跡可以看出...你已經跟艾克打過了，並且你拿到了道館的徽章！
+That means the time for procrastinating is over, and the time for courage is nigh. Allons-y!
+看樣子不能再拖延下去了，是時候鼓起勇氣面對他了。勢必達成！
 No.
 等下
 Yes.
 行
-Maybe later.
-稍等一下
-Sure, let's go.
-開就開
 Not right now.
 現在先算了
 What exactly do you need?
@@ -5257,6 +5253,10 @@ Someone.
 的確
 You offering?
 要不你來？
+Maybe later.
+稍等一下
+Sure, let's go.
+開就開
 [Map57]
 I get to go home... doesn’t even seem real yet.
 我要回家了...這簡直太不真實了。
@@ -5609,6 +5609,12 @@ It waits in the suspicious house in the Shipping Lane! Destroy it, and rid me of
 它就在揚帆路那棟可疑的房子裡！徹底解決那個該死的東西，讓我脫離苦海吧！
 Oh? Have you sent the avatar back from whence it came?! Excellent! Your talents are second-to-none!
 哦？你已經把那個化身送到它該去的地方了？好！真是讓人放心的實力！
+I thought this gym would be a cinch.
+我本以為這個道館會很簡單。
+A whole team of fish couldn't possibly lose to a Fire- type gym!
+畢竟我的魚魚隊伍是不可能輸給火屬性道館的！
+I totally forgot that Poison is strong against Water.
+但我忘了現在毒克水！
 What, do you miss the lick of flames and bite of acid? Shall we duel once more?
 什麼，你懷念火焰的舔舐和酸液的咬噬了？ 那就讓我們再決鬥一場吧！
 Congratulations on reaching me!
@@ -5661,22 +5667,16 @@ I yearn for the day I might challenge you again! Either here, or in the Champion
 希望有一天能再次考驗你！不管是在這裡，還是在聯盟大賽上!
 So long!
 再會！
-I thought this gym would be a cinch.
-我本以為這個道館會很簡單。
-A whole team of fish couldn't possibly lose to a Fire- type gym!
-畢竟我的魚魚隊伍是不可能輸給火屬性道館的！
-I totally forgot that Poison is strong against Water.
-但我忘了現在毒克水！
+Bruh... this waiting room doesn't have any places to sit down.
+唉...這個等候廳裡連個座位都沒有。
+No pain, no gain? Must be what Eko's thinking.
+估計這就是艾克的主意，讓我們在這裡體會痛苦。
 This is not a lab! It is a gym! In labs we have safety precautions. Here, unsafe conditions are the goal!
 這裡不是實驗室！這是個道館！在實驗室裡我們得遵守安全準則，但在這裡，不安全就是我們的準則!
 Oh-ho? So you want safe passage? Very well. You've earned the shortcut.
 哦？你想安全通過？好吧，你贏得了使用捷徑的權力。
 The wild reaches of Makya won't have safety guidelines. If you can endure this, you can endure them.
 馬凱亞的野外可沒有安全準則可循。只要你能忍受這裡的考驗，就能在外界生存下去。
-Bruh... this waiting room doesn't have any places to sit down.
-唉...這個等候廳裡連個座位都沒有。
-No pain, no gain? Must be what Eko's thinking.
-估計這就是艾克的主意，讓我們在這裡體會痛苦。
 White text flies by on a dark purple background.
 白色的文字在紫色的屏幕上快速滾動著。
 Yo, champ in the making!
@@ -5708,12 +5708,25 @@ You have a <imp>Fresh Water</imp>! I'll be taking that...
 The man takes a Fresh Water from your bag.
 他以迅雷不及掩耳之勢，從你的包裡拿走了一瓶美味之水。
 Ahhhh... that helps a lot. Thanks.
+啊...得救了，萬分感謝。
+Consider the lockdown over.
+我這就讓開這條路。
+The scientists keep offering me liquids in beakers, but I've had too many close calls with caustic chemicals to just trust 'em on the contents.
+這裡的科學家們只用燒杯提供給我一些奇奇怪怪的液體喝，但我見過他們做實驗的樣子，實在是不敢下口。
+I can't leave my post, so blocking the gym entrance is my only leverage.
+但我又不能隨便離開崗位，所以只能用這種方法尋求生命之源。
+I'm plopping down here until a challenger like yourself grabs me a <imp>Fresh Water</imp>.
+我只能等在這裡，期盼著那些...訓練師帶來的<imp>美味之水</imp>。
+There are <imp>vending machines</imp> in all PokéCenters and Ranger Stations.
+所有精靈中心和護林員站都有<imp>自動售貨機</imp>。
 I hope you won't find this cruel. The suffering I'm about to inflict is strictly necessary.
 我希望你不會覺得這殘忍，因為這些是必須承受之痛。
 ...Noted. Please avail yourself of this teleporter. Taking the long way may subject any afflicted Pokemon to undue injury.
 ...好的，你可以使用傳送門了。繞遠路會對受傷的精靈造成持續的二次傷害。
 Thank you for your participation. Step carefully, now! Wouldn't want any lingering side effects... heh.
 感謝您的參與，但現在請小心行事，只要你不想留下後遺症...呵呵。
+A 3-D model displays the the chemical makeup of Makyan Tangela venom.
+一個展示了馬凱亞蔓藤怪毒液化學成分的3D模型。
 Our glorious Champion! Good evening!
 晚上好，我們的冠軍！
 Or morning! I’m not in the business of keeping count of the hours. That’s for the interns!
@@ -5930,12 +5943,10 @@ Unpacking suuuuuuucksssss. Chores suuuuckkkkk.
 Ugh.
 啊，讓我死了算了。
 [Map78]
-The Kadabra is focusing very hard.
-這隻勇基拉正在集中精力。
-Many of the species researched here are hard to find in the wild.
-Many of the species researched here are hard to find in the wild.
-Because of this, they offer jobs for trainers to bring in the Pokemon needed for new studies.
-因此他們會聘請訓練師，來提供那些不常見的精靈。
+A tabloid covering the Championship.
+A tabloid covering the Championship.
+"Is Yezera back? Zain and \PN, nepotism or real skill? who is X?"
+"Is Yezera back? Zain and \PN, nepotism or real skill?  who is X?"
 West: Programming
 西區：程序區
 North: Inventory
@@ -5944,10 +5955,20 @@ East: Management
 東區：行政區
 2nd Floor: Research and Testing
 2樓：實驗室
-A tabloid covering the Championship.
-A tabloid covering the Championship.
-"Is Yezera back? Zain and \PN, nepotism or real skill? who is X?"
-"Is Yezera back? Zain and \PN, nepotism or real skill?  who is X?"
+Many of the species researched here are hard to find in the wild.
+Many of the species researched here are hard to find in the wild.
+Because of this, they offer jobs for trainers to bring in the Pokemon needed for new studies.
+因此他們會聘請訓練師，來提供那些不常見的精靈。
+The Kadabra is focusing very hard.
+這隻勇基拉正在集中精力。
+Last week's newspaper. The photo shows Zain with his Serperior and Hariyama, defeating a Bastiodon.
+Last week's newspaper. The photo shows Zain with his Serperior and Hariyama, defeating a Bastiodon.
+Finding data is one thing, but interpretation is a whole different beast.
+查找數據是一回事，分析數據是另一回事。
+Interpretation isn't as clear cut as just collecting more data.
+分析數據也是很消耗腦力的。
+Which is why I've been stuck here doing statistics calculations for hours...
+這就是我被統計表困在這裡好幾個小時的原因...
 I feel bad for that lady that works in inventory.
 我覺得一直管理倉庫的那位女士很可憐。
 It's a lot of manual labor, and the space is pretty cramped as well.
@@ -5972,6 +5993,20 @@ We decided to surprise her with some high quality Pokemon handling gloves.
 最後我們決定給她一個驚喜，買一副高質量的絕緣手套。
 That way she can pet her Ampharos without having to worry of getting shocked!
 這樣她在撫摸她電龍時就不用擔心被電到了。
+An ad is playing for the Makyan Championship Tournament. "Come and watch a new Champion be crowned!"
+An ad is playing for the Makyan Championship Tournament. "Come and watch a new Champion be crowned!"
+"Sponsored by LuxTech."
+"Sponsored by LuxTech."
+I keep falling asleep during board meetings.
+我老是在開會的時候睡著。
+I tried to learn this one move...it lets Pokemon act even while sleeping.
+因此，我試著去學習這個...能讓精靈在睡著後行動的技能。
+I forgot that, as a human... I wouldn't be able to learn it.
+但是我忘了個很重要的事...我是個人類，我學不會！
+So, take this. It's not of any use to me anymore.
+所以，把這個拿走吧，我已經用不到了。
+Huh? Whuh? Uh?
+嗯？嗯！呃...
 Oh, hey. Uh. Yeah. Secure the funding... zzz...
 哦...那個...說得對！zzz...
 I've been burning the midnight oil on my research assignment for months now.
@@ -5986,32 +6021,16 @@ I need to get some sleep.
 我需要睡一會兒。
 Well, once the energy high wears off.
 等完成這一點再說吧。
-I keep falling asleep during board meetings.
-我老是在開會的時候睡著。
-I tried to learn this one move...it lets Pokemon act even while sleeping.
-因此，我試著去學習這個...能讓精靈在睡著後行動的技能。
-I forgot that, as a human... I wouldn't be able to learn it.
-但是我忘了個很重要的事...我是個人類，我學不會！
-So, take this. It's not of any use to me anymore.
-所以，把這個拿走吧，我已經用不到了。
-Huh? Whuh? Uh?
-嗯？嗯！呃...
-Oh, hey. Uh. Yeah. Secure the funding.... zzz...
-哦...那個...說得對！zzz...
-An ad is playing for the Makyan Championship Tournament. "Come and watch a new Champion be crowned!"
-An ad is playing for the Makyan Championship Tournament. "Come and watch a new Champion be crowned!"
-"Sponsored by LuxTech."
-"Sponsored by LuxTech."
-Ah, I know that look. You're wondering why I have an umbrella.
-啊，我明白你在奇怪什麼。你在想我為什麼在屋裡打傘。
-Well, before you get all judgemental on me, know that it's because the lights here are way too bright, and they give me headaches.
-作為一個女孩子，只要能擋住那刺眼的燈光，長不長個對我來說已經不重要了。
-I'm sure they're bothering you, too.
-或許你也在經受光汙染的困擾。
-Why don't I give you one of my spares?
-要不要給你一把備用的？
-I hope that one day the whole world will understand the blessing that is the indoor umbrella.
-我希望有一天，大家都能理解室內打傘的好處。
+"Is Yezera back? Zain and \PN, nepotism or real skill? Who is X?"
+"Is Yezera back? Zain and \PN, nepotism or real skill?  Who is X?"
+I was invited to work on a research project with my Swadloon.
+我和我的寶包繭一起，受邀來這裡參加一項研究。
+The scientist who invited me had to run an errand in the middle of it.
+但邀請我來的科學家，突然有事要出差。
+He asked me if I could watch his Pokemon for "just a moment".
+還請求我暫時照看他的精靈。
+That was over two hours ago...
+已經兩個多小時了...
 Hello. Are you looking to make an appointment to challenge Ms. Helena?
 你要，要預約挑戰海倫娜女士嗎？
 The upcoming Championship has us thoroughly booked out through the next, uh, let me check... three weeks.
@@ -6028,16 +6047,22 @@ We also encourage you to participate in the battle labs hosted on the second flo
 當然也歡迎您參觀二樓的戰鬥實驗室。
 We hope you enjoy your time at LuxTech!
 最後祝您在光華度過快樂的時光！
-I was invited to work on a research project with my Swadloon.
-我和我的寶包繭一起，受邀來這裡參加一項研究。
-The scientist who invited me had to run an errand in the middle of it.
-但邀請我來的科學家，突然有事要出差。
-He asked me if I could watch his Pokemon for "just a moment".
-還請求我暫時照看他的精靈。
-That was over two hours ago...
-已經兩個多小時了...
-"Is Yezera back? Zain and \PN, nepotism or real skill? Who is X?"
-"Is Yezera back? Zain and \PN, nepotism or real skill?  Who is X?"
+Ah, I know that look. You're wondering why I have an umbrella.
+啊，我明白你在奇怪什麼。你在想我為什麼在屋裡打傘。
+Well, before you get all judgemental on me, know that it's because the lights here are way too bright, and they give me headaches.
+作為一個女孩子，只要能擋住那刺眼的燈光，長不長個對我來說已經不重要了。
+I'm sure they're bothering you, too.
+或許你也在經受光汙染的困擾。
+Why don't I give you one of my spares?
+要不要給你一把備用的？
+I hope that one day the whole world will understand the blessing that is the indoor umbrella.
+我希望有一天，大家都能理解室內打傘的好處。
+An advertisement for LuxTech software is playing.
+An advertisement for LuxTech software is playing.
+The words "Cutting Edge" appear on the screen in big, bold letters.
+The words "Cutting Edge" appear on the screen in big, bold letters.
+A Porygon-MAV slashes through the text with its blades, setting them aflame.
+A Porygon-MAV slashes through the text with its blades, setting them aflame.
 Keeping inventory here is tough work.
 管理倉庫這項工作非常艱鉅。
 Trainers and scientists often just take from here without filing the paperwork properly.
@@ -6050,12 +6075,16 @@ Honestly, just take it. Make my job easier.
 給你了，讓我的工作輕鬆點吧。
 They don't pay me enough to deal with this stuff.
 什麼時候給我漲工資啊。
-An advertisement for LuxTech software is playing.
-An advertisement for LuxTech software is playing.
-The words "Cutting Edge" appear on the screen in big, bold letters.
-The words "Cutting Edge" appear on the screen in big, bold letters.
-A Porygon-MAV slashes through the text with its blades, setting them aflame.
-A Porygon-MAV slashes through the text with its blades, setting them aflame.
+A book detailing how TMs are made. Porygon makes the process faster than ever!
+A book detailing how TMs are made. Porygon makes the process faster than ever!
+Helena, the gym leader, is one of the executives here.
+道館館主海倫娜，就是這裡的負責人。
+She's in charge of the logistics and funding for LuxTech's projects.
+光華所有項目的後勤和資金都歸她管。
+She used to do the same thing for Team Chasm back in the day.
+之前她在裂隙隊時，也在做同樣的工作。
+Talk about previous work experience. Her resume must have been killer.
+說到工作經驗...她的簡歷一定富有殺傷力！
 I often wonder how people did anything before computers.
 我經常在想，電腦發明之前人們是怎麼工作的。
 I mean, just look at this.
@@ -6068,16 +6097,6 @@ Aren't computers rad? With enough work, it seems like they can do anything!
 電腦真是個好東西，只要用心研究，它幾乎無所不能！
 Of course, learning how to make them do what we want is the hard part...
 當然，對於新手來說，學會如何用電腦是最難的部分...
-Helena, the gym leader, is one of the executives here.
-道館館主海倫娜，就是這裡的負責人。
-She's in charge of the logistics and funding for LuxTech's projects.
-光華所有項目的後勤和資金都歸她管。
-She used to do the same thing for Team Chasm back in the day.
-之前她在裂隙隊時，也在做同樣的工作。
-Talk about previous work experience. Her resume must have been killer.
-說到工作經驗...她的簡歷一定富有殺傷力！
-A book detailing how TMs are made. Porygon makes the process faster than ever!
-A book detailing how TMs are made. Porygon makes the process faster than ever!
 Ugh.
 啊...
 I wanted to interview Helena.
@@ -6088,6 +6107,10 @@ Instead she sends us some intern with pre-recorded answers.
 然後就派來了一些事先背好答案的實習生。
 Very disappointing.
 太失望了。
+Various items clutter the shelves, gathering dust.
+Various items clutter the shelves, gathering dust.
+A screensaver is displayed of a Togedemaru lazily rolling around and occasionally bouncing off the boundaries of the screen.
+正處於屏保狀態，一隻託戈德瑪爾正懶洋洋地滾來滾去，每次遇到屏幕邊緣還會突然彈起。
 We host a Porygon on our local network to help with file organization.
 我們在本地網絡上委託一隻多邊獸來幫助整理文件。
 Huh, I wonder what it's like being a Porygon.
@@ -6100,16 +6123,8 @@ You could be anywhere, anytime, at will.
 ...
 I should clear my browser history.
 我應該先清除我的瀏覽器歷史記錄。
-A screensaver is displayed of a Togedemaru lazily rolling around and occasionally bouncing off the boundaries of the screen.
-正處於屏保狀態，一隻託戈德瑪爾正懶洋洋地滾來滾去，每次遇到屏幕邊緣還會突然彈起。
-Various items clutter the shelves, gathering dust.
-Various items clutter the shelves, gathering dust.
-They had my Pokemon do a lot of battling the other day. You know, for science.
-那天他們為了收集數據，讓我的精靈進行了好幾場戰鬥。
-It was a ton of fun, but it was also exhausting.
-雖然很有趣，但也很累。
-I gotta make sure we don't overdo it.
-我總怕不小心弄壞什麼東西。
+A comprehensive catalogue of Pokémon moves. "From Absorb to Zen Headbutt".
+A comprehensive catalogue of Pokémon moves. "From Absorb to Zen Headbutt".
 We're here on correspondence about LuxTech's sponsorship of the upcoming League Tournament.
 我們這次來這裡，打算詢問一些關於光華市對聯盟大會的資助信息。
 The employees here must have all gotten some basic media training. Lots of them were comfortable in front of the camera.
@@ -6120,28 +6135,12 @@ You should take some of it off me, though, cause my equipment already weighs a t
 但是這攝像設備太重了，我根本就拿不下這些！
 I'll talk with my co-worker once we get home. We can probably stitch together something interesting.
 回去之後再跟同事們商量商量，看能不能拼湊出一些有趣的新聞。
-A comprehensive catalogue of Pokémon moves. "From Absorb to Zen Headbutt".
-A comprehensive catalogue of Pokémon moves. "From Absorb to Zen Headbutt".
-Ah, good news? Excellent! Hand over the shipment.
-有好消息了？很好，把貨物給我吧。
-You give the shipment to Helena.
-你把貨物交給海倫娜。
-This sets us a few days ahead of schedule -- well, ahead of the adjusted schedule.
-這可以讓我們的計劃在貨物出現問題後，依然能在原定時間內完成。
-Regardless, I will uphold my end of this transaction.
-放心，我說到做到。
-Meet me in my gym when you’re ready. And do try and be prompt.
-準備好就來道館找我吧，儘量準時到。
-No, I don’t have anything better to do than wait here for someone to get my shipment back from wherever in the caves it ended up.
-我沒有別的事情可做？沒辦法，最重要的貨物還在山洞裡呢。
-I mean, I have a phone. Ever heard of a video call?
-至於其他事務，可以通過電話完成。
-Despite almost no language expression abilities, Pokemon actually have significantly better language comprehension than humans.
-儘管沒有語言表達能力，但很多精靈的語言理解能力，實際上比人類更強。
-I've taught my Kadabra here multiple coding languages.
-我的勇基拉就學了好幾種編程語言。
-He's the perfect "Rubber Ducklett", catching mistakes as soon as I type them!
-他就是最完美的“糾錯人”，每次我輸入錯誤他都會立即發現！
+They had my Pokemon do a lot of battling the other day. You know, for science.
+那天他們為了收集數據，讓我的精靈進行了好幾場戰鬥。
+It was a ton of fun, but it was also exhausting.
+雖然很有趣，但也很累。
+I gotta make sure we don't overdo it.
+我總怕不小心弄壞什麼東西。
 Hey, are you \PN? Mavis’s child?
 哦，你是 \PN？梅維斯的孩子？
 I haven’t seen you since you were Munchlax-sized.
@@ -6182,6 +6181,8 @@ Wh-what? You already have the shipment?
 什、什麼？那些貨物就在你手上？
 I’m not going to ask why you have this.
 好吧，我不會多問的。
+You give the shipment to Helena.
+你把貨物交給海倫娜。
 Well. No matter.
 看樣子，既然問題解決了。
 Um, I suppose I have to accept the challenge now.
@@ -6208,6 +6209,28 @@ Very exciting, I know. Focus on locating my shipment, not on hunting down avatar
 Very exciting, I know. Focus on locating my shipment, not on hunting down avatars.
 I can't guarantee that you won't need to destroy some in the process, however.
 I can't guarantee that you won't need to destroy some in the process, however.
+Despite almost no language expression abilities, Pokemon actually have significantly better language comprehension than humans.
+儘管沒有語言表達能力，但很多精靈的語言理解能力，實際上比人類更強。
+I've taught my Kadabra here multiple coding languages.
+我的勇基拉就學了好幾種編程語言。
+He's the perfect "Rubber Ducklett", catching mistakes as soon as I type them!
+他就是最完美的“糾錯人”，每次我輸入錯誤他都會立即發現！
+Ah, good news? Excellent! Hand over the shipment.
+有好消息了？很好，把貨物給我吧。
+This sets us a few days ahead of schedule -- well, ahead of the adjusted schedule.
+這可以讓我們的計劃在貨物出現問題後，依然能在原定時間內完成。
+Regardless, I will uphold my end of this transaction.
+放心，我說到做到。
+Meet me in my gym when you’re ready. And do try and be prompt.
+準備好就來道館找我吧，儘量準時到。
+No, I don’t have anything better to do than wait here for someone to get my shipment back from wherever in the caves it ended up.
+我沒有別的事情可做？沒辦法，最重要的貨物還在山洞裡呢。
+I mean, I have a phone. Ever heard of a video call?
+至於其他事務，可以通過電話完成。
+A brochure for the Makya region.
+A brochure for the Makya region.
+"Visit the cozy Svait Lodge! Climb Mt. Kilna! See the historic Prizca Castle!"
+"Visit the cozy Svait Lodge! Climb Mt. Kilna! See the historic Prizca Castle!"
 LuxTech's main business is in Technical Machines, so naturally we have a ton of programmers and computer scientists.
 光華科技的主要業務是器械製造，所以我們有大量的程序員和計算機領域的人才。
 However, LuxTech spends a decent amount on research as well, so there's scientists everywhere too.
@@ -6218,10 +6241,6 @@ Speaking of which, take this. I was told to give it to Trainers who talked to me
 說到這裡，收下這個吧。上級說如果有訓練師來跟我聊天，就把這個給他。
 The diversity here is wonderful.
 真是一家多棲發展的企業啊。
-A brochure for the Makya region.
-A brochure for the Makya region.
-"Visit the cozy Svait Lodge! Climb Mt. Kilna! See the historic Prizca Castle!"
-"Visit the cozy Svait Lodge! Climb Mt. Kilna! See the historic Prizca Castle!"
 No
 不給
 Yes
@@ -9596,22 +9615,30 @@ Perhaps your victories will end up here, one day.
 Spend enough time here and it begins to feel like a forum.
 在這裡待的時間足夠久後，就越來越覺得它像個祭壇。
 [Map136]
-West: Bluepoint Beach
-西：藍瑩海灘
-Northeast: Scenic Trail
-東北：景緻小徑
-A third label has been poorly masked with white paint.
-第三行被人用白色油漆塗掉了。
-The door is securely locked.
-門上鎖了。
 Welcome to Casaba Villa, the best resort town in Makya.
 歡迎來到甜瓜度假村，這裡是馬凱亞最棒的景區！
 My fiancé and I visit here at least once a month.
 我每個月都會跟未婚妻一起，來這裡住兩天。
 Oh, I'd introduce you to her, but she's enjoying herself at Bluepoint Beach at the moment.
 她現在去藍瑩海灘享受陽光了，回頭我可以向你介紹她。
+The door is securely locked.
+門上鎖了。
+West: Bluepoint Beach
+西：藍瑩海灘
+Northeast: Scenic Trail
+東北：景緻小徑
+A third label has been poorly masked with white paint.
+第三行被人用白色油漆塗掉了。
 Lambert's House
 蘭伯特家
+I've summered here for 20 years.
+我已經在這兒度過了20個夏天。
+I must say it really went to the dogs once Team Chasm started moving in.
+從裂隙隊接管這裡開始，真是一年不如一年。
+I especially don't like the gym leader they stationed here.
+尤其是他們派來的那個道館館主！
+Before all this, he was a bartender at some establishment for roustabouts.
+要知道他之前可是個流浪漢酒吧的調酒師！
 Hey, kiddo. What’s goin’ on? I heard you’re following me.
 喲，小鬼，咋回事？聽說我後面有個跟屁蟲啊！
 Well, go right ahead. Not gonna get a Beedrill in my bonnet over some kid toddling after me.
@@ -9630,22 +9657,6 @@ Too bad. If you can’t beat that gym, you don’t deserve to even be in this co
 菜就多練，連那個道館都打不過，還妄圖能超過我？再見！
 You’ve always needed my help. Fine -- prove me wrong. We’ll talk again.
 哼，早晚你會發現，沒有了我的幫助你什麼都做不到，爭取一會兒不要哭著求我喲！
-I've summered here for 20 years.
-我已經在這兒度過了20個夏天。
-I must say it really went to the dogs once Team Chasm started moving in.
-從裂隙隊接管這裡開始，真是一年不如一年。
-I especially don't like the gym leader they stationed here.
-尤其是他們派來的那個道館館主！
-Before all this, he was a bartender at some establishment for roustabouts.
-要知道他之前可是個流浪漢酒吧的調酒師！
-"Casaba Villa, Makya's #1 Vacation Spot"
-"歡迎來到在馬凱亞地區遙遙領先的--甜瓜度假村"
-I volunteer at the PokeCenter here sometimes.
-我有時會在這裡的精靈中心當志願者。
-So many trainers come in with Numbed Pokemon after battling Lambert.
-有很多訓練師都會在跟蘭伯特對戰後，帶著被麻痺的精靈前來求助。
-Apparently a lot of new trainers struggle with that status, as it halves the Pokemon's speed and reduces the damage they do.
-很多新手訓練師都對這種異常狀態非常苦惱，因為它不僅會讓精靈的速度減半，還會減小所造成的傷害。
 Beyond elemental types, Pokémon species are defined by a second affinity.
 Beyond elemental types, Pokémon species are defined by a second affinity.
 These are known as <imp>tribes</imp>.
@@ -9664,18 +9675,14 @@ So I restricted myself to Warriors, my favorite tribe. Problem solved!
 So I restricted myself to Warriors, my favorite tribe.  Problem solved!
 It's <i>usually</i> best to listen to her, I've found.
 It's <i>usually</i> best to listen to her, I've found.
-Each Pokemon has their own Personality Traits.
-Each Pokemon has their own Personality Traits.
-Bonding with a Pokemon, and discovering what makes them unique, can be such a source of joy.
-Bonding with a Pokemon, and discovering what makes them unique, can be such a source of joy.
-Don't worry about your battles. No matter the personality, any Pokemon can be an excellent battler.
-Don't worry about your battles. No matter the personality, any Pokemon can be an excellent battler.
-Use whatever Pokemon you connect with the most.
-Use whatever Pokemon you connect with the most.
-That's a lesson that my dear wife taught me.
-That's a lesson that my dear wife taught me.
-She's correct <i>almost</i> all of the time!
-She's correct <i>almost</i> all of the time!
+I volunteer at the PokeCenter here sometimes.
+我有時會在這裡的精靈中心當志願者。
+So many trainers come in with Numbed Pokemon after battling Lambert.
+有很多訓練師都會在跟蘭伯特對戰後，帶著被麻痺的精靈前來求助。
+Apparently a lot of new trainers struggle with that status, as it halves the Pokemon's speed and reduces the damage they do.
+很多新手訓練師都對這種異常狀態非常苦惱，因為它不僅會讓精靈的速度減半，還會減小所造成的傷害。
+"Casaba Villa, Makya's #1 Vacation Spot"
+"歡迎來到在馬凱亞地區遙遙領先的--甜瓜度假村"
 Greetings!
 您好！
 If appearances are to be believed, you seem to be a fine trainer.
@@ -9706,8 +9713,18 @@ I'll give you some <imp>EXP Candy</imp> every time you manage to beat me.
 I'll give you some <imp>EXP Candy</imp> every time you manage to beat me.
 Sound good? Hit me up when you wanna try a battle!
 Sound good? Hit me up when you wanna try a battle!
-The berry plant is growing.
-樹果還在生長中。
+Each Pokemon has their own Personality Traits.
+Each Pokemon has their own Personality Traits.
+Bonding with a Pokemon, and discovering what makes them unique, can be such a source of joy.
+Bonding with a Pokemon, and discovering what makes them unique, can be such a source of joy.
+Don't worry about your battles. No matter the personality, any Pokemon can be an excellent battler.
+Don't worry about your battles. No matter the personality, any Pokemon can be an excellent battler.
+Use whatever Pokemon you connect with the most.
+Use whatever Pokemon you connect with the most.
+That's a lesson that my dear wife taught me.
+That's a lesson that my dear wife taught me.
+She's correct <i>almost</i> all of the time!
+She's correct <i>almost</i> all of the time!
 Skipping Tamarind cutscene.
 跳過塔瑪琳的開篇劇情。
 Morning, \PN, I'm <imp>Professor Tamarind</imp>.
@@ -9750,6 +9767,14 @@ Well, keep it in mind.
 當然，這不是要求，是交易。
 See ya, kid.
 再見了，小孩兒。
+The berry plant is growing.
+樹果還在生長中。
+Casaba Villa Gym
+甜瓜道館
+Leader: Lambert
+館主：蘭伯特
+Fighting dirty for over a decade.
+數十年如一日，以骯髒形態出擊。
 Hey!
 嘿
 I'm bored and want to have fun. Let's play hide and seek!
@@ -9760,22 +9785,8 @@ If you can find me, I'll give the TMs to you.
 只要你能找到我，它們就是你的了。
 I'll be somewhere on the route to the foreclosed tunnel. Smell ya later!
 我會藏在城鎮北邊的某個地方，快來找我吧！
-Casaba Villa Gym
-甜瓜道館
-Leader: Lambert
-館主：蘭伯特
-Fighting dirty for over a decade.
-數十年如一日，以骯髒形態出擊。
-Hey, \PN. I heard you beat Lambert.
-嘿，\PN，你已經打贏蘭伯特了？
-Guessing you’re gonna head for the <imp>mainland</imp> now?
-是前往<imp>大陸</imp>的時候了對吧？
-Well, before you go, meet me at the dock, 'kay?
-走之前先來碼頭見一面怎麼樣？
-Got something to say. Thanks.
-我有事跟你說。
-She hung up...
-掛斷了...
+Closed while Lambert participates in the Makya Championship Tournament.
+馬凱亞競技大會期間暫時閉館。
 Be careful outside the Villa, you don't want to end up as another incident in the newspapers.
 在鎮子外要小心一些，你也不想成為報紙頭條上的受害者吧？
 No, I'm not talking about wild Pokemon.
@@ -9788,8 +9799,30 @@ I for one can't wait for the whole thing to blow over, so I can read again about
 希望這熱度趕緊消退吧，我更想在報紙上看些有用的東西。
 Like the stock market.
 比如說股市預測什麼的。
+Hey, \PN. I heard you beat Lambert.
+嘿，\PN，你已經打贏蘭伯特了？
+Guessing you’re gonna head for the <imp>mainland</imp> now?
+是前往<imp>大陸</imp>的時候了對吧？
+Well, before you go, meet me at the dock, 'kay?
+走之前先來碼頭見一面怎麼樣？
+Got something to say. Thanks.
+我有事跟你說。
+She hung up...
+掛斷了...
+Lambert has some interesting choices of Pokemon.
+蘭伯特有一些很有趣的精靈。
+His prized Riolu was a gift from Victoire, another gym leader. Sangfroid, he calls her.
+比如說另一位道館館主維克托送給他的那隻利歐路，它的名字是“靜靜”。
+A beautiful name, in my opinion!
+真是個可愛的名字啊！
 I believe Lambert also has a Croagunk. Or... two of them?
 除此之外，蘭伯特還有一隻...或者說兩隻不良蛙？
+I'm not sure, but I swear I saw a sparring match, where the two seemed identical...
+誰知道呢，反正我是看到過他拿出兩隻不良蛙的比賽...
+That was a fun game of hide and seek!
+真好玩，真好玩！
+I've learned that if I offer stolen goods to people, they'll let me do whatever I want!
+我明白了，只要把偷來的東西作為獎勵，就能讓別人聽我的！
 You keen to take me up on my offer?
 要來一場對決嗎？
 Understood.
@@ -9810,30 +9843,10 @@ As a fellow competitor, I have nothing to say but to congratulate you on your vi
 作為競爭對手，我只能祝賀你戰勝蘭伯特。
 I'll take this as the cue to go make my attempt as well. Wish me luck!
 我也會以此為契機，繼續加油的！
-That was a fun game of hide and seek!
-真好玩，真好玩！
-I've learned that if I offer stolen goods to people, they'll let me do whatever I want!
-我明白了，只要把偷來的東西作為獎勵，就能讓別人聽我的！
-Lambert has some interesting choices of Pokemon.
-蘭伯特有一些很有趣的精靈。
-His prized Riolu was a gift from Victoire, another gym leader. Sangfroid, he calls her.
-比如說另一位道館館主維克托送給他的那隻利歐路，它的名字是“靜靜”。
-A beautiful name, in my opinion!
-真是個可愛的名字啊！
-I believe Lambert also has a Croagunk. Or.... two of them?
-除此之外，蘭伯特還有一隻...或者說兩隻不良蛙？
-I'm not sure, but I swear I saw a sparring match, where the two seemed identical...
-誰知道呢，反正我是看到過他拿出兩隻不良蛙的比賽...
-As a fisher, you learn to pick up on small inconsistencies around you.
-作為一名合格的釣魚佬，必須要著重鍛鍊自己的觀察力。
-Take for example that bush behind me. I bet something's going on with it.
-就比如說後面那個草叢，我一眼就看出它不對勁！
-Would you look at that! Found yourself something nice.
-看吧！你找到東西了！
-Keep an eye out for those sort of things. Don't be afraid to poke around a bit.
-所以要學會眼觀六路耳聽八方，不要嫌累，嫌麻煩。
-You never know what you might find...
-誰知道下一次會找到些什麼...
+You haven't completed what you need to on the island yet!
+先處理完這座島上的事情再出發吧！
+Would you like to leave Casaba Villa and go to the Mainland?
+要離開甜瓜島前往大陸嗎？
 Oh, you just got a MasterDex? They're pretty neat.
 哦，你拿到大師圖鑑了？
 Of all its features, the DexNav is my favorite.
@@ -9844,10 +9857,30 @@ Once you've caught one, you can also use it to find more of that same species!
 而且還能幫助我們捕捉更多已經抓過的精靈！
 Isn't technology amazing?
 這就是科技的力量！
-You haven't completed what you need to on the island yet!
-先處理完這座島上的事情再出發吧！
-Would you like to leave Casaba Villa and go to the Mainland?
-要離開甜瓜島前往大陸嗎？
+As a fisher, you learn to pick up on small inconsistencies around you.
+作為一名合格的釣魚佬，必須要著重鍛鍊自己的觀察力。
+Take for example that bush behind me. I bet something's going on with it.
+就比如說後面那個草叢，我一眼就看出它不對勁！
+Would you look at that! Found yourself something nice.
+看吧！你找到東西了！
+Keep an eye out for those sort of things. Don't be afraid to poke around a bit.
+所以要學會眼觀六路耳聽八方，不要嫌累，嫌麻煩。
+You never know what you might find...
+誰知道下一次會找到些什麼...
+Lambert, the gym leader, came running through here earlier.
+蘭伯特館主剛剛去西邊了，
+He put a rock behind him to block it off, for some reason.
+而且還故意用石頭堵住了路...誰知道他到底怎麼想的。
+You need to get through?
+你要去海灘那邊？
+Well...there's an abandoned tunnel up to the north.
+嗯...北邊有一個廢棄的隧道，
+You can probably find something to blow this rock up if you go there.
+那裡或許能找到一些可以炸開這塊石頭的東西。
+Oh hey, you cleared out that rock!
+哦，你把石頭處理掉了！
+Who knew explosives could be so useful?
+這炸藥竟然這麼猛？
 Oh, so it is you!
 哦，你來了！
 Forgive my doppelganger – a Ditto that stalks me incessantly, claiming to be the real deal.
@@ -9880,20 +9913,6 @@ I dare not leave her alone, claiming to be me, so off I go!
 我不可能放任另一個自己在外遊蕩，所以我必須跟上去！
 Fare you well, traveler!
 最後祝你好運，旅行者！
-Lambert, the gym leader, came running through here earlier.
-蘭伯特館主剛剛去西邊了，
-He put a rock behind him to block it off, for some reason.
-而且還故意用石頭堵住了路...誰知道他到底怎麼想的。
-You need to get through?
-你要去海灘那邊？
-Well...there's an abandoned tunnel up to the north.
-嗯...北邊有一個廢棄的隧道，
-You can probably find something to blow this rock up if you go there.
-那裡或許能找到一些可以炸開這塊石頭的東西。
-Oh hey, you cleared out that rock!
-哦，你把石頭處理掉了！
-Who knew explosives could be so useful?
-這炸藥竟然這麼猛？
 We'll see.
 走著瞧
 ...
@@ -43367,8 +43386,8 @@ During sandstorm, deal and take 50% more damage.
 During sandstorm, deal and take 50% more damage.
 Sets a Reflect for four turns upon entry.
 當HP低於一半時，雙防增加3級。
-Raises Defense and Sp. Def by three steps when its HP is lowered below half. This only works once per switch-in.
-Raises Defense and Sp. Def by three steps when its HP is lowered below half. This only works once per switch-in.
+Raises Defense and Sp. Def by three steps if an attack lowers its HP below half. This only works once per switch-in.
+Raises Defense and Sp. Def by three steps if an attack lowers its HP below half. This only works once per switch-in.
 Boosts power of light-based moves by 30%.
 Boosts power of light-based moves by 30%.
 After using a sound move, all foes are Tormented.
@@ -43393,8 +43412,8 @@ Move damage that's decreased by sunshine is decreased twice as much.
 受陽光削弱的技能會額外減小傷害。
 Increase the EXP gained from battles in which it participates by 50%.
 戰鬥獲得的經驗增加50%。
-After using a dance move, lowers one of each foe's Attack and Sp. Atk, whichever is higher.
-After using a dance move, lowers one of each foe's Attack and Sp. Atk, whichever is higher.
+After using a dance move, lowers one of each foe's Attack or Sp. Atk by two steps, whichever is higher.
+After using a dance move, lowers one of each foe's Attack or Sp. Atk by two steps, whichever is higher.
 Heals from binding damage it deals. Takes 25% less damage from Pokémon that are trapped.
 回覆自身施加的束縛類效果造成的同等傷害的HP。被束縛的精靈攻擊時，受到的傷害減小25%。
 Lays a hazard of levitating stones around the opponent when its HP is lowered below half.
@@ -43477,8 +43496,8 @@ Upon entry, creates a Substitute from 1/4th of its HP.
 進入戰鬥後使用25%HP製造一個替身。
 When hit with a special move, hits back instantly with Breach.
 被特殊技能擊中時，會立即使用潮汐一擊進行反擊。
-Foretelling moves take one turn longer to attack but deal 50% more damage.
-Foretelling moves take one turn longer to attack but deal 50% more damage.
+While a Foretelling move is waiting to hit, this Pokémon takes 25% less damage.
+While a Foretelling move is waiting to hit, this Pokémon takes 25% less damage.
 When a foe hits this Pokémon, they are warned. If they do it again, they become cursed.
 被攻擊時，會先警告對手，如果再次受到已經被警告過的對手的攻擊，使對手陷入詛咒。
 When this Pokémon gains a non-volatile status condition, its Attack is raised by three steps.
@@ -64707,6 +64726,12 @@ Changes Type depending on the Weather:
 <u>Moonglow / Blood Moon</u>: Fairy
 <u>Strong Winds</u>: Flying
 <u>Strong Winds</u>: Flying
+Unable to start double battle with only 1 able Pokemon.
+Unable to start double battle with only 1 able Pokemon.
+Unable to start triple battle without 3 able Pokemon.
+Unable to start triple battle without 3 able Pokemon.
+But it failed, since {1} can't have its stats modified!
+But it failed, since {1} can't have its stats modified!
 [27]
 0
 Animated
