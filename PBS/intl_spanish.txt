@@ -797,9 +797,9 @@ If you could defeat the avatar over there for me, I'll be waiting here.
 Si puedes derrotar al avatar por mí, estaré esperando por aquí.
 Goodness me, thank you. Here, take this Geodude.
 Arceus mío, gracias. Ven, toma este Geodude.
-You not only deserve a reward, but my hypothesis is that the avatar appeared when I had so many together in one place....
+You not only deserve a reward, but my hypothesis is that the avatar appeared when I had so many together in one place...
 No sólo mereces una recompensa, pero mi hipótesis es que el avatar apareció cuando tenía tantos Geoudude en un solo lugar…
-My hypothesis is that the avatar appeared when I had too many Alolan Geodudes together in one place....
+My hypothesis is that the avatar appeared when I had too many Alolan Geodudes together in one place...
 Mi hipótesis es que el avatar apareció cuando tenía tantos Geodude de Alola juntos en un solo lugar…
 Dozens of paper bookmarks dot the pages of a book titled "A History of Ferrous Mining Techniques."
 Docenas de separadores marcan las páginas de un libro titulado "La Historia de Técnicas de Minería Ferrosas."
@@ -975,7 +975,7 @@ LuxTech Cold Storage
 Refrigeración LuxTech
 —I thought we were all on the same page about what was expected of us now…
 —Pensé que todos estábamos en la misma página sobre lo que se esperaba de nosotros ahora..
-I don’t think <i>they</i> ever were…. never wanted to give up the power.
+I don’t think <i>they</i> ever were… never wanted to give up the power.
 No pensé que <i>ellos</i> fueran… que nunca iban a renunciar al poder.
 Technically… they had a special unit designation…
 Técnicamente... tenían una designación de unidad especial...
@@ -1111,7 +1111,7 @@ El ranchero estudia el olor de tu Pokémon de cerca y con cuidado.
 Hah...I can see it now. The cash rollin' in from a full healthy harvest.
 Ja...Puedo verlo ahora. El efectivo aparece desde un bosque lleno de vida.
 Anyways, my side of the bargain...
-Como sea, mi parte del trato....
+Como sea, mi parte del trato...
 Suppose I'll get outta yer hair now.
 Supongo que ahora te dejaré en paz.
 The true self can only be found by exploring the world, and beating the crap out of random people you find on the way!
@@ -1297,7 +1297,7 @@ They’re so… arrogant. Have you ever noticed that?
 Ellos son tan… arrogantes. ¿Te has dado cuenta de eso?
 They just don’t care about us fleshy creatures – human or Pokémon. All they seem to notice is the land, each other, and a few very specific objects.
 A ellos no les importa las criaturas de carne como nosotros – humanos o Pokémon. Sólo parecen tener en cuenta la tierra, otros avatares, y muy pocos objetos específicos.
-I know this asking a lot, but… can I borrow a Moon Stone from you?
+I know this is asking a lot, but… can I borrow a Moon Stone from you?
 Sé que esto es pedir demasiado, pero… ¿Podrías prestarme una Piedra Lunar?
 The avatars seem to notice the incredible power inside those stones.
 Los avatares parecen reconocer lo increíble dentro de esas piedras.
@@ -2568,7 +2568,7 @@ I'm trying to figure out why certain Avatars appear where they do.
 Estoy intentando pensar por qué ciertos Avatares aparecen en ciertos lugares.
 They're often species that'd make sense for the local ecology, but not always.
 Usualmente son especies que harían sentido para la ecología local, pero no siempre.
-Sometimes they're just.... somewhat off.
+Sometimes they're just... somewhat off.
 A veces son sólo... incorrectos.
 Beats me.
 Ni idea.
@@ -4869,9 +4869,9 @@ Ah, I've been rocked!
 Oh, ¡He sido rockeada!
 Man, your moves are sick.
 Viejo, tus movimientos son increíbles.
-Ok, ok, I gotta stop using embarassing lines. Uhh....
+Ok, ok, I gotta stop using embarassing lines. Uhh...
 Ok, ok, tengo que dejar de usar oraciones vergonzosas. Ehh…
-Hey. You're uhh.. Cool?
+Hey. You're uhh... Cool?
 Hey. Eres ehh… ¿Genial?
 This is surprisingly hard.
 Esto es sorprendentemente difícil.
@@ -5593,7 +5593,7 @@ I did a mistake letting my Skitty forget it.
 Cometí el error de dejar que mi Skitty lo olvidara.
 I'll have to visit the Move Relearner, so my Skitty can <imp>relearn</imp> Heal Bell.
 Tendré que visitar el Recuerda Movimientos para que mi Skitty <imp>recuerda</imp> Campana Cura.
-He's hanging in the Novo PokeCenter.... and in practically every other PokeCenter, somehow.
+He's hanging in the Novo PokeCenter... and in practically every other PokeCenter, somehow.
 Siempre está en el Centro Pokémon de Novo... y en prácticamente cada Centro Pokémon, de algún modo.
 At the northernmost part of the Shipping Lane there is a house, and inside of that house a cave, and in that cave an Avatar!
 En la parte más al norte de la Ruta Pezquera hay una casa, y dentro de esa casa hay una cueva, ¡Y dentro de esa cueva hay un Avatar!
@@ -5719,8 +5719,24 @@ Si no las desbloqueas, ¡Te encontrarás caminando un cámino áspero!
 ¡Felicidades por vencer el gimnasio!
 You pushed through the pain just fine.
 Aguantaste el dolor sin complicaciones.
-A 3-D model displays the the chemical makeup of Makyan Tangela venom.
-Un modelo 3D muestra un maquillaje quimíco basado en el veneno de Tangela de Makya.
+Sorry for blocking the way, but I'm desperately dehydrated.
+Perdón por bloquear el camino, pero estoy desesperadamente deshidratado.
+You have a <imp>Fresh Water</imp>! I'll be taking that...
+¡Tienes una <imp>Agua Fresca</imp>! Voy a tomar eso...
+The man takes a Fresh Water from your bag.
+El hombre toma un Agua Fresca de tu mochila.
+Ahhhh... that helps a lot. Thanks.
+Ahhhh... no sabes como ayuda eso. Gracias.
+Consider the lockdown over.
+Considera el cierre terminado.
+The scientists keep offering me liquids in beakers, but I've had too many close calls with caustic chemicals to just trust 'em on the contents.
+Los científicos no dejan de ofrecerme líquidos en matraces, pero ya he tenido suficientes problemas con químicos corrosivos como para confiar en los contenidos.
+I can't leave my post, so blocking the gym entrance is my only leverage.
+No puedo dejar mi puesto, así que bloquear la entrada del gimnasio es mi única influencia.
+I'm plopping down here until a challenger like yourself grabs me a <imp>Fresh Water</imp>.
+Estaré aquí hasta que un aspirante como tú me consiga una <imp>Agua Fresca</imp>.
+There are <imp>vending machines</imp> in all PokéCenters and Ranger Stations.
+¡Hay <imp>máquinas expendedoras</imp> en todos los Centros Pokémon y Estaciones Ranger.
 I hope you won't find this cruel. The suffering I'm about to inflict is strictly necessary.
 Espero que no encuentres esto cruel. El sufrimiento que te voy a infligir es estrictamente necesario.
 ...Noted. Please avail yourself of this teleporter. Taking the long way may subject any afflicted Pokemon to undue injury.
@@ -5985,14 +6001,22 @@ We decided to surprise her with some high quality Pokemon handling gloves.
 Decidimos sorprenderla con un par de guantes de alta calidad para Pokémon.
 That way she can pet her Ampharos without having to worry of getting shocked!
 ¡Así ella puede acariciar a su Ampharos sin preocuparse de ser electrocutada!
-Finding data is one thing, but interpretation is a whole different beast.
-Encontrar información es una cosa, pero interpretarla es otra bestia diferente.
-Interpretation isn't as clear cut as just collecting more data.
-Interpretar algo no es tan al grano como recopilar más información.
-Which is why I've been stuck here doing statistics calculations for hours...
-Y ese es el porqué he estado aquí atascado haciendo calculaciones de estadísticas por horas…
-Last week's newspaper. The photo shows Zain with his Serperior and Hariyama, defeating a Bastiodon.
-El periódico de la semana pasada. La foto muestra a Zain con su Serperior y Hariyama, derrotando un Bastiodon.
+An ad is playing for the Makyan Championship Tournament. "Come and watch a new Champion be crowned!"
+Están mostrando un anuncio para el Campeonato de Makya. "¡Observa un nuevo Campeón ser coronado!"
+"Sponsored by LuxTech."
+"Paatrocinado por LuxTech."
+I keep falling asleep during board meetings.
+No dejo de dormirme en las reuniones.
+I tried to learn this one move...it lets Pokemon act even while sleeping.
+Intenté aprender este movimiento...deja que los Pokémon actúen mientras duermen.
+I forgot that, as a human... I wouldn't be able to learn it.
+Olvidé que, como humano... no podría aprenderlo.
+So, take this. It's not of any use to me anymore.
+Así que, toma esto. A mí ya no me sirve.
+Huh? Whuh? Uh?
+¿Eh? ¿Oh? ¿Ah?
+Oh, hey. Uh. Yeah. Secure the funding... zzz...
+Oh, hey. Ah. Seh. Asegurar los fondos... zzz...
 I've been burning the midnight oil on my research assignment for months now.
 He trabajando hasta tarde en mi investigación por ya meses.
 I feel like I'm close, but sleep deprivation is getting to me.
@@ -6762,7 +6786,7 @@ Apparently the Cave got more dangerous recently, so they've restricted access to
 Aparentemente la Cueva se ha puesto más peligrosa recientemente, así que han restringido el acceso a sólo entrenadores de alto nivel.
 I already paid for a night's stay here.
 Y ya pagué por una noche aquí.
-What a waste of cash....
+What a waste of cash...
 Que desperdicio de dinero…
 Welcome to Svait Lodge!
 ¡Bienvenido al Alojamiento Svait!
@@ -6862,7 +6886,7 @@ It's been tough.
 Ha sido duro.
 Strange Pokemon have been appearing out of nowhere.
 Pokémon extraños han estado apareciendo de la nada.
-A lot of Mayka's caverns have been deemed unsafe for travel.
+A lot of Makya's caverns have been deemed unsafe for travel.
 Un montón de las cavernas de Makya han sido consideradas inseguras para viajar.
 We manage, but if people would stop being so reckless, that would also help a ton.
 Nos manejamos, pero si la gente parara de ser tan descuidada, eso nos ayudaría demasiado.
@@ -7324,7 +7348,7 @@ Oh, heya.
 Oh, hola.
 So... I'm a gym leader now. I guess.
 Así que... soy un líder de gimnasio ahora. Supongo.
-Didn't even really expect to see Rafeal again. He just kinda climbed down, patted me on the shoulder, and told me.
+Didn't even really expect to see Rafael again. He just kinda climbed down, patted me on the shoulder, and told me.
 Realmente no esperaba ver a Rafael de nuevo. El sólo apareció, me dió una palmada en el hombre, y me dijo.
 Said all the paperwork or whatever was done. So, uh... yeah.
 Dije que todo el papeleo o lo que sea ya estaba hecho. Así que, eh... seh.
@@ -9807,8 +9831,16 @@ I for one can't wait for the whole thing to blow over, so I can read again about
 Yo no puedo esperar a que todo esto sea olvidado, así puedo leer de nuevo sobre temas de real interés.
 Like the stock market.
 Como la bolsa.
-Closed while Lambert participates in the Makya Championship Tournament.
-Cerrado mientras Lambert participa en el Torneo del Campeonato de Makya.
+Lambert has some interesting choices of Pokemon.
+Lambert tiene varias elecciones interesantes de Pokémon.
+His prized Riolu was a gift from Victoire, another gym leader. Sangfroid, he calls her.
+Su preciado Riolu fue un regalo de Victoire, otra líder de gimnasio: Sangfroid, la llama.
+A beautiful name, in my opinion!
+¡Un hermoso nombre, en mi opinion!
+I believe Lambert also has a Croagunk. Or... two of them?
+Creo que Lambert también tiene un Croagunk. O… ¿Dos?
+I'm not sure, but I swear I saw a sparring match, where the two seemed identical...
+No estoy seguro, pero juraría ver un duelo, donde los dos eran idénticos…
 You keen to take me up on my offer?
 ¿Piensas tomar mi oferta?
 Understood.
@@ -19124,7 +19156,7 @@ Dar café.
 [Map293]
 Me and sister are much better battlers than our parents.
 Yo y mi hermana somos mucho mejores que nuestros padres.
-Our Pokemon couldn't beat your's?!
+Our Pokemon couldn't beat yours?!
 ¡¿Nuestros Pokémon no pudieron vencer a los tuyos?!
 That was fun, we should battle again soon.
 Eso fue divertido, deberíamos combatir luego pronto.
@@ -25084,7 +25116,7 @@ There's eight digits to it, last I heard from Connor.
 Este tiene ocho dígitos, si lo que me dijo Connor es correcto.
 I see eight slips of paper on you. That means you have the whole code for that blasted door!
 Veo que tienes ocho pedazos de papeles contigo. ¡Eso significa que tienes todo el código para esa maldita puerta!
-Lemme just.... write that all down myself...
+Lemme just... write that all down myself...
 Sólo déjame... escribirlo yo mismo...
 This is gonna be a lifesaver.
 Estás salvando mi vida.
@@ -25327,7 +25359,7 @@ Yeah... I... I feel dizzy... Just need a moment...
 Seh… me… me siento mareado… Necesito un momento…
 Uhh... I'm... Farid... Squad Leader Farid...
 Ehh... Sor... Farid... Líder de Escuadrón Farid...
-W-what...? No.. I... I don't think so.
+W-what...? No... I... I don't think so.
 ¿Q-qué…? No… no… no lo creo.
 I was here with my squad... We were, umm, searching for something...
 Estaba aquí con mi escuadrón… Estábamos, emmm, buscando por algo…
@@ -26399,7 +26431,7 @@ They stood as my lifelong companions, but no longer must they.
 Me acompañaron toda mi vida, pero ya no deben hacerlo.
 <i>Fear means nothing under His watchful gaze.</i>
 <i>El miedo no significa nada ante Su ojo atento.</i>
-O-Oriel..?
+O-Oriel...?
 ¿O-Oriel..?
 How foolish of you, <i>rejecting greater purpose with such conviction.</i>
 Qué insensato eres, <i>rechazando un próposito superior con tal convicción.</i>
@@ -43044,8 +43076,8 @@ Reduces a sleeping foe's HP by 1/8th at the end of a round.
 Daña a un oponente dormido por 1/8 de sus PS máximos al final de cada turno.
 Powers up ally Pokémon's special moves by 30%.
 Potencia movimientos especiales de Pokémon aliados un 30%.
-Raises Attack and Sp. Atk by two steps when its HP is lowered below half.
-Aumenta el Ataque y Ataque Especial dos grados cuando PS es reducido a la mitad o más.
+Raises Attack and Sp. Atk by two steps if an attack lowers its HP below half.
+Aumenta el Ataque y Ataque Especial dos grados si un ataque disminuye sus PS a la mitad o más.
 When this Pokémon eats a Berry, it restores 33% of its max health.
 Cuando el Pokémon come una baya, recupera el 33% de sus PS totales.
 Boosts Attack after knocking out any Pokémon.
@@ -43310,16 +43342,16 @@ Only super-effective moves will hit.
 Sólo es vulnerable a movimientos súper efectivos.
 After being attacked, uses Parting Shot to switch out.
 Al ser atacado, inmediatamente usa Última palabra, regresando a su Poké Ball.
-This Pokémon gains twice as many stats from leveling up.
-El Pokémon obtiene el doble de estadísticas al subir de nivel.
+This Pokémon gains twice as many stats from leveling up. It can't have its base stats modified.
+El Pokémon obtiene el doble de estadísticas al subir de nivel. Sus base stats no pueden ser modificadas.
 At the end of each turn in rainstorm, each Pokémon not immune to rainstorm has their Defense and Sp. Def lowered.
 Al final de cada turno, bajo lluvia, cada Pokémon no inmune a la tormenta de lluvia tendrá ambas stats defensivas disminuidas.
 After landing a super-effective or hyper-effective hit, deals 30% more damage on its next Normal-type move.
 Luego de asestar un movimiento súper o híper efectivo, potencia un 30% su siguiente movimiento tipo Normal.
 Powers up moves of the same type by 33%.
 Potencia movimientos del mismo tipo un 33%.
-Raises Speed by four steps when its HP is lowered below half.
-Aumenta su Velocidad cuatro grados cuando pierde la mitad de sus PS o más.
+Raises Speed by four steps if an attack lowers its HP below half.
+Aumenta su Velocidad cuatro grados si un ataque disminuye sus PS a la mitad o más.
 Immune to Flying-type moves and raises Speed instead.
 Immune to Flying-type moves and raises Speed instead.
 Protects this Pokémon from recoil damage. This Pokémon doesn't trigger items, abilities, or effects of targets it hits.
@@ -43412,8 +43444,8 @@ Move damage that's decreased by sunshine is decreased twice as much.
 Duplica la reducción del daño causado por el sol.
 Increase the EXP gained from battles in which it participates by 50%.
 Aumenta la Experiencia ganada en batallas en las que participa un 50%.
-After using a dance move, lowers one of each foe's Attack and Sp. Atk, whichever is higher.
-Luego de usar un movimiento de baile, disminuye la stat ofensiva mayor del oponente.
+After using a dance move, lowers one of each foe's Attack or Sp. Atk by two steps, whichever is higher.
+Luego de usar un movimiento de baile, disminuye la stat ofensiva mayor del oponente dos grados.
 Heals from binding damage it deals. Takes 25% less damage from Pokémon that are trapped.
 Recupera salud cuando un Pokémon atrapado pierde salud. Recibe 25% menos de daño de Pokémon que estén atrapados.
 Lays a hazard of levitating stones around the opponent when its HP is lowered below half.
@@ -44166,8 +44198,8 @@ Takes half damage from Dragon-, Fairy-, and Ghost-type attacks.
 Movimientos tipo Dragón, Hada y Fantasma lo dañan por la mitad.
 If this Pokémon faints from Perish Song, it is revived in a new form.
 Si el Pokémon es debilitado por Canto Mortal, revive con una nueva forma.
-Maximizes Sp. Atk when its HP is lowered below half.
-Maximiza su Ataque Especial cuando pierde la mitad de sus PS.
+Maximizes Sp. Atk if an attack lowers its HP below half.
+Maximiza su Ataque Especial si un ataque disminuye sus PS a la mitad o más.
 After knocking out any Pokémon, regenerates its previously-used item.
 Al debilitar cualquier Pokémon, regenera su objeto previamente usado.
 Light moves change this Pokémon's secondary type and their power is boosted by 30%.
@@ -44296,7 +44328,7 @@ At the end of each round, lowers other waterlogged Pokémon's Attack and Sp. Atk
 Al final de cada turno, disminuye el Ataque y Ataque Especial de otros Pokémon embebidos cada turno.
 On the first turn, its attacks leech the target.
 En su primer turno, sus ataques infectan al objetivo.
-After using a sound move, lowers one of each foe's Attack and Sp. Atk, whichever is higher.
+After using a sound move, lowers one of each foe's Attack or Sp. Atk, whichever is higher.
 Luego de usar un movimiento de sonido, disminuye la stat ofensiva mayor del oponente.
 Whenever a foe fails or misses, they take 1/8th HP damage.
 Cada vez que un rival falle un movimiento, pierden 1/8 de sus PS totales.
