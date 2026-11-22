@@ -26411,17 +26411,17 @@ Use a Full Restore.
 Usar uma Restauração Total.
 [Map431]
 You might want to slow down, Trainer. These ships are dangerous.
-You might want to slow down, Trainer. These ships are dangerous.
+Vai com calma, viajante. Estes navios são perigosos.
 Even though I'm on land, my old sea legs are wobbling.
-Even though I'm on land, my old sea legs are wobbling.
+Mesmo estando em terra, estas minhas velhas pernas de marinheiro estão bambas.
 Something's off about these boats, and I don't want to be the one that finds the reason why.
-Something's off about these boats, and I don't want to be the one that finds the reason why.
+Tem algo errado com estes barcos, e não pretendo ser a pessoa que vai descobrir o que é.
 I hope all my numbing strategies will make you take it slow.
-I hope all my numbing strategies will make you take it slow.
+Espero que minhas estratégias de Imobilização façam você ir com mais calma.
 Never been in a shipwreck, and I pride myself for it.
-Never been in a shipwreck, and I pride myself for it.
+Nunca estive em um naufrágio, e me orgulho disso.
 You get the shivers when you feel like disaster is coming. Guess it comes with experience.
-You get the shivers when you feel like disaster is coming. Guess it comes with experience.
+Você sente arrepios quando sente que um desastre está para acontecer. Acho que isso vem com a experiência.
 [Map432]
 [Map433]
 Cabin Room 2
