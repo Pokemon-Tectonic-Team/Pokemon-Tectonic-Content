@@ -59113,7 +59113,7 @@ Plantar uma Semente Latente?
 Right as you push the seed into the soil, a sapling bursts out of it!
 Assim que você coloca a semente no solo, uma muda irrompe dele!
 {1} stands strong, still ready to fight!
-{1} stands strong, still ready to fight!
+{1} permanece firme, ainda com disposição para lutar!
 {1} goes back to sleep after being left alone.
 {1} goes back to sleep after being left alone.
 You recieved a {1} ({2})
