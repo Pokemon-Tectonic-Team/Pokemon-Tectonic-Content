@@ -24809,79 +24809,79 @@ I've heard tale of people stashing them in obscure places, though. Something abo
 Apesar disso, já ouvi falar de gente guardando eles em lugares obscuros. Alguma coisa relacionada a "preparação"?
 [Map391]
 Ah, I see you've taken care of that band of troublemaker Avatars.
-Ah, I see you've taken care of that band of troublemaker Avatars.
+Ah, vejo que você deu um jeito naquele bando de Avatares encrenqueiros.
 For destroying all three of the monkeys, you've earned yourself a reward.
-For destroying all three of the monkeys, you've earned yourself a reward.
+Por destruir todos os três macacos, você ganhará um recompensa.
 Just don't ask how I got it.
-Just don't ask how I got it.
+Só não me pergunta como consegui isso.
 My official mission is to rid The Shelf of a trio of Avatars.
-My official mission is to rid The Shelf of a trio of Avatars.
+Minha missão oficial é a de livrar A Estante de um trio de Avatares.
 Pansage, Pansear, and Panpour - together they're tearing up the main path.
-Pansage, Pansear, and Panpour - together they're tearing up the main path.
+Pansage, Pansear e Panpour - juntos, estão destruindo a estrada principal.
 I'm offering a bounty to anyone brave enough to destroy them.
-I'm offering a bounty to anyone brave enough to destroy them.
+Estou oferecendo uma recompensa a qualquer pessoa corajosa o suficiente para destruí-los.
 Talk to me again to receive the reward. If you manage to do it.
-Talk to me again to receive the reward. If you manage to do it.
+Fale comigo novamente para receber a recompensa, caso consiga fazer isso.
 Sorry, let me catch my breath. I just ran in here from the west.
-Sorry, let me catch my breath. I just ran in here from the west.
+Desculpe, deixe-me recuperar o fôlego. Vim correndo do oeste para cá.
 After beating my 2nd gym, I wanted to check out the The Shelf.
-After beating my 2nd gym, I wanted to check out the The Shelf.
+Depois de derrotar o 2º ginásio, estava querendo dar uma olhada Na Estante.
 But I was not prepared for how good the trainers there were.
-But I was not prepared for how good the trainers there were.
+Mas não estava preparado pro quão bons os treinadores de lá eram.
 The Shelf is a densely packed forest with a lot of wildlife.
-The Shelf is a densely packed forest with a lot of wildlife.
+A Estante é uma floresta muito densa com muita vida selvagem.
 If you stray too far from the path you might get lost in the brush.
-If you stray too far from the path you might get lost in the brush.
+Se você se desviar muito da estrada, você pode acabar se perdendo na vegetação.
 Have you been to the Reading Ribombee Café, in Novo Town?
-Have you been to the Reading Ribombee Café, in Novo Town?
+Você já esteve na Cafeteria Do Ribombee Leitor, na Cidade Nova?
 They have the best <imp>coffee</imp> around.
-They have the best <imp>coffee</imp> around.
+Eles têm o melhor <imp>café</imp> da região.
 Hey, uh... is that <imp>coffee</imp> I smell?
-Hey, uh... is that <imp>coffee</imp> I smell?
+Ei, hã... esse cheiro que estou sentindo é de <imp>café</imp>?
 I'll let you by if you solve my caffeine needs.
-I'll let you by if you solve my caffeine needs.
+Te deixarei passar se você suprir minha necessidade de cafeína.
 Well, then, orders are orders.
-Well, then, orders are orders.
+Pois bem, então. Ordens são ordens.
 Gotta protect the citizenry. Keep young persons like you from getting themselves killed in The Shelf.
-Gotta protect the citizenry. Keep young persons like you from getting themselves killed in The Shelf.
+Devo proteger a população. Evitar que pessoas jovens como você sejam mortas Na Estante.
 Go back to Novo Town.
-Go back to Novo Town.
+Volte pra Cidade Nova.
 You hand over the cup of coffee.
-You hand over the cup of coffee.
+Você entrega o copo de café.
 Ah...
 Ah...
 I feel normal again.
-I feel normal again.
+Me sinto normal de novo.
 Thanks. You can go on ahead.
-Thanks. You can go on ahead.
+Obrigado. Você pode passar.
 Woah, woah! No can do, buddy.
-Woah, woah! No can do, buddy.
+Opa, opa! Não vai rolar, não, colega.
 I got official orders to stop all young trainers trying to enter The Shelf.
-I got official orders to stop all young trainers trying to enter The Shelf.
+Tenho ordens oficiais de parar quaisquer treinadores jovens que estejam tentando entrar Na Estante.
 It's a treacherous place at the best of times, and nowadays it's even worse.
-It's a treacherous place at the best of times, and nowadays it's even worse.
+É um lugar traiçoeiro, mesmo em um dia bom. Hoje em dia, é ainda pior.
 Well, huh. You look like you <i>really</i> wanna try your luck. And I guess you're not really all that young.
-Well, huh. You look like you <i>really</i> wanna try your luck. And I guess you're not really all that young.
+Bem, hã. Você parece <i>realmente</i> querer tentar a sorte. E nem parece tão jovem assim, na verdade.
 I need my third <imp>cup of coffee</imp>. Grab it for me, and I'll... consider letting you through.
-I need my third <imp>cup of coffee</imp>. Grab it for me, and I'll... consider letting you through.
+Preciso tomar meu terceiro <imp>copo de café</imp>. Pegue um para mim e eu vou... considerar deixar você passar.
 So... you gonna help me get some <imp>coffee</imp>?
-So... you gonna help me get some <imp>coffee</imp>?
+Então... você vai me trazer um copo de <imp>café</imp>?
 I don't know where you come from but I expect it's rude to lie to people there, too.
-I don't know where you come from but I expect it's rude to lie to people there, too.
+Não sei de onde você veio, mas imagino que seja rude mentir pras pessoas por lá também.
 Get out of here.
-Get out of here.
+Vaza daqui.
 I'm still supposed to stop all young trainers from passing by, but...
-I'm still supposed to stop all young trainers from passing by, but...
+Eu ainda tenho que parar todos os treinadores jovens que tentarem passar, mas...
 You're good by me.
-You're good by me.
+Por mim, você pode passar.
 Huh. You look a lot more skillful than I first thought.
-Huh. You look a lot more skillful than I first thought.
+Eita. Você parece muito mais forte do que imaginei a princípio.
 New blood in Makya. Always fun to see.
-New blood in Makya. Always fun to see.
+Sangue novo em Makya. É sempre legal ver isso.
 Don't give coffee.
-Don't give coffee.
+Não dar café.
 Give coffee.
-Give coffee.
+Dar café.
 [Map392]
 Sometimes I ask myself important questions.
 Às vezes, me faço perguntas muito importantes.
