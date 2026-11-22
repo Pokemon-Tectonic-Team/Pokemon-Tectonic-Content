@@ -26443,21 +26443,21 @@ Cabine 1
 [Map434]
 [Map435]
 Cabin Room 2
-Cabin Room 2
+Cabine 2
 Well hello there. Fancy a meal?
-Well hello there. Fancy a meal?
+Saudações. Aceita uma refeição?
 I left my stove on at home!
-I left my stove on at home!
+Deixei meu fogão em casa!
 Hmmm, maybe I'll use onions next time.
-Hmmm, maybe I'll use onions next time.
+Hmmm, quem sabe eu use cebolas na próxima vez.
 Perhaps garlic would work instead...
-Perhaps garlic would work instead...
+Talvez alho possa funcionar em vez disso...
 Cabin Room 3
-Cabin Room 3
+Cabine 3
 Cabin Room 4
-Cabin Room 4
+Cabine 4
 Cabin Room 1
-Cabin Room 1
+Cabine 1
 [Map436]
 [Map437]
 Bogdan Cement has been used in both construction and furniture!
