@@ -6589,15 +6589,15 @@ Você insere o Cartão ID Chasm.
 The door unlocks with a click.
 A porta destranca com um clique.
 Hello. I'm an expert in the field of Pokemon ailments.
-Hello. I'm an expert in the field of Pokemon ailments.
+Olá. Sou expert no campo de condições Pokémon.
 I have a selection of Technical Machines that will allow your Pokemon to employ them.
-I have a selection of Technical Machines that will allow your Pokemon to employ them.
+Tenho uma seleção de Máquinas Técnicas que permitirão que seus Pokémon as utilizem.
 This station, and stations like these, were originally research outposts for Team Chasm.
-This station, and stations like these, were originally research outposts for Team Chasm.
+Esta estação, e estações parecidas, eram originalmente postos de pesquisa para a Equipe Chasm.
 When the group disbanded, most of them got renovated into these impromptu rest stops.
-When the group disbanded, most of them got renovated into these impromptu rest stops.
+Quando o grupo foi dissolvido, a maior parte delas foi reutilizada como pontos de descanso improvisados.
 The Makyan Rangers primarily fund and staff these places nowadays.
-The Makyan Rangers primarily fund and staff these places nowadays.
+Hoje em dia, esses lugares são financiados e mantidos pelos Rangers Makienses.
 [Map84]
 [Map85]
 I've been fishing by the river.
@@ -62693,7 +62693,7 @@ I'm sure you'll appreciate one of these.
 I've got the tools. Just don't tell anyone.
 I've got the tools. Just don't tell anyone.
 Any interest in buying?
-Any interest in buying?
+Algum interesse em comprar?
 Trust me, nobody needs these more than you.
 Confia em mim, ninguém precisa deles tanto quanto você.
 Nature's Gallery, your gateway to nature's beauty.
