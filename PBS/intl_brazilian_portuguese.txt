@@ -878,7 +878,7 @@ Terceiro ginásio. A terceira vez é a que dá sorte, ou algo assim. Quer batalh
 Understood.
 Entendido.
 I'll be here until you wish to battle.
-Estarei aqui se desejar batalhar.
+Estarei bem aqui, caso queira batalhar.
 I'm gonna show you the difference between strategy and tactics!
 Te mostrarei a diferença entre estratégia e tática!
 Just like that, my team's put to the sidelines.
@@ -1484,7 +1484,7 @@ Batalhar contra mim é melhor do que batalhar contra qualquer um daqueles avatar
 Understood.
 Entendido.
 I'll be here until you wish to battle.
-Estarei bem aqui caso queira batalhar.
+Estarei bem aqui, caso queira batalhar.
 Boo!
 Bu!
 I bow to thee, oh masterful one.
@@ -1560,7 +1560,7 @@ Sim?
 No?
 Não?
 Maybe later.
-Talvez mais tarde.
+Talvez depois.
 Sure, let's go.
 Claro, vamos.
 [Map9]
@@ -5224,7 +5224,7 @@ Quer brigar?
 Understood.
 Entendido.
 I'll be here until you wish to battle.
-Estarei aqui até que você queira batalhar.
+Estarei bem aqui, caso queira batalhar.
 Glorious combat!
 Combate glorioso!
 Ouch. That one hurts. Gotta get used to the pain, though, or else I won't stand a chance against Eko!
@@ -9828,7 +9828,7 @@ E aí? Aceita minha oferta?
 Understood.
 De boa.
 I'll be here until you wish to battle.
-Vou estar aqui até que você queira batalhar.
+Estarei bem aqui, caso queira batalhar.
 Nice. Let's get into it.
 Legal. Bora lá.
 Well fought!
@@ -9930,7 +9930,7 @@ Sim
 Maybe later.
 Talvez depois.
 Sure, let's go.
-Claro, vamos batalhar.
+Claro, vamos.
 No way.
 De jeito nenhum.
 [Map137]
@@ -10499,7 +10499,7 @@ The choice to battle me is an easy one. Got a round in ye?
 Understood.
 Understood.
 I'll be here until you wish to battle.
-I'll be here until you wish to battle.
+Estarei bem aqui, caso queira batalhar.
 No regrets!
 No regrets!
 Hmm.... should I go make a different team? Agh, I'm not sure...
@@ -13159,7 +13159,7 @@ But, eh, let's just battle instead.
 Understood.
 Understood.
 I'll be here until you wish to battle.
-I'll be here until you wish to battle.
+Estarei bem aqui, caso queira batalhar.
 CHAAAAAARGE!
 CHAAAAAARGE!
 Aaron would have found a way to compliment my battling just now, despite how lop-sided that was.
@@ -15412,287 +15412,287 @@ Don't beat yourself up.
 Não se culpe.
 [Map214]
 Leaving through -- oh. You -- you’re looking for something down here.
-Leaving through -- oh. You -- you’re looking for something down here.
+Saindo por -- ah. Você -- você está procurando algo aqui embaixo.
 Come back and, uh, I’ll still be... around.
-Come back and, uh, I’ll still be... around.
+Volte aqui e, hã, ainda estarei... por perto.
 Some loose paper displaying the LuxTech logo.
-Some loose paper displaying the LuxTech logo.
+Um pedaço solto de papel com a logo da LuxTech.
 The door is locked shut.
-The door is locked shut.
+A porta está trancada.
 I took some classes in the gym here.
-I took some classes in the gym here.
+Fiz algumas aulas no ginásio daqui.
 I was a bit scared cause I heard how tough Samorn is.
-I was a bit scared cause I heard how tough Samorn is.
+Estava com um pouco de medo porque ouvi falar que a Samorn é bem durona.
 She's the strongest gym leader in the whole region!
-She's the strongest gym leader in the whole region!
+Ela é a líder de ginásio mais forte de toda a região!
 But she's really nice. I had a great time.
-But she's really nice. I had a great time.
+Mas ela é muito gentil. Me diverti bastante.
 Oh! I knew I’d find you here, my hero.
-Oh! I knew I’d find you here, my hero.
+Ah! Sabia que você me encontraria aqui, minha salvação.
 You’re looking particularly ravishing today.
-You’re looking particularly ravishing today.
+Você está particularmente deslumbrante hoje.
 Your gaze is like a summer night... getting me all hot under the collar.
-Your gaze is like a summer night... getting me all hot under the collar.
+Seu olhar é como uma noite de verão... me deixando todo acalorado.
 Excuse my directness. I’m getting carried away. Hello, \PN.
-Excuse my directness. I’m getting carried away.  Hello, \PN.
+Perdoe minha franqueza. Estou me deixando levar. Olá, \PN.
 Strange days. Strange days indeed! There’s an excitement in the air.
-Strange days. Strange days indeed! There’s an excitement in the air.
+Dias estranhos. Dias estranhos, de fato! Há uma empolgação no ar.
 Oh, don’t flatter me. It’ll go straight to my head.
-Oh, don’t flatter me. It’ll go straight to my head.
+Ah, não me elogie. Vai acabar subindo à minha cabeça.
 Aww, have I upset you? Please, I don’t mean a word of it, if that’s what you want to hear.
-Aww, have I upset you? Please, I don’t mean a word of it, if that’s what you want to hear.
+Aww, te chateei? Por favor, nada do que falei foi sério, se é isso que queria ouvir.
 ...It’s been a long day. I get... flustered after days like these. Sorry.
-...It’s been a long day. I get... flustered after days like these. Sorry.
+...Foi um longo dia. Fico... atordoado depois de dias como este. Perdão.
 A certain trainer you may know grabbed me by the collar. Then she told me in detail what she’d do to me if I ever laid my hands on Yezera.
-A certain trainer you may know grabbed me by the collar. Then she told me in detail what she’d do to me if I ever laid my hands on Yezera.
+Uma certa treinadora que você deve conhecer me pegou pelo colarinho. Me contou, em detalhes, o que ela faria comigo se eu colocasse minhas mãos na Yezera.
 Now, as much as I might like to do exactly that... I haven’t. And won’t. She’s unattainable.
-Now, as much as I might like to do exactly that... I haven’t. And won’t. She’s unattainable.
+E, bem, por mais que eu quisesse fazer exatamente isso... não fiz. E não vou. Ela é inalcançável.
 Sorry, sorry. Let me explain myself. As much as I can.
-Sorry, sorry. Let me explain myself. As much as I can.
+Desculpe, desculpe. Vou me explicar. Na medida do possível.
 Oh, for sure! She’s so appealing because of her reclusiveness. Oh, to rehabilitate her with endless kindness.
-Oh, for sure! She’s so appealing because of her reclusiveness. Oh, to rehabilitate her with endless kindness.
+Ora, é claro! Ela é encantadora por causa da sua reclusão. Ah, se fosse possível reabilitá-la apenas com interminável ternura.
 Who isn’t? So tremulous, so frail, yet so powerful. Don’t you want to hug her back to health?
-Who isn’t? So tremulous, so frail, yet so powerful.  Don’t you want to hug her back to health?
+Quem não gosta? Tão trêmula, tão frágil, mas, ao mesmo tempo, tão poderosa. Você não quer abraçá-la até que ela se recupere?
 Oh, now, yes, of course. Don’t be jealous. You’ve got all her verve and aren’t as... high-maintenance.
-Oh, now, yes, of course. Don’t be jealous. You’ve got all her verve and aren’t as... high-maintenance.
+Ah, sim, claro, com certeza. Não fique com ciúmes. Você tem toda a verve dela, mas não é uma pessoa tão... sistemática quanto.
 You see, I used to be obsessed with her. It’s why I’m here.
-You see, I used to be obsessed with her. It’s why I’m here.
+Sabe, eu costumava ser obsecado por ela. É por isso que estou aqui.
 I could be the one to track her down, lure her out like a timid beast. I just wanted to take care of her.
-I could be the one to track her down, lure her out like a timid beast. I just wanted to take care of her.
+Queria ser a pessoa a encontrá-la, atraí-la para fora como uma fera tímida. Queria meramente cuidar dela.
 And she was beautiful, of course. I’m not so high- minded as to discount her graceful splendor as part of my reasoning.
-And she was beautiful, of course. I’m not so high- minded as to discount her graceful splendor as part of my reasoning.
+E ela era linda, é claro. Não sou ignorante a ponto de negar o esplendor gracioso dela como parte de minhas motivações.
 But then I arrived here... and I found you. My attention was caught immediately.
-But then I arrived here... and I found you. My attention was caught immediately.
+Mas, então, cheguei aqui... e encontrei você. Minha atenção foi tomada imediatamente.
 I’m so sorry. I just can’t really contain my feelings any longer. I like you. A lot. And I’d like you to be mine.
-I’m so sorry. I just can’t really contain my feelings any longer. I like you. A lot. And I’d like you to be mine.
+Sinto muito -- não consigo conter meus sentimentos por mais tempo. Gosto de você. Muito. Gostaria de ter você para mim.
 Shh. It’s OK. You’re confused and surprised and scared, but that’s alright.
-Shh. It’s OK. You’re confused and surprised and scared, but that’s alright.
+Shh. Está tudo bem. Vejo a confusão, a surpresa e o medo em seus olhos, mas não tem problema.
 What’s life without a little fear? Adds a little color to proceedings, doesn’t it?
-What’s life without a little fear? Adds a little color to proceedings, doesn’t it?
+O que é a vida sem um pouco de medo? Ele torna as coisas mais interessantes, não torna?
 But I assure you my intentions are pure and loving.
-But I assure you my intentions are pure and loving.
+Mas te asseguro: minhas intenções são puras e ternas.
 Don’t turn me away so easily, \PN. I know I’m a lot.
-Don’t turn me away so easily, \PN. I know I’m a lot.
+Não me rejeite tão facilmente, \PN. Sei que sou ardente demais às vezes.
 I come on strong. Well, the incandescence inside my heart leaches out through my body.
-I come on strong. Well, the incandescence inside my heart leaches out through my body.
+Sei que fujo muito do razoável. É que a incandescência em meu coração irrompe os limites do meu corpo.
 I want you, and I want to be yours. I can’t hide it.
-I want you, and I want to be yours. I can’t hide it.
+Quero você, e quero ser seu. Não posso mais esconder.
 Oh, love, how I’ve longed to hear you say it.
-Oh, love, how I’ve longed to hear you say it.
+Oh, meu amor. Ansiei tanto escutar você dizer isso.
 You’re beautiful when you smile, you know that? More gorgeous than an open sky. Deific in your grace.
-You’re beautiful when you smile, you know that?  More gorgeous than an open sky. Deific in your grace.
+Você fica radiante ao sorrir, sabia? Tão sublime quanto um céu aberto. De uma graça divina.
 But I don’t want you to rush into this. Take your time. We can move slowly.
-But I don’t want you to rush into this. Take your time.  We can move slowly.
+Mas não quero que você se apresse nisso. Tome seu tempo. Podemos ir devagar.
 \PN, I don’t want to be your friend. I don’t know that I even want to be your lover.
-\PN, I don’t want to be your friend. I don’t know that I even want to be your lover.
+\PN, não quero ser seu amigo. Céus, nem mesmo tenho certeza se quero ser apenas seu amante.
 I want to be with you. I want you to be mine, forever. I want you to be my crescent moon to illuminate my starless skies.
-I want to be with you. I want you to be mine, forever.  I want you to be my crescent moon to illuminate my starless skies.
+Quero estar com você. Quero te ter para mim, para sempre. Quero que você seja minha lua crescente, iluminando meus céus sem estrelas.
 Here. Take this as a token of my boundless love.
-Here. Take this as a token of my boundless love.
+Aqui. Pegue isto como um símbolo de meu amor sem fim.
 To show you I’m honest, and that I only want the best for you. This is the true color of my love for you.
-To show you I’m honest, and that I only want the best for you. This is the true color of my love for you.
+Para te mostrar que estou sendo honesto e que só quero o melhor para você. Essa é a verdadeira cor do meu amor por você.
 Let this gift saturate your soul. Let it dye you with my affections. Let it be the start of our eternal romance.
-Let this gift saturate your soul. Let it dye you with my affections. Let it be the start of our eternal romance.
+Deixe este presente saturar sua alma. Deixe-o te tingir com meus afetos. Deixe-o ser o começo de nosso eterno romance.
 You’re amazing. Everything I saw in Yezera, in the avatars, even in the myths and legends, are all in you. You’re radiant. I want to bask in that radiance.
-You’re amazing. Everything I saw in Yezera, in the avatars, even in the myths and legends, are all in you. You’re radiant. I want to bask in that radiance.
+Você é incrível. Tudo que vi em Yezera, nos avatares, até mesmo nos mitos e lendas – está tudo em você. Você é radiante. Quero me banhar nessa radiância.
 Think about it.
-Think about it.
+Pense a respeito.
 I’d love you more than anyone else ever could. Go and take care of your material affairs. Your badges and your tournament – all those trivial things.
-I’d love you more than anyone else ever could. Go and take care of your material affairs. Your badges and your tournament – all those trivial things.
+Eu te amaria mais do que qualquer outra pessoa jamais poderia. Vá resolver seus assuntos materiais. Suas insígnias e seu torneio – todas essas coisas triviais.
 And then find me. Somewhere... romantic.
-And then find me. Somewhere... romantic.
+E, então, me encontra. Em algum lugar... romântico.
 The top of a snowy mountain, overlooking the entire world. Beautiful. Stern and rugged and powerful. With an ancient soul.
-The top of a snowy mountain, overlooking the entire world. Beautiful. Stern and rugged and powerful.  With an ancient soul.
+No topo de uma montanha nevada, observando o mundo inteiro. Belíssimo. Austero, inconstante e imponente. De uma alma milenar.
 Just like you. Goodbye, \PN. I love you.
-Just like you. Goodbye, \PN. I love you.
+Assim como você. Até mais, \PN. Eu te amo.
 Forever.
-Forever.
+Para sempre.
 Samorn's House
-Samorn's House
+Casa da Samorn
 "Attention: All Team Chasm Grunts"
-"Attention: All Team Chasm Grunts"
+"Atenção: A Todos Os Recrutas Da Equipe Chasm"
 "Team Chasm is no longer in operation, and activities here are to cease."
-"Team Chasm is no longer in operation, and activities here are to cease."
+"A Equipe Chasm não está mais em operação, e as atividades aqui devem ser cessadas."
 "Until further notice, this base is now part owned by the scholars of Novo College."
-"Until further notice, this base is now part owned by the scholars of Novo College."
+"Até segunda ordem, esta base é parcialmente pertencente aos escolares do Instituto De Nova."
 "Your admins thank you for your dedication."
-"Your admins thank you for your dedication."
+"Sua administração os agradece por sua dedicação."
 You'd think that Samorn, the gym leader down there, would have issues getting around in her wheelchair.
-You'd think that Samorn, the gym leader down there, would have issues getting around in her wheelchair.
+Você deve estar pensando que a Samorn, líder do ginásio ali embaixo, tem difculdades para se locomover em sua cadeira de rodas.
 Especially in difficult terrain like this.
-Especially in difficult terrain like this.
+Especialmente em um terreno irregular como este.
 At first I thought she'd use her dragons to help her down, but apparently that's too awkward.
-At first I thought she'd use her dragons to help her down, but apparently that's too awkward.
+A princípio, pensei que ela usasse seus dragões para ajudá-la a descer, mas, aparentemente, isso é incômodo demais.
 Instead she just has her Runerigus do the heavy lifting. It isn't part of her team, so it gets to relax at home the rest of the day, too.
-Instead she just has her Runerigus do the heavy lifting. It isn't part of her team, so it gets to relax at home the rest of the day, too.
+Ao invés disso, ela simplesmente usa seu Runerigus para subir e descer. Ele não faz parte da equipe dela, então ele pode descansar em casa pelo o resto do dia.
 Hello. My Druddigon and I handle trips down to Samorn's gym.
-Hello. My Druddigon and I handle trips down to Samorn's gym.
+Olá. Minha Druddigon e eu ajudamos nas descidas ao ginásio da Samorn.
 Stay away from the ledge and we won't have any problems.
-Stay away from the ledge and we won't have any problems.
+Fique longe da beirada e não teremos problemas.
 Careful!
-Careful!
+Cuidado!
 If you've got a scheduled visit, I'm authorized to help you get down the ledge.
-If you've got a scheduled visit, I'm authorized to help you get down the ledge.
+Se você tem uma visita agendada, tenho autorização para te ajudar a descer a ribanceira.
 ...
 ...
 You look like a Trainer.
-You look like a Trainer.
+Você parece treinar Pokémon.
 *sigh*
-*sigh*
+*suspiro*
 You're here too early.
-You're here too early.
+Você se adiantou demais.
 Samorn only takes the strongest of challengers, and you aren't strong enough yet.
-Samorn only takes the strongest of challengers, and you aren't strong enough yet.
+Samorn só aceita os desafiantes mais poderosos, e você ainda não é forte o suficiente.
 Go get all of the other badges first. Then you might be strong enough.
-Go get all of the other badges first. Then you might be strong enough.
+Vá conseguir todas as outras insígnias primeiro. Aí, talvez você seja forte o suficiente.
 My Druddigon and I handle trips down to Samorn's gym.
-My Druddigon and I handle trips down to Samorn's gym.
+Minha Druddigon e eu ajudamos nas descidas ao ginásio da Samorn.
 That service is for civilians, however.
-That service is for civilians, however.
+Esse serviço é para civis, no entanto.
 Trainers like you should know their place.
-Trainers like you should know their place.
+Treinadores como você deveriam saber seu lugar.
 Don't even think about challenging the Dreadnaught until you've acquired every other Makyan badge.
-Don't even think about challenging the Dreadnaught until you've acquired every other Makyan badge.
+Nem pense em desafiar A Temível até que tenha conseguido todas as outras insígnias Makienses.
 Oh, hello. I see you have some climbing gear.
-Oh, hello. I see you have some climbing gear.
+Ah, olá. Vejo que você tem equipamento para escalada.
 I suppose that means you could go down to the gym on your own power.
-I suppose that means you could go down to the gym on your own power.
+Suponho que isso significa que você pode descer ao ginásio por conta própria.
 I wouldn't recommend it. You still have a lot of growth to do.
-I wouldn't recommend it. You still have a lot of growth to do.
+Não recomendaria isso. Você ainda tem muito o que aprender.
 Yes! You are the proper level of strength to challenge the Dreadnaught.
-Yes! You are the proper level of strength to challenge the Dreadnaught.
+Sim! Você tem o nível adequado de força para desafiar A Temível.
 I'm sure she will be pleased to battle you.
-I'm sure she will be pleased to battle you.
+Tenho certeza de que ela ficará contente em batalhar contra você.
 You've bested the Dreadnaught! Well fought.
-You've bested the Dreadnaught! Well fought.
+Você derrotou A Temível! Bela luta.
 My congratulations to you and your Pokemon.
-My congratulations to you and your Pokemon.
+Meus parabéns a você e aos seus Pokémon.
 The 8th gym already. I can't believe how time flies.
-The 8th gym already. I can't believe how time flies.
+Já estamos no 8º ginásio. Não dá para acreditar em como o tempo voa.
 I've been enjoying this. I really and truly hope that you have, too.
-I've been enjoying this. I really and truly hope that you have, too.
+Me diverti bastante com isso tudo. Espero, de verdade, que você também tenha se divertido.
 Nothing like the search for perfection to motivate you to try crazy things.
-Nothing like the search for perfection to motivate you to try crazy things.
+Nada te motiva a tentar coisas doidas tanto quanto a busca pela perfeição.
 Using species that are supposed to be extinct, for example.
-Using species that are supposed to be extinct, for example.
+Coisas doidas como, por exemplo, usar espécies que deveriam estar extintas.
 I'm eager to try out this Arcanine, so hit me up post- haste!
-I'm eager to try out this Arcanine, so hit me up post- haste!
+Estou ansiose para testar este Arcanine, então fale comigo o quanto antes!
 We could add to the history of this place by engaging in a struggle of training supremacy. You inclined?
-We could add to the history of this place by engaging in a struggle of training supremacy. You inclined?
+Poderíamos fazer história neste lugar travando uma disputa pela supremacia de treinamento. Tá a fim?
 Understood.
-Understood.
+Entendido.
 I'll be here until you wish to battle.
-I'll be here until you wish to battle.
+Estarei bem aqui, caso queira batalhar.
 When I win, I'm gonna shout something very quotable.
-When I win, I'm gonna shout something very quotable.
+Quando eu vencer, vou gritar alguma coisa bem marcante.
 Rock doggy.... no....
-Rock doggy.... no....
+Doguinho de pedra... não...
 Heh, now I know how the grunts felt when Yezera whipped their butts.
-Heh, now I know how the grunts felt when Yezera whipped their butts.
+Heh, agora eu sei como os recrutas se sentiam quando a Yezera dava uma sova neles.
 Leave me to the task of reviving my battlers.
-Leave me to the task of reviving my battlers.
+Deixe-me reviver meus combatentes.
 Vanya breathes out heavily.
-Vanya breathes out heavily.
+Vanya respira fundo.
 So, this is it. The very last badge. After this comes the championship, you know.
-So, this is it. The very last badge. After this comes the championship, you know.
+Então, é isso. A última insígnia. Depois disso, vem o campeonato, sabe?
 Even more than usual, I can't afford to mess this one up.
-Even more than usual, I can't afford to mess this one up.
+Ainda mais do que o habitual, não posso me dar ao luxo de estragar tudo.
 Thank you for your help. Now it's just up to me to do what I've trained to do.
-Thank you for your help. Now it's just up to me to do what I've trained to do.
+Obrigada pela sua ajuda. Agora, cabe a mim fazer o que treinei para fazer.
 Team Chasm HQ Gym
-Team Chasm HQ Gym
+Ginásio Do QG Da Equipe Chasm
 Leader: Samorn
-Leader: Samorn
+Líder: Samorn
 History and motion.
-History and motion.
+História e movimento.
 Hey, kiddo. Knew you’d show up sooner or later. You took to training like a Wooper to water, didn’t you?
-Hey, kiddo. Knew you’d show up sooner or later. You took to training like a Wooper to water, didn’t you?
+Opa, pivete. Sabia que você ia dar as caras cedo ou tarde. Pelo visto, você tá indo tão bem nos seus treinamentos quanto um Arrokuda dentro da água, não tá?
 Had to work myself to the bone to get here before you and, guess what? Gym leader’s out again.
-Had to work myself to the bone to get here before you and, guess what? Gym leader’s out again.
+Tive que dar o sangue para chegar aqui antes de você e – adivinha só? – a Líder De Ginásio saiu de novo.
 You waiting for me to throw a Poké Ball at you?
-You waiting for me to throw a Poké Ball at you?
+Tá esperando que eu atire umas Pokébolas em você?
 I’m not gonna. Not about to bruise my team just before challenging the gym.
-I’m not gonna. Not about to bruise my team just before challenging the gym.
+Não vou. Não tô a fim de ferir a minha equipe logo antes de desafiar um ginásio.
 Yes, \PN. I snuck down here and put a sign on the door saying it’s closed after beating the gym, just to trick you.
-Yes, \PN. I snuck down here and put a sign on the door saying it’s closed after beating the gym, just to trick you.
+Sim, \PN. Eu me esgueirei até aqui e coloquei uma placa na porta do ginásio dizendo que ele está fechado. Tudo isso só para te enganar.
 It’s a flawless plan, really.
-It’s a flawless plan, really.
+É, de fato, um plano infalível.
 Not if you schedule in advance.
-Not if you schedule in advance.
+Não com um pré-agendamento.
 Or that’s what I’d like to say – professionalism isn’t in this region’s blood.
-Or that’s what I’d like to say – professionalism isn’t in this region’s blood.
+Ou pelo menos é isso que eu gostaria de dizer – profissionalismo não está no sangue desta região.
 Don’t even get me STARTED on that man in the bayou. Insufferable.
-Don’t even get me STARTED on that man in the bayou. Insufferable.
+E nem me FALE daquele cara no pântano. Insuportável.
 In any case, Samorn’s out.
-In any case, Samorn’s out.
+De qualquer maneira, a Samorn saiu.
 Sign on the door says she’s dealing with some ruckus over at the dig site. You coming?
-Sign on the door says she’s dealing with some ruckus over at the dig site. You coming?
+A placa na porta diz que ela tá resolvendo um rebuliço ali no sítio arqueológico. Você vem?
 That’s what I thought. Let’s go.
-That’s what I thought. Let’s go.
+Foi o que pensei. Vamo lá.
 Oh, you want to be contrary, do you? Fine. Stay here and wait.
-Oh, you want to be contrary, do you? Fine. Stay here and wait.
+Ah, você quer ser do contra, quer? Tá bom. Fica aqui e espera.
 The dig site. West of town.
-The dig site. West of town.
+O sítio arqueológico. A oeste da cidade.
 I swear, sometimes you’re more thick-skulled than a Rampardos. Let’s go perform some heroics, shall we?
-I swear, sometimes you’re more thick-skulled than a Rampardos. Let’s go perform some heroics, shall we?
+Juro, às vezes, você parece ter a cabeça mais dura do que a de um Rampardos. Vamos lá para salvar o dia, que tal?
 The railway here used to be pretty nice, but it got destroyed when that girl took Team Chasm down.
-The railway here used to be pretty nice, but it got destroyed when that girl took Team Chasm down.
+A ferrovia daqui costumava ser muito boa, mas ela foi destruída quando aquela garota derrubou a Equipe Chasm.
 No one's ever really gotten to repairing the whole thing, too much hassle for too little gain.
-No one's ever really gotten to repairing the whole thing, too much hassle for too little gain.
+Ninguém nunca se deu o trabalho de consertar ela inteira: é muito trabalho para pouco retorno.
 Most of the dirt and heavy equipment are already where they need to be.
-Most of the dirt and heavy equipment are already where they need to be.
+A maior parte da terra e do equipamento pesado já estão onde precisam estar.
 Closed while Samorn participates in the Makya Championship Tournament.
-Closed while Samorn participates in the Makya Championship Tournament.
+Fechado enquanto Samorn participa do Campeonato Makiense.
 Hey, trying to get Samorn's badge as well? I've tried, but I've had no luck so far.
-Hey, trying to get Samorn's badge as well? I've tried, but I've had no luck so far.
+Ei, tentando conseguir a insígnia da Samorn também? Já tentei, mas não tive sorte até então.
 I was prepped for countering a Sandstorm strategy, based on the legends I heard.
-I was prepped for countering a Sandstorm strategy, based on the legends I heard.
+Havia me preparado para lidar com a estratégia de Tempestade De Areia, com base nas lendas que ouvi.
 But she apparently hasn't used that strategy in forever, despite how well suited to it some of her Pokemon are.
-But she apparently hasn't used that strategy in forever, despite how well suited to it some of her Pokemon are.
+Mas, aparentemente, ela não usa essa estratégia faz muito, muito tempo, mesmo que alguns de seus Pokémon sejam muito bem adaptados a ela.
 Maybe it's a "hiding your true power level" thing? I just don't get it...
-Maybe it's a "hiding your true power level" thing? I just don't get it...
+Talvez isso seja um caso de "estar escondendo seu verdadeiro poder"? Eu realmente não entendo...
 You got the 8th badge? Damn, that means I gotta get myself one.
-You got the 8th badge? Damn, that means I gotta get myself one.
+Você conseguiu a 8ª insígnia? Caramba, isso significa que eu também vou ter que conseguir.
 I want to at least make it to the Championship this year.
-I want to at least make it to the Championship this year.
+Quero, pelo menos, chegar no Campeonato este ano.
 Um, hi?
-Um, hi?
+Hã, oi?
 You're acting different.
-You're acting different.
+Você tá agindo diferente.
 Same to you.
-Same to you.
+Digo o mesmo a você.
 You're a creep.
-You're a creep.
+Você é um esquisito.
 Wait, what?
-Wait, what?
+Pera, quê?
 Good for her.
-Good for her.
+Bom para ela.
 You're into Yezera?
-You're into Yezera?
+Você gosta da Yezera?
 Eyes only for me?
-Eyes only for me?
+Olhos só para mim?
 Um.
-Um.
+Hãã...
 Hell no.
-Hell no.
+Nem a pau, Juvenal.
 I feel the same way.
-I feel the same way.
+Sinto o mesmo.
 Can we be friends?
-Can we be friends?
+Podemos amigar?
 Maybe later.
-Maybe later.
+Talvez depois.
 Sure, let's go.
-Sure, let's go.
+Claro, vamos.
 You kidding me?
-You kidding me?
+Tá de brincadeira?
 Happens a lot.
-Happens a lot.
+Acontece.
 Of course.
-Of course.
+Claro.
 Nah.
-Nah.
+Nem.
 Where?
-Where?
+Onde?
 [Map215]
 [Map216]
 Phione! \PN! What just happened here?
@@ -16349,7 +16349,7 @@ I cannot convey to you just how much I want to battle. Heh. So, you up to doing 
 Understood.
 Understood.
 I'll be here until you wish to battle.
-I'll be here until you wish to battle.
+Estarei bem aqui, caso queira batalhar.
 Rock 'Em, Torterra!
 Rock 'Em, Torterra!
 Damn, even these 'mons couldn't leave a dent in you.
