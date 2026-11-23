@@ -1579,7 +1579,7 @@ Estava procurando o Líder De Ginásio nos arredores daquela cratera, mas ele n�
 [Map10]
 I'm training for my doctorate in Pokemon Biology.
 Estou treinando para meu doutorado em Biologia Pokémon.
-"Do some field work!", they said. "It'll look great on your CV!', they said.
+"Do some field work!", they said. "It'll look great on your CV!", they said.
 "Faça trabalhos de campo!", eles disseram. "Vai ser muito bom pro seu currículo!", eles disseram.
 Now here I am, battling the Raikou down there every day to prevent a rampage.
 Agora, aqui estou eu: batalhando contra o Raikou lá embaixo para impedir um pandemônio.
@@ -3545,40 +3545,28 @@ Sim
 No
 Não
 [Map38]
+Okay, now just to dig the moat!
+Muito bem, agora só falta cavar o fosso!
+They beat us, sis...
+Derrotaram a gente, maninha...
 It’s Michi, Jovan’s Tropius. She seems to be hiding behind him.
 É Michi, a Tropius de Jovan. Ela parece estar se escondendo atrás dele.
 It’s strange to see such a large creature look so worried.
 É estranho ver uma criatura tão grande com um semblante tão preocupado.
-Okay, now just to dig the moat!
-Muito bem, agora só falta cavar o fosso!
-They beat us, sis....
-Derrotaram a gente, maninha...
 East: Casaba Villa
 Leste: Vila Casaba
-Didn't see me comin' did ya!?
-Nem me viu chegando, né!?
-You won't see me goin' will ya?
-Nem vai me ver indo embora, né?
-I'll see you again. You won't see me!
-Eu vou te ver de novo, mas você não vai me ver!
 I see some prize money on the horizon!
 Prêmio em dinheiro à vista!
 You know what? I'd best be spending me money instead of losin' it!
 Sabe de uma coisa? Eu estaria melhor gastando meu dinheiro ao invés de perdendo ele!
 Well, there goes me shore leave money.
 Bom, lá se vai o meu dinheiro da licença em terra.
-I developed a multi-hit attack during Lambert's self-defense course.
-Eu desenvolvi um movimento de acertos múltiplos durante o curso de autodefesa do Lambert.
-I don't get much chance to battle, though.
-Entretanto, eu não tenho muitas oportunidades para batalhar.
-Would you allow me the chance to teach my Multi Strike attack to your Pokemon?
-Você me permitiria ensinar meu ataque Multi-Golpe aos seus Pokémon?
-It should be simple enough for many Pokemon.
-Ele é simples de aprender para muitos Pokémon.
-Ah, excellent!
-Ah, excelente!
-Ah, pardon my indulgence in even asking.
-Ah, me perdoe a ousadia de sequer perguntar.
+Didn't see me comin' did ya!?
+Nem me viu chegando, né!?
+You won't see me goin' will ya?
+Nem vai me ver indo embora, né?
+I'll see you again. You won't see me!
+Eu vou te ver de novo, mas você não vai me ver!
 You've checked the documents and returned! Will you accept the mind-reading Yungoos for a mere $3000?
 Você verificou os documentos e retornou! Vai aceitar o Yungoos que lê mentes por meros $3000?
 Having trouble predicting your opponent's moves, my child?
@@ -3601,6 +3589,18 @@ Now, time to go treat myself to a salon day.
 Agora, irei me presentear com um dia no salão.
 Make some more money and check your MasterDex! This is well worth it.
 Consiga um pouco de dinheiro e dê uma olhada em sua MasterDex! Vale muito a pena.
+I developed a multi-hit attack during Lambert's self-defense course.
+Eu desenvolvi um movimento de acertos múltiplos durante o curso de autodefesa do Lambert.
+I don't get much chance to battle, though.
+Entretanto, eu não tenho muitas oportunidades para batalhar.
+Would you allow me the chance to teach my Multi Strike attack to your Pokemon?
+Você me permitiria ensinar meu ataque Multi-Golpe aos seus Pokémon?
+It should be simple enough for many Pokemon.
+Ele é simples de aprender para muitos Pokémon.
+Ah, excellent!
+Ah, excelente!
+Ah, pardon my indulgence in even asking.
+Ah, me perdoe a ousadia de sequer perguntar.
 Wait a minute sis! This loser doesn't even have two pokemon!
 Espera um minuto, maninha! Essa pessoa nem mesmo tem dois Pokémon. Que fracassada!
 Really? Teeheehee, get lost, loser.
@@ -3613,10 +3613,10 @@ I'm gonna go tell on you!
 Eu vou contar isso que você fez!
 Our older brother will beat you up!
 Nosso irmãozão vai te arrebentar!
-They beat us, sis...
-Essa pessoa ganhou da gente, maninha...
 Waaaaaah!
 Buáááááá!
+This is gonna be the best castle ever!
+Esse vai ser o melhor castelo de todos!
 Hey! Hey!
 Ei! Ei!
 Look at this cool Sentret! It's so so fast!
@@ -3639,8 +3639,6 @@ Why did nobody tell me the shop is closed??
 Por que ninguém me avisou que a sorveteria tá fechada??
 Aww...
 Ahh...
-This is gonna be the best castle ever!
-Esse vai ser o melhor castelo de todos!
 I burnth my thongue...
 Eu afabei feimando a finha língua...
 You're theriothly too good!
@@ -3731,14 +3729,12 @@ Either way, I’m <i>lichen</i> this idea already!
 De qualquer forma, eu <i>líquen</i> não faz mal dar uma saidinha de vez em quando! Heh.
 See you there.
 Te vejo lá.
-<i>Sniff sniff</i>
-<i>Cheira cheira</i>
-I can smell energy on you! We must battle!
-Algo em você me cheira estranho! Vamos batalhar!
-The stench of defeat!
-O fedor da derrota!
-Smell ya later!
-Um abraço e um cheiro!
+Wow, you found me again!
+Uau, você me achou de novo!
+A loss is a loss, I guess I owe you that second TM now.
+Uma derrota é uma derrota. Acho que eu tô te devendo um segundo MT agora.
+I'll head back to town now. That was a fun game. I'm pretty worked up, hehe.
+Eu vou voltar pra cidade agora. Foi bem divertido. Eu tô bem cansado, hihi.
 You know, I fancy myself quite the battler! Care to see?
 Sabe, eu me considero uma baita treinadora! Quer ver só?
 You... You're quite the battler...\wt[20]
@@ -3747,12 +3743,18 @@ I-I'm going to leave now.
 Eu... eu vou embora agora.
 You, defeat me? My goodness!
 Você me derrotou? Minha nossa!
-Wow, you found me again!
-Uau, você me achou de novo!
-A loss is a loss, I guess I owe you that second TM now.
-Uma derrota é uma derrota. Acho que eu tô te devendo um segundo MT agora.
-I'll head back to town now. That was a fun game. I'm pretty worked up, hehe.
-Eu vou voltar pra cidade agora. Foi bem divertido. Eu tô bem cansado, hihi.
+<i>Sniff sniff</i>
+<i>Cheira cheira</i>
+I can smell energy on you! We must battle!
+Algo em você me cheira estranho! Vamos batalhar!
+The stench of defeat!
+O fedor da derrota!
+Smell ya later!
+Um abraço e um cheiro!
+I’m itching to get some more play with this team.
+Eu to doide para usar mais essa equipe.
+Finally using held items again! It’s refreshing.
+Finalmente estou usando itens equipáveis de novo! É revigorante.
 Wow, you got here fast!
 Uau, você chegou aqui rápido!
 Freakishly fast. How many trainers did you beat on your way here...?
@@ -3779,18 +3781,14 @@ Maybe we’ll see each other there.
 Talvez nos encontremos por lá.
 Until then, best of luck against Lambert!
 Mas, até lá, boa sorte com o Lambert!
-I’m itching to get some more play with this team.
-Eu to doide para usar mais essa equipe.
-Finally using held items again! It’s refreshing.
-Finalmente estou usando itens equipáveis de novo! É revigorante.
-Yes
-Sim
-No
-Não
 No way.
 De jeito nenhum.
 Seems legit.
 Parece confiável.
+Yes
+Sim
+No
+Não
 Nah.
 Nem.
 Yeah.
@@ -3978,7 +3976,7 @@ Tudo isso poderia ter sido evitado com mais planejamento...
 You really did a number on that avatar.
 Você realmente causou um estrago naquele avatar.
 Can't afford to be trapped in here, since I got this Origin Ore to fence.
-Não posso ficar presa aqui, já que peguei este 
+Não posso ficar presa aqui, já que peguei este Minério da Origem e preciso dar um jeito nele.
 Yeah, I stole it. What of it?
 Sim, eu roubei ele. E daí?
 Or maybe you're interested?
@@ -4550,14 +4548,12 @@ Ya shouldn't be able to do that, kiddo.
 Você não deveria poder fazer isso, jovem.
 Move on along now. We'll be back soon enough.
 Pode passar, por agora. Voltaremos em breve.
-The nature of Makya is so enduring! It's so charming how undeveloped everything is!
-A natureza de Makya é tão resistente! É tão encantador o quão pouco desenvolvido tudo é por aqui!
-What a lovely encounter with a local! Novo was so quaint, but I must go see Prizca!
-Que agradável encontro com uma pessoa local! Nova foi tão pitoresca, mas tenho que ir ver Prizca!
-And Maykan battling is so fierce! It must be in such a rough and tumble region.
-E como a forma de batalhar Makiense é intensa! Ela tem que ser, levando em conta esta região tão hostil e caótica.
-You know, I heard that this region doesn't even have a proper GTS network! How do trainers manage?!
-Sabe, ouvi falar que esta região nem mesmo tem uma rede GTS adequada! Como os treinadores conseguem?!
+East: Novo Town
+Leste: Cidade Nova
+North-West: Repora Forest
+Noroeste: Floresta Repora
+South-West: Barren Crater
+Sudoeste: Cratera Estéril
 Does that girl over there have a Johtoan Furret? I've never seen one myself, only the ones here in Makya.
 Aquela garota bem ali tem um Furret de Johto? Nunca vi um pessoalmente, apenas os daqui de Makya.
 ...
@@ -4568,22 +4564,14 @@ I wonder if Johtoan Furrets are sought after...
 Será que Furrets de Johto são muito procurados...?
 I bet Johtoan Furrets are worth quite a pretty penny here in Makya...
 Aposto que Furrets de Johto valem uma nota aqui em Makya.
-East: Novo Town
-Leste: Cidade Nova
-North-West: Repora Forest
-Noroeste: Floresta Repora
-South-West: Barren Crater
-Sudoeste: Cratera Estéril
-I'm here to report on Trainer readiness for the Avatar Crisis. Care to show a demonstration?
-Estou aqui para fazer uma reportagem a respeito da prontidão de treinadores para a crise Avatar. Pode me fazer uma demonstração?
-Off the record, there might be a party happening soon at the old research station in the Barren Crater. Maybe I'll see you there?
-Cá entre nós: talvez aconteça uma festa em breve na antiga estação de pesquisas na Cratera Estéril. Nos vemos por lá?
-I think I've some nice stuff from that. A sound bite might have been nice though...
-Acho que consegui capturar um bom material com isso. Apesar disso, um trecho de áudio teria sido legal...
-Reporting on battles is a lot more interesting than my assigned task.
-Reportar batalhas é muito mais interessante do que a minha tarefa designada.
-Deforestation concerns due to some dirt path? The road's almost a decade old at this point...
-Preocupações com desmatamento por causa de uma estradinha de terra? A estrada tem quase uma década de idade a esta altura...
+The nature of Makya is so enduring! It's so charming how undeveloped everything is!
+A natureza de Makya é tão resistente! É tão encantador o quão pouco desenvolvido tudo é por aqui!
+What a lovely encounter with a local! Novo was so quaint, but I must go see Prizca!
+Que agradável encontro com uma pessoa local! Nova foi tão pitoresca, mas tenho que ir ver Prizca!
+And Makyan battling is so fierce! It must be in such a rough and tumble region.
+E como a forma de batalhar Makiense é intensa! Ela tem que ser, levando em conta esta região tão hostil e caótica.
+You know, I heard that this region doesn't even have a proper GTS network! How do trainers manage?!
+Sabe, ouvi falar que esta região nem mesmo tem uma rede GTS adequada! Como os treinadores conseguem?!
 Velenz is still dealing with its avatar problem.
 Velenze ainda está tentando resolver seu problema com avatares.
 I even had to leave because of all the chaos.
@@ -4598,6 +4586,16 @@ Dang, you sunk my team...
 Caramba, você afundou a minha equipe...
 ...just like how my house sunk into the swamp...
 ...assim como a minha casa afundou no pântano...
+I'm here to report on Trainer readiness for the Avatar Crisis. Care to show a demonstration?
+Estou aqui para fazer uma reportagem a respeito da prontidão de treinadores para a crise Avatar. Pode me fazer uma demonstração?
+Off the record, there might be a party happening soon at the old research station in the Barren Crater. Maybe I'll see you there?
+Cá entre nós: talvez aconteça uma festa em breve na antiga estação de pesquisas na Cratera Estéril. Nos vemos por lá?
+I think I've some nice stuff from that. A sound bite might have been nice though...
+Acho que consegui capturar um bom material com isso. Apesar disso, um trecho de áudio teria sido legal...
+Reporting on battles is a lot more interesting than my assigned task.
+Reportar batalhas é muito mais interessante do que a minha tarefa designada.
+Deforestation concerns due to some dirt path? The road's almost a decade old at this point...
+Preocupações com desmatamento por causa de uma estradinha de terra? A estrada tem quase uma década de idade a esta altura...
 I love my little Linoone. I hope nothing bad ever happens to it.
 Amo meu pequeno Linoone. Espero que nada de mal jamais aconteça com ele.
 Oh well, a loss in a battle is nothing new. Thankfully no life-altering trauma is headed my way! Let's go travel down some dark alleys Linoone!
@@ -4614,12 +4612,16 @@ Hah! I haven't fought a challenger like you since the Chasm days. G'luck, friend
 Hah! Não batalho contra alguém como você desde os tempos da Chasm. Boa sorte, camarada.
 I figure if I stand right here, I can see most of the challengers heading for Rafael. Works like a charm.
 Acho que, se ficar aqui, vou poder ver a maioria dos desafiantes que estão indo pro Rafael. Funciona que é uma beleza.
-The berry plant is growing.
-A árvore frutífera está crescendo.
 CAUTION: The route is considered dangerous!
 CUIDADO: Esta rota é considerada perigosa!
 Turn back if you have less than 3 badges.
 Dê meia-volta se você tiver menos de 3 insígnias.
+The berry plant is growing.
+A árvore frutífera está crescendo.
+Talking to me like this does demonstrate rather unusual abilities...
+Falar comigo dessa forma demonstra, de fato, habilidades deveras incomuns...
+Will you cease bothering me? I'm trying to massage this data into significance.
+Dá pra parar de me incomodar? Estou tentando transformar estes dados em algo significativo.
 A'right, sit still for the nice lady and let 'er do 'er job.
 Muito bem, fica bem aí e não se mexe. Deixa a moça simpática fazer o trabalho dela.
 We need live-fire data on the apparent surplus of experienced trainers in this quadrant of Makya.
@@ -4638,10 +4640,6 @@ Ya did good, kiddo. We'll be back to conduct more tests.
 Você foi bem, jovem. Voltaremos para fazer mais testes.
 Y'know how them folks get about their sample sizes.
 Você sabe como esse pessoal é quando o assunto é tamanho de amostras.
-Talking to me like this does demonstrate rather unusual abilities...
-Falar comigo dessa forma demonstra, de fato, habilidades deveras incomuns...
-Will you cease bothering me? I'm trying to massage this data into significance.
-Dá pra parar de me incomodar? Estou tentando transformar estes dados em algo significativo.
 [Map54]
 A male and female TV host are all smiles as they take a walkthrough of a historic Prizca East house for sale.
 A male and female TV host are all smiles as they take a walkthrough of a historic Prizca East house for sale.
@@ -10396,8 +10394,8 @@ Pokemon Tectonic Development Team
 Pokemon Tectonic Development Team
 Full Blast Records
 Full Blast Records
-Pssst....
-Pssst....
+Pssst...
+Pssst...
 I know I just look like a jogger, but I'm really a detective working with the Makya Rangers.
 I know I just look like a jogger, but I'm really a detective working with the Makya Rangers.
 We received a tip that the folks over at Aegis Insurance were running protection rackets.
@@ -10486,8 +10484,8 @@ Leaders: Bence, Zoé
 Leaders: Bence, Zoé
 Two birds for every stone.
 Two birds for every stone.
-Bence and Zoé.... Zence.... Boé....
-Bence and Zoé.... Zence.... Boé....
+Bence and Zoé... Zence... Boé...
+Bence and Zoé... Zence... Boé...
 Oh, forgive me, the thought of taking on two gym leaders at the same time is stressing me out a little.
 Oh, forgive me, the thought of taking on two gym leaders at the same time is stressing me out a little.
 I hope my current team will work well against them, but I can't know for sure.
@@ -10502,8 +10500,8 @@ I'll be here until you wish to battle.
 Estarei bem aqui, caso queira batalhar.
 No regrets!
 No regrets!
-Hmm.... should I go make a different team? Agh, I'm not sure...
-Hmm.... should I go make a different team? Agh, I'm not sure...
+Hmm... should I go make a different team? Agh, I'm not sure...
+Hmm... should I go make a different team? Agh, I'm not sure...
 If only I had chosen different moves. Maybe I could have won that one.
 If only I had chosen different moves. Maybe I could have won that one.
 Restoring my Pokemon to full health, though, ain't much of a choice.
@@ -10610,8 +10608,6 @@ In case you're wondering -- it's a building in the very north of the Battle Plaz
 In case you're wondering -- it's a building in the very north of the Battle Plaza.
 Right next to the entrance to the Tournament Grounds.
 Right next to the entrance to the Tournament Grounds.
-The door is boarded up.
-The door is boarded up.
 Hello! Would you be interested in signing a petition to demolish the road?
 Hello! Would you be interested in signing a petition to demolish the road?
 This road currently has no financial benefit to the city ever since the bridge to the south was destroyed.
@@ -10632,34 +10628,36 @@ Eventually, we'll get enough signatures that the city's council has to listen.
 Eventually, we'll get enough signatures that the city's council has to listen.
 The city will be much better off for pedestrians.
 The city will be much better off for pedestrians.
+The door is boarded up.
+The door is boarded up.
 Look at the shiny bird!
 Look at the shiny bird!
 I wanna go up there to talk to it, but my dads never let me.
 I wanna go up there to talk to it, but my dads never let me.
 When I grow up, I wanna be a shiny bird...
 When I grow up, I wanna be a shiny bird...
+A Shiny Corviknight!
+A Shiny Corviknight!
+It's too busy watching the city to notice you.
+It's too busy watching the city to notice you.
 There you are. Ready now?
 There you are. Ready now?
 You’re insufferable some times, you know that?
 You’re insufferable some times, you know that?
 That last one was… real close.
 That last one was… real close.
-A Shiny Corviknight!
-A Shiny Corviknight!
-It's too busy watching the city to notice you.
-It's too busy watching the city to notice you.
-It's weird seeing the streets here so empty.
-It's weird seeing the streets here so empty.
-It's a combination of the road closure, and the Battle Festival happening right nearby.
-It's a combination of the road closure, and the Battle Festival happening right nearby.
+It doesn't look like this has moved in a while.
+It doesn't look like this has moved in a while.
+Bence's House
+Bence's House
 The Grand Hotel:
 The Grand Hotel:
 Makya's first five-star hotel!
 Makya's first five-star hotel!
-Bence's House
-Bence's House
-It doesn't look like this has moved in a while.
-It doesn't look like this has moved in a while.
+It's weird seeing the streets here so empty.
+It's weird seeing the streets here so empty.
+It's a combination of the road closure, and the Battle Festival happening right nearby.
+It's a combination of the road closure, and the Battle Festival happening right nearby.
 I'm a bit of a Striker.
 I'm a bit of a Striker.
 I got all sorts of tools that I can use to put the ball in the net.
@@ -10670,16 +10668,16 @@ You would not believe the mix-ups I do with this.
 You would not believe the mix-ups I do with this.
 I might be the best to ever do it, just saying.
 I might be the best to ever do it, just saying.
+Bogdan Cement Company
+Bogdan Cement Company
+Tourism Sector
+Tourism Sector
 Whooo-ee, look at them water towers!
 Whooo-ee, look at them water towers!
 Always surprises me how much is needed for concrete and other such manufacturin'.
 Always surprises me how much is needed for concrete and other such manufacturin'.
 And I thought growin' crops needed a lot...
 And I thought growin' crops needed a lot...
-Tourism Sector
-Tourism Sector
-Bogdan Cement Company
-Bogdan Cement Company
 What are you doing here?
 What are you doing here?
 Which one are you?
@@ -13844,16 +13842,12 @@ The connecting tunnel from Sweetrock was blocked by an avatar!
 How am I supposed to get my daily shipment of candies?
 How am I supposed to get my daily shipment of candies?
 [Map195]
+It's a beautifully carved ice sculpture of a Grumpig.
+It's a beautifully carved ice sculpture of a Grumpig.
 A painting of a flower.
 A painting of a flower.
 The longer you look, the more Flabébé you notice!
 The longer you look, the more Flabébé you notice!
-It's a beautifully carved ice sculpture of a Grumpig.
-It's a beautifully carved ice sculpture of a Grumpig.
-It's an overhead view of a Pokémon gym!
-It's an overhead view of a Pokémon gym!
-Did the gym look like this before Noel took over?
-Did the gym look like this before Noel took over?
 Yo, champ in the making!
 Yo, champ in the making!
 Noel is an artist, painting with the colors of Ice-type and Psychic-type.
@@ -13872,10 +13866,10 @@ He'll come if you can make it all the way through the gym.
 He'll come if you can make it all the way through the gym.
 Make a wave and he'll be here. Word gets around quick in these parts.
 Make a wave and he'll be here. Word gets around quick in these parts.
-A painting of a house by a pond.
-A painting of a house by a pond.
-The reflections in the water are broken only by the ripples of falling leaves.
-The reflections in the water are broken only by the ripples of falling leaves.
+It's an overhead view of a Pokémon gym!
+It's an overhead view of a Pokémon gym!
+Did the gym look like this before Noel took over?
+Did the gym look like this before Noel took over?
 Your fighting style is truly magnificent! I feel the need to take notes.
 Your fighting style is truly magnificent! I feel the need to take notes.
 Surely I've left my quill around somewhere...
@@ -13884,12 +13878,10 @@ You may have bested me in battle, but you'll still struggle against Noel.
 You may have bested me in battle, but you'll still struggle against Noel.
 Leave me be, you nincompoop.
 Leave me be, you nincompoop.
-A clear glass statue of a Pidgeotto.
-A clear glass statue of a Pidgeotto.
-When put between the ice statues, the shape of the blown glass stands out!
-When put between the ice statues, the shape of the blown glass stands out!
-It's a beautifully carved ice sculpture of an Alakazam.
-It's a beautifully carved ice sculpture of an Alakazam.
+A painting of a house by a pond.
+A painting of a house by a pond.
+The reflections in the water are broken only by the ripples of falling leaves.
+The reflections in the water are broken only by the ripples of falling leaves.
 Hey, sorry champ, but Noel's policy here is that everybody's gotta move through the gym counter-clockwise.
 Hey, sorry champ, but Noel's policy here is that everybody's gotta move through the gym counter-clockwise.
 I'm assuming its got some artsy-fartsy reason.
@@ -13898,22 +13890,26 @@ So, come on over this way, yeah?
 So, come on over this way, yeah?
 Yo.
 Yo.
+It's a beautifully carved ice sculpture of an Alakazam.
+It's a beautifully carved ice sculpture of an Alakazam.
+A clear glass statue of a Pidgeotto.
+A clear glass statue of a Pidgeotto.
+When put between the ice statues, the shape of the blown glass stands out!
+When put between the ice statues, the shape of the blown glass stands out!
+Ugh... nothing to do but crash at home, I guess.
+Ugh... nothing to do but crash at home, I guess.
+An inspiring battle, fit for feature in my next sculpture!
+An inspiring battle, fit for feature in my next sculpture!
 This canvas is empty.
 This canvas is empty.
 ...or is it an all-white painting?
 ...or is it an all-white painting?
-Ugh.... nothing to do but crash at home, I guess.
-Ugh.... nothing to do but crash at home, I guess.
-An inspiring battle, fit for feature in my next sculpture!
-An inspiring battle, fit for feature in my next sculpture!
+It's a beautifully carved ice sculpture of the legendary Pokemon Mesprit.
+It's a beautifully carved ice sculpture of the legendary Pokemon Mesprit.
 A bust of a smiling man.
 A bust of a smiling man.
 If you tilt your head, it looks like a Zoroark!
 If you tilt your head, it looks like a Zoroark!
-It's a beautifully carved ice sculpture of the legendary Pokemon Mesprit.
-It's a beautifully carved ice sculpture of the legendary Pokemon Mesprit.
-The light shining through the flower petals is enchanting.
-The light shining through the flower petals is enchanting.
 Dropped and shattered...
 Dropped and shattered...
 Wow, intense fight.
@@ -13928,24 +13924,28 @@ Cause, like...
 Cause, like...
 The ice...
 The ice...
-The face of this statue seems vaguely familiar.
-The face of this statue seems vaguely familiar.
+The light shining through the flower petals is enchanting.
+The light shining through the flower petals is enchanting.
+It's a beautifully carved ice sculpture of an Espeon.
+It's a beautifully carved ice sculpture of an Espeon.
 Noel is, in every sense of the word, and artist.
 Noel is, in every sense of the word, and artist.
 Wow! Top class art.
 Wow! Top class art.
 You bring your medium to a new level.
 You bring your medium to a new level.
-It's a beautifully carved ice sculpture of an Espeon.
-It's a beautifully carved ice sculpture of an Espeon.
+The face of this statue seems vaguely familiar.
+The face of this statue seems vaguely familiar.
 It's a graphite sketch of the Gym's Greeter!
 It's a graphite sketch of the Gym's Greeter!
-An ice sculpture of a bird Pokémon.
-An ice sculpture of a bird Pokémon.
-Wait....
-Wait....
-It's glass, carefully crafted to look like ice!
-It's glass, carefully crafted to look like ice!
+Ugh, way to ruin the vibes.
+Ugh, way to ruin the vibes.
+That was pretty cool, I guess.
+That was pretty cool, I guess.
+You're just here for the badge right?
+You're just here for the badge right?
+Heh, poser.
+Heh, poser.
 You doing good? Down for a rematch?
 You doing good? Down for a rematch?
 How’re you? Holding up? Good.
@@ -14014,22 +14014,20 @@ Maybe it’s common for you, but for me… my life got a whole lot easier.
 Maybe it’s common for you, but for me… my life got a whole lot easier.
 So chill. You deserve it.
 So chill. You deserve it.
-Ugh, way to ruin the vibes.
-Ugh, way to ruin the vibes.
-That was pretty cool, I guess.
-That was pretty cool, I guess.
-You're just here for the badge right?
-You're just here for the badge right?
-Heh, poser.
-Heh, poser.
-It's an abstract landscape.
-It's an abstract landscape.
-Things seem less and less realistic the further away they are.
-Things seem less and less realistic the further away they are.
+An ice sculpture of a bird Pokémon.
+An ice sculpture of a bird Pokémon.
+Wait....
+Wait....
+It's glass, carefully crafted to look like ice!
+It's glass, carefully crafted to look like ice!
 I sparkled and shone... but you much moreso.
 I sparkled and shone... but you much moreso.
 A rare defeat.
 A rare defeat.
+It's an abstract landscape.
+It's an abstract landscape.
+Things seem less and less realistic the further away they are.
+Things seem less and less realistic the further away they are.
 Not right now.
 Not right now.
 You bet.
@@ -15411,14 +15409,12 @@ Orgulho é algo bom.
 Don't beat yourself up.
 Não se culpe.
 [Map214]
+Some loose paper displaying the LuxTech logo.
+Um pedaço solto de papel com a logo da LuxTech.
 Leaving through -- oh. You -- you’re looking for something down here.
 Saindo por -- ah. Você -- você está procurando algo aqui embaixo.
 Come back and, uh, I’ll still be... around.
 Volte aqui e, hã, ainda estarei... por perto.
-Some loose paper displaying the LuxTech logo.
-Um pedaço solto de papel com a logo da LuxTech.
-The door is locked shut.
-A porta está trancada.
 I took some classes in the gym here.
 Fiz algumas aulas no ginásio daqui.
 I was a bit scared cause I heard how tough Samorn is.
@@ -15427,6 +15423,10 @@ She's the strongest gym leader in the whole region!
 Ela é a líder de ginásio mais forte de toda a região!
 But she's really nice. I had a great time.
 Mas ela é muito gentil. Me diverti bastante.
+The door is locked shut.
+A porta está trancada.
+Samorn's House
+Casa da Samorn
 Oh! I knew I’d find you here, my hero.
 Ah! Sabia que você me encontraria aqui, minha salvação.
 You’re looking particularly ravishing today.
@@ -15507,24 +15507,6 @@ Just like you. Goodbye, \PN. I love you.
 Assim como você. Até mais, \PN. Eu te amo.
 Forever.
 Para sempre.
-Samorn's House
-Casa da Samorn
-"Attention: All Team Chasm Grunts"
-"Atenção: A Todos Os Recrutas Da Equipe Chasm"
-"Team Chasm is no longer in operation, and activities here are to cease."
-"A Equipe Chasm não está mais em operação, e as atividades aqui devem ser cessadas."
-"Until further notice, this base is now part owned by the scholars of Novo College."
-"Até segunda ordem, esta base é parcialmente pertencente aos escolares do Instituto De Nova."
-"Your admins thank you for your dedication."
-"Sua administração os agradece por sua dedicação."
-You'd think that Samorn, the gym leader down there, would have issues getting around in her wheelchair.
-Você deve estar pensando que a Samorn, líder do ginásio ali embaixo, tem difculdades para se locomover em sua cadeira de rodas.
-Especially in difficult terrain like this.
-Especialmente em um terreno irregular como este.
-At first I thought she'd use her dragons to help her down, but apparently that's too awkward.
-A princípio, pensei que ela usasse seus dragões para ajudá-la a descer, mas, aparentemente, isso é incômodo demais.
-Instead she just has her Runerigus do the heavy lifting. It isn't part of her team, so it gets to relax at home the rest of the day, too.
-Ao invés disso, ela simplesmente usa seu Runerigus para subir e descer. Ele não faz parte da equipe dela, então ele pode descansar em casa pelo o resto do dia.
 Hello. My Druddigon and I handle trips down to Samorn's gym.
 Olá. Minha Druddigon e eu ajudamos nas descidas ao ginásio da Samorn.
 Stay away from the ledge and we won't have any problems.
@@ -15567,6 +15549,22 @@ You've bested the Dreadnaught! Well fought.
 Você derrotou A Temível! Bela luta.
 My congratulations to you and your Pokemon.
 Meus parabéns a você e aos seus Pokémon.
+You'd think that Samorn, the gym leader down there, would have issues getting around in her wheelchair.
+Você deve estar pensando que a Samorn, líder do ginásio ali embaixo, tem difculdades para se locomover em sua cadeira de rodas.
+Especially in difficult terrain like this.
+Especialmente em um terreno irregular como este.
+At first I thought she'd use her dragons to help her down, but apparently that's too awkward.
+A princípio, pensei que ela usasse seus dragões para ajudá-la a descer, mas, aparentemente, isso é incômodo demais.
+Instead she just has her Runerigus do the heavy lifting. It isn't part of her team, so it gets to relax at home the rest of the day, too.
+Ao invés disso, ela simplesmente usa seu Runerigus para subir e descer. Ele não faz parte da equipe dela, então ele pode descansar em casa pelo o resto do dia.
+"Attention: All Team Chasm Grunts"
+"Atenção: A Todos Os Recrutas Da Equipe Chasm"
+"Team Chasm is no longer in operation, and activities here are to cease."
+"A Equipe Chasm não está mais em operação, e as atividades aqui devem ser cessadas."
+"Until further notice, this base is now part owned by the scholars of Novo College."
+"Até segunda ordem, esta base é parcialmente pertencente aos escolares do Instituto De Nova."
+"Your admins thank you for your dedication."
+"Sua administração os agradece a sua dedicação."
 The 8th gym already. I can't believe how time flies.
 Já estamos no 8º ginásio. Não dá para acreditar em como o tempo voa.
 I've been enjoying this. I really and truly hope that you have, too.
@@ -15585,7 +15583,7 @@ I'll be here until you wish to battle.
 Estarei bem aqui, caso queira batalhar.
 When I win, I'm gonna shout something very quotable.
 Quando eu vencer, vou gritar alguma coisa bem marcante.
-Rock doggy.... no....
+Rock doggy... no...
 Doguinho de pedra... não...
 Heh, now I know how the grunts felt when Yezera whipped their butts.
 Heh, agora eu sei como os recrutas se sentiam quando a Yezera dava uma sova neles.
@@ -17224,54 +17222,54 @@ No
 Yes
 Yes
 [Map233]
+The shipping label says "Alola".
+The shipping label says "Alola".
+It's covered in stamps.
+It's covered in stamps.
 Once in a blue moon someone will send their Pokemon to us from overseas.
 Once in a blue moon someone will send their Pokemon to us from overseas.
 While I appreciate the generosity, it's still quite weird.
 While I appreciate the generosity, it's still quite weird.
 It also means we have to check the Pokeball donations to make sure they're empty!
 It also means we have to check the Pokeball donations to make sure they're empty!
-We had some pretty uh....interesting scenarios before that policy.
-We had some pretty uh....interesting scenarios before that policy.
-The shipping label says "Alola".
-The shipping label says "Alola".
-It's covered in stamps.
-It's covered in stamps.
+We had some pretty uh...interesting scenarios before that policy.
+We had some pretty uh...interesting scenarios before that policy.
 A stack of crates, all stamped with the Macro Cosmos logo.
 A stack of crates, all stamped with the Macro Cosmos logo.
-We've got too many Poké Dolls and Smoke Balls 'cause people keep donating them.
-We've got too many Poké Dolls and Smoke Balls 'cause people keep donating them.
-I don't think they realize that they're useless against avatars..
-I don't think they realize that they're useless against avatars..
 It's hastily taped shut, with the words "DON'T OPEN" on top.
 It's hastily taped shut, with the words "DON'T OPEN" on top.
 The box is shaking slightly.
 The box is shaking slightly.
+We've got too many Poké Dolls and Smoke Balls 'cause people keep donating them.
+We've got too many Poké Dolls and Smoke Balls 'cause people keep donating them.
+I don't think they realize that they're useless against avatars..
+I don't think they realize that they're useless against avatars..
+A stack of crates from the Devon Corporation.
+A stack of crates from the Devon Corporation.
 Welcome to the donations center!
 Welcome to the donations center!
 Is there anything you'd like to donate?
 Is there anything you'd like to donate?
 Every contribution helps us to meet the Avatar Crisis head on!
 Every contribution helps us to meet the Avatar Crisis head on!
-A stack of crates from the Devon Corporation.
-A stack of crates from the Devon Corporation.
 You resist the temptation to play with the fuses.
 You resist the temptation to play with the fuses.
 Crates from Silph Co.
 Crates from Silph Co.
-A palette of crates from Silph Co.
-A palette of crates from Silph Co.
 They're locked.
 They're locked.
+A palette of crates from Silph Co.
+A palette of crates from Silph Co.
 A Devon Corporation box is being repurposed to hold donated gear.
 A Devon Corporation box is being repurposed to hold donated gear.
+It's labelled "Useless". A note with the word "sell?" is underneath.
+It's labelled "Useless". A note with the word "sell?" is underneath.
 People keep coming here asking if we sell Ranger outfits.
 People keep coming here asking if we sell Ranger outfits.
 Like, uh, no? We never did?
 Like, uh, no? We never did?
 Where do people get that idea?
 Where do people get that idea?
-It's labelled "Useless". A note with the word "sell?" is underneath.
-It's labelled "Useless". A note with the word "sell?" is underneath.
 Stacks of boxes from LuxTech.
 Stacks of boxes from LuxTech.
 [Map234]
@@ -25124,8 +25122,8 @@ There's a witch. A Makyan Aromatisse. An Avatar of one.
 There's a witch. A Makyan Aromatisse. An Avatar of one.
 Wanna beat it up for the government?
 Wanna beat it up for the government?
-Uh.... if you do... come back here and I'll give you something in return.
-Uh.... if you do... come back here and I'll give you something in return.
+Uh... if you do... come back here and I'll give you something in return.
+Uh... if you do... come back here and I'll give you something in return.
 It's in the Highland Lake. Apparently.
 It's in the Highland Lake. Apparently.
 Um.....is there a reason you're still talking to me?
