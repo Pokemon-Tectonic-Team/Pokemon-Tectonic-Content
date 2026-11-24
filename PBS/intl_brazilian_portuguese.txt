@@ -21549,53 +21549,53 @@ Give coffee.
 Give coffee.
 [Map323]
 You can see stacks of clothes and other household neccessities through the glass.
-You can see stacks of clothes and other household neccessities through the glass.
+Você vê amontoados de roupas e outros itens domésticos através do vidro.
 Best not to peer too closely.
-Best not to peer too closely.
+Melhor não olhar muito de perto.
 Um. Could you not violate our privacy like that?
-Um. Could you not violate our privacy like that?
+Hã. Será que dá para você NÃO violar a nossa privacidade desse jeito?
 Living here is already deprived enough without strangers staring at our belongings.
-Living here is already deprived enough without strangers staring at our belongings.
+Viver aqui já é insalubre o suficiente sem ter gente estranha bisbilhotando nossos pertences. 
 Fossil records show that Pokemon in ancient times were significantly more powerful than they are today.
-Fossil records show that Pokemon in ancient times were significantly more powerful than they are today.
+Registros de fósseis mostram que Pokémon em tempos ancestrais eram significantemente mais poderosos do que são hoje.
 Larger bones, unique organ structures, and even redundant organ systems.
-Larger bones, unique organ structures, and even redundant organ systems.
+Ossos maiores, estruturas únicas de órgãos e até mesmo sistemas de órgãos redundantes.
 At some point though, almost all Pokemon species started to lose these.
-At some point though, almost all Pokemon species started to lose these.
+No entanto, em algum momento, quase todas as espécies de Pokémon começaram a perder essas características.
 My boss is going to kill me.
-My boss is going to kill me.
+Meu chefe vai me matar.
 He told me go out and find a Pokemon that could "wipe out" a whole team...
-He told me go out and find a Pokemon that could "wipe out" a whole team...
+Ele me disse para sair em busca de um Pokémon que fosse capaz de "Arregaçar" com uma equipe inteira...
 I misheard that as *wimp out*.
-I misheard that as *wimp out*.
+Achei que ele tivesse dito *Arregar*.
 Now I just have this Wimpod, which is not going to be useful for our experiments.
-Now I just have this Wimpod, which is not going to be useful for our experiments.
+Agora eu só tenho esse Wimpod, que não vai ser nem um pouco útil pros nossos experimentos.
 I need something with real power--like a Dragon type.
-I need something with real power--like a Dragon type.
+Preciso de algo realmente poderoso -- como um tipo Dragão.
 Say, if you have a Dragon type, would you be willing to trade for my Wimpod?
-Say, if you have a Dragon type, would you be willing to trade for my Wimpod?
+Me diz, se você tiver um tipo Dragão, você topa trocá-lo pelo meu Wimpod?
 Dang, it was worth a shot.
-Dang, it was worth a shot.
+Droga, pelo menos eu tentei.
 I hope I don't lose my job...
-I hope I don't lose my job...
+Espero que eu não perca meu emprego...
 Thanks, you're a lifesaver.
-Thanks, you're a lifesaver.
+Obrigado, você salvou minha vida.
 You're the best!
-You're the best!
+Você é o máximo!
 I think my boss will be happy. You've done a great service to me, my boss, and science.
-I think my boss will be happy. You've done a great service to me, my boss, and science.
+Acho que meu chefe vai ficar feliz. Você fez um baita favor para mim, pro meu chefe e pra ciência.
 Though mostly me, I'll admit.
-Though mostly me, I'll admit.
+Mas, vou admitir, foi principalmente para mim.
 Avatars are much more aggressive than your average Pokemon.
-Avatars are much more aggressive than your average Pokemon.
+Avatares são muito mais agressivos do que Pokémon comuns.
 That, coupled with their increased size...
-That, coupled with their increased size...
+Esse fato, somado ao tamanho aumentado deles...
 It's almost as if they aren't even from modern evolutionary lines...
-It's almost as if they aren't even from modern evolutionary lines...
+É quase como se eles não fossem de linhas evolutivas modernas...
 No
-No
+Não
 Yes
-Yes
+Sim
 [Map324]
 Congratulations, Champion!
 Congratulations, Champion!
@@ -41742,7 +41742,7 @@ Water Bubble
 Weak Armor
 Weak Armor
 Wimp Out
-Wimp Out
+Arregar
 Wonder Guard
 Wonder Guard
 Above It All
