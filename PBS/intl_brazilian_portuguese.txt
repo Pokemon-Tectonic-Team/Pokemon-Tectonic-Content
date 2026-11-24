@@ -17727,113 +17727,113 @@ Yes
 Sim
 [Map251]
 A huge variety of books line the shelves.
-A huge variety of books line the shelves.
+Uma impressionante variedade de livros ocupa as prateleiras.
 A colorful tome stands out: "Fairy Tales of the East." It looks heavily worn.
-A colorful tome stands out: "Fairy Tales of the East." It looks heavily worn.
+Um tomo colorido se destaca: "Contos De Fadas do Leste". Parece muito desgastado.
 Samorn is in the other room, if you'd like to discuss matters with her.
-Samorn is in the other room, if you'd like to discuss matters with her.
+Samorn está no outro cômodo, se pretende tratar de algum assunto com ela.
 ...Hm? Who am I?
-...Hm? Who am I?
+...Hm? Quem sou eu?
 Simply call me the Dragon Hatcher.
-Simply call me the Dragon Hatcher.
+Pode me chamar de Chocador De Dragões.
 If you were looking for Samorn, I regret to say that she is absent.
-If you were looking for Samorn, I regret to say that she is absent.
+Se procuras Samorn, lamento dizer que ela está ausente.
 But perhaps you were looking for me, the Dragon Hatcher?
-But perhaps you were looking for me, the Dragon Hatcher?
+Mas, talvez, estejas procurando por mim, o Chocador De Dragões?
 I have raised every species of Dragon which can be found in this world--some for dear wife's team.
-I have raised every species of Dragon which can be found in this world--some for dear wife's team.
+Já cuidei de todas as espécies de Dragão que podem ser encontradas neste mundo -- algumas delas, para a equipe de minha querida esposa.
 If you stumble across any Dragon Eggs on your journey, be sure to talk to me.
-If you stumble across any Dragon Eggs on your journey, be sure to talk to me.
+Se encontrares algum Ovo de Dragão durante a tua jornada, não deixes de falar comigo.
 Give them to me, and I will hatch them.
-Give them to me, and I will hatch them.
+Entrega-mos, e farei com que choquem.
 Don't worry--I shall then hand them over to you.
-Don't worry--I shall then hand them over to you.
+Não te preocupes -- após fazê-lo, os devolverei a ti.
 It's an honor just to bring more Dragons into the world.
-It's an honor just to bring more Dragons into the world.
+É uma honra, por princípio, trazer mais Dragões a este mundo.
 Would you be willing to entrust me with any Dragon eggs?
-Would you be willing to entrust me with any Dragon eggs?
+Vais confiar algum Ovo de Dragão a mim?
 Once born, I will hand the hatchling over to you.
-Once born, I will hand the hatchling over to you.
+Uma vez nascido, o filhote será entregue a você.
 I shall be patient, then.
-I shall be patient, then.
+Serei paciente, então.
 To find more Dragon eggs, look for abandoned dragon dens.
-To find more Dragon eggs, look for abandoned dragon dens.
+Para encontrar mais Ovos De Dragão, procure por covis de dragão abandonados.
 A small hole at the base of a rock wall signals the entrance.
-A small hole at the base of a rock wall signals the entrance.
+Um pequeno buraco na base de paredes rochosas sinaliza a entrada.
 I have contemplated whether to share this with you.
-I have contemplated whether to share this with you.
+Tenho contemplado se deveria compartilhar isto contigo.
 My decision is that indeed I should.
-My decision is that indeed I should.
+Minha é decisão é a de que sim, eu, de fato, deveria.
 I come from a line of monks who cultivate a harmonious existence on the Isle of Dragons.
-I come from a line of monks who cultivate a harmonious existence on the Isle of Dragons.
+Venho de uma linhagem de monges que cultivam uma existência harmoniosa na Ilha Dos Dragões.
 The island is a haven for 7 different lines of Dragons, serving to protect them from the greed of trainers.
-The island is a haven for 7 different lines of Dragons, serving to protect them from the greed of trainers.
+A ilha é um abrigo para 7 diferentes linhagens de Dragões, servindo para protegê-los da ganância dos treinadores.
 You have shown a love for all of these Dragons, and thus have earned my confidence.
-You have shown a love for all of these Dragons, and thus have earned my confidence.
+Demonstraste grande amor para com todos estes Dragões e, portanto, ganhaste a minha confiança.
 You have endured many hardships in service of Makya, and thus have earned my confidence.
-You have endured many hardships in service of Makya, and thus have earned my confidence.
+Tens aturado muitas dificuldades em prol de Makya e, portanto, ganhaste a minha confiança.
 So I will share with you a secret: the location of the Isle of Dragons.
-So I will share with you a secret: the location of the Isle of Dragons.
+Por isso, partilharei contigo um pequeno segredo: a localização da Ilha Dos Dragões.
 There is one in our group who can ferry you there immediately, if you wish.
-There is one in our group who can ferry you there immediately, if you wish.
+Há alguém em nosso grupo capaz de levar-te imediatamente para lá, se assim desejares.
 Would you like to be brought to the Isle of Dragons now?
-Would you like to be brought to the Isle of Dragons now?
+Gostarias que te levem imediatamente à Ilha Dos Dragões?
 Follow me.
-Follow me.
+Siga-me.
 I'm sure you will be capable of reaching the Isle with your own boat.
-I'm sure you will be capable of reaching the Isle with your own boat.
+Tenho certeza de que serás capaz de chegar à ilha em teu próprio barco.
 May the winds be good on your journey.
-May the winds be good on your journey.
+Que os ventos lhe guiem em tua jornada.
 Greetings, fellow Master of Dragons.
-Greetings, fellow Master of Dragons.
+Saudações, nobre colega no domínio de Dragões.
 Do you have more eggs which you wish me to hatch?
-Do you have more eggs which you wish me to hatch?
+Tens mais ovos que desejas que eu choque?
 I won't say there exists such a thing as too many dragons.
-I won't say there exists such a thing as too many dragons.
+Não acredito que "Dragões demais" seja um conceito real.
 But it is indeed possible to reach a state where one no longer feels the need for more.
-But it is indeed possible to reach a state where one no longer feels the need for more.
+Mas, de fato, é possível chegar a um ponto em que não se sente a necessidade de ter mais.
 You find nothing within the wooden trash can.
-You find nothing within the wooden trash can.
+Você não encontra nada dentro do cesto de lixo de madeira.
 The bed, despite its large size, has been made with care.
-The bed, despite its large size, has been made with care.
+A cama, apesar de grande, foi arrumada com cuidado.
 A page is open about a particular subspecies of Exeggutor in Alola.
-A page is open about a particular subspecies of Exeggutor in Alola.
+Há uma página aberta sobre uma subespécie específica de Exeggutor em Alola.
 A stack of documents.
-A stack of documents.
+Um monte de documentos.
 The topmost details the time and heating requirements for multiple Dragon-type species.
-The topmost details the time and heating requirements for multiple Dragon-type species.
+O documento no topo detalha o tempo e temperatura necessários para o chocamento de múltiplas espécies do tipo Dragão.
 Oh, \PN! How nice of you to drop by.
-Oh, \PN! How nice of you to drop by.
+Ah, \PN! Que bom que resolveu fazer uma visita.
 I have some water just about to boil – how about something hot to drink?
-I have some water just about to boil – how about something hot to drink?
+Tenho um pouco de água prestes a ferver – o que me diz de algo quente para beber?
 …Well, I suppose I ought to do some work eventually.
-…Well, I suppose I ought to do some work eventually.
+…Bom, suponho que devo retornar aos meus afazeres.
 Please, come back whenever you’d like. My door is always open, if you need a hot drink or to share your troubles.
-Please, come back whenever you’d like. My door is always open, if you need a hot drink or to share your troubles.
+Por favor, volte quando quiser. Minha porta está sempre aberta, caso precise de uma bebida quente ou conversar sobre seus problemas.
 I can only promise results on problems that can be solved by early Makyan archaeology or a Garchomp… but that’s most problems.
-I can only promise results on problems that can be solved by early Makyan archaeology or a Garchomp… but that’s most problems.
+No entanto, só posso garantir resultados com problemas que podem ser resolvidos com arqueologia antiga Makiense ou com um Garchomp… mas isso abrange a maioria dos problemas.
 Hah! I’ll see you, \PN.
-Hah! I’ll see you, \PN.
+Hah! Te vejo por aí, \PN.
 Hello, \PN! It’s so good to see you again.
-Hello, \PN! It’s so good to see you again.
+Olá, \PN! É bom te ver de novo.
 I can’t talk for long, I’m afraid. I’m getting a paper ready to publish.
-I can’t talk for long, I’m afraid. I’m getting a paper ready to publish.
+Temo que não poderei conversar muito. Estou preparando um novo artigo para publicação.
 It’s my first non-archaeological work – I’m tackling the age-old question of “what’s a Dragon?”
-It’s my first non-archaeological work – I’m tackling the age-old question of “what’s a Dragon?”
+É meu primeiro trabalho não arqueológico – estou respondendo à velha pergunta: "O que é um Dragão?"
 Is Charizard a Dragon? What about Milotic? Or certain Exeggutor subspecies?
-Is Charizard a Dragon? What about Milotic? Or certain Exeggutor subspecies?
+Seria Charizard um Dragão? E Milotic? Ou certas subespécies de Exeggutor?
 To put my findings succinctly, the only way to tell if something’s a Dragon is to hit it with an Outrage.
-To put my findings succinctly, the only way to tell if something’s a Dragon is to hit it with an Outrage.
+Para resumir minhas descobertas, a única forma de saber se algo é ou não um Dragão é atingindo-o com Ultrage.
 That, um, tends to solve the debate rather quickly.
-That, um, tends to solve the debate rather quickly.
+Isso, hã, costuma encerrar o debate bem rapidamente.
 No
-No
+Não
 Yes
-Yes
+Sim
 Yes, please.
-Yes, please.
+Sim, por favor.
 No, I'll go myself.
-No, I'll go myself.
+Não, posso ir por conta.
 [Map252]
 [Map253]
 [Map254]
@@ -34457,7 +34457,7 @@ Eternabeam
 Light That...
 Light That...
 Outrage
-Outrage
+Ultrage
 Roar of Time
 Roar of Time
 Spacial Rend
