@@ -4928,7 +4928,7 @@ Você precisa de Fichas específicas para comprar os iniciais.
 If we just sold them with cash, they would be bought instantly.
 Se os vendêssemos com apenas dinheiro, eles seriam vendidos instantaneamente.
 We'd have to worry about Pokemon scalping.
-Teríamos que nos preocupar com revenda abusiva de Pokémon.
+Teríamos que nos preocupar com <i>scalping</i>.
 I make sweets that get sold at the coffee shop. Business is slow, though, so I'm spending time here.
 Faço doces que são vendidos na cafeteria. O movimento está fraco, porém, então estou passando um tempinho aqui.
 Would you like to battle, kill some time with me?
@@ -17587,89 +17587,89 @@ Yes
 [Map242]
 [Map243]
 Hey, you got any info about those white totems?
-Hey, you got any info about those white totems?
+Ei, você sabe alguma coisa a respeito daqueles totens brancos?
 When I still worked in Prizca West I took them for granted.
-When I still worked in Prizca West I took them for granted.
+Quando eu ainda trabalhava na Prizca Oriental, eu não ligava tanto para eles.
 What sort of geek has time to worry about old ceramics?
-What sort of geek has time to worry about old ceramics?
+Que tipo de nerdola tem tempo para se preocupar com umas cerâmicas velhas?
 But I got the chance to touch a few while out on patrol, and they made my hand tingle in the strangest way.
-But I got the chance to touch a few while out on patrol, and they made my hand tingle in the strangest way.
+Mas eu tive a chance de tocar em alguns quando saía em patrulha, e eles faziam minha mão formigar de um jeito muito estranho.
 Something is definitely fishy with them.
-Something is definitely fishy with them.
+Definitivamente, tem algo muito estranho com eles.
 I've been cooking for this mess hall for nine straight years.
-I've been cooking for this mess hall for nine straight years.
+Cozinho para este refeitório fazem nove anos.
 I used to cook for Chasm grunts and scientists, but now I cook for Makyan Rangers and Novo College archaeologists.
-I used to cook for Chasm grunts and scientists, but now I cook for Makyan Rangers and Novo College archaeologists.
+Costumava cozinhar para os recrutas e cientistas Chasm, mas, agora, cozinho para os Rangers de Makya e para arqueologistas do Instituto de Nova.
 I'll let you in on a little secret as well -- they're mostly all the same people!
-I'll let you in on a little secret as well -- they're mostly all the same people!
+E vou te contar um segredinho: no fim das contas, são praticamente as mesmas pessoas!
 An expensive kitchen set.
-An expensive kitchen set.
+Um kit caro de cozinha.
 The dishes and silverware are all coordinated to the Team Chasm color scheme.
-The dishes and silverware are all coordinated to the Team Chasm color scheme.
+Os pratos e talheres estão todos combinando com o esquema de cores da Equipe Chasm.
 It's weird working back at the ol' Chasm base.
-It's weird working back at the ol' Chasm base.
+É estranho trabalhar na antiga base da Equipe Chasm.
 I never thought I'd see this place again once Helena set me up with a Ranger job.
-I never thought I'd see this place again once Helena set me up with a Ranger job.
+Quando a Helena me arranjou um trabalho como Ranger, pensei que nunca mais veria este lugar de novo.
 In the end, I guess she did care about her grunts, even if she didn't ever really show it.
-In the end, I guess she did care about her grunts, even if she didn't ever really show it.
+No fim das contas, acho que ela realmente se importava com os seus recrutas, mesmo que nunca demonstrasse.
 A chalkboard lists a short menu of food items.
-A chalkboard lists a short menu of food items.
+Uma lousa mostra um pequeno cardápio do que é servido aqui.
 Kantoan, Unovan, and Galarian culture are all represented, among others.
-Kantoan, Unovan, and Galarian culture are all represented, among others.
+As culturas de Kanto, Unova e Galar estão representadas, entre outras.
 Hey, Trainer. You look like the type that might want a starter.
-Hey, Trainer. You look like the type that might want a starter.
+Ei, viajante. Você parece do tipo que quer um Inicial.
 Digging is my passion, but I do a little bit of scalping on the side to get a little extra dough every month.
-Digging is my passion, but I do a little bit of scalping on the side to get a little extra dough every month.
+Escavar é a minha paixão, mas eu pratico um pouco de <i>scalping</i> para ganhar uma graninha a mais no fim do mês.
 You interested in purchasing a Starter Token? There aren't many just floating around.
-You interested in purchasing a Starter Token? There aren't many just floating around.
+Tem interesse em comprar uma Ficha Inicial? Não tem tantas dando sopa por aí.
 I'll give you one for the low, low price of $4000. How does that sound?
-I'll give you one for the low, low price of $4000. How does that sound?
+Te darei uma pela bagatela de $4000. O que acha?
 Nah, nah I get it. Not everyone wants the easy street.
-Nah, nah I get it. Not everyone wants the easy street.
+Não, não, eu entendo. Nem todo mundo quer pegar o caminho fácil.
 Take some time to think about where your hard earned cash goes, no?
-Take some time to think about where your hard earned cash goes, no?
+Reserve um tempo para pensar sobre onde gastar seu dinheiro suado, tá?
 Looking good, looking good. That's the cash I needed.
-Looking good, looking good. That's the cash I needed.
+Boa, boa. Essa é a grana que eu precisava.
 What were you looking to grab?
-What were you looking to grab?
+O que você tá querendo pegar?
 \PN hands over $4000.
-\PN hands over $4000.
+\PN entrega $4000.
 Fair enough. I wasn't planning on taking your cash and running anyways.
-Fair enough. I wasn't planning on taking your cash and running anyways.
+Justo. Eu não tava planejando pegar o seu dinheiro e sair correndo, de qualquer forma.
 One Fire Token, coming right up.
-One Fire Token, coming right up.
+Uma Ficha de Fogo, saindo agora mesmo.
 Use it well, friend.
-Use it well, friend.
+Use-a bem, colega.
 One Water Token, coming right up.
-One Water Token, coming right up.
+Uma Ficha de Água, saindo agora mesmo.
 One Grass Token, coming right up.
-One Grass Token, coming right up.
+Uma Ficha de Grama, saindo agora mesmo.
 Uhh, this isn't a charity. I don't scalp 'cause I enjoy the feeling.
-Uhh, this isn't a charity. I don't scalp 'cause I enjoy the feeling.
+Hãã, isto aqui não é uma caridade. Não pratico <i>scalping</i> por que eu gosto.
 You figured out which Starter Token you want?
-You figured out which Starter Token you want?
+Já decidiu qual Ficha Inicial vai querer?
 Sure, take all the time you need. I'm not going anywhere.
-Sure, take all the time you need. I'm not going anywhere.
+Claro, leve o tempo que precisar. Não vou a lugar algum.
 You nab one of those fancy starter Pokemon?
-You nab one of those fancy starter Pokemon?
+Você conseguiu um daqueles Pokémon iniciais chiques?
 Gonna flex to your friends with it?
-Gonna flex to your friends with it?
+Vai se exibir pros seus amigos com ele?
 Or are you one of those Trainers that care about, like, teambuilding or whatever?
-Or are you one of those Trainers that care about, like, teambuilding or whatever?
+Ou você é uma daquelas pessoas que só ligam para, tipo, construção de equipe ou sei lá?
 No.
-No.
+Não.
 Yes.
-Yes.
+Sim.
 Let me think.
-Let me think.
+Estou pensando.
 Fire Token.
-Fire Token.
+Ficha De Fogo.
 Water Token.
-Water Token.
+Ficha De Água.
 Grass Token.
-Grass Token.
+Ficha De Grama.
 Let me think some more.
-Let me think some more.
+Vou pensar mais um pouco.
 [Map244]
 [Map245]
 [Map246]
