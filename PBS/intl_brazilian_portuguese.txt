@@ -7838,9 +7838,9 @@ And we still haven’t finished our talk.
 Some loose paper displaying the LuxTech logo.
 Some loose paper displaying the LuxTech logo.
 Leaving through -- oh. You -- you’re looking for something down here.
-Leaving through -- oh. You -- you’re looking for something down here.
+Saindo por -- ah. Você -- você está procurando algo aqui embaixo.
 Come back and, uh, I’ll still be... around.
-Come back and, uh, I’ll still be... around.
+Volte aqui e, hã, ainda estarei... por perto.
 So you lead with \pfp, hmm?
 So you lead with \pfp, hmm?
 Tell me – would you tell me about them?
@@ -15076,201 +15076,201 @@ Feel cold to you?
 Feel cold to you?
 [Map212]
 Leaving through -- oh. You -- you’re looking for something down here.
-Leaving through -- oh. You -- you’re looking for something down here.
+Saindo por -- ah. Você -- você está procurando algo aqui embaixo.
 Come back and, uh, I’ll still be... around.
-Come back and, uh, I’ll still be... around.
+Volte aqui e, hã, ainda estarei... por perto.
 Down the stairs, \PN. See red or whatever it is you do.
-Down the stairs, \PN. See red or whatever it is you do.
+Descendo as escadas, \PN. Solta os lobos, ou seja lá o que for que você costuma fazer.
 ...
 ...
 The statue is motionless, yet you feel something, elsewhere, rumble.
-The statue is motionless, yet you feel something, elsewhere, rumble.
+A estátua está imóvel, mas, mesmo assim, você ouve, em outro lugar, um estrondo.
 You listen more closely, but there is nothing more. Silence.
-You listen more closely, but there is nothing more.  Silence.
+Você tenta ouvir mais de perto, mas não há mais nada. Silêncio.
 Samorn? Don’t worry about that bastard.
-Samorn? Don’t worry about that bastard.
+Samorn? Não se preocupe com aquela cretina.
 C’mon, let’s get you out of here. We can take care of this.
-C’mon, let’s get you out of here. We can take care of this.
+Vamos, vamos te tirar daqui. A gente dá conta disso.
 Go deal with the issue – you’re the better duelist. He’s down in the lower area causing havoc.
-Go deal with the issue – you’re the better duelist.  He’s down in the lower area causing havoc.
+Vai lá resolver a situação – entre nós dois, é você quem duela melhor. Ele está na parte de baixo, causando o maior estrago.
 You take care of that, I’ll help Samorn. Move it, Slowpoke.
-You take care of that, I’ll help Samorn. Move it, Slowpoke.
+Vai cuidar daquilo, vou ajudar a Samorn. Vai logo, Slowpoke.
 These ruins are old, but not as old as the mountain itself.
-These ruins are old, but not as old as the mountain itself.
+Estas ruínas são velhas, mas não tão velhas quuanto a própria montanha.
 Whoever they were, they must have dug extensive tunnels with pre-industrial technology.
-Whoever they were, they must have dug extensive tunnels with pre-industrial technology.
+Seja lá quem tenham sido, devem ter escavado túneis enormes com tecnologia pré-industrial
 Either that, or something powerful created an entire mountain on top of them.
-Either that, or something powerful created an entire mountain on top of them.
+Ou isso, ou algo muito poderoso criou toda uma montanha sobre eles.
 Oh, it’s you.
-Oh, it’s you.
+Ah, é você.
 As you might’ve heard, you’re too late.
-As you might’ve heard, you’re too late.
+Como deve ter ouvido, você chegou muito tarde.
 Again.
-Again.
+De novo.
 Our tasks are complete, and now we play the waiting game. But I’m… not patient.
-Our tasks are complete, and now we play the waiting game. But I’m… not patient.
+Nossas tarefas estão completas, e agora só precisamos esperar. Mas… não sou paciente.
 Look at these statues – monuments to monuments! Idiocy! They’re begging to be destroyed.
-Look at these statues – monuments to monuments!  Idiocy! They’re begging to be destroyed.
+Olhe para estas estátuas – monumentos a monumentos! Idiotia! Estão implorando para serem destruídas.
 Shh. If you won’t be a placid audience, you’ll be escorted out.
-Shh. If you won’t be a placid audience, you’ll be escorted out.
+Shh. Se você não for uma audiência tranquila, terão que te escoltar para fora.
 Testaments of an age.
-Testaments of an age.
+Testemunhos de uma época.
 Delicate as ever. Fine. Cease bothering me.
-Delicate as ever. Fine. Cease bothering me.
+Delicadeza admirável. Que seja. Pare de me incomodar.
 What’s the point of resisting, or creating? We’re going to pave it all over anyways.
-What’s the point of resisting, or creating? We’re going to pave it all over anyways.
+Qual o sentido de resistir, ou de criar? Tudo será coberto em asfalto, de qualquer maneira.
 And I don’t mean that philosophically. I will replace all of this with malleable white stone personally.
-And I don’t mean that philosophically. I will replace all of this with malleable white stone personally.
+E não digo isso filosoficamente. Vou transformar, pessoalmente, tudo isso em pedra branca maleável.
 A blank slate.
-A blank slate.
+Uma <i>tabula rasa</i>.
 Unlike Yezera, my perfect world is one in which human whim gets what it deserves.
-Unlike Yezera, my perfect world is one in which human whim gets what it deserves.
+Ao contrário da Yezera, meu mundo perfeito é aquele onde o capricho humano recebe o que merece.
 Speaking of which, you’ve yet to be crushed underfoot. Let’s fix that.
-Speaking of which, you’ve yet to be crushed underfoot. Let’s fix that.
+Falando nisso, ainda não te esmagaram como um inseto. Vamos mudar isso.
 …Well there goes Registeel. Hard to keep a hold of, those ones.
-…Well there goes Registeel. Hard to keep a hold of, those ones.
+…Bom, lá se vai Registeel. Difíceis de segurar, não é?
 What can I say? I’m… only human, after all.
-What can I say? I’m… only human, after all.
+O que eu posso dizer? Sou… apenas humano, no fim das contas.
 Fine. It can rust away in its tomb for all I care. It’s irrelevant now.
-Fine. It can rust away in its tomb for all I care. It’s irrelevant now.
+Que seja. Ele pode enferrujar em sua tumba, não me importo. Ele não tem mais relevância.
 I'm out of here.
-I'm out of here.
+Estou caindo fora.
 An item was left on the ground!
-An item was left on the ground!
+Um item foi deixado no chão!
 Hey.
-Hey.
+Ei.
 I, uh, heard everything when you fought that guy.
-I, uh, heard everything when you fought that guy.
+Eu, hã, ouvi tudo quando você batalhou contra aquele cara.
 Yeah, yeah. Just scraped up a little. Nothing a Heal Pulse can’t fix.
-Yeah, yeah. Just scraped up a little. Nothing a Heal Pulse can’t fix.
+Sim, sim. Só uns arranhões. Nada que um Pulso De Cura não possa resolver.
 Can’t tell if you’re being a sarcastic snot or not.
-Can’t tell if you’re being a sarcastic snot or not.
+Do jeito que você é babaca, não consigo dizer se você tá usando sarcasmo ou não.
 Doesn’t really matter. You’re welcome.
-Doesn’t really matter. You’re welcome.
+Não importa. De nada.
 Hey, listen, this’ll only take a minute.
-Hey, listen, this’ll only take a minute.
+Ei, escuta, isso só vai levar um minuto.
 I just wanted to tell you… hell, is that really how I sound?
-I just wanted to tell you… hell, is that really how I sound?
+Eu só queria te dizer… caramba, é daquele jeito que eu soo?
 Like that edgelord? Just another self-absorbed prick?
-Like that edgelord? Just another self-absorbed prick?
+Igual aquele cara, tentando ser todo "Rebelde", "Sombrio" e "Misterioso"? Só mais um canalha egocêntrico?
 Heh. You’re squirrellier than a Furret sometimes.
-Heh. You’re squirrellier than a Furret sometimes.
+Heh. Às vezes, eu acho que você é de uma chatice maior do que a de um Stunfisk.
 Ah, you don’t have to tell me. I know.
-Ah, you don’t have to tell me. I know.
+Ah, você não precisa me dizer. Eu sei.
 No sugarcoating it, huh?
-No sugarcoating it, huh?
+Nada de pegar leve, hein?
 Yeah. That’s fair.
-Yeah. That’s fair.
+É. Justo.
 You’re being polite even now? Or are you actually telling the truth?
-You’re being polite even now? Or are you actually telling the truth?
+Tá tentando ter educação, mesmo agora? Ou tá, realmente, dizendo a verdade?
 Listen, it really hurt admitting that you’re better than me back there. As a trainer, I mean.
-Listen, it really hurt admitting that you’re better than me back there. As a trainer, I mean.
+Escuta: realmente doeu ter que admitir que você é melhor do que eu naquela hora. Como alguém que treina Pokémon, quero dizer.
 But somebody had to fight and somebody had to get Samorn out, and I’m a lot of things but I’m not stupid.
-But somebody had to fight and somebody had to get Samorn out, and I’m a lot of things but I’m not stupid.
+Mas alguém tinha que lutar e alguém tinha que ajudar a Samorn a sair daqui, e eu posso ser muitas coisas, mas não sou estúpido.
 You’ve always been better. I knew it, Mom knew it, and you… I hope you know it.
-You’ve always been better. I knew it, Mom knew it, and you… I hope you know it.
+Você sempre foi melhor. Eu sempre soube, Mamãe sempre soube, e você… espero que você saiba.
 This entire competition was stupid. Mom knew you’d win.
-This entire competition was stupid. Mom knew you’d win.
+Toda essa competição foi idiotice. Mamãe sabia que você ganharia.
 This was just a scheme so she could finally prove you’re better than me.
-This was just a scheme so she could finally prove you’re better than me.
+Isso tudo foi uma armação para ela provar de vez que você é melhor do que eu.
 …Yeah.
-…Yeah.
+…É.
 You know Mavis as well as I do.
-You know Mavis as well as I do.
+Você conhece a Mavis tão bem quanto eu conheço.
 I mean, yeah, makes sense. She wants an heir to the company… to the legacy… you fit.
-I mean, yeah, makes sense. She wants an heir to the company… to the legacy… you fit.
+Quer dizer, é, faz sentido. Ela quer alguém para herdar a companhia… o legado dela… você se encaixa.
 You know it is. Mavis is just as cutthroat as Helena – hell, maybe more.
-You know it is. Mavis is just as cutthroat as Helena – hell, maybe more.
+Você sabe que é. A Mavis é tão rigorosa quanto a Helena – céus, talvez mais.
 You think a normal mom would encourage her kids to have a showdown a continent away?
-You think a normal mom would encourage her kids to have a showdown a continent away?
+Você acha que uma mãe comum encorajaria seus filhos a ter um confronto em outro continente?
 Hah!
 Hah!
 It’s just that easy for you, huh?
-It’s just that easy for you, huh?
+É fácil assim para você, não é?
 You’re right, of course. Just took me a lot more mulling it over to get to that point.
-You’re right, of course. Just took me a lot more mulling it over to get to that point.
+Você tem razão, é óbvio. Só tive que refletir bastante sobre o assunto para chegar nessa conclusão.
 I’m calling this whole thing off. It’s stupid and I’m not playing that game anymore.
-I’m calling this whole thing off. It’s stupid and I’m not playing that game anymore.
+Vou abrir mão dessa coisa toda. É simplesmente idiota, e eu não vou mais jogar esse joguinho.
 I’m going to collect my badges, do my best in the Championship, and then I’m leaving.
-I’m going to collect my badges, do my best in the Championship, and then I’m leaving.
+Vou coletar minhas insígnias, dar o meu melhor no Campeonato e, depois, vou embora.
 You can tell Mavis whatever you want. She’ll offer you a job at her side.
-You can tell Mavis whatever you want. She’ll offer you a job at her side.
+Você pode dizer o que quiser pra Mavis. Ela vai te oferecer um trabalho ao lado dela.
 Take it or leave it, your choice. But I’m out.
-Take it or leave it, your choice. But I’m out.
+Pegar ou largar, sua escolha. Mas eu tô fora.
 Thanks. Gonna need it, honestly.
-Thanks. Gonna need it, honestly.
+Obrigado. Vou precisar, sinceramente.
 Yeah. Sure as anything.
-Yeah. Sure as anything.
+Sim. Toda a certeza do mundo.
 Ha. Maybe, yeah.
-Ha. Maybe, yeah.
+Ha. Talvez, é.
 But I’d rather be called a yellow-bellied spoilt rich kid than Mavis’s second-favorite.
-But I’d rather be called a yellow-bellied spoilt rich kid than Mavis’s second-favorite.
+Mas eu prefiro ser chamado de "riquinho mimado covarde" do que de "segundo favorito da Mavis".
 Gonna be honest: don’t really care. Like I said, you do what you want.
-Gonna be honest: don’t really care. Like I said, you do what you want.
+Vou ser sincero: eu não dou a mínima. Como eu disse, você pode fazer o que bem entender.
 But, yeah, I’ve been thinking about this for a while, and that whole debacle back there with Samorn… I’m out.
-But, yeah, I’ve been thinking about this for a while, and that whole debacle back there with Samorn… I’m out.
+Mas, é, estive pensando a respeito já faz algum tempo, e com toda aquela confusão que rolou com a Samorn… tô fora.
 I’m not gonna do the whole edgy trainer pushing as hard as possible shtick.
-I’m not gonna do the whole edgy trainer pushing as hard as possible shtick.
+Não vou fazer esse papel de "treinador dedicado se esforçando até o limite".
 I do really hate you sometimes, but that’s siblings for you.
-I do really hate you sometimes, but that’s siblings for you.
+Eu realmente te odeio às vezes, mas isso faz parte de ser irmão de alguém.
 Had a Hymnus to try out against you, too. Shame.
-Had a Hymnus to try out against you, too. Shame.
+Eu até tinha uma Hymnus para testar contra você. Que pena.
 …Bye, \PN. I’ll see you around. Good luck… saving the world, or whatever you’re doing.
-…Bye, \PN. I’ll see you around. Good luck… saving the world, or whatever you’re doing.
+…Até mais, \PN. Te vejo por aí. Boa sorte… salvando o mundo, ou sei lá o que que você anda fazendo.
 Samorn’s Flygon is flitting anxiously, stirring up dust.
-Samorn’s Flygon is flitting anxiously, stirring up dust.
+O Flygon da Samorn paira ansiosamente, levantando poeira.
 Wheewie, this whole Regigigas thing-y going on here is a whole kerfluffle and a half!
-Wheewie, this whole Regigigas thing-y going on here is a whole kerfluffle and a half!
+Eeeeita, essa coisera toda di Regigigas qui tá aconteceno aqui é uma bagunça i tanto!
 Whatever's behind this, I'm sure it's booo-ring! Imma go grab a beer and watch some pro wrestling.
-Whatever's behind this, I'm sure it's booo-ring! Imma go grab a beer and watch some pro wrestling.
+Seja lá o que tivé causano isso tudo, deve di sê chaaaaaaaaaaaaato dimais da conta! Vô comprá umas breja i assistí uma novelinha qui eu ganho mais.
 Sheezy, ain't you a little battlin' freak! Would've ran me and my squad broke in the ol' days.
-Sheezy, ain't you a little battlin' freak! Would've ran me and my squad broke in the ol' days.
+Nóssinhora, ocê é uma máquina di bataiá! Tu teria feit'eu i a minha equipe ficá sem um tostão no borso si fosse antigamente.
 Regi this, Regi that. How about some of these folk Regidrago touch some grass?
-Regi this, Regi that. How about some of these folk Regidrago touch some grass?
+Regi isso, Regi aquilo. Esses caba da peste divia intentá procurá um trabaio <i>Regi</i>strado, isso sim.
 I still remember seeing these statues for the first time.
-I still remember seeing these statues for the first time.
+Ainda lembro da primeira vez que vi estas estátuas.
 The mystery they present, the implications it has for Makyan history...
-The mystery they present, the implications it has for Makyan history...
+O mistério que elas trazem consigo, as implicações que elas têm para a história Makiense...
 I couldn't bring myself to leave, even when the Team disbanded.
-I couldn't bring myself to leave, even when the Team disbanded.
+Não consegui me forçar a ir embora, mesmo quando a Equipe foi dissolvida.
 Ow! Oh, don’t you worry. I’m only bruised.
-Ow! Oh, don’t you worry. I’m only bruised.
+Ai! Ah, não se preocupe. Não estou muito ferida.
 Is that the badge my grandma gives out? That means you beat her right?
-Is that the badge my grandma gives out? That means you beat her right?
+Essa é a insígnia que minha vovó entrega? Isso significa que você derrotou ela, né?
 That's hype! When I get better, I'm gonna find you for a rematch.
-That's hype! When I get better, I'm gonna find you for a rematch.
+Isso é tão legal! Quando eu ficar melhor, vou te procurar para uma revanche.
 If I'm gonna inherit the Gym one day, I'll have to be able to give Trainers like you a run for their money.
-If I'm gonna inherit the Gym one day, I'll have to be able to give Trainers like you a run for their money.
+Vou herdar o ginásio algum dia, vou ter que aprender a dar trabalho para pessoas que treinam Pokémon como você.
 What tasks?
-What tasks?
+Que tarefas?
 Monuments?
-Monuments?
+Monumentos?
 Shut up.
-Shut up.
+Cala a boca.
 Samorn OK?
-Samorn OK?
+Samorn está bem?
 Thanks for the help.
-Thanks for the help.
+Valeu pela ajuda.
 Can I go?
-Can I go?
+Posso ir embora?
 Sometimes.
-Sometimes.
+Às vezes.
 Yeah.
-Yeah.
+É.
 No.
-No.
+Não.
 That's not true.
-That's not true.
+Não é verdade.
 Then stop it.
-Then stop it.
+Então desiste.
 Good luck.
-Good luck.
+Boa sorte.
 You sure?
-You sure?
+Tem certeza?
 Coward.
-Coward.
+Covarde.
 I'm with you.
-I'm with you.
+Tô contigo.
 [Map213]
 Slick Ick
 Escorregadio e Nojento
@@ -34359,7 +34359,7 @@ Guard Split
 Healing Wish
 Healing Wish
 Heal Pulse
-Heal Pulse
+Pulso De Cura
 Heart Stamp
 Heart Stamp
 Heart Swap
