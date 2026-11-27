@@ -2330,10 +2330,10 @@ Let's.
 Vamos.
 [Map22]
 [Map23]
-I see you! I CAN be stink bombed or fooled with stealth spray.
-I see you! I CAN be stink bombed or fooled with stealth spray.
 Dialogue here.
 Dialogue here.
+\ml[TestImage]I see you! I CAN be stink bombed or fooled with stealth spray.
+\ml[TestImage]I see you! I CAN be stink bombed or fooled with stealth spray.
 I see you! I CANNOT be stink bombed or fooled with stealth spray.
 I see you! I CANNOT be stink bombed or fooled with stealth spray.
 Your Pokemon are now healed.
@@ -19592,7 +19592,7 @@ Também te bate um nervosismo antes de enfrentar líderes de ginásio?
 I do – get nervous before facing a challenger, that is. I don’t want to disappoint.
 No meu caso, sim – quer dizer, fico nervosa quando vou enfrentar desafiantes. Não gosto de desapontar.
 I guess I shouldn’t worry. I’m called the Dreadnaught for a reason.
-Suponho que não devo me preocupar. Sou chamada de A Temível por um motivo. 
+Suponho que não devo me preocupar. Sou chamada de A Temível por um motivo.
 Are you in less of a rush than I thought? If so, feel free to stick around.
 Você está com menos pressa do que imaginei? Se for o caso, fique à vontade para ficar por aqui.
 I should’ve known.
@@ -19674,7 +19674,7 @@ O Sítio Arqueológico Das Ruínas, que fica próximo ao QG Da Equipe Chasm, con
 They are estimated to be <imp>3000 years old</imp>!
 Estima-se que elas têm <imp>3000 anos de idade</imp>!
 They surround statues of the <imp>legendary golems</imp>: Regice, Regirock, Registeel, Regidrago, and Regieleki!
-Elas cercam as estátuas dos <imp>golens lendários</imp>: Regice, Regirock, Registeel, Regidrago e Regieleki! 
+Elas cercam as estátuas dos <imp>golens lendários</imp>: Regice, Regirock, Registeel, Regidrago e Regieleki!
 <imp>Question for Kids</imp>: If you made a statue of a person or Pokemon, who would you pick?
 <imp>Pergunta pras crianças</imp>: Se vocês fossem fazer uma estátua de uma pessoa ou Pokémon, de quem seria?
 I have to protect these relics from ruffians like you!
@@ -21555,7 +21555,7 @@ Melhor não olhar muito de perto.
 Um. Could you not violate our privacy like that?
 Hã. Será que dá para você NÃO violar a nossa privacidade desse jeito?
 Living here is already deprived enough without strangers staring at our belongings.
-Viver aqui já é insalubre o suficiente sem ter gente estranha bisbilhotando nossos pertences. 
+Viver aqui já é insalubre o suficiente sem ter gente estranha bisbilhotando nossos pertences.
 Fossil records show that Pokemon in ancient times were significantly more powerful than they are today.
 Registros de fósseis mostram que Pokémon em tempos ancestrais eram significantemente mais poderosos do que são hoje.
 Larger bones, unique organ structures, and even redundant organ systems.
@@ -34914,6 +34914,8 @@ Rumble
 Rumble
 Sandblasting
 Sandblasting
+Sand Surge
+Sand Surge
 Sand Toss
 Sand Toss
 Seismic Wave
@@ -34928,8 +34930,6 @@ Stamp Down
 Stamp Down
 Tail Slam
 Tail Slam
-Terraslide
-Terraslide
 Trample
 Atropelar
 Tread On
@@ -37495,6 +37495,8 @@ The user causes the earth to rumble, striking every Pokémon around it and under
 The user causes the earth to rumble, striking every Pokémon around it and underground.
 The user blasts the target with highly pressurized sand. Can random critical hit.
 The user blasts the target with highly pressurized sand. Can random critical hit.
+The user crashes into foes on a wave of hot sand. Can't miss in sandstorm. It has a 30% chance to burn.
+The user crashes into foes on a wave of hot sand. Can't miss in sandstorm. It has a 30% chance to burn.
 The user tosses hot desert sand on the target. It has a 10% chance to burn.
 The user tosses hot desert sand on the target. It has a 10% chance to burn.
 The user attacks with a tectonic vibration. It also breaks any screens protecting the target's side.
@@ -37509,8 +37511,6 @@ The user attacks by flattening the target into the ground. This resets the targe
 The user attacks by flattening the target into the ground. This resets the target's positive stat changes.
 The user slams the earth with its tail, creating a shockwave to damage the target. It has a 40% chance to lower Attack.
 The user slams the earth with its tail, creating a shockwave to damage the target. It has a 40% chance to lower Attack.
-The user charges, then attacks on the second turn. Charges instantly in sandstorm.
-The user charges, then attacks on the second turn. Charges instantly in sandstorm.
 The user tramples the target. It has a 20% chance to lower the target's Speed.
 The user tramples the target. It has a 20% chance to lower the target's Speed.
 The user attacks the opposing Pokémon by trampling it. It has a 20% chance to lower Speed.
@@ -37961,8 +37961,8 @@ The target is crushed in the user's shell, mouth, or claws, trapping and binding
 The target is crushed in the user's shell, mouth, or claws, trapping and binding it for three turns.
 The user rams the target while splashing up a lot of water. This has a 30% chance to waterlog.
 The user rams the target while splashing up a lot of water. This has a 30% chance to waterlog.
-The target gets covered in sticky spines, waterlogging it and losing 1/8th of their current HP.
-The target gets covered in sticky spines, waterlogging it and losing 1/8th of their current HP.
+The target gets covered in sticky spines, waterlogging it and losing 1/8th of their max HP.
+The target gets covered in sticky spines, waterlogging it and losing 1/8th of their max HP.
 The user wields tidal power to grab at the target. This has a 10% chance to waterlog.
 The user wields tidal power to grab at the target. This has a 10% chance to waterlog.
 The user uses a jet of water like a sword and attacks by slashing. Can random critical hit.
@@ -64730,6 +64730,30 @@ Unable to start triple battle without 3 able Pokemon.
 Unable to start triple battle without 3 able Pokemon.
 But it failed, since {1} can't have its stats modified!
 But it failed, since {1} can't have its stats modified!
+Which battle?
+Which battle?
+A battle with that name already exists.
+A battle with that name already exists.
+Are you sure? This action is permanent.
+Are you sure? This action is permanent.
+Aggression value {1} is not legal for the Avatar defined in PBS/avatars.txt section {2}.
+Aggression value {1} is not legal for the Avatar defined in PBS/avatars.txt section {2}.
+WARNING: When trying to contruct trainer #{@id} as an extension of trainer #{parentTrainer.id}, the resultant party is larger than the maximum party size!
+WARNING: When trying to contruct trainer #{@id} as an extension of trainer #{parentTrainer.id}, the resultant party is larger than the maximum party size!
+by using {1}
+by using {1}
+by using {1} if it's male
+by using {1} if it's male
+by using {1} if it's female
+by using {1} if it's female
+when traded holding {1}
+when traded holding {1}
+at level {1} if you spend {2}
+at level {1} if you spend {2}
+an {1}
+an {1}
+a {1}
+a {1}
 [27]
 0
 Animated
